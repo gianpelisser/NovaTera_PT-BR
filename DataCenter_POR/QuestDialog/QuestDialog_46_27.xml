@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="46" id="27" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="246" id="100" prevId="0" villagerId="1028">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="246" id="2" prevId="0" villagerId="1028">
+         
+        <Page social="4">Os argonss estavam tramando algo aqui em Raga Shadi - eu sei disso. &lt;BR&gt;&lt;BR&gt;Não há muitas pistas, no entanto. Apenas a pele grossa e queratinizada de {@LinkCreature:46#303#argonomorph blood fiends}. É uma tarefa terrível, mas você poderia reunir um pouco de pele "fresca" para que eu possa comparar com as amostras "antigas" que tenho?</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="3" prevId="2" villagerId="1028">
+         
+        <Page social="4">Agora posso usar as habilidades de taxidermia que meu tio me ensinou. Não foi exatamente assim que pensei em usar essa habilidade.&lt;BR&gt;&lt;BR&gt;Raga Evala precisa mais de sua ajuda do que eu aqui... a menos que você tenha sido taxidermista antes da guerra? Não? Achei que não. &lt;BR&gt;&lt;BR&gt;Leve isto para eles. É uma simples flor silvestre que foi argonizada. Assustadora, mas bastante interessante.</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="4" villagerId="1028">
+         
+        <Page social="0">Por favor, traga-me a pele queratinizada dos demônios de sangue argonomorfos. É para pesquisa, não para troféus.</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="5" prevId="3" villagerId="1029">
+         
+        <Page social="4">Você tem uma flor silvestre argonizada intacta? Até agora, encontramos apenas fragmentos.&lt;BR&gt;&lt;BR&gt;Os argonss são claramente capazes de transformar a vegetação de uma região inteira, mas não sabemos como eles fazem isso, muito menos como impedir.</Page>
+    
+    </Text>
+</QuestDialog>

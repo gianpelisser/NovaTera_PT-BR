@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="8" id="92" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="61" id="100" prevId="0" villagerId="1013">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="61" id="2" prevId="0" villagerId="1013">
+         
+        <Page social="4">Mission Orders&lt;BR&gt;&lt;BR&gt;Eliminate the {@LinkCreature:8#2011#armored hyenas}, {@LinkCreature:8#2021#caiman mercenaries}, {@LinkCreature:8#2031#gula slavers} and {@LinkCreature:8#2041#taskmasters}, {@LinkCreature:8#2042#caiman guards}, {@LinkCreature:8#2051#devan acolytes}, and {@LinkCreature:8#2061#auric imps}.&lt;BR&gt;&lt;BR&gt;Report to Narisa at the Avenger Outpost when mission is complete.</Page>
+    
+    </Text>
+    <Text huntingZoneId="208" id="3" prevId="2" villagerId="1003">
+         
+        <Page social="4">Oh, good, another completed mission order. I love when people bring these to me.&lt;BR&gt;&lt;BR&gt;This is for your trouble.</Page>
+    
+    </Text>
+    <Text huntingZoneId="208" id="4" villagerId="1003">
+         
+        <Page social="0">You don't seem to understand how this mission order thing works. You go out and do what it says. Only then do you get a reward.</Page>
+    
+    </Text>
+</QuestDialog>

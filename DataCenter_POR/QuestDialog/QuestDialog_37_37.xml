@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="37" id="37" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="237" id="100" prevId="0" villagerId="1037">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="237" id="2" prevId="0" villagerId="1037">
+         
+        <Page social="6">Os Argons estão ganhando o controle da Cripta dos Malditos, até mesmo mudando o ambiente para atender às suas necessidades.&lt;BR&gt;&lt;BR&gt;Aqui e ali, por toda a caverna, vi baús que eles deixaram para trás. Quem sabe o que há neles? Talvez algo que nos ajude a quebrar o controle deles.&lt;BR&gt;&lt;BR&gt;Encontre-os e traga-os para mim.</Page>
+    
+    </Text>
+    <Text huntingZoneId="237" id="3" prevId="2" villagerId="1037">
+         
+        <Page social="7">Impressionante.&lt;BR&gt;&lt;BR&gt;Pode ser que aprendamos algo que diminua um pouco a velocidade dos argonss.</Page>
+    
+    </Text>
+    <Text huntingZoneId="237" id="4" villagerId="1037">
+         
+        <Page social="0">Ainda preciso desses baús.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="29" id="25" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="229" id="100" prevId="0" villagerId="1006">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="229" id="2" prevId="0" villagerId="1006">
+         
+        <Page social="5">Why can't we stabilize this region? If it's not one thing, it's another!&lt;BR&gt;&lt;BR&gt;Now our supplies aren't getting through to the outpost. The bloody fangspawns are eating them. I want you to fight your way east, clear out the {@LinkCreature:29#1051#hellmouth fangspawns} and link up with the other force. Check in on my scout along the way.&lt;BR&gt;&lt;BR&gt;Work quickly and do what you can to shore up Leshal's position.</Page>
+    
+    </Text>
+    <Text huntingZoneId="229" id="3" prevId="2" villagerId="1028">
+         
+        <Page social="5">Pleased to meet you! I've kept an eye out in case Isobel managed to send us any reinforcements. Speaking of which, where are our supplies?&lt;BR&gt;&lt;BR&gt;Fangspawns ate 'em, huh? Typical.&lt;BR&gt;&lt;BR&gt;This whole deployment's as squared away as a soup sandwich. Well, Centurion Leshal's probably anxious to speak with you.</Page>
+    
+    </Text>
+    <Text huntingZoneId="229" id="4" prevId="3" villagerId="1008">
+         
+        <Page social="5">Isobel's intentions are sterling but her inexperience is a clear liability. She's a fine soldier but is a follower, not a leader.&lt;BR&gt;&lt;BR&gt;Still, dealing with those fangspawns is a great help. The fauna in this region are generally more aggressive than elsewhere, yet no one knows why. Perhaps we can put you to use and uncover the mystery.</Page>
+    
+    </Text>
+</QuestDialog>

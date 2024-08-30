@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="40" id="43" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="240" id="100" prevId="0" villagerId="1004">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="240" id="2" prevId="0" villagerId="1004">
+         
+        <Page social="4">Have you seen the {@LinkCreature:40#33#zompori miners} that work for the Legion of Thulsa? What happened to them? Do you think the ore they're digging could be affecting the miners?&lt;BR&gt;&lt;BR&gt;Are you willing to help me find out? You may have to kill some of them to find samples of the ore.</Page>
+    
+    </Text>
+    <Text huntingZoneId="240" id="3" prevId="2" villagerId="1004">
+         
+        <Page social="4">I'll give these to the Mysterium experts to analyze. Between you and me, I don't want to handle them any longer than I have to.</Page>
+    
+    </Text>
+    <Text huntingZoneId="240" id="4" villagerId="1004">
+         
+        <Page social="0">I'm just a centurion, but I can put two and two together and get mines plus magic stones. Did you find any of those minerals yet?</Page>
+    
+    </Text>
+</QuestDialog>

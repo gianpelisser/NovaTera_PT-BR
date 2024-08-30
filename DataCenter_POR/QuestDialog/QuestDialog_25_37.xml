@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="25" id="37" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="225" id="100" prevId="0" villagerId="1028">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="225" id="2" prevId="0" villagerId="1028">
+         
+        <Page social="4">Isso não é bem conhecido, mas vários de nossos oficiais parecem muito intrigados com os cultistas. Samael não foi o único que desapareceu no ar durante a campanha contra eles.&lt;BR&gt;&lt;BR&gt;Estou procurando um voluntário para recolher seus pertences.&lt;NEXTPAGEBUTTON&gt;"Para devolver às famílias?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Depois de passarmos por eles. A maioria deles será destruída e anunciaremos suas mortes de uma fonte mais honrosa. A federação não pode se dar ao luxo de ser ligada a cultistas. Você pode obter os nomes dos outros traidores com Madragath. Ele lhe dirá quais coisas precisam ser reunidas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="3" prevId="2" villagerId="1002">
+         
+        <Page social="4">Se está tentando me assustar, terá de fazer melhor. Já vi coisas terríveis.&lt;BR&gt;&lt;BR&gt;Os oficiais sempre se reuniam no Cofre dos Túmulos. Os pobres tolos pensavam que não seriam abandonados, mas todos são dispensáveis para Akia e Terkasia.</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="4" prevId="3" villagerId="1025">
+         
+        <Page social="4">(Este anel está impresso com o emblema da Federação Valkyon. "Secretário" é a única palavra legível na inscrição).</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="5" prevId="3" villagerId="1030">
+         
+        <Page social="4">(Esses pedaços de papel parecem ser de documentos confidenciais).</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="6" prevId="3" villagerId="1026">
+         
+        <Page social="4">(Esta é a insígnia do Corpo de Contrainteligência. Talvez seus membros estivessem se escondendo aqui para evitar a prisão).</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="7" prevId="4" villagerId="1028">
+         
+        <Page social="4">Não preciso lhe pedir para manter isso em segredo, preciso? A traição de Samael deixou todo o exército nervoso, e o quartel-general não quer que isso se torne público. Assim que eu destruir essa prova, tudo se resolverá.&lt;BR&gt;&lt;BR&gt;Só preciso esperar por novas ordens. Você deve voltar para Rendalf e ver se ele tem mais alguma coisa para você fazer.</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="8" prevId="7" villagerId="1027">
+         
+        <Page social="4">Você está de volta. Sinto muito por ter pedido sua ajuda naquela missão. Tenho certeza de que não foi fácil.</Page>
+    
+    </Text>
+</QuestDialog>

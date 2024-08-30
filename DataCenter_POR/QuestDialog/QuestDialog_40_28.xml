@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="40" id="28" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="240" id="100" prevId="0" villagerId="1012">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="240" id="2" prevId="0" villagerId="1012">
+         
+        <Page social="4">Esse livro de registro deve ir para {@LinkCreature:241#1025$$Grunath} na Estação de Feral Valley. Ele é o prefeito de lá, então ele deve saber o que fazer com ele.&lt;BR&gt;&lt;BR&gt;Vocês arriscaram suas vidas por nós. Obrigado, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="241" id="3" prevId="2" villagerId="1025">
+         
+        <Page social="4">Parece que os ladrões selvaras estão raptando pessoas e vendendo-as para a Legião de Thulsa.&lt;BR&gt;&lt;BR&gt;É a legião que devemos vigiar de perto a partir de agora.</Page>
+    
+    </Text>
+</QuestDialog>

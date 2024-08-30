@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="7" id="2" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="207" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0">The Mysterium sought your help to foil the research the Scions of Lok were conducting. You found references to an ancient fountain, but stopped the Scions' leader—Tezluar—before they could finish what they were doing. Unfortunately, the Scions reacted forcefully and launched a massive assault on the Sanctum Mysterium. You protected Mattin as he brought magical shields to bear and saved the sanctum.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="4">We're in a race with the Scions of Lok to uncover the ancient secrets in the Cardovek Remnants. Sadly, they've got a head start on us.&lt;BR&gt;&lt;BR&gt;The Celestial Hills were important to many of the gods, and the Scions might well be looking for something related. Certainly the omphaloses on the plains are divine in origin.&lt;BR&gt;&lt;BR&gt;Go see Padraig, one of our scholars near the remnants.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="3" prevId="2" villagerId="1044">
+         
+        <Page social="4">Aye, they're up to something, but I'm not sure what. They've got some papers, but they're all encoded—and they're divided into parts.&lt;BR&gt;&lt;BR&gt;If you could put together a whole document, I might be able to make sense of it. The {@LinkCreature:7#14#Lokian sorcerers} are your best bet for finding a complete copy of the pages.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="4" prevId="3" villagerId="1044">
+         
+        <Page social="4">Blast it all!&lt;BR&gt;&lt;BR&gt;The documents are fine, but they're in code. I've seen the {@LinkCreature:7#13#Lokian berserkers} reading the cryptographs—so they have to have some way of decoding it.&lt;BR&gt;&lt;BR&gt;Find a berserker and see if it has something we can use to decipher the text. We must learn what they're up to.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="5" prevId="4" villagerId="1044">
+         
+        <Page social="4">Do you have everything?&lt;BR&gt;&lt;BR&gt;All the cryptographs and a decryption device?We can learn nothing without them.&lt;BR&gt;&lt;BR&gt;Did you decrypt the messages?</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="6" prevId="4" villagerId="1044">
+         
+        <Page social="0">You lost it?&lt;BR&gt;&lt;BR&gt;Now what am I gonna do? Oh! Wait a minute, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="7" prevId="4" villagerId="1044">
+         
+        <Page social="0">Come on, I want to see the ENTIRE decrypted message.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="8" prevId="5" villagerId="1044">
+         
+        <Page social="4">Someone gave me this a while back but I didn't realize at the time...&lt;BR&gt;&lt;BR&gt;You must be the luckiest &lt;PCClass:lcase&gt; I've ever met. Is this the decoder you lost? Here! Take it and get to the decoding.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="9" prevId="5" villagerId="1044">
+         
+        <Page social="4">That flaming naga spoor {@LinkCreature:7#102#Tezluar}! He's behind this! He's looking for some fountain—looks like Akasha was after it once upon a time.&lt;BR&gt;&lt;BR&gt;They don't have a clue where it is right now and with a little help from you, they need never find it.&lt;BR&gt;&lt;BR&gt;Kill Tezluar and deal these Scion fools a real setback.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="10" villagerId="1044">
+         
+        <Page social="0">The {@LinkCreature:7#13#Lokian berserkers} must have some way to read the cryptographs. They don't have enough brains to do it themselves!</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="11" prevId="9" villagerId="1044">
+         
+        <Page social="4">Well done, my friend! Hurry back to Mattin and deliver the good news!</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="12" prevId="11" villagerId="1001">
+         
+        <Page social="4">The Scions of Lok appear to be sore losers. They're massing for an attack. Our shield can repel them—if we can get it raised in time.&lt;BR&gt;&lt;BR&gt;Keep our foes at bay until the defenses are active!</Page>
+    
+    </Text>
+    <Text huntingZoneId="419" id="13" prevId="12" villagerId="99">
+         
+        <Page social="4">Courage and skill protected the secrets and knowledge we've uncovered. For that, we are very grateful.&lt;BR&gt;&lt;BR&gt;The Celestial Hills have many secrets, some we are not yet ready to discover, and others, perhaps, were never meant for us to know. Together, we've kept them safe.&lt;BR&gt;&lt;BR&gt;Go with our thanks.</Page>
+    
+    </Text>
+</QuestDialog>

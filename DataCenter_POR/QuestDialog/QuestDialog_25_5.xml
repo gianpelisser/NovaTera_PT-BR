@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="25" id="5" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">Depois de aniquilar os crentes de Lok, você retornou a Velika.&lt;BR&gt;&lt;BR&gt;O Comandante Seir organizou uma cerimônia para comemorar suas conquistas, e Elleon o cumprimentou por ter desempenhado um papel fundamental na derrubada dos Herdeiros de Lok.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">Ordens da Missão&lt;BR&gt;&lt;BR&gt;Apresentar-se a Baruch em Tulufan quando as circunstâncias permitirem.</Page>
+    
+    </Text>
+    <Text huntingZoneId="66" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="4">Aí está você! Fico feliz em ver que conseguiu voltar.&lt;BR&gt;&lt;BR&gt;Velika planejou um evento para comemorar a derrota dos Scions of Lok! Eles querem você lá imediatamente. Troius estará esperando por você na plataforma dos pégasos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="4" prevId="3" villagerId="1107">
+         
+        <Page social="4">&lt;PCNAME&gt;, ouvi falar de como você ajudou Elleon. Excelente trabalho! &lt;BR&gt;&lt;BR&gt;Você tem que dizer a Uriela que está aqui. Ela queria falar com você.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="5" prevId="4" villagerId="1101">
+         
+        <Page social="4">&lt;PCNAME&gt;! Todos estão falando sobre sua bravura e heroísmo hoje! &lt;BR&gt;&lt;BR&gt;O Comandante Seir está esperando por você lá dentro.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="6" prevId="5" villagerId="1102">
+         
+        <Page social="4">Você fez um ótimo trabalho, &lt;PCNAME&gt;! Derrubar os Scions of Lok - mais uma vez - não é pouca coisa.&lt;BR&gt;&lt;BR&gt;Temos orgulho de tê-lo em nossas fileiras. Você é um crédito para o serviço e para toda a federação! &lt;BR&gt;&lt;BR&gt;Elleon também está procurando por você. Não o deixe esperando.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="7" prevId="6" villagerId="1169">
+         
+        <Page social="4">É difícil castigar um herói por chegar atrasado à sua própria comemoração, embora estejamos pensando em maneiras de tentar! Não vamos deixar Seir esperando por mais tempo. Ele adora esse tipo de coisa.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="8" prevId="7" villagerId="1169">
+         
+        <Page social="4">Sua coragem ajudou a desmascarar o traidor Samael, os insidiosos Scions of Lok e não uma, mas duas ameaças de matar Velik.&lt;BR&gt;&lt;BR&gt;A Federação Valkyon ainda está em perigo - nosso trabalho nunca termina, mas com aliados como você, podemos sonhar com um futuro melhor.&lt;BR&gt;&lt;BR&gt;Foi uma tremenda honra trabalhar com você, &lt;PCNAME&gt;. Como sempre, nós nos lembraremos.</Page>
+    
+    </Text>
+</QuestDialog>

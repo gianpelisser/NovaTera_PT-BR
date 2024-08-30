@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="61" id="100" prevId="0" villagerId="1105">
+         
+        <Page social="0">Determinada a resgatar Serion - que contém o Núcleo dos Elfos Nobres dentro de si -, Fraya enviou você para Fyrmount. Com a ajuda de Elleon e Jelena, você derrotou Akasha. Mas, no processo, Serion foi mortalmente ferido, colocando o Núcleo em risco.</Page>
+    
+    </Text>
+    <Text huntingZoneId="61" id="2" prevId="0" villagerId="1105">
+         
+        <Page social="5">Recuperar o Núcleo é fundamental. Sem ele, Allemantheia entrará em colapso, engolida pelas areias do deserto.&lt;BR&gt;&lt;BR&gt;Isso deve terminar em Fyrmount. Vamos derrubar Thulsa... e vingar Kaidun.&lt;NEXTPAGEBUTTON&gt;"Estou a caminho."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Eu sabia que você iria querer levar isso até o fim, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Mas não vou mandá-lo sozinho. Fale com Elleon e lhe diga que ele também tem uma missão.</Page>
+    
+    </Text>
+    <Text huntingZoneId="61" id="3" prevId="2" villagerId="1104">
+         
+        <Page social="5">Mais uma vez na brecha, hein?&lt;BR&gt;&lt;BR&gt;Eu sempre quis ver Fyrmount por mim mesmo. Eu sou bem viajado, mas Fyrmount... isso é outra coisa.&lt;BR&gt;&lt;BR&gt;Por falar em bem viajado, Jelena pode ser uma companheira de viagem digna também. Eu a encontrarei, mas não deixe que eu o retenha. Posso alcançá-la... ou esperar por você quando chegar lá.</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="4" prevId="3" villagerId="1001">
+         
+        <Page social="5">Desculpe-me...&lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;Mensagem de Elleon. Apenas para seus ouvidos.&lt;BR&gt;&lt;BR&gt;Ele foi à frente para fazer um reconhecimento preliminar. Ele se encontrará com você em {@LinkCreature:204#1101#Firebase Valor}.</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="5" prevId="4" villagerId="1101">
+         
+        <Page social="5">Como cheguei aqui tão rápido? Sempre viaje com pouca bagagem, meu amigo.&lt;BR&gt;&lt;BR&gt;Tenho boas notícias. A Jelena não só está acompanhando a viagem, como também já tem uma pista sobre o Akasha.&lt;BR&gt;&lt;BR&gt;O Akasha foi visto perto de Bahaar's Maw, no leste. Mas tome cuidado - esse é um território perigoso.</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="6" prevId="5" villagerId="1102">
+         
+        <Page social="5">Nós nos encontramos novamente, &lt;PCNAME&gt;-mais uma vez no meio do nada. Por que nunca nos encontramos para beber? &lt;BR&gt;&lt;BR&gt;Não importa. Os capangas de Akasha estão rastejando por aí, mas não há sinal da própria Akasha...&lt;NEXTPAGEBUTTON&gt;"Pegue um capanga, então?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Para interrogatório, certo? Boa escolha.&lt;BR&gt;&lt;BR&gt;Vocês estão indo atrás de {@LinkCreature:4#7012#Jirakar} na Bocarra de Bahaar, a leste daqui.&lt;BR&gt;&lt;BR&gt;Os membros do círculo interno de Akasha são fanáticos, então Jirakar pode lutar até a morte. Mesmo assim, isso pode fazer com que Akasha saia de seu esconderijo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="7" prevId="6" villagerId="1102">
+         
+        <Page social="5">Deixe-me ver essas ordens.&lt;BR&gt;&lt;BR&gt;Oh... isso não é bom.&lt;BR&gt;&lt;BR&gt;Diz aqui que Akasha está levando Serion para o Labirinto de Azarel. Nós nunca os encontraremos lá. Mas se pudermos interceptá-los primeiro...&lt;BR&gt;&lt;BR&gt;Diga a Elleon o que você aprendeu. Ele saberá o que fazer.</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="8" villagerId="1102">
+         
+        <Page social="0">Não deixe que o medo o impeça, &lt;PCNAME&gt;. Você é capaz!</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="9" prevId="7" villagerId="1200">
+         
+        <Page social="5">&lt;PCNAME&gt;, posso ver isso em seu rosto - você e Jelena encontraram algo, não foi? &lt;BR&gt;&lt;BR&gt;Vamos lá! Nunca vi vocês dois parecerem tão presunçosos.&lt;NEXTPAGEBUTTON&gt;"Quer ver os planos de Akasha?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Se conseguirmos alcançá-los antes que cheguem ao Labirinto de Azarel... sim! Acho que podemos fazer isso! &lt;BR&gt;&lt;BR&gt;Jelena, você é ainda mais rápida do que eu. Relate tudo isso a Fraya.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, você e eu vamos para as profundezas de Fyrmount... usando aquele teleportal ali.</Page>
+    
+    </Text>
+    <Text huntingZoneId="403" id="10" prevId="9" villagerId="1101">
+         
+        <Page social="5">O Núcleo está ferido, mas vivo... por pouco.&lt;BR&gt;&lt;BR&gt;Devemos voltar para Castanica imediatamente para que os agentes de Fraya possam curá-lo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="61" id="11" prevId="10" villagerId="1105">
+         
+        <Page social="5">O retorno de Serion é um raio de esperança - desde que ele consiga se recuperar.&lt;NEXTPAGEBUTTON&gt;"Como ele está?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="5">Não está bem. Ele não apenas está fraco, mas seu controle sobre as energias do Núcleo parece estar se deteriorando.&lt;BR&gt;&lt;BR&gt;Nossos maiores sábios procuram um remédio, mas temo que seja tarde demais para Serion.</Page>
+    
+    </Text>
+</QuestDialog>

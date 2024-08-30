@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="6" id="25" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="206" id="100" prevId="0" villagerId="1016">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="206" id="2" prevId="0" villagerId="1016">
+         
+        <Page social="5">Being close to Lumbertown helps us here, but I'm increasingly concerned about Echo Ranch.&lt;BR&gt;&lt;BR&gt;Why don't you head that way and see if they need help. Zackran is who you're going to meet with.</Page>
+    
+    </Text>
+    <Text huntingZoneId="206" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="12">Furlan sent you to see how I'm doing? Get-these-forsaken-creatures-off-my-ranch is how I'm doing!&lt;BR&gt;&lt;BR&gt;Go on, now!</Page>
+    
+    </Text>
+</QuestDialog>

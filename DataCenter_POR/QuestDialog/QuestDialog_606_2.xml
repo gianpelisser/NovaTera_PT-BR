@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="606" id="2" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="1022" id="100" prevId="0" villagerId="1002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="1022" id="2" prevId="0" villagerId="1002">
+         
+        <Page social="4">Algumas criaturas do Nexus carregam versões danificadas dessas pequenas caixas de teinocrons.&lt;BR&gt;&lt;BR&gt;Não achamos que seja um apego emocional, portanto as caixas quebradas ainda devem ter alguma utilidade. Estudar os teinocrons danificados pode nos dar alguma pista sobre o uso dos intactos, e isso pode ser valioso para o Agnitor.</Page>
+    
+    </Text>
+    <Text huntingZoneId="1022" id="3" prevId="2" villagerId="1002">
+         
+        <Page social="4">Excelente trabalho na recuperação desses teinocrons danificados.&lt;BR&gt;&lt;BR&gt;Se minha hipótese estiver correta, eles precisam desses dispositivos para protegê-los da energia do nexus, ou eles os carregam para ajudar a sustentar o nexus. Como os danificados podem funcionar não está completamente claro, para ser honesto.&lt;BR&gt;&lt;BR&gt;Obrigado por sua ajuda.</Page>
+    
+    </Text>
+    <Text huntingZoneId="1022" id="4" villagerId="1002">
+         
+        <Page social="0">Mate as criaturas menores no nexus e colete seus teinocrons danificados. Se estivermos certos, eles definitivamente os carregarão.</Page>
+    
+    </Text>
+</QuestDialog>

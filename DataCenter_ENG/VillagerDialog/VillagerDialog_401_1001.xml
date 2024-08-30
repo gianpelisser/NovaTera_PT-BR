@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="401" id="1001" voiceTypeId="24">
+    <Text id="1" endSocial="0">
+         
+        <Page social="5">I never thought that something like this could happen.&lt;BR&gt;&lt;BR&gt;Our resolution must not waver!</Page>
+    
+    </Text>
+    <Text id="2" endSocial="0">
+         
+        <Page social="0">The time has come to put an end to Samael's treachery. He's betrayed everything we've fought for and put the entire federation at risk.&lt;BR&gt;&lt;BR&gt;Are you ready?&lt;TEXTBUTTON&gt;"On my honor, it won't."&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;"We'll take him together..."&lt;/EVENTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text id="101" endSocial="0">
+         
+        <Page social="10">General... How could you...</Page>
+    
+    </Text>
+</VillagerDialog>

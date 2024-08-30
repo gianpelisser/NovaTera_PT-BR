@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="608" id="2" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="62" id="100" prevId="0" villagerId="1703">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="62" id="2" prevId="0" villagerId="1703">
+         
+        <Page social="4">&lt;PCNAME&gt;, a organização precisa de sua ajuda em uma tarefa bastante incomum.&lt;BR&gt;&lt;BR&gt;Os peixes desta região fedem tanto que não são comestíveis, mas na floresta a oeste daqui há um cogumelo que elimina o odor e acrescenta um sabor delicioso. Saboroso e lucrativo! &lt;BR&gt;&lt;BR&gt;Pode colher alguns cogumelos perfumados para mim? Sei que micologia não é sua praia, mas também sei que recompensas são sua praia.</Page>
+    
+    </Text>
+    <Text huntingZoneId="62" id="3" prevId="2" villagerId="1703">
+         
+        <Page social="4">Ah, sim! Cogumelos! Nós os vendemos em grandes quantidades diariamente. A organização lucra, e nossos lucros são seus lucros.</Page>
+    
+    </Text>
+    <Text huntingZoneId="62" id="4" villagerId="1703">
+         
+        <Page social="0">Esse cheiro de peixe é terrível! Traga-me alguns cogumelos perfumados assim que puder.</Page>
+    
+    </Text>
+</QuestDialog>

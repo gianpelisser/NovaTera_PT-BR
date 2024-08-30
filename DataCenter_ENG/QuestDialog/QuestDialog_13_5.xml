@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="5" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="64" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0">Adria has more information on Elleon, Leander's older brother.&lt;BR&gt;&lt;BR&gt;A few people have seen him, but the consensus is that he's gone off in search of something.</Page>
+    
+    </Text>
+    <Text huntingZoneId="64" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="4">I've finally got some more information on Elleon, &lt;PCNAME&gt;. Looks like he really is missing again.&lt;BR&gt;&lt;BR&gt;His brother Leander is sick with worry, of course. He should be here any minute.&lt;BR&gt;&lt;BR&gt;Be tactful when you see him. High elves might seem serene, but they feel emotions as keenly as anyone.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="3" prevId="2" villagerId="1008">
+         
+        <Page social="4">I feel like we just found him, and now Elleon's gone again. I assume he's run off again.&lt;BR&gt;&lt;BR&gt;Check with Taras by the steps. He keeps a keen eye. He may have seen something.</Page>
+    
+    </Text>
+    <Text huntingZoneId="64" id="4" prevId="3" villagerId="1028">
+         
+        <Page social="4">Elleon's missing again? You know, now that you mention it, I did see him a couple hours ago. He was headed down to the Southern Checkpoint.&lt;BR&gt;&lt;BR&gt;Check in with {@linkcreature:213#1147$$Tanli}. She may have seen which way he went.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="5" prevId="4" villagerId="1147">
+         
+        <Page social="4">Elleon? Yes, I saw that one heading south. I thought it was a little strange, as that campsite is currently abandoned, but I assumed he had his reasons. It was at least a few hours ago, though.&lt;BR&gt;&lt;BR&gt;He's looked...distracted lately. Honestly, {@linkcreature:213#1008$$Leander} probably has a much better idea of what's going on than I do.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="6" prevId="5" villagerId="1008">
+         
+        <Page social="4">Well, obviously he's left in search of something. As you may have heard, he does that from time to time.&lt;BR&gt;&lt;BR&gt;Councilor {@linkcreature:64#1009$$Teil} probably has more insight into what he could be trying to find. Check with him.</Page>
+    
+    </Text>
+    <Text huntingZoneId="64" id="7" prevId="6" villagerId="1009">
+         
+        <Page social="4">Ah, yes: Elleon. Like all true heroes, he finds it difficult to delegate tasks to subordinates.&lt;BR&gt;&lt;BR&gt;Let's see if we can figure out where he's gone...</Page>
+    
+    </Text>
+</QuestDialog>

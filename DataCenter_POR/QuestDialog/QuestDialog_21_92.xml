@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="21" id="92" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="65" id="100" prevId="0" villagerId="1012">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="65" id="2" prevId="0" villagerId="1012">
+         
+        <Page social="0">Todo mundo sabe que horas são? Hora de Tulla!&lt;BR&gt;&lt;BR&gt;Nada, não é? Bem, agora você sabe por que eu me alistei no exército.&lt;BR&gt;&lt;BR&gt;Tudo bem, acabem com os {@LinkCreature:21#3#oriscos maliciosos} e os {@LinkCreature:21#4#oriscos brutais} e se apresentem a Fianath no Posto Avançado dos Sertões quando terminarem!</Page>
+    
+    </Text>
+    <Text huntingZoneId="221" id="3" prevId="2" villagerId="1027">
+         
+        <Page social="4">Obrigado a você. Podemos continuar trabalhando agora.</Page>
+    
+    </Text>
+    <Text huntingZoneId="221" id="4" villagerId="1027">
+         
+        <Page social="0">A missão ainda não foi concluída. Desculpe-me.</Page>
+    
+    </Text>
+</QuestDialog>

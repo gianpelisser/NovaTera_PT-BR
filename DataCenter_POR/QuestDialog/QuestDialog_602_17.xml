@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="602" id="17" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="78" id="100" prevId="0" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="78" id="2" prevId="0" villagerId="3003">
+         
+        <Page social="4">{@LinkCreature:78#3002#Kalkzak} queria ver você, &lt;PCNAME&gt;. A julgar pelo sorriso, é porque você machucou bem os argons! &lt;BR&gt;&lt;BR&gt;É melhor ir andando. Não quero deixar Kalkzak esperando.</Page>
+    
+    </Text>
+    <Text huntingZoneId="78" id="3" prevId="2" villagerId="3002">
+         
+        <Page social="4">Meu soldado favorito!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, os Shariar registram os feitos de nossos aliados e inimigos, e não nos esquecemos de nenhum deles.&lt;BR&gt;&lt;BR&gt;Este símbolo é um presente humilde, mas é dado com todo o respeito que os Shariar podem reunir! Muito bem!</Page>
+    
+    </Text>
+</QuestDialog>

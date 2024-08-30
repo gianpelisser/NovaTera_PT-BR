@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="605" id="24" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="63" id="100" prevId="0" villagerId="3002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="2" prevId="0" villagerId="3002">
+         
+        <Page social="4">Soldier, my comrades and I require assistance, and you look like a pretty capable &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;What's in it for you, you ask? Well, besides getting to know me, the Hands of Velika reward generously for a job well done.&lt;BR&gt;&lt;BR&gt;If your interest is thoroughly piqued, go talk to {@LinkCreature:63#3003#Elthienne} over there.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="3003">
+         
+        <Page social="0">So, you spoke to Taratia? She's persuasive, eh? That's why we keep her around! I kid. Actually, no, that is why.&lt;BR&gt;&lt;BR&gt;Listen, if you want to help, we desperately need an item crafted. But this is no pair of booties for your sister's kid. We need someone highly skilled.&lt;BR&gt;&lt;BR&gt;Does that describe you? Good. Deliver your completed craft to Barian. You'll be compensated, of course.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="4" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="5" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="6" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="7" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="8" prevId="2" villagerId="3001">
+         
+        <Page social="5">Wonderful!&lt;BR&gt;&lt;BR&gt;Pay {@LinkCreature:63#3002#Taratia} another visit if you want to get paid.&lt;BR&gt;&lt;BR&gt;See what I did there? "Pay her" to get "paid?" I kill me. Done talking.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="9" villagerId="3001">
+         
+        <Page social="0">Xersteel ingot. Xersteel ingot. Xersteel ingot.&lt;BR&gt;&lt;BR&gt;Don't you just love the way that sounds?&lt;BR&gt;&lt;BR&gt;Only thing better is the way it looks. Craft me one, will you?</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="10" prevId="8" villagerId="3001">
+         
+        <Page social="5">Wonderful!&lt;BR&gt;&lt;BR&gt;See {@LinkCreature:63#3002#Taratia} if you want to see your reward.&lt;BR&gt;&lt;BR&gt;See what I did there? "See her" if you want to "see" your reward. Wait, that wasn't funny at all.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="11" villagerId="3001">
+         
+        <Page social="0">Craft some galvasilex and bring it to me. Rest assured, you'll be handsomely rewarded.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="12" prevId="10" villagerId="3001">
+         
+        <Page social="5">Wonderful!&lt;BR&gt;&lt;BR&gt;Off you go to see {@LinkCreature:63#3002#Taratia}. We're done here.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="13" villagerId="3001">
+         
+        <Page social="0">Craft cereleather. Bring it to me.&lt;BR&gt;&lt;BR&gt;It couldn't be more straightforward.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="14" prevId="12" villagerId="3001">
+         
+        <Page social="5">Wonderful!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} has a little something for you.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="15" villagerId="3001">
+         
+        <Page social="0">Today's crafting job is luriacloth. Are you game, or should I just craft it myself?</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="16" prevId="14" villagerId="3002">
+         
+        <Page social="4">You're on fire! And coming from a castanic, that's saying a lot.&lt;BR&gt;&lt;BR&gt;Your aid to the Hands of Velika and our cause will not be forgotten. Please visit us again.</Page>
+    
+    </Text>
+</QuestDialog>

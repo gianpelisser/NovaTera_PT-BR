@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="45" id="94" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="77" id="100" prevId="0" villagerId="1009">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="77" id="2" prevId="0" villagerId="1009">
+         
+        <Page social="4">I need your help, &lt;PCNAME&gt;. We're struggling to hold the Skyfields and could use a good soldier's aid.&lt;BR&gt;&lt;BR&gt;Head to the Skyfields and kill {@LinkCreature:45#4002#argonomorph tuwangis}, {@LinkCreature:45#4003#warfroggers}, and {@LinkCreature:45#4004#wendigos}.&lt;BR&gt;&lt;BR&gt;Report to Lyndel at Camp Insanity when your mission is complete.}</Page>
+    
+    </Text>
+    <Text huntingZoneId="245" id="3" prevId="2" villagerId="1009">
+         
+        <Page social="5">Excellent work, &lt;PCNAME&gt;. Carry on.</Page>
+    
+    </Text>
+    <Text huntingZoneId="245" id="4" villagerId="1009">
+         
+        <Page social="0">It looks like you haven't completed your mission yet.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="28" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="230" id="100" prevId="0" villagerId="1005">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="230" id="2" prevId="0" villagerId="1005">
+         
+        <Page social="1">&lt;PCNAME&gt;! Posso lhe pedir um favor? Preciso de alguém forte e rápido.&lt;NEXTPAGEBUTTON&gt;"Por quê? O que está acontecendo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Preciso de relatórios de nossas equipes de campo.&lt;BR&gt;&lt;BR&gt;Nenhuma delas está longe, mas quando mandam corredores de volta para cá, geralmente chegam meio mortos e cheirando a preguiça. Não, realmente.&lt;BR&gt;&lt;BR&gt;Pode passar por cada equipe no decorrer de seu outro trabalho?</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="3" prevId="2" villagerId="1085">
+         
+        <Page social="1">Qualquer pessoa que siga esse caminho é corajosa ou tola.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="4" prevId="2" villagerId="1086">
+         
+        <Page social="1">Eu mesmo ia entregar este relatório, mas estou profundamente grato por não ter que fazê-lo, amigo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="5" prevId="2" villagerId="1087">
+         
+        <Page social="1">{&lt;@LinkCreature:230#1005$$Naisas} está nos deixando exaustos.&lt;BR&gt;&lt;BR&gt;Acho que ele quer sair do campo e voltar para a cidade. Pessoalmente, gosto do trabalho de campo!</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="6" prevId="2" villagerId="1088">
+         
+        <Page social="1">Cuidado com essa borda! Aqui está meu relatório. Diga a {@LinkCreature:230#1005$$Naisas} que as torres são incríveis!</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="7" prevId="3" villagerId="1005">
+         
+        <Page social="1">Excelente trabalho, e feito rapidamente.&lt;BR&gt;&lt;BR&gt;Além disso, você tem menos mordidas de preguiça do que o mensageiro habitual.</Page>
+    
+    </Text>
+</QuestDialog>

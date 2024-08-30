@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="33" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="230" id="100" prevId="0" villagerId="1018">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="230" id="2" prevId="0" villagerId="1018">
+         
+        <Page social="1">Você precisa me ajudar, &lt;PCNAME&gt;! Preciso de você... preciso que me envenene!&lt;BR&gt;&lt;BR&gt;Espere, não vá! Eu posso explicar. Eu preciso ser envenenado por um {@LinkCreature:30#140#venomous tentacullar} imediatamente.&lt;NEXTPAGEBUTTON&gt;"Pelos titãs, por quê?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Tenho um segredo obscuro - algo realmente importante que não posso revelar a ninguém. Alais e os capangas do Mysterium vão forçá-lo a sair de mim. A dose certa do veneno {@LinkCreature:30#140#venomous tentacullar} age no cérebro e causa perda de memória. Prefiro ser esquecido do que morto.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="3" prevId="2" villagerId="1018">
+         
+        <Page social="1">Muito obrigado, &lt;PCNAME&gt;. Por favor, dê-me isso agora! &lt;NEXTPAGEBUTTON&gt;"Aqui está o veneno."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">(Ele toma o veneno do frasco e depois abre e fecha a boca várias vezes, cada vez mais em pânico.)&lt;BR&gt;&lt;BR&gt;(Ele aponta para a boca, gesticula loucamente e depois aponta para outro mineiro).</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="4" villagerId="1018">
+         
+        <Page social="0">Não contarei o segredo, mesmo que esses capangas me torturem. Prefiro estar morto.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="5" prevId="3" villagerId="1017">
+         
+        <Page social="1">Ele bebeu o quê? Não é de se admirar que ele não consiga falar.&lt;BR&gt;&lt;BR&gt;Sua garganta vai inchar a ponto de ele ter dificuldade para respirar por dias. O que aconteceu? &lt;NEXTPAGEBUTTON&gt;"Ele estava tentando esquecer um grande segredo..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Aquela história da carochinha sobre o veneno tentacular? Ele não esquecerá o passado, mas também não poderá abrir mão de seu precioso segredo.&lt;BR&gt;&lt;BR&gt;Alguém tem que contar isso a {@LinkCreature:230#1065$$Libinienn}.&lt;BR&gt;&lt;BR&gt;Nós, mineiros, temos um velho costume, chamado "um-dois-três-não-é", então você vai contar a Libinienn como envenenou um dos mineiros.&lt;BR&gt;&lt;BR&gt;Boa sorte com isso, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="6" prevId="5" villagerId="1065">
+         
+        <Page social="1">Então você lhe deu veneno tentacular. E ele o bebeu.&lt;BR&gt;&lt;BR&gt;Eu... eu... as palavras me faltam.&lt;NEXTPAGEBUTTON&gt;"Eu só estava tentando ajudar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Você fará qualquer coisa que alguém lhe pedir, não é? &lt;BR&gt;&lt;BR&gt;Quer saber qual é o grande segredo dele? Ele está pegando algumas de nossas descobertas no local de escavação e escondendo-as para que confederados do mercado negro as peguem.&lt;BR&gt;&lt;BR&gt;E você atrasou o interrogatório que ele tanto merece!</Page>
+         
+        <Page social="1">Bem, você é ingênuo, mas não é um criminoso.&lt;BR&gt;&lt;BR&gt;E, pensando bem, você provavelmente o puniu pior ao envenená-lo do que eu teria feito.&lt;BR&gt;&lt;BR&gt;Quando se é um mineiro itinerante, ser condenado a trabalhos forçados não é um grande castigo.</Page>
+    
+    </Text>
+</QuestDialog>

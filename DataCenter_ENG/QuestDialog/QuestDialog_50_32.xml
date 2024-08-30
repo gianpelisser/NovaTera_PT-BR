@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="50" id="32" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="250" id="100" prevId="0" villagerId="1012">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="250" id="2" prevId="0" villagerId="1012">
+         
+        <Page social="4">(This castanic woman died at the hands of the argons.)&lt;BR&gt;&lt;BR&gt;(You spot a piece of parchment in her hand.)</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="3" prevId="2" villagerId="1012">
+         
+        <Page social="6">Not much time...I'm growing cold, numb. Whoever finds this, please tell Hekasha of my fate.&lt;BR&gt;&lt;BR&gt;My dear friend and colleague—I wish we had more time to debate the mysteries of life. I don't regret my path...but I will miss you.&lt;BR&gt;&lt;BR&gt;—Linkia of Kanstria</Page>
+    
+    </Text>
+    <Text huntingZoneId="76" id="4" prevId="3" villagerId="1016">
+         
+        <Page social="6">{@Creature:76#1011} is dead? I...I don't believe it. She always came back—that's what she did!&lt;BR&gt;&lt;BR&gt;Blast and damnation. Did she suffer?&lt;NEXTPAGEBUTTON&gt;"I don't think so."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">That's something at least. Her studies gave us valuable insights into the argons and their technology.&lt;BR&gt;&lt;BR&gt;Please, take her journal. I think she'd want you to have it. You seem like kindred spirits to me.</Page>
+    
+    </Text>
+</QuestDialog>

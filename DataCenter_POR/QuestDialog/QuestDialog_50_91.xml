@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="50" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="76" id="100" prevId="0" villagerId="1033">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="76" id="2" prevId="0" villagerId="1033">
+         
+        <Page social="5">Precisamos manter a pressão sobre os argons.&lt;BR&gt;&lt;BR&gt;Entre em campo e mate os devastadores kalash, os spodas zariik, os executores manaathol, os rondantes athakela e os coletores zomgul.&lt;BR&gt;&lt;BR&gt;Apresente-se a Sheris no Posto Avançado Shroud quando terminar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="3" prevId="2" villagerId="1007">
+         
+        <Page social="5">Excelente esforço.&lt;BR&gt;&lt;BR&gt;Continue com seu bom trabalho!</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="4" villagerId="1007">
+         
+        <Page social="0">Parece que você não completou sua missão.</Page>
+    
+    </Text>
+</QuestDialog>

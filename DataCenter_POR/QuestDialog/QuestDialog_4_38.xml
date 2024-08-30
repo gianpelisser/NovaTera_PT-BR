@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="38" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="204" id="100" prevId="0" villagerId="1005">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="204" id="2" prevId="0" villagerId="1005">
+         
+        <Page social="4">Sei que Tifane vai mantê-lo ocupado, mas os shurianos estão fora de controle! &lt;BR&gt;&lt;BR&gt;Os de Molten Reach estão correndo por aí, esfaqueando pessoas na cara! &lt;BR&gt;&lt;BR&gt;Quem sabe por que eles estão aqui? Quem se importa, de fato? Apenas os expulse, &lt;PCNAME&gt;!</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="3" prevId="2" villagerId="1005">
+         
+        <Page social="4">Estamos fazendo um progresso significativo para limpar essa área de hostis. Mais uma vitória para a federação!</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="4" villagerId="1005">
+         
+        <Page social="0">Olhe, estou tentando ser respeitoso, mas esperamos que você faça a sua parte por aqui. Vá matar alguns shurianos!</Page>
+    
+    </Text>
+</QuestDialog>

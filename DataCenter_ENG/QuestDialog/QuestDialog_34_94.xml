@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="34" id="94" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="83" id="100" prevId="0" villagerId="1004">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="83" id="2" prevId="0" villagerId="1004">
+         
+        <Page social="0">As if our other enemies weren't enough, the mugato are attacking us. Show them how foolish that choice was.&lt;BR&gt;&lt;BR&gt;Slay {@LinkCreature:34#900#frostguard mugatos} and their {@LinkCreature:34#910#cubs}, and {@LinkCreature:34#920#frostguard patriachs}.&lt;BR&gt;&lt;BR&gt;Report to Kahuere when you've completed your task.</Page>
+    
+    </Text>
+    <Text huntingZoneId="234" id="3" prevId="2" villagerId="1004">
+         
+        <Page social="4">Mugato are pesky fiends. Cunning and tough, but not quick to learn.&lt;BR&gt;&lt;BR&gt;Oh, well. You've taught them a lesson!</Page>
+    
+    </Text>
+    <Text huntingZoneId="234" id="4" villagerId="1004">
+         
+        <Page social="0">We need to stop the mugato attacks. Please get out there and show them what a nightmare fighting the federation can be!</Page>
+    
+    </Text>
+</QuestDialog>

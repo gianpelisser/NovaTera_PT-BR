@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="29" id="29" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="229" id="100" prevId="0" villagerId="1008">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="229" id="2" prevId="0" villagerId="1008">
+         
+        <Page social="5">Acabamos estabelecendo nosso acampamento aqui porque era uma tolice lutar contra tantas criaturas. Não é preciso dizer que Isobel não se divertiu.&lt;BR&gt;&lt;BR&gt;Se vocês eliminassem alguns dos {@LinkCreature:29#3021#ghilliedhu wardens} e {@LinkCreature:29#3022#ghilliedhu guardians}, talvez pudéssemos continuar com o plano original.</Page>
+    
+    </Text>
+    <Text huntingZoneId="229" id="3" prevId="2" villagerId="1008">
+         
+        <Page social="5">Se eu comandasse um esquadrão de soldados como você, &lt;PCNAME&gt;, os argons estariam em plena retirada e o posto de exarca seria meu.&lt;BR&gt;&lt;BR&gt;Excelente trabalho com os ghilliedhus, soldado.</Page>
+    
+    </Text>
+</QuestDialog>

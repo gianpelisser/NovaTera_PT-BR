@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="473" id="24" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="251" id="100" prevId="0" villagerId="1033">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="251" id="2" prevId="0" villagerId="1033">
+         
+        <Page social="4">Os argons estão envolvidos nos planos de Thulsa no nível mais íntimo.&lt;BR&gt;&lt;BR&gt;Quando você os matar, &lt;PCNAME&gt;, retire seus núcleos. Podemos dar bom uso a essas coisas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="251" id="3" prevId="2" villagerId="1033">
+         
+        <Page social="4">Excelente trabalho. Thulsa é a ameaça atual, mas não podemos tirar os olhos dos argons.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, agradeço seu sacrifício. Enviarei esses núcleos para o Mysterium para que continuem suas pesquisas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="251" id="4" villagerId="1033">
+         
+        <Page social="0">Derrote os argonss e traga-me seus núcleos.</Page>
+    
+    </Text>
+</QuestDialog>

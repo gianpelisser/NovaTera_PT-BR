@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="2" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">Elleon gave you vital intelligence: a way to enter the Ebon Tower, Thulsa's Stronghold. But Elleon's way required a special key: a gem belonging to Killian, the god of terror. Elleon and Jelena accompanied you to the Labyrinth of Terror, Killian's home. Elleon intercepted a blast of magic meant for you—perhaps at the cost of his life....</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">Dear &lt;PCNAME&gt;—it looks like we'll be fighting side by side once again. Thulsa and Killian awakened Kelsaik, but you kept them from obtaining complete control.&lt;BR&gt;&lt;BR&gt;Kelsaik must be near Thulsa...which is worrisome, but it gives us an opportunity. Jelena and I know where Thulsa is: Vale of Spires, Lorcada.&lt;BR&gt;&lt;BR&gt;Let's talk in person. I'll see you at the blacksmith's workshop.&lt;BR&gt;&lt;BR&gt;Sincerely, Elleon</Page>
+    
+    </Text>
+    <Text huntingZoneId="411" id="3" prevId="2" villagerId="5002">
+         
+        <Page social="4">Long time no see, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Thulsa, Killian, and now Kelsaik. We have a knack for attracting powerful enemies, don't we?&lt;BR&gt;&lt;BR&gt;Ever heard of an ancient stronghold called the Ebon Tower?&lt;BR&gt;&lt;BR&gt;Well, Thulsa is there...maybe Kelsaik, too. But Thulsa has given a key to only one visitor. Guess who?&lt;NEXTPAGEBUTTON&gt;"Killian?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Exactly! We need the gem on Killian's staff, or we can't get into the Ebon Tower. And it's not gonna break my heart to take the gem off Killian's cooling corpse.&lt;BR&gt;&lt;BR&gt;So Killian first, then. He's in the Labyrinth of Terror.&lt;BR&gt;&lt;BR&gt;But before we go, talk to Jelena. She's cooked up something special for our destination.</Page>
+    
+    </Text>
+    <Text huntingZoneId="79" id="4" prevId="3" villagerId="1103">
+         
+        <Page social="1">Wow, &lt;PCNAME&gt;, I see some new gear on you—and a few new scars. Nice—they suit you.&lt;BR&gt;&lt;BR&gt;Take this. It's a potion of will. Engineer Gaicus and I whipped it up, and he's got a supply if you run low later.&lt;BR&gt;&lt;BR&gt;The Labyrinth of Terror isn't just a scary name. Enter without the potion, and your brain will flee out your ears!&lt;BR&gt;&lt;BR&gt;Anyway, on to the labyrinth. Ten gold says Elleon's already there.</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="5" prevId="4" villagerId="1105">
+         
+        <Page social="1">We just broke the seal, and Jelena went in first. Let's go!</Page>
+    
+    </Text>
+    <Text huntingZoneId="476" id="6" prevId="5" villagerId="1019">
+         
+        <Page social="1">I can't let Elleon die. I just can't!&lt;BR&gt;&lt;BR&gt;I know Elleon would want me to leave him and go with you, but he's in no position to argue. I feel horrible, though...&lt;NEXTPAGEBUTTON&gt;"It's okay. I got this."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">I know you do, &lt;PCNAME&gt;. I'll be back in Habere, and I want all the details. So go kill a god already!</Page>
+    
+    </Text>
+    <Text huntingZoneId="476" id="7" prevId="6" villagerId="1021">
+         
+        <Page social="1">You have extracted the gem that will get you in to the Ebon Tower.</Page>
+    
+    </Text>
+    <Text huntingZoneId="79" id="8" prevId="7" villagerId="1103">
+         
+        <Page social="1">If you're alive, then...yes! Yes! Yes!&lt;BR&gt;&lt;BR&gt;Elleon? Alive, but hanging by a thread. Still, he's Elleon, right? That oughta count for something.&lt;BR&gt;&lt;BR&gt;Elleon and I are out of commission for the time being, though. Give our "best" to Kelsaik, will ya?</Page>
+    
+    </Text>
+</QuestDialog>

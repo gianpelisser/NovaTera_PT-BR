@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="26" id="30" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="226" id="100" prevId="0" villagerId="1003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="226" id="2" prevId="0" villagerId="1003">
+         
+        <Page social="5">Suas vestimentas e sua arma sugerem que seus talentos não estão no campo acadêmico, mas seus olhos não são totalmente desprovidos de inteligência. Você é um pesquisador? Um arqueólogo iniciante, talvez? &lt;BR&gt;&lt;BR&gt;O que o traz aqui? &lt;NEXTPAGEBUTTON&gt;"Já trabalhei com Eustáquio..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="5">Aquele idiota? Que infelicidade. Espero que sua mente não tenha sido indevidamente manchada pela experiência.&lt;BR&gt;&lt;BR&gt;Eustáquio está mais interessado em prestígio do que em progresso. Se você leva a sério seus objetivos, pode trabalhar comigo. Estou estudando as relíquias dessa região, tentando identificar sua ligação com a Fonte de Shara e os milagres que parecem abundar. Se puder me trazer algumas intactas, terei prazer em estudá-las.</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="3" prevId="2" villagerId="1003">
+         
+        <Page social="5">Deixe-nos ver o que você encontrou. Intrigante. Esta runa representa a vida, esta a renovação. E esta aqui é um antigo símbolo de Shara!&lt;BR&gt;&lt;BR&gt;Há claramente uma ligação entre a fonte e a terra e essas relíquias parecem ser isso. Sua ajuda é gratificantemente adequada. O Mysterium lhe agradece.</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="4" villagerId="1003">
+         
+        <Page social="0">Se for sincero quanto ao estudo do passado, você ajudará em nossos esforços de coleta. Seu treinamento em combate o torna perfeitamente adequado para essa tarefa.</Page>
+    
+    </Text>
+</QuestDialog>

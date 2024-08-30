@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="46" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">Os pesquisadores do Mysterium estão explorando as Três Torres, apesar da presença de argons no local. Antes que você pudesse pedir ajuda a Adeldur para encontrar Yasring, ela o enviou em uma missão de pesquisa. Depois disso, ela o encaminhou para Kurance, que lhe mostrou o registro de pessoas desaparecidas. O nome de Yasring estava na lista, então você procurou nas {@Rgn:9012001$$Three Towers Spires} e acabou sendo encaminhado para Greyden, o comandante do esquadrão de batedores, que prometeu ajudar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">Diretiva Valkyon:&lt;BR&gt;&lt;BR&gt;Relacione-se com Adeldur, um pesquisador de Mysterium nas Três Torres mencionado por {@creature:245#2003$$Ronalt}, e ajude em sua pesquisa. Enquanto estiver nas Três Torres, informe-se sobre o paradeiro de {@creature:245#2001$$Yasring}. O relatório desse batedor está atrasado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="3" prevId="2" villagerId="2001">
+         
+        <Page social="10">Se os argons podem realmente se combinar em formas ainda mais terríveis, então essa guerra ainda não acabou.&lt;BR&gt;&lt;BR&gt;Podemos ser capazes de impedir que o mundo exterior seja argonificado. Mas a única maneira de encontrar uma contramedida ou um antídoto é estudar aqui, no coração do território dos argonss.&lt;NEXTPAGEBUTTON&gt;"Entendo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="4" prevId="3" villagerId="2001">
+         
+        <Page social="4">Nossa principal teoria é que os argonss estão usando energia vital para construir e alimentar essas torres. Pesquisas adicionais podem revelar uma maneira de bloquear ou redirecionar essa energia vital.</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="5" prevId="4" villagerId="2002">
+         
+        <Page social="1">Adeldur tem um monte de teorias, mas eu só me preocupo com uma coisa: salvar nosso povo antes que os argonss roubem sua "energia vital", seja lá o que isso for. Na verdade, nem sou militar. Vim aqui para encontrar alguém específico... alguém com quem eu me importasse.&lt;BR&gt;&lt;BR&gt;Suponho que você esteja atrás da mesma coisa, mais ou menos.&lt;NEXTPAGEBUTTON&gt;"Pode-se dizer que sim."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Você pode verificar nosso registro. Ele não está totalmente completo, mas o registro tem uma entrada para todos que salvamos e para todos que ainda estamos procurando. Esse é o melhor lugar para começar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="6" prevId="5" villagerId="2002">
+         
+        <Page social="1">Se você faz parte da operação de resgate, precisa se apressar.&lt;BR&gt;&lt;BR&gt;Temos um dispositivo especial que nos permite refazer nossos passos. Caso contrário, nos perderíamos aqui. Todos esses corredores são parecidos.&lt;BR&gt;&lt;BR&gt;Siga as pegadas, &lt;PCCLASS:lcase&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="7" prevId="6" villagerId="2003">
+         
+        <Page social="0">É uma história muito comum. Nós somos os batedores! Procuramos os perdidos! Então, quando desaparecemos, quem fica para nos procurar?</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="8" villagerId="2003">
+         
+        <Page social="0">Resgate todos que puder, &lt;PCCLASS:lcase&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="9" prevId="7" villagerId="2003">
+         
+        <Page social="10">Nós agradecemos. Você deve saber, no entanto, que perdemos mais soldados dessa forma. Isso nos faz pensar se vale a pena... mas se você se sentir à altura da tarefa, não vamos impedi-lo. &lt;NEXTPAGEBUTTON&gt;"Estou disposto a tentar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">O registro está lamentavelmente incompleto. Não temos informações sobre os níveis mais baixos porque é muito perigoso lá embaixo.&lt;BR&gt;&lt;BR&gt;Se você for corajoso o suficiente, verifique com Greyden, o comandante do esquadrão de batedores. Ele pode atualizar a lista.</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="10" prevId="9" villagerId="2004">
+         
+        <Page social="4">Estou impressionado. Poucas pessoas se esforçam tanto para encontrar companheiros desaparecidos. Ajudarei da maneira que puder. Como eu poderia recusar?</Page>
+    
+    </Text>
+</QuestDialog>

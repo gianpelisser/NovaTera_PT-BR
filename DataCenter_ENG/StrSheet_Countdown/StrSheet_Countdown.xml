@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StrSheet_Countdown xmlns="https://vezel.dev/novadrop/dc/StrSheet_Countdown" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Countdown StrSheet_Countdown.xsd">
+    <String id="1000001" string="{sec@durationBrief} until the next nexus." />
+    <String id="1000002" string="The nexus opened!" />
+    <String id="1000003" string="The nexus opened!" />
+    <String id="1000004" string="The nexus disappeared!" />
+    <String id="1000005" string="The nexus closes in {sec@durationBrief}." />
+    <String id="1000006" string="The nexus will close in {sec@durationBrief}." />
+    <String id="1000007" string="A nexus monster will be spawned in {sec@durationBrief}." />
+    <String id="2000001" string="Access to extractors will end in {sec@durationBrief}." />
+    <String id="2000002" string="Access to extractors has ended." />
+    <String id="2000003" string="Access to extractors will resume in {sec@durationBrief}." />
+    <String id="2000004" string="Access to extractors has resumed." />
+    <String id="2000005" string="Exarch's XP Boost will take effect in {sec@durationBrief}." />
+    <String id="2000006" string="Exarch's PvP Bolster will take effect in {sec@durationBrief}." />
+    <String id="2000007" string="Exarch's Fortitude will take effect in {sec@durationBrief}." />
+    <String id="2000008" string="Exarch's XP Boost is queued. It will take effect in {sec@durationBrief}." />
+    <String id="2000009" string="Exarch's PvP Bolster is queued. It will take effect in {sec@durationBrief}." />
+    <String id="2000010" string="Exarch's Fortitude is queued. It will take effect in {sec@durationBrief}." />
+    <String id="2000011" string="The executor will respawn in {sec@durationBrief}." />
+    <String id="2000012" string="The executor has respawned." />
+</StrSheet_Countdown>

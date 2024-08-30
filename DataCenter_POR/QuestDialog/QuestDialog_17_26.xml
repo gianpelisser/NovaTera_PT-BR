@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="17" id="26" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="217" id="100" prevId="0" villagerId="1010">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="217" id="2" prevId="0" villagerId="1010">
+         
+        <Page social="5">Venha cá, soldado. Ao norte de nós, os cultistas estão se reunindo para um ataque. {&lt;BR&gt;&lt;BR&gt;Eu acho que um golpe decisivo no campo de batalha acabará com essa rebelião! Destruam-nos!</Page>
+    
+    </Text>
+    <Text huntingZoneId="217" id="3" prevId="2" villagerId="1010">
+         
+        <Page social="5">Aquele arrivista do Puran e suas estratégias! Soldados de verdade lutam contra outros soldados, cara a cara. &lt;BR&gt;&lt;BR&gt;Apaixonado por matar oficiais? Pfeh. Só os covardes desdentados lutam dessa forma!</Page>
+    
+    </Text>
+    <Text huntingZoneId="217" id="4" villagerId="1010">
+         
+        <Page social="0">Aquela formação de tropas ao norte ainda está se reunindo, soldado. Vá até lá e corte-os em pedaços!</Page>
+    
+    </Text>
+</QuestDialog>

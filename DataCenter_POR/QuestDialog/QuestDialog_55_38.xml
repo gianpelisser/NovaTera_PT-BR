@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="55" id="38" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="255" id="100" prevId="0" villagerId="1025">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="255" id="2" prevId="0" villagerId="1025">
+         
+        <Page social="4">Não é o suficiente para enfraquecer os unseelie. Precisamos derrotar Sinarl, seu suposto regente.&lt;BR&gt;&lt;BR&gt;Amline se aventurou na Plaza of the Fallen para encontrar Sinarl.&lt;BR&gt;&lt;BR&gt;Acompanhe-a e ajude-a a concluir a missão.</Page>
+    
+    </Text>
+    <Text huntingZoneId="255" id="3" prevId="2" villagerId="1024">
+         
+        <Page social="4">Arast o enviou? Bem-vindo.&lt;BR&gt;&lt;BR&gt;Sinarl está por perto, na verdade no vale, mas não consigo me aproximar. Cercado por jalmaraks ou urisks, sem dúvida. &lt;BR&gt;&lt;BR&gt;Você matou todos os inimigos que encontrou. Acha que está preparado para enfrentar um regente unseelie?</Page>
+    
+    </Text>
+    <Text huntingZoneId="255" id="4" prevId="3" villagerId="1025">
+         
+        <Page social="4">A morte de Sinarl significa que podemos tentar nos reconciliar com o resto dos jalmaraks, trazê-los de volta para o nosso lado. Não sei o que os levou a ajudar Thulsa em primeiro lugar.&lt;BR&gt;&lt;BR&gt;Você é um soldado incrível, &lt;PCNAME&gt;. Obrigado!</Page>
+    
+    </Text>
+    <Text huntingZoneId="255" id="5" villagerId="1025">
+         
+        <Page social="0">Sinarl é cauteloso. Ele terá aliados para protegê-lo. É perigoso ir sozinho. Leve outros.</Page>
+    
+    </Text>
+</QuestDialog>

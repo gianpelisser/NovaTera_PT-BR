@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="27" id="31" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="227" id="100" prevId="0" villagerId="1008">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="227" id="2" prevId="0" villagerId="1008">
+         
+        <Page social="5">We need you to link up with a scouting party behind the legion's lines.&lt;BR&gt;&lt;BR&gt;Find Erbale and his small squad. Render what assistance you can, but don't give away their position. We lost a lot of scouts trying to infiltrate the legion's position.</Page>
+    
+    </Text>
+    <Text huntingZoneId="227" id="3" prevId="2" villagerId="1021">
+         
+        <Page social="5">Velnen sent you? It's so good to know he's backing our moves out here.&lt;BR&gt;&lt;BR&gt;We could definitely use your help. Let's get to work!</Page>
+    
+    </Text>
+</QuestDialog>

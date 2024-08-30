@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="41" id="92" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="75" id="100" prevId="0" villagerId="1024">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="75" id="2" prevId="0" villagerId="1024">
+         
+        <Page social="0">Os {@LinkCreature:41#4001#ravenous basilisks} no norte de Feral Valley estão ficando mais ousados a cada dia que passa. Seus ataques nos custam vidas que não podemos nos dar ao luxo de poupar.&lt;BR&gt;&lt;BR&gt;Eu quero que você os cace e entregue a prova de suas mortes a Jeulile na Estação do Vale Feral.</Page>
+    
+    </Text>
+    <Text huntingZoneId="241" id="3" prevId="2" villagerId="1005">
+         
+        <Page social="4">Parece que sua reputação é bem merecida. Aqui está sua recompensa da federação - você a mereceu.</Page>
+    
+    </Text>
+    <Text huntingZoneId="241" id="4" villagerId="1005">
+         
+        <Page social="0">{Os basiliscos corvinos são uma ameaça para todos. A federação pagará bem por suas mortes.</Page>
+    
+    </Text>
+</QuestDialog>

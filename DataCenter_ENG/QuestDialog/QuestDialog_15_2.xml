@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="15" id="2" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="215" id="100" prevId="0" villagerId="1027">
+         
+        <Page social="0">An active dementalith would strip your sanity away with a single touch. Bedoram proposed blasting the device and introduced you to Jelena, a skilled saboteur.&lt;BR&gt;&lt;BR&gt;Jelena's bomb disabled the stone and you dispatched its vampir guardian. Jelena was dismayed that a vampir was involved. They had been decent beings once, she said. She left you to find out what had befallen them.&lt;BR&gt;&lt;BR&gt;Worse news followed. Bedoram recognized the runes engraved on the broken dementalith: sigils of the cult of Lok. This was no disease or random attack.&lt;BR&gt;&lt;BR&gt;This was part of a bigger plan.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="2" prevId="0" villagerId="1027">
+         
+        <Page social="4">One mustn't touch dementaliths, if it can be avoided. It takes considerable magical power to destroy them and the risk of madness is high.&lt;BR&gt;&lt;BR&gt;On the other hand, I know someone who can help. Jelena!&lt;BR&gt;&lt;BR&gt;She's one of the Valkyon Rangers and is quite adept with explosives. I know she's in the region. Track her down, &lt;PCNAME&gt;. She's, ah, a blast to work with.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="3" prevId="2" villagerId="1020">
+         
+        <Page social="4">Looking for me?&lt;BR&gt;&lt;BR&gt;You want to destroy a {@LinkCreature:15#21#dementalith}? Yes, it can be done, but it might not be that simple.&lt;BR&gt;&lt;BR&gt;If I was plotting this out, I'd have guards or some other protection for a relic that powerful. I'll give you the charge, but you'd best be ready for a fight.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="4" prevId="3" villagerId="1020">
+         
+        <Page social="4">Still standing, eh? Guess there's something to the stories about you after all. Nevermind. What happened?&lt;BR&gt;&lt;BR&gt;Vampirs? Let me see that fragment.&lt;BR&gt;&lt;BR&gt;Odd. Why would the vampirs be involved? They've lived in the kingdom for centuries. At the same time, Leander once told me vampirs have ties to blood magic. Enough speculation.&lt;BR&gt;&lt;BR&gt;Get that sample to Bedoram. It gives me the creeps.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="5" villagerId="1020">
+         
+        <Page social="0">Back already? Did you blow up the {@LinkCreature:15#21#dementalith}?</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="6" prevId="4" villagerId="1027">
+         
+        <Page social="4">Let me examine this more closely.&lt;BR&gt;&lt;BR&gt;There are symbols inscribed on it. That makes no sense. Why would Lok's sigil be on this fragment? He's dead and largely forgotten.&lt;NEXTPAGEBUTTON&gt;"Ever hear of the Scions of Lok?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">A cult dedicated to him? That's bizarre, but it might explain a few details. Cults thrive in splintered societies, drawing strength from the disaffected. This chaos could be the start of something much larger.&lt;BR&gt;&lt;BR&gt;Take this news to Prefect Paka, my friend. Hurry!</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="7" villagerId="1027">
+         
+        <Page social="0">Take the unusual stone to Bedoram.</Page>
+    
+    </Text>
+    <Text huntingZoneId="67" id="8" prevId="6" villagerId="1007">
+         
+        <Page social="4">A dementalith? Blood magic? A cult? Nature hates me.&lt;BR&gt;&lt;BR&gt;Why would the vampirs be working with a cult? They're happy here. We all are. It doesn't make sense.&lt;BR&gt;&lt;BR&gt;But where are my manners? I've forgotten the important thing!&lt;NEXTPAGEBUTTON&gt;"What's that?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">To thank you and Bedoram, obviously! You've saved my town from death or worse! We can't thank you enough!&lt;BR&gt;&lt;BR&gt;I fear that's literally true. With all these troubles, we've borrowed heavily to keep the district running.&lt;BR&gt;&lt;BR&gt;But tell {@LinkCreature:215#1012#Bruke} how grateful I am and I'm sure he'll reward you!</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="9" prevId="8" villagerId="1012">
+         
+        <Page social="4">You did your job, nothing more. Don't expect a parade in Velika anytime soon.&lt;BR&gt;&lt;BR&gt;Still, I'm authorized to give you a small reward.&lt;BR&gt;&lt;BR&gt;Take this, and await further orders...if General Samael decides to employ you again, that is.</Page>
+    
+    </Text>
+</QuestDialog>

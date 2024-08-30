@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="29" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="252" id="100" prevId="0" villagerId="1029">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="252" id="2" prevId="0" villagerId="1029">
+         
+        <Page social="4">O clima por si só já é bastante severo, mas agora estamos lidando com um número crescente de wraiths vingativos e imps de ossos ligados do exército de Thulsa.&lt;BR&gt;&lt;BR&gt;Os gritos deles estão deixando os aldeões em pânico, e isso nunca é bom para nenhum de nós. &lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, traga-me os cristais que os mantêm em movimento. E gritando.</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="3" prevId="2" villagerId="1029">
+         
+        <Page social="4">Bom trabalho! &lt;BR&gt;&lt;BR&gt;Agora nossos aldeões podem dormir à noite. &lt;BR&gt;&lt;BR&gt;Tudo isso se deve a você, &lt;PCNAME&gt;. Obrigado!</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="4" villagerId="1029">
+         
+        <Page social="0">Esses cristais mantêm os wraiths e seus diabinhos animados. Pegue os cristais e destrua os mortos-vivos. É simples assim.</Page>
+    
+    </Text>
+</QuestDialog>

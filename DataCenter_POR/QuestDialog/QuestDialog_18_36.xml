@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="18" id="36" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="218" id="100" prevId="0" villagerId="1009">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="218" id="2" prevId="0" villagerId="1009">
+         
+        <Page social="4">Os lokianos estão controlando {@LinkCreature:18#18#gigantes gladiadores} na Arena dos Exaltados. Se eles decidirem virá-los contra nós, eu não daria muito por nossas chances. Leve alguns para fora e informe. Preciso saber o quanto eles são mortais.</Page>
+    
+    </Text>
+    <Text huntingZoneId="218" id="3" prevId="2" villagerId="1009">
+         
+        <Page social="4">Obrigado, &lt;PCNAME&gt;. Você pode contar à Anaka sobre isso? Ela tem me procurado para falar sobre os gigantes há algum tempo.</Page>
+    
+    </Text>
+</QuestDialog>

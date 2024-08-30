@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="55" id="96" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="80" id="100" prevId="0" villagerId="1012">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="80" id="2" prevId="0" villagerId="1012">
+         
+        <Page social="0">We can't pacify the unseelie remnants so long as the dracoloths occupy the Plaza of the Fallen.&lt;BR&gt;&lt;BR&gt;Kill the {@LinkCreature:55#22#malbinar dracoloths}.&lt;BR&gt;&lt;BR&gt;Report to Jola at Valumnir Outpost when mission is complete.</Page>
+    
+    </Text>
+    <Text huntingZoneId="255" id="3" prevId="2" villagerId="1026">
+         
+        <Page social="4">You've earned the thanks of the federation!</Page>
+    
+    </Text>
+    <Text huntingZoneId="255" id="4" villagerId="1026">
+         
+        <Page social="0">It looks like you haven't completed your mission yet.</Page>
+    
+    </Text>
+</QuestDialog>

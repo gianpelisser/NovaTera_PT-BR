@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="47" id="23" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="247" id="100" prevId="0" villagerId="1014">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="247" id="2" prevId="0" villagerId="1014">
+         
+        <Page social="4">Os argonss se foram, mas deixaram algumas coisas para trás. Como as nagas - a saber, {@Creature:47#4001#argonomorph dagonite crusaders}. Ter menos delas tornaria nossa restauração mais suave.&lt;BR&gt;&lt;BR&gt;E procure por fadas. Não vimos nenhuma recentemente.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="3" prevId="2" villagerId="1014">
+         
+        <Page social="4">Bem, se houver fadas por aí, elas estarão mais seguras com menos nagas circulando. Obrigado.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="411" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">O documento de visão diz: &amp;quot;Procure o lendário ferreiro Muhrak em sua oficina em {@LinkCreature:79#1501#Habere}.&amp;quot;&lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;- Quando você aceitar a missão, o documento de visão desaparecerá.&lt;/font&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="411" id="3" prevId="2" villagerId="5001">
+         
+        <Page social="4">Então, o documento de visão o trouxe até mim? Muito bem, &lt;PCNAME&gt;! Você está pronto para aprender os segredos das minhas criações mais ambiciosas até agora?</Page>
+    
+    </Text>
+</QuestDialog>

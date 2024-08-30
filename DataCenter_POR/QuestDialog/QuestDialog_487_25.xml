@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="487" id="25" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="203" id="100" prevId="0" villagerId="1022">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="203" id="2" prevId="0" villagerId="1022">
+         
+        <Page social="5">Um bom comerciante sabe como obter lucro. Consegui um ótimo couro de um aventureiro que passou por aqui não faz muito tempo.&lt;BR&gt;&lt;BR&gt;Fiz ótimas luvas com ele - os lenhadores adoraram.&lt;NEXTPAGEBUTTON&gt;"Legal."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Sim. Tentei conseguir mais daquele couro para fazer mais daquelas luvas, mas não consigo derrubar o animal que o carrega.&lt;BR&gt;&lt;BR&gt;Se você puder ir até a caverna e pegar um pouco daquele couro para mim, eu lhe pagarei muito bem.</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="3" prevId="2" villagerId="1022">
+         
+        <Page social="5">Vocês trouxeram muito couro! Obrigado! Esse é exatamente o tipo de coisa de que vou precisar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="4" villagerId="1022">
+         
+        <Page social="0">Eu realmente preciso obter esse couro. Por favor, me ajude.</Page>
+    
+    </Text>
+</QuestDialog>

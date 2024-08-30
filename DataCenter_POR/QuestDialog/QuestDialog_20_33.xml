@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="20" id="33" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="220" id="100" prevId="0" villagerId="1006">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="220" id="2" prevId="0" villagerId="1006">
+         
+        <Page social="4">Sua primeira tarefa aqui será matar os combatentes corpo a corpo que patrulham os Halls of Utterdark. Os {@LinkCreature:20#30120100#devan outriders}, os {@LinkCreature:20#30120101#assassins} e os {@LinkCreature:20#30141000#lokian reapers} carregam registros que {@LinkCreature:220#1029#Kurbain} achará interessantes. Ele está pesquisando a hierarquia da organização que tomou conta daqui. Dê a ele toda a ajuda que puder.</Page>
+    
+    </Text>
+    <Text huntingZoneId="220" id="3" prevId="2" villagerId="1029">
+         
+        <Page social="4">Oh, fantástico, eu precisava de mais desses.&lt;BR&gt;&lt;BR&gt;Você disse que Arthgal o enviou aqui? Bom homem. Ele sabe que estou precisando de ajuda aqui há algum tempo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="220" id="4" villagerId="1029">
+         
+        <Page social="0">Você está aqui para alguma coisa?</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="3" id="90" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="203" id="100" prevId="0" villagerId="1004">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="203" id="2" prevId="0" villagerId="1004">
+         
+        <Page social="4">The stonebeaks are menacing trade routes, and if we don't teach them a lesson, their attacks will grow bolder.&lt;BR&gt;&lt;BR&gt;Hunt {@LinkCreature:3#1001#stonebeak fighters} and {@LinkCreature:3#101#stonebeak soldiers}.&lt;BR&gt;&lt;BR&gt;Show their spears to Rhona in Bulwark Camp when you're done. She's paying a bounty for them.</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="3" prevId="2" villagerId="1016">
+         
+        <Page social="4">Good work, soldier. Here's your reward.</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="4" villagerId="1016">
+         
+        <Page social="0">Get back out there, &lt;PCCLASS:lcase&gt;. We don't want stonebeaks getting unruly, do we?</Page>
+    
+    </Text>
+</QuestDialog>

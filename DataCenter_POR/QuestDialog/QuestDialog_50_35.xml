@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="50" id="35" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="76" id="100" prevId="0" villagerId="1033">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="76" id="2" prevId="0" villagerId="1033">
+         
+        <Page social="4">Eu o vi ajudar {@LinkCreature:76#1036} na busca por seu hushang. É muito importante ver um soldado dedicar tempo para cuidar dele.&lt;BR&gt;&lt;BR&gt;Ele precisa de um pouco mais de ajuda, e eu sei onde encontrá-la. Leve esta carta para {@LinkCreature:248#1015}. Ele ajudará com o resto.</Page>
+    
+    </Text>
+    <Text huntingZoneId="248" id="3" prevId="2" villagerId="1015">
+         
+        <Page social="6">Interessante. Um hushang, bem longe daqui. E você está disposto a dar uma mãozinha? &lt;NEXTPAGEBUTTON&gt;"Com certeza."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">O rapaz precisará de um metal fino. Não há escassez por aqui, mas coletá-lo não será seguro.&lt;BR&gt;&lt;BR&gt;Traga-me um pouco de minério de fyrdras para inspecionar. Se for aprovado, servirá para o hushang dele.</Page>
+    
+    </Text>
+    <Text huntingZoneId="76" id="4" prevId="3" villagerId="1033">
+         
+        <Page social="4">Minério de Fyrdras? Um metal digno, de fato. Nosso jovem amigo está criando uma lenda, não uma peça de exibição.&lt;BR&gt;&lt;BR&gt;Leve isso para {@LinkCreature:76#1036}. Você merece ver a expressão no rosto dele.</Page>
+    
+    </Text>
+    <Text huntingZoneId="76" id="5" villagerId="1033">
+         
+        <Page social="0">Você teve sucesso?</Page>
+    
+    </Text>
+    <Text huntingZoneId="76" id="6" prevId="4" villagerId="1036">
+         
+        <Page social="4">F-f-fyrdras ore? Louvado seja Kaia! Isso é incrível! &lt;BR&gt;&lt;BR&gt;Graças a você, não vou apenas completar meu hushang, vou conquistá-lo!</Page>
+    
+    </Text>
+</QuestDialog>

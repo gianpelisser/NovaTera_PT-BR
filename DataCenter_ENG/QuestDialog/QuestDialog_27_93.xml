@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="27" id="93" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="70" id="100" prevId="0" villagerId="1017">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="70" id="2" prevId="0" villagerId="1017">
+         
+        <Page social="0">Crush legion forces in the region and acquire proof of the deed. Kill {@LinkCreature:27#1#loamy sporewalkers} and {@LinkCreature:27#21#Thulsan battleragers}, {@LinkCreature:27#22#mystics}, {@LinkCreature:27#23#slayers}, {@LinkCreature:27#24#sorcerers}, and {@LinkCreature:27#25#reapers}.&lt;BR&gt;&lt;BR&gt;Report to Karlaina when your mission is complete.</Page>
+    
+    </Text>
+    <Text huntingZoneId="227" id="3" prevId="2" villagerId="1007">
+         
+        <Page social="5">We appreciate your efforts to pacify the legion.</Page>
+    
+    </Text>
+    <Text huntingZoneId="227" id="4" villagerId="1007">
+         
+        <Page social="0">I have no way to verify the mission is complete. Please bring back proof of your deeds.</Page>
+    
+    </Text>
+</QuestDialog>

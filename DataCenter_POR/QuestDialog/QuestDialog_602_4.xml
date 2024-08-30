@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="602" id="4" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="78" id="100" prevId="0" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="78" id="2" prevId="0" villagerId="3003">
+         
+        <Page social="4">Os argons atingiram um de nossos comboios de suprimentos e destruíram um carregamento inteiro de rações. Nossos combatentes não durarão muito se não puderem manter suas forças. &lt;BR&gt;&lt;BR&gt;Obtenha um suprimento de rações de emergência de {@LinkCreature:78#3008#Artur} e reabasteça nossas tropas no campo!</Page>
+    
+    </Text>
+    <Text huntingZoneId="78" id="3" prevId="2" villagerId="3008">
+         
+        <Page social="4">Não preciso dizer a um veterano como você como é vital manter as linhas de suprimento para o campo de batalha.&lt;BR&gt;&lt;BR&gt;Aqui, pegue essas rações de emergência e leve-as às nossas tropas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="248" id="4" prevId="3" villagerId="3003">
+         
+        <Page social="4">Não há tempo a perder. Leve essas rações para os soldados que precisam delas. &lt;BR&gt;&lt;BR&gt;Serei amaldiçoado se um soldado morrer porque passou fome!</Page>
+    
+    </Text>
+    <Text huntingZoneId="248" id="5" prevId="3" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="248" id="6" prevId="3" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="248" id="7" prevId="4" villagerId="3008">
+         
+        <Page social="4">Graças aos deuses! &lt;BR&gt;&lt;BR&gt;Preocupei-me com a possibilidade de ter de aprender o gosto do argons.</Page>
+    
+    </Text>
+    <Text huntingZoneId="248" id="8" prevId="4" villagerId="3006">
+         
+        <Page social="4">Nunca pensei que ficaria tão feliz ao ver um pacote de pão duro.&lt;BR&gt;&lt;BR&gt;Obrigado, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="248" id="9" prevId="8" villagerId="3004">
+         
+        <Page social="4">Obrigado por não ter se esquecido de nós.&lt;BR&gt;&lt;BR&gt;Não há sensação pior do que ser esquecido.</Page>
+    
+    </Text>
+    <Text huntingZoneId="248" id="10" prevId="9" villagerId="3005">
+         
+        <Page social="4">Bem, não é um assado com especiarias, mas estou muito feliz por tê-lo. Obrigado!</Page>
+    
+    </Text>
+    <Text huntingZoneId="248" id="11" prevId="10" villagerId="3010">
+         
+        <Page social="4">Os Shariar nunca se esquecem dos seus. Obrigado por isso!</Page>
+    
+    </Text>
+    <Text huntingZoneId="248" id="12" prevId="11" villagerId="3011">
+         
+        <Page social="4">Ficaremos bem por enquanto, graças a você.&lt;BR&gt;&lt;BR&gt;Isso deve nos segurar até a próxima remessa de suprimentos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="248" id="13" prevId="12" villagerId="3003">
+         
+        <Page social="4">Fico feliz que você tenha cuidado dos nossos combatentes, &lt;PCNAME&gt;. Uma coisa tão pequena, mas que significa muito para as pessoas que arriscam suas vidas todos os dias.</Page>
+    
+    </Text>
+</QuestDialog>

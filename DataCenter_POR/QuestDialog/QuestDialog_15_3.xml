@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="15" id="3" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="215" id="100" prevId="0" villagerId="1012">
+         
+        <Page social="0">O envolvimento dos vampiros com os dementaliths deixou o prefeito Paka consternado. Ele o enviou ao Vale das Presas para ajudar Jelena a descobrir a verdade.&lt;BR&gt;&lt;BR&gt;Você descobriu um acordo entre os nobres vampiros e o culto para produzir dementaliths na Sinestral Manor. Jelena elaborou um plano ousado para entrar na mansão e interromper a produção.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="2" prevId="0" villagerId="1012">
+         
+        <Page social="4">Aquele {@LinkCreature:67#1007#Paka} estava procurando por você. Que companhia estranha você tem, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="67" id="3" prevId="2" villagerId="1007">
+         
+        <Page social="4">&lt;PCNAME&gt;! Obrigado por ter vindo.&lt;BR&gt;&lt;BR&gt;Nós e os vampiros já fomos amigos, antes dessa loucura. Mas agora eles ameaçaram minha cidade.&lt;BR&gt;&lt;BR&gt;Se você fosse ao Vale das Presas e... reduzisse um pouco o número deles... as pessoas se sentiriam mais seguras.&lt;BR&gt;&lt;BR&gt;E desta vez eu o recompensaria pessoalmente. Esse Bruke provou ser um grande idiota! &lt;NEXTPAGEBUTTON&gt;"Deixe-me procurar outro caminho."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Ah, mas eu vi outro em suas roupas - um que já nos ajudou antes. Alguém que está fugindo! Se {@LinkCreature:216#1026#she} acredita que há outro caminho, confiarei nela.&lt;BR&gt;&lt;BR&gt;Não tema, não a trairei.&lt;BR&gt;&lt;BR&gt;Devemos muito a ela.</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="4" prevId="3" villagerId="1026">
+         
+        <Page social="4">Muito bem, &lt;PCNAME&gt;. Acho que nós dois gostamos de criar problemas! &lt;BR&gt;&lt;BR&gt;Eu estava certo sobre os vampiros. Eles estão sendo usados! Os nobres venderam seu povo para o Culto. Más notícias.&lt;BR&gt;&lt;BR&gt;Há um cultista em particular-{@LinkCreature:16#2406#Surdek}- sempre fazendo anotações. Temos que dar uma olhada neles! Preciso ter uma ideia de quanta magia de sangue eles aprenderam e como vão usá-la. Você acha que pode pegá-lo? &lt;BR&gt;&lt;BR&gt;Bom. Faça isso. Vou procurar uma maneira de entrar na Sinestral Manor. Muitos vampiros estão entrando e saindo de lá.</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="5" prevId="4" villagerId="1026">
+         
+        <Page social="4">Vamos ver as anotações dele.&lt;BR&gt;&lt;BR&gt;Aqui é a Sinestral Manor... o dispositivo que ele descreve pode produzir centenas de dementaliths.&lt;BR&gt;&lt;BR&gt;Blast e maldição! Com isso eles poderiam causar estragos por toda Poporia - ou além.&lt;BR&gt;&lt;BR&gt;Ok. Encontrei uma entrada, mas é uma porta secreta escravizada ao sangue real. Para nossa sorte, há um pouco disponível! Encontre o {@LinkObject:216#5#caixão da condessa} e o {@LinkObject:216#4#caixão do conde}. Eles podem doar para a causa.&lt;BR&gt;&lt;BR&gt;Encontrarei você na {@LinkCreature:216#1028#Sinestral Manor}. Tragam bastante sangue!</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="6" villagerId="1026">
+         
+        <Page social="0">Acabe com {@LinkCreature:16#2406#Surdek} e me traga suas anotações. Temos que descobrir o que eles estão tramando.</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="7" prevId="5" villagerId="1028">
+         
+        <Page social="4">Você sangrou aqueles sangues-azuis? Muito bem.&lt;BR&gt;&lt;BR&gt;Eu tenho algumas bombas... e proteção contra aquela magia sanguínea.&lt;BR&gt;&lt;BR&gt;O primeiro a lutar, o primeiro a beber! Vamos lá!</Page>
+    
+    </Text>
+</QuestDialog>

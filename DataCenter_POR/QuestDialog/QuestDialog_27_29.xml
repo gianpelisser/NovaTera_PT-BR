@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="27" id="29" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="227" id="100" prevId="0" villagerId="1008">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="227" id="2" prevId="0" villagerId="1008">
+         
+        <Page social="5">Os arcanistas da Legião Brogar de Thulsa estão usando algum tipo de amuleto para controlar seus golems. Se pudéssemos nos apoderar desses amuletos, os golems se tornariam inofensivos! &lt;BR&gt;&lt;BR&gt;Caça alguns {@LinkCreature:27#9#Thulsan dreadweavers} e {@LinkCreature:27#11#Thulsan arcanists} e recupere seus amuletos.&lt;BR&gt;&lt;BR&gt;Tenha cuidado, &lt;PCNAME&gt;. A reputação da Legião Brogar teve um grande custo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="227" id="3" prevId="2" villagerId="1023">
+         
+        <Page social="5">Excelente trabalho! Agora haverá menos golems com que se preocupar.&lt;BR&gt;&lt;BR&gt;Nada disso teria sido possível sem sua ajuda, &lt;PCNAME&gt;. Muito obrigado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="227" id="4" villagerId="1023">
+         
+        <Page social="0">Elimine os {@LinkCreature:27#9#Thulsan dreadweavers} e os {@LinkCreature:27#11#Thulsan arcanists} que estão controlando os golems.</Page>
+    
+    </Text>
+</QuestDialog>

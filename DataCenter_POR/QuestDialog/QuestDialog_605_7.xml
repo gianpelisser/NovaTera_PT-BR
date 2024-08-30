@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="605" id="7" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="63" id="100" prevId="0" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="2" prevId="0" villagerId="3003">
+         
+        <Page social="4">Inacreditável! &lt;BR&gt;&lt;BR&gt;Estou tão ocupado que não tenho tempo nem para beber um frasco de água. E aqui está você vagando pela cidade sem nada para fazer!&lt;NEXTPAGEBUTTON&gt;"Esse sou eu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">A {@LinkCreature:63#3002#Taratia} precisa de ajuda, como sempre. Ela está me irritando, eu lhe digo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="3002">
+         
+        <Page social="4">Graças aos deuses, eu não confio que você esteja aqui. {&lt;BR&gt;&lt;BR&gt;Devo manter o controle de todos os materiais que precisamos para o nosso trabalho, sem contar o suprimento geral dos comerciantes. Procurar os suprimentos e entregar as coisas por toda a cidade. Suas expectativas são ridículas!</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="4" prevId="2" villagerId="3002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="5" prevId="2" villagerId="3002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="6" prevId="2" villagerId="1098">
+         
+        <Page social="5">Você é muito bom em encontrar materiais. Velika poderia usar mais alguns como você.&lt;BR&gt;&lt;BR&gt;Dê a {@LinkCreature:63#3002#Taratia} meus agradecimentos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="7" villagerId="1098">
+         
+        <Page social="0">Por que você está aqui? Há algo errado?</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="8" prevId="6" villagerId="1098">
+         
+        <Page social="5">Muito obrigado, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;As Mãos de Velika fazem um trabalho extraordinário. Diga a {@LinkCreature:63#3002#Taratia} que eu disse obrigado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="9" villagerId="1098">
+         
+        <Page social="0">Você está aqui para fazer artesanato? Espere, é você quem está me trazendo os suprimentos de Taratia, certo?</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="10" prevId="8" villagerId="3002">
+         
+        <Page social="4">Excelente trabalho, como sempre, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="17" id="32" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="217" id="100" prevId="0" villagerId="1014">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="217" id="2" prevId="0" villagerId="1014">
+         
+        <Page social="5">Nice thing about cultists? Not good at thinking for themselves! Keep doing whatever they're doing 'til someone stops 'em.&lt;BR&gt;&lt;BR&gt;Oh, don't give me that look. This'll be cub's play for you! {@LinkCreature:17#305#Heavens Fall dervishes} are the cult's pride and joy. Kill them, and the rest just stand there with those barrels over their heads and look stupid. Well, stupider.&lt;BR&gt;&lt;BR&gt;Helpful tip? Easier to keep count if you take those amulets they all wear. I have fifty myself!</Page>
+    
+    </Text>
+    <Text huntingZoneId="217" id="3" prevId="2" villagerId="1014">
+         
+        <Page social="5">Excellent! You've now learned Puran's Second Maxim: Kill officers to kill momentum.&lt;BR&gt;&lt;BR&gt;What a day! You've learned two lessons in soldiering and it seems I'm done with all my work for the week! I suggest we take a break. Nature knows we've both earned one!&lt;BR&gt;&lt;BR&gt;You're all right, soldier.</Page>
+    
+    </Text>
+    <Text huntingZoneId="217" id="4" villagerId="1014">
+         
+        <Page social="0">Dervishes? Crazy-looking women with horns and swords and no sense of humor?&lt;BR&gt;&lt;BR&gt;Go! Kill!</Page>
+    
+    </Text>
+</QuestDialog>

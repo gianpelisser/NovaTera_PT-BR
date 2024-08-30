@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="40" id="26" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="240" id="100" prevId="0" villagerId="1016">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="240" id="2" prevId="0" villagerId="1016">
+         
+        <Page social="4">Desde que os {@LinkCreature:40#11#selvaras scouts} apareceram, as pessoas estão desaparecendo. Talvez estejam sendo vendidas como escravas - certamente ninguém pediu resgate.&lt;BR&gt;&lt;BR&gt;Matar alguns deles pode fazê-los pensar novamente, por isso estou oferecendo um resgate por qualquer sinal de identificação que você encontrar nos corpos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="240" id="3" prevId="2" villagerId="1016">
+         
+        <Page social="4">Você não viu nenhuma das pessoas desaparecidas? Nenhuma? &lt;BR&gt;&lt;BR&gt;Isso significa que provavelmente já estão longe.&lt;BR&gt;&lt;BR&gt;Obrigado por ajudar, no entanto.</Page>
+    
+    </Text>
+    <Text huntingZoneId="240" id="4" villagerId="1016">
+         
+        <Page social="0">Tenho certeza de que os {@LinkCreature:40#11#selvaras scouts} têm algum tipo de tokens de identificação. É disso que eu preciso.</Page>
+    
+    </Text>
+</QuestDialog>

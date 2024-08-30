@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="15" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="67" id="100" prevId="0" villagerId="1015">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="67" id="2" prevId="0" villagerId="1015">
+         
+        <Page social="0">Ordens da missão&lt;BR&gt;&lt;BR&gt;{@LinkCreature:15#14#Blood Fiends} estão matando gado e viajantes perto do Knoll of Screams. Desobstrua as estradas e proteja a área.&lt;BR&gt;&lt;BR&gt;Relate a Moimui no Campo Redenção quando a missão estiver concluída.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="3" prevId="2" villagerId="1023">
+         
+        <Page social="5">Não me esquecerei de mencioná-lo em meu relatório, &lt;PCNAME&gt;. Talvez meus superiores achem conveniente colocá-lo na guarda do reino.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="4" villagerId="1023">
+         
+        <Page social="0">Mate os Demônios do Sangue. Traga-me seus corações. Simples, não é?</Page>
+    
+    </Text>
+</QuestDialog>

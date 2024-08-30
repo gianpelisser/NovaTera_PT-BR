@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="702" id="8" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="219" id="100" prevId="0" villagerId="7003">
+         
+        <Page social="0">Você caçava hienas no rancho de Filton.</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="2" prevId="0" villagerId="7003">
+         
+        <Page social="4">Olá, &lt;PCNAME&gt;! Eu estava esperando que você viesse. &lt;BR&gt;&lt;BR&gt;As hienas voltaram. Posso pedir-lhe que as afaste novamente? &lt;NEXTPAGEBUTTON&gt;&amp;quot;Sim.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="3" prevId="2" villagerId="7003">
+         
+        <Page social="4">Você é incrível, &lt;PCNAME&gt;. Tem certeza de que não quer se estabelecer e se tornar um fazendeiro? &lt;BR&gt;&lt;BR&gt;Bem, tudo bem. Tome este leite fresco como recompensa. E fique à vontade para voltar sempre que quiser! &lt;NEXTPAGEBUTTON&gt;&amp;quot;Não foi nenhum problema!&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</QuestDialog>

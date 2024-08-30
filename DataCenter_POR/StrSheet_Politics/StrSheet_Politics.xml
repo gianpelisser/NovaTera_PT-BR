@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StrSheet_Politics xmlns="https://vezel.dev/novadrop/dc/StrSheet_Politics" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Politics StrSheet_Politics.xsd">
+    <String id="1" string="Comitê Eleitoral da Valkyon" />
+    <String id="2" string="Guia eleitoral" />
+    <String id="3" string="Assuma as rédeas! Concorra a um cargo de Vanarca da Federação Valkyon e ganhe honra e poder. Cada Vanarca administra uma província, definindo políticas e lucrando com os impostos locais.  Registre-se no Cartório Eleitoral de qualquer cidade grande. Elegibilidade:    Pelo menos nível {UserLevel}.    Mestre de guilda de uma guilda de nível {GuildLevel} com pelo menos {Count} membros da guilda. Taxa de registro: {Amount} Prêmios Catharnach.    {Gold@money}.  Boa sorte!" />
+    <String id="4" string="Para seu voto {ElectionContinent}" />
+    <String id="5" string="{ElectionContinent} Resultado Votou em {UserName} da guilda {GuildName}." />
+    <String id="6" string="Regras regionais de PvP" />
+    <String id="7" string="Usar a configuração global de PvP" />
+    <String id="8" string="No PVP" />
+    <String id="10" string="Comerciantes locais" />
+    <String id="20" string="Qualidade do clérigo local" />
+    <String id="30" string="Instrutores locais" />
+    <String id="40" string="Corretores de comércio provinciais" />
+    <String id="31" string="Registrado: {lordNumber}{@ordinal:{lordNumber}} Competição Vanarch" />
+    <String id="32" string="Obrigado por sua inscrição na competição de vanarch {lordNumber}{@ordinal:{lordNumber}} e boa sorte! Detalhes Continente: {ElectionContinent} Decidido por: {ContestType} Províncias preferidas 1ª província: {guardName1} 2ª província: {guardName2}    3ª província: {guardName3}    4ª província: {guardName4}    5ª província: {guardName5}  Você deve conquistar o respeito de seus colegas jogadores para vencer!" />
+    <String id="41" string="Resultados da Vanarch: {ElectionContinent}" />
+    <String id="42" string="Parabéns! Você é o {lordNumber}{@ordinal:{lordNumber}} da província {guardName}. Vanarch! Privilégios: Você ganha ouro de qualquer excedente de impostos. Os membros de sua guilda ganham Honor Steeds.  Poderes: Você pode ajustar as taxas de impostos, alterar as regras de PvP, atribuir NPCs especializados e fazer anúncios provinciais aos usuários. Processo: Gerencie políticas e taxas de impostos por meio de Aides na maioria das cidades provinciais." />
+    <String id="101" string="Fim do mandato da Vanarch" />
+    <String id="102" string="A Federação lhe agradece pelo seu serviço. Anexamos o restante de seus lucros tributários provinciais." />
+    <String id="201" string="fora da classificação" />
+    <String id="301" string="Popular Vote" />
+    <String id="302" string="Competição GvG" />
+    <String id="1001" string="Definir taxas de impostos sobre lojas e serviços" />
+    <String id="1002" string="Imposto sobre vendas de mercadorias em geral" />
+    <String id="1003" string="Imposto sobre vendas de cristais" />
+    <String id="1004" string="Imposto sobre vendas da Glyph" />
+    <String id="1005" string="Elaboração do imposto sobre vendas" />
+    <String id="1006" string="Imposto sobre vendas em lojas especializadas" />
+    <String id="2001" string="Imposto sobre amenidades" />
+    <String id="2002" string="Taxa de voo" />
+    <String id="2003" string="Imposto sobre treinamento de habilidades" />
+    <String id="2004" string="Imposto teleportal" />
+    <String id="31300005" string="Não há lojas especializadas" />
+    <String id="31300006" string="Lojas especializadas abertas" />
+    <String id="31300007" string="Clérigos da Restauração" />
+    <String id="31300008" string="Nobres Clérigos da Restauração" />
+    <String id="31300009" string="Instrutores de habilidades não" />
+    <String id="31300010" string="Instrutores de habilidades oferecidos" />
+    <String id="31300011" string="Corretoras não comerciais" />
+    <String id="31300012" string="Corretores de Comércio presentes" />
+    <String id="10001" string="Permitir PvP em sua província." />
+    <String id="10002" string="Proibir PvP em sua província." />
+    <String id="10003" string="Fechar lojas especializadas que vendem itens não disponíveis em lojas normais." />
+    <String id="10004" string="Abrir lojas especializadas que vendem itens não disponíveis em lojas normais." />
+    <String id="10005" string="Os Clérigos da Restauração restaurarão a resistência dos jogadores." />
+    <String id="10006" string="Os Noble Clerics of Restoration restauram a resistência dos jogadores e também adicionam um bônus de velocidade." />
+    <String id="10007" string="Feche os instrutores de habilidades locais." />
+    <String id="10008" string="Oferecer instrutores de habilidades locais." />
+    <String id="10009" string="Taxa de imposto sobre vendas em armazéns gerais locais." />
+    <String id="10010" string="Taxa de imposto sobre vendas em Crystal Stores locais." />
+    <String id="10011" string="Taxa de imposto sobre o serviço dos Glyphmasters locais." />
+    <String id="10012" string="Taxa de imposto sobre vendas em lojas de artesanato locais." />
+    <String id="10013" string="Imposto cobrado sobre viagens da Pegasus na província." />
+    <String id="10014" string="Imposto sobre todo treinamento de habilidades na província." />
+    <String id="10015" string="Imposto cobrado sobre viagens de teletransporte na província." />
+    <String id="10016" string="{UserName} alterou a política {PolicyName} da província {GuardName} para {PolicyItemName}." />
+    <String id="10017" string="{UserName} alterou a política {PolicyName} da província {GuardName} para {PolicyItemName}." />
+    <String id="10018" string="A política {PolicyName} da província {GuardName} foi redefinida para {PolicyItemName}." />
+    <String id="10019" string="A província não tem corretores de comércio" />
+    <String id="10020" string="A província tem corretores de comércio" />
+    <String id="10021" string="Taxa de imposto sobre vendas em lojas especializadas locais." />
+    <String id="20001" string="Competição GvG" />
+    <String id="20002" string="Popular Vote" />
+    <String id="20011" string="Registro" />
+    <String id="20012" string="Concorrência" />
+    <String id="20013" string="Reinar" />
+    <String id="20021" string="Durante o registro de candidatos, os mestres de guilda podem se candidatar a vanarch&lt;BR&gt;via Election Registrars e selecionar suas províncias preferidas." />
+    <String id="20022" string="Os candidatos competem por uma zona em seu continente selecionado por meio de votos ou pontos de GvG. Todas as competições são por continente. Os jogadores elegíveis podem votar clicando no ícone de voto próximo à Bússola. Os candidatos com o maior&lt;BR&gt;número de votos ou pontos GvG vencem." />
+    <String id="20023" string="Se você vencer uma vanarquia, receberá uma província de acordo com a classificação. Você terá a obrigação de administrar a província com honra. Por meio de NPC Aides,&lt;BR&gt;os vanarcas criam políticas, estabelecem taxas de impostos e mantêm a ordem." />
+    <String id="20031" string="Etapa atual: Registro&lt;br&gt;Tempo final: {CurrentStateEndTime}&lt;br&gt;&lt;br&gt;Próxima etapa: Competição&lt;br&gt;Horário de início: {NextStateStartTime}" />
+    <String id="20032" string="Fase atual: Competição&lt;br&gt;Hora de término: {CurrentStateEndTime}&lt;br&gt;&lt;br&gt;Próxima etapa: Reign&lt;br&gt;Hora de início: {NextStateStartTime}" />
+    <String id="20033" string="Estágio atual: Reign&lt;br&gt;Tempo de término: {CurrentStateEndTime}&lt;br&gt;&lt;br&gt;Next Stage (próxima etapa): Registration (Registro)&lt;br&gt;Start time (Hora de início): {NextStateStartTime}" />
+    <String id="20041" string="Nenhum" />
+    <String id="30001" string="Sem histórico de vanarch" />
+    <String id="30002" string="{lordNumber}{@ordinal:{lordNumber}} Vanarca de {guardName}" />
+</StrSheet_Politics>

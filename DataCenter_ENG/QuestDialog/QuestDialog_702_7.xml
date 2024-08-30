@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="702" id="7" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="219" id="100" prevId="0" villagerId="7002">
+         
+        <Page social="0">You helped Tagun herd his sheep.</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="2" prevId="0" villagerId="7002">
+         
+        <Page social="4">Nice to see you, friend. The sheep, um, got away from me. Again. Can you help me herd them? &lt;NEXTPAGEBUTTON&gt;&amp;quot;Sure.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="702" id="3" villagerId="7">
+         
+        <Page social="0">Baah-aah! Baaaah!</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="4" prevId="2" villagerId="7002">
+         
+        <Page social="4">You tell me which sheep behaved the worst, and I'll read him the recipe for lamb bulgogi.&lt;BR&gt;&lt;BR&gt;Well, thank you for your help. Have a token of my appreciation! &lt;NEXTPAGEBUTTON&gt;&amp;quot;Thank you.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="2" id="22" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="202" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="202" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="4">No entanto, poderíamos tranquilizar Lennert um pouco se coletássemos a madeira cortada que a última tripulação deixou para trás quando fugiu ou morreu.&lt;BR&gt;&lt;BR&gt;E por "nós", quero dizer "você".&lt;BR&gt;&lt;BR&gt;Verifique a base da colina e traga de volta a madeira que puder.</Page>
+    
+    </Text>
+    <Text huntingZoneId="202" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="4">É mais madeira do que eu pensava! Vou medi-la e empacotá-la, e Lennert poderá fazer algum progresso em relação à sua preciosa "cota". Sempre precisamos de mais madeireiros por aqui.</Page>
+    
+    </Text>
+    <Text huntingZoneId="202" id="4" villagerId="1001">
+         
+        <Page social="0">Minha última equipe deve ter deixado um dia inteiro de trabalho lá embaixo quando os centauros chegaram. Não deve ser difícil encontrá-la.&lt;BR&gt;&lt;BR&gt;Quero dizer... você sabe como é a madeira, certo?</Page>
+    
+    </Text>
+</QuestDialog>

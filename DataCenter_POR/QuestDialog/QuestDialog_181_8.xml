@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="181" id="8" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="181" id="100" prevId="0" villagerId="1102">
+         
+        <Page social="0">&lt;PCNAME&gt; coletou evidências do assassino conversando com os sobreviventes de Baraka.&lt;BR&gt;Em seguida, &lt;PCNAME&gt; encontrou um soldado suspeito que disse nunca ter ouvido falar das letras de Skald Omeros, e foi revelado que ele era um infiltrado do Exército Imperial de Archdevan disfarçado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="2" prevId="0" villagerId="1102">
+         
+        <Page social="4">Esses soldados baraka faziam parte de uma patrulha que desapareceu; a guarda da Highwatch estava procurando por eles.&lt;BR&gt;&lt;BR&gt;Você deve informar ao capitão deles que os encontrou mortos e que purificou suas almas.&lt;NEXTPAGEBUTTON&gt;"Vou informá-lo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="3" prevId="2" villagerId="1022">
+         
+        <Page social="4">Minhas desculpas, &lt;PCNAME&gt;. Estou um pouco nervoso e não o reconheci de início.&lt;BR&gt;&lt;BR&gt;Estamos procurando membros de uma patrulha que desapareceu ontem à noite. Encontramos alguns, mas ainda há muitos desaparecidos.&lt;BR&gt;&lt;BR&gt;Você viu algum sinal deles? &lt;NEXTPAGEBUTTON&gt;"Eu os encontrei... assassinados durante a noite por arquidevas."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Era o que eu temia. Os arquidevas se tornaram muito mais ousados desde que Verikam foi raptado.&lt;BR&gt;&lt;BR&gt;Encontramos alguns deles vivos, mas eles não estão... muito bem. Talvez, se você conversar com eles, eles possam lhe contar o que aconteceu - como os arquidevas conseguiram surpreendê-los...&lt;BR&gt;&lt;BR&gt;Verifiquem os baús de remédios em busca de Filtros de Compostura e, se encontrarem algum, dêem-no aos sobreviventes que encontrarem. Isso deve trazê-los de volta ao bom senso.&lt;NEXTPAGEBUTTON&gt;"Eu cuido disso."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="4" prevId="3" villagerId="1028">
+         
+        <Page social="4">(Em meio a frascos quebrados e bandagens rasgadas, há um frasco marcado como "Composure".)&lt;NEXTPAGEBUTTON&gt;"Deve ser isso."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="5" prevId="4" villagerId="1026">
+         
+        <Page social="0">Nuh-nuh... não... eu não! Afaste-se, afaste-se, afaste-se de mim! &lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Calma, soldado. Tome, isto aliviará seu sofrimento."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Não! Não! EU... EU... Eu o conheço? &lt;BR&gt;&lt;BR&gt;Ahh, tudo está voltando para mim...&lt;BR&gt;&lt;BR&gt;Estávamos fazendo uma patrulha quando meus companheiros começaram a gritar e a correr. Não sei o que começou, mas momentos depois eu também fui tomado por um pânico cego! Algo... algo que se movia com velocidade insana estava nos seguindo! &lt;BR&gt;&lt;BR&gt;Mas agora o pânico passou, obrigado. Será que sou o único sobrevivente? &lt;NEXTPAGEBUTTON&gt;"Ainda estou procurando."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="6" prevId="5" villagerId="1027">
+         
+        <Page social="0">Tenham misericórdia! Piedade! Oh, por favor, poupe minha vida ou, pelo menos, tire-a rapidamente! &lt;NEXTPAGEBUTTON&gt;"Calma aí. Isso deve ajudar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">O que...? O que aconteceu? Para onde ele foi?&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;! Eu vi o que aconteceu! Foi um de nós! &lt;BR&gt;&lt;BR&gt;Foi alguém disfarçado de soldado da Patrulha Superior! Pensei que ele fosse um novo membro da patrulha, mas assim que nos afastamos o suficiente das luzes da cidade, ele nos atacou! Mas não era um mero disfarce! Ele... de alguma forma, provocou pânico cego em todos nós! &lt;BR&gt;&lt;BR&gt;Eu lhe digo, &lt;PCNAME&gt;: Algo está se escondendo entre nós, disfarçado como um de nós... Encontre-o, antes que mais soldados morram! &lt;NEXTPAGEBUTTON&gt;"Você tem minha palavra."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="7" prevId="6" villagerId="1008">
+         
+        <Page social="4">Eu disse que o caminho está fechado.&lt;BR&gt;&lt;BR&gt;Se você não sair agora mesmo, vou amarrá-lo e deixá-lo na beira da estrada para as hienas!&lt;BR&gt;&lt;BR&gt;Quem você pensa que é, seu verme estrangeiro? &lt;NEXTPAGEBUTTON&gt;"Omeros me enviou para lhe dar uma mensagem."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">&lt;BR&gt;&lt;BR&gt;Oh, certo - Omeros, o... Alto Seeker. Qual é a mensagem? &lt;NEXTPAGEBUTTON&gt;"Estamos indo atrás de você, arquideva!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="8" prevId="7" villagerId="1022">
+         
+        <Page social="4">Um arquideva disfarçado de guarda da Patrulha Superior? &lt;BR&gt;&lt;BR&gt;Esta é uma notícia terrível. Devo me reportar ao Guardião Sábio; ele vai querer garantir que não sejamos infiltrados dessa forma novamente.&lt;BR&gt;&lt;BR&gt;Obrigado, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"Para que servem os amigos?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</QuestDialog>

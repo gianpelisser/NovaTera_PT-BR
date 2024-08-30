@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="25" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="228" id="100" prevId="0" villagerId="1005">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="228" id="2" prevId="0" villagerId="1005">
+         
+        <Page social="5">Poderíamos trabalhar muito mais se não estivéssemos correndo o risco de nos tornarmos o almoço de algum lobo! Aqueles {@LinkCreature:28#1021#lobos espinhosos} podem nos transformar em carne moída com apenas alguns lampejos de suas presas.&lt;BR&gt;&lt;BR&gt;Queremos ajudar a cidade, mas não vou arriscar meu povo apenas para que alguns outros possam se deleitar atrás de uma parede. Se vocês matarem os lobos, continuaremos trabalhando para conter a corrupção.</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="3" prevId="2" villagerId="1005">
+         
+        <Page social="5">Nossa! São muitas presas. Acho que os lobos não serão um problema por um tempo.&lt;BR&gt;&lt;BR&gt;Falarei com minha equipe. Voltaremos ao trabalho. Obrigado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="4" villagerId="1005">
+         
+        <Page social="0">A ideia de ser comida de lobo lhe agrada? Acho que não. Também não é minha ideia de diversão e jogos, então mate alguns dos lobos espinhosos e todos nós poderemos seguir em frente.</Page>
+    
+    </Text>
+</QuestDialog>

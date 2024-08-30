@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StrSheet_Passivity xmlns="https://vezel.dev/novadrop/dc/StrSheet_Passivity" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Passivity StrSheet_Passivity.xsd">
+    <String id="80010" name="Artefato principal - Pounding VII" tooltip="Causa $value mais dano contra monstros" />
+    <String id="80020" name="Artefato principal - Fúria do Destruidor VII" tooltip="1.52 vezes mais poder de crítico em um ataque por trás" />
+    <String id="80030" name="Artefato principal - Triturador de Caça-Vampiros VII" tooltip="1.74 mais poder de crítico ao atacar um monstro com menos de 50% de HP" />
+    <String id="80040" name="Artefato principal - Rombos Furiosos VII" tooltip="$value de dano adicional ao atacar com menos de 50% de HP" />
+    <String id="80050" name="Artefato principal - Triturador de Foco VII" tooltip="1.88 mais poder de crítico ao atacar um monstro enfurecido (Rage)" />
+    <String id="80060" name="Artefato principal - Triturador Virulento VII" tooltip="Efeito venenoso com dano crítico a alvos propensos." />
+    <String id="80070" name="Artefato principal - Brutal VII" tooltip="Aumenta o dano causado a oponentes derrubados em $value." />
+    <String id="80080" name="Artefato principal - Cruel VII" tooltip="0.48 mais poder de crítico ao derrubar oponentes." />
+    <String id="80090" name="Artefato principal - Forte VII" tooltip="Aumenta Poder do ataque crítico por trás" />
+    <String id="80100" name="Artefato principal - Savage VII" tooltip="1.32 vezes mais poder de crítico em um ataque por trás" />
+    <String id="80110" name="Artefato principal - Astúcia VII" tooltip="Aumenta o MP máximo em $value." />
+    <String id="80120" name="Artefato principal - Infundido VII" tooltip="285 de regeneração de MP ao ser derrubado" />
+    <String id="80130" name="Artefato principal - Brilhante VII" tooltip="245 de regeneração de MP no ataque crítico por trás" />
+    <String id="80140" name="Artefato principal - Swift VII" tooltip="A velocidade de movimento em combate aumenta em $value" />
+    <String id="80150" name="Artefato principal - Brilhante VII" tooltip="Restaura $value of MP per $tickInterval" />
+    <String id="80160" name="Artefato principal - Escultura VII" tooltip="Aumenta a chance de crítico em 3.3%" />
+    <String id="80170" name="Artefato principal - Salivating Rhomb VII" tooltip="Restaura 89% do MP ao atacar um Jogador" />
+    <String id="80180" name="Artefato principal - Romb VII ameaçador" tooltip="$value mais Aggro ao usar uma habilidade" />
+    <String id="80190" name="Artefato principal - Vontade do Destruidor VII" tooltip="$value menos dano do monstro" />
+    <String id="80200" name="Artefato principal - Triturador de proteção VII" tooltip="$value menos chance de taxa de crítico para si mesmo quando o HP estiver abaixo de 50%" />
+    <String id="80210" name="Artefato principal - Túmulo Resoluto VII" tooltip="Reduz o dano em $value quando estiver abaixo de 50% de HP." />
+    <String id="80220" name="Artefato principal - Triturador de Rombos Posicionados VII" tooltip="Você recebe $value a menos de dano de monstros enfurecidos." />
+    <String id="80230" name="Artefato principal - Empyrean VII" tooltip="Ativa o Escudo quando derrubado por monstros enfurecidos." />
+    <String id="80240" name="Artefato principal - Proteção VII" tooltip="Ativa o Escudo quando derrubado por uma chance de $prob" />
+    <String id="80250" name="Artefato principal - Inspirador VII" tooltip="$prob chance de fornecer regeneração de HP quando derrubado." />
+    <String id="80260" name="Artefato principal - Implacável VII" tooltip="Aumenta o HP máximo em $value." />
+    <String id="80270" name="Artefato principal - Pé de Frota VII" tooltip="A velocidade de movimento aumenta em $value" />
+    <String id="80280" name="Artefato principal - Vigoroso VII" tooltip="Restaura $value of HP por $tickInterval" />
+    <String id="80290" name="Artefato principal - Luto VII" tooltip="Recupera 117 MP quando atingido por um Jogador" />
+    <String id="81001" name="Sub artefato - Brilhante VII" tooltip="Recupera 60 MP em um ataque crítico por trás" />
+    <String id="81002" name="Sub artefato - Astúcia VII" tooltip="Aumenta o MP máximo em $value." />
+    <String id="81003" name="Sub artefato - Infundido VII" tooltip="Restaura 63 MP ao ser derrubado." />
+    <String id="81004" name="Sub artefato - Salivating Rhomb VII" tooltip="Restaura 21 de MP ao atacar um Jogador" />
+    <String id="81005" name="Sub artefato - Brutal VII" tooltip="Aumenta o dano causado a oponentes derrubados em $value." />
+    <String id="81006" name="Sub artefato - Brilhante VII" tooltip="Restaura $value of MP per $tickInterval" />
+    <String id="81007" name="Sub artefato - Swift VII" tooltip="A velocidade de movimento em combate aumenta em $value" />
+    <String id="81008" name="Sub artefato - Triturador de Rombos Posicionado VII" tooltip="Você recebe $value a menos de dano de monstros enfurecidos." />
+    <String id="81009" name="Sub artefato - Triturador Resoluto VII" tooltip="Reduz o dano em $value quando estiver abaixo de 50% de HP." />
+    <String id="81010" name="Sub artefato - Luto VII" tooltip="Recupera 28 MP quando atingido pelo Jogador" />
+    <String id="81011" name="Sub artefato - Triturador de proteção VII" tooltip="$value menos chance de taxa de crítico para si mesmo quando o HP estiver abaixo de 50%" />
+    <String id="81012" name="Sub artefato - Implacável VII" tooltip="Aumenta o HP máximo em $value." />
+    <String id="81013" name="Sub artefato - Vigoroso VII" tooltip="Restaura $value of HP por $tickInterval" />
+</StrSheet_Passivity>

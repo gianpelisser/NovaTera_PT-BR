@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="9" id="34" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="209" id="100" prevId="0" villagerId="1023">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="209" id="2" prevId="0" villagerId="1023">
+         
+        <Page social="0">(Um documento ao lado do corpo do sacerdote mostra as runas necessárias para criar um santuário mágico aqui.)&lt;BR&gt;&lt;BR&gt;(As runas dizem ser capazes de afastar os gulas. No entanto, os planos não estão completos).</Page>
+    
+    </Text>
+    <Text huntingZoneId="209" id="3" prevId="2" villagerId="1005">
+         
+        <Page social="4">Um sacrifício tão trágico, mas o esforço para afastar os gulas pode render dividendos, afinal. Sinto um poder real nesses planos.&lt;BR&gt;&lt;BR&gt;Não havia nenhuma pedra rúnica por aí onde você encontrou esses planos, havia? Aposto que os gulas pensaram que eram joias brilhantes e as saquearam. Saquear os mortos - como é desagradável!</Page>
+    
+    </Text>
+    <Text huntingZoneId="209" id="4" villagerId="1005">
+         
+        <Page social="0">Posso ajudá-lo?</Page>
+    
+    </Text>
+</QuestDialog>

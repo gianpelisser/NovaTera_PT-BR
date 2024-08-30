@@ -1,0 +1,504 @@
+<QuestGroupList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestGroupList QuestGroupList.xsd" xmlns="https://vezel.dev/novadrop/dc/QuestGroupList">
+    <QuestHuntingZoneList>
+        <HuntingZone id="1" name="{@Rgn:1001$$Ruinweald}" kind="solo" step="27" />
+        <HuntingZone id="2" name="{@Rgn:2001$$Fey Forest}" kind="solo" step="3" />
+        <HuntingZone id="3" name="{@Rgn:3001$$Oblivion Woods}" kind="solo" step="4" />
+        <HuntingZone id="4" name="{@Rgn:4001$$Fyrmount}" kind="solo" step="18" />
+        <HuntingZone id="5" name="{@Rgn:5001$$Tuwangi Mire}" kind="solo" step="6" />
+        <HuntingZone id="6" name="{@Rgn:6001$$Valley of Titans}" kind="solo" step="5" />
+        <HuntingZone id="7" name="{@Rgn:7001$$Celestial Hills}" kind="solo" step="7" />
+        <HuntingZone id="8" name="{@Rgn:8001$$Hungry Caverns}" kind="solo" step="18" />
+        <HuntingZone id="9" name="{@Rgn:9002$$Azarel's Labyrinth}" kind="solo" step="10" />
+        <HuntingZone id="10" name="{@Rgn:10001$$Serpentis Isle}" kind="solo" step="18" />
+        <HuntingZone id="11" name="{@Rgn:11005$$Pirate Grotto}" kind="solo" step="10" />
+        <HuntingZone id="12" name="{@Rgn:12001$$Mistmoor Island}" kind="solo" step="10" />
+        <HuntingZone id="13" name="{@Rgn:13001$$Island of Dawn}" kind="solo" step="1" />
+        <HuntingZone id="15" name="{@Rgn:15001$$Cliffs of Insanity}" kind="solo" step="8" />
+        <HuntingZone id="16" name="{@Rgn:16001$$Vale of the Fang}" kind="solo" step="8" />
+        <HuntingZone id="17" name="{@Rgn:17001$$Paraanon Ravine}" kind="solo" step="8" />
+        <HuntingZone id="18" name="{@Rgn:18001$$Colossal Ruins}" kind="solo" step="12" />
+        <HuntingZone id="19" name="{@Rgn:19001$$Freeholds}" kind="solo" step="9" />
+        <HuntingZone id="20" name="{@Rgn:20001$$Tenebrous Mines}" kind="solo" step="9" />
+        <HuntingZone id="21" name="{@Rgn:21001$$Basilisk Crag}" kind="solo" step="9" />
+        <HuntingZone id="22" name="{@Rgn:22001$$Eldritch Academy}" kind="solo" step="11" />
+        <HuntingZone id="23" name="{@Rgn:23001$$Lake of Tears}" kind="solo" step="11" />
+        <HuntingZone id="24" name="{@Rgn:24001$$Aurum Road}" kind="solo" step="12" />
+        <HuntingZone id="25" name="{@Rgn:25001$$Dark Cathedral}" kind="solo" step="12" />
+        <HuntingZone id="26" name="{@Rgn:26001$$Blessing Basin}" kind="solo" step="14" />
+        <HuntingZone id="27" name="{@Rgn:27001$$Essenian Crest}" kind="solo" step="14" />
+        <HuntingZone id="28" name="{@Rgn:28001$$Blightwood}" kind="solo" step="14" />
+        <HuntingZone id="29" name="{@Rgn:29001$$Timeless Woods}" kind="solo" step="14" />
+        <HuntingZone id="30" name="{@Rgn:30001$$Balder's Refuge}" kind="solo" step="99" />
+        <HuntingZone id="31" name="{@Rgn:31001$$Tempest Reach}" kind="solo" step="15" />
+        <HuntingZone id="32" name="{@Rgn:32001$$Mount Tyrannas}" kind="solo" step="15" />
+        <HuntingZone id="33" name="{@Rgn:33001$$Citadel of Torment}" kind="solo" step="15" />
+        <HuntingZone id="34" name="{@Rgn:34001$$Frost Reach}" kind="solo" step="15" />
+        <HuntingZone id="35" name="{@Rgn:35001$$Wyrmgorge}" kind="solo" step="22" />
+        <HuntingZone id="36" name="{@Rgn:36001$$Tor Exsul}" kind="solo" step="22" />
+        <HuntingZone id="37" name="{@Rgn:37011$$Doomcrypt}" kind="solo" step="22" />
+        <HuntingZone id="38" name="{@Rgn:38001$$Sienna Canyon}" kind="solo" step="22" />
+        <HuntingZone id="39" name="{@Rgn:39001$$Arachnaea}" kind="solo" step="17" />
+        <HuntingZone id="40" name="{@Rgn:40001$$Quarantine Zone}" kind="solo" step="17" />
+        <HuntingZone id="41" name="{@Rgn:41001$$Feral Valley}" kind="solo" step="17" />
+        <HuntingZone id="42" name="{@Rgn:42001$$Temple of Dagon}" kind="solo" step="17" />
+        <HuntingZone id="43" name="{@Rgn:43001$$Cathuulrach}" kind="solo" step="99" />
+        <HuntingZone id="44" name="{@Rgn:44001$$Ebonmaw}" kind="solo" step="26" />
+        <HuntingZone id="45" name="{@Rgn:45001$$Thrallhold}" kind="solo" step="22" />
+        <HuntingZone id="46" name="{@Rgn:46001$$The Three Towers}" kind="solo" step="22" />
+        <HuntingZone id="47" name="{@Rgn:47001$$Tirkai Forest}" kind="solo" step="22" />
+        <HuntingZone id="48" name="{@Rgn:48001$$Khanovar Front}" kind="solo" step="26" />
+        <HuntingZone id="49" name="{@Rgn:49001$$Argonea}" kind="solo" step="26" />
+        <HuntingZone id="50" name="{@Rgn:50001$$Granarkus}" kind="solo" step="26" />
+        <HuntingZone id="51" name="{@Rgn:51001$$Vale of Spires}" kind="solo" step="24" />
+        <HuntingZone id="52" name="{@Rgn:52001$$Plain of the Damned}" kind="solo" step="24" />
+        <HuntingZone id="53" name="{@Rgn:53001$$Labyrinth of Terror}" kind="solo" step="24" />
+        <HuntingZone id="54" name="{@Rgn:54001$$Seeliewood}" kind="solo" step="21" />
+        <HuntingZone id="55" name="{@Rgn:55001$$Darkquaver Woods}" kind="solo" step="21" />
+        <HuntingZone id="56" name="{@Rgn:56001$$Susurrus Woods}" kind="solo" step="21" />
+        <HuntingZone id="57" name="{@Rgn:57001$$Amena Quatla}" kind="solo" step="21" />
+        <HuntingZone id="58" name="{@Rgn:58001$$Balderon}" step="99" />
+        <HuntingZone id="59" name="{@Rgn:59001$$Crescentia}" step="99" />
+        <HuntingZone id="60" name="{@Rgn:60001$$Lumbertown}" step="99" />
+        <HuntingZone id="61" name="{@Rgn:61001$$Castanica}" step="99" />
+        <HuntingZone id="62" name="{@Rgn:62001$$Cutthroat Harbor}" step="99" />
+        <HuntingZone id="63" name="{@Rgn:63001$$Velika}" kind="solo" step="2" />
+        <HuntingZone id="64" name="{@Rgn:64001$$Abandoned Camp}" step="99" />
+        <HuntingZone id="65" name="{@Rgn:65001$$Chebika}" step="99" />
+        <HuntingZone id="66" name="{@Rgn:66001$$Tulufan}" step="99" />
+        <HuntingZone id="67" name="{@Rgn:67001$$Popolion}" step="99" />
+        <HuntingZone id="68" name="{@Rgn:68001$$Pora Elinu}" step="99" />
+        <HuntingZone id="69" name="{@Rgn:69001$$Tralion}" step="99" />
+        <HuntingZone id="70" name="{@Rgn:70001$$Tria}" step="99" />
+        <HuntingZone id="71" name="{@Rgn:71001$$Unyielding Bastion}" step="99" />
+        <HuntingZone id="72" name="{@Rgn:72001$$Allemantheia}" step="13" />
+        <HuntingZone id="73" name="{@Rgn:73001$$Acarum}" step="99" />
+        <HuntingZone id="74" name="{@Rgn:74001$$Elenea}" step="99" />
+        <HuntingZone id="75" name="{@Rgn:75001$$Frontera}" step="99" />
+        <HuntingZone id="76" name="{@Rgn:76001$$Kanstria}" step="99" />
+        <HuntingZone id="77" name="{@Rgn:77001$$Pathfinder Post}" step="99" />
+        <HuntingZone id="78" name="{@Rgn:78001$$Zulfikar Fortress}" step="99" />
+        <HuntingZone id="79" name="{@Rgn:79001$$Habere}" step="99" />
+        <HuntingZone id="80" name="{@Rgn:80001$$Dragonfall}" step="99" />
+        <HuntingZone id="81" name="{@Rgn:81001$$Scythera Fae}" step="99" />
+        <HuntingZone id="83" name="{@Rgn:83001$$Bleakrock}" step="99" />
+        <HuntingZone id="84" name="{@Rgn:84001$$Kaiator}" step="20" />
+        <HuntingZone id="85" name="{@Rgn:85001$$Davarn's Refuge}" step="99" />
+        <HuntingZone id="87" name="{@Rgn:87001$$Ashen Hope}" step="99" />
+        <HuntingZone id="100" name="Crafting Support" step="99" />
+        <HuntingZone id="101" name="Your Masterful Support" step="99" />
+        <HuntingZone id="102" name="{@Rgn:102001$$Wintera Snowfield}" step="99" />
+        <HuntingZone id="111" name="{@Rgn:111$$Western Battlefield (Old)}" step="99" />
+        <HuntingZone id="112" name="{@Rgn:112$$Fraywind Canyon}" step="99" />
+        <HuntingZone id="113" name="{@Rgn:113$$Champion's Skyring}" step="99" />
+        <HuntingZone id="114" name="{@Rgn:114$$Arcadan Base (Old)}" step="99" />
+        <HuntingZone id="115" name="{@Rgn:115$$Champion's Skyring}" step="99" />
+        <HuntingZone id="116" name="{@Rgn:116$$Corsair's Stronghold}" step="99" />
+        <HuntingZone id="117" name="{@Rgn:117$$Kumasylum}" step="99" />
+        <HuntingZone id="121" name="Free Traders Territory" kind="solo" step="99" />
+        <HuntingZone id="122" name="Enlightened Union Territory" kind="solo" step="99" />
+        <HuntingZone id="123" name="Iron Order Territory" kind="solo" step="99" />
+        <HuntingZone id="151" name="{@Rgn:50001$$Noctenium Research Grounds}" kind="solo" step="99" />
+        <HuntingZone id="172" name="{@Rgn:172001$$Mjusu Kraal}" kind="solo" step="27" />
+        <HuntingZone id="181" name="{@Rgn:181001$$Ex Prima}" kind="solo" step="30" />
+        <HuntingZone id="182" name="{@Rgn:182001$$Spring Valley}" kind="solo" step="28" />
+        <HuntingZone id="183" name="{@Rgn:183002$$Hightwatch}" kind="solo" step="29" />
+        <HuntingZone id="191" name="{@Rgn:19101$$Arx Umbra}" kind="solo" step="31" />
+        <HuntingZone id="248" name="{@Rgn:48001$$Khanovar Front}" kind="solo" step="26" />
+        <HuntingZone id="249" name="{@Rgn:49001$$Argonea}" kind="solo" step="26" />
+        <HuntingZone id="250" name="{@Rgn:50001$$Granarkus}" kind="solo" step="26" />
+        <HuntingZone id="260" name="{@Rgn:260$$Battleground}" step="99" />
+        <HuntingZone id="261" name="{@Rgn:261$$Alliance}" step="99" />
+        <HuntingZone id="291" name="{@Rgn:291$$Battleground}" step="99" />
+        <HuntingZone id="401" name="{@Rgn:9001001$$Velika instance}" kind="solo" step="99" />
+        <HuntingZone id="402" name="{@Rgn:9002001$$Blessing Basin instance}" kind="solo" step="14" />
+        <HuntingZone id="403" name="{@Rgn:9003001$$Fyrmount instancee}" kind="solo" step="18" />
+        <HuntingZone id="404" name="{@Rgn:9004001$$Glacial Expanse instance}" kind="solo" step="24" />
+        <HuntingZone id="405" name="{@Rgn:9005001$$Two Remains instance}" kind="solo" step="26" />
+        <HuntingZone id="406" name="{@Rgn:9006001$$Throne of Nightmares instance}" kind="solo" step="15" />
+        <HuntingZone id="407" name="{@Rgn:9007001$$Unveil the Mask part 1}" kind="solo" step="17" />
+        <HuntingZone id="408" name="{@Rgn:9008001$$Unveil the Mask part 2}" kind="solo" step="17" />
+        <HuntingZone id="411" name="{@Rgn:9011001$$Blacksmith's Workshop}" kind="solo" step="22" />
+        <HuntingZone id="412" name="{@Rgn:9012001$$Three Towers Spires}" kind="solo" step="22" />
+        <HuntingZone id="413" name="{@Rgn:9013001$$Cyasma Spire}" kind="solo" step="22" />
+        <HuntingZone id="414" name="{@Rgn:9014001$$Khanovar Gauntlet}" kind="solo" step="22" />
+        <HuntingZone id="415" name="Prologue" kind="solo" step="22" />
+        <HuntingZone id="416" name="Prologue" kind="solo" step="22" />
+        <HuntingZone id="417" name="{@Rgn:9017001$$Lighthouse of the Sun}" step="99" />
+        <HuntingZone id="418" name="{@Rgn:9018001$$Frontline Underground Tunnel}" step="99" />
+        <HuntingZone id="419" name="{@Rgn:9019001$$Celestial Hills mission}" kind="solo" step="7" />
+        <HuntingZone id="420" name="{@Rgn:9020001$$Valley of Titans instance}" kind="solo" step="5" />
+        <HuntingZone id="421" name="{@Rgn:9021001$$Tenebrous Mines instance}" kind="solo" step="9" />
+        <HuntingZone id="422" name="{@Rgn:9022001$$Colossal Ruins instance}" kind="solo" step="12" />
+        <HuntingZone id="423" name="{@Rgn:9023001$$Azarel's Labyrinth instance}" kind="solo" step="10" />
+        <HuntingZone id="424" name="{@Rgn:9024001$$Fane of Kaprima}" kind="solo" step="10" />
+        <HuntingZone id="425" name="{@Rgn:9025001$$Balder’s Temple}" kind="solo" step="10" />
+        <HuntingZone id="426" name="{@Rgn:9026001$$Argon Corpus}" kind="solo" step="26" />
+        <HuntingZone id="427" name="{@Rgn:9027001$$Manaya's Core}" kind="solo" step="26" />
+        <HuntingZone id="436" name="{@Rgn:9036001$$Island of Dawn (Karascha)}" kind="solo" step="1" />
+        <HuntingZone id="437" name="{@Rgn:9037001$$Island of Dawn (Protection)}" kind="solo" step="1" />
+        <HuntingZone id="438" name="{@Rgn:9038001$$Mistmoor Island instance}" kind="solo" step="10" />
+        <HuntingZone id="439" name="{@Rgn:9039001$$Cliffs of Insanity instance}" kind="solo" step="8" />
+        <HuntingZone id="443" name="Wonderholme (Difícil)" kind="solo" step="26" />
+        <HuntingZone id="450" name="{@Rgn:9050007$$Rift's Edge (Difícil)}" kind="solo" step="26" />
+        <HuntingZone id="453" name="{@Rgn:9053001$$Kezzel's Gorge}" kind="solo" step="26" />
+        <HuntingZone id="471" name="{@Rgn:9071001$$Necromancer Tomb}" kind="solo" step="16" />
+        <HuntingZone id="472" name="{@Rgn:9072001$$Golden Labyrinth}" kind="solo" step="16" />
+        <HuntingZone id="473" name="{@Rgn:9073001$$Ebon Tower}" kind="solo" step="16" />
+        <HuntingZone id="474" name="{@Rgn:9074001$$Accursed Animal instance}" kind="solo" step="21" />
+        <HuntingZone id="475" name="{@Rgn:9075001$$Kelsaik's Nest}" kind="solo" step="22" />
+        <HuntingZone id="476" name="{@Rgn:9076001$$Labyrinth of Terror}" kind="solo" step="23" />
+        <HuntingZone id="477" name="{@Rgn:9077001$$Batu Desert}" kind="solo" step="23" />
+        <HuntingZone id="478" name="{@Rgn:9078001$$Suryati’s Peak}" kind="solo" step="9" />
+        <HuntingZone id="479" name="{@Rgn:9079001$$Ascent of Saravash}" kind="solo" step="99" />
+        <HuntingZone id="480" name="{@Rgn:9080001$$Sigil Adstringo}" kind="solo" step="99" />
+        <HuntingZone id="481" name="{@Rgn:9081001$$Training Grounds}" kind="solo" step="23" />
+        <HuntingZone id="482" name="{@Rgn:9082001$$Temple of Temerity}" kind="solo" step="23" />
+        <HuntingZone id="487" name="{@Rgn:9087001$$Bastion of Lok}" kind="solo" step="6" />
+        <HuntingZone id="488" name="{@Rgn:9088001$$Sinestral Manor}" kind="solo" step="7" />
+        <HuntingZone id="489" name="{@Rgn:9089001$$Cultists' Refuge}" kind="solo" step="12" />
+        <HuntingZone id="490" name="{@Rgn:9090001$$Fey Forest instance}" kind="solo" step="3" />
+        <HuntingZone id="491" name="{@Rgn:9091001$$Eldritch Academy instance}" kind="solo" step="11" />
+        <HuntingZone id="492" name="{@Rgn:9092001$$Temple of Dagon instance}" kind="solo" step="17" />
+        <HuntingZone id="493" name="{@Rgn:9093001$$Akasha's Hideout}" kind="solo" step="17" />
+        <HuntingZone id="494" name="{@Rgn:9094001$$Saleron's Sky Garden}" kind="solo" step="22" />
+        <HuntingZone id="496" name="{@Rgn:9096001$$Sirjuka Gallery}" kind="solo" step="22" />
+        <HuntingZone id="528" name="{@Rgn:84017$$Kaiator Headquarters}" kind="solo" step="20" />
+        <HuntingZone id="601" name="Invalesco" kind="solo" step="99" />
+        <HuntingZone id="602" name="{@Rgn:78001$$Zulfikar Fortress}" kind="solo" step="99" />
+        <HuntingZone id="603" name="{@Rgn:76001$$Kanstria}" kind="solo" step="99" />
+        <HuntingZone id="604" name="{@Rgn:71001$$Bastion}" kind="solo" step="99" />
+        <HuntingZone id="605" name="Hands of Velika" kind="solo" step="99" />
+        <HuntingZone id="606" name="Agnitor" kind="solo" step="99" />
+        <HuntingZone id="607" name="Unified Theory Institute" kind="solo" step="99" />
+        <HuntingZone id="608" name="Jax Trust" kind="solo" step="99" />
+        <HuntingZone id="711" name="{@Rgn:9711001$$The Abscess}" kind="solo" step="26" />
+        <HuntingZone id="724" name="{@Rgn:9724001$$Fane of Kaprima}" kind="solo" step="10" />
+        <HuntingZone id="725" name="{@Rgn:9725001$$Balder’s Temple}" kind="solo" step="10" />
+        <HuntingZone id="726" name="{@Rgn:9726001$$Argon Corpus}" kind="solo" step="26" />
+        <HuntingZone id="727" name="{@Rgn:9727001$$Manaya's Core}" kind="solo" step="26" />
+        <HuntingZone id="743" name="Wonderholme (Normal)" kind="solo" step="26" />
+        <HuntingZone id="750" name="{@Rgn:9050006$$Rift's Edge}" kind="solo" step="26" />
+        <HuntingZone id="766" name="Shattered Fleet" kind="solo" step="26" />
+        <HuntingZone id="773" name="{@Rgn:9773001$$Ebon Tower (Difícil)}" kind="solo" step="16" />
+        <HuntingZone id="775" name="{@Rgn:9775001$$Kelsaik's Nest (Difícil)}" kind="solo" step="22" />
+        <HuntingZone id="776" name="{@Rgn:9776001$$Labyrinth of Terror (Difícil)}" kind="solo" step="23" />
+        <HuntingZone id="777" name="Channelworks" kind="solo" step="26" />
+        <HuntingZone id="793" name="{@Rgn:9793001$$Akasha's Hideout (Difícil)}" kind="solo" step="17" />
+        <HuntingZone id="801" name="{@Rgn:9801001$$Nexus Traverse}" kind="solo" step="17" />
+        <HuntingZone id="808" name="{@Rgn:9808001$$Sabex Armory}" kind="solo" step="28" />
+        <HuntingZone id="809" name="{@Rgn:9809001$$Macellarius Catacombs}" kind="solo" step="31" />
+        <HuntingZone id="810" name="{@Rgn:9810001$$Lakan's Prison}" kind="solo" step="26" />
+        <HuntingZone id="811" name="{@Rgn:9811001$$The Abscess}" kind="solo" step="26" />
+        <HuntingZone id="813" name="Ghillieglade" kind="solo" step="26" />
+        <HuntingZone id="814" name="{@Rgn:9814001$$The Vault of Oriyn}" kind="solo" step="97" />
+        <HuntingZone id="818" name="{@Rgn:818001$$Energia Celo}" kind="solo" step="99" />
+        <HuntingZone id="821" name="Dakuryon's Chamber" kind="solo" step="98" />
+        <HuntingZone id="822" name="{@Rgn:9822001$$Bastion of Lok}" kind="solo" step="96" />
+        <HuntingZone id="823" name="Sky Cruiser Intrepid" kind="solo" step="95" />
+        <HuntingZone id="825" name="Balder’s Temple (Solo)" kind="solo" step="26" />
+        <HuntingZone id="871" name="{@Rgn:9871001$$Necromancer Tomb (Solo)}" kind="solo" step="16" />
+        <HuntingZone id="872" name="{@Rgn:9872001$$Golden Labyrinth (Solo)}" kind="solo" step="16" />
+        <HuntingZone id="873" name="{@Rgn:9873001$$Ebon Tower (Solo)}" kind="solo" step="16" />
+        <HuntingZone id="887" name="{@Rgn:9887001$$Bastion of Lok (Solo)}" kind="solo" step="6" />
+        <HuntingZone id="888" name="{@Rgn:9888001$$Sinestral Manor (Solo)}" kind="solo" step="7" />
+        <HuntingZone id="889" name="{@Rgn:9889001$$Cultists' Refuge (Solo)}" kind="solo" step="12" />
+        <HuntingZone id="901" name="Bellicarium" kind="solo" step="99" />
+        <HuntingZone id="1022" name="Nexus" kind="solo" step="23" />
+        <HuntingZone id="9999" name="Vanguard Initiative" kind="solo" step="98" />
+    </QuestHuntingZoneList>
+    <StoryGroupList>
+        <StoryGroup id="0" name="Prologue">
+            <Quest id="41501" />
+            <Quest id="41502" />
+            <Quest id="41503" />
+            <Quest id="41504" />
+            <Quest id="41505" />
+            <Quest id="41506" />
+            <Quest id="41507" />
+            <Quest id="41508" />
+            <Quest id="41510" />
+        </StoryGroup>
+        <StoryGroup id="1" name="The World of TERA">
+            <Quest id="1301" />
+            <Quest id="1304" />
+            <Quest id="1303" />
+            <Quest id="1305" />
+        </StoryGroup>
+        <StoryGroup id="2" name="To the Tainted Gorge">
+            <Quest id="1311" />
+            <Quest id="1313" />
+            <Quest id="1309" />
+            <Quest id="1350" />
+            <Quest id="1315" />
+            <Quest id="1316" />
+            <Quest id="1317" />
+        </StoryGroup>
+        <StoryGroup id="3" name="Valkyon Wants You">
+            <Quest id="6305" />
+            <Quest id="201" />
+            <Quest id="202" />
+            <Quest id="203" />
+            <Quest id="301" />
+            <Quest id="302" />
+        </StoryGroup>
+        <StoryGroup id="4" name="Cultists' Conspiracy">
+            <Quest id="601" />
+            <Quest id="602" />
+            <Quest id="603" />
+            <Quest id="604" />
+            <Quest id="605" />
+            <Quest id="701" />
+            <Quest id="702" />
+            <Quest id="704" />
+        </StoryGroup>
+        <StoryGroup id="5" name="Insanity Epidemic">
+            <Quest id="1501" />
+            <Quest id="1502" />
+            <Quest id="1503" />
+            <Quest id="1504" />
+            <Quest id="1505" />
+        </StoryGroup>
+        <StoryGroup id="6" name="Phantom Menace">
+            <Quest id="2001" />
+            <Quest id="2002" />
+            <Quest id="2003" />
+            <Quest id="901" />
+            <Quest id="902" />
+            <Quest id="903" />
+            <Quest id="904" />
+        </StoryGroup>
+        <StoryGroup id="7" name="The Popori Kingdom">
+            <Quest id="2301" />
+            <Quest id="2302" />
+            <Quest id="2303" />
+            <Quest id="2304" />
+        </StoryGroup>
+        <StoryGroup id="8" name="Samael's Apparition">
+            <Quest id="2501" />
+            <Quest id="2502" />
+            <Quest id="2503" />
+            <Quest id="2504" />
+            <Quest id="2505" />
+        </StoryGroup>
+        <StoryGroup id="9" name="Allemantheia">
+            <Quest id="2701" />
+            <Quest id="2702" />
+            <Quest id="3101" />
+            <Quest id="3102" />
+            <Quest id="3103" />
+            <Quest id="4001" />
+            <Quest id="3901" />
+            <Quest id="801" />
+            <Quest id="401" />
+            <Quest id="804" />
+            <Quest id="49301" />
+            <Quest id="49302" />
+        </StoryGroup>
+        <StoryGroup id="10" name="Traces of the Gods">
+            <Quest id="2801" />
+            <Quest id="2802" />
+            <Quest id="3201" />
+        </StoryGroup>
+        <StoryGroup id="11" name="To the Wild Jungle">
+            <Quest id="4201" />
+            <Quest id="4101" />
+        </StoryGroup>
+        <StoryGroup id="12" name="Castanica">
+            <Quest id="802" />
+            <Quest id="803" />
+            <Quest id="402" />
+        </StoryGroup>
+        <StoryGroup id="13" name="Danger in Kaiator">
+            <Quest id="5501" />
+            <Quest id="5502" />
+            <Quest id="5601" />
+            <Quest id="5602" />
+        </StoryGroup>
+        <StoryGroup id="14" name="Beast of Destruction">
+            <Quest id="3701" />
+            <Quest id="3702" />
+            <Quest id="5201" />
+            <Quest id="5202" />
+            <Quest id="5203" />
+            <Quest id="5204" />
+            <Quest id="5205" />
+        </StoryGroup>
+        <StoryGroup id="16" name="Argon War">
+            <Quest id="4701" />
+            <Quest id="4702" />
+            <Quest id="4501" />
+            <Quest id="4601" />
+            <Quest id="4602" />
+            <Quest id="4801" />
+            <Quest id="4802" />
+            <Quest id="4901" />
+            <Quest id="4902" />
+            <Quest id="5001" />
+            <Quest id="5002" />
+        </StoryGroup>
+        <StoryGroup id="999" name="Event Mission">
+            <Quest id="8402" />
+            <Quest id="8403" />
+        </StoryGroup>
+        <StoryGroup id="601" name="Avatar Weapons">
+            <Quest id="361" />
+        </StoryGroup>
+        <StoryGroup id="602" name="Avatar Weapons">
+            <Quest id="362" />
+        </StoryGroup>
+        <StoryGroup id="603" name="Avatar Weapons">
+            <Quest id="363" />
+        </StoryGroup>
+        <StoryGroup id="604" name="Avatar Weapons">
+            <Quest id="364" />
+        </StoryGroup>
+        <StoryGroup id="605" name="Avatar Weapons">
+            <Quest id="365" />
+        </StoryGroup>
+        <StoryGroup id="606" name="Avatar Weapons">
+            <Quest id="366" />
+        </StoryGroup>
+        <StoryGroup id="607" name="Avatar Weapons">
+            <Quest id="367" />
+        </StoryGroup>
+        <StoryGroup id="608" name="Avatar Weapons">
+            <Quest id="368" />
+        </StoryGroup>
+        <StoryGroup id="17" name="Balder's Refuge">
+            <Quest id="3001" />
+            <Quest id="3002" />
+            <Quest id="3003" />
+            <Quest id="3004" />
+            <Quest id="3005" />
+        </StoryGroup>
+        <StoryGroup id="18" name="Intro to Noctenium">
+            <Quest id="15101" />
+            <Quest id="15102" />
+            <Quest id="15103" />
+        </StoryGroup>
+        <StoryGroup id="19" name="The Vanguard Initiative">
+            <Quest id="17201" />
+            <Quest id="17202" />
+            <Quest id="17203" />
+            <Quest id="17204" />
+            <Quest id="17205" />
+            <Quest id="17206" />
+            <Quest id="17207" />
+        </StoryGroup>
+        <StoryGroup id="20" name="Savage Reach">
+            <Quest id="17208" />
+            <Quest id="17209" />
+            <Quest id="17210" />
+            <Quest id="17211" />
+            <Quest id="17212" />
+            <Quest id="17213" />
+            <Quest id="17214" />
+        </StoryGroup>
+        <StoryGroup id="21" name="Spring Valley">
+            <Quest id="18201" />
+            <Quest id="18202" />
+            <Quest id="18203" />
+            <Quest id="18204" />
+            <Quest id="18205" />
+            <Quest id="18206" />
+            <Quest id="18207" />
+            <Quest id="18208" />
+            <Quest id="18209" />
+            <Quest id="18210" />
+            <Quest id="18211" />
+            <Quest id="18212" />
+        </StoryGroup>
+        <StoryGroup id="22" name="Ex Prima">
+            <Quest id="18101" />
+            <Quest id="18102" />
+            <Quest id="18103" />
+            <Quest id="18104" />
+            <Quest id="18105" />
+            <Quest id="18106" />
+            <Quest id="18107" />
+            <Quest id="18108" />
+            <Quest id="18109" />
+            <Quest id="18110" />
+            <Quest id="18111" />
+            <Quest id="18112" />
+            <Quest id="18113" />
+            <Quest id="18114" />
+            <Quest id="18115" />
+            <Quest id="18116" />
+            <Quest id="18117" />
+            <Quest id="18118" />
+        </StoryGroup>
+        <StoryGroup id="23" name="Arx Umbra">
+            <Quest id="19101" />
+            <Quest id="19102" />
+            <Quest id="19103" />
+            <Quest id="19104" />
+            <Quest id="19105" />
+            <Quest id="19106" />
+            <Quest id="19107" />
+            <Quest id="19108" />
+            <Quest id="19109" />
+            <Quest id="19110" />
+            <Quest id="19111" />
+            <Quest id="19112" />
+        </StoryGroup>
+        <StoryGroup id="7011" name="Festival of the Sun">
+            <Quest id="70101" />
+            <Quest id="70102" />
+            <Quest id="70103" />
+            <Quest id="70104" />
+            <Quest id="70105" />
+            <Quest id="70106" />
+            <Quest id="70107" />
+            <Quest id="70108" />
+            <Quest id="70109" />
+        </StoryGroup>
+        <StoryGroup id="7012" name="Banquet of Blood">
+            <Quest id="70111" />
+            <Quest id="70112" />
+            <Quest id="70113" />
+            <Quest id="70114" />
+        </StoryGroup>
+        <StoryGroup id="7013" name="Beach Party">
+            <Quest id="70115" />
+            <Quest id="70116" />
+            <Quest id="70117" />
+            <Quest id="70118" />
+            <Quest id="70119" />
+            <Quest id="70120" />
+            <Quest id="70121" />
+            <Quest id="70122" />
+        </StoryGroup>
+        <StoryGroup id="7021" name="Rootstock">
+            <Quest id="70201" />
+            <Quest id="70202" />
+            <Quest id="70203" />
+            <Quest id="70204" />
+            <Quest id="70205" />
+            <Quest id="70206" />
+            <Quest id="70207" />
+            <Quest id="70208" />
+            <Quest id="70209" />
+        </StoryGroup>
+        <StoryGroup id="7022" name="Pond Faire">
+            <Quest id="70211" />
+            <Quest id="70212" />
+            <Quest id="70213" />
+            <Quest id="70214" />
+            <Quest id="70215" />
+            <Quest id="70216" />
+            <Quest id="70217" />
+            <Quest id="70218" />
+        </StoryGroup>
+        <StoryGroup id="87" name="From the Ashes">
+            <Quest id="8701" />
+            <Quest id="8702" />
+            <Quest id="8703" />
+            <Quest id="8704" />
+            <Quest id="8705" />
+            <Quest id="8706" />
+            <Quest id="8707" />
+            <Quest id="8708" />
+        </StoryGroup>
+    </StoryGroupList>
+</QuestGroupList>

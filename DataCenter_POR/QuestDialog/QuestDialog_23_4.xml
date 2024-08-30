@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="23" id="4" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="222" id="100" prevId="0" villagerId="1005">
+         
+        <Page social="0">Taera, uma das principais alunas das Bruxas de Vadoma, caiu em um feitiço e causou destruição por toda parte. Você derrotou Taera a pedido das bruxas sobreviventes e pegou seu diário para saber o que aconteceu com ela. O guardião efêmero da diretora Serena, a principal defesa da academia, foi descoberto desaparecido. Você ajudou as bruxas a recuperá-lo e reiniciá-lo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="222" id="2" prevId="0" villagerId="1005">
+         
+        <Page social="4">Odeio admitir, mas isso começou com uma aluna.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:22#33#Taera} é uma bruxa de poder surpreendente, mas esse poder subiu para novos níveis recentemente - muito além do que suas habilidades deveriam ser.&lt;BR&gt;&lt;BR&gt;Agora ela está usando magia do caos para animar bonecas e encantar pessoas!&lt;NEXTPAGEBUTTON&gt;"Como posso ajudar?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Primeiro, precisamos descobrir por que isso está acontecendo. Taera sempre manteve registros meticulosos, por isso tenho certeza de que ela anotou tudo em seu diário.&lt;BR&gt;&lt;BR&gt;Talvez você encontre {@LinkCreature:22#33#Taera} no Parque da Serena - sempre foi o lugar preferido dela.&lt;BR&gt;&lt;BR&gt;Recupere esse diário por todos os meios necessários. Ele pode lançar alguma luz sobre a loucura que está tomando conta da academia.</Page>
+    
+    </Text>
+    <Text huntingZoneId="222" id="3" prevId="2" villagerId="1005">
+         
+        <Page social="4">Então você enfrentou Taera e recuperou o diário dela? Que horrível! &lt;BR&gt;&lt;BR&gt;O diário dela, quero dizer. Não a luta e o derramamento de sangue.&lt;BR&gt;&lt;BR&gt;Ele diz que aqui vozes estão sussurrando em sua mente dizendo-lhe para quebrar a barreira - o guardião efêmero - no Altar de Vadoma, nas catacumbas. Vá até o Reduto dos Professores e encontre Tarin! &lt;BR&gt;&lt;BR&gt;Mais rápido seria melhor.</Page>
+    
+    </Text>
+    <Text huntingZoneId="222" id="4" villagerId="1005">
+         
+        <Page social="0">Vou continuar estudando esse diário. Encontre Tarin! &lt;BR&gt;&lt;BR&gt;Continue descendo!</Page>
+    
+    </Text>
+    <Text huntingZoneId="222" id="5" prevId="3" villagerId="1026">
+         
+        <Page social="4">O Altar de Vadoma está barricado pelo guardião efêmero de Serena.&lt;BR&gt;&lt;BR&gt;Oh, você deveria se certificar de que ele ainda está funcionando. Rápido! Vá para o &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=1#-18749.8203,21616.3945,540.0363&amp;type=1&amp;name=Chapel"&gt;Altar&lt;/A&gt;&lt;/font&gt;!&lt;BR&gt;&lt;BR&gt;Oh, mas primeiro você tem que chegar ao meio das Catacumbas da Rainha Bruxa. Ah, mas primeiro tem um labirinto...&lt;BR&gt;&lt;BR&gt;{@LinkCreature:222#1009#Cordella}! Cordella pode ajudar. Se você conseguir encontrá-la.</Page>
+    
+    </Text>
+    <Text huntingZoneId="222" id="6" prevId="5" villagerId="1009">
+         
+        <Page social="4">Você chegou tarde demais. Os demônios já quebraram o guardião efêmero e o esconderam. Hallie está lá dentro. Se não quiser vê-la estripada, é melhor entrar lá para ajudá-la.&lt;BR&gt;&lt;BR&gt;Vá até o Altar de Vadoma e use o {@LinkCreature:222#1031#teleportal} para se juntar a ela. Mantenha-a segura e tente restaurar o selo do guardião. Não há muito tempo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="491" id="7" prevId="6" villagerId="99">
+         
+        <Page social="4">Rápido! Tenho que reativar o guardião efêmero! Os demônios farão de tudo para me impedir, então você terá que detê-los primeiro.&lt;BR&gt;&lt;BR&gt;Entendeu seu papel? Vamos lá!</Page>
+    
+    </Text>
+    <Text huntingZoneId="491" id="8" prevId="7" villagerId="99">
+         
+        <Page social="5">Já fiz tudo o que podia. Ele está consertado, mas ainda não foi reativado.&lt;BR&gt;&lt;BR&gt;Eu não tenho forças para fazer isso, então você terá que fazer. Não se preocupe. Algo vai acontecer - algo maravilhoso.&lt;BR&gt;&lt;BR&gt;Quando você tiver reiniciado o mecanismo, encontre {@LinkCreature:68#1014#Beryn}. Diga a ela o que está acontecendo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="68" id="9" prevId="8" villagerId="1014">
+         
+        <Page social="4">Ainda bem que você conseguiu reativar o guardião efêmero, &lt;PCNAME&gt;. As bruxas são terrivelmente dependentes da magia para sua segurança e sobrevivência.&lt;BR&gt;&lt;BR&gt;Vocês ganharam a gratidão do reino e da academia. Obrigado.</Page>
+    
+    </Text>
+</QuestDialog>

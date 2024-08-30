@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="7" id="36" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="207" id="100" prevId="0" villagerId="1019">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="207" id="2" prevId="0" villagerId="1019">
+         
+        <Page social="5">Os Scions of Lok estão por toda parte nos Remanescentes de Cardovek, mas ainda não se entrincheiraram. Se conseguirmos mantê-los fora de equilíbrio, talvez consigamos expulsá-los.&lt;BR&gt;&lt;BR&gt;Preciso que você mate os {@LinkCreature:7#12#Lancers de Lok} e os {@LinkCreature:7#13#berserkers}. Não podemos deixar que eles solidifiquem e fortifiquem sua posição e você é a melhor pessoa para a missão.&lt;BR&gt;&lt;BR&gt;Não me decepcione.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="3" prevId="2" villagerId="1019">
+         
+        <Page social="5">Eles estão um pouco mais fracos agora, e isso é bom. Vamos tentar manter a iniciativa e transformar isso em uma vitória!</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="40" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="213" id="100" prevId="0" villagerId="1143">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="213" id="2" prevId="0" villagerId="1143">
+         
+        <Page social="4">Sersine define muitas tarefas para seus subordinados. Se ela não fosse uma combatente tão distinta, talvez não se sentisse inclinada a realizá-las. É fácil esquecer seus laços com o Mysterium quando ela está cercada por cadáveres de demônios em chamas.&lt;BR&gt;&lt;BR&gt;Sersine pediu que todos os {@LinkCreature:13#7#disc reapers} fossem extintos. Embora não seja totalmente possível, ela aceita a matança em massa como substituto.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="3" prevId="2" villagerId="1143">
+         
+        <Page social="4">Parece que um mero punhado é suficiente para atender às suas exigências. Isso não foi mencionado? &lt;BR&gt;&lt;BR&gt;Pedidos de desculpas profusos estão em ordem, embora seja aconselhável evitar Verus por um tempo - ele acabou de perder uma quantia considerável de dinheiro...</Page>
+    
+    </Text>
+</QuestDialog>

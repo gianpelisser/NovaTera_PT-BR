@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="49" id="52" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="76" id="100" prevId="0" villagerId="1024">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="76" id="2" prevId="0" villagerId="1024">
+         
+        <Page social="4">Um dos aldeões, {@LinkCreature:249#1018}, correu para a Plataforma de Teletransporte Leste. Ele está impaciente e ansioso para estudar os argons, mas é tão mortal quanto uma fruta podre.&lt;BR&gt;&lt;BR&gt;Por favor, vá até a plataforma e faça o que puder para ajudá-lo. Preciso de pessoas com a coragem dele. Preciso de pessoas com sua coragem.</Page>
+    
+    </Text>
+    <Text huntingZoneId="249" id="3" prevId="2" villagerId="1018">
+         
+        <Page social="6">Você está aqui para ajudar? Excelente. Eu esperava que eles me enviassem um guarda-costas.</Page>
+    
+    </Text>
+</QuestDialog>

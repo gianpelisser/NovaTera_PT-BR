@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="6" id="92" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="206" id="100" prevId="0" villagerId="1022">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="206" id="2" prevId="0" villagerId="1022">
+         
+        <Page social="0">The Scions of Lok have established a foothold and erected the Valselok Shrine. They must be stopped, or at least slowed.&lt;BR&gt;&lt;BR&gt;Hunt down the {@LinkCreature:6#3031#Lokian reavers} and {@LinkCreature:6#3032#mystics} around the shrine.&lt;BR&gt;&lt;BR&gt;Report to Embarr near the shrine when your mission is complete.</Page>
+    
+    </Text>
+    <Text huntingZoneId="206" id="3" prevId="2" villagerId="1022">
+         
+        <Page social="5">They can't let go of Lok. Why revere a dead god?&lt;BR&gt;&lt;BR&gt;Anyway, let's see what you have.</Page>
+    
+    </Text>
+    <Text huntingZoneId="206" id="4" villagerId="1022">
+         
+        <Page social="0">It looks like you haven't completed your mission yet.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="23" id="33" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="223" id="100" prevId="0" villagerId="1018">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="223" id="2" prevId="0" villagerId="1018">
+         
+        <Page social="5">Estão chegando relatos sobre {@LinkCreature:23#25#oficiais da guerrilha} e outros {@LinkCreature:23#19#rebeldes do Popori} se escondendo no lago. Eles podem estar preparando um ataque ou simplesmente coletando informações. Isso não importa. Eles devem morrer.&lt;BR&gt;&lt;BR&gt;Enquanto eles estiverem nos observando, você os verá... morrer! Não há piedade para os traidores do reino.</Page>
+    
+    </Text>
+    <Text huntingZoneId="223" id="3" prevId="2" villagerId="1018">
+         
+        <Page social="5">Aqueles que se voltam contra o reino se voltam contra a própria natureza. Eles mereceram seu destino.&lt;BR&gt;&lt;BR&gt;A General {@LinkCreature:223#1003$$Menani} perguntou sobre seu progresso. Faça um relatório e coloque-a a par de tudo.&lt;BR&gt;&lt;BR&gt;Não desperdice o tempo da generala. Atenha-se aos fatos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="223" id="4" prevId="3" villagerId="1003">
+         
+        <Page social="5">Este é um momento sombrio para o nosso reino. Seus esforços podem nos ajudar a resolver esse conflito inútil e restaurar o equilíbrio em Poporia. Obrigado, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+</QuestDialog>

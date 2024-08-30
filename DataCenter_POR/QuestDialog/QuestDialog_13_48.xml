@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="48" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="213" id="100" prevId="0" villagerId="1147">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="213" id="2" prevId="0" villagerId="1147">
+         
+        <Page social="4">Então é &lt;PCNAME&gt;. Ouvi dizer que você está se saindo extraordinariamente bem por aqui. Como você pode ver, há muitos Terrons violentos circulando por aqui. Normalmente, eles não são tão ameaçadores, mas mais incômodos, eu diria. No entanto, de repente eles se tornaram violentos e são uma séria ameaça para os pesquisadores. Veja o Kamarnu. Ele se refugiou aqui depois de ser ferido.&lt;BR&gt;&lt;BR&gt;Não podemos mais deixar esses Terrons correrem assim. Matem os {@LinkCreature:13#302#Líderes dos Anéis de Terrons} nas proximidades e tragam de volta as pétalas de suas cabeças como prova de suas mortes.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="3" prevId="2" villagerId="1147">
+         
+        <Page social="4">Isso deve ser suficiente. Haverá mais, é claro. Rir, pular, girar... essa espada foi feita para atividades mais significativas do que a jardinagem!</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="4" villagerId="1147">
+         
+        <Page social="0">Mesmo agora, Kamarnu negligencia o dever em favor da vingança - uma falha muito comum por aqui.&lt;BR&gt;&lt;BR&gt;No entanto, ao contrário de Leander, o baraka tem o objeto de sua vingança brincando à sua frente. Corte algumas dúzias e seu humor deve melhorar.</Page>
+    
+    </Text>
+</QuestDialog>

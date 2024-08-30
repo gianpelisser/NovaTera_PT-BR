@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="25" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="204" id="100" prevId="0" villagerId="1107">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="204" id="2" prevId="0" villagerId="1107">
+         
+        <Page social="4">Larusia jura que os fantasmas uivantes a estão mantendo acordada. Mas eu continuo dizendo a ela: são os lobos! &lt;BR&gt;&lt;BR&gt;Prove que estou certo - e me deixe dormir - matando os {@LinkCreature:4#1041#ashstalker wolves} que estão por aí!</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="3" prevId="2" villagerId="1107">
+         
+        <Page social="4">Está tudo calmo. Quase... silencioso demais.&lt;BR&gt;&lt;BR&gt;Mas não silencioso demais para um cochilo, assim que este turno terminar.&lt;BR&gt;&lt;BR&gt;Obrigado, &lt;PCNAME&gt;. E eu lhe agradecerei em meus sonhos!</Page>
+    
+    </Text>
+</QuestDialog>

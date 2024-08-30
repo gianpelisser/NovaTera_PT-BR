@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="84" id="2" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">&lt;PCNAME&gt;! A agente do Mysterium, Legia, tem algo a lhe dizer no acampamento dos estudiosos de Saleron. Vá vê-la em sua primeira oportunidade.</Page>
+    
+    </Text>
+    <Text huntingZoneId="237" id="3" prevId="2" villagerId="1029">
+         
+        <Page social="4">O agente o cumprimenta, &lt;PCNAME&gt;, e entrega uma mensagem do próprio deus Saleron.&lt;BR&gt;&lt;BR&gt;Recentemente, Salron nos informou que queria vê-lo, &lt;PCNAME&gt;. Não sabemos o que o deus planeja discutir com &lt;PCNAME&gt;. Entretanto, quando um deus chama um mortal pelo nome, é altamente desaconselhável ignorar tal pedido.</Page>
+    
+    </Text>
+    <Text huntingZoneId="237" id="4" prevId="3" villagerId="1102">
+         
+        <Page social="4">Ah, &lt;PCNAME&gt;, de cuja coragem e nobreza até eu já ouvi falar. Parece que minha mensagem chegou até você?&lt;BR&gt;&lt;BR&gt;Eu o chamei aqui para lhe dar uma espécie de presente. Não pense nisso como uma recompensa. Saiba apenas que um dia, quando eu me erguer desta fria prisão, precisarei de fortes aliados.&lt;BR&gt;&lt;BR&gt;Em minha opinião, você tem uma boa chance de estar à altura desse momento.&lt;BR&gt;&lt;BR&gt;Se um dia a Federação Valkyon governar o mundo, precisarei de um agente em quem possa confiar.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="24" id="23" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="224" id="100" prevId="0" villagerId="1022">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="224" id="2" prevId="0" villagerId="1022">
+         
+        <Page social="0">(Essa caixa de suprimentos está marcada com um padrão peculiar e parece ter sido deixada pelos bandidos. Talvez o padrão ajude a identificar o bandido).</Page>
+    
+    </Text>
+    <Text huntingZoneId="66" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="4">Muito bem, soldado! O que você tem aí? Ei, esses não são produtos da federação - essa marca é uma marca kulkari! E esse cheiro.&lt;BR&gt;&lt;BR&gt;Parece que eles não estão apenas levando os kobolds ao ataque, mas também fornecendo explosivos. Agora tenho CERTEZA de que precisamos quebrar o domínio dos kulkari sobre as criaturas.&lt;NEXTPAGEBUTTON&gt;"Você tem um plano?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Tenho dezenas de planos! O que quer que sonhemos, a federação pode fazer, certo? &lt;BR&gt;&lt;BR&gt;O problema é que, embora os amani aqui estejam dispostos a dar à federação o benefício da dúvida, os chefes são céticos. Nosso trabalho aqui é fundamental, mas eu estaria mentindo se dissesse que é fácil.&lt;BR&gt;&lt;BR&gt;Agora mesmo, só preciso que alguém traga provas de que estamos fazendo algo a respeito das {@LinkCreature:24#15#sandpaw hyenas} e {@LinkCreature:24#106#Sand Wind reapers}, enquanto tento convencer Turrek a compartilhar seus suprimentos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="66" id="4" prevId="3" villagerId="1001">
+         
+        <Page social="4">Excelente trabalho, soldado. Isso deve dar a Turrek e aos outros chefes algo a considerar. E, se não, pelo menos demos uma pausa aos kulkari e seus lacaios.</Page>
+    
+    </Text>
+    <Text huntingZoneId="66" id="5" villagerId="1001">
+         
+        <Page social="0">Você já recebeu as peles? Tenho que me encontrar com Turrek em breve.</Page>
+    
+    </Text>
+</QuestDialog>

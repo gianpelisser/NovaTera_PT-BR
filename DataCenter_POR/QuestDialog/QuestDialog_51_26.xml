@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="51" id="26" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="251" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="251" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="4">Thulsa está de volta! As feras em Frostclaw Crag se voltaram contra nossas forças e as atingiram em cheio. Isso significa que há outro maldito pilone lá fora.&lt;BR&gt;&lt;BR&gt;Ligue-se a Ghabar e siga sua liderança com ele, mas eu quero aquele pilone destruído!</Page>
+    
+    </Text>
+    <Text huntingZoneId="251" id="3" prevId="2" villagerId="1037">
+         
+        <Page social="4">Thenuvia tem razão. Esses pilares draelkar não são difíceis de serem vistos, mas não são fáceis de serem alcançados.&lt;BR&gt;&lt;BR&gt;Este é guardado por remanescentes de Sihranar. Não sei o que os levou a ficar do lado de Thulsa, mas com o plano certo, isso não importará.&lt;BR&gt;&lt;BR&gt;Deixe-me colocar meus chifres para pensar e vamos planejar nossa missão.</Page>
+    
+    </Text>
+</QuestDialog>

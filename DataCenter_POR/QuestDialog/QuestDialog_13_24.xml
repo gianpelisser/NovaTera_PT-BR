@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="24" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="213" id="100" prevId="0" villagerId="1017">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="213" id="2" prevId="0" villagerId="1017">
+         
+        <Page social="4">O "arsenal" que você está usando me diz tudo o que preciso saber sobre você. Você está aqui para lutar, não para aprender. No entanto, acredito que você pode fazer as duas coisas.&lt;BR&gt;&lt;BR&gt;Estes {@LinkCreature:13#300933#ghilliedhus} têm &lt;b&gt;essências anormais&lt;/b&gt;. Você precisa de mais experiência para reconhecer o que está errado antes de poder fazer o que é certo.&lt;BR&gt;&lt;BR&gt;Você está pronto para dissipar sua ignorância com um pouco de silvicultura improvisada?</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="3" prevId="2" villagerId="1017">
+         
+        <Page social="4">Afinal, talvez você consiga se tornar um pesquisador... se conseguir viver sem suas armas.&lt;BR&gt;&lt;BR&gt;Meus "cães de guarda", Helier e Clovis, pedem que você continue usando-as por mais algum tempo. Quando você estiver pronto, veja o que eles querem.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="4" villagerId="1017">
+         
+        <Page social="0">Vou ser franco com você, &lt;PCCLASS:lcase&gt;. Se você não consegue ver o que torna esses {@LinkCreature:13#300930#ghilliedhus} "especiais", você não é útil nem para a federação nem para mim. Continue fazendo o que seus soldados fazem de melhor até aprender a reconhecer a verdadeira &lt;b&gt;essência de Heartwood&lt;/b&gt;.</Page>
+    
+    </Text>
+</QuestDialog>

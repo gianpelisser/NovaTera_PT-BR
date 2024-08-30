@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="57" id="85" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">Mission Orders&lt;BR&gt;&lt;BR&gt;To regain control of the Hatchery, we must destroy Killian's enforcers holding the sikandari eggs hostage.&lt;BR&gt;&lt;BR&gt;Hunt down the {@LinkCreature:57#12#inexorable akalath warlords} and {@LinkCreature:57#22#ebon fimbrilisks}.&lt;BR&gt;&lt;BR&gt;Report to Emya in Dragonfall when mission is complete.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="3" prevId="2" villagerId="0">
+         
+        <Page social="4">You've earned the thanks of the federation. Your guild is an inspiration to all!</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="4" villagerId="0">
+         
+        <Page social="0">It looks like you haven't completed your mission yet.</Page>
+    
+    </Text>
+</QuestDialog>

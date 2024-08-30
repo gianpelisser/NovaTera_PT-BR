@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="46" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">Mysterium researchers are exploring the Three Towers despite the argon presence there. Before you could ask Adeldur for help finding Yasring, she sent you on a research errand. Afterwards, she directed you to Kurance, who showed you the missing person register. Yasring's name was on the list, so you searched the {@Rgn:9012001$$Three Towers Spires}, eventually getting directed to Greyden, the scout squad commander, who promised to help.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">Valkyon Directive:&lt;BR&gt;&lt;BR&gt;Report to Adeldur, a Mysterium researcher in the Three Towers mentioned by {@creature:245#2003$$Ronalt}, and aid in her research. While in the Three Towers, inquire into the whereabouts of {@creature:245#2001$$Yasring}. The report from this scout is overdue.</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="3" prevId="2" villagerId="2001">
+         
+        <Page social="10">If argons can really combine themselves into even more terrible forms, then this war isn't over yet.&lt;BR&gt;&lt;BR&gt;We may be able to stop the outside world from being argonified. But the only way to find a countermeasure or an antidote is to study here, in the heart of argon territory.&lt;NEXTPAGEBUTTON&gt;"I see."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="4" prevId="3" villagerId="2001">
+         
+        <Page social="4">Our leading theory is that the argons are using life energy to construct and power these towers. Further research might reveal a way to block or redirect that life energy.</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="5" prevId="4" villagerId="2002">
+         
+        <Page social="1">Adeldur's got a bunch of theories, but I care about just one thing: saving our people before the argons steal their "life energy," whatever that is. I'm not even really in the military. I came here to find someone specific...someone I cared about.&lt;BR&gt;&lt;BR&gt;I'm guessing you're after the same thing, more or less.&lt;NEXTPAGEBUTTON&gt;"You could say that."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">You can check our register. It's not entirely complete, but the register has an entry for everyone we've saved and everyone we're still looking for. That's the best place to start.</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="6" prevId="5" villagerId="2002">
+         
+        <Page social="1">If you're part of the rescue operation, you need to hurry.&lt;BR&gt;&lt;BR&gt;We've got a special device that lets us retrace our steps. Otherwise we'd get lost in here. All these hallways look alike.&lt;BR&gt;&lt;BR&gt;Just follow the footprints, &lt;PCCLASS:lcase&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="7" prevId="6" villagerId="2003">
+         
+        <Page social="0">It's an all-too common tale. We're the scouts! We search for the lost! So when we go missing, Who's left to come look for us?</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="8" villagerId="2003">
+         
+        <Page social="0">Rescue everyone you can, &lt;PCCLASS:lcase&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="9" prevId="7" villagerId="2003">
+         
+        <Page social="10">We appreciate it. You should know, however, that we lose more soldiers that way. Makes you wonder whether it's worth it...but if you feel up to the task, we're not going to stop you.&lt;NEXTPAGEBUTTON&gt;"I'm willing to try."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">The register is woefully incomplete. We don't have information on the lowest levels because it's so dangerous down there.&lt;BR&gt;&lt;BR&gt;If you're brave enough, check in with Greyden, the scout squad commander. He can update the list.</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="10" prevId="9" villagerId="2004">
+         
+        <Page social="4">I'm impressed. Not many go to such lengths to find missing comrades. I will help in any way I can. How could I refuse?</Page>
+    
+    </Text>
+</QuestDialog>

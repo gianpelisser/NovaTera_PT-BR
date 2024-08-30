@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="488" id="23" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="216" id="100" prevId="0" villagerId="1031">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="216" id="2" prevId="0" villagerId="1031">
+         
+        <Page social="5">Temos que deter as forças de ataque que os vampiros enviam da Sinestral Manor.&lt;BR&gt;&lt;BR&gt;Os {@LinkCreature:488#4#Lokian defenders}, {@LinkCreature:488#7#Lokian devastators}, {@LinkCreature:488#12#Lokian darkweavers} e {@LinkCreature:488#14#Lokian bloodshapers} nos causam problemas há muito tempo.&lt;BR&gt;&lt;BR&gt;E por que os lokianos estão trabalhando com os vampiros?</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="3" prevId="2" villagerId="1031">
+         
+        <Page social="4">Cuidou dos lokianos, não foi? Excelente.</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="4" villagerId="1031">
+         
+        <Page social="0">Quero esses lokianos mortos, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="603" id="7" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="76" id="100" prevId="0" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="76" id="2" prevId="0" villagerId="3003">
+         
+        <Page social="4">{@LinkCreature:250#3001#Derik} está perguntando por você.&lt;BR&gt;&lt;BR&gt;Parece que ele tem argonss suficientes para compartilhar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="3" prevId="2" villagerId="3001">
+         
+        <Page social="4">É muito bom vê-lo, &lt;PCNAME&gt;. Tantos argons, tão pouco tempo! &lt;BR&gt;&lt;BR&gt;Eu mesmo os perseguiria se pudesse, mas acho que alguém deveria ter uma chance contra eles!</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="4" prevId="2" villagerId="3001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="250" id="5" prevId="2" villagerId="3001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="250" id="6" prevId="2" villagerId="3001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="250" id="7" prevId="2" villagerId="3001">
+         
+        <Page social="4">Gracioso e veloz.&lt;BR&gt;&lt;BR&gt;Ahem... eu estava falando sobre os rondantes!</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="8" villagerId="3001">
+         
+        <Page social="0">Mantenha-se atento, mesmo que já tenha caçado algo uma dúzia de vezes.&lt;BR&gt;&lt;BR&gt;A complacência mata!</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="9" prevId="7" villagerId="3001">
+         
+        <Page social="4">Não são os argonss mais bonitos, mas ainda assim é gratificante derrubá-los, não é?</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="10" villagerId="3001">
+         
+        <Page social="0">Cuidado. &lt;BR&gt;&lt;BR&gt;Eles atacam por baixo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="11" prevId="9" villagerId="3001">
+         
+        <Page social="4">Deve ser um pouco monótono para você, não é? Ou isso é um bom treino para as linhas de frente?</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="12" villagerId="3001">
+         
+        <Page social="0">Fique alerta.&lt;BR&gt;&lt;BR&gt;É quando você está lutando contra inimigos conhecidos que você escorrega.</Page>
+    
+    </Text>
+</QuestDialog>

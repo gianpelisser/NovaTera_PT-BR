@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="191" voiceTypeId="0">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="183" prevId="0" villagerId="1015">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="183" prevId="0" villagerId="1015">
+        <Page social="4">Você passou por um caminho perigoso antes de se tornar um verdadeiro mestre! Aceite este modesto presente, ele o ajudará no futuro com aventuras.</Page>
+    </Text>
+</QuestDialog>

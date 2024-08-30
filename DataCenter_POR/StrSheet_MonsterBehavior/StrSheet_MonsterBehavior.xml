@@ -1,0 +1,1507 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StrSheet_MonsterBehavior xmlns="https://vezel.dev/novadrop/dc/StrSheet_MonsterBehavior" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_MonsterBehavior StrSheet_MonsterBehavior.xsd">
+    <String id="1" msg="Time to kill!" />
+    <String id="2" msg="Form up!" />
+    <String id="3" msg="Hold nothing back!" />
+    <String id="4" msg="All together now!" />
+    <String id="5" msg="Hee hee!" />
+    <String id="6" msg="We are one!" />
+    <String id="7" msg="One! Two! Three!" />
+    <String id="8" msg="Get in formation!" />
+    <String id="9" msg="Earth! Water! Wind! Fire!" />
+    <String id="10" msg="Get in formation!" />
+    <String id="11" msg="Everyone attack!" />
+    <String id="12" msg="Mind your spacing!" />
+    <String id="13" msg="Brace for enemy contact!" />
+    <String id="14" msg="Stay in formation." />
+    <String id="15" msg="We cannot fail!" />
+    <String id="16" msg="Show them our strength." />
+    <String id="17" msg="Defense formation!" />
+    <String id="18" msg="Danger! Take cover!" />
+    <String id="19" msg="I will annihilate you!" />
+    <String id="20" msg="Remember your training!" />
+    <String id="21" msg="Move! Move!" />
+    <String id="22" msg="Get moving!" />
+    <String id="23" msg="Surround that scoundrel!" />
+    <String id="24" msg="Everyone spread out!" />
+    <String id="25" msg="None shall pass!" />
+    <String id="26" msg="Show 'em what true defense means!" />
+    <String id="27" msg="Everybody surround that rat!" />
+    <String id="28" msg="Move like the wind!" />
+    <String id="29" msg="Use your heads! Move!" />
+    <String id="30" msg="Don't mill about! Get into formation!" />
+    <String id="31" msg="Move! Move!" />
+    <String id="32" msg="Too slow! Move faster!" />
+    <String id="33" msg="Put some effort into it!" />
+    <String id="34" msg="Run! Run! Everybody move!" />
+    <String id="35" msg="You wanna die? Get into formation right now!" />
+    <String id="36" msg="Get it right, before I beat you myself!" />
+    <String id="37" msg="Why are you so slow? Did you step in a Tuwangi pie?" />
+    <String id="38" msg="Focus! If you don't want to die." />
+    <String id="39" msg="Hold the line! Aim for their weak spots!" />
+    <String id="40" msg="Pay attention! Focus on the enemy." />
+    <String id="41" msg="Move it! And keep your eyes open!" />
+    <String id="42" msg="Come here and protect me!" />
+    <String id="43" msg="Attack! You want to live forever!" />
+    <String id="44" msg="The time is now! The enemy is disoriented!" />
+    <String id="45" msg="Attack the one standing alone!" />
+    <String id="46" msg="That's the weak spot! Aim for that one first!" />
+    <String id="47" msg="That one seems weakest! Attack!" />
+    <String id="48" msg="Isolate and attack!" />
+    <String id="49" msg="March!" />
+    <String id="50" msg="Discipline wins this battle!" />
+    <String id="51" msg="My minions!" />
+    <String id="52" msg="This isn't over!" />
+    <String id="53" msg="I'll surprise you...." />
+    <String id="54" msg="Come, my children." />
+    <String id="55" msg="From the darkness..." />
+    <String id="56" msg="Come back from the dream!" />
+    <String id="57" msg="Come on, my brothers...." />
+    <String id="58" msg="Come back, my brothers!" />
+    <String id="59" msg="Come out, my brothers...." />
+    <String id="60" msg="Appear...my puppets..." />
+    <String id="61" msg="Through the strength of darkness..." />
+    <String id="62" msg="Can't die...must not die!" />
+    <String id="63" msg="There is no hope..." />
+    <String id="64" msg="Don't just stand there. Fight!" />
+    <String id="65" msg="It's only the beginning." />
+    <String id="66" msg="Lend me your strength, my brothers!" />
+    <String id="67" msg="Get up and fight!" />
+    <String id="68" msg="But...my friends..." />
+    <String id="69" msg="Ha ha ha!" />
+    <String id="70" msg="I thank you..." />
+    <String id="71" msg="Come, my tuwangis!" />
+    <String id="81" msg="It's battle time!" />
+    <String id="82" msg="Now we show our real strength!" />
+    <String id="83" msg="Brothers, come out and join us!" />
+    <String id="84" msg="Ha ha ha! I will destroy you!" />
+    <String id="85" msg="You think this is the end? It's only the beginning!" />
+    <String id="86" msg="Behold! An unending torrent of monsters!" />
+    <String id="87" msg="We are too many to defeat! Come, my minions!" />
+    <String id="88" msg="I'll teach you a lesson. Always keep your guard up!" />
+    <String id="89" msg="We will be the last thing you see!" />
+    <String id="90" msg="My blood brothers!" />
+    <String id="91" msg="Do not underestimate my minions!" />
+    <String id="92" msg="Young ones, follow my orders!" />
+    <String id="93" msg="Our lives are eternal!" />
+    <String id="94" msg="Like leaves in a storm, sweep through the enemy!" />
+    <String id="95" msg="Soon, you'll rest...in peace!" />
+    <String id="96" msg="You'll never escape this nightmare!" />
+    <String id="97" msg="Come and take your revenge, my minions!" />
+    <String id="98" msg="Welcome my friends! Get that one!" />
+    <String id="99" msg="Surprised? Just try running away." />
+    <String id="100" msg="Now! Strike!" />
+    <String id="101" msg="Power for all!" />
+    <String id="102" msg="Nature will aid you!" />
+    <String id="103" msg="Bold as love!" />
+    <String id="104" msg="Titans, lend us your strength!" />
+    <String id="105" msg="Take this power!" />
+    <String id="106" msg="A blessing upon us all." />
+    <String id="107" msg="Go, go, go!" />
+    <String id="108" msg="Earth supports us!" />
+    <String id="109" msg="Wind bolsters us!" />
+    <String id="110" msg="Fire tempers us!" />
+    <String id="111" msg="Water refreshes us!" />
+    <String id="112" msg="Queeeeeak!" />
+    <String id="113" msg="Come on, give it your best!" />
+    <String id="114" msg="Don't make me angry..." />
+    <String id="115" msg="My magic will get us through!" />
+    <String id="116" msg="Show them hellfire, my minions." />
+    <String id="151" msg="Ha! You got stuck?" />
+    <String id="152" msg="Heat consumes you." />
+    <String id="153" msg="Darkness warps you." />
+    <String id="154" msg="Strength ebbs." />
+    <String id="155" msg="Strength dies." />
+    <String id="156" msg="Eyes of darkness watch you." />
+    <String id="157" msg="Darkness will engulf you!" />
+    <String id="158" msg="You will turn to stone!" />
+    <String id="159" msg="Your blood will boil." />
+    <String id="160" msg="Darkness corrupts you." />
+    <String id="161" msg="Darkness engulfs you!" />
+    <String id="162" msg="Grab them!" />
+    <String id="163" msg="I'm sorry...." />
+    <String id="164" msg="Too much..." />
+    <String id="201" msg="Go!" />
+    <String id="202" msg="Take that!" />
+    <String id="203" msg="Giddy up!" />
+    <String id="204" msg="How about this?" />
+    <String id="205" msg="You can't stop this!" />
+    <String id="206" msg="This ends...now!" />
+    <String id="207" msg="Take this!" />
+    <String id="208" msg="Tekeli-li!" />
+    <String id="209" msg="We shall rise again!" />
+    <String id="210" msg="Die and begone!" />
+    <String id="211" msg="You must die." />
+    <String id="212" msg="Can you handle this?" />
+    <String id="213" msg="Ia! Ia! Torong! Torong!" />
+    <String id="214" msg="That's nothing!" />
+    <String id="215" msg="Yee haw!" />
+    <String id="216" msg="Meeeowww!" />
+    <String id="217" msg="Rrrrrrowww!" />
+    <String id="218" msg="Attack!" />
+    <String id="219" msg="How about this?" />
+    <String id="220" msg="Ho ho ho!" />
+    <String id="221" msg="Behold the wrath of unfettered chaos!" />
+    <String id="222" msg="How dare you!" />
+    <String id="223" msg="How about this?" />
+    <String id="224" msg="Here's a little present." />
+    <String id="225" msg="This is for you!" />
+    <String id="226" msg="I'm scared. Everybody go away." />
+    <String id="227" msg="No...please don't!" />
+    <String id="228" msg="I will punish you all!" />
+    <String id="229" msg="Woo!" />
+    <String id="230" msg="Choppa choppa!" />
+    <String id="231" msg="Gah!" />
+    <String id="232" msg="Nyah!" />
+    <String id="233" msg="Filth! How dare you touch me!" />
+    <String id="234" msg="You want a taste of this?" />
+    <String id="235" msg="I'll show you a nightmare..." />
+    <String id="236" msg="One for me!" />
+    <String id="237" msg="Hah! At last!" />
+    <String id="238" msg="How dare you! You're finished!" />
+    <String id="239" msg="This might hurt a little..." />
+    <String id="240" msg="Take this!" />
+    <String id="241" msg="Stay close if you want to be healed!" />
+    <String id="242" msg="Here comes your worst nightmare!" />
+    <String id="251" msg="Now! Attack!" />
+    <String id="252" msg="Push onward!" />
+    <String id="253" msg="Everyone! Attack at once!" />
+    <String id="254" msg="Party time!" />
+    <String id="255" msg="Focus on one at a time!" />
+    <String id="256" msg="United in strength!" />
+    <String id="257" msg="Surround the enemy!" />
+    <String id="258" msg="Rush them!" />
+    <String id="259" msg="Attack together!" />
+    <String id="260" msg="All at once!" />
+    <String id="261" msg="All together now..." />
+    <String id="262" msg="Attack from all angles!" />
+    <String id="263" msg="Now take this!" />
+    <String id="264" msg="Eat this!" />
+    <String id="265" msg="Hold your ranks!" />
+    <String id="266" msg="Prize money for the head!" />
+    <String id="267" msg="That one's laughing at us!" />
+    <String id="268" msg="Let's teach 'em a lesson!" />
+    <String id="269" msg="In formation!" />
+    <String id="270" msg="Aim for that fool over there!" />
+    <String id="271" msg="Show some backbone!" />
+    <String id="272" msg="Float like a bee, sting like a butterf...what?" />
+    <String id="273" msg="Float like a butterfly, sting like a bee!" />
+    <String id="274" msg="Flank attack!" />
+    <String id="275" msg="It's time to wrap 'em up!" />
+    <String id="276" msg="Just a little more! Attack!" />
+    <String id="277" msg="Playtime is over! It's serious now!" />
+    <String id="278" msg="Die!" />
+    <String id="279" msg="Time to die!" />
+    <String id="280" msg="Don't let them through!" />
+    <String id="281" msg="Stop them!" />
+    <String id="282" msg="Nooooo..." />
+    <String id="283" msg="Hooray, Arcadia!" />
+    <String id="284" msg="Stop the enemies!" />
+    <String id="285" msg="Let me help!" />
+    <String id="286" msg="Hang on!" />
+    <String id="287" msg="They're too strong!" />
+    <String id="288" msg="Intruders!" />
+    <String id="289" msg="!" />
+    <String id="290" msg="!" />
+    <String id="291" msg="!" />
+    <String id="292" msg="!" />
+    <String id="293" msg="!" />
+    <String id="294" msg="!" />
+    <String id="295" msg="!" />
+    <String id="296" msg="!" />
+    <String id="297" msg="!" />
+    <String id="298" msg="!" />
+    <String id="299" msg="!" />
+    <String id="301" msg="Spare me!" />
+    <String id="302" msg="Take someone else!" />
+    <String id="303" msg="I have a family at home...please..." />
+    <String id="304" msg="And I was just beginning to enjoy life..." />
+    <String id="305" msg="More...life..." />
+    <String id="306" msg="I...can't...move..." />
+    <String id="307" msg="Mother! I'm coming!" />
+    <String id="308" msg="My vision is blurry..." />
+    <String id="309" msg="Can't...stop...crying..." />
+    <String id="310" msg="My attacks are useless..." />
+    <String id="311" msg="Master! What should I do?" />
+    <String id="312" msg="That's a cheap trick!" />
+    <String id="313" msg="Please! Spare me!" />
+    <String id="314" msg="Gasp...gasp..." />
+    <String id="315" msg="Cough...cough..." />
+    <String id="316" msg="Heh heh heh heh!" />
+    <String id="317" msg="Yuck! Ptui!" />
+    <String id="401" msg="You're next." />
+    <String id="402" msg="Is it over?" />
+    <String id="403" msg="Avenge me...." />
+    <String id="404" msg="Is that it?" />
+    <String id="405" msg="Run...run...!" />
+    <String id="406" msg="Mother..." />
+    <String id="407" msg="I...loved..." />
+    <String id="408" msg="Someone will avenge me...." />
+    <String id="409" msg="I'm not done yet...I..." />
+    <String id="410" msg="I want to live!" />
+    <String id="411" msg="Arrrrggggh!" />
+    <String id="412" msg="I can't see anything...." />
+    <String id="413" msg="I regret nothing!" />
+    <String id="414" msg="I will return...." />
+    <String id="415" msg="Death...took me..." />
+    <String id="416" msg="Hee hee hee!" />
+    <String id="417" msg="Run for your lives!" />
+    <String id="418" msg="We'll starve, working for him!" />
+    <String id="419" msg="Don't run away, you fools!" />
+    <String id="420" msg="How can it be..." />
+    <String id="501" msg="The enemy! Rraowr!" />
+    <String id="502" msg="Come get some!" />
+    <String id="503" msg="Ready for action!" />
+    <String id="504" msg="I salute your fighting spirit." />
+    <String id="505" msg="You want to play, hmm?" />
+    <String id="506" msg="Watch this." />
+    <String id="507" msg="Stand up and fight!" />
+    <String id="508" msg="You're dead!" />
+    <String id="509" msg="You dare challenge me?" />
+    <String id="510" msg="Kill anyone who enters." />
+    <String id="511" msg="None shall pass." />
+    <String id="601" msg="I'm lost!" />
+    <String id="602" msg="It's too much!" />
+    <String id="603" msg="Get me out of here!" />
+    <String id="604" msg="Commander..." />
+    <String id="605" msg="Nothing must interrupt our research!" />
+    <String id="606" msg="What a pain in the neck!" />
+    <String id="607" msg="At last, some action!" />
+    <String id="608" msg="Your head will make a fine gift." />
+    <String id="609" msg="Get out of my way!" />
+    <String id="610" msg="Aargh! Leave me alone!" />
+    <String id="611" msg="You little nightmares..." />
+    <String id="612" msg="Watch out!" />
+    <String id="701" msg="Get out of my way!" />
+    <String id="702" msg="Ha ha ha! That tickles!" />
+    <String id="703" msg="You irritating little..." />
+    <String id="704" msg="I will destroy you first!" />
+    <String id="705" msg="I'll start with the weakest first..." />
+    <String id="706" msg="Who are you?" />
+    <String id="707" msg="Why don't you keep walking?" />
+    <String id="708" msg="Did you hear the one about the cornered prey?" />
+    <String id="709" msg="Why do you bother me?" />
+    <String id="1000" msg="CounterFlee" />
+    <String id="1001" msg="MonsterFlee" />
+    <String id="1002" msg="MonsterSummon" />
+    <String id="1003" msg="Out of shape...getting tired..." />
+    <String id="1004" msg="Ha! You can't even lift your weapon. I don't have to defeat you. Fatigue has done the job for me!" />
+    <String id="1005" msg="One more step...I dare you!" />
+    <String id="10101" msg="I sell potions, teleport scrolls, campfires, and alkahests." onlyBalloon="true" />
+    <String id="10201" msg="I can help you quickly recover from wounds and exhaustion." onlyBalloon="true" />
+    <String id="10301" msg="I can help you to reach the city of Velika." onlyBalloon="true" />
+    <String id="12101" msg="" existTime="2" />
+    <String id="12102" msg="" existTime="2" />
+    <String id="12103" msg="" existTime="2" />
+    <String id="12201" msg="" existTime="2" />
+    <String id="12202" msg="" existTime="2" />
+    <String id="12203" msg="" existTime="2" />
+    <String id="12204" msg="" existTime="2" />
+    <String id="12205" msg="" existTime="1" />
+    <String id="12206" msg="" existTime="1" />
+    <String id="19201" msg="&lt;font size='40'&gt;This message is test purpose only.&lt;/font&gt;" />
+    <String id="47901" msg="Great Saravash, empower me!" />
+    <String id="47902" msg="The power overflows!" />
+    <String id="47903" msg="Double power!" />
+    <String id="47904" msg="Triple power!" />
+    <String id="47905" msg="Quadruple power!" />
+    <String id="47906" msg="Quintuple power!" />
+    <String id="47907" msg="Attack together!" />
+    <String id="47908" msg="Sing a song of woe!" />
+    <String id="47909" msg="Attack, attack!" />
+    <String id="47910" msg="Your resistance ends here!" />
+    <String id="47912" msg="I will kill you all." />
+    <String id="47913" msg="Die painfully and slowly!" />
+    <String id="47914" msg="Ha! My blows shake the earth!" />
+    <String id="47915" msg="Come, my poisonous parasites." />
+    <String id="47916" msg="Who are you? I don't trust you..." />
+    <String id="47917" msg="&lt;font size='40'&gt;Incoming gorillas!&lt;/font&gt;" existTime="5" msgOnScreen="true" styleId="42" />
+    <String id="47918" msg="&lt;font size='40'&gt;Virrsek is emitting poisonous gas.&lt;/font&gt;" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="47919" msg="&lt;font size='40'&gt;All the young basilisks are dead.&lt;/font&gt;" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="47920" msg="&lt;font size='40'&gt;Basilisks protect their young.&lt;/font&gt;" existTime="5" msgOnScreen="true" styleId="42" />
+    <String id="47921" msg="&lt;font size='40'&gt;Break Belsamael's wine casks before he drinks them!&lt;/font&gt;" existTime="5" msgOnScreen="true" styleId="42" />
+    <String id="47922" msg="&lt;font size='40'&gt;Kill Saravash before he finishes.&lt;/font&gt;" existTime="5" msgOnScreen="true" styleId="42" />
+    <String id="47930" msg="You cannot trick me!" />
+    <String id="49401" msg="Who's there?" />
+    <String id="49402" msg="Will nature triumph?" />
+    <String id="49403" msg="Take my curse" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="49404" msg="Come, dark ghosts!!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="49405" msg="Just wait.... You're next." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="49406" msg="I will smash you!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="49407" msg="Did you hear something?" />
+    <String id="49408" msg="Special attack of frost giant" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="49409" msg="You think that's all I have?" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="49410" msg="What have you done?" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="49411" msg="Come my pets!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="49412" msg="Summoning..." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="49413" msg="Dark spirit, lend me POWER!" />
+    <String id="49414" msg="My mace shall show no mercy." />
+    <String id="49415" msg="Aargh!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="49416" msg="Down, dogs!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="49417" msg="Feel the full rage of the legion!" />
+    <String id="49418" msg="The legion lives on...forever!" />
+    <String id="49419" msg="I will show you hell!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="49420" msg="Ha! This will be your grave." />
+    <String id="49421" msg="Right where I want you..." />
+    <String id="49422" msg="What have you done?" existTime="7" msgOnScreen="true" styleId="37" />
+    <String id="49423" msg="Hell comes for you!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="49424" msg="You think this easy?" />
+    <String id="49425" msg="Something feels strange." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="49426" msg="Catch me if you can!" />
+    <String id="49427" msg="Who dares interrupt my seclusion?" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="49428" msg="This is the end..." />
+    <String id="49429" msg="Why aren't you attacking?" />
+    <String id="49430" msg="Form up! Attention!" />
+    <String id="49431" msg="Hup. Hup." />
+    <String id="87001" msg="Who dares disturb Rahto?" />
+    <String id="87002" msg="You should join me! There is enough of Lakan's power to go around!" />
+    <String id="87003" msg="You are not prepared to fight me—now or ever!" />
+    <String id="102201" msg="Nexus frenetics stirs the monster into a fiery rage!" existTime="4" msgOnScreen="true" styleId="37" />
+    <String id="102202" msg="Nexus surge stirs the monster into a fiery rage!" existTime="4" msgOnScreen="true" styleId="37" />
+    <String id="102203" msg="Nexus alacrity strengthens the monster!" existTime="4" msgOnScreen="true" styleId="37" />
+    <String id="112001" msg="The naga reaver has entered the battleground!" existTime="10" msgOnScreen="true" styleId="43" />
+    <String id="112002" msg="The potent teralith has entered the battleground!" existTime="10" msgOnScreen="true" styleId="43" />
+    <String id="181001" msg="Ouch! Ow! Get away from me!" onlyBalloon="true" />
+    <String id="181002" msg="Can anyone hear me? It's me, Paesyn!" onlyBalloon="true" />
+    <String id="181003" msg="Zolyn! Dougal! Rhodos! Anyone!" onlyBalloon="true" />
+    <String id="181004" msg="Oh, please, just let me go!" onlyBalloon="true" />
+    <String id="181005" msg="I am going to die out here, I know it…" onlyBalloon="true" />
+    <String id="181006" msg="Can't anyone help us?" onlyBalloon="true" />
+    <String id="181007" msg="Someone, send help!" onlyBalloon="true" />
+    <String id="181008" msg="I just want to go back to the lab!" onlyBalloon="true" />
+    <String id="181009" msg="Help! Someone help us!" onlyBalloon="true" />
+    <String id="181010" msg="You are a lifesaver." onlyBalloon="true" />
+    <String id="181011" msg="You saved my life and my research results." onlyBalloon="true" />
+    <String id="181012" msg="Are you, by any chance, interested in archaeology?" onlyBalloon="true" />
+    <String id="181013" msg="Demokrons are prevailing. Research will become harder by day…" onlyBalloon="true" />
+    <String id="181014" msg="Who dares to wake me up from a millennia of dream…" onlyBalloon="true" />
+    <String id="181015" msg="You shall accompany my sleep!" onlyBalloon="true" />
+    <String id="181016" msg="Your body shall turn stiff!" onlyBalloon="true" />
+    <String id="181017" msg="Whoever interferes my rest shall pay the price!" onlyBalloon="true" />
+    <String id="181018" msg="Mercy! Krrk!" onlyBalloon="true" />
+    <String id="181019" msg="Krrk! Prisoner!" onlyBalloon="true" />
+    <String id="181020" msg="This place does stimulate my curiosity!" onlyBalloon="true" />
+    <String id="181021" msg="I want to research this area!" onlyBalloon="true" />
+    <String id="181022" msg="What a place!" onlyBalloon="true" />
+    <String id="181023" msg="I've never been to anywhere like this!" onlyBalloon="true" />
+    <String id="183001" msg="Verikam? What is it?" onlyBalloon="true" />
+    <String id="183002" msg="What will happen to us now?" onlyBalloon="true" />
+    <String id="183003" msg="So much tragedy..." onlyBalloon="true" />
+    <String id="183004" msg="No one knows what will happen without Verikam." onlyBalloon="true" />
+    <String id="183005" msg="This place is not safe anymore." onlyBalloon="true" />
+    <String id="183006" msg="Baraka's cry fills the pitch-dark sky." onlyBalloon="true" />
+    <String id="183007" msg="Flag of hell is approaching." onlyBalloon="true" />
+    <String id="183008" msg="The end is nigh!" onlyBalloon="true" />
+    <String id="183009" msg="A cold night approaches, flowers are hiding their faces in the darkness…!" onlyBalloon="true" />
+    <String id="183010" msg="Mindless wanderers are bringing ominous fog." onlyBalloon="true" />
+    <String id="183011" msg="The Valkyon Federation is here to help!" onlyBalloon="true" />
+    <String id="250001" msg="Lok's devout will prevail!" />
+    <String id="250002" msg="Lok! Lok!" />
+    <String id="250003" msg="Lok! Please come back to us!" />
+    <String id="410001" msg="For Kaiator!!" />
+    <String id="410002" msg="You can't escape!" />
+    <String id="410003" msg="Don't underestimate the guards!" />
+    <String id="410004" msg="You damned clowns!" />
+    <String id="412001" msg="I'll use this to stun the monster. Then you attack!" />
+    <String id="416001" msg="Ugh." />
+    <String id="416002" msg="Raaaaurgh!" />
+    <String id="416003" msg="Charge! Victory for Valkyon!" />
+    <String id="416004" msg="Leave the patients to me." />
+    <String id="416005" msg="Don't give up now!" />
+    <String id="416006" msg="Steady fast, soldier." />
+    <String id="416007" msg="Rush onward!" />
+    <String id="416008" msg="Take that!" />
+    <String id="416009" msg="Let's finish this!" />
+    <String id="416010" msg="Block the attack." />
+    <String id="416011" msg="Try to block this!" />
+    <String id="416012" msg="Strike, then fade away!" />
+    <String id="416013" msg="Hang in there, soldier." />
+    <String id="416014" msg="Show me what you've got!" />
+    <String id="416015" msg="I'll cover the right!" />
+    <String id="416016" msg="I'll cover the left!" />
+    <String id="416017" msg="There's an opening!" />
+    <String id="416018" msg="I'll watch our backs." />
+    <String id="416019" msg="Awaken, spirits..." />
+    <String id="416020" msg="Never retreat!" />
+    <String id="424001" msg="I shall melt the stone at your feet!" existTime="10" msgOnScreen="true" styleId="37" />
+    <String id="424002" msg="Watch out for the blood borers!." existTime="10" msgOnScreen="true" styleId="37" />
+    <String id="424003" msg="Puny wretches! I'll sup from your skulls!" existTime="10" msgOnScreen="true" styleId="37" />
+    <String id="424004" msg="You cannot best me with your feeble powers!" existTime="10" msgOnScreen="true" styleId="37" />
+    <String id="424005" msg="An enemy emerges from the portal." existTime="10" msgOnScreen="true" styleId="37" />
+    <String id="425001" msg="Locking onto {targetName}." existTime="3" msgOnScreen="true" styleId="37" />
+    <String id="425002" msg="Target: {targetName} 5" existTime="3" msgOnScreen="true" styleId="37" />
+    <String id="425003" msg="Target: {targetName} 4" existTime="3" msgOnScreen="true" styleId="37" />
+    <String id="425004" msg="Target: {targetName} 3" existTime="3" msgOnScreen="true" styleId="37" />
+    <String id="425005" msg="Target: {targetName} 2" existTime="3" msgOnScreen="true" styleId="37" />
+    <String id="425006" msg="Target: {targetName} 1" existTime="3" msgOnScreen="true" styleId="37" />
+    <String id="425007" msg="Target: {targetName} Fire!" existTime="10" msgOnScreen="true" styleId="37" />
+    <String id="425008" msg="The kumas recharges." existTime="6" msgOnScreen="true" styleId="37" />
+    <String id="425009" msg="New target: {targetName}." existTime="10" msgOnScreen="true" styleId="37" />
+    <String id="425010" msg="{targetName} cannot see the truth." existTime="10" msgOnScreen="true" styleId="37" />
+    <String id="425011" msg="A field of healing energy appears." existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="425012" msg="The purifier is active." existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="426001" msg="There is more here than meets the eye..." existTime="10" msgOnScreen="true" styleId="37" />
+    <String id="426002" msg="Oh, stop bothering me!" existTime="10" msgOnScreen="true" styleId="37" />
+    <String id="426003" msg="The enemy has detected {targetName}." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="426004" msg="The enemy has detected {targetName}." existTime="10" msgOnScreen="true" styleId="37" />
+    <String id="426005" msg="The enemy has detected {targetName}." existTime="10" msgOnScreen="true" styleId="37" />
+    <String id="426006" msg="It is time to summon the kelba watcher!" existTime="10" msgOnScreen="true" styleId="37" />
+    <String id="426007" msg="Baritzal servitor has been summoned." existTime="10" msgOnScreen="true" styleId="37" />
+    <String id="427001" msg="Did you like that? I have more!" />
+    <String id="427002" msg="Is that the best you have in you?" />
+    <String id="427003" msg="Now or later, you will bow to our queen." />
+    <String id="427004" msg="You'll pray for death before I'm done." existTime="4" msgOnScreen="true" styleId="42" />
+    <String id="427006" msg="You're lucky!" existTime="4" msgOnScreen="true" styleId="42" />
+    <String id="427010" msg="Come to me! Die for me!" />
+    <String id="427011" msg="No! You won't defeat me. You cannot defeat me!" />
+    <String id="427015" msg="All who oppose me die. You are no different." existTime="4" msgOnScreen="true" styleId="42" />
+    <String id="427016" msg="What chance do you have against me? None!" existTime="4" msgOnScreen="true" styleId="42" />
+    <String id="427018" msg="Come in if you like. You won't be leaving again." />
+    <String id="427019" msg="Ah, there you are. You've saved me coming to find you." existTime="4" msgOnScreen="true" styleId="37" />
+    <String id="427021" msg="They told me some fools were coming here to die." />
+    <String id="427022" msg="You think victory is within your grasp? Wrong!" />
+    <String id="427023" msg="Why don't you just die quietly?" />
+    <String id="427025" msg="So you have a death wish. Very well. I shall grant it." existTime="4" msgOnScreen="true" styleId="37" />
+    <String id="427026" msg="You have awakened me. It seems you crave terror and death." existTime="4" msgOnScreen="true" styleId="37" />
+    <String id="427027" msg="Behold the finest example of argon evolution! Me!" existTime="4" msgOnScreen="true" styleId="37" />
+    <String id="427028" msg="My ecstasy of evolution is your pain!" existTime="4" msgOnScreen="true" styleId="37" />
+    <String id="427029" msg="I have been called to life that you might die." existTime="4" msgOnScreen="true" styleId="37" />
+    <String id="427030" msg="Wake up, faithful ones. Your time has come." existTime="4" msgOnScreen="true" styleId="42" />
+    <String id="427036" msg="&lt;font size='40'&gt;You think to hurt me? You'll have to touch me first!&lt;/font&gt;" existTime="5" msgOnScreen="true" styleId="42" />
+    <String id="427040" msg="&lt;font size='40'&gt;I come bringing death!&lt;/font&gt;" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="427044" msg="I'll take great pleasure in killing you." />
+    <String id="427046" msg="This is the end of your journey." />
+    <String id="427047" msg="Stay still, and I'll kill you quickly." />
+    <String id="427048" msg="A wave of evil washes over you." existTime="4" msgOnScreen="true" styleId="37" />
+    <String id="427049" msg="Insufficient! You can't stop the queen's wrath." existTime="4" msgOnScreen="true" styleId="37" />
+    <String id="427050" msg="&lt;font size='40'&gt;Great ones! Lend me your powers!&lt;/font&gt;" existTime="5" msgOnScreen="true" styleId="42" />
+    <String id="427051" msg="You must know you won't escape." existTime="5" msgOnScreen="true" styleId="42" />
+    <String id="443001" msg="&lt;font size='40'&gt;You'll never get through here!&lt;/font&gt;" existTime="2" msgOnScreen="false" styleId="37" />
+    <String id="443002" msg="No one here but blubbering seals. Ha!" existTime="2" msgOnScreen="false" styleId="37" />
+    <String id="443003" msg="Enemies!" existTime="2" msgOnScreen="false" styleId="37" />
+    <String id="443004" msg="Look around very carefully!" existTime="2" msgOnScreen="false" styleId="37" />
+    <String id="443005" msg="&lt;font size='40'&gt;My blood is pumping—I'll show you real pain!&lt;/font&gt;" existTime="2" msgOnScreen="false" styleId="37" />
+    <String id="443006" msg="Hehe..." existTime="2" msgOnScreen="false" styleId="37" />
+    <String id="443007" msg="We have no mercy for the likes of you." existTime="2" msgOnScreen="false" styleId="37" />
+    <String id="443008" msg="We'll devour you whole—even your bones!" existTime="2" msgOnScreen="false" styleId="37" />
+    <String id="443009" msg="We'll pull your teeth out!" existTime="2" msgOnScreen="false" styleId="37" />
+    <String id="443010" msg="&lt;font size='40'&gt;A new toy? For me? Smash!&lt;/font&gt;" existTime="2" msgOnScreen="false" styleId="37" />
+    <String id="443011" msg="&lt;font size='40'&gt;Rollin' rollin' rollin'!&lt;/font&gt;" existTime="2" msgOnScreen="false" styleId="37" />
+    <String id="443012" msg="&lt;font size='40'&gt;Let's see if you can avoid this one too!&lt;/font&gt;" existTime="2" msgOnScreen="false" styleId="37" />
+    <String id="443013" msg="&lt;font size='40'&gt;Die! Die!&lt;/font&gt;" existTime="2" msgOnScreen="false" styleId="37" />
+    <String id="443014" msg="&lt;font size='40'&gt;Haha!&lt;/font&gt;" existTime="2" msgOnScreen="false" styleId="37" />
+    <String id="443015" msg="&lt;font size='40'&gt;I will never let you go!&lt;/font&gt;" existTime="2" msgOnScreen="false" styleId="37" />
+    <String id="443016" msg="This herb will save everybody." />
+    <String id="443017" msg="There are so many monsters." />
+    <String id="443018" msg="You are so good!" />
+    <String id="443019" msg="If this kind of poison spreads in your body, you won't survive." />
+    <String id="443020" msg="Making an antidote is such profound work!" />
+    <String id="443021" msg="Good thing I studied!" />
+    <String id="443022" msg="We're almost there." />
+    <String id="443023" msg="&lt;font size='40'&gt;Gah! So much energy! I will crush you!&lt;/font&gt;" existTime="2" msgOnScreen="false" styleId="37" />
+    <String id="443024" msg="&lt;font size='40'&gt;Ha...can you break this curse?&lt;/font&gt;" existTime="2" msgOnScreen="false" styleId="37" />
+    <String id="443025" msg="&lt;font size='40'&gt;Now you're trapped!&lt;/font&gt;" existTime="2" msgOnScreen="false" styleId="37" />
+    <String id="443026" msg="Go, go, go! Defeat them!" />
+    <String id="443027" msg="Don't go in...you won't make it back out." />
+    <String id="443028" msg="Remember...you must kill them at the same time." />
+    <String id="443029" msg="Hey! Come over here! Hey!" />
+    <String id="443030" msg="Don't make me angry!" />
+    <String id="443031" msg="&lt;font size='40'&gt;This will be your grave.&lt;/font&gt;" />
+    <String id="443032" msg="&lt;font size='40'&gt;Bring me their heads!&lt;/font&gt;" />
+    <String id="443033" msg="&lt;font size='40'&gt;Who do you think you are?&lt;/font&gt;" />
+    <String id="443034" msg="&lt;font size='40'&gt;Minions! See to their demise!&lt;/font&gt;" />
+    <String id="443035" msg="You're the infiltrators, are you?" />
+    <String id="443036" msg="Let's see how good you are!" />
+    <String id="443037" msg="Haha!" />
+    <String id="443038" msg="Obey me!" />
+    <String id="443039" msg="&lt;font size='40'&gt;A stone is rolling in!&lt;/font&gt;" existTime="5" msgOnScreen="true" styleId="42" />
+    <String id="443040" msg="&lt;font size='40'&gt;Alarm! Alarm! Alarm!&lt;/font&gt;" />
+    <String id="443041" msg="&lt;font size='40'&gt;Incorrect order. Prepare for death.&lt;/font&gt;" />
+    <String id="443042" msg="&lt;font size='40'&gt;The curse will take effect in 3 seconds.&lt;/font&gt;" />
+    <String id="443043" msg="&lt;font size='40'&gt;3&lt;/font&gt;" />
+    <String id="443044" msg="&lt;font size='40'&gt;2&lt;/font&gt;" />
+    <String id="443045" msg="&lt;font size='40'&gt;1&lt;/font&gt;" />
+    <String id="443046" msg="&lt;font size='40'&gt;The curse will take effect soon.&lt;/font&gt;" />
+    <String id="443047" msg="&lt;font size='40'&gt;Determining Status Conditions&lt;/font&gt;" />
+    <String id="443048" msg="&lt;font size='40'&gt;...&lt;/font&gt;" />
+    <String id="443049" msg="&lt;font size='40'&gt;Correct cancellation order.&lt;/font&gt;" />
+    <String id="443050" msg="&lt;font size='40'&gt;The curse will be canceled in 3 seconds.&lt;/font&gt;" />
+    <String id="443051" msg="I found you!" />
+    <String id="443052" msg="&lt;font size='40'&gt;Die!&lt;/font&gt;" />
+    <String id="443053" msg="&lt;font size='40'&gt;C'mere! I'll take you down!&lt;/font&gt;" />
+    <String id="443054" msg="&lt;font size='40'&gt;Prepare for the worst!&lt;/font&gt;" />
+    <String id="443055" msg="Break the siege weapons!" />
+    <String id="443056" msg="Guard Golem!" />
+    <String id="443057" msg="&lt;font size='40'&gt;AAARGH!&lt;/font&gt;" />
+    <String id="443058" msg="&lt;font size='40'&gt;You're outnumbered!&lt;/font&gt;" />
+    <String id="443059" msg="&lt;font size='40'&gt;The curse will be canceled soon.&lt;/font&gt;" />
+    <String id="443060" msg="&lt;font size='40'&gt;The curse has taken effect.&lt;/font&gt;" />
+    <String id="443061" msg="&lt;font size='40'&gt;The curse has been canceled.&lt;/font&gt;" />
+    <String id="443062" msg="&lt;font size='40'&gt;You think you're lucky?&lt;/font&gt;" />
+    <String id="443063" msg="&lt;font size='40'&gt;Ha!&lt;/font&gt;" />
+    <String id="443064" msg="&lt;font size='40'&gt;You can't run from me!&lt;/font&gt;" />
+    <String id="443065" msg="&lt;font size='40'&gt;That's a point for me!&lt;/font&gt;" />
+    <String id="443066" msg="&lt;font size='40'&gt;Ready for more?&lt;/font&gt;" />
+    <String id="443067" msg="&lt;font size='40'&gt;You're better than I thought...I'm surprised! But you're dead now!&lt;/font&gt;" />
+    <String id="443068" msg="Beat up those bastards!" />
+    <String id="443069" msg="They've destroyed the tombstone!" />
+    <String id="443070" msg="Attack!" />
+    <String id="443071" msg="Protect the warden!" />
+    <String id="443072" msg="&lt;font size='40'&gt;No! My shield!&lt;/font&gt;" />
+    <String id="443073" msg="&lt;font size='40'&gt;I can't lose like this.&lt;/font&gt;" />
+    <String id="443074" msg="&lt;font size='40'&gt;Die!&lt;/font&gt;" />
+    <String id="443075" msg="&lt;font size='40'&gt;I can't believe this!&lt;/font&gt;" />
+    <String id="443076" msg="You came for my potion?" />
+    <String id="443077" msg="I hate insects." />
+    <String id="443078" msg="I was cursed...after that, I don't remember a thing." />
+    <String id="443079" msg="Light...I see light!" />
+    <String id="443080" msg="&lt;font size='40'&gt;You won't get your way!&lt;/font&gt;" />
+    <String id="443081" msg="&lt;font size='40'&gt;I will protect Aliss myself!&lt;/font&gt;" />
+    <String id="443082" msg="&lt;font size='40'&gt;Roll! Roll!&lt;/font&gt;" />
+    <String id="443083" msg="&lt;font size='40'&gt;One! More! Time!&lt;/font&gt;" />
+    <String id="443084" msg="&lt;font size='40'&gt;Ack! &lt;/font&gt;" />
+    <String id="443099" msg="We'll boil you into soup!" existTime="2" msgOnScreen="false" styleId="37" />
+    <String id="443999" msg="Bah! You guys aren't too bad. See you later!" existTime="2" msgOnScreen="false" styleId="37" />
+    <String id="450001" msg="&lt;font size='50'&gt;Yativio spawned minions to shield itself!&lt;/font&gt;" existTime="7" msgOnScreen="true" styleId="37" />
+    <String id="450002" msg="&lt;font size='20'&gt;Ain't no crime, if it's suppertime!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="450003" msg="&lt;font size='20'&gt;Whack! Whack! Right on your head!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="450004" msg="&lt;font size='20'&gt;Feed me! Feeeeed me!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="450005" msg="&lt;font size='20'&gt;We're killer buds!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="450006" msg="&lt;font size='50'&gt;Koleogg is building up a lightning charge!&lt;/font&gt;" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="450007" msg="&lt;font size='20'&gt;Get ready for the buzz!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="450009" msg="&lt;font size='50'&gt;Vesporax sprays the cave with acid!&lt;/font&gt;" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="450010" msg="&lt;font size='20'&gt;I'm so hungry! I need to eat!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="450011" msg="&lt;font size='20'&gt;Who wants to feed me next?&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="450012" msg="&lt;font size='20'&gt;You can't fight nature, little ones!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="450013" msg="&lt;font size='50'&gt;Koleogg's lightning charge is almost ready!&lt;/font&gt;" existTime="7" msgOnScreen="true" styleId="37" />
+    <String id="450014" msg="&lt;font size='50'&gt;Koleogg blasts the nest with lightning!&lt;/font&gt;" existTime="7" msgOnScreen="true" styleId="37" />
+    <String id="450015" msg="&lt;font size='20'&gt;Ha! Did you like that?&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="450016" msg="&lt;font size='20'&gt;Whoa! Whoa!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="450017" msg="&lt;font size='20'&gt;It's growing! Growing!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="450018" msg="&lt;font size='20'&gt;Give me more power!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="450019" msg="&lt;font size='20'&gt;I can feel the power coursing through me!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="450020" msg="&lt;font size='50'&gt;The ground quakes!&lt;/font&gt;" existTime="7" msgOnScreen="true" styleId="37" />
+    <String id="450021" msg="&lt;font size='25'&gt;Shh. Don't get caught.&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="450022" msg="&lt;font size='20'&gt;I could eat a cow—but you'll do...&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="450023" msg="&lt;font size='20'&gt;Irritating imbeciles!&lt;/font&gt;" existTime="4" msgOnScreen="false" styleId="37" />
+    <String id="450024" msg="&lt;font size='20'&gt;You won't take my treasure!&lt;/font&gt;" existTime="4" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="450025" msg="&lt;font size='20'&gt;I'll kill you all!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="450026" msg="&lt;font size='35'&gt;{targetName}! Vesporax is summoning bees!&lt;/font&gt;" existTime="10" msgOnScreen="true" styleId="37" />
+    <String id="450027" msg="&lt;font size='20'&gt;Looks like everyone is ready. Let's go.&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="450028" msg="&lt;font size='20'&gt;What a perfect day to launch an airship.&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="450029" msg="&lt;font size='20'&gt;Phweet! Let's go, Azzem!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="450030" msg="&lt;font size='20'&gt;Stupid monsters! Take that!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="450031" msg="&lt;font size='20'&gt;Do you hear that squeaking sound?&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="450032" msg="&lt;font size='20'&gt;Aha! there it is. I found it.&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="450033" msg="&lt;font size='20'&gt;Kill that ugly plant. Do it with a single blow.&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="450034" msg="&lt;font size='20'&gt;You're strong enough, aren't you?&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="450035" msg="&lt;font size='20'&gt;Show me you've got the right stuff.&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="451001" msg="Waa!" onlyBalloon="true" />
+    <String id="451002" msg="Wa waa!" onlyBalloon="true" />
+    <String id="451003" msg="Waaah!" onlyBalloon="true" />
+    <String id="451004" msg="Die filth!" onlyBalloon="true" />
+    <String id="451005" msg="Phooey!" onlyBalloon="true" />
+    <String id="451006" msg="Uhhh!" onlyBalloon="true" />
+    <String id="451007" msg="Bah! That doesn't hurt!" onlyBalloon="true" />
+    <String id="451008" msg="Snake!" onlyBalloon="true" />
+    <String id="451009" msg="Snakes...very dangerous." onlyBalloon="true" />
+    <String id="451010" msg="You go ahead." onlyBalloon="true" />
+    <String id="451011" msg="Aaiee!" onlyBalloon="true" />
+    <String id="452001" msg="" onlyBalloon="true" />
+    <String id="452002" msg="What was that?" onlyBalloon="true" />
+    <String id="452003" msg="Aaiee!" onlyBalloon="true" />
+    <String id="452004" msg="Ribbit!" onlyBalloon="true" />
+    <String id="452005" msg="Ribbit ribbit!" onlyBalloon="true" />
+    <String id="452006" msg="Kill the intruders now!" onlyBalloon="true" />
+    <String id="452007" msg="Gluda give me strength." onlyBalloon="true" />
+    <String id="452008" msg="Give me blood! Give me blood!" onlyBalloon="true" />
+    <String id="452009" msg="Revenge, revenge, revenge..." onlyBalloon="true" />
+    <String id="452010" msg="Yummy..." onlyBalloon="true" />
+    <String id="452011" msg="Ha ha ha!" onlyBalloon="true" />
+    <String id="452012" msg="Here, bring some more blood!" onlyBalloon="true" />
+    <String id="452013" msg="Get them out of here." onlyBalloon="true" />
+    <String id="452014" msg="Get rid of all these sun-lovers!" onlyBalloon="true" />
+    <String id="452015" msg="Heehee!" onlyBalloon="true" />
+    <String id="452016" msg="Gifts from Gluda!" onlyBalloon="true" />
+    <String id="452017" msg="Chomp!" onlyBalloon="true" />
+    <String id="452018" msg="Tasty!" onlyBalloon="true" />
+    <String id="452019" msg="Something smells like garlic..." onlyBalloon="true" />
+    <String id="452020" msg="Intruders! Intruders!" onlyBalloon="true" />
+    <String id="452021" msg="Die!" onlyBalloon="true" />
+    <String id="452022" msg="Snort!" onlyBalloon="true" />
+    <String id="452023" msg="Ahhh! Go away! Go away!" onlyBalloon="true" />
+    <String id="452024" msg="Help! Is anyone there?" onlyBalloon="true" />
+    <String id="452025" msg="Help me! Ah!" onlyBalloon="true" />
+    <String id="452026" msg="Heh!" onlyBalloon="true" />
+    <String id="452027" msg="Ahhh!" onlyBalloon="true" />
+    <String id="452028" msg="Ha!" onlyBalloon="true" />
+    <String id="452029" msg="Haha!" onlyBalloon="true" />
+    <String id="452030" msg="Catch!" onlyBalloon="true" />
+    <String id="452031" msg="Draw their blood!" onlyBalloon="true" />
+    <String id="452032" msg="This one looks delicious!" onlyBalloon="true" />
+    <String id="452033" msg="Gluda!" onlyBalloon="true" />
+    <String id="452034" msg="Help! Emergency!" onlyBalloon="true" />
+    <String id="452035" msg="Guards! Guards!" onlyBalloon="true" />
+    <String id="454001" msg="These might sting a bit." onlyBalloon="true" />
+    <String id="454002" msg="&lt;font size='60'&gt;Fulminar gathers power for a massive attack.&lt;/font&gt;" existTime="7" msgOnScreen="true" styleId="37" />
+    <String id="454003" msg="&lt;font size='45'&gt;Let's cut you down to size!&lt;/font&gt;" existTime="7" msgOnScreen="true" styleId="37" />
+    <String id="454004" msg="&lt;font size='45'&gt;I bring you the gift of annihilation!&lt;/font&gt;" existTime="7" msgOnScreen="true" styleId="37" />
+    <String id="454005" msg="&lt;font size='50'&gt;Water rushes into the chamber.&lt;/font&gt;" existTime="7" msgOnScreen="true" styleId="37" />
+    <String id="454006" msg="&lt;font size='50'&gt;Water rushes into the chamber.&lt;/font&gt;" existTime="7" msgOnScreen="true" styleId="37" />
+    <String id="454007" msg="&lt;font size='50'&gt;Water rushes into the chamber.&lt;/font&gt;" existTime="7" msgOnScreen="true" styleId="37" />
+    <String id="454008" msg="&lt;font size='45'&gt;The pool is draining.&lt;/font&gt;" existTime="3" msgOnScreen="true" styleId="37" />
+    <String id="454009" msg="&lt;font size='45'&gt;The pool is drained.&lt;/font&gt;" existTime="3" msgOnScreen="true" styleId="37" />
+    <String id="454010" msg="&lt;font size='45'&gt;Can you control your fear? I doubt it!&lt;/font&gt;" existTime="3" msgOnScreen="true" styleId="37" />
+    <String id="454011" msg="&lt;font size='45'&gt;You cannot withstand the full brunt of my power!&lt;/font&gt;" existTime="3" msgOnScreen="true" styleId="37" />
+    <String id="454012" msg="&lt;font size='45'&gt;The air's too fresh. Let's fix that!&lt;/font&gt;" existTime="3" msgOnScreen="true" styleId="37" />
+    <String id="454013" msg="&lt;font size='45'&gt;There's no antidote for my fury!&lt;/font&gt;" existTime="3" msgOnScreen="true" styleId="37" />
+    <String id="454014" msg="It's kamaras all the way down!" onlyBalloon="true" />
+    <String id="454015" msg="&lt;font size='60'&gt;Fulminar prepares to strike a fatal blow.&lt;/font&gt;" existTime="7" msgOnScreen="true" styleId="37" />
+    <String id="454016" msg="&lt;font size='45'&gt;Let's speed up this dance!&lt;/font&gt;" existTime="7" msgOnScreen="true" styleId="37" />
+    <String id="464001" msg="Help!" />
+    <String id="464002" msg="Where are you taking me!!" />
+    <String id="464003" msg="Lord! Save us!" />
+    <String id="464004" msg="You stand in my way?" />
+    <String id="464005" msg="I will kill anything I see!" />
+    <String id="464006" msg="Ha!" />
+    <String id="464007" msg="Smash!" />
+    <String id="464008" msg="Muhrak ...you can't...out..." />
+    <String id="464009" msg="Blacksmith...cannot escape..." />
+    <String id="464010" msg="It will be done soon..." />
+    <String id="464011" msg="Thulsa...will take everything back..." />
+    <String id="464012" msg="Protect...control device!" />
+    <String id="464013" msg="No one...can leave...alive." />
+    <String id="464014" msg="Let's...go to hell...together." />
+    <String id="464015" msg="Protect...protect..." />
+    <String id="475024" msg="Barrier removed." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="475025" msg="Kelsaik returns to center." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="475026" msg="Kelsaik recharges." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="475027" msg="Kelsaik grows stronger." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="475028" msg="Kelsaik roars." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="475029" msg="Kelsaik howls." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="475030" msg="Kelsaik nears completion. World destruction in 8 minutes." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="475031" msg="Kelsaik thunders." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="475032" msg="Kelsaik is complete now. You have lost the guardstone's support." existTime="3" msgOnScreen="true" styleId="37" />
+    <String id="475033" msg="(Temp) Short term target - back" existTime="3" msgOnScreen="true" styleId="37" />
+    <String id="475034" msg="(Temp) Short term target - left" existTime="3" msgOnScreen="true" styleId="37" />
+    <String id="475035" msg="(Temp) Short term target - right" existTime="3" msgOnScreen="true" styleId="37" />
+    <String id="475036" msg="(Temp) Short term target - recover" existTime="3" msgOnScreen="true" styleId="37" />
+    <String id="475037" msg="(Temp) Short term target - summon curse" existTime="3" msgOnScreen="true" styleId="37" />
+    <String id="475038" msg="(Temp) Short term target - summon minion" existTime="3" msgOnScreen="true" styleId="37" />
+    <String id="475039" msg="(Temp) Short term target - stun" existTime="3" msgOnScreen="true" styleId="37" />
+    <String id="475040" msg="(Temp) Short term target - reaction" existTime="3" msgOnScreen="true" styleId="37" />
+    <String id="475041" msg="Surrounding air feels heavy." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="475042" msg="Surrounding air feels sticky." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="475043" msg="Surrounding air feels thin." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="475044" msg="The annihilation charger awakens." existTime="7" msgOnScreen="true" styleId="37" />
+    <String id="475045" msg="The annihilation reaper awakens." existTime="7" msgOnScreen="true" styleId="37" />
+    <String id="475046" msg="The annihilation sniper awakens." existTime="7" msgOnScreen="true" styleId="37" />
+    <String id="475047" msg="The annihilation destroyer awakens." existTime="7" msgOnScreen="true" styleId="37" />
+    <String id="475048" msg="The annihilation vanquisher awakens." existTime="7" msgOnScreen="true" styleId="37" />
+    <String id="475049" msg="Awake, my friend" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="475050" msg="Let's kill them all" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="475051" msg="You hurt our friend, you will pay for this." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="475052" msg="Surrounding air returns to normal" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="475053" msg="Surrounding air suddenly feels hot." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="477001" msg="Time to choose..." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="477002" msg="The power of the giants!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="477003" msg="Imperfect..." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="477004" msg="Ha ha! You can't trip me that easily." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="477005" msg="You hear footsteps." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="477006" msg="Ha ha ha! You just stepped in my trap." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="477007" msg="Who dares take our treasure?" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="477008" msg="For glory!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="477009" msg="Get out of my way!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="477010" msg="Get the one in the back!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="477011" msg="You are so weak..." />
+    <String id="477012" msg="Don't wander!" />
+    <String id="477013" msg="Healing is meaningless!" />
+    <String id="477014" msg="That's our target!" />
+    <String id="477015" msg="Don't wander back there!" />
+    <String id="477016" msg="That tickles!" />
+    <String id="477017" msg="Don't stay at my side!" />
+    <String id="477018" msg="What are you doing?" />
+    <String id="477019" msg="For your immediate death!" />
+    <String id="477020" msg="You can't escape!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="478001" msg="You arrogant cur..." />
+    <String id="478002" msg="Die, you fool!" />
+    <String id="478003" msg="This mountain will be your doom!" />
+    <String id="478004" msg="The dementalith saps my strength..." />
+    <String id="478005" msg="Dirty argons!" />
+    <String id="478006" msg="Argons may take us all!" />
+    <String id="478007" msg="We cannot hold..." />
+    <String id="478008" msg="Ha ha..." />
+    <String id="478009" msg="Kaidun..." />
+    <String id="478010" msg="Suryati cursed {targetName}!" existTime="10" msgOnScreen="true" styleId="37" />
+    <String id="478011" msg="Let's go save her!" />
+    <String id="478012" msg="The dementalith is damaged." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="478013" msg="The dementalith is cracked." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="478014" msg="The dementalith is about to break." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="478015" msg="The dementalith is destroyed." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="478016" msg="Another dementalith is damaged." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="478017" msg="Another dementalith is cracked." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="478018" msg="Another dementalith is about to break." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="478019" msg="Another dementalith is destroyed." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="478020" msg="A third dementalith is damaged." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="478021" msg="A third dementalith is cracked." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="478022" msg="A third dementalith is about to break." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="478023" msg="A third dementalith is destroyed." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="478024" msg="Suryati's shield is up!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="478025" msg="Drastgaar charges!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="478026" msg="Suryati will try to control you." />
+    <String id="478027" msg="Watch out! Suryati is no ordinary argon." />
+    <String id="478028" msg="So hard to fight his will..." />
+    <String id="478029" msg="Can you free us!?" />
+    <String id="478030" msg="Suryati leads the argons here." />
+    <String id="478031" msg="Lies! Don't fall for his lies!" />
+    <String id="478032" msg="Take him quickly." />
+    <String id="478033" msg="Watch your back!" />
+    <String id="478034" msg="That curse will kill anyone nearby. Stay away!" existTime="10" msgOnScreen="true" styleId="37" />
+    <String id="478035" msg="Drastgaar unleashes his rage!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="478036" msg="What are you waiting for, Ghufran?" />
+    <String id="478037" msg="Destroy that cursed stone!" />
+    <String id="478038" msg="Too bad we can't handle it alone." />
+    <String id="478039" msg="Are you here already?" />
+    <String id="478040" msg="You must destroy the stone!" />
+    <String id="478041" msg="Can't...move!" />
+    <String id="478042" msg="Wake up, everybody!" />
+    <String id="478043" msg="It's not worth it!" />
+    <String id="478044" msg="Protect yourself!" />
+    <String id="478045" msg="Fight...the curse..." />
+    <String id="478046" msg="I can't believe this..." />
+    <String id="478047" msg="Shauliq! Ralzira! Nakara!" />
+    <String id="478048" msg="The argons will come." />
+    <String id="478049" msg="Be careful!" />
+    <String id="478050" msg="You can cross to the other side now." />
+    <String id="478051" msg="Please kill...Suryati. Avenge...us." />
+    <String id="478052" msg="Mission failed...but Shandra Manaya will not give up." />
+    <String id="480001" msg="Move!" />
+    <String id="480002" msg="You will fall!" />
+    <String id="480003" msg="Bring it on!" />
+    <String id="480004" msg="Torrent of Blows" />
+    <String id="480005" msg="Rain of Blows" />
+    <String id="480006" msg="Combative Strike" />
+    <String id="480007" msg="Retaliate" />
+    <String id="481001" msg="Death for those who face me! {targetName}! You're next!!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="495001" msg="Vemoroth is inflamed!" existTime="4" msgOnScreen="true" styleId="42" />
+    <String id="495002" msg="" existTime="4" msgOnScreen="true" styleId="42" />
+    <String id="496001" msg="Your crystals won't help when I've broken them." existTime="3" msgOnScreen="true" styleId="37" />
+    <String id="500001" msg="Where am I?" />
+    <String id="500002" msg="My enemies fall before me!" />
+    <String id="500003" msg="Come on!" />
+    <String id="600001" msg="I'm outta here!" />
+    <String id="600002" msg="Help me!" />
+    <String id="600003" msg="I don't want to die!" />
+    <String id="600004" msg="P...please get me out of here!" />
+    <String id="600005" msg="Don't leave us!" />
+    <String id="600006" msg="I'll do whatever it takes!" />
+    <String id="600007" msg="I...it is a living nightmare!" />
+    <String id="766001" msg="Attack {targetName}!" existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="766002" msg="Powder Monkey has planted bombs!" existTime="5" msgOnScreen="true" styleId="42" />
+    <String id="766003" msg="Gone...I can't believe...just gone..." />
+    <String id="766004" msg="Please help..." />
+    <String id="766005" msg="I've got something special for you." />
+    <String id="766006" msg="I'm taking you out!" />
+    <String id="766007" msg="I'll get you!" />
+    <String id="766008" msg="Go! Take everything away!" />
+    <String id="766009" msg="I feel sick..." />
+    <String id="766010" msg="Cover me!" />
+    <String id="766011" msg="Guard me!" />
+    <String id="766012" msg="I have all the potions I'll need!" />
+    <String id="766013" msg="Why would you come all the way out here?" />
+    <String id="766014" msg="I will grind you to death!" />
+    <String id="766015" msg="Darkness, I summon you!" />
+    <String id="766016" msg="You fell for it! That was so easy!" />
+    <String id="766017" msg="Oh, it hurts..." />
+    <String id="766018" msg="Help me!" />
+    <String id="766019" msg="Save me!" />
+    <String id="766020" msg="Please...it hurts so much..." />
+    <String id="766021" msg="It's all over... I see a bright light..." />
+    <String id="777001" msg="Get me out! I'm trapped in the stone!" />
+    <String id="777002" msg="I will defeat you!" />
+    <String id="777003" msg="Eat lance, brute!" />
+    <String id="777004" msg="My power will make you strong." />
+    <String id="777005" msg="My power will heal you." />
+    <String id="777006" msg="You cannot defeat Kerkion, fools!" />
+    <String id="777007" msg="Who runs from battle?" />
+    <String id="777008" msg="A real fighter doesn't run!" />
+    <String id="777009" msg="Hehe...now that you've spent all your energy..." />
+    <String id="777010" msg="This treasure is mine now! Treasure for me, for Smuggla!" />
+    <String id="777011" msg="Good-bye, jerks. Precious treasure is coming with me." />
+    <String id="777012" msg="Infiltrators found. Initializing murderate mode." />
+    <String id="777013" msg="I have located you. Prepare for murderation." />
+    <String id="777014" msg="I see your fear. It is red, like your blood." />
+    <String id="777015" msg="You cannot escape my gaze." />
+    <String id="777016" msg="Plecostoma is spreading parasites!" existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="777017" msg="Become a host for my larvae!" />
+    <String id="777018" msg="Plecostoma's egg is hatching!" existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="777019" msg="You cannot avoid my eye!" />
+    <String id="777020" msg="I outlast you!" />
+    <String id="777021" msg="My power! I crush you!" />
+    <String id="808001" msg="&lt;font size='40'&gt;Rrrraaawwwrrrr!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="808002" msg="&lt;font size='40'&gt;Prepare to die!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="808003" msg="&lt;font size='40'&gt;You will beg for death!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="808004" msg="&lt;font size='40'&gt;You can never end this pain!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="808005" msg="&lt;font size='40'&gt;Your pain feeds my mistress!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="808007" msg="&lt;font size='40'&gt;Bounce!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="808008" msg="&lt;font size='35'&gt;Heh heh heh…Mistress approaches!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="808009" msg="&lt;font size='40'&gt;Ooh! Oooh! Ooh!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="808010" msg="&lt;font size='40'&gt;Die! Die!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="808012" msg="&lt;font size='35'color='#FF0000'&gt;You shall not pass!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="808013" msg="&lt;font size='40'&gt;Explode!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="808014" msg="&lt;color='#FF0000'&gt;The end is nigh!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" onlyBalloon="true" />
+    <String id="808015" msg="Blood… magic is…" onlyBalloon="true" />
+    <String id="808016" msg="More blood magic!" onlyBalloon="true" />
+    <String id="808017" msg="&lt;color='#FF0000'&gt;Boom!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="808018" msg="&lt;color='#FF0000'&gt;Keep our secret weapon secure!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="808019" msg="&lt;color='#FF0000'&gt;The interlopers must die.&lt;/font&gt;" onlyBalloon="true" />
+    <String id="809001" msg="Demokraxus focues on {targetName}!" existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="809002" msg="A sargreth appears." existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="809003" msg="Demokraxus summons morphulas to heal his wounds." existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="809004" msg="&lt;font size='30'color='#C9D8DA'&gt;I'll eat your spleen!&lt;/font&gt;" />
+    <String id="809005" msg="&lt;font size='30'color='#C9D8DA'&gt;Down with you!&lt;/font&gt;" />
+    <String id="809006" msg="&lt;font size='30'color='#C9D8DA'&gt;I'll peel you like a grape!&lt;/font&gt;" />
+    <String id="809007" msg="&lt;font size='30'color='#C9D8DA'&gt;Your turn!&lt;/font&gt;" />
+    <String id="809008" msg="&lt;font size='30'color='#C9D8DA'&gt;What do you look like on the inside?&lt;/font&gt;" />
+    <String id="809009" msg="&lt;font size='30'color='#C9D8DA'&gt;Surprise!&lt;/font&gt;" />
+    <String id="809010" msg="&lt;font size='30'color='#C9D8DA'&gt;You can't kill a nightmare!&lt;/font&gt;" />
+    <String id="809011" msg="&lt;font size='30'color='#C9D8DA'&gt;You can't escape!&lt;/font&gt;" />
+    <String id="809012" msg="&lt;font size='30'color='#C9D8DA'&gt;Yes! Run! Fear gives your flesh more flavor!&lt;/font&gt;" />
+    <String id="811001" msg="{targetName} is becoming a demokron!" existTime="10" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811002" msg="{targetName} is grappled by tentacles!" existTime="10" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811003" msg="Whoa! Whoa!" onlyBalloon="true" />
+    <String id="811004" msg="Grrr!" onlyBalloon="true" />
+    <String id="811005" msg="Demokron energy charged. Start moving!" existTime="10" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811006" msg="Thalweg devours minions and grows stronger!" existTime="10" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811007" msg="Thalweg devours minions and recovers HP!" existTime="10" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811008" msg="" existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="811009" msg="Krakatox is siphoning energy." existTime="10" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811010" msg="Feel your flesh dying!" existTime="10" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811011" msg="" existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="811012" msg="" existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="811013" msg="" existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="811014" msg="" existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="811015" msg="" existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="811016" msg="Krakatox hungers!" onlyBalloon="true" />
+    <String id="811017" msg="Fall!" onlyBalloon="true" />
+    <String id="811018" msg="You will not leave here alive!" onlyBalloon="true" />
+    <String id="811019" msg="Krakatox has absorbed {targetName}'s energy!" existTime="10" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811020" msg="&lt;font size='30'color='#E8D073'&gt;Be still, vermin!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="811021" msg="The cave is collapsing." existTime="20" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811022" msg="&lt;font size='30'color='#E8D073'&gt;I grow stronger!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="811023" msg="{targetName} is afflicted by the Demokron virus!" existTime="20" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811024" msg="Nightmare Thalweg creates a Demokron virus zone." existTime="20" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811025" msg="&lt;font size='30'color='#E8D073'&gt;Hrrraaagghh!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="811026" msg="The demokrons flock to Thalweg!" existTime="20" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811027" msg="Krakatox has created a demokron energy zone!" existTime="20" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811028" msg="More fools, come to the slaughter!" existTime="10" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811029" msg="Here comes more prey!" existTime="10" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811030" msg="You are not prepared to face me!" existTime="10" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811031" msg="I will deal with you later!" existTime="10" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811032" msg="" existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="811033" msg="" existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="811034" msg="Krakatox creates a demokron virus zone around {targetName}." existTime="20" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811035" msg="{targetName} is grappled by tentacles!" existTime="20" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811036" msg="Krakatox grows angry!" existTime="20" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811037" msg="Demokrons swarm in from behind!" existTime="20" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811038" msg="Nightmare Krakatox absorbs demokron energy." existTime="10" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="811039" msg="Nightmare Krakatox grows angry!" existTime="20" msgOnScreen="true" styleId="42" onlyBalloon="true" />
+    <String id="813001" msg="&lt;font size='20'&gt;You insignificant worms!&lt;/font&gt;" />
+    <String id="813002" msg="&lt;font size='20'&gt;I'll burn you to ash!&lt;/font&gt;" existTime="3" msgOnScreen="true" styleId="42" />
+    <String id="813003" msg="&lt;font size='20'&gt;I live to protect Banyakas.&lt;/font&gt;" />
+    <String id="813004" msg="&lt;font size='20'&gt;I'll tear you apart!&lt;/font&gt;" />
+    <String id="813005" msg="&lt;font size='20'&gt;I require assistance!&lt;/font&gt;" />
+    <String id="813006" msg="&lt;font size='20'&gt;This won't end until all the coercive shards are destroyed!&lt;/font&gt;" />
+    <String id="813007" msg="&lt;font size='20'&gt;Come to my aid.&lt;/font&gt;" />
+    <String id="813008" msg="&lt;font size='20'&gt;Grow strong, mycanars!&lt;/font&gt;" />
+    <String id="813009" msg="&lt;font size='20'&gt;Come and grow strong!&lt;/font&gt;" />
+    <String id="813010" msg="&lt;font size='20'&gt;I bear the most bitter fruit!&lt;/font&gt;" existTime="3" msgOnScreen="true" styleId="42" />
+    <String id="813011" msg="Oh, if only Banyakas hadn't touched that evil, evil stone!" />
+    <String id="813012" msg="&lt;font size='20'&gt;Stand aside! I will destroy the coercive shard!&lt;/font&gt;" />
+    <String id="813013" msg="Who approaches? Show yourself!" />
+    <String id="813014" msg="An intruder? Alert! We have an intruder!" />
+    <String id="813015" msg="We are out of time! Kill the Gatekeeper!" />
+    <String id="813016" msg="&lt;font size='20'&gt;It will take me some time to recover. You must distract those petralisks!&lt;/font&gt;" />
+    <String id="813017" msg="&lt;font size='20'&gt;There will be nothing left of you but ash!&lt;/font&gt;" existTime="3" msgOnScreen="true" styleId="42" />
+    <String id="813018" msg="&lt;font size='20'&gt;Coward! Face your death with courage!&lt;/font&gt;" />
+    <String id="821001" msg="&lt;font size='40'&gt;Zolyn slows down!&lt;/font&gt;" existTime="7" msgOnScreen="true" styleId="37" />
+    <String id="821002" msg="Please... kill me. Don't leave me his slave." onlyBalloon="true" />
+    <String id="825001" msg="Locking onto {targetName}." existTime="3" msgOnScreen="true" styleId="37" />
+    <String id="825002" msg="{targetName} 5" existTime="3" msgOnScreen="true" styleId="37" />
+    <String id="825003" msg="{targetName} 4" existTime="3" msgOnScreen="true" styleId="37" />
+    <String id="825004" msg="{targetName} 3" existTime="3" msgOnScreen="true" styleId="37" />
+    <String id="825005" msg="{targetName} 2" existTime="3" msgOnScreen="true" styleId="37" />
+    <String id="825006" msg="{targetName} 1" existTime="3" msgOnScreen="true" styleId="37" />
+    <String id="825007" msg="Target: {targetName}. Fire!" existTime="10" msgOnScreen="true" styleId="37" />
+    <String id="825008" msg="Electricity is being channeled into Grig's body." existTime="6" msgOnScreen="true" styleId="37" />
+    <String id="825009" msg="New target: {targetName}." existTime="10" msgOnScreen="true" styleId="37" />
+    <String id="825010" msg="{targetName} is blinded." existTime="10" msgOnScreen="true" styleId="37" />
+    <String id="825011" msg="A field of healing energy appears." existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="825012" msg="The purifier is active." existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="825013" msg="A minion monster appeared. You have to turn on the switch for electricity and go into the water." existTime="6" msgOnScreen="true" styleId="37" />
+    <String id="826001" msg="You simply don't know when to quit, do you?" />
+    <String id="826002" msg="Now, die!" />
+    <String id="826003" msg="This never stops being funny!" />
+    <String id="826004" msg="Yeeeeeessssss!" />
+    <String id="826005" msg="Oh, give up already! Our victory is certain." />
+    <String id="826006" msg="I grow weary of these intrusions. Kill them!" />
+    <String id="826007" msg="You will beg for the sweet release of death!" />
+    <String id="826008" msg="Blah, blah, blah... I tire of your mewling!" />
+    <String id="826009" msg="Ha!" />
+    <String id="909901" msg="Hello, friends! " existTime="4" msgOnScreen="true" styleId="43" />
+    <String id="909902" msg="Ready... go!" existTime="5" msgOnScreen="true" styleId="43" />
+    <String id="909903" msg="The roses of " existTime="1" msgOnScreen="true" styleId="43" />
+    <String id="909904" msg="Sharon have" existTime="1" msgOnScreen="true" styleId="43" />
+    <String id="909905" msg="blossomed." existTime="1" msgOnScreen="true" styleId="43" />
+    <String id="909906" msg="You! Moved!" existTime="5" msgOnScreen="true" styleId="43" />
+    <String id="916001" msg="&lt;font size='40'&gt;The engine room.. To the floating stone...&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916002" msg="&lt;font size='30'&gt;I'm tearing you off!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916003" msg="&lt;font size='40'&gt;Become stones...&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916004" msg="&lt;font size='30'&gt;I’ll take away your magic!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916005" msg="&lt;font size='30'&gt;Taste hell's flame!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916006" msg="&lt;font size='30'&gt;I'll wipe you off!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916007" msg="&lt;font size='50'&gt;Perimos is trying to destroy floating stone!&lt;/font&gt;" existTime="3" msgOnScreen="true" styleId="37" />
+    <String id="916008" msg="&lt;font size='40'&gt;Blue stone… Destroy...&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916009" msg="&lt;font size='40'&gt;I'll grant you my prowess. Can you bear it?&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916010" msg="&lt;font size='40'&gt;Burn them!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916011" msg="&lt;font size='40'&gt;I will show you the real power of darkness...&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916012" msg="&lt;font size='40'&gt;I'm turning the world upside down...&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916013" msg="&lt;font size='40'&gt;Right!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916014" msg="&lt;font size='40'&gt;Left!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916015" msg="&lt;font size='40'&gt;Corpse!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916016" msg="&lt;font size='40'&gt;Rest in peace, cowards!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916017" msg="&lt;font size='40'&gt;I'll get rid of you in one blow!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916018" msg="&lt;font size='40'&gt;Die in this coldness!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916019" msg="&lt;font size='40'&gt;Dracoloth feels Darkan nearby and passes its power.&lt;/font&gt;" existTime="2" msgOnScreen="true" styleId="37" />
+    <String id="916020" msg="&lt;font size='40'&gt;I shall take your power!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916021" msg="&lt;font size='40'&gt;Let me introduce… real myself!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916022" msg="&lt;font size='40'&gt;I feel power!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916023" msg="&lt;font size='40'&gt;Summon!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916024" msg="&lt;font size='40'&gt;Crush!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916025" msg="&lt;font size='40'&gt;I'll crack… Blue stone...&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916026" msg="&lt;font size='40'&gt;Small things… So bothersome… I'll kill...&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916027" msg="&lt;font size='40'&gt;Get away from me!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916028" msg="&lt;font size='40'&gt;I want to… crush this...&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916029" msg="&lt;font size='40'&gt;All to dust...&lt;/font&gt;" existTime="2" msgOnScreen="true" styleId="42" />
+    <String id="916030" msg="&lt;font size='50'&gt;Try avoid this!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916031" msg="&lt;font size='50'&gt;Feel the fear!&lt;/font&gt;" existTime="2" msgOnScreen="true" styleId="42" />
+    <String id="916032" msg="&lt;font size='40'&gt;Till where are you going to run!&lt;/font&gt;" existTime="2" msgOnScreen="false" styleId="37" />
+    <String id="916033" msg="&lt;font size='40'&gt;Don't stop me!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916034" msg="&lt;font size='40'&gt;So worthless, you are..&lt;/font&gt;" existTime="2" msgOnScreen="true" styleId="42" />
+    <String id="916035" msg="&lt;font size='40'&gt;Try survive in this darkness!&lt;/font&gt;" existTime="2" msgOnScreen="true" styleId="42" />
+    <String id="916036" msg="&lt;font size='40'&gt;Stun? No. Die. That's Simpler.&lt;/font&gt;" existTime="2" msgOnScreen="true" styleId="42" />
+    <String id="916037" msg="&lt;font size='40'&gt;{targetName} is dead.&lt;/font&gt;" existTime="2" msgOnScreen="true" styleId="37" />
+    <String id="916038" msg="&lt;font size='40'&gt;Watch for your own life!&lt;/font&gt;" existTime="2" msgOnScreen="false" styleId="37" />
+    <String id="916039" msg="&lt;font size='40'&gt;Feel the fear of upcoming death!&lt;/font&gt;" existTime="3" msgOnScreen="true" styleId="42" />
+    <String id="916040" msg="&lt;font size='40'&gt;{targetName}… You'll die... &lt;/font&gt;" existTime="2" msgOnScreen="false" styleId="37" />
+    <String id="916041" msg="&lt;font size='40'&gt;This is what you should call real power..&lt;/font&gt;" existTime="3" msgOnScreen="true" styleId="42" />
+    <String id="916042" msg="&lt;font size='40'&gt;No… Not like this...&lt;/font&gt;" existTime="2" msgOnScreen="false" styleId="37" />
+    <String id="916043" msg="&lt;font size='40'&gt;I'm taking all your mana!&lt;/font&gt;" existTime="2" msgOnScreen="false" styleId="37" />
+    <String id="916044" msg="&lt;font size='40'&gt;All to dust...&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916045" msg="&lt;font size='40'&gt;Perimos is preparing for a fatal blow!&lt;/font&gt;" existTime="3" msgOnScreen="true" styleId="42" />
+    <String id="916046" msg="&lt;font size='40'&gt;This is not fun… Hurry...&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916047" msg="&lt;font size='40'&gt;Die, all of you!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916048" msg="&lt;font size='40'&gt;You can't even look at me!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916049" msg="&lt;font size='40'&gt;Archdevan Backup Force has arrived!&lt;/font&gt;" existTime="3" msgOnScreen="true" styleId="37" />
+    <String id="916050" msg="&lt;font size='40'&gt;I will heal you all!&lt;/font&gt;" existTime="3" msgOnScreen="false" styleId="37" />
+    <String id="916051" msg="&lt;font size='40'&gt;{targetName} Lock on!" existTime="3" msgOnScreen="false" styleId="42" onlyBalloon="true" />
+    <String id="975001" msg="Explode and burn your friends!" existTime="10" msgOnScreen="true" styleId="37" />
+    <String id="975002" msg="Bear my flame!" existTime="10" msgOnScreen="true" styleId="37" />
+    <String id="990001" msg="The One will soon return! Make ready!" />
+    <String id="990002" msg="The day of resurrection comes! The world will be reborn!" />
+    <String id="990003" msg="Soon he will seize the world. Our day is at hand!" />
+    <String id="990004" msg="You will suffer, faithless one! Forever!" />
+    <String id="990005" msg="Ready to die? You better be." />
+    <String id="990006" msg="Repent and be judged!" />
+    <String id="990007" msg="Claw! Rip! Gnaw!" />
+    <String id="990008" msg="Smell...enemy! Kill! Kill!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="990009" msg="Malgarios's shrieks summon its dark offspring." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="990010" msg="Be ready! The One will soon return!" />
+    <String id="990011" msg="Resurrection is nigh! The world will be reborn!" />
+    <String id="990012" msg="Soon he'll seize the world. Our day is nigh!" />
+    <String id="990013" msg="Exterminate!" />
+    <String id="990014" msg="Smite them!" />
+    <String id="990015" msg="Feel the mercy...of my iron mace!" />
+    <String id="990016" msg="Come forth, my minions!" />
+    <String id="990017" msg="My power is boundless!" />
+    <String id="990018" msg="All that is not argon shall perish." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="990019" msg="Arrgh! I tire of these irritations." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="990020" msg="Invaders! Kill!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="990021" msg="From the darkness..." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="990022" msg="Eat arcane death!" />
+    <String id="990023" msg="He's only my shadow, but he can still kill you!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="990024" msg="Servants! Come! Heal me!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="990025" msg="Minions, assemble!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="990026" msg="Hurrrruooooaaaaar!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="990027" msg="Feh. Back, you idiots! This battle is mine!" />
+    <String id="990028" msg="Small? Perhaps. Weak? Hardly!" />
+    <String id="990029" msg="It's tunneling underneath you. Watch out!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="990030" msg="The dead can't die!" />
+    <String id="990031" msg="Kee kee kee! Who wants to die first?" />
+    <String id="990032" msg="Can you withstand my attack?" />
+    <String id="990033" msg="You cannot die too soon!" />
+    <String id="990034" msg="Bored? Die!!" />
+    <String id="990035" msg="Noooooooo! Don't come closer!" />
+    <String id="990036" msg="Ai ya!" />
+    <String id="990037" msg="Attack, you ape!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="990038" msg="Save lord Killian!! Minions, attack!" />
+    <String id="990039" msg="Ho! Killian's slaves!" />
+    <String id="990040" msg="Arzakaar will unleash close range explosion attack. Stay away from it." existTime="6" msgOnScreen="true" styleId="37" />
+    <String id="990041" msg="Arzakaar will unleash ranged explosion attack. Move closer to it." existTime="6" msgOnScreen="true" styleId="37" />
+    <String id="990042" msg="I cannot die here! I am Killian!" existTime="6" msgOnScreen="true" styleId="37" />
+    <String id="990043" msg="Drillmaster summoned." existTime="6" msgOnScreen="true" styleId="42" />
+    <String id="990044" msg="Bloodborer summoned to command the golem." existTime="6" msgOnScreen="true" styleId="42" />
+    <String id="990045" msg="Kuhahahahahahaha" />
+    <String id="990046" msg="Kekekekekekeke" />
+    <String id="990047" msg="All that dies is Thulsa's to command!" />
+    <String id="991001" msg="One blow will destroy you!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="991002" msg="Mighty one!" />
+    <String id="991003" msg="Wake up!" />
+    <String id="991004" msg="Kill!" />
+    <String id="991005" msg="Chase!" />
+    <String id="991006" msg="Aaiee!" />
+    <String id="991007" msg="Karascha say the Three Words of Unmaking! Haargwahrosh!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="991008" msg="Karascha say Second Word! Ganiirbolohosh!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="991009" msg="Third Word! Yeprasiabalolosh! Try to remove that curse! Ha ha ha ha!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="991010" msg="Three Words of Unmaking! Unless you dispel them, you have one minute left to live!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="991011" msg="Avatars, to me! Strike!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="991012" msg="I need healing! Wretched priests, where are you?" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="991013" msg="Come, my pets! Run them down!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="991014" msg="Little ones! Rot their flesh with venom!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="991015" msg="Make them be still, my pets!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="991016" msg="Karascha stronger! This time, you die!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="991017" msg="Karascha's death is irrelevant. Just a moment's reprieve." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="991018" msg="Victory's thrill is brief. Death is eternal." existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="991019" msg="I've been waiting. You'll regret ever coming here!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="991020" msg="Forest guardian, come forth!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="991021" msg="Come out, guardian!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="991022" msg="Infernal flame!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="991023" msg="Shrine guardian, come forth!" existTime="5" msgOnScreen="true" styleId="37" />
+    <String id="3700001" msg="Kill intruders!" />
+    <String id="3700002" msg="Glory to god!!" />
+    <String id="3700003" msg="My head...it's painful..." />
+    <String id="3700004" msg="The pain is over...Lord Saleron." />
+    <String id="3700005" msg="I cannot let you interrupt our plan." />
+    <String id="3700006" msg="All is for Killian's will!" />
+    <String id="3700007" msg="This cave belongs to the argons now!" />
+    <String id="3700008" msg="Inferior!" />
+    <String id="7001001" msg="Can't catch me!" onlyBalloon="true" />
+    <String id="7001002" msg="No!" onlyBalloon="true" />
+    <String id="7001005" msg="Not me! Hit the red ones!" onlyBalloon="true" />
+    <String id="7001006" msg="I'm a watermelon? You're a watermelon!" onlyBalloon="true" />
+    <String id="7001007" msg="Why do you bash the poor watermelons?" onlyBalloon="true" />
+    <String id="7001008" msg="Your whole species were watermelons!" onlyBalloon="true" />
+    <String id="7001009" msg="Your matriarch is a watermelon!" onlyBalloon="true" />
+    <String id="7001010" msg="Your face is a watermelon!" onlyBalloon="true" />
+    <String id="7001011" msg="Your brain is a watermelon!" onlyBalloon="true" />
+    <String id="7001012" msg="The watermelons are out to get me!" onlyBalloon="true" />
+    <String id="7001013" msg="Top shot!" onlyBalloon="true" />
+    <String id="7001014" msg="Ah! Here, there is something here!" onlyBalloon="true" />
+    <String id="7001015" msg="Ahhhh..." onlyBalloon="true" />
+    <String id="7001016" msg="What are you laughing at?" onlyBalloon="true" />
+    <String id="7001017" msg="Uh..." onlyBalloon="true" />
+    <String id="7001018" msg="Oh, watch it!" onlyBalloon="true" />
+    <String id="7001019" msg="Yeah, I heard about that..." onlyBalloon="true" />
+    <String id="7001020" msg="Haha!" onlyBalloon="true" />
+    <String id="7001021" msg="I can bash with the best!" onlyBalloon="true" />
+    <String id="7001022" msg="No way... You bashed 30 watermelons?" onlyBalloon="true" />
+    <String id="7001023" msg="There are more splash cannons on the other beach." onlyBalloon="true" />
+    <String id="7001024" msg="The compass helps when bashing watermelons." onlyBalloon="true" />
+    <String id="7001025" msg="What kind of watermelons talk?" onlyBalloon="true" />
+    <String id="7001026" msg="Some of those sand piles look alive." onlyBalloon="true" />
+    <String id="7001027" msg="No way..." onlyBalloon="true" />
+    <String id="7001028" msg="Wheeee..." onlyBalloon="true" />
+    <String id="7001029" msg="Ah! That's cute." onlyBalloon="true" />
+    <String id="7001030" msg="Wow! You are good!" onlyBalloon="true" />
+    <String id="7001031" msg="Make it stop! Ahhh!" onlyBalloon="true" />
+    <String id="7001032" msg="I can't wait for the next festival! How about you?" onlyBalloon="true" />
+    <String id="7001033" msg="I wish we had festivals all year round." onlyBalloon="true" />
+    <String id="7001034" msg="This flying carpet is like riding on a cloud!" onlyBalloon="true" />
+    <String id="7001035" msg="Festival for everybody! Don’t get lost!" onlyBalloon="true" />
+    <String id="7001036" msg="You can win a carpet at the festival." onlyBalloon="true" />
+    <String id="7001037" msg="I visit every festival every year!" onlyBalloon="true" />
+    <String id="7001038" msg="Look for Nomarun at the festival." onlyBalloon="true" />
+    <String id="7001039" msg="Here comes Shurimon." onlyBalloon="true" />
+    <String id="7001040" msg="Show your gratitude to Balder by helping clean his temple." onlyBalloon="true" />
+    <String id="7001041" msg="No trash! No tanks!" onlyBalloon="true" />
+    <String id="7001042" msg="A clean temple is a happy temple." onlyBalloon="true" />
+    <String id="7001043" msg="This ice is beginning to melt!" onlyBalloon="true" />
+    <String id="7001044" msg="Enjoy the sun! Enjoy the fesitval!" onlyBalloon="true" />
+    <String id="7002001" msg="Dance!" onlyBalloon="true" />
+    <String id="7002002" msg="More!" onlyBalloon="true" />
+    <String id="7002003" msg="Hurray!" onlyBalloon="true" />
+    <String id="7002004" msg="Burn!" onlyBalloon="true" />
+    <String id="7002005" msg="More drums!" onlyBalloon="true" />
+    <String id="7002006" msg="More tuwangis!" onlyBalloon="true" />
+    <String id="7002007" msg="More frogs!" onlyBalloon="true" />
+    <String id="7002008" msg="So brave!" onlyBalloon="true" />
+    <String id="7002009" msg="I did it!" onlyBalloon="true" />
+    <String id="7002011" msg="My brothers are everywhere in the Freeholds, all here for Rootstock." onlyBalloon="true" />
+    <String id="7002012" msg="We can send you all over the Freeholds." onlyBalloon="true" />
+    <String id="7002013" msg="Where would you like to go? Just say the word." onlyBalloon="true" />
+    <String id="7002014" msg="Anywhere you want to go in the Freeholds, free of charge." onlyBalloon="true" />
+    <String id="7002015" msg="Where would you like to go? Just say the word." onlyBalloon="true" />
+    <String id="7002016" msg="You can get rare cooking ingredients and recipes by playing the Rootstock mini-games." onlyBalloon="true" />
+    <String id="7002017" msg="Melsa has cooking recipes for sale." onlyBalloon="true" />
+    <String id="7002018" msg="Gathering sky lotuses isn't for everyone." onlyBalloon="true" />
+    <String id="9055001" msg="Squeek! Squeeeekk!" onlyBalloon="true" />
+    <String id="9055002" msg="Intruders! Run!" onlyBalloon="true" />
+    <String id="9055003" msg="Stupid outsiders!" onlyBalloon="true" />
+    <String id="9055004" msg="Ugly and foolish!" onlyBalloon="true" />
+    <String id="9055005" msg="Slow! You are too slow!" onlyBalloon="true" />
+    <String id="9055006" msg="Who dares to enter my territory!" onlyBalloon="true" />
+    <String id="9055007" msg="Bananas! I need energy!" onlyBalloon="true" />
+    <String id="9055008" msg="I am hurt! Healing herbs!" onlyBalloon="true" />
+    <String id="9055009" msg="Hunger pangs! I need to eat!" onlyBalloon="true" />
+    <String id="9055012" msg="Where are my bananas!" onlyBalloon="true" />
+    <String id="9055013" msg="Where are my herbs!" onlyBalloon="true" />
+    <String id="9055014" msg="Why is the meat gone?!" onlyBalloon="true" />
+    <String id="9055015" msg="I feel a rush!" onlyBalloon="true" />
+    <String id="9055016" msg="Woooaahhh! My power returns!" onlyBalloon="true" />
+    <String id="9055017" msg="Power in my belly means pain for you!" onlyBalloon="true" />
+    <String id="9055018" msg="You can't hurt me!" onlyBalloon="true" />
+    <String id="9055019" msg="Here I come!" onlyBalloon="true" />
+    <String id="9055020" msg="Let's shake things up!" onlyBalloon="true" />
+    <String id="9055021" msg="A new dish! Looks delicious!" onlyBalloon="true" />
+    <String id="9055022" msg="No more playing around! Taste this!" onlyBalloon="true" />
+    <String id="9055023" msg="One!" onlyBalloon="true" />
+    <String id="9055024" msg="Aaargh! Oh, oh, my head…" onlyBalloon="true" />
+    <String id="9055026" msg="How do you like this?" onlyBalloon="true" />
+    <String id="9055027" msg="You must be here to take my egg!" onlyBalloon="true" />
+    <String id="9055031" msg="Outsiders! Leave our home!" onlyBalloon="true" />
+    <String id="9055032" msg="We hate intruders! We hate intruders!" onlyBalloon="true" />
+    <String id="9055033" msg="Don't disturb us! Don't bother us!" onlyBalloon="true" />
+    <String id="9055035" msg="Your defense will increase!" onlyBalloon="true" />
+    <String id="9055037" msg="Heal!" onlyBalloon="true" />
+    <String id="9055038" msg="Cleanse!" onlyBalloon="true" />
+    <String id="9055040" msg="Eeeeeeaaaarrrghhh!" onlyBalloon="true" />
+    <String id="9055041" msg="Nimistrix absorbs nature's energy!" existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="9055042" msg="Nimistrix cries out!" existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="9055043" msg="Zzzzcckk! Zzzzkkk!" onlyBalloon="true" />
+    <String id="9055046" msg="The egg's destruction enrages Nimistrix!" existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="9055047" msg="Nimistrix dives {targetName}!" existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="9055048" msg="Nimistrix's skin is empowered!" existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="9055049" msg="Come for my heal!" onlyBalloon="true" />
+    <String id="9055051" msg="Nimistrix grows stronger!" existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="9055053" msg="Nimistrix calls a storm!" existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="9055054" msg="You meddling fools!" existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="9055056" msg="You dare disturb me?" existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="9055057" msg="I'll take pleasure in gutting you." existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="9055058" msg="Forengula summons push pods." existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="9055059" msg="Say hello to my little friends!" existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="9055063" msg="What's this? Fresh meat?" existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="9055064" msg="Silence!" existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="9055065" msg="Eat them and be done with this!" existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="9055066" msg="Stop playing with your food!" existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="9055067" msg="Too much!" existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="9055068" msg="Useless!" existTime="10" msgOnScreen="true" styleId="42" />
+    <String id="9055069" msg="We've come too far! We must return!" onlyBalloon="true" />
+    <String id="9055070" msg="Run to the safety zone!" onlyBalloon="true" />
+    <String id="9055071" msg="Run to the safety zone!" onlyBalloon="true" />
+    <String id="9055072" msg="Run to the safety zone!" onlyBalloon="true" />
+    <String id="9055073" msg="Two!" onlyBalloon="true" />
+    <String id="9055074" msg="Three!" onlyBalloon="true" />
+    <String id="9810001" msg="Lakan! Lakan!" onlyBalloon="true" />
+    <String id="9810002" msg="Lakan! Lakan!" onlyBalloon="true" />
+    <String id="9810003" msg="Feel Lakan's power burning through you!" onlyBalloon="true" />
+    <String id="9810004" msg="Hit him with everything you've got!" onlyBalloon="true" />
+    <String id="9810010" msg="I give you to the count of three." onlyBalloon="true" />
+    <String id="9810011" msg="One." onlyBalloon="true" />
+    <String id="9810012" msg="Two." onlyBalloon="true" />
+    <String id="9810013" msg="Three!" onlyBalloon="true" />
+    <String id="9810014" msg="Die!" onlyBalloon="true" />
+    <String id="9810015" msg="Lakan's power grows!" onlyBalloon="true" />
+    <String id="17220221" msg="Skeehh… Skeeet!" onlyBalloon="true" />
+    <String id="63001960" msg="That's quite a haul! But we're almost out of time." />
+    <String id="63001961" msg="Get all your bling? I got to go soon!" />
+    <String id="63001962" msg="Closing up! I have places to go, money to launder. Wait..." />
+    <String id="63001963" msg="Settle up! The closing bell is about to strike." />
+    <String id="63001964" msg="Yum yum!" onlyBalloon="true" />
+    <String id="63001965" msg="Tasty!" onlyBalloon="true" />
+    <String id="63001966" msg="Delicious!" onlyBalloon="true" />
+    <String id="63001967" msg="Om nom nom." onlyBalloon="true" />
+    <String id="63001968" msg="More?" onlyBalloon="true" />
+    <String id="63001969" msg="" onlyBalloon="true" />
+    <String id="63001970" msg="Oooh." onlyBalloon="true" />
+    <String id="63001971" msg="" onlyBalloon="true" />
+    <String id="63001972" msg="Hmmm..." onlyBalloon="true" />
+    <String id="63001973" msg="" onlyBalloon="true" />
+    <String id="63001974" msg="Hrm..." onlyBalloon="true" />
+    <String id="63001975" msg="" onlyBalloon="true" />
+    <String id="63001976" msg="Eee!" onlyBalloon="true" />
+    <String id="63001977" msg="" onlyBalloon="true" />
+    <String id="63001978" msg="Zoom!" onlyBalloon="true" />
+    <String id="63001979" msg="" onlyBalloon="true" />
+    <String id="63001980" msg="Oh!" onlyBalloon="true" />
+    <String id="63001981" msg="" onlyBalloon="true" />
+    <String id="63001982" msg="Aww!" onlyBalloon="true" />
+    <String id="63001983" msg="" onlyBalloon="true" />
+    <String id="63001984" msg="Grr! " onlyBalloon="true" />
+    <String id="63001985" msg="" onlyBalloon="true" />
+    <String id="63001986" msg="Brr!" onlyBalloon="true" />
+    <String id="63001987" msg="" onlyBalloon="true" />
+    <String id="63001988" msg="Achoo!" onlyBalloon="true" />
+    <String id="63001989" msg="I'm hungry." onlyBalloon="true" />
+    <String id="63001990" msg="Sooo hungry!" onlyBalloon="true" />
+    <String id="63001991" msg="Croak" onlyBalloon="true" />
+    <String id="63001992" msg="Crooooak" onlyBalloon="true" />
+    <String id="63001993" msg="Croak Croak" onlyBalloon="true" />
+    <String id="63001994" msg="Crrrroak!" onlyBalloon="true" />
+    <String id="63001995" msg="Croak!" onlyBalloon="true" />
+    <String id="63001996" msg="Croak?" onlyBalloon="true" />
+	
+	<String id="63001997" msg="Move faster!" onlyBalloon="true" />
+	<String id="63001998" msg="We still have a lot to do!" onlyBalloon="true" />
+	<String id="63001999" msg="Don't stand there! Don't stand there!" onlyBalloon="true" />
+	
+    <String id="63150001" msg="Talk to me if you plan to board the sky cruiser!" onlyBalloon="true" />
+    <String id="63150002" msg="Check in here to board the Intrepid!" onlyBalloon="true" />
+    <String id="63150003" msg="It's lovely weather for flying." onlyBalloon="true" />
+    <String id="63150004" msg="You're all set for boarding!" onlyBalloon="true" />
+    <String id="63156101" msg="Oxtails! I wish I could fly north." onlyBalloon="true" />
+    <String id="63156102" msg="I wonder when the princess will come home..." onlyBalloon="true" />
+    <String id="63156103" msg="Huh? I'm short one cow..." onlyBalloon="true" />
+    <String id="77010001" msg="&lt;font size='30'&gt;&lt;font size='30'&gt;Die, you ugly beast!&lt;/font&gt;&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010002" msg="&lt;font size='30'&gt;I'll destroy you!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010003" msg="&lt;font size='30'&gt;This spell shall lead me to victory!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010004" msg="&lt;font size='30'&gt;You're doomed. Accept your defeat.&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010005" msg="&lt;font size='30'&gt;Fireball!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010006" msg="&lt;font size='30'&gt;Hah!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010007" msg="&lt;font size='30'&gt;I hope you're ready!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010008" msg="&lt;font size='30'&gt;That's the last straw!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010009" msg="&lt;font size='30'&gt;Ha-ha-ha!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010010" msg="&lt;font size='30'&gt;Take that!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010011" msg="&lt;font size='30'&gt;This is going to hurt...&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010012" msg="&lt;font size='30'&gt;Prepare yourself!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010013" msg="&lt;font size='30'&gt;Teleport!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010014" msg="&lt;font size='30'&gt;Here comes the pain!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010015" msg="&lt;font size='30'&gt;This is for you!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010016" msg="&lt;font size='30'&gt;You weakling...&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010017" msg="&lt;font size='30'&gt;I'll sweep you away!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010018" msg="&lt;font size='30'&gt;Argon is complete.&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010019" msg="&lt;font size='30'&gt;Ha-ha-ha!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010020" msg="&lt;font size='30'&gt;Face pain!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010021" msg="&lt;font size='30'&gt;You're no match for me.&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010022" msg="&lt;font size='30'&gt;Fresh pain, coming up!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010023" msg="&lt;font size='30'&gt;Be gone!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010024" msg="&lt;font size='30'&gt;Down, dogs!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010025" msg="&lt;font size='30'&gt;I'll wipe you out!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010026" msg="&lt;font size='30'&gt;Die!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010027" msg="&lt;font size='30'&gt;You fool!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010028" msg="&lt;font size='30'&gt;Ho ho ho!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010029" msg="&lt;font size='30'&gt;Still got some fight in you?&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010030" msg="&lt;font size='30'&gt;Taste Lok's wrath!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010031" msg="&lt;font size='30'&gt;Get the point?&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010032" msg="&lt;font size='30'&gt;Argh!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010033" msg="&lt;font size='30'&gt;I'm coming for you!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010034" msg="&lt;font size='30'&gt;Mix!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010035" msg="&lt;font size='30'&gt;Feed me!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010036" msg="&lt;font size='30'&gt;Chop!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010037" msg="&lt;font size='30'&gt;Beware!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010038" msg="&lt;font size='30'&gt;Catch!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010039" msg="&lt;font size='30'&gt;Jump back!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010040" msg="&lt;font size='30'&gt;Are you not entertained?&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010041" msg="&lt;font size='30'&gt;You're going down!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010042" msg="&lt;font size='30'&gt;I'll crush you!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010043" msg="&lt;font size='30'&gt;Take it away!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010044" msg="&lt;font size='30'&gt;Halt!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010045" msg="&lt;font size='30'&gt;Take this!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010046" msg="&lt;font size='30'&gt;You're in for it now!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010047" msg="&lt;font size='30'&gt;I'll destroy you all!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010048" msg="&lt;font size='30'&gt;You'd better run!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010049" msg="&lt;font size='30'&gt;Yaaargh!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010050" msg="&lt;font size='30'&gt;Was that supposed to hurt?&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010051" msg="&lt;font size='30'&gt;Nothing can stop me!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010052" msg="&lt;font size='30'&gt;You're going home in pieces!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010053" msg="&lt;font size='30'&gt;Cold front moving in!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010054" msg="&lt;font size='30'&gt;Cowardly worm!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010055" msg="&lt;font size='30'&gt;I have you now!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010056" msg="&lt;font size='30'&gt;Kneel before me!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010057" msg="&lt;font size='30'&gt;Frosty!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010058" msg="&lt;font size='30'&gt;How can this be?&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010059" msg="&lt;font size='30'&gt;Wait! Wait!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010060" msg="&lt;font size='30'&gt;You're just making me mad.&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010061" msg="&lt;font size='30'&gt;Open fire!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010062" msg="&lt;font size='30'&gt;Eat this!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010063" msg="&lt;font size='30'&gt;Fire it up!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010064" msg="&lt;font size='30'&gt;Flame on!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010065" msg="&lt;font size='30'&gt;Burn!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010066" msg="&lt;font size='30'&gt;Bah!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010067" msg="&lt;font size='30'&gt;Where do you think you're going?&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010068" msg="&lt;font size='30'&gt;&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010069" msg="&lt;font size='30'&gt;&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010070" msg="&lt;font size='30'&gt;&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010071" msg="&lt;font size='30'&gt;Body blow!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010072" msg="&lt;font size='30'&gt;Hey! That hurt!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010073" msg="&lt;font size='30'&gt;Burn up!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010074" msg="&lt;font size='30'&gt;Face my power!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010075" msg="&lt;font size='30'&gt;I'll set you aflame!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010076" msg="&lt;font size='30'&gt;You look like lunch.&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010077" msg="&lt;font size='30'&gt;I'll squash you.&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010078" msg="&lt;font size='30'&gt;Eat dirt!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010079" msg="&lt;font size='30'&gt;Flaaaaames!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77010080" msg="&lt;font size='30'&gt;Not a chance!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020001" msg="&lt;font size='20'color='#C9D8DA'&gt;Special diamond matches, held at 10 miunutes before the hour!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020002" msg="&lt;font size='20'color='#C9D9DA'&gt;Bet with gold tickets for normal matches! Diamond tickets for diamond matches!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020003" msg="&lt;font size='20'color='#C9D9DA'&gt;Your bet is canceled if you jump channels or leave Bamarama area.&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020004" msg="&lt;font size='20'color='#C9D9DA'&gt;You can't get your winnings if you jump channels!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020011" msg="&lt;font size='20'color='#FF0000'&gt;Burn, baby, burn!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020012" msg="&lt;font size='20'color='#FF0000'&gt;Get mashed!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020013" msg="&lt;font size='20'color='#FF0000'&gt;How shall I cook you? Medium? Rare?&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020014" msg="&lt;font size='20'color='#FF0000'&gt;Burn!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020015" msg="&lt;font size='20'color='#FF0000'&gt;No, you don't!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020016" msg="&lt;font size='20'color='#FF0000'&gt;Burn into ashes!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020017" msg="&lt;font size='20'color='#FF0000'&gt;Prepare for doom!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020018" msg="&lt;font size='20'color='#FF0000'&gt;Not… yet…!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020019" msg="&lt;font size='20'color='#FF0000'&gt;Slow down!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020021" msg="&lt;font size='20'color='#9FA2E3'&gt;I'll burn your soul!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020022" msg="&lt;font size='20'color='#9FA2E3'&gt;Burn into ash!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020023" msg="&lt;font size='20'color='#9FA2E3'&gt;Hahahaha!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020024" msg="&lt;font size='20'color='#9FA2E3'&gt;Roar!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020025" msg="&lt;font size='20'color='#9FA2E3'&gt;Enjoy the quake!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020026" msg="&lt;font size='20'color='#9FA2E3'&gt;Take this!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020027" msg="&lt;font size='20'color='#9FA2E3'&gt;I'm wrecking it!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020028" msg="&lt;font size='20'color='#9FA2E3'&gt;I'm smashing it! Wrecking it all!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020029" msg="&lt;font size='20'color='#9FA2E3'&gt;I'll smash you into pieces!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020031" msg="&lt;font size='20'color='#FFFF00'&gt;Dust off!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020032" msg="&lt;font size='20'color='#FFFF00'&gt;Get lost!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020033" msg="&lt;font size='20'color='#FFFF00'&gt;Puny thing!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020034" msg="&lt;font size='20'color='#FFFF00'&gt;How dare you!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020035" msg="&lt;font size='20'color='#FFFF00'&gt;You can't beat me!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020036" msg="&lt;font size='20'color='#FFFF00'&gt;Should I let you live?&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020037" msg="&lt;font size='20'color='#FFFF00'&gt;I'll crush you!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020038" msg="&lt;font size='20'color='#FFFF00'&gt;No way you can ever beat me!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020039" msg="&lt;font size='20'color='#FFFF00'&gt;No...&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020041" msg="&lt;font size='20'color='#E2B8A9'&gt;Taste my tail!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020042" msg="&lt;font size='20'color='#E2B8A9'&gt;Take this!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020043" msg="&lt;font size='20'color='#E2B8A9'&gt;I'm wrecking it!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020044" msg="&lt;font size='20'color='#E2B8A9'&gt;Die!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020045" msg="&lt;font size='20'color='#E2B8A9'&gt;This is it!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020046" msg="&lt;font size='20'color='#E2B8A9'&gt;This will be shocking!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020047" msg="&lt;font size='20'color='#E2B8A9'&gt;I'll run you through!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020048" msg="&lt;font size='20'color='#E2B8A9'&gt;ZAP!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020049" msg="&lt;font size='20'color='#E2B8A9'&gt;I can… still...!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020051" msg="&lt;font size='20'color='#B9FFDC'&gt;Squeak!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020052" msg="&lt;font size='20'color='#B9FFDC'&gt;Roar!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020053" msg="&lt;font size='20'color='#B9FFDC'&gt;Krawwr!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020054" msg="&lt;font size='20'color='#B9FFDC'&gt;Squeak! Squeak!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020055" msg="&lt;font size='20'color='#B9FFDC'&gt;Krrrrrr!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020056" msg="&lt;font size='20'color='#B9FFDC'&gt;Roar! Roar!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020057" msg="&lt;font size='20'color='#B9FFDC'&gt;Roooaarr!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020058" msg="&lt;font size='20'color='#B9FFDC'&gt;Ugh… Ugh...&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020059" msg="&lt;font size='20'color='#B9FFDC'&gt;Squeak!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020061" msg="&lt;font size='20'color='#E8D073'&gt;Krrr… Krrrrr…&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020062" msg="&lt;font size='20'color='#E8D073'&gt;Die!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020063" msg="&lt;font size='20'color='#E8D073'&gt;Hahahaha!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020064" msg="&lt;font size='20'color='#E8D073'&gt;Take this!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020065" msg="&lt;font size='20'color='#E8D073'&gt;I'll tear you to bits!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020066" msg="&lt;font size='20'color='#E8D073'&gt;Think you can take this?&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020067" msg="&lt;font size='20'color='#E8D073'&gt;I'll kill you!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020068" msg="&lt;font size='20'color='#E8D073'&gt;Burn to ashes!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020069" msg="&lt;font size='20'color='#E8D073'&gt;I will crush your head!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020071" msg="&lt;font size='20'color='#D22F2F'&gt;Gas! Gas! GAS!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020072" msg="&lt;font size='20'color='#D22F2F'&gt;I'll chew you!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020073" msg="&lt;font size='20'color='#D22F2F'&gt;You've earned this!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020074" msg="&lt;font size='20'color='#D22F2F'&gt;I roll!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020075" msg="&lt;font size='20'color='#D22F2F'&gt;Take this!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020076" msg="&lt;font size='20'color='#D22F2F'&gt;Kaboom!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020077" msg="&lt;font size='20'color='#D22F2F'&gt;I… hurt...&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020078" msg="&lt;font size='20'color='#D22F2F'&gt;Taste this gas!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020079" msg="&lt;font size='20'color='#D22F2F'&gt;I'll chew you from your head!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020081" msg="&lt;font size='20'color='#C9D8DA'&gt;You thief!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020082" msg="&lt;font size='20'color='#C9D8DA'&gt;All the candies!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020083" msg="&lt;font size='20'color='#C9D8DA'&gt;Shall! Be! Mine!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020084" msg="&lt;font size='20'color='#C9D8DA'&gt;Rocket Punch!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020085" msg="&lt;font size='20'color='#C9D8DA'&gt;No Escapes!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020086" msg="&lt;font size='20'color='#C9D8DA'&gt;Welcome to Kumasylum!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020087" msg="&lt;font size='20'color='#C9D8DA'&gt;Rolling!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020088" msg="&lt;font size='20'color='#C9D8DA'&gt;Freeze!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="77020089" msg="&lt;font size='20'color='#C9D8DA'&gt;No… No… My candy!&lt;/font&gt;" onlyBalloon="true" />
+    <String id="823100001" msg="Hope this expedition goes well." onlyBalloon="true" />
+    <String id="823100002" msg="They call Northern Arun &quot;the lost continent&quot; but we didn't really lose it." onlyBalloon="true" />
+    <String id="823100003" msg="Follow me." onlyBalloon="true" />
+    <String id="823110101" msg="Oh, no, why am I here?" onlyBalloon="true" />
+    <String id="823110102" msg="Aaarrgh! Help!" onlyBalloon="true" />
+    <String id="823110103" msg="Begone, monsters!" onlyBalloon="true" />
+    <String id="823110104" msg="I can't see clearly because of this smoke." onlyBalloon="true" />
+    <String id="823110105" msg="Zolyn should be fine..." onlyBalloon="true" />
+    <String id="823301001" msg="Come, this way." onlyBalloon="true" />
+    <String id="823301002" msg="The deck is in danger." onlyBalloon="true" />
+    <String id="823301003" msg="I will send you to the deck." onlyBalloon="true" />
+    <String id="823301004" msg="Hurry, please." onlyBalloon="true" />
+    <String id="1000300241" msg="They say ghosts stalk this place." />
+    <String id="1000300242" msg="The vigilantes are really quite effective." />
+    <String id="1000300243" msg="Sometimes people die. Often, actually." />
+    <String id="1000300244" msg="Thanks for your help." />
+    <String id="1000300245" msg="The undead! They just keep coming!" />
+    <String id="1000300246" msg="Devas in the deep forest...doesn't bode well. There's going to be trouble, and soon." />
+    <String id="1000300247" msg="Something feels...eerie whenever I come through here." />
+    <String id="1000300248" msg="Someday I'm going to be powerful, too!" />
+    <String id="1001600021" msg="Take me away from here!" />
+    <String id="1001600022" msg="I'm headed to Alethea's." />
+    <String id="1001600023" msg="After centuries of restraint, the vampirs' bloodthirst has overwhelmed them." />
+    <String id="1001600024" msg="Atel Akaad? Don't say that name! They're going to kill me! They'll kill you, too!" />
+    <String id="1001600025" msg="Lots of very scary things around here." />
+    <String id="1020210381" msg="Oink!" />
+    <String id="1020210382" msg="Oink-oink?" />
+    <String id="1020210383" msg="Oink?" />
+    <String id="1020210384" msg="Ooiiink!" />
+    <String id="1020210385" msg="Oink-oink, oink-oink." />
+    <String id="1020210386" msg="Oink." />
+    <String id="1020210387" msg="Oink!" />
+    <String id="1020210388" msg="Oink-oink!" />
+    <String id="1020310281" msg="We're getting there." />
+    <String id="1020310282" msg="Keep up! You're not exhausted already?" />
+    <String id="1020310283" msg="I'm glad you're here." />
+    <String id="1020310284" msg="The devas are bad but the monsters?" />
+    <String id="1020310285" msg="If I don't get through, nobody wins! Not the town, not you, especially not me." />
+    <String id="1020310286" msg="Don't wander off!" />
+    <String id="1020310287" msg="Please, stay close and protect me!" />
+    <String id="1020310288" msg="Cheer up! We're almost there." />
+    <String id="1020610401" msg="Please take me to Sozia!" />
+    <String id="1020610402" msg="I'm worried about the others." />
+    <String id="1020610403" msg="Let me out!" />
+    <String id="1020610404" msg="Os gutrends invadiram minha cidade. É inadmissível o que eles fizeram." />
+    <String id="1020610405" msg="Thank you! Thank you! I owe you my life!" />
+    <String id="1022110451" msg="Please save me!" />
+    <String id="1022110452" msg="I need to deliver the report to Delir." />
+    <String id="1022110453" msg="How do you like Delir? Gorgeous, eh?" />
+    <String id="1022110454" msg="Wonderful! We're making good progress here." />
+    <String id="1022110455" msg="Still a long way to the base..." />
+    <String id="1022110456" msg="Maybe Balrug will reward you when we get there." />
+    <String id="1022110457" msg="Thanks for helping me." />
+    <String id="1022110458" msg="How about...this way?" />
+    <String id="1022510201" msg="I'll prove I'm no coward." />
+    <String id="1022510202" msg="Fear is for the weak." />
+    <String id="1022510203" msg="Watch out!" />
+    <String id="1022510204" msg="How dare you insult me?" />
+    <String id="1023030161" msg="Maaaaah!" />
+    <String id="1023030162" msg="Maa-aa-aah!" />
+    <String id="1023030163" msg="Baaaah..." />
+    <String id="1023030164" msg="Greep!" />
+    <String id="1023030165" msg="Reep!" />
+    <String id="1023030166" msg="Grawwwp!" />
+    <String id="1048790011" msg="Never forgive the cult of Lok!" />
+    <String id="1048790012" msg="I'll repay my brother's suffering in blood!" />
+    <String id="1048790013" msg="To my side, quickly! It's dangerous to be spread out." />
+    <String id="1048790014" msg="This place...here..." />
+    <String id="1048790015" msg="Come, quickly!" />
+    <String id="1048790016" msg="Follow me." />
+    <String id="1048790017" msg="My brother was a good soldier." />
+    <String id="1048790018" msg="Why are they here? This can't be good." />
+    <String id="2147483647" msg="Lead us, my high elf friend." />
+    <String id="2147483647" msg="I'm eager to see the Lake of Tears." />
+    <String id="2147483647" msg="This road is pretty rough!" />
+    <String id="2147483647" msg="Kuh! Umph! Slow down a bit, would you?" />
+    <String id="2147483647" msg="Your legs are longer than mine—slow down, please!" />
+    <String id="2147483647" msg="Are we there yet?" />
+    <String id="2147483647" msg="I'm tired. Are we almost there?" />
+    <String id="2147483647" msg="Huh..." />
+    <String id="2147483647" msg="Whew..." />
+    <String id="2147483647" msg="We're still not there, are we?" />
+    <String id="2147483647" msg="Are we going in circles?" />
+    <String id="2147483647" msg="Come on! Let's go!" />
+    <String id="2147483647" msg="Through traveling!" />
+    <String id="2147483647" msg="Grawr!" />
+    <String id="2147483647" msg="Almost therrrre?" />
+</StrSheet_MonsterBehavior>

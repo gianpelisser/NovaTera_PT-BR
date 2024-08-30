@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="22" id="25" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="222" id="100" prevId="0" villagerId="1007">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="222" id="2" prevId="0" villagerId="1007">
+         
+        <Page social="5">Esta deveria ser uma época de alegria e festa, não de assassinato e terror.&lt;BR&gt;&lt;BR&gt;Os {@LinkCreature:22#11#prefeitoswitch} e os {@LinkCreature:22#12#assassinos-gigantesailuri} estão espalhando o terror pela academia - diminua o progresso deles para nos dar tempo de encontrar uma cura.&lt;BR&gt;&lt;BR&gt;Não brinque com eles, &lt;PCNAME&gt;seja rápido.</Page>
+    
+    </Text>
+    <Text huntingZoneId="222" id="3" prevId="2" villagerId="1007">
+         
+        <Page social="5">A época da colheita nunca mais será um momento de alegria para mim. Não com tanta tragédia para lembrar.&lt;BR&gt;&lt;BR&gt;Obrigado. Preciso voltar aos meus estudos. Talvez ainda haja tempo para salvar o resto!</Page>
+    
+    </Text>
+</QuestDialog>

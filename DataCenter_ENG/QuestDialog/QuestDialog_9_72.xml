@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="9" id="72" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">Mission Orders &lt;BR&gt;&lt;BR&gt;Eliminate the enemies in the Gallery of Chaos and the Gallery of Fate in Azarel's Labyrinth and bring proof of their deaths.&lt;BR&gt;&lt;BR&gt;Operation Target: {@LinkCreature:9#810#gula gourmands}, {@LinkCreature:9#910#caiman zealots}, {@LinkCreature:9#440#gula eviscerators}, {@LinkCreature:9#450#gula ragers}, {@LinkCreature:9#1000#Lokian bloodreapers}, {@LinkCreature:9#1100#Lokian bowmasters}, {@LinkCreature:9#1200#Lokian champions}, and {@LinkCreature:9#1300#Lokian bloodragers}.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="3" prevId="2" villagerId="0">
+         
+        <Page social="4">It's a reward from the federation. Blessings to all the members of the Guild!</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="4" villagerId="0">
+         
+        <Page social="0">It looks like you haven't completed your mission yet.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="191" id="2" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="191" id="100" prevId="0" villagerId="2102">
+         
+        <Page social="0">&lt;PCNAME&gt; fought through to the airship platform, then boarded one to assault the Parthians from above.</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="2" prevId="0" villagerId="2102">
+         
+        <Page social="4">I want you to get behind the enemy by using your strange flying machines.&lt;BR&gt;&lt;BR&gt;We'll pincer them and meet in the middle!</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="3" prevId="2" villagerId="2132">
+         
+        <Page social="4">To get to the airship platform, you'll have to fight through the archdevas in the valley to the north.&lt;BR&gt;&lt;BR&gt;Once clear, you can board your vessel.</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="4" prevId="3" villagerId="2133">
+         
+        <Page social="4">I saw you fighting. You handle yourself well. Glad to know Seir still picks the best.&lt;BR&gt;&lt;BR&gt;We need to recover some spare parts for the airship. It can't leave without them.&lt;BR&gt;&lt;BR&gt;Find the boxes and get them to Garog.</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="5" prevId="4" villagerId="2103">
+         
+        <Page social="4">Praise Kaia, you found them!&lt;BR&gt;&lt;BR&gt;I'll get the airship working. You get aboard. The assault can finally begin!</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="6" villagerId="2103">
+         
+        <Page social="0">This mission goes nowhere without those parts.</Page>
+    
+    </Text>
+</QuestDialog>

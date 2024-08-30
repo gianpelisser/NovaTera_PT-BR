@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="87" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">&lt;img src='img://__Quest_Mission.870101'/&gt;&lt;BR&gt;Você entrou no Acampamento Mournhome com a apresentação de Dorial.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="4">&lt;img src='img://__Quest_Mission.870101'/&gt;&lt;BR&gt;Você é uma nova raça de elin - um vingador. Um ceifador. Você possui um vasto potencial inexplorado e nunca deve se esquecer disso.&lt;BR&gt;&lt;BR&gt;Agora vá demonstrar seu potencial para o mundo inteiro!</Page>
+    
+    </Text>
+    <Text huntingZoneId="87" id="3" prevId="2" villagerId="1004">
+         
+        <Page social="4">Não estou reconhecendo você. Você acabou de chegar aqui? &lt;BR&gt;&lt;BR&gt;Não importa. Qualquer ajuda que você possa oferecer será muito apreciada. Estamos tendo problemas com alguns desertores orcs que estão roubando nossos suprimentos. Você pode nos ajudar?</Page>
+    
+    </Text>
+    <Text huntingZoneId="87" id="4" prevId="3" villagerId="1004">
+         
+        <Page social="4">Isso foi... outra coisa. Quero dizer: Obrigado pela ajuda! &lt;BR&gt;&lt;BR&gt;Esses caras são apenas soldados orcs que fugiram durante a luta. Eles estavam à espreita, esperando um momento livre para roubar nosso suprimento de alimentos.&lt;BR&gt;&lt;BR&gt;Mas você lhes deu uma lição e eles não voltarão tão cedo!&lt;BR&gt;&lt;BR&gt;De onde você é, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;&amp;quot;Você não vai querer saber.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Heh! Muito secreto, não é? Faz sentido: ouvi dizer que estaríamos recebendo alguns mercenários para nos ajudar! E aqui estão vocês! &lt;BR&gt;&lt;BR&gt;Bem, vocês provavelmente devem se apresentar à Miayn - ela é a administradora da Guarda de Honra. Ela terá suas atribuições.</Page>
+    
+    </Text>
+    <Text huntingZoneId="87" id="5" prevId="4" villagerId="1000">
+         
+        <Page social="4">Você deve ser um dos novos mercenários de que ouvi falar. Estávamos esperando por você.&lt;BR&gt;&lt;BR&gt;Aqui: Isso é por ter ajudado Dorial. É apenas um pequeno sinal de minha gratidão.</Page>
+    
+    </Text>
+</QuestDialog>

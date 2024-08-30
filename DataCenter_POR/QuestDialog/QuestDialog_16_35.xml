@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="16" id="35" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="216" id="100" prevId="0" villagerId="1005">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="216" id="2" prevId="0" villagerId="1005">
+         
+        <Page social="4">Estou tão perturbada. Meu {@LinkCreature:216#1010#marido} era um homem maravilhoso... então veio a Cerimônia da Bênção... ele estava tão curioso que tinha que ver.&lt;BR&gt;&lt;BR&gt;Ele parecia nervoso quando voltou. Ele acordou gritando no meio da noite. Na mesma noite, muitos vampiros começaram a se transformar.&lt;BR&gt;&lt;BR&gt;Por favor... encontre-o. Ele pode não ter se transformado completamente. Podemos parecer monstruosos para vocês, mas asseguro-lhes que amamos o mesmo que vocês.</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="3" prevId="2" villagerId="1010">
+         
+        <Page social="4">Quem... quem é você? Eu não sou como os outros... ainda. Por favor, deixe-me em paz.&lt;BR&gt;&lt;BR&gt;Alethea? Oh, meu Deus, não. Não posso voltar atrás. A mudança vai me levar, e então... não posso nem pensar nisso.&lt;BR&gt;&lt;BR&gt;Aqui. Leve esta carta para ela. Por favor... não me peça para voltar novamente.</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="4" prevId="3" villagerId="1005">
+         
+        <Page social="4">Não. Não, isso é...&lt;BR&gt;&lt;BR&gt;Lene. Lene saberá o que fazer. Você vai pedir ajuda a ela?</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="5" prevId="4" villagerId="1023">
+         
+        <Page social="4">Alethea... essa é uma história e tanto.&lt;BR&gt;&lt;BR&gt;Sim, eu sei de uma maneira de salvar Sadnica. Mas será perigoso. &lt;BR&gt;&lt;BR&gt;Precisarei de sua ajuda.</Page>
+    
+    </Text>
+</QuestDialog>

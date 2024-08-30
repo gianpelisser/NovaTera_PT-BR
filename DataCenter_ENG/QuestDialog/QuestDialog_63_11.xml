@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="63" voiceTypeId="0">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1600">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1600">
+         
+        <Page social="4">Hello! We communicate so often, can I already talk with you more in more familliar way? Thank you! If you'd know in what terrible places those damned runes lie! Temple of Balder is the last place in Arborea where I would like to go... But alas, I will have to... The guardian of the relic Aurikardis has recently become somehow more embittered and incredibly strong! The Odal rune should be the source if its power, I'm 100% sure! Will you help me one more time? It’s not even convenient to ask anymore, I’m so ashamed of my cowardice ...</Page>
+    
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1600">
+         
+        <Page social="4">You saved me again! I would like to thank you more than we talked about, but with what I have ... I am not allowed to squander coins in large quantities ...</Page>
+    
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="1600">
+         
+        <Page social="0">Odal rune is a bloody rune. I do not want to take this into my hands, given the danger it brings...</Page>
+    
+    </Text>
+</QuestDialog>

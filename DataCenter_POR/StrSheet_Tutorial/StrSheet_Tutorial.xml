@@ -1,0 +1,545 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StrSheet_Tutorial xmlns="https://vezel.dev/novadrop/dc/StrSheet_Tutorial" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Tutorial StrSheet_Tutorial.xsd">
+    <String id="1" string="Você pode bloquear as dicas de ferramentas de itens abertos pressionando a tecla [Shift] enquanto clica com o botão esquerdo do mouse no item em seu inventário." />
+    <String id="2" string="Você pode vincular itens ao bate-papo mantendo pressionada a tecla [Ctrl] enquanto clica com o botão esquerdo do mouse no item em seu inventário." />
+    <String id="3" string="Você pode compartilhar sua localização digitando /location no bate-papo ou [Ctrl] - clicando com o botão esquerdo do mouse no Mapa do Mundo." />
+    <String id="4" string="Digite /? para exibir o menu de ajuda do comando de bate-papo." />
+    <String id="5" string="Você pode alternar entre os canais de bate-papo usando as teclas de seta para a esquerda/direita em uma linha de bate-papo ativa em branco." />
+    <String id="6" string="Role para trás em seu bate-papo de saída recente usando as teclas de seta para cima/para baixo enquanto estiver na janela do Chat." />
+    <String id="7" string="Você pode responder aos sussurros pressionando a tecla [R]." />
+    <String id="8" string="Pressione [Y] para ver outros jogadores querendo formar grupos." />
+    <String id="9" string="Os cristais de aprimoramento são delicados e podem se quebrar quando você morrer." />
+    <String id="10" string="Ficar perto de uma fogueira reabastece sua resistência e seu HP." />
+    <String id="11" string="Os jogadores solo podem digitar /invite [Joe] para se candidatar a participar do grupo de Joe." />
+    <String id="12" string="Digite /join [Jane] para solicitar a participação no grupo de [Jane]." />
+    <String id="13" string="A janela Looking for Group permite que você declare uma meta para que todo o grupo conheça o plano." />
+    <String id="14" string="Para ser mais forte em uma luta, coloque cristais de aprimoramento nos espaços vazios de sua armadura, arma, anéis e brincos." />
+    <String id="15" string="Não consegue mover seu personagem? Clique em Unstuck no menu System (Sistema) para se teletransportar para a cidade mais próxima." />
+    <String id="16" string="Jogadores habilidosos e educados são escolhidos para as festas em vez de outros." />
+    <String id="17" string="Digite /goal para atualizar o objetivo de seu grupo na janela Looking for Group." />
+    <String id="18" string="As missões com pontos de exclamação vermelhos são essenciais para o enredo do jogo." />
+    <String id="19" string="Para marcar a localização de um monstro no mapa, clique no nome dele na missão ou no seu Registro de missões." />
+    <String id="20" string="Lutar contra monstros enormes em um grupo acelera seu caminho para as recompensas." />
+    <String id="21" string="Antes de se teletransportar para um acampamento, você deve visitá-lo pessoalmente." />
+    <String id="22" string="Grupos equilibrados de um tanque, um curandeiro e três causadores de dano fazem um trabalho rápido com qualquer oponente." />
+    <String id="23" string="O curandeiro em seu grupo pode convocar os membros do grupo juntos." />
+    <String id="24" string="Quando vários membros do grupo se reúnem em uma única fonte, isso gera mais recursos." />
+    <String id="25" string="Até 20 pessoas podem participar de um único deathmatch. Use o menu Atividade para começar uma!" />
+    <String id="27" string="Os membros do grupo podem marcar monstros usando a tecla [Q]." />
+    <String id="28" string="Alguns comerciantes vendem cristais para armaduras, armas e acessórios." />
+    <String id="29" string="A cor do nome de uma missão no Registro de missões indica a dificuldade dela para o seu personagem." />
+    <String id="30" string="Quando um ícone de habilidade aparecer ao lado de sua mira durante o combate, pressione a barra de espaço para disparar instantaneamente a habilidade &quot;combo&quot;." />
+    <String id="31" string="Os líderes do grupo podem definir o saque do grupo para distribuição uniforme para garantir uma distribuição igual de saque/loot." />
+    <String id="32" string="Os equipamentos artesanais podem ser ajustados para encantamento. Eles ganham novas habilidades à medida que são encantados." />
+    <String id="33" string="Os líderes do partido podem marcar alvos pressionando [Ctrl] + 1, 2 e 3." />
+    <String id="34" string="Os olhos de um monstro geralmente brilham antes de um ataque poderoso." />
+    <String id="35" string="Deseja encantar equipamentos? Abra o menu Activity (Atividade) e clique em Enchant (Encantar)." />
+    <String id="36" string="Use matéria-prima e alkahest do mesmo nível para encantar um item. Você pode obter alkahest em uma loja." />
+    <String id="37" string="Quando o botão Ajuda aparecer na tela, pressione a tecla [H] para ver uma dica de jogo." />
+    <String id="38" string="A maioria das dungeons instanciadas é muito mais fácil de ser concluída em um grupo." />
+    <String id="39" string="Digite /invite [nome do personagem] na janela de bate-papo para convidar um jogador para seu grupo." />
+    <String id="40" string="No modo UI, clique com o botão direito do mouse nos jogadores para convidá-los para um grupo, desafiá-los para duelos, etc." />
+    <String id="41" string="Um pégaso o transportará entre vilarejos ou cidades... por uma taxa." />
+    <String id="42" string="Cada raça tem algumas habilidades próprias." />
+    <String id="43" string="Os pergaminhos de teletransporte são a maneira mais rápida e fácil de chegar a cidades distantes, mas são caros." />
+    <String id="44" string="Limpe a tela da interface do usuário pressionando [Ctrl] + [Z] para obter melhores capturas de tela." />
+    <String id="45" string="Altere suas teclas de atalho pressionando [O] para a caixa de diálogo Opções." />
+    <String id="46" string="Você pode criar uma guilda por meio do gerenciador de guildas em qualquer cidade grande. Você precisa estar no nível 8 ou superior. Traga um outro membro do grupo e {@money:3000}." />
+    <String id="47" string="Use os amuletos enquanto estiver recarregando em uma fogueira. Outras pessoas próximas à fogueira também recebem os benefícios." />
+    <String id="48" string="Você pode enviar ouro e itens para outros jogadores por meio de encomendas postais." />
+    <String id="49" string="Você pode alterar o tamanho e a cor do texto do bate-papo clicando com o botão direito do mouse na guia Chat." />
+    <String id="50" string="Alterne entre os canais mundiais por meio do comando Channel (Canal) no menu System (Sistema)." />
+    <String id="51" string="Passe o mouse sobre a barra de saúde de um membro do grupo para ver onde ele está." />
+    <String id="52" string="Os membros do seu grupo são destacados em seus mapas, mesmo que você esteja em canais de mundos diferentes." />
+    <String id="53" string="Seu canal de bate-papo pode mudar depois de usar pergaminhos de teletransporte, teleportais ou viagens de pégaso." />
+    <String id="54" string="Remova um cristal de seu soquete clicando com o botão direito do mouse sobre ele." />
+    <String id="55" string="Os gerentes de inventário podem expandir seu inventário mediante o pagamento de uma taxa." />
+    <String id="56" string="O Instance Matching permite que os membros do grupo continuem a fazer missões ou a criar objetos até o momento de iniciar a dungeon." />
+    <String id="57" string="Adicione missões ao seu Quest Tracker na tela marcando a caixa ao lado do nome delas no Registro de missões." />
+    <String id="60" string="Grupos bem preparados coletam buffs de coleta e queimam amuletos antes de entrar nas dungeons." />
+    <String id="61" string="Encante itens clicando em Enchant no menu Activities (Atividades)." />
+    <String id="62" string="Uma missão de nível 11 lhe dá acesso a uma montaria." />
+    <String id="63" string="Algumas poções não podem ser compradas por comerciantes." />
+    <String id="64" string="Os sacerdotes e místicos de nível superior podem teletransportar os membros do grupo para o seu lado." />
+    <String id="65" string="Pressione [Y] para abrir a caixa de diálogo Looking For Group (Procurando grupo) ou publique na janela de bate-papo digitando /lfg." />
+    <String id="66" string="Inscreva-se, verifique ou elogie uma guilda por meio da lista Guilds on Server (Guildas no servidor) em seu menu Social." />
+    <String id="67" string="Mantenha pressionada a tecla [Q] e clique com o botão esquerdo do mouse em um monstro para adicionar uma leitura do nome e da saúde dele à interface do usuário." />
+    <String id="68" string="Muito ocupado para conversar em combate? Mantenha pressionada a tecla [E] para escolher uma exclamação de combate." />
+    <String id="69" string="Para disparar rapidamente seu ataque primário, basta manter pressionado o botão de ataque." />
+    <String id="70" string="Quer dançar? Digite /dance no bate-papo." />
+    <String id="71" string="Quando alguém acenar para você, acene de volta digitando /wave no bate-papo." />
+    <String id="72" string="A Dungeons verifica se há membros do grupo com pouca armadura. Você também pode fazer isso digitando /inspect [CharacterName]." />
+    <String id="73" string="O botão vermelho da porta abaixo da bússola leva você à Dungeons com seu grupo." />
+    <String id="74" string="Alguns monstros não vêm sozinhos." />
+    <String id="75" string="Clique no botão do meio do mouse para redefinir o ângulo da câmera." />
+    <String id="76" string="Ter um tanque para manter o aggro do inimigo facilita o trabalho de todos os membros do grupo." />
+    <String id="77" string="Você pode expandir a bandeja de habilidades para mostrar mais botões com o botão Expandir/Minimizar bandeja." />
+    <String id="78" string="Você pode ter até 9 layouts de habilidades diferentes por personagem. Pressione [Alt] e 1-9 para alternar entre eles." />
+    <String id="79" string="Pressione o botão [BACK] no controlador para abrir a caixa de diálogo Configuração do controlador." />
+    <String id="80" string="Os botões esquerdo e direito do para-choque do seu controle são teclas de combinação. Com eles, cada botão do seu controle pode disparar até 4 habilidades." />
+    <String id="81" string="Personalize as mensagens do menu de bate-papo rápido na guia Jogo da caixa de diálogo Opções." />
+    <String id="82" string="As armas nomeadas podem ter propriedades exclusivas." />
+    <String id="84" string="Os pergaminhos enigmáticos têm uma chance de criar um item de Masterwork." />
+    <String id="85" string="Os bônus de encantamento podem ser alterados com um Enigmatic Scroll." />
+    <String id="87" string="Enigmas intrincados já podem obscurecer itens de obras-primas." />
+    <String id="88" string="O equipamento Masterwork pode ser encantado para +12." />
+    <String id="90" string="Os comerciantes de tinturas nas principais cidades ajudam você a mudar a cor de sua armadura." />
+    <String id="91" string="Uma única cor de tinta terá efeitos diferentes em armaduras de cores diferentes." />
+    <String id="92" string="Mantenha pressionada a tecla Ctrl e clique com o botão direito do mouse em um ícone para visualizar sua aparência no personagem." />
+    <String id="93" string="Ao fazer artesanato, um trabalho excelente pode criar itens diferentes ou materiais extras." />
+    <String id="94" string="Marque suas receitas de elaboração favoritas clicando na estrela à esquerda de seus nomes na caixa de diálogo Elaboração." />
+    <String id="95" string="Ao remodelar o equipamento, o item que você usa como modelo visual será destruído." />
+    <String id="97" string="As armas com encantamento superior a +7 aparecem com um brilho visível." />
+    <String id="98" string="As guildas são uma excelente maneira de encontrar grupos, mas o Looking for Group (Y) é outra boa maneira." />
+    <String id="99" string="Juntar-se a grupos permite que você enfrente adversários maiores e mais difíceis e colete equipamentos melhores, o que permite que você enfrente adversários maiores e mais difíceis..." />
+    <String id="101" string="Digite automaticamente um termo de pesquisa no leilão clicando com o botão esquerdo do mouse em um item do inventário." />
+    <String id="104" string="Você pode redefinir as instâncias digitando &quot;/reset&quot; na janela de bate-papo ou usando o botão &quot;Reset Instances&quot; (Redefinir instâncias) em seu perfil (P)." />
+    <String id="105" string="Clique com o botão direito do mouse na receita comprada para obter a habilidade de criação." />
+    <String id="106" string="Clique com o botão direito do mouse no glyph comprado em seu inventário para vê-lo na lista de glyphs." />
+    <String id="107" string="É possível ajustar a distância máxima de visualização da câmera por meio de Opções." />
+    <String id="108" string="Em uma grande batalha, maximizar a distância da sua câmera por meio de Opções permite que você veja todo o campo de batalha de uma só vez." />
+    <String id="109" string="Depois de atingir o nível 60, pressionar H abrirá as missões da Iniciativa de Vanguarda." />
+    <String id="110" string="Faça login e conclua as missões da Iniciativa de Vanguarda diariamente para obter recompensas." />
+    <String id="111" string="Use as plataformas de teletransporte em Val Oriyn para se movimentar mais rapidamente." />
+    <String id="112" string="Em Val Oriyn, os personagens recebem EXP de descanso quando desconectados em Highwatch, em qualquer acampamento ou em plataformas de teletransporte." />
+    <String id="113" string="Há teleportais nos acampamentos de Val Oriyn. Use-os para chegar a qualquer acampamento que você já tenha visitado." />
+    <String id="114" string="Há um teletransporte de Highwatch para Velika. Você terá de desbloqueá-lo por meio das missões." />
+    <String id="115" string="Os santuários com efeitos benéficos às vezes aparecem em Val Oriyn." />
+    <String id="116" string="Poderosos BAMs estão habitando as terras de Val Oriyn." />
+    <String id="10041" string="O Mysterium é uma grande organização cujos líderes secretos são, em sua maioria, elfos superiores." />
+    <String id="10042" string="Velik tem muito orgulho de seus filhos humanos adotados e da federação que eles ajudaram a fundar." />
+    <String id="10043" string="Os agentes da Mysterium vasculham o mundo para descobrir segredos perdidos, mas com que objetivo?" />
+    <String id="10044" string="Os emboscadores Popori podem ficar esperando nas árvores por semanas, levando alguns inimigos a se perguntarem se eles crescem ali como frutas." />
+    <String id="10045" string="As fantasias de Castanic são populares para festas. Os artesãos fazem réplicas requintadas de chifres... por um preço." />
+    <String id="10046" string="Todo o Reino Popori se reúne no Lago das Lágrimas para festivais e feriados." />
+    <String id="10047" string="Minérios raros pontilham a paisagem infernal de Fyrmount. Os ferreiros castanhos cobiçam o metal que eles fornecem." />
+    <String id="10048" string="Os amani preferem caçar animais de grande porte. E quando eles dizem grande, eles querem dizer GRANDE." />
+    <String id="10049" string="Crafting e Enchanting são duas habilidades que a maioria dos elfos superiores aprende cedo na vida." />
+    <String id="10050" string="Os elfos superiores não têm monarcas ou classe governante hereditária. Cada decisão é produto de uma política sutil - e, às vezes, sinistra." />
+    <String id="10051" string="As famílias élficas são responsáveis pela educação de seus filhos, o que inclui um extenso estudo de genealogia e história ancestral." />
+    <String id="10052" string="Em seu longo exílio, os humanos se tornaram exploradores, aventureiros e desbravadores naturais." />
+    <String id="10053" string="Os Amani lutam por vários motivos: por exercício, por esporte, por conquista e por sobrevivência." />
+    <String id="10054" string="Os Amani reverenciam as lutas de seus ancestrais, há muito tempo escravizados pelo extinto império dos gigantes." />
+    <String id="10055" string="As forjas e ferrarias de Kaiator são as mais produtivas do mundo, servindo como o motor do esforço de guerra da Federação Valkyon." />
+    <String id="10056" string="Os Scions of Lok trabalham incansavelmente para trazer o deus Lok, há muito falecido, de volta ao mundo. Suas intrigas cobrem Arun como uma teia de sombras." />
+    <String id="10057" string="Se você não conseguir encontrá-lo em Velika, ele é ilegal ou tóxico. Para essas coisas, compre em Castanica." />
+    <String id="10058" string="Os baraka são um mistério para as outras raças da federação e o foco de curiosidade onde quer que vão." />
+    <String id="10059" string="O Mysterium estuda todos os tipos de criaturas. Ocasionalmente, há contratempos." />
+    <String id="10060" string="Várias raças compõem o Reino Popori. Mas sua rainha é sempre uma elin, parecida com uma waif." />
+    <String id="10061" string="Os castanhos são, em sua maioria, uma sociedade matriarcal. Os homens geralmente buscam fortuna em outros lugares, mas sempre têm um lugar no clã." />
+    <String id="10062" string="Os castanheiros em busca de emoção são apostadores inveterados. Eles também são incrivelmente sortudos." />
+    <String id="10063" string="Provérbio Amani: cuidado com a comida ao lado de um popori que come muito pouco." />
+    <String id="10064" string="Os tuwangis primitivos são obcecados por sapos. Para um tuwangi, a rã é alimento, animal de estimação, corcel, roupa e até mesmo material de construção." />
+    <String id="10065" string="O pigling cozido lentamente é uma iguaria amani. Eles assam a carne em covas - um vestígio de seu passado como escravos, quando tinham que esconder essa comida de seus senhores cruéis." />
+    <String id="10066" string="Os artesãos castânicos combinam habilidade e magia para criar artefatos fantásticos. No passado, até mesmo os deuses buscavam o artesanato castanic." />
+    <String id="10067" string="A magia dos elfos dá poder a uma cidade maravilhosa no meio do deserto de Shara." />
+    <String id="10068" string="Os humanos se reuniram no centro de Arun para construir a cidade de Velika, que rapidamente se tornou um centro comercial mundial." />
+    <String id="10069" string="Os baraka são conhecidos por seu amor pelo conhecimento e também por sua propensão a se perder em um bom livro." />
+    <String id="10070" string="O esporte amani &quot;huumka&quot; tem uma regra simples: ficar dentro do círculo!" />
+    <String id="20001" string="Assuma as rédeas! Concorra a um cargo de Vanarca da Federação Valkyon e ganhe honra e poder." />
+    <String id="20002" string="Os vanarcas são eleitos regularmente em cada servidor. Inscreva-se para concorrer no Cartório Eleitoral de qualquer cidade grande." />
+    <String id="20003" string="Alguns assentos de Vanarch são decididos por voto popular, outros por combate pessoal." />
+    <String id="20004" string="Nas eleições, você vota em um candidato por continente por meio do ícone de votação em sua Bússola." />
+    <String id="20005" string="Cada vanarca vencedor será designado a uma província, definindo políticas e lucrando com os impostos locais." />
+    <String id="20006" string="Os Vanarcas podem fazer anúncios especiais e cobrar impostos. Os membros da guilda dos Vanarcas montam montarias especiais." />
+    <String id="30000" string="Vá até o sacerdote Ahdun." />
+    <String id="30001" string="A expedição à Island of Dawn está em apuros! (Prólogo)" />
+    <String id="30010" string="Você pode se mover usando as teclas {W}{A}{S}{D}." />
+    <String id="30011" string="Você pode se mover usando &lt;img src='img://__S1UIRES_GameControllerIcon.231145' width='40' height='40' vspace='-7'&gt;,&lt;img src='img://__S1UIRES_GameControllerIcon.231147' width='40' height='40' vspace='-7'&gt;,&lt;img src='img://__S1UIRES_GameControllerIcon.231146' width='40' height='40' vspace='-7'&gt;,&lt;img src='img://__S1UIRES_GameControllerIcon.231148' width='40' height='40' vspace='-7'&gt;" />
+    <String id="30012" string="Você pode se mover usando &lt;img src='img://__S1UIRES_GameControllerIcon.231207' width='40' height='40' vspace='-7'&gt;,&lt;img src='img://__S1UIRES_GameControllerIcon.231209' width='40' height='40' vspace='-7'&gt;,&lt;img src='img://__S1UIRES_GameControllerIcon.231208' width='40' height='40' vspace='-7'&gt;,&lt;img src='img://__S1UIRES_GameControllerIcon.231210' width='40' height='40' vspace='-7'&gt;" />
+    <String id="30020" string="Pressione {F} para falar com Ahdun." />
+    <String id="30021" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231139' width='40' height='40' vspace='-7'&gt; para falar com Ahdun." />
+    <String id="30022" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231197' width='40' height='40' vspace='-7'&gt; para falar com Ahdun." />
+    <String id="30030" string="Vá até Quartermaster Popomin para obter equipamentos melhores." />
+    <String id="30040" string="O novo equipamento aparecerá em seu Inventário {I}. Clique com o botão direito do mouse em {MR} para equipar." />
+    <String id="30041" string="O novo equipamento aparecerá em seu Inventário &lt;img src='img://__S1UIRES_GameControllerIcon.231143' width='40' height='40' vspace='-7'&gt;. Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; , &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; , &lt;img src='img://__S1UIRES_GameControllerIcon.231140' width='40' height='40' vspace='-7'&gt;para equipar." />
+    <String id="30042" string="O novo equipamento aparecerá em seu Inventário &lt;img src='img://__S1UIRES_GameControllerIcon.231206' width='40' height='40' vspace='-7'&gt;. Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; , &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; , &lt;img src='img://__S1UIRES_GameControllerIcon.231198' width='40' height='40' vspace='-7'&gt; para equipar." />
+    <String id="30050" string="Apresente-se ao comandante adjunto Akrak." />
+    <String id="30060" string="Entre na caverna." />
+    <String id="30070" string="Pressione {SPACE} para pular." />
+    <String id="30071" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; para pular." />
+    <String id="30072" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; para pular." />
+    <String id="30080" string="Pressione {NUMLOCK} para executar automaticamente." />
+    <String id="30081" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231129' width='40' height='40' vspace='-7'&gt; para executar automaticamente." />
+    <String id="30082" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231201' width='40' height='40' vspace='-7'&gt; para executar automaticamente." />
+    <String id="30090" string="Pressione {ALT} para alternar para o modo UI. No modo UI, você pode usar o ponteiro." />
+    <String id="30091" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231132' width='40' height='40' vspace='-7'&gt; para alternar para o modo UI. No modo UI, você pode usar o ponteiro." />
+    <String id="30092" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231200' width='40' height='40' vspace='-7'&gt; para alternar para o modo UI. No modo UI, você pode usar o ponteiro." />
+    <String id="30100" string="Você entrará em combate em breve. Leia sobre as habilidades em sua barra de ferramentas antes de prosseguir." />
+    <String id="30110" string="Pressione {ALT} e passe o mouse sobre os ícones na barra de ferramentas para saber o que cada habilidade faz." />
+    <String id="30111" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231132' width='40' height='40' vspace='-7'&gt; e, em seguida, mova o ponteiro {MO} sobre os ícones em sua barra de ferramentas para saber o que cada habilidade faz." />
+    <String id="30112" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231200' width='40' height='40' vspace='-7'&gt; e, em seguida, mova o ponteiro {MO} sobre os ícones na barra de ferramentas para saber o que cada habilidade faz." />
+    <String id="30120" string="Pressione {F} para iniciar a escalada e use as teclas de movimento para subir." />
+    <String id="30121" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231139' width='40' height='40' vspace='-7'&gt; para começar a escalar." />
+    <String id="30122" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231197' width='40' height='40' vspace='-7'&gt; para começar a escalar." />
+    <String id="31000" string="&quot;Nossa jornada para a salvação deveria começar na Island of Dawn. Em vez disso, ela começou com a destruição.&quot; -Elleon" />
+    <String id="30130" string="A ponte desabou! Você terá que nadar." />
+    <String id="30140" string="Avançar. Vocês precisam encontrar Elleon!" />
+    <String id="30150" string="Avançar." />
+    <String id="30160" string="As tropas da expedição lutarão ao seu lado." />
+    <String id="50000" string="Mire o inimigo no centro da tela e clique com o botão esquerdo do mouse em {ML} para atacar." />
+    <String id="50001" string="Mire no inimigo no centro da tela e pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; para atacar." />
+    <String id="50002" string="Mire o inimigo no centro da tela e pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; para atacar." />
+    <String id="50003" string="Mire no inimigo no centro da tela e use Fireball {ML} para atacar." />
+    <String id="50004" string="Mire no inimigo no centro da tela e use Fireball &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; para atacar." />
+    <String id="50005" string="Mire no inimigo no centro da tela e use Fireball &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; para atacar." />
+    <String id="50006" string="Mire no inimigo no centro da tela e use Divine Radiance {ML} para atacar." />
+    <String id="50007" string="Mire no inimigo no centro da tela e use Divine Radiance &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; para atacar." />
+    <String id="50008" string="Mire no inimigo no centro da tela e use Divine Radiance &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; para atacar." />
+    <String id="50009" string="Mire no inimigo no centro da tela e use Sharan Bolt {ML} para atacar." />
+    <String id="50013" string="Mire no inimigo no centro da tela e use Sharan Bolt &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; para atacar." />
+    <String id="50014" string="Mire no inimigo no centro da tela e use Sharan Bolt &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; para atacar." />
+    <String id="50010" string="Assault Stance {F2} ajuda você a atacar." />
+    <String id="50011" string="Assault Stance &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; ajuda você a atacar." />
+    <String id="50012" string="Assault Stance &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; ajuda você a atacar." />
+    <String id="50020" string="A postura defensiva {F3} ajuda a protegê-lo." />
+    <String id="50021" string="A postura defensiva &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; ajuda a protegê-lo." />
+    <String id="50022" string="A postura defensiva &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; ajuda a protegê-lo." />
+    <String id="50030" string="Quando o inimigo piscar em vermelho, um ataque poderoso está a caminho. Clique com o botão direito do mouse em {MR} para bloquear." />
+    <String id="50032" string="Quando o inimigo piscar em vermelho, um ataque poderoso está a caminho. Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; para bloquear." />
+    <String id="50033" string="Quando o inimigo piscar em vermelho, um ataque poderoso está a caminho. Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; para bloquear." />
+    <String id="50031" string="Os ataques lançados depois que o inimigo pisca em vermelho são muito poderosos. Clique com o botão direito do mouse em {MR} para se esquivar." />
+    <String id="50034" string="Os ataques lançados depois que o inimigo pisca em vermelho são muito poderosos. Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; para se esquivar." />
+    <String id="50035" string="Os ataques lançados depois que o inimigo pisca em vermelho são muito poderosos. Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; para se esquivar." />
+    <String id="50040" string="Ajude Elleon." />
+    <String id="50041" string="Ajude Elleon." />
+    <String id="50042" string="Ajude Elleon." />
+    <String id="50050" string="Destrua o bloqueio e avance com seus novos aliados." />
+    <String id="50051" string="Destrua o bloqueio e avance com seus novos aliados." />
+    <String id="50052" string="Destrua o bloqueio e avance com seus novos aliados." />
+    <String id="50060" string="Você deve cooperar com seus aliados para sobreviver." />
+    <String id="50061" string="Você deve cooperar com seus aliados para sobreviver." />
+    <String id="50062" string="Você deve cooperar com seus aliados para sobreviver." />
+    <String id="50070" string="O monstro está furioso! Agora ele se move e ataca ainda mais rápido." />
+    <String id="50071" string="O monstro está furioso! Agora ele se move e ataca ainda mais rápido." />
+    <String id="50072" string="O monstro está furioso! Agora ele se move e ataca ainda mais rápido." />
+    <String id="50080" string="O monstro está cansado. Concentre seus ataques agora!" />
+    <String id="50081" string="O monstro está cansado. Concentre seus ataques agora!" />
+    <String id="50082" string="O monstro está cansado. Concentre seus ataques agora!" />
+    <String id="51090" string="Grito de desafio {F1} atrai a atenção do inimigo." />
+    <String id="51091" string="Grito de desafio &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; atrai a atenção do inimigo." />
+    <String id="51092" string="Grito de desafio &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; atrai a atenção do inimigo." />
+    <String id="52090" string="Use Triumphant Shout {F1} para restaurar MP imediatamente." />
+    <String id="52091" string="Use Triumphant Shout (Grito Triunfante) &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; para restaurar MP imediatamente." />
+    <String id="52092" string="Use Triumphant Shout (Grito Triunfante) &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; para restaurar MP imediatamente." />
+    <String id="53090" string="Use Slow Trap {F1} para montar uma armadilha que desacelera o inimigo." />
+    <String id="53091" string="Use a armadilha de lentidão &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; para criar uma armadilha que retarda o inimigo." />
+    <String id="53092" string="Use a armadilha de lentidão &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; para criar uma armadilha que retarda o inimigo." />
+    <String id="54090" string="Use Purifying Circle {F1} para curar seus aliados rapidamente." />
+    <String id="54091" string="Use Purifying Circle &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; para curar seus aliados rapidamente." />
+    <String id="54092" string="Use Purifying Circle &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; para curar seus aliados rapidamente." />
+    <String id="55090" string="Thrall of Protection {F1} invoca uma criatura para lutar ao seu lado." />
+    <String id="55091" string="Thrall of Protection &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; convoca uma criatura para lutar ao seu lado." />
+    <String id="55092" string="Thrall of Protection &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; convoca uma criatura para lutar ao seu lado." />
+    <String id="51100" string="Use Onslaught {F2} para lançar um ataque concentrado." />
+    <String id="51101" string="Use Onslaught &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; para lançar um ataque concentrado." />
+    <String id="51102" string="Use Onslaught &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; para lançar um ataque concentrado." />
+    <String id="50100" string="Pressione {F2}." />
+    <String id="50101" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50102" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt;" />
+    <String id="52100" string="Use Torrent of Blows {2} para atrair a atenção do inimigo." />
+    <String id="52101" string="Use Torrent of Blows &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; para atrair a atenção do inimigo." />
+    <String id="52102" string="Use Torrent of Blows &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; para atrair a atenção do inimigo." />
+    <String id="53100" string="Grito Triunfante {F2} restaura MP instantaneamente." />
+    <String id="53101" string="Grito Triunfante &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; restaura MP instantaneamente." />
+    <String id="53102" string="Grito Triunfante &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; restaura MP instantaneamente." />
+    <String id="54100" string="Selecione um inimigo depois de ativar a Barragem Flamejante {F2}. Use {F2} ou {ESPAÇO} para lançar." />
+    <String id="54101" string="Selecione um inimigo depois de ativar a barragem flamejante &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt;. Use &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; ou &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; para lançar." />
+    <String id="54102" string="Selecione um inimigo depois de ativar a Barragem Flamejante &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt;. Use &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; ou &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; para lançar." />
+    <String id="55100" string="Close Quarters {F2} permite dois ataques consecutivos." />
+    <String id="55101" string="Close Quarters &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; permite dois ataques consecutivos." />
+    <String id="55102" string="Close Quarters &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; permite dois ataques consecutivos." />
+    <String id="56100" string="Use o Círculo de Regeneração {F2} para ajudar seus aliados a se recuperarem." />
+    <String id="56101" string="Use o Círculo de Regeneração &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; para ajudar seus aliados a se recuperarem." />
+    <String id="56102" string="Use o Círculo de Regeneração &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; para ajudar seus aliados a se recuperarem." />
+    <String id="57100" string="Thrall of Life {F2} invoca uma criatura que cura você." />
+    <String id="57101" string="Thrall of Life &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; convoca uma criatura que cura você." />
+    <String id="57102" string="Thrall of Life &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; convoca uma criatura que cura você." />
+    <String id="50110" string="Fuja de seu inimigo usando o Breakaway Bolt {F3}." />
+    <String id="50111" string="Fuja de seu inimigo usando o Breakaway Bolt &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50112" string="Fuja de seu inimigo usando o Breakaway Bolt &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt;" />
+    <String id="51110" string="Use Second Wind {F3} para restaurar seu HP." />
+    <String id="51111" string="Use Second Wind &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; para restaurar seu HP." />
+    <String id="51112" string="Use Second Wind &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; para restaurar seu HP." />
+    <String id="52110" string="Thrall of Vengeance {F3} invoca uma criatura que ataca com raios." />
+    <String id="52111" string="Thrall of Vengeance &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; invoca uma criatura que ataca com raios." />
+    <String id="52112" string="Thrall of Vengeance &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; invoca uma criatura que ataca com raios." />
+    <String id="50120" string="Use Startling Kick {F4} para interromper a ação do inimigo." />
+    <String id="50121" string="Use Startling Kick &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; para interromper a ação do inimigo." />
+    <String id="50122" string="Use Startling Kick &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; para interromper a ação do inimigo." />
+    <String id="51120" string="A Infusão de Mana {F4} restaura seu MP. A movimentação interrompe essa habilidade." />
+    <String id="51121" string="A infusão de mana &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; restaura seu MP. A movimentação interrompe essa habilidade." />
+    <String id="51122" string="A infusão de mana &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; restaura seu MP. A movimentação interrompe essa habilidade." />
+    <String id="50130" string="Pressione {F5}." />
+    <String id="50131" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231140' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50132" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231198' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50140" string="Pressione {F6}." />
+    <String id="50141" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231139' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50142" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231197' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50150" string="Pressione {F7}." />
+    <String id="50151" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231144' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50152" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231205' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50160" string="Pressione {F8}." />
+    <String id="50161" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231143' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50162" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231206' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50170" string="Pressione {F9}." />
+    <String id="50171" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231141' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50172" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231203' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50180" string="Pressione {F10}." />
+    <String id="50181" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231142' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50182" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231202' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50190" string="Pressione {F11}." />
+    <String id="50191" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231144' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50192" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231205' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50200" string="Pressione {F12}." />
+    <String id="50201" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231143' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50202" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231206' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50210" string="Golpe de Knockdown {1} -&gt; Overhand Strike {2}" />
+    <String id="50211" string="Knockdown Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; -&gt; Overhand Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50212" string="Knockdown Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; -&gt; Overhand Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt;" />
+    <String id="51210" string="Agulha de gelo {1} reduz a velocidade do inimigo." />
+    <String id="51211" string="Agulha de gelo &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; reduz a velocidade do inimigo." />
+    <String id="51212" string="Agulha de gelo &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; reduz a velocidade do inimigo." />
+    <String id="52210" string="Close Quarters {F2} interrompe a ação do inimigo." />
+    <String id="52211" string="Close Quarters &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; interrompe a ação do inimigo." />
+    <String id="52212" string="Close Quarters &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; interrompe a ação do inimigo." />
+    <String id="53210" string="Arrow Volley {1} permite ataques simultâneos a vários inimigos." />
+    <String id="53211" string="O Arrow Volley &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; permite ataques simultâneos a vários inimigos." />
+    <String id="53212" string="O Arrow Volley &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; permite ataques simultâneos a vários inimigos." />
+    <String id="50220" string="Magma Bomb {2} ataca o inimigo à distância." />
+    <String id="50221" string="Magma Bomb &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; ataca o inimigo à distância." />
+    <String id="50222" string="Magma Bomb &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; ataca o inimigo à distância." />
+    <String id="51220" string="Use Shield Bash {2} para interromper o ataque do inimigo." />
+    <String id="51221" string="Use o Shield Bash &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; para interromper o ataque do inimigo." />
+    <String id="51222" string="Use o Shield Bash &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; para interromper o ataque do inimigo." />
+    <String id="52220" string="Thunder Strike {2} é um ataque poderoso." />
+    <String id="52221" string="Thunder Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; é um ataque poderoso." />
+    <String id="52222" string="Thunder Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; é um ataque poderoso." />
+    <String id="52230" string="Golpe Vampírico {3} restaura sua Vida." />
+    <String id="52231" string="Golpe Vampírico &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; restaura seu PV." />
+    <String id="52232" string="Golpe Vampírico &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; restaura seu PV." />
+    <String id="53230" string="Fuja de seu inimigo com Breakaway Bolt {F3}." />
+    <String id="53231" string="Fuja de seu inimigo com o Breakaway Bolt &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt;" />
+    <String id="53232" string="Fuja de seu inimigo com o Breakaway Bolt &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50240" string="Pressione {4}." />
+    <String id="50241" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50242" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt;" />
+    <String id="52240" string="Combative Strike {4} reduz a defesa do inimigo." />
+    <String id="52241" string="Golpe combativo &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; reduz a defesa do inimigo." />
+    <String id="52242" string="Golpe combativo &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; reduz a defesa do inimigo." />
+    <String id="50250" string="A Infusão de Mana {5} restaura sua MP. A movimentação interrompe essa habilidade." />
+    <String id="50251" string="A infusão de mana &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; restaura seu MP. A movimentação interrompe essa habilidade." />
+    <String id="50252" string="A infusão de mana &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; restaura seu MP. A movimentação interrompe essa habilidade." />
+    <String id="50260" string="Pressione {6}." />
+    <String id="50261" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231140' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50262" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231198' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50270" string="Pressione {7}." />
+    <String id="50271" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50272" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50280" string="Pressione {8}." />
+    <String id="50281" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50282" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50290" string="Pressione {9}." />
+    <String id="50291" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50292" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50300" string="Pressione {0}." />
+    <String id="50301" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50302" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50310" string="O Toque purificador de Arun {6} trata os aliados que sofrem de penalidades inimigas." />
+    <String id="50311" string="O Toque purificador de Arun &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231140' width='40' height='40' vspace='-7'&gt; trata os aliados que sofrem de penalidades inimigas." />
+    <String id="50312" string="O Toque purificador de Arun &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231198' width='40' height='40' vspace='-7'&gt; trata os aliados que sofrem de penalidades inimigas." />
+    <String id="50320" string="Pressione {=}." />
+    <String id="50321" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231139' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50322" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231197' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50330" string="Permanecer firme {MR}" />
+    <String id="50331" string="Fique firme &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50332" string="Fique firme &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt;" />
+    <String id="51330" string="Bloco de machado {MR}" />
+    <String id="51331" string="Bloco de machado &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt;" />
+    <String id="51332" string="Bloco de machado &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50340" string="Retaliate {C}" />
+    <String id="50341" string="Retaliate &lt;img src='img://__S1UIRES_GameControllerIcon.231140' width='40' height='40' vspace='-7'&gt;" />
+    <String id="50342" string="Retaliate &lt;img src='img://__S1UIRES_GameControllerIcon.231198' width='40' height='40' vspace='-7'&gt;" />
+    <String id="51340" string="Use Heal Thyself {C} para restaurar seu HP." />
+    <String id="51341" string="Use Heal Thyself &lt;img src='img://__S1UIRES_GameControllerIcon.231140' width='40' height='40' vspace='-7'&gt; para restaurar seu HP." />
+    <String id="51342" string="Use Heal Thyself &lt;img src='img://__S1UIRES_GameControllerIcon.231198' width='40' height='40' vspace='-7'&gt; para restaurar seu HP." />
+    <String id="50350" string="{MR} para evadir." />
+    <String id="50351" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; para se esquivar." />
+    <String id="50352" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; para se esquivar." />
+    <String id="60000" string="A ponte está quebrada." />
+    <String id="60001" string="Shield Barrage {1} pode ser usado duas vezes seguidas." />
+    <String id="61001" string="Shield Barrage &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; pode ser usado duas vezes seguidas." />
+    <String id="62001" string="Shield Barrage &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; pode ser usado duas vezes seguidas." />
+    <String id="60002" string="Spring Attack {3} é ativado imediatamente se for usado logo após Shield Barrage {1} ou Shield Bash {2}." />
+    <String id="61002" string="Spring Attack &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; é ativado imediatamente se usado logo após Shield Barrage &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; ou Shield Bash &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt;" />
+    <String id="62002" string="Spring Attack &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; é ativado imediatamente se for usado logo após Shield Barrage &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; ou Shield Bash &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt;" />
+    <String id="60003" string="Charging Lunge {4} faz com que você corra em direção ao inimigo." />
+    <String id="61003" string="Charging Lunge &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; envia você correndo em direção ao inimigo." />
+    <String id="62003" string="Charging Lunge &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; envia você correndo em direção ao inimigo." />
+    <String id="60004" string="Grito de desafio {F1} atrai a atenção de um inimigo próximo. Use-o quando um aliado estiver em perigo." />
+    <String id="61004" string="Grito de desafio &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; atrai a atenção de um inimigo próximo. Use-o quando um aliado estiver em perigo." />
+    <String id="62004" string="Grito desafiador &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; atrai a atenção de um inimigo próximo. Use-o quando um aliado estiver em perigo." />
+    <String id="60005" string="Assault Stance {F2} ajuda você a atacar, mas reduz suas defesas." />
+    <String id="61005" string="A postura de assalto &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; ajuda você a atacar, mas reduz suas defesas." />
+    <String id="62005" string="Assault Stance &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; ajuda você a atacar, mas reduz suas defesas." />
+    <String id="60006" string="A postura defensiva {F3} ajuda você a se defender, mas reduz seus ataques." />
+    <String id="61006" string="A postura defensiva &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; ajuda a defender, mas reduz seus ataques." />
+    <String id="62006" string="A postura defensiva &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; ajuda a defender, mas reduz seus ataques." />
+    <String id="60007" string="A postura de ataque {F2} e a postura defensiva {F3} consomem MP continuamente. (ON/OFF)" />
+    <String id="61007" string="Postura de ataque &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; e a postura defensiva &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; consomem MP continuamente. (ON/OFF)" />
+    <String id="62007" string="Postura de ataque &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; e Defensive Stance &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; consomem MP continuamente. (ON/OFF)" />
+    <String id="60008" string="Rising Fury {3} pode ser usado duas vezes seguidas." />
+    <String id="61008" string="Rising Fury &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; pode ser usado duas vezes seguidas." />
+    <String id="62008" string="Rising Fury &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; pode ser usado duas vezes seguidas." />
+    <String id="60009" string="Combative Strike {4} reduz a defesa do inimigo." />
+    <String id="61009" string="Golpe combativo &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; reduz a defesa do inimigo." />
+    <String id="62009" string="Golpe combativo &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; reduz a defesa do inimigo." />
+    <String id="60010" string="Evasão {MR} -&gt; Vortex Slash {F4} permite que você ataque um inimigo próximo enquanto se levanta." />
+    <String id="61010" string="Evasion &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; -&gt; Vortex Slash &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; permite que você ataque um inimigo próximo enquanto se levanta." />
+    <String id="62010" string="Evasion &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; -&gt; Vortex Slash &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; permite que você ataque um inimigo próximo enquanto se levanta." />
+    <String id="60011" string="Battle Cry {F1} ataca todos os inimigos próximos e tem a possibilidade de atordoar." />
+    <String id="61011" string="O Grito de Batalha &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; ataca todos os inimigos próximos e tem a possibilidade de atordoar." />
+    <String id="62011" string="O Grito de Batalha &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; ataca todos os inimigos próximos e tem a possibilidade de atordoar." />
+    <String id="60012" string="Triumphant Shout {F2} e Tenacity {F3} restauram MP instantaneamente." />
+    <String id="61012" string="Triumphant Shout &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; e Tenacity &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; restauram o MP instantaneamente." />
+    <String id="62012" string="Triumphant Shout &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; e Tenacity &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; restauram o MP instantaneamente." />
+    <String id="60013" string="O MP diminui automaticamente com o passar do tempo. Restaure seu MP lutando!" />
+    <String id="61013" string="O MP diminui automaticamente com o passar do tempo. Restaure seu MP lutando!" />
+    <String id="62013" string="O MP diminui automaticamente com o passar do tempo. Restaure seu MP lutando!" />
+    <String id="60014" string="Thunder Strike {2}, Vampiric Blow {3} e Cyclone {1} atacam com mais força quando totalmente carregados, mas também reduzem seu PV." />
+    <String id="61014" string="Thunder Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt;, Vampiric Blow &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt;, e Cyclone &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; atacam com mais força quando totalmente carregados, mas também reduzem seu PV." />
+    <String id="62014" string="Thunder Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; Vampiric Blow &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt;, e Cyclone &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; atacam com mais força quando totalmente carregados, mas também reduzem seu PV." />
+    <String id="60015" string="Achatar {F1} é eficaz quando vários inimigos se agrupam." />
+    <String id="61015" string="Aplanar &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; é eficaz quando vários inimigos se agrupam." />
+    <String id="62015" string="Aplanar &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; é eficaz quando vários inimigos se agrupam." />
+    <String id="60016" string="Você pode usar Thunder Strike {2}, Vampiric Blow {3} e Cyclone {1} enquanto se move." />
+    <String id="61016" string="Você pode usar Thunder Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt;, Vampiric Blow &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt;, e Cyclone &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; enquanto se move." />
+    <String id="62016" string="Você pode usar Thunder Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt;, Vampiric Blow &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt;, e Cyclone &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; enquanto se move." />
+    <String id="60017" string="Triumphant Shout {F1} e Tenacity {F2} restauram MP instantaneamente." />
+    <String id="61017" string="Triumphant Shout &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; e Tenacity &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; restauram o MP instantaneamente." />
+    <String id="62017" string="Triumphant Shout &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; e Tenacity &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; restauram o MP instantaneamente." />
+    <String id="60018" string="O MP diminui automaticamente com o passar do tempo. Restaure seu MP lutando!" />
+    <String id="60019" string="O Overhand Strike {2} é ativado imediatamente se for usado logo após o Knockdown Strike {1}." />
+    <String id="61019" string="O Overhand Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; é ativado imediatamente se usado logo após o Knockdown Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt;" />
+    <String id="62019" string="O Overhand Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; é ativado imediatamente se usado logo após o Knockdown Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt;" />
+    <String id="60020" string="Whirlwind {3} é eficaz quando vários inimigos se agrupam." />
+    <String id="61020" string="Whirlwind &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; é eficaz quando vários inimigos se agrupam." />
+    <String id="62020" string="Whirlwind &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; é eficaz quando vários inimigos se agrupam." />
+    <String id="60021" string="Usar o Pilar de Chamas {3} e a Retirada Glacial {4} consecutivamente causará grande dano aos inimigos próximos." />
+    <String id="61021" string="Usando Flame Pillar &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; e Glacial Retreat &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; back-to-back causarão dano pesado aos inimigos próximos." />
+    <String id="62021" string="Usando Flame Pillar &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; e Glacial Retreat &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; back-to-back causarão dano pesado aos inimigos próximos." />
+    <String id="60022" string="Seu MP volta automaticamente sempre que você não o estiver usando." />
+    <String id="60023" string="Diminuir a velocidade de um inimigo distante com a Agulha de Gelo {1} e atacar é altamente eficaz." />
+    <String id="61023" string="Retardar um inimigo distante com Ice Needle &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; e atacar é altamente eficaz." />
+    <String id="62023" string="Retardar um inimigo distante com Ice Needle &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; e atacar é altamente eficaz." />
+    <String id="60024" string="Lance a Barragem Flamejante pressionando {F2} duas vezes - uma para fixar o alvo e outra para lançar." />
+    <String id="61024" string="Lance a Barragem Flamejante pressionando &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; duas vezes - uma vez para fixar o alvo e outra vez para lançar." />
+    <String id="62024" string="Lance a Barragem Flamejante pressionando &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; duas vezes - uma vez para fixar o alvo e outra vez para lançar." />
+    <String id="60025" string="Use Slow Trap {F1} para montar uma armadilha que desacelera o inimigo." />
+    <String id="61025" string="Use a armadilha de lentidão &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; para criar uma armadilha que retarda o inimigo." />
+    <String id="62025" string="Use a armadilha de lentidão &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; para criar uma armadilha que retarda o inimigo." />
+    <String id="60026" string="Experimente usar Close Quarters {F2} e Breakaway Bolt {F3} em conjunto." />
+    <String id="61026" string="Tente usar Close Quarters &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; e o Breakaway Bolt &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; back-to-back." />
+    <String id="62026" string="Tente usar Close Quarters &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; e o Breakaway Bolt &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; back-to-back." />
+    <String id="60027" string="Close Quarters {F2} pode ser usado duas vezes seguidas {F2}{F2}." />
+    <String id="61027" string="Close Quarters &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; pode ser usado duas vezes seguidas &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt;&lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt;" />
+    <String id="62027" string="Close Quarters &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; pode ser usado duas vezes seguidas &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt;&lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt;" />
+    <String id="60028" string="O Rapid Fire dispara uma rajada de flechas enquanto você mantém {4} pressionado." />
+    <String id="61028" string="O Rapid Fire dispara uma rajada de flechas enquanto você segura &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; para baixo." />
+    <String id="62028" string="O Rapid Fire dispara uma rajada de flechas enquanto você segura &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; para baixo." />
+    <String id="60029" string="Radiant Arrow {3} lança um ataque poderoso contra um único inimigo." />
+    <String id="61029" string="Radiant Arrow &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; lança um ataque poderoso contra um único inimigo." />
+    <String id="62029" string="Radiant Arrow &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; lança um ataque poderoso contra um único inimigo." />
+    <String id="60030" string="Arrow Volley {1} e Penetrating Arrow {2} são eficazes contra vários inimigos." />
+    <String id="61030" string="Flecha de vôlei &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; e Flecha penetrante &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; são eficazes contra vários inimigos." />
+    <String id="62030" string="Flecha de vôlei &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; e Flecha penetrante &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; são eficazes contra vários inimigos." />
+    <String id="60031" string="Shocking Implosion {1} e Final Reprisal {3} atacam os inimigos próximos." />
+    <String id="61031" string="Implosão chocante &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; e represália final &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; atacam inimigos próximos." />
+    <String id="62031" string="Implosão chocante &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; e represália final &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; atacam inimigos próximos." />
+    <String id="60032" string="Triple Nemesis {2} e Metamorphic Blast {4} atacam inimigos distantes." />
+    <String id="61032" string="Triple Nemesis &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; e Metamorphic Blast &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; atacam inimigos distantes." />
+    <String id="62032" string="Triple Nemesis &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; e Metamorphic Blast &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; atacam inimigos distantes." />
+    <String id="60033" string="O Triple Nemesis {2} pode ser usado três vezes seguidas." />
+    <String id="61033" string="Nêmesis triplo &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; pode ser usado três vezes seguidas." />
+    <String id="62033" string="Nêmesis triplo &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; pode ser usado três vezes seguidas." />
+    <String id="60034" string="Final Reprisal {3} é ativado imediatamente se for usado logo após Shocking Implosion {1} ou Triple Nemesis {2}." />
+    <String id="61034" string="Final Reprisal &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; é ativado imediatamente se usado logo após Shocking Implosion &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; ou Triple Nemesis &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt;" />
+    <String id="62034" string="Represália final &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; é ativado imediatamente se usado logo após Shocking Implosion &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; ou Triple Nemesis &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt;" />
+    <String id="60035" string="Purifying Circle {F1} limpa os efeitos em você e nos outros. Círculo de Regeneração {F2} cura os membros próximos do grupo." />
+    <String id="61035" string="Purifying Circle &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; limpa os efeitos em você e nos outros. Círculo de regeneração &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; cura os membros do grupo próximos." />
+    <String id="62035" string="Purifying Circle &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; limpa os efeitos em você e nos outros. Círculo de regeneração &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; cura os membros do grupo próximos." />
+    <String id="60036" string="Curar a si mesmo {TAB} cura você instantaneamente." />
+    <String id="61036" string="Heal Thyself &lt;img src='img://__S1UIRES_GameControllerIcon.231140' width='40' height='40' vspace='-7'&gt; cura você instantaneamente." />
+    <String id="62036" string="Heal Thyself &lt;img src='img://__S1UIRES_GameControllerIcon.231198' width='40' height='40' vspace='-7'&gt; cura você instantaneamente." />
+    <String id="60037" string="Restorative Burst {F3} cura os aliados mais rapidamente, mas em uma área menor." />
+    <String id="61037" string="Restorative Burst &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; cura aliados mais rapidamente, mas em uma área menor." />
+    <String id="62037" string="Restorative Burst &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; cura aliados mais rapidamente, mas em uma área menor." />
+    <String id="60038" string="Não é possível convocar vários lacaios simultaneamente." />
+    <String id="61038" string="Não é possível convocar vários lacaios simultaneamente." />
+    <String id="62038" string="Não é possível convocar vários lacaios simultaneamente." />
+    <String id="60039" string="Invoque um Thrall of Protection {F1} para protegê-lo ao usar feitiços de dano pesado." />
+    <String id="61039" string="Convoque um Thrall of Protection &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; para protegê-lo ao usar feitiços de dano pesado." />
+    <String id="62039" string="Convoque um Thrall of Protection &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; para protegê-lo ao usar feitiços de dano pesado." />
+    <String id="60040" string="Use a Vitae de Arun {5} para curar a si mesmo ou alguém próximo." />
+    <String id="61040" string="Use a Vitae de Arun &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; para curar a si mesmo ou alguém próximo." />
+    <String id="62040" string="Use a Vitae de Arun &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; para curar a si mesmo ou alguém próximo." />
+    <String id="60041" string="Pressione {F} depois de deixar cair o Arun's Vitae {5} para usar o Orbe de cura." />
+    <String id="61041" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231139' width='40' height='40' vspace='-7'&gt; depois de soltar a Vitae de Arun &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; para usar o Orbe de cura." />
+    <String id="62041" string="Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231197' width='40' height='40' vspace='-7'&gt; depois de soltar a Vitae de Arun &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; para usar o Orbe de cura." />
+    <String id="60042" string="Use a Expedition Healing Potion {F5}." />
+    <String id="61042" string="Use a Poção de Cura da Expedição &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231140' width='40' height='40' vspace='-7'&gt;" />
+    <String id="62042" string="Use a Poção de Cura da Expedição &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231198' width='40' height='40' vspace='-7'&gt;" />
+    <String id="60043" string="Use a Expedition Mana Potion {F6}." />
+    <String id="61043" string="Use a Poção de Mana da Expedição &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231139' width='40' height='40' vspace='-7'&gt;" />
+    <String id="62043" string="Use a Poção de Mana da Expedição &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231197' width='40' height='40' vspace='-7'&gt;" />
+    <String id="70000" string="Até 5 jogadores podem pilotar o dirigível simultaneamente." />
+    <String id="70001" string="Repare as armas de cerco destruídas usando a tecla [F]." />
+    <String id="70002" string="Para embarcar em dirigíveis e armas de cerco, pressione a tecla [F]." />
+    <String id="70003" string="Os lados trocarão de papéis na segunda rodada. A equipe mais rápida a destruir a pedra de ancoragem vence." />
+    <String id="70004" string="Os dirigíveis destruídos reaparecerão após alguns minutos." />
+    <String id="70005" string="As armas de cerco de torre são mais poderosas do que as móveis." />
+    <String id="70006" string="Ao capturar locais de ressurreição, você pode optar por ressuscitar mais perto da batalha." />
+    <String id="70007" string="Você pode capturar um local de ressurreição usando a tecla [F]." />
+    <String id="70008" string="Quando um dirigível ou arma de cerco é destruído, todos os jogadores que estiverem dentro dele morrem." />
+    <String id="70009" string="A segunda rodada durará exatamente o mesmo tempo que a primeira." />
+    <String id="70010" string="O equipamento dos jogadores muda para o equipamento equalizado exclusivo ao entrar na Fortaleza dos Corsários." />
+    <String id="70011" string="Somente os equipamentos equipados são substituídos. Todos os espaços de equipamento vazios quando você entra no campo de batalha permanecem vazios." />
+    <String id="70012" string="Quanto mais você contribuir no campo de batalha, mais recompensas receberá." />
+    <String id="70013" string="Todos os personagens se ajustam automaticamente ao nível 65 nesse campo de batalha." />
+    <String id="70014" string="Somente os defensores podem entrar no Castle Airship." />
+    <String id="70015" string="Não é possível montar canhões ou montarias quando se é um homem-bomba." />
+    <String id="70016" string="Junte as bombas em cada ponto para se tornar um homem-bomba." />
+    <String id="70017" string="Você pode usar a função de proibição de bate-papo nos campos de batalha em que houver mais de 5 membros na sua equipe." />
+    <String id="71000" string="Para vencer, os jogadores da federação devem localizar, coletar e transportar kumas rock candy até a doca de carregamento." />
+    <String id="71002" string="Os jogadores do Kumas ficam mais lentos à medida que seu HP diminui." />
+    <String id="71003" string="Os jogadores da Federação ficam mais lentos e não conseguem usar as habilidades enquanto carregam doces de pedra." />
+    <String id="71004" string="Cuidado: Algumas habilidades de kumas têm a chance de reiniciar seus tempos de recarga." />
+    <String id="71005" string="A maldição de kumas Spanked! não pode ser removida." />
+    <String id="71006" string="Os jogadores da Federação devem destruir baús de tesouro para encontrar doces de pedra." />
+    <String id="71007" string="Os baús de tesouro contêm outros itens além de balas de rocha." />
+    <String id="71008" string="Se um jogador da federação for morto enquanto estiver carregando um doce de pedra, o doce de pedra vai para o kumas que matou o jogador da federação." />
+    <String id="71009" string="Se um jogador do kumas for morto enquanto estiver carregando um doce de pedra, o doce de pedra será jogado no chão e os jogadores da federação poderão pegá-lo." />
+    <String id="71010" string="Algumas habilidades de kumas têm uma chance baixa de redefinir o tempo de recarga." />
+    <String id="71011" string="Somente a equipe da federação pode usar a proibição de bate-papo no Kumasylum." />
+    <String id="72000" string="No Fraywind Canyon, você vence se obtiver mais pontos do que o adversário ao capturar piras." />
+    <String id="72001" string="Os monstros neutros aparecerão a cada tempo definido, e os efeitos benéficos para a sua equipe serão aplicados ao derrotá-los." />
+    <String id="72002" string="O buff é oferecido se a sua equipe tiver uma pontuação significativamente menor e um número menor de mortes quando a pontuação chegar a 2.000." />
+    <String id="72003" string="No máximo, três aliados podem se apoderar de uma pira." />
+    <String id="72004" string="Use habilidades exclusivas de líder para liderar a batalha em benefício da sua equipe." />
+    <String id="72005" string="Você pode usar a função de proibição de bate-papo nos campos de batalha em que houver mais de 5 membros na sua equipe." />
+    <String id="40000" string="Novos consumíveis aparecem em seu Inventário {I}. Clique com o botão direito do mouse para usar." />
+    <String id="40001" string="Novos consumíveis aparecem em seu Inventário &lt;img src='img://__S1UIRES_GameControllerIcon.231143' width='40' height='40' vspace='-7'&gt;. Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt;, &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt;, &lt;img src='img://__S1UIRES_GameControllerIcon.231140' width='40' height='40' vspace='-7'&gt; para usar." />
+    <String id="40002" string="Novos consumíveis aparecem em seu Inventário &lt;img src='img://__S1UIRES_GameControllerIcon.231206' width='40' height='40' vspace='-7'&gt;. Pressione &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt;, &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt;, &lt;img src='img://__S1UIRES_GameControllerIcon.231198' width='40' height='40' vspace='-7'&gt; para usar." />
+    <String id="40100" string="Você adquiriu a habilidade &lt;img src='img://__Icon_Skills.ChainSuperBlow_Tex' width='54' height='54' vspace='-17'&gt; Grim Strike." />
+    <String id="40101" string="Você adquiriu a habilidade &lt;img src='img://__Icon_Skills.ChainUppercut_Tex' width='54' height='54' vspace='-17'&gt; Pendulum Strike." />
+    <String id="40102" string="Você adquiriu a habilidade &lt;img src='img://__Icon_Skills.ChainBlade_Tex' width='54' height='54' vspace='-17'&gt; Whipsaw." />
+    <String id="40103" string="Você adquiriu a habilidade &lt;img src='img://__Icon_Skills.ChainBlow_Tex' width='54' height='54' vspace='-17'&gt; Sundering Strike." />
+    <String id="40104" string="Você adquiriu a habilidade &lt;img src='img://__Icon_Skills.ReverseCapture_Tex' width='54' height='54' vspace='-17'&gt; Etapa do cabo." />
+    <String id="40105" string="Você adquiriu a habilidade &lt;img src='img://__Icon_Skills.ChainBrandish_Tex' width='54' height='54' vspace='-17'&gt; Espiral da Morte." />
+    <String id="40106" string="Você adquiriu a habilidade &lt;img src='img://__Icon_Skills.DarkExplosion_Tex' width='54' height='54' vspace='-17'&gt; Shadow Burst." />
+    <String id="40107" string="Você adquiriu a habilidade &lt;img src='img://__Icon_Skills.ChainStrike_Tex' width='54' height='54' vspace='-17'&gt; Smite." />
+    <String id="40110" string="Adicionado automaticamente à janela Skills [K]. Arraste para seus atalhos usando o mouse." />
+    <String id="40200" string="&lt;img src='img://__Icon_Skills.CounterAttack_Tex' width='54' height='54' vspace='-17'&gt; Use Retaliate para pular e atacar o basilisco." />
+    <String id="40300" string="Você está com pouca Vida. &lt;img src='img://__Icon_Skills.ChainBlade_Tex' width='54' height='54' vspace='-17'&gt; Use Whipsaw." />
+    <String id="40400" string="&lt;img src='img://__Icon_Skills.ReverseCapture_Tex' width='54' height='54' vspace='-17'&gt; Use o Cable Step na cerca de madeira. O Cable Step lança suas foices a até 18 metros." />
+</StrSheet_Tutorial>

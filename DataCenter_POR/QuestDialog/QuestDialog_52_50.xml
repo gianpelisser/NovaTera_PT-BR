@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="50" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="252" id="100" prevId="0" villagerId="1048">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="252" id="2" prevId="0" villagerId="1048">
+         
+        <Page social="4">Os cães de Thulsa profanaram nosso solo sagrado colocando fragmentos carmesim por toda parte.&lt;BR&gt;&lt;BR&gt;Por mais ofensivos que sejam, no entanto, devo admitir que são feitos de um material fantástico. Desmonte os cacos carmesim e me traga os fragmentos.&lt;BR&gt;&lt;BR&gt;Heh. Derreterei todos os fragmentos e os usarei para restaurar a Fornalha Divina quando a recuperarmos.&lt;BR&gt;&lt;BR&gt;Limpar o solo sagrado e obter materiais excelentes de graça? Como pode ser melhor do que isso?</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="3" prevId="2" villagerId="1048">
+         
+        <Page social="4">Trabalho brilhante! &lt;BR&gt;&lt;BR&gt;Hmmm... Ainda posso sentir traços da magia de Thulsa nesses fragmentos. Farei com que o Mysterium os purifique antes de lançá-los na fornalha.&lt;BR&gt;&lt;BR&gt;Agora vou compensá-lo por seu trabalho.</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="4" villagerId="1048">
+         
+        <Page social="0">Este lugar sagrado deve ser limpo de todos os vestígios daqueles cães Thulsan e Ksharan! &lt;BR&gt;&lt;BR&gt;Desmonte todos os fragmentos carmesim à vista e traga-me os fragmentos.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="42" id="35" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="242" id="100" prevId="0" villagerId="1041">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="242" id="2" prevId="0" villagerId="1041">
+         
+        <Page social="5">Scouts have reported something they're calling {@LinkCreature:42#5002#Tragoleth} leading the skeletal soldiers in the western part of the chamber of the dead.&lt;BR&gt;&lt;BR&gt;We don't need them to be better organized, so would &lt;PCNAME&gt; be up to the task of taking him out?</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="3" prevId="2" villagerId="1041">
+         
+        <Page social="4">Well done. It's always a happy task to reward brave deeds, and taking on Tragoleth was certainly that. Take this, and use it well.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="4" villagerId="1041">
+         
+        <Page social="0">The sooner Tragoleth is dead, the sooner those skeletal troops will be leaderless.</Page>
+    
+    </Text>
+</QuestDialog>

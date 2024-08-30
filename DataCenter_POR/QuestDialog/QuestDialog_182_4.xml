@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="182" id="4" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="182" id="100" prevId="0" villagerId="2108">
+         
+        <Page social="0">Renish, um Seeker da Highwatch, queria descobrir como os arquidevais domavam e controlavam os demokrons.&lt;BR&gt;Rhodos sugeriu que, como seus homens foram enviados para o posto de arquidevais do oeste, eles poderiam ajudar na investigação.</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="2" prevId="0" villagerId="2108">
+         
+        <Page social="1">Estive conversando com meus batedores e tenho algumas notícias para você sobre os movimentos das tropas dos arquidevas.&lt;BR&gt;&lt;BR&gt;Pelo que Madat acabou de lhe dizer, parece que este é o momento perfeito.&lt;NEXTPAGEBUTTON&gt;"Então, onde posso encontrar um arquideva para interrogar?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">A oeste daqui, perto das Fontes Quentes de Hina. Meus batedores lhe mostrarão o caminho; o primeiro deles, Gaku, está esperando por você logo após a crista ocidental.&lt;BR&gt;&lt;BR&gt;Aqui, pegue meu sigilo. Mostre-o aos meus batedores para que eles saibam que eu o enviei.&lt;NEXTPAGEBUTTON&gt;"Entendi."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="3" prevId="2" villagerId="2048">
+         
+        <Page social="1">Quem é você? Mantenha distância! &lt;NEXTPAGEBUTTON&gt;"Rhodos me disse para lhe mostrar isto."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Ah, você é aquele de quem Rhodos me falou. O que você precisa de mim? &lt;NEXTPAGEBUTTON&gt;"Mostre-me onde encontrar um arquideva."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Tenho que lidar com essa bagunça, mas há outros batedores à frente na estrada que podem ajudá-lo. Basta seguir a estrada em direção ao oeste e eles se mostrarão quando você chegar perto. Basta seguir a estrada na direção oeste e eles se mostrarão quando você se aproximar.&lt;BR&gt;&lt;BR&gt;Roderan é o próximo mais próximo. Basta mostrar a ele o sigilo de Rhodos e ele lhe indicará o inimigo.&lt;NEXTPAGEBUTTON&gt;"Entendo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="4" prevId="3" villagerId="2034">
+         
+        <Page social="1">Vamos lá, Dorman. Apenas me diga quantos místicos existem, e-&lt;BR&gt;&lt;BR&gt;Whoa! Você não deveria estar aqui! O que está fazendo aqui? &lt;NEXTPAGEBUTTON&gt;"Rhodos me enviou. Aqui está o sigilo dele, como prova."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Ah, missão secreta, não é? Eu também. &lt;PCNAME&gt;, conheça Dorman. Dorman, apresento-lhe &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Dorman estava me contando sobre o campo de treinamento dos arquidavanos ali na estrada. Parece que eles não o tratam muito bem, e ele está pensando em mudar de lado. Também não é ruim o fato de eu estar alimentando-o com bobagens.&lt;BR&gt;&lt;BR&gt;Por falar nisso, e só entre nós dois, estou fora - mas ele ainda tem alguns segredos para compartilhar comigo. Você não tem nenhum, tem? &lt;NEXTPAGEBUTTON&gt;"O que é blatherweed?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">É apenas uma erva, usada na culinária. Mas quando está fresca, comê-la faz com que você fique meio "falante" - o que, como você pode imaginar, é muito útil no meu trabalho.&lt;BR&gt;&lt;BR&gt;Não posso deixar Dorman, ou ele vai sair por aí. Você acha que pode ir até o riacho, em direção à cachoeira, e pegar mais um pouco de blatherweed para mim? Cinco folhas devem ser suficientes.&lt;NEXTPAGEBUTTON&gt;"Estou cuidando disso."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="5" prevId="4" villagerId="2034">
+         
+        <Page social="1">Esse é o material! Aqui está, Dorman. Coma à vontade! &lt;BR&gt;&lt;BR&gt;Ok, ele será inútil até que termine de comer. Então, por que Rhodos o mandou para cá? Não para coletar ervas daninhas, tenho certeza.&lt;NEXTPAGEBUTTON&gt;"Na verdade, preciso de um arquideva para interrogar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Bem, há muitos arquidevas no campo de treinamento, mas imagino que você não esteja querendo interrogar todos eles de uma vez.&lt;BR&gt;&lt;BR&gt;Ok, siga esta estrada para o oeste e procure Donel.&lt;BR&gt;&lt;BR&gt;Apenas mostre a ele o sigilo, como fez comigo, e está tudo pronto.&lt;NEXTPAGEBUTTON&gt;"Obrigado, Roderan. Foi um prazer conhecê-lo, Dorman!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="6" villagerId="2034">
+         
+        <Page social="0">Conseguiu encontrar essa erva daninha?</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="7" prevId="5" villagerId="2014">
+         
+        <Page social="1">Shh... em silêncio. Inimigos na estrada e logo depois do cume aqui.&lt;BR&gt;&lt;BR&gt;Rhodos o enviou? Muito bem, do que você precisa? &lt;NEXTPAGEBUTTON&gt;"Preciso de um arquideva para interrogar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Boa sorte com isso. Há muitos arquidevas estacionados a menos de dez metros daqui, mas conseguir um sozinho não será fácil.&lt;BR&gt;&lt;BR&gt;Eles têm um campo de treinamento montado e, junto com os traidores partas, o campo está cheio de demokrons.&lt;NEXTPAGEBUTTON&gt;"Na verdade, é por isso que estou aqui."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Ah. Aha. Ok, agora estou entendendo o que você quer. Os Seekers o enviaram, certo? &lt;BR&gt;&lt;BR&gt;Mas deixe-me poupá-lo de alguns problemas: Eles não vão falar. Nem mesmo a erva-balão solta a língua deles.&lt;BR&gt;&lt;BR&gt;Se você está determinado a tentar, no entanto, não vou impedi-lo. Só não os traga de volta para cá quando terminar. Deixe o acampamento deles pela entrada norte e encontre-se com Saduran. Ele o levará de volta ao acampamento.&lt;NEXTPAGEBUTTON&gt;"Eu vou."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="8" prevId="7" villagerId="2047">
+         
+        <Page social="1">Saia de vista! &lt;BR&gt;&lt;BR&gt;Eu poderia tê-lo matado seis vezes enquanto você estava andando por aí. O que está fazendo aqui? &lt;BR&gt;&lt;BR&gt;Oh, e se você é um arquideva disfarçado: Prepare-se para morrer.&lt;NEXTPAGEBUTTON&gt;"Estou em uma missão para Rhodos. Aqui está o sigilo dele."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Huh...&lt;BR&gt;&lt;BR&gt;Ok, mas você não pode ficar por aqui. Você chamará muita atenção. Volte para o acampamento e seja rápido. &lt;NEXTPAGEBUTTON&gt;"Minha missão ainda não terminou."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Duvido que você aprenda algo novo invadindo o campo de treinamento novamente. Talvez eu possa ajudar. O que você precisa saber? &lt;NEXTPAGEBUTTON&gt;"Como esses talismãs controlam os demokrons."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Eu já vi isso antes. Cromagh tinha um monte deles que ele tirou de Arquidevas mortos, como troféus. Se alguém sabe como elas funcionam, é ele.&lt;BR&gt;&lt;BR&gt;Vá para o norte, atravesse a ponte, vire à esquerda e você encontrará Cromagh. É impossível não notá-lo - basta procurar uma montanha que anda e fala e carrega uma espada gigantesca.&lt;NEXTPAGEBUTTON&gt;"Uh... claro. Obrigado."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="9" prevId="8" villagerId="2015">
+         
+        <Page social="1">Se Rhodos confia em um homem, então deve ser este homem: Cromagh! Cromagh, o Invencível! Cromagh, o... Imparável! Matador de...Matadores! &lt;BR&gt;&lt;BR&gt;Agora: O que Cromagh Slayer-Slayer pode fazer por você, pequeno forasteiro?&lt;NEXTPAGEBUTTON&gt;"Eu peguei esses talismãs como troféus..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Ah! Muito bem! Um dia você poderá ser tão poderoso quanto Cromagh, que é poderoso... poderoso! &lt;BR&gt;&lt;BR&gt;Sim, os arquidevas usam isso para convocar e controlar os demokrons. Como um apito... para cães. Um apito para cães! &lt;NEXTPAGEBUTTON&gt;"Os arquidevas do sul não os usam."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Seus arcontes do sul provavelmente não precisam de um exército como o daqui - um exército para enfrentar Cromagh, o Exército... Facer.&lt;NEXTPAGEBUTTON&gt;"O que devo fazer agora?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</QuestDialog>

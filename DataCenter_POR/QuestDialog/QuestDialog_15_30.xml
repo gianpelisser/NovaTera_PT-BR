@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="15" id="30" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="67" id="100" prevId="0" villagerId="1015">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="67" id="2" prevId="0" villagerId="1015">
+         
+        <Page social="5">Ufa! Passei o dia todo elaborando planos de contingência para a evacuação. Meus afazeres habituais estão sendo deixados de lado.&lt;BR&gt;&lt;BR&gt;Eu nem sequer acompanhei o jovem... Gumbi? Gamilon? O jovem que está cuidando do portão sul.&lt;BR&gt;&lt;BR&gt;Parecia urgente. Você pode fazer um favor a um velho?</Page>
+    
+    </Text>
+    <Text huntingZoneId="67" id="3" prevId="2" villagerId="1027">
+         
+        <Page social="5">Obrigado por ter vindo. O velho Bisi tem estado tão ocupado que fico surpreso por ele ter se lembrado! O Acampamento Vigilância, ao sul dali, está cheio de pesquisadores da praga, e aquele bando de {@LinkCreature:15#3#sulking inky sabertooths} os isolou. Você poderia abrir um caminho?</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="4" prevId="3" villagerId="1009">
+         
+        <Page social="5">Presas de dente-de-sabre! Prefiro-as fora da boca do dente-de-sabre, não é mesmo? &lt;BR&gt;&lt;BR&gt;Diga, você está livre para ajudar com outro probleminha?</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="5" villagerId="1009">
+         
+        <Page social="0">Prefiro ter uma dúzia de presas de dente de sabre em minha mão do que um par na parte de trás do meu pescoço. Você está trabalhando nisso, não está?</Page>
+    
+    </Text>
+</QuestDialog>

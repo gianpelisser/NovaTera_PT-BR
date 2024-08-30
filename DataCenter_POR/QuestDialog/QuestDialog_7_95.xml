@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="7" id="95" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="60" id="100" prevId="0" villagerId="1013">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="60" id="2" prevId="0" villagerId="1013">
+         
+        <Page social="0">Os Scions of Lok reforçaram sua posição com mercenários juggernaut. Você deve se certificar de que eles desperdiçaram seu dinheiro.&lt;BR&gt;&lt;BR&gt;Eliminar os {@LinkCreature:7#23#juggernaut mercenários} no leste de Cardovek Remnants.&lt;BR&gt;&lt;BR&gt;Relatar ao Prefeito Nale no Sanctum Mysterium quando sua missão estiver concluída.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="3" prevId="2" villagerId="1016">
+         
+        <Page social="5">Excelente. Você pode continuar fazendo isso até que deixe de ser engraçado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="4" villagerId="1016">
+         
+        <Page social="0">Parece que você ainda não completou sua missão.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="476" id="25" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="253" id="100" prevId="0" villagerId="1013">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="253" id="2" prevId="0" villagerId="1013">
+         
+        <Page social="4">Orders just came down the pike to clear the arachnen painweavers from the Labyrinth of Terror.&lt;BR&gt;&lt;BR&gt;Great, but I'm not sending one of the four of us in there.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, you have the gear for it, right?</Page>
+    
+    </Text>
+    <Text huntingZoneId="253" id="3" prevId="2" villagerId="1013">
+         
+        <Page social="4">Hey, sorry to put you up to that. I just can't handle arachnens.&lt;BR&gt;&lt;BR&gt;It's all those legs, with the bristly little hairs on them. Eeeugh!</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="121" id="3" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="121" id="100" prevId="0" villagerId="220020">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="121" id="2" prevId="0" villagerId="220020">
+         
+        <Page social="1">We need to collect as much noctenium as possible. It's value...it could bring the Free Traders all the way to the top of the food chain, as it were.&lt;BR&gt;&lt;BR&gt;Collect as much as you can and bring it back here. I'll see that you're compensated.</Page>
+    
+    </Text>
+    <Text huntingZoneId="121" id="3" prevId="2" villagerId="220020">
+         
+        <Page social="0">This is excellent. Exactly what I hoped you'd bring.&lt;BR&gt;&lt;BR&gt;I'll see that these get where they're intended. Thank you.</Page>
+    
+    </Text>
+    <Text huntingZoneId="121" id="4" villagerId="220020">
+         
+        <Page social="0">For the collective!</Page>
+    
+    </Text>
+</QuestDialog>

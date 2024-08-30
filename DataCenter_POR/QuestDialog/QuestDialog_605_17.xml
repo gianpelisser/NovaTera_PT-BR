@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="605" id="17" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="63" id="100" prevId="0" villagerId="3002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="2" prevId="0" villagerId="3002">
+         
+        <Page social="4">Quer ganhar um dinheirinho extra hoje, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} lhe dirá o que está em pauta.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="3003">
+         
+        <Page social="4">Eu provavelmente deveria pedir a um dos Mãos para fazer isso, mas você é mil vezes mais confiável.&lt;BR&gt;&lt;BR&gt;Você se importaria de ir a Fyrmount hoje? Se eu mandar um dos meus, talvez nunca mais os veja. Eles fugirão com medo ou morrerão dolorosamente.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="4" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="5" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="6" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="7" prevId="2" villagerId="3002">
+         
+        <Page social="5">Não acredito que ela o enviou para {@Rgn:4001#Fyrmount}!&lt;BR&gt;&lt;BR&gt;O que teria acontecido se nunca o tivéssemos conhecido? Provavelmente estaríamos todos mortos.&lt;BR&gt;&lt;BR&gt;Obrigado, &lt;PCNAME&gt;. Sei que posso ser muito chato, mas não é fácil estar vivo. Basta perguntar a {@LinkCreature:63#3003#Elthienne}.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="8" villagerId="3002">
+         
+        <Page social="0">Elthienne prometeu a um contato nosso que cuidaríamos de algumas das ameaças em {@Rgn:4001#Fyrmount}, portanto, cace {@LinkCreature:4#1011#fangspawns} lá. Ah, e eles querem prova de morte. Não faço ideia do que isso significa, portanto, traga uma unha do pé ou algo do gênero.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="9" prevId="7" villagerId="3002">
+         
+        <Page social="5">Você deve estar exausto.&lt;BR&gt;&lt;BR&gt;Obtenha o pagamento de {@LinkCreature:63#3003#Elthienne} e depois descanse em algum lugar da cidade. Você precisa de seu descanso de beleza, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="10" villagerId="3002">
+         
+        <Page social="0">Cace {@LinkCreature:4#1021#grunnars sulfurosos} em {@Rgn:4001#Fyrmount} e traga a prova de suas mortes para o contato de Elthienne.&lt;BR&gt;&lt;BR&gt;Não sei o que eles querem ou por que querem, mas tenho certeza de que você encontrará algo - provavelmente algo nojento.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="11" prevId="9" villagerId="3002">
+         
+        <Page social="5">Sabe, {@LinkCreature:63#3003#Elthienne} não é tão ruim assim. Eu provavelmente disse algumas coisas que não deveria ter dito.&lt;BR&gt;&lt;BR&gt;Ela é um biscoito duro. Acho que é difícil para duas pessoas duronas trabalharem tão juntas. Especialmente quando um deles é, tipo, velho e está se desintegrando - lá vou eu de novo! Não consigo me conter! &lt;BR&gt;&lt;BR&gt;Acho que ela sabe que estamos falando dela. Você deveria ir verificar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="12" villagerId="3002">
+         
+        <Page social="0">Mate {@LinkCreature:4#2011#voracious fangspawns} em {@Rgn:4001#Fyrmount} e traga de volta a prova de suas mortes. Elthienne precisará disso para a pessoa que nos contratou. Certifique-se de que seja algo macabro e escorrendo. A propósito, isso foi sarcasmo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="13" prevId="11" villagerId="3003">
+         
+        <Page social="4">Você fez isso de novo, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Aqui, você mereceu isso.</Page>
+    
+    </Text>
+</QuestDialog>

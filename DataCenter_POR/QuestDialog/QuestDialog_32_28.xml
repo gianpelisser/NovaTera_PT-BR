@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="32" id="28" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="232" id="100" prevId="0" villagerId="1005">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="232" id="2" prevId="0" villagerId="1005">
+         
+        <Page social="4">Os mercenários sem luz receberam mais suprimentos ontem.&lt;BR&gt;&lt;BR&gt;Não podemos identificar o fornecedor, mas se eles continuarem a receber apoio com tanta facilidade e frequência como esse, definitivamente são más notícias para nós.&lt;BR&gt;&lt;BR&gt;Você está pronto para um ataque, &lt;PCNAME&gt;? Vá até o acampamento dos mercenários na bacia ao norte e roube os suprimentos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="232" id="3" prevId="2" villagerId="1005">
+         
+        <Page social="4">Obrigado! Isso deve manter as coisas a nosso favor por mais algum tempo.&lt;BR&gt;&lt;BR&gt;Khasib estava perguntando sobre você enquanto você estava fora. Acho que ele pode estar começando a descobrir o que quero dizer com "não é meu tipo". Se você sabe o que quero dizer...</Page>
+    
+    </Text>
+    <Text huntingZoneId="232" id="4" villagerId="1005">
+         
+        <Page social="0">Os suprimentos estão no acampamento mercenário na bacia ao norte daqui. Bem, você os pegou?</Page>
+    
+    </Text>
+</QuestDialog>

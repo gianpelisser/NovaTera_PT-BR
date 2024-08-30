@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="63" id="4" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="63" id="100" prevId="0" villagerId="1099">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="2" prevId="0" villagerId="1099">
+         
+        <Page social="5">Todo soldado da federação pode se beneficiar do aprimoramento de suas habilidades por meio de duelos.&lt;BR&gt;&lt;BR&gt;A oeste daqui fica a Legião das Armas, e do lado de fora da porta oeste está Haidehr, o mestre dos duelos. As habilidades de qualquer &lt;PCCLASS:lcase&gt; podem se beneficiar de um encontro com ele.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="1070">
+         
+        <Page social="5">Hmm... você parece alguém pronto para provar seu valor. Se você estiver pronto para se envolver com um pouco de sangue, vamos começar.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="18" id="95" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="218" id="100" prevId="0" villagerId="1009">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="218" id="2" prevId="0" villagerId="1009">
+         
+        <Page social="4">The Lokians are at it again. And don't ask me what "it" is—I just follow Kardelen's orders.&lt;BR&gt;&lt;BR&gt;Hunt down {@LinkCreature:18#19#Lokian vanguards}, {@LinkCreature:18#20#Lokian slayers}, {@LinkCreature:18#21#Lokian skullcleavers} and {@LinkCreature:18#113#Kaltrun of Doom} Break their weapons, that they might know the shame of defeat!&lt;BR&gt;&lt;BR&gt;Report to Dorinne in Sietch Bidaum when you're done cutting a bloody swath through their ranks.</Page>
+    
+    </Text>
+    <Text huntingZoneId="218" id="3" prevId="2" villagerId="1006">
+         
+        <Page social="4">So many broken weapons...so many broken Lokians.</Page>
+    
+    </Text>
+    <Text huntingZoneId="218" id="4" villagerId="1006">
+         
+        <Page social="0">You aren't afraid of the Lokians, are you?</Page>
+    
+    </Text>
+</QuestDialog>

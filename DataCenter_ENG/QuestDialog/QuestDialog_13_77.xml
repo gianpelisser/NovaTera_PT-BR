@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="77" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="213" id="100" prevId="0" villagerId="1017">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="213" id="2" prevId="0" villagerId="1017">
+         
+        <Page social="4">I trust you've seen by now that this island is no normal place. The ghilliedhus, the structures to the south, and further on there's the...well let's just say you'll be of no use to us if you're dead.&lt;BR&gt;&lt;BR&gt;Making the island safe for future researchers is your top priority now. &lt;font color='#660000'&gt;Volis&lt;/font&gt; over there will teach you how to be a better &lt;PCCLASS:lcase&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="3" prevId="2" villagerId="1024">
+         
+        <Page social="4">Those seeking knowledge are right to come to Volis, child of Karas. These skills are available from instructors throughout the federation every &lt;b&gt;even level&lt;/b&gt;.&lt;BR&gt;&lt;BR&gt;For now, an eager &lt;PCCLASS:lcase&gt; should focus on &lt;font color='#660000'&gt;Metamorphic Blast I&lt;/font&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="4" prevId="3" villagerId="1024">
+         
+        <Page social="4">"A wave of pain falls hard on the enemy." When Metamorphic Blast washes over opponents, they scatter like seeds before the breeze. Be wary of untouched opponents—they have little reason to praise your skill.&lt;BR&gt;&lt;BR&gt;Also, even the most experienced spellcasters use &lt;font color='#660000'&gt;Mana Infusion&lt;/font&gt; to replenish their power. Without the resources to turn knowledge into actions, defeat is the only possible outcome.</Page>
+    
+    </Text>
+</QuestDialog>

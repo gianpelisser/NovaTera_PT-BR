@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="8" id="29" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="208" id="100" prevId="0" villagerId="1033">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="208" id="2" prevId="0" villagerId="1033">
+         
+        <Page social="8">Muitos animais comem o que matam, mas os gulas nos caçam, nos esfolam e depois nos servem! &lt;BR&gt;&lt;BR&gt;Então vamos punir os ajudantes de cozinha! Os {@LinkCreature:8#3021#Gula skinners} e os {@LinkCreature:8#3022#slavering auric imps} são os próximos em seu cardápio, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;E traga de volta as facas deles, sim? Talvez possamos transformá-las em armas que possamos usar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="208" id="3" prevId="2" villagerId="1033">
+         
+        <Page social="4">Facas! Eu gosto de facas! Facas afiadas e pontiagudas!</Page>
+    
+    </Text>
+    <Text huntingZoneId="208" id="4" villagerId="1033">
+         
+        <Page social="0">Quando você está dormindo, eles estão lá fora cortando, cozinhando e roendo. Quando você está acordado... mais cortes, cozimento, roer.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="3" id="93" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="203" id="100" prevId="0" villagerId="1007">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="203" id="2" prevId="0" villagerId="1007">
+         
+        <Page social="0">Os devas em Deva Silva estão conspirando contra nós e precisam ser detidos. Como posso saber? Informações, soldado. E isso é tudo o que você precisa saber.&lt;BR&gt;&lt;BR&gt;Vocês devem matar {@LinkCreature:3#300141#devan blademasters}, {@LinkCreature:3#18#devan scrappers}, {@LinkCreature:3#300160#devan arcanists}, {@LinkCreature:3#14#reavers of resurrection} e {@LinkCreature:3#15#ebonheart sorcerers}.&lt;BR&gt;&lt;BR&gt;Apresentem-se a Malvina no Posto Avançado da Vanguarda quando terminarem.</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="3" prevId="2" villagerId="1015">
+         
+        <Page social="4">Bom trabalho, soldado. A federação precisa de mais &lt;PCCLASS:lcase&gt;s como você.</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="4" villagerId="1015">
+         
+        <Page social="0">Você ainda não concluiu sua missão. Não prestou atenção às suas ordens?</Page>
+    
+    </Text>
+</QuestDialog>

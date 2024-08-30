@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="41" id="35" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="241" id="100" prevId="0" villagerId="1021">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="241" id="2" prevId="0" villagerId="1021">
+         
+        <Page social="0">Quando a paz for restaurada, um desses jovens corajosos - talvez Kurio - se tornará o grande chefe dos orcs e usará uma coroa feita com o crânio de um {@LinkCreature:41#4002#gigant warmaster}. O nosso foi destruído quando fomos para o exílio.&lt;BR&gt;&lt;BR&gt;Nosso novo chefe teria orgulho de usar uma coroa que você caçou. Você nos honrará matando uma dessas feras e pegando sua cabeça?</Page>
+    
+    </Text>
+    <Text huntingZoneId="241" id="3" prevId="2" villagerId="1021">
+         
+        <Page social="0">Muito bem. Agora vou colocar a coroa na moda e esperar que a paz chegue.</Page>
+    
+    </Text>
+    <Text huntingZoneId="241" id="4" villagerId="1021">
+         
+        <Page social="0">Você trouxe o crânio? Quando eu o tiver, criarei uma coroa digna de um grande chefe.</Page>
+    
+    </Text>
+</QuestDialog>

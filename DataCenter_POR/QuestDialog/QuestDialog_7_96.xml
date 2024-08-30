@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="7" id="96" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="60" id="100" prevId="0" villagerId="1013">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="60" id="2" prevId="0" villagerId="1013">
+         
+        <Page social="0">Os nagas estão trabalhando para os kumases nas Planícies de Omphalos. Estamos eliminando seus números.&lt;BR&gt;&lt;BR&gt;Tire os mercenários {@LinkCreature:7#1#naga}.&lt;BR&gt;&lt;BR&gt;Relate a Heroth na Fazenda de Godric quando tiver sucesso.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="3" prevId="2" villagerId="1005">
+         
+        <Page social="5">Bom trabalho. Já estou me sentindo mais seguro.&lt;BR&gt;&lt;BR&gt;É bom que meu próximo post seja em Castanica. Estou farto dessa vida em campo aberto.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="4" villagerId="1005">
+         
+        <Page social="0">Parece que você ainda não completou sua missão.</Page>
+    
+    </Text>
+</QuestDialog>

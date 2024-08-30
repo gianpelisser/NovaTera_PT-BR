@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="5" id="33" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="205" id="100" prevId="0" villagerId="1006">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="205" id="2" prevId="0" villagerId="1006">
+         
+        <Page social="4">Antes de ir... só mais uma coisa. Eu tenho um contato tuwangi aqui. Tenho certeza de que ele está bem, mas...&lt;BR&gt;&lt;BR&gt;Talvez você possa encontrar {@LinkCreature:205#1016#Jirra} para mim e ter certeza de que ele está bem?&lt;BR&gt;&lt;BR&gt;Oh, e se ele estiver em apuros, dê a ele este pergaminho. Ele pode usá-lo para se teletransportar para um lugar seguro.</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="3" prevId="2" villagerId="1016">
+         
+        <Page social="0">Ajuda! Socorro, socorro! Oh, mas a criatura não pode entender.&lt;BR&gt;&lt;BR&gt;Ou...oh, ela pode! Ela pode entender! Ajude-me! &lt;BR&gt;&lt;BR&gt;Oh, o que é isso? Um pergaminho de teletransporte? Ah, sim! Obrigado, obrigado!&lt;BR&gt;&lt;BR&gt;Vá ver meu irmão, {@LinkCreature:205#1003#Pangari}. Ele está a sudeste daqui. Diga a ele que estou bem!</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="4" prevId="3" villagerId="1003">
+         
+        <Page social="0">Obrigado por ajudar Jirra a escapar! As coisas aqui pioraram muito - três tribos, todas lutando para expandir o pântano, mas lutando entre si! &lt;BR&gt;&lt;BR&gt;Tuwangis lutando contra tuwangis não está certo. Não está certo de forma alguma. Ninguém pode confiar em mais ninguém! Eu tive que fugir, mas meu irmão ficou para trás.&lt;BR&gt;&lt;BR&gt;Estou muito grato por tê-lo tirado de lá. Muito obrigado.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="25" id="27" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="225" id="100" prevId="0" villagerId="1008">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="225" id="2" prevId="0" villagerId="1008">
+         
+        <Page social="4">A vitória está ao nosso alcance, mas não podemos fazer nada contra os inimigos que estão à espreita em nosso caminho. Estamos presos aqui, esperando para avançar, enquanto os {@LinkCreature:25#1011#devan reavers} nos atacam.&lt;BR&gt;&lt;BR&gt;Ajude-nos a abrir caminho matando aqueles que você conseguir pegar. Isso não deve levar tempo algum e você poderá alcançar o grupo de Elleon quando terminar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="3" prevId="2" villagerId="1008">
+         
+        <Page social="4">Excelente trabalho! Esses batedores têm que recuar - agora eles podem ver o que realmente estão enfrentando. Poderemos nos encontrar com o grupo avançado na catedral!</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="4" villagerId="1008">
+         
+        <Page social="0">Se você não conseguir eliminar mais desses {@LinkCreature:25#1011#devan reavers}, não poderemos avançar.</Page>
+    
+    </Text>
+</QuestDialog>

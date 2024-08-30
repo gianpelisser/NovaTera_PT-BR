@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="24" id="22" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="66" id="100" prevId="0" villagerId="1009">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="66" id="2" prevId="0" villagerId="1009">
+         
+        <Page social="5">Nosso poço costumava fornecer água suficiente para todos nós, mas a seca cobrou seu preço - e agora os kulkari continuam roubando nossos suprimentos de água.&lt;BR&gt;&lt;BR&gt;Há um acampamento a oeste da aldeia. Já foi o mercado da aldeia, mas foi abandonado por causa dos bandidos. Pode ser que ainda haja alguma água lá, mas nenhum de nós está equipado para lidar com os bandidos.&lt;BR&gt;&lt;BR&gt;Pode ir verificar e trazer de volta qualquer água que encontrar?</Page>
+    
+    </Text>
+    <Text huntingZoneId="66" id="3" prevId="2" villagerId="1009">
+         
+        <Page social="5">Muito bem! Isso é bastante água. Pode não durar até o fim da seca, mas deve durar um pouco.&lt;BR&gt;&lt;BR&gt;Obrigado. A federação precisa de mais pessoas como você, e ficarei feliz por termos unido forças.</Page>
+    
+    </Text>
+    <Text huntingZoneId="66" id="4" villagerId="1009">
+         
+        <Page social="0">O acampamento abandonado fica no Deserto da Pilhagem, a oeste da aldeia. Se os bandidos deixaram alguma água, traga-a para mim antes que evapore.</Page>
+    
+    </Text>
+</QuestDialog>

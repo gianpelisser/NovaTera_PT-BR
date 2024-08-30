@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="21" id="92" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="65" id="100" prevId="0" villagerId="1012">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="65" id="2" prevId="0" villagerId="1012">
+         
+        <Page social="0">Does everybody know what time it is? Tulla time!&lt;BR&gt;&lt;BR&gt;Nothing, huh? Well, now you know why I joined the military.&lt;BR&gt;&lt;BR&gt;All right, take out the {@LinkCreature:21#3#vicious orisks} and {@LinkCreature:21#4#brutal orisks} and report to Fianath at the Barrens Outpost when you're done!</Page>
+    
+    </Text>
+    <Text huntingZoneId="221" id="3" prevId="2" villagerId="1027">
+         
+        <Page social="4">Thank you. We can keep working now.</Page>
+    
+    </Text>
+    <Text huntingZoneId="221" id="4" villagerId="1027">
+         
+        <Page social="0">The mission isn't complete yet. Sorry.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="602" id="12" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="78" id="100" prevId="0" villagerId="3002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="78" id="2" prevId="0" villagerId="3002">
+         
+        <Page social="4">Os argonss empregam máquinas de guerra mecânicas contra nós, mas seu suprimento de energia está a salvo nas Catacumbas de argons.&lt;BR&gt;&lt;BR&gt;Se tivéssemos nos movido um pouco mais rápido, poderíamos ter destruído o {@LinkCreature:418#2009#catalisador de ciasma}.&lt;NEXTPAGEBUTTON&gt;"Mande-me."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Isso não é uma corrida de leite azul, &lt;PCNAME&gt;, mas se você estiver disposto a isso, apresente-se a {@LinkCreature:418#2003#Arigma} nas {@Rgn:9018001$$Argon Catacombs}. Ele lhe indicará a direção certa.</Page>
+    
+    </Text>
+    <Text huntingZoneId="418" id="3" prevId="2" villagerId="2003">
+         
+        <Page social="4">Claro, você poderia destruir o {@LinkCreature:418#2009#cyasma catalyzer}, mas não será fácil. Além disso, há três deles.&lt;BR&gt;&lt;BR&gt;Vocês podem tentar, só quero que entendam o que estão enfrentando. Os argons mantêm uma força de tropas de furo pronta para proteger os catalisadores.&lt;BR&gt;&lt;BR&gt;Se o chão começar a balançar, você começa a correr.</Page>
+    
+    </Text>
+    <Text huntingZoneId="418" id="4" prevId="3" villagerId="2003">
+         
+        <Page social="4">Ouvimos, er, sentimos a explosão! Bom trabalho ao destruir o catalisador! &lt;BR&gt;&lt;BR&gt;Vou mandar mensageiros para a Cidadela de Khanovar e avisá-los que os argonss estão vulneráveis por um tempo.</Page>
+    
+    </Text>
+</QuestDialog>

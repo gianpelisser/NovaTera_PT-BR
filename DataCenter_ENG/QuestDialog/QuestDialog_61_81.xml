@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="61" id="81" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">(You've received a letter from Elleon.)&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;,&lt;BR&gt;&lt;BR&gt;Our battles aren't over yet. To defeat Thulsa and rescue Serion, we'll need to prepare ourselves.&lt;BR&gt;Meet me at {@Rgn:61004} in {@Rgn:61001}. Stay safe.&lt;BR&gt;&lt;BR&gt;—{@linkcreature:61#1104}</Page>
+    
+    </Text>
+    <Text huntingZoneId="61" id="3" prevId="2" villagerId="1104">
+         
+        <Page social="3">Thanks for coming.&lt;BR&gt;&lt;BR&gt;Our coming battles will be tougher and we'll face foes stronger than anything we've fought in the past.&lt;BR&gt;&lt;BR&gt;We must prepare ourselves.&lt;NEXTPAGEBUTTON&gt;"How do we prepare?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">We need to enchant our equipment to a higher degree than ever before. To manage that feat, we need to enchant equipment up to +9. At some point, we'll need masterwork alkahest to enhance the performance, but let's not get ahead of ourselves.&lt;NEXTPAGEBUTTON&gt;"Right."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="12">Unfortunately, all I can give you now is tier 1 feedstock and some alkahests.&lt;BR&gt;Don't throw that low tier feedstock away. You can combine feedstock to get a higher tier.&lt;BR&gt;&lt;BR&gt;Good luck, my friend!</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="33" id="30" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="233" id="100" prevId="0" villagerId="1011">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="233" id="2" prevId="0" villagerId="1011">
+         
+        <Page social="0">Isso é que é um "ambiente rico em alvos". Temos tentado avançar para os níveis mais profundos, mas os Guardas Sangrentos são duros de roer.&lt;BR&gt;&lt;BR&gt;Em outras palavras, precisamos de uma séria ruptura no estilo &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Tire os {@LinkCreature:33#11#Berserkers da Guarda Sangrenta} e os {@LinkCreature:33#61#reapers}. Depois, podemos seguir com um avanço adequado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="3" prevId="2" villagerId="1011">
+         
+        <Page social="0">Vitória para Valkyon! Vou preparar as tropas para tomar os andares inferiores.</Page>
+    
+    </Text>
+</QuestDialog>

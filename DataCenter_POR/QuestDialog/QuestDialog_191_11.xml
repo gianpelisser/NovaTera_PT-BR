@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="191" id="11" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="821" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0">Rhodos e &lt;PCNAME&gt; perseguiram Dakuryon até os túneis abaixo de Trellum Consurgo. Os Seekers of Highwatch quebraram o selo do arquidevento &lt;PCNAME&gt; capturado para dar a eles uma chance de lutar contra a magia de Dakuryon.</Page>
+    
+    </Text>
+    <Text huntingZoneId="821" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="4">Rápido! Dakuryon não pode escapar! &lt;NEXTPAGEBUTTON&gt;"Para onde ele foi?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Eu o vi fugir para os níveis inferiores.&lt;BR&gt;&lt;BR&gt;Agora, rápido!</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="3" prevId="2" villagerId="2125">
+         
+        <Page social="4">Venha! Não há tempo a perder!</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="4" prevId="3" villagerId="2130">
+         
+        <Page social="4">Como o rato que é, Dakuryon foge para um túnel. Que apropriado!</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="5" prevId="4" villagerId="2129">
+         
+        <Page social="4">Desconstruímos o selo do arquidevento que você capturou. Há pouco tempo para testá-lo, mas ele deve ajudá-lo em sua luta contra Dakuyron.&lt;BR&gt;&lt;BR&gt;Por favor, salve o Alto Ancião.</Page>
+    
+    </Text>
+</QuestDialog>

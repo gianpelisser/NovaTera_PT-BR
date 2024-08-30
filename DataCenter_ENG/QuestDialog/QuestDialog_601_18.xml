@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="601" id="18" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="4">[Assist the Invalesco]&lt;BR&gt;&lt;BR&gt;{@LinkCreature:77#3001#Nithan}, the Invalesco high inquisitor, requests your presence at {@Rgn:77001$$Pathfinder Post}.&lt;BR&gt;&lt;BR&gt;If agreeable, the Invalesco will provide you with support missions against the argons.</Page>
+    
+    </Text>
+    <Text huntingZoneId="77" id="3" prevId="2" villagerId="3001">
+         
+        <Page social="4">On behalf of the Invalesco, let me welcome you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Your reputation has spread far and wide. We'd like to work with you. While we have some of the finest minds in the world, they're not soldiers. Help us help you.&lt;BR&gt;&lt;BR&gt;I look forward to a mutually beneficial arrangement.</Page>
+    
+    </Text>
+</QuestDialog>

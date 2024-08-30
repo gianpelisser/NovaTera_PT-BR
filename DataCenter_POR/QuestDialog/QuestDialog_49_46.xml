@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="49" id="46" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="76" id="100" prevId="0" villagerId="1033">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="76" id="2" prevId="0" villagerId="1033">
+         
+        <Page social="4">No meio de {@Rgn:49001}, você pode ver uma enorme torre chamada {@Rgn:49003}. A inteligência acredita que os argons usam sua energia para abastecer suas tropas. Isso faz dela um alvo saboroso.&lt;BR&gt;&lt;BR&gt;Há um contingente de arzakaar thassalirs lá dentro.&lt;BR&gt;&lt;BR&gt;Livre-se deles. Eles são provavelmente os defensores mais potentes do local.</Page>
+    
+    </Text>
+    <Text huntingZoneId="76" id="3" prevId="2" villagerId="1033">
+         
+        <Page social="6">Interessante. É quase como se os arzakaars não estivessem guardando a instalação, mas estivessem estacionados lá para outro propósito.&lt;BR&gt;&lt;BR&gt;Bem, isso pouco importa agora. Eles estão mortos e nós temos uma guerra para vencer.</Page>
+    
+    </Text>
+</QuestDialog>

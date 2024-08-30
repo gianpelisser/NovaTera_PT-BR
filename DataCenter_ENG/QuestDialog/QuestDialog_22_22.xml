@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="22" id="22" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="222" id="100" prevId="0" villagerId="1022">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="222" id="2" prevId="0" villagerId="1022">
+         
+        <Page social="5">The {@LinkCreature:22#7#apprentice witches} are the least dangerous, but the most numerous. If this is a contagion, we have to stop it.&lt;BR&gt;&lt;BR&gt;They congregate in the Grand Hall. Kill them and find {@LinkCreature:222#1008#Duani} when you're done.&lt;NEXTPAGEBUTTON&gt;"Kill the students?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Yes, damn you. We'll hire an army of mystics to resurrect them when this is over.&lt;BR&gt;&lt;BR&gt;Those clever apprentices will have {@LinkCreature:22#1#angry Mr. Purrfects} and {@LinkCreature:22#2#frisky Mr. Purrfects} protecting them so watch out. &lt;BR&gt;&lt;BR&gt;Collect any notes or letters the apprentices have. They may be clues.&lt;BR&gt;&lt;BR&gt;Be careful when you tell {@LinkCreature:222#1008#Duani}. She'll take their deaths hard.</Page>
+    
+    </Text>
+    <Text huntingZoneId="222" id="3" prevId="2" villagerId="1008">
+         
+        <Page social="5">You slew children simply to find clues?&lt;BR&gt;&lt;BR&gt;What kind of—no. No, you're right. She's right. This is no time for sentiment.&lt;BR&gt;&lt;BR&gt;We must have answers. I'll look over these letters and see what I can learn.</Page>
+    
+    </Text>
+    <Text huntingZoneId="222" id="4" villagerId="1008">
+         
+        <Page social="0">I understand you're collecting clues and letters?&lt;BR&gt;&lt;BR&gt;You are? Excellent. Return when you've finished.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="40" id="36" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="240" id="100" prevId="0" villagerId="1037">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="240" id="2" prevId="0" villagerId="1037">
+         
+        <Page social="4">That Podun...what an idiot! He's going to blow my cover—I just know it.&lt;BR&gt;&lt;BR&gt;Will you create a distraction by attacking those {@LinkCreature:40#31#mutated tribladers}? Buy me some time to gather more intelligence.&lt;BR&gt;&lt;BR&gt;And ask {@LinkCreature:240#1004$$Lashirah} to reassign Podun somewhere away from me!</Page>
+    
+    </Text>
+    <Text huntingZoneId="240" id="3" prevId="2" villagerId="1004">
+         
+        <Page social="4">Podun's an idiot, but a very observant one.&lt;BR&gt;&lt;BR&gt;Munisk's nerves are shot, that's all.</Page>
+    
+    </Text>
+</QuestDialog>

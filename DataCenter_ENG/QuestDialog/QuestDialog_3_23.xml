@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="3" id="23" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="203" id="100" prevId="0" villagerId="1005">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="203" id="2" prevId="0" villagerId="1005">
+         
+        <Page social="4">I captured a bandit carrying a map wandering around the woods not too long ago. It seems that the bandits keep our goods at locations marked with circles on the map. It's &lt;FONT COLOR='#660000'&gt;the northeastern part of the Blood Run!&lt;/FONT&gt;&lt;BR&gt;&lt;BR&gt;It's our chance to take back our stolen goods. &lt;PCNAME&gt;, please help us.&lt;BR&gt;&lt;BR&gt;If you go to the &lt;FONT COLOR='#660000'&gt;Blood Run&lt;/FONT&gt;, you'll find a pile of chests stolen by the bandits. Please bring our precious goods back!</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="3" prevId="2" villagerId="1005">
+         
+        <Page social="8">Oh, oh! &lt;PCNAME&gt;, I really appreciate your help. With all the havoc caused by the devan brigands, I thought my property was lost for good, but you saved the day. The Gods will bless you! Oh, yes they will!</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="4" villagerId="1005">
+         
+        <Page social="0">Did you find my crates? Or did the devas find you first? Hateful little critters, aren't they?</Page>
+    
+    </Text>
+</QuestDialog>

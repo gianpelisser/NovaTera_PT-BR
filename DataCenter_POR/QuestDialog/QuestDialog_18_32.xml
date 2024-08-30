@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="18" id="32" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="218" id="100" prevId="0" villagerId="1007">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="218" id="2" prevId="0" villagerId="1007">
+         
+        <Page social="4">Sim, eu sei. É a mesma história de sempre. "Volte para a segurança do acampamento". Acho que não.&lt;BR&gt;&lt;BR&gt;Ainda assim, pronto para ajudar? &lt;NEXTPAGEBUTTON&gt;"Não me lembro de ter sido voluntário."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Eu o ofereci como voluntário. Estou pesquisando a civilização dos gigantes, mas não consigo encontrar documentos históricos suficientes para entendê-la completamente. No entanto, os {@LinkCreature:18#17#teralitos antigos} estão cobertos de inscrições. Será que elas podem ajudar? &lt;BR&gt;&lt;BR&gt;Se você pudesse coletar algumas para mim, eu ficaria muito grato.</Page>
+    
+    </Text>
+    <Text huntingZoneId="218" id="3" prevId="2" villagerId="1007">
+         
+        <Page social="4">Oh, olhe para essas inscrições! Elas são exatamente o que eu esperava.&lt;BR&gt;&lt;BR&gt;Estas fotos vão me ensinar muito. Bom trabalho! &lt;BR&gt;&lt;BR&gt;Aqui, tome isto por seu trabalho. Sei que não é muito, mas é tudo o que posso conseguir tão longe do acampamento.</Page>
+    
+    </Text>
+    <Text huntingZoneId="218" id="4" villagerId="1007">
+         
+        <Page social="0">Se estiver procurando os {@LinkCreature:18#17#ancient teraliths} por aqui, vai ficar procurando por muito tempo.&lt;BR&gt;&lt;BR&gt;Vamos lá, agora. Você está dentro ou fora?</Page>
+    
+    </Text>
+</QuestDialog>

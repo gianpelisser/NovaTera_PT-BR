@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="4" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="79" id="100" prevId="0" villagerId="1102">
+         
+        <Page social="0">You entered the Ebon Tower and defeated Thulsa, who ran, leaving a trail of blood behind him. Kelsaik was nowhere to be seen....</Page>
+    
+    </Text>
+    <Text huntingZoneId="79" id="2" prevId="0" villagerId="1102">
+         
+        <Page social="0">I knew my purification totem would be useful! Good against all kinds of things...including Kelsaik's poison, if it comes to that. You've fought Kelsaik before, so you would know better than I would.&lt;BR&gt;&lt;BR&gt;If you make multiple forays in the Ebon Tower, pick up a purification totem before you go. Bring the materials, and I'll do the rest.</Page>
+    
+    </Text>
+    <Text huntingZoneId="251" id="3" prevId="2" villagerId="1033">
+         
+        <Page social="1">The teleportal in the Ebon Tower won't work no matter what you do. There's only one key that works, and it's...&lt;BR&gt;&lt;BR&gt;...Killian's gem? You have it? And you're going in?&lt;BR&gt;&lt;BR&gt;Here's what we know; it's not much. There are five levels in the tower, and everything's toxic, thanks to Thulsa. Don't forget to use that purification totem.</Page>
+    
+    </Text>
+    <Text huntingZoneId="251" id="4" prevId="3" villagerId="1501">
+         
+        <Page social="1">You have activated the teleportal using Killian's gem. A portal to the Ebon Tower is opening.</Page>
+    
+    </Text>
+    <Text huntingZoneId="251" id="5" villagerId="1501">
+         
+        <Page social="0">It's time to use Killian's gem.</Page>
+    
+    </Text>
+    <Text huntingZoneId="251" id="6" prevId="4" villagerId="1501">
+         
+        <Page social="1">You have investigated the teleportal in the Ebon Tower. Traces of Thulsa's magic sustain it, and it vibrates in resonance with another teleportal nearby...over there!</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="26" id="33" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="226" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="226" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="5">Comprei um mapa de um castanheiro que jurou que essa fonte poderia restaurar a saúde de minha esposa. Até agora, tudo o que consegui foi ser espancado por aqueles miseráveis {@LinkCreature:26#4000#Patient Lithikumases}.&lt;BR&gt;&lt;BR&gt;Não sou covarde, nem fraco, mas não sou páreo para eles. Se você conseguir matar alguns deles, eu provavelmente conseguirei passar sorrateiramente pela confusão e pegar o caldo para minha esposa.</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="5">Não pareça tão surpreso. Sou velho e grisalho, não sou fraco e débil. Você se saiu bem, meu amigo. Passei por todos sorrateiramente e enchi uma pele com a água.&lt;BR&gt;&lt;BR&gt;Obrigado. Com sorte, minha esposa pode muito bem ser restaurada.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="84" id="21" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="84" id="100" prevId="0" villagerId="1217">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="84" id="2" prevId="0" villagerId="1217">
+         
+        <Page social="4">Ei, você não gostaria de ajudar alguns soldados, não é mesmo? &lt;BR&gt;&lt;BR&gt;Meus camaradas e eu estamos com vontade de comer um suculento leitão assado, mas fizemos algo que irritou o Tapa, o cara que o vende.&lt;BR&gt;&lt;BR&gt;Acho que ele não está tomando remédio, mas a questão é que estamos com fome!</Page>
+    
+    </Text>
+    <Text huntingZoneId="84" id="3" prevId="2" villagerId="1208">
+         
+        <Page social="4">Se o aroma de dar água na boca do meu molho exclusivo o levou a entrar na minha loja, então tenho más notícias. &lt;BR&gt;&lt;BR&gt;Estou sem carne de porco, o método preferido de entrega do molho especial.&lt;BR&gt;&lt;BR&gt;Olhe ao redor. Está vendo algum filhote de porco? Não? Bem, se você quiser fazer churrasco, traga-me um porco! Você pode encontrá-los em praticamente qualquer lugar... em qualquer lugar, menos aqui.</Page>
+    
+    </Text>
+    <Text huntingZoneId="84" id="4" prevId="2" villagerId="1208">
+         
+        <Page social="4">Se você se apressar, deixarei que fique com o excedente.</Page>
+    
+    </Text>
+    <Text huntingZoneId="84" id="5" prevId="2" villagerId="1208">
+         
+        <Page social="4">Ainda falta muito para o churrasco! Mas vale a pena esperar, eu lhe garanto.</Page>
+    
+    </Text>
+    <Text huntingZoneId="84" id="6" prevId="2" villagerId="1208">
+         
+        <Page social="4">É impressionante como as pessoas se esforçam para comer meu churrasco de leitão.</Page>
+    
+    </Text>
+    <Text huntingZoneId="84" id="7" prevId="2" villagerId="1208">
+         
+        <Page social="4">Uau, você deve querer muito um churrasco! Volte logo. Tenho que fazer as malas em algum momento.</Page>
+    
+    </Text>
+    <Text huntingZoneId="84" id="8" prevId="2" villagerId="1208">
+         
+        <Page social="5">Ah, o caçador de porcos retorna.&lt;BR&gt;&lt;BR&gt;Para mostrar minha gratidão por toda essa carne extra que você me trouxe, vou fatiar um desses caras e jogar uma placa na grelha imediatamente.&lt;BR&gt;&lt;BR&gt;Não vai demorar um minuto.</Page>
+    
+    </Text>
+    <Text huntingZoneId="84" id="9" villagerId="1208">
+         
+        <Page social="0">Você me trouxe um pouco de carne de porco? Quanto mais, melhor.</Page>
+    
+    </Text>
+    <Text huntingZoneId="84" id="10" prevId="8" villagerId="1217">
+         
+        <Page social="4">Uau! Você mesmo teve que caçar o leitão? Não há nenhum leitão por quilômetros! &lt;BR&gt;&lt;BR&gt;Você realmente foi além. Sua dedicação à federação é... uau! Somos incrivelmente gratos.&lt;BR&gt;&lt;BR&gt;Você tem novos amigos para a vida toda.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="29" id="28" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="229" id="100" prevId="0" villagerId="1025">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="229" id="2" prevId="0" villagerId="1025">
+         
+        <Page social="5">Há muito tempo, o Bosque Windwhistle é o lar dos fangspawns. Embora enormes e perigosos, sempre há um equilíbrio.&lt;BR&gt;&lt;BR&gt;Agora os {@LinkCreature:29#1041#woodland fangspawns} estão loucos e ameaçam tudo, inclusive a floresta! Precisamos de sua ajuda para matá-los, &lt;PCNAME&gt;. Equipe-se e comece a matar. Terminei de falar agora.</Page>
+    
+    </Text>
+    <Text huntingZoneId="229" id="3" prevId="2" villagerId="1025">
+         
+        <Page social="5">As mortes dos fangspawns eram inevitáveis. Caso contrário, esse lugar teria que ser chamado de Bosque da Devastação.&lt;BR&gt;&lt;BR&gt;Você foi muito útil. Não esquecerei no futuro. Envie uma carta de recomendação.</Page>
+    
+    </Text>
+</QuestDialog>

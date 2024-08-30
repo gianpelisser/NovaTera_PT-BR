@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="63" id="89" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">[Mysterious agenda]&lt;BR&gt;&lt;BR&gt;If you want to live your life by your own rules, and not obey weaklings, {@LinkCreature:63#1260} waiting for you in Velika.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="1260">
+         
+        <Page social="0">I see you have a couple of fights under your belt.&lt;BR&gt;&lt;BR&gt;If you have the recklessness and courage to attack anyone you want, whenever you want, talk to a man named {@LinkCreature:63#1172} near the Legion School.&lt;BR&gt;&lt;BR&gt;He will tell you what to do next.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="4" prevId="3" villagerId="1172">
+         
+        <Page social="0">Law and order enforcement organizations were created by sheep in order to control wolves. Sheep are happy with their lives. And you?&lt;NEXTPAGEBUTTON&gt;"And I'm definitely not one of them.".&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Then grab your luck by the tail, my friend. You can use force if you need to.&lt;BR&gt;&lt;BR&gt;After reading &lt;font color='#FF0000'&gt;Outlaw's Declaration&lt;/font&gt;, you can choose your own path to power.&lt;BR&gt;&lt;BR&gt;You'll be outlawed, mind you. You can attack people, but they can also attack you. The gods protect the truly weak, but why would you bother with weaklings?&lt;NEXTPAGEBUTTON&gt;"I love real challenges".&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Be careful, my friend, the more you kill, the higher the chance of angering the gods. Notoriety spreads quickly.&lt;BR&gt;&lt;BR&gt;A trifling sacrifice in exchange for freedom, in my opinion.&lt;BR&gt;&lt;BR&gt;The choice is yours...</Page>
+    
+    </Text>
+</QuestDialog>

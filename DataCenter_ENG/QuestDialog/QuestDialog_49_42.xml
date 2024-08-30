@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="49" id="42" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="4">Beneath the cyan spire, I entombed my next clue.&lt;BR&gt;&lt;BR&gt;—Linkia</Page>
+    
+    </Text>
+    <Text huntingZoneId="249" id="3" prevId="2" villagerId="1012">
+         
+        <Page social="6">(You see a stone grave. It looks like someone disturbed it recently. You find a note inside.)</Page>
+    
+    </Text>
+</QuestDialog>

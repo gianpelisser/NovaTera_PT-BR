@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="25" id="92" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="66" id="100" prevId="0" villagerId="1008">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="66" id="2" prevId="0" villagerId="1008">
+         
+        <Page social="0">Looks like we need you to head into the Dark Cathedral—and by the looks of this list, you may as well just never put that weapon of yours away. You may want to take notes.&lt;BR&gt;&lt;BR&gt;You're after {@LinkCreature:25#1081#remorseless hyenas}, {@LinkCreature:25#1041#dread squires}, {@LinkCreature:25#1021#devan pelates}, {@LinkCreature:25#1022#skeletal wardens}, {@LinkCreature:25#1031#dread knights}, {@LinkCreature:25#1032#skeletal defenders}, and {@LinkCreature:25#1051#skeletal pikemen}.&lt;BR&gt;&lt;BR&gt;Got all that? Good, because I don't know that I can spew that list again.&lt;BR&gt;&lt;BR&gt;Meet up with Essunia when you're done.</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="3" prevId="2" villagerId="1015">
+         
+        <Page social="4">That's showing them what the federation can do! Keep it up!</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="4" villagerId="1015">
+         
+        <Page social="0" />
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="25" id="32" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="225" id="100" prevId="0" villagerId="1027">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="225" id="2" prevId="0" villagerId="1027">
+         
+        <Page social="4">Aqueles {@LinkCreature:25#2041#Lokian snipers} e {@LinkCreature:25#2042#Lokian blood reapers} continuam nos conduzindo pela Catedral Negra e para longe de nossos alvos. Você nos ajudará a limpar o caminho?</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="3" prevId="2" villagerId="1027">
+         
+        <Page social="4">Bom trabalho! Nós podemos cuidar do resto. No entanto, gostaria de ter mais informações sobre os Atel Akaad. Defender é fácil - eu preferiria esmagá-los.</Page>
+    
+    </Text>
+</QuestDialog>

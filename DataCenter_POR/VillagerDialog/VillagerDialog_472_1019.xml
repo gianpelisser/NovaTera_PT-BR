@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="472" id="1019" voiceTypeId="39">
+    <Text id="1" endSocial="0">
+         
+        <Page social="5">Arrogance and complacency-old friends of mine.&lt;BR&gt;&lt;BR&gt;To be defeated by poison...shameful.</Page>
+    
+    </Text>
+    <Text id="2" endSocial="0">
+         
+        <Page social="0">Don't fear for me. Make ready! They're coming!&lt;TEXTBUTTON&gt;"Are you all right?"&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Defend Elleon.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</VillagerDialog>

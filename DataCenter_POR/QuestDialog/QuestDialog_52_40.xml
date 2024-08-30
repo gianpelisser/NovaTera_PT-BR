@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="40" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="252" id="100" prevId="0" villagerId="1034">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="252" id="2" prevId="0" villagerId="1034">
+         
+        <Page social="4">A menos que você seja cego, você vê todos os cadáveres apodrecidos, esqueletos e... o que é isso? Algo morto, suponho.&lt;BR&gt;&lt;BR&gt;De qualquer forma, você está no meio de nossos inimigos, especificamente as Tropas dos Corvos... o maior batalhão de Thulsa de todos.&lt;BR&gt;&lt;BR&gt;Quer transformar as Tropas dos Corvos no segundo maior batalhão de Thulsa? Faça algumas baixas, &lt;PCCLASS:lcase&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="3" prevId="2" villagerId="1034">
+         
+        <Page social="4">Uau, isso é mais do que eu esperava. Não é à toa que Krok o recomendou tão bem! &lt;BR&gt;&lt;BR&gt;Kaia o abençoe, &lt;PCNAME&gt;!</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="4" villagerId="1034">
+         
+        <Page social="0">As Tropas dos Corvos estão por toda parte nesta fornalha.&lt;BR&gt;&lt;BR&gt;Cabeça todos eles e prove seu valor!</Page>
+    
+    </Text>
+</QuestDialog>

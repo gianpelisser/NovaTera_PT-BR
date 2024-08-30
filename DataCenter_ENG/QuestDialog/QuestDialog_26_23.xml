@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="26" id="23" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="226" id="100" prevId="0" villagerId="1007">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="226" id="2" prevId="0" villagerId="1007">
+         
+        <Page social="5">The kulkari threaten everything I'm sworn to protect. Wiping them out probably isn't the answer, but killing a couple of key players might be.&lt;BR&gt;&lt;BR&gt;What do you think of taking out their leaders, {@LinkCreature:26#101#Kuru} and {@LinkCreature:26#102#Taroku}? That might make a difference.</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="3" prevId="2" villagerId="1007">
+         
+        <Page social="5">Maybe getting rid of those two will keep the rest quiet. Might even save their lives. We can hope, eh?</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="4" villagerId="1007">
+         
+        <Page social="0">The quicker you kill those two and get back here, the sooner this forest can start getting back to normal. Got that?</Page>
+    
+    </Text>
+</QuestDialog>

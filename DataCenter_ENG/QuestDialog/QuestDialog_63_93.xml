@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="63" id="93" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">Have you heard about Kumas Island? People who go there apparently hallucinate about being attacked by kumases...or being kumases themselves.&lt;BR&gt;&lt;BR&gt;Well, the place is littered with giant diamonds!&lt;BR&gt;&lt;BR&gt;Getting those diamonds should be as easy as taking candy from a baby. Think you're up to the challenge?&lt;BR&gt;&lt;BR&gt;[Kumasylum is accessible via the Battleground Matching menu.]</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="1256">
+         
+        <Page social="4">Looks like we chose well for the job! What's this? The diamonds are actually candy?&lt;BR&gt;&lt;BR&gt;Sigh...Well, &lt;PCNAME&gt;, I can't say you didn't do what I asked you to. Here: payment for your trouble.&lt;BR&gt;&lt;BR&gt;Think it's worth going back to double-check?</Page>
+    
+    </Text>
+</QuestDialog>

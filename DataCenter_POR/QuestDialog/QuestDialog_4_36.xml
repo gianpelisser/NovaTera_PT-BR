@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="36" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="204" id="100" prevId="0" villagerId="1134">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="204" id="2" prevId="0" villagerId="1134">
+         
+        <Page social="4">Eu sei que Castanica está preocupada com a durignita para seus escudos, mas eles também estão com falta de metais necessários para o esforço de guerra.&lt;BR&gt;&lt;BR&gt;&lt;B&gt;O minério de shadmetal&lt;/B&gt;, em particular, está em falta.&lt;BR&gt;&lt;BR&gt;A boa notícia é que você não precisa escavar uma mina inteira para chegar a ele - muitos depósitos de shadmetal chegam à superfície. Traga-me um pouco de minério de shadmetal e toda a Castanica gritará seus louvores.</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="3" prevId="2" villagerId="1134">
+         
+        <Page social="4">Isso é perfeito. Obrigado, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="4" villagerId="1134">
+         
+        <Page social="0">Com as minas fechadas, Castanica está em crise. Cada pedacinho de shadmetal ajuda, amigo!</Page>
+    
+    </Text>
+</QuestDialog>

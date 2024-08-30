@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="22" id="22" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="222" id="100" prevId="0" villagerId="1022">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="222" id="2" prevId="0" villagerId="1022">
+         
+        <Page social="5">Os {@LinkCreature:22#7#aprendizes de bruxos} são os menos perigosos, mas os mais numerosos. Se isso for um contágio, temos que detê-lo.&lt;BR&gt;&lt;BR&gt;Eles se reúnem no Grande Salão. Mate-os e encontre {@LinkCreature:222#1008#Duani} quando terminar.&lt;NEXTPAGEBUTTON&gt;"Matar os alunos?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Sim, maldito seja. Contrataremos um exército de místicos para ressuscitá-los quando isso acabar.&lt;BR&gt;&lt;BR&gt;Esses aprendizes espertos terão {@LinkCreature:22#1#o Sr. Purrfects zangado} e {@LinkCreature:22#2#o Sr. Purrfects brincalhão} protegendo-os, portanto, cuidado. &lt;BR&gt;&lt;BR&gt;Recolha quaisquer anotações ou cartas que os aprendizes tenham. Elas podem ser pistas.&lt;BR&gt;&lt;BR&gt;Tenha cuidado quando contar a {@LinkCreature:222#1008#Duani}. Ela não vai gostar nada da morte deles.</Page>
+    
+    </Text>
+    <Text huntingZoneId="222" id="3" prevId="2" villagerId="1008">
+         
+        <Page social="5">Você matou crianças simplesmente para encontrar pistas? &lt;BR&gt;&lt;BR&gt;Que tipo de - não. Não, você está certo. Ela está certa. Não é hora para sentimentalismos. &lt;BR&gt;&lt;BR&gt;Temos que ter respostas. Vou dar uma olhada nessas cartas e ver o que consigo descobrir.</Page>
+    
+    </Text>
+    <Text huntingZoneId="222" id="4" villagerId="1008">
+         
+        <Page social="0">Soube que está coletando pistas e cartas...&lt;BR&gt;&lt;BR&gt;Está? Excelente. Volte quando tiver terminado.</Page>
+    
+    </Text>
+</QuestDialog>

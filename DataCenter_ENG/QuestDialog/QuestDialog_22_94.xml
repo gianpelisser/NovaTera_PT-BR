@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="22" id="94" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="68" id="100" prevId="0" villagerId="1007">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="68" id="2" prevId="0" villagerId="1007">
+         
+        <Page social="5">Those bloody jesters are still skulking about the catacombs.&lt;BR&gt;&lt;BR&gt;I want you to cut those {@LinkCreature:22#26#toxic vampiric jesters} out of the academy.&lt;BR&gt;&lt;BR&gt;When you're done, speak with Kendea for your payment.</Page>
+    
+    </Text>
+    <Text huntingZoneId="222" id="3" prevId="2" villagerId="1025">
+         
+        <Page social="5">Yahoo! Jesters are dead!&lt;BR&gt;&lt;BR&gt;That'll keep the number of demons down, too! Good work!</Page>
+    
+    </Text>
+    <Text huntingZoneId="222" id="4" villagerId="1025">
+         
+        <Page social="0">If you haven't killed the {@LinkCreature:22#26#toxic vampiric jesters} and recovered their blood stones, we have nothing to discuss.</Page>
+    
+    </Text>
+</QuestDialog>

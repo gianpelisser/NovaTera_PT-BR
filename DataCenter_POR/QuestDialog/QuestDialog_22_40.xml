@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="22" id="40" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="222" id="100" prevId="0" villagerId="1009">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="222" id="2" prevId="0" villagerId="1009">
+         
+        <Page social="5">Por que toda conversa sobre você tem a palavra "cadáver"? &lt;BR&gt;&lt;BR&gt;Não importa. Os {@LinkCreature:22#28#prelados das trevas} e os {@LinkCreature:22#27#recipuladores de disco sensorial} estão guardando a capela. Acho que há uma ligação entre o altar deles e o que aconteceu aqui, então você vai matá-los.&lt;BR&gt;&lt;BR&gt;Estes cultistas estão tão acabados.</Page>
+    
+    </Text>
+    <Text huntingZoneId="222" id="3" prevId="2" villagerId="1009">
+         
+        <Page social="5">Graças a você, os Scions of Lok foram esmagados e essa coisa de magia mental está enfraquecida.&lt;BR&gt;&lt;BR&gt;Agora, talvez, possamos começar a retomar nosso lar. Tudo graças a mim.&lt;BR&gt;&lt;BR&gt;Bem, e a você.</Page>
+    
+    </Text>
+</QuestDialog>

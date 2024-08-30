@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="472" id="24" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="208" id="100" prevId="0" villagerId="1020">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="208" id="2" prevId="0" villagerId="1020">
+         
+        <Page social="4">Sabe o que me deixa irritado? As pessoas que se referem à "arte da alquimia". &lt;BR&gt;&lt;BR&gt;É uma ciência, pessoal! &lt;BR&gt;&lt;BR&gt;Por exemplo, uma pesquisa rigorosa e revisada por pares me diz que dentro do Labirinto Dourado é possível encontrar cristais de sangue - a dor congelada das muitas vítimas dos labirintos.&lt;NEXTPAGEBUTTON&gt;"A ciência diz isso?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="5">Sim! Há todo um método e tudo mais!&lt;BR&gt;&lt;BR&gt;A ciência também envolve sacrifício. Como aquelas pessoas que morreram no Labirinto Dourado para fazer os cristais de sangue que você vai coletar.&lt;BR&gt;&lt;BR&gt;É tudo muito científico.&lt;NEXTPAGEBUTTON&gt;"O que fazem os cristais de sangue?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Nós não sabemos... ainda! Precisamos fazer mais ciência! &lt;BR&gt;&lt;BR&gt;Mas a essência destilada da dor que acaba com a vida... isso deve ser fascinante, não é? &lt;BR&gt;&lt;BR&gt;Agora vá buscar esses cristais de sangue. A ciência diz que sim!</Page>
+    
+    </Text>
+    <Text huntingZoneId="208" id="3" prevId="2" villagerId="1020">
+         
+        <Page social="4">Cristais de sangue... excelente. Posso sentir a dor daqui.</Page>
+    
+    </Text>
+    <Text huntingZoneId="208" id="4" villagerId="1020">
+         
+        <Page social="0">Você não tem medo de um pouco de dor, tem?</Page>
+    
+    </Text>
+</QuestDialog>

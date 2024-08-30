@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="57" id="36" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="257" id="100" prevId="0" villagerId="1015">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="257" id="2" prevId="0" villagerId="1015">
+         
+        <Page social="4">The heretics store much of their power in the consecrated teraliths. They're powerful guardians and reservoirs of magical might at the same time!&lt;BR&gt;&lt;BR&gt;If you can kill a few, the heretics would be much weaker. Can you manage such a feat?</Page>
+    
+    </Text>
+    <Text huntingZoneId="257" id="3" prevId="2" villagerId="1015">
+         
+        <Page social="4">I sense a change in the air. Great power is released to the winds, not stored for dark purposes.&lt;BR&gt;&lt;BR&gt;You did well. Such power could never bring about something good.&lt;BR&gt;&lt;BR&gt;Perhaps Sikander can yet be saved!</Page>
+    
+    </Text>
+</QuestDialog>

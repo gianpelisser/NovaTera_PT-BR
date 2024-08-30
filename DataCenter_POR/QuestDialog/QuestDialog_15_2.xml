@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="15" id="2" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="215" id="100" prevId="0" villagerId="1027">
+         
+        <Page social="0">Um dementalith ativo tiraria sua sanidade com um simples toque. Bedoram propôs explodir o dispositivo e o apresentou a Jelena, uma habilidosa sabotadora.&lt;BR&gt;&lt;BR&gt;A bomba de Jelena desativou a pedra e você eliminou seu guardião vampiro. Jelena ficou desanimada com o fato de um vampiro estar envolvido. Eles já foram seres decentes, disse ela. Deixou que você descobrisse o que havia acontecido com eles.&lt;BR&gt;&lt;BR&gt;As notícias piores vieram em seguida. Bedoram reconheceu as runas gravadas na dementalith quebrada: sigilos do culto de Lok. Não se tratava de uma doença ou de um ataque aleatório.&lt;BR&gt;&lt;BR&gt;Isso fazia parte de um plano maior.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="2" prevId="0" villagerId="1027">
+         
+        <Page social="4">Não se deve tocar nos dementaliths, se isso puder ser evitado. É preciso um poder mágico considerável para destruí-los e o risco de loucura é alto.&lt;BR&gt;&lt;BR&gt;Por outro lado, conheço alguém que pode ajudar. Jelena!&lt;BR&gt;&lt;BR&gt;Ela é uma das Rangers de Valkyon e é bastante hábil com explosivos. Sei que ela está na região. Encontre-a, &lt;PCNAME&gt;. É muito bom trabalhar com ela.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="3" prevId="2" villagerId="1020">
+         
+        <Page social="4">Está me procurando? &lt;BR&gt;&lt;BR&gt;Você quer destruir um {@LinkCreature:15#21#dementalith}? Sim, isso pode ser feito, mas pode não ser tão simples assim.&lt;BR&gt;&lt;BR&gt;Se eu estivesse planejando isso, teria guardas ou alguma outra proteção para uma relíquia tão poderosa. Eu lhe darei a carga, mas é melhor estar pronto para uma luta.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="4" prevId="3" villagerId="1020">
+         
+        <Page social="4">Ainda está de pé, não é? Parece que as histórias sobre você têm algo de verdade, afinal. Não importa. O que aconteceu? &lt;BR&gt;&lt;BR&gt;Vampiros? Deixe-me ver esse fragmento.&lt;BR&gt;&lt;BR&gt;Odd. Por que os vampiros estariam envolvidos? Eles vivem no reino há séculos. Ao mesmo tempo, Leander me disse uma vez que os vampiros têm ligações com a magia de sangue. Chega de especulação. &lt;BR&gt;&lt;BR&gt;Leve essa amostra para Bedoram. Ela me dá arrepios.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="5" villagerId="1020">
+         
+        <Page social="0">Já voltou? Você explodiu o {@LinkCreature:15#21#dementalith}?</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="6" prevId="4" villagerId="1027">
+         
+        <Page social="4">Deixe-me examinar isso mais de perto.&lt;BR&gt;&lt;BR&gt;Há símbolos inscritos nela. Isso não faz sentido. Por que o sigilo de Lok estaria nesse fragmento? Ele está morto e em grande parte esquecido. &lt;NEXTPAGEBUTTON&gt;"Você já ouviu falar dos Herdeiros de Lok?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Um culto dedicado a ele? Isso é bizarro, mas pode explicar alguns detalhes. Os cultos prosperam em sociedades fragmentadas, tirando força dos descontentes. Esse caos pode ser o início de algo muito maior.&lt;BR&gt;&lt;BR&gt;Leve essa notícia ao Prefeito Paka, meu amigo. Não demore!</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="7" villagerId="1027">
+         
+        <Page social="0">Pegue a pedra incomum para Bedoram.</Page>
+    
+    </Text>
+    <Text huntingZoneId="67" id="8" prevId="6" villagerId="1007">
+         
+        <Page social="4">Um dementalith? Magia de sangue? Um culto? A natureza me odeia.&lt;BR&gt;&lt;BR&gt;Por que os vampiros estariam trabalhando com um culto? Eles são felizes aqui. Todos nós somos. Não faz sentido.&lt;BR&gt;&lt;BR&gt;Mas onde estão minhas maneiras? Esqueci o mais importante! &lt;NEXTPAGEBUTTON&gt;"O que é isso?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Para agradecer a você e a Bedoram, obviamente! Vocês salvaram minha cidade da morte ou coisa pior! Não temos palavras para lhe agradecer! &lt;BR&gt;&lt;BR&gt;Tenho medo de que isso seja literalmente verdade. Com todos esses problemas, temos feito grandes empréstimos para manter o distrito funcionando.&lt;BR&gt;&lt;BR&gt;Mas diga a {@LinkCreature:215#1012#Bruke} o quanto sou grato e tenho certeza de que ele o recompensará!</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="9" prevId="8" villagerId="1012">
+         
+        <Page social="4">Você fez seu trabalho, nada mais. Não espere um desfile em Velika tão cedo.&lt;BR&gt;&lt;BR&gt;Mesmo assim, estou autorizado a lhe dar uma pequena recompensa.&lt;BR&gt;&lt;BR&gt;Tome isto e aguarde novas ordens... se o General Samael decidir empregá-lo novamente, é claro.</Page>
+    
+    </Text>
+</QuestDialog>

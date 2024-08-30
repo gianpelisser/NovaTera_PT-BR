@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="3" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">Legendary Blacksmith Muhrak asked you for some materials to compensate for shortcomings in his new workshop. Once you supplied them, Muhrak created a super-weapon: the Torch of the Gods.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">&lt;PCNAME&gt;: Come to my workshop. I need some materials.&lt;BR&gt;&lt;BR&gt;—Muhrak.</Page>
+    
+    </Text>
+    <Text huntingZoneId="411" id="3" prevId="2" villagerId="5001">
+         
+        <Page social="1">If the Divine Furnace was working, I'd be at work now, but there are certain...inefficiencies involved. We need icemarrow, firemarrow, and glacier fragments.&lt;BR&gt;&lt;BR&gt;What do you mean, "Why?" Who's the legendary blacksmith here? Fine. Combining the relic fragments with the essence of the Core requires enormous heat, then cold. Satisfied?&lt;BR&gt;&lt;BR&gt;Head to Raseri Festning in the Vale of Spires. The giants there have icemarrow and firemarrow, especially the chieftains. Glacier fragments? Collect them under the bridge from the Scorched Snowfield to Frostclaw Crag.</Page>
+    
+    </Text>
+    <Text huntingZoneId="411" id="4" prevId="3" villagerId="5001">
+         
+        <Page social="1">Good, now I can finish my greatest work!</Page>
+    
+    </Text>
+    <Text huntingZoneId="411" id="5" villagerId="5001">
+         
+        <Page social="0">I need materials!</Page>
+    
+    </Text>
+    <Text huntingZoneId="411" id="6" prevId="4" villagerId="5001">
+         
+        <Page social="1">Take this, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Add some dark substance, and you have the Torch of the Gods.&lt;BR&gt;&lt;BR&gt;Kelsaik is a twisted version of the god Sikander, so it's immune to most mortal magic. But the Torch of the Gods, you see, can burn right through that immunity.&lt;BR&gt;&lt;BR&gt;Carry all the torches you want, and you'll find dark substance within the Ebon Tower. Convenient, eh?&lt;BR&gt;&lt;BR&gt;Don't leave yet, &lt;PCCLASS:lcase&gt;! Get a purification totem from Gaicus. Good against the monsters you'll find in Ebon Tower.</Page>
+    
+    </Text>
+    <Text huntingZoneId="79" id="7" prevId="6" villagerId="1102">
+         
+        <Page social="1">Purification totem? What, are they sending some fool to explore the Ebon tower?&lt;BR&gt;&lt;BR&gt;Oh, it's you? Here you go, then!&lt;BR&gt;&lt;BR&gt;Nobody's tried these in the tower itself, but I made them for the black smoke that wafts over Habere sometimes from there. Should be the same thing inside the tower, only more intense.</Page>
+    
+    </Text>
+</QuestDialog>

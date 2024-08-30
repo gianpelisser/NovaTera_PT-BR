@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="25" id="22" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="225" id="100" prevId="0" villagerId="1006">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="225" id="2" prevId="0" villagerId="1006">
+         
+        <Page social="4">Com a escassez que as hienas deixaram, vamos todos morrer de fome enquanto esperamos que os suprimentos de Tulufan cheguem aqui.&lt;BR&gt;&lt;BR&gt;É hora de sermos espertos. Nossos batedores descobriram um jardim de rosas perfumadas no deserto do norte. Elas produzem uma fruta amarga, chamada de roseira brava, que tem gosto de restos de um lagarto da areia, mas é nutritiva. Se você puder colher algumas frutas enquanto eu vejo a caravana de suprimentos, ficarei muito grato.</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="3" prevId="2" villagerId="1006">
+         
+        <Page social="4">Ugh! "Restos de lagarto da areia" estava sendo generoso! Mas isso deve nos impedir de passar fome nos próximos dias. Se nada mais acontecer, eles reduzirão seu apetite.</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="4" villagerId="1006">
+         
+        <Page social="0">Você está muito longe da sua cota! Por favor, volte e colete mais!</Page>
+    
+    </Text>
+</QuestDialog>

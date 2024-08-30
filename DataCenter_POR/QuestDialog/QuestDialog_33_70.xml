@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="33" id="70" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">Ordens da Missão&lt;BR&gt;&lt;BR&gt;Os nobres vampiros da Cidadela do Tormento estão espalhando sua corrupção pelos arredores.&lt;BR&gt;&lt;BR&gt;Mate os {@LinkCreature:33#3#nobres vampiros}, {@LinkCreature:33#53#nobres vampiros amaldiçoados}, {@LinkCreature:33#4# cavalheiros vampiros}, {@LinkCreature:33#54# cavalheiros vampiros amaldiçoados}, {@LinkCreature:33#5#jesters amaldiçoados}, {@LinkCreature:33#55#jesters infernais}, {@LinkCreature:33#6#vampiros malévolos} e {@LinkCreature:33#7#defensoreseldritch}.&lt;BR&gt;&lt;BR&gt;Relatar a Celion quando a missão estiver concluída.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="3" prevId="2" villagerId="0">
+         
+        <Page social="4">É uma recompensa da federação. Bênçãos para todos os membros da guilda!</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="4" villagerId="0">
+         
+        <Page social="0">Parece que você ainda não completou sua missão.</Page>
+    
+    </Text>
+</QuestDialog>

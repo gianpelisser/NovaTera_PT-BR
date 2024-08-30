@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="191" id="7" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="191" id="100" prevId="0" villagerId="2142">
+         
+        <Page social="0">Rhodos ordered the troops to press on to Trellum Consurgo, but the archdevans' siege cannons must be destroyed first. You repaired a siege weapon and took a shot at it, but your guns couldn't reach the highest cannons.</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="2" prevId="0" villagerId="2142">
+         
+        <Page social="4">Damn the archdevas!&lt;BR&gt;&lt;BR&gt;Surely there must be a way to save the Parthians. If not, we'll wade through our own blood to defeat our foes.</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="3" prevId="2" villagerId="2110">
+         
+        <Page social="4">True enough!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, surely your magical people are as strong as the archdevas. Can't they think of a way to undo their magic?</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="4" prevId="3" villagerId="2141">
+         
+        <Page social="4">Regrettably, the transfiguration process is irreversible. We might find a means to prevent the change, or to block enthrallment, but we cannot save those who have fallen.</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="5" prevId="4" villagerId="2110">
+         
+        <Page social="4">If we cannot save them, then we must avenge them.&lt;BR&gt;&lt;BR&gt;Come, &lt;PCNAME&gt;! Pick a siege cannon and escort it to the Infernal Span.&lt;BR&gt;&lt;BR&gt;We shall assault the fortress!</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="6" villagerId="7">
+         
+        <Page social="0">(A sturdy siege weapon. It rumbles as it awaits an operator.)</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="7" prevId="5" villagerId="2138">
+         
+        <Page social="4">Before we can storm the fortress, we need to take out their siege cannons.&lt;BR&gt;&lt;BR&gt;Repair one, then mount it and open fire. Aim high, though. The gorge is wider than it looks.</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="8" prevId="7" villagerId="1601">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="191" id="9" prevId="8" villagerId="2138">
+         
+        <Page social="4">Unfortunately, we can't hit their guns on top of the wall.&lt;BR&gt;&lt;BR&gt;Report to Rhodos. He'll have to make the call on that problem.</Page>
+    
+    </Text>
+</QuestDialog>

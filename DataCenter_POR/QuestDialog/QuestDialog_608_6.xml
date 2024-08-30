@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="608" id="6" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="62" id="100" prevId="0" villagerId="1703">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="62" id="2" prevId="0" villagerId="1703">
+         
+        <Page social="4">Pronto para outra entrega, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;Este é para Andersen em Pora Elinu. Use um pégaso e não chame a atenção. Nossos clientes apreciam nossa discrição.</Page>
+    
+    </Text>
+    <Text huntingZoneId="68" id="3" prevId="2" villagerId="1003">
+         
+        <Page social="4">Em que posso ajudá-lo hoje? &lt;NEXTPAGEBUTTON&gt;"Aqui é da Imesti."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Meu pacote? Ele está aqui? Dê-me agora! Preciso ficar com ele! É meu! &lt;BR&gt;&lt;BR&gt;Ahem. Desculpe-me por isso. Tome isto por seu trabalho e diga a Imesti que ela é uma salva-vidas.</Page>
+    
+    </Text>
+</QuestDialog>

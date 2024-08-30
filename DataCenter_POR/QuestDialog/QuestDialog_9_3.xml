@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="9" id="3" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">Elleon alegou que os Filhos de Lok estavam trabalhando com Samael porque ele jurou ressuscitar Lok se eles o ajudassem a alcançar a divindade.&lt;BR&gt;&lt;BR&gt;Samael planejava usar a lança amaldiçoada do antigo deus Gidd para roubar os poderes de Velik.&lt;BR&gt;&lt;BR&gt;Para proteger Velik, você trabalhou com Elleon para impedir que a lança amaldiçoada caísse nas mãos de Samael e reivindicou a lança como prova da traição de Samael.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">&lt;PCNAME&gt;,&lt;BR&gt;&lt;BR&gt;Finalmente cheguei a Cutthroat Harbor (problemas com o tempo), e tenho notícias de Velika sobre o que "S" está procurando. Me veja assim que puder.&lt;BR&gt;&lt;BR&gt;E.</Page>
+    
+    </Text>
+    <Text huntingZoneId="62" id="3" prevId="2" villagerId="1036">
+         
+        <Page social="4">Samael convenceu os Herdeiros de Lok de que pode ressuscitar Lok - com a ajuda e a lealdade deles.&lt;BR&gt;&lt;BR&gt;Samael deve ter deliberadamente desviado as tropas do sul de Arun para proteger os Herdeiros. Sem nossas tropas, Arcádia quase foi invadida e Poporia quase entrou em guerra civil! &lt;BR&gt;&lt;BR&gt;Eles estão atrás da maldita Lança de Gidd - supostamente capaz de matar deuses e roubar seu poder. {@LinkCreature:12#23#Slawgesh}, um gula do Sindicato Kazuur, tem a lança. Tire-a dele! Samael não deve obter esse artefato!</Page>
+    
+    </Text>
+    <Text huntingZoneId="212" id="4" prevId="3" villagerId="1035">
+         
+        <Page social="4">Slawgesh era apenas um gula. Por que um gula escreve um livro de registro de negócios em código? &lt;BR&gt;&lt;BR&gt;Apesar disso, para toda fechadura há uma chave, não é? &lt;BR&gt;&lt;BR&gt;Talvez algum dos {@LinkCreature:12#7#gula brawlers} de Slawgesh tenha uma maneira de decifrar isso. Rápido!</Page>
+    
+    </Text>
+    <Text huntingZoneId="212" id="5" villagerId="1035">
+         
+        <Page social="0">Não podemos intimidar um tomo para que ele revele seus segredos. Precisamos ler isso, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="212" id="6" prevId="4" villagerId="1035">
+         
+        <Page social="4">A cartilha! Decodificar o livro-razão agora deve ser moleza! E quem não gosta de bolo? &lt;BR&gt;&lt;BR&gt;Aqui está o livro-razão. Trabalhem rápido, para que possamos prosseguir.</Page>
+    
+    </Text>
+    <Text huntingZoneId="212" id="7" prevId="6" villagerId="1035">
+         
+        <Page social="4">Essa é a nossa prova de que os Justicars estão trabalhando com o Sindicato Kazuur? E a Lança de Gidd está de fato nas mãos dos gula? Excelente.&lt;BR&gt;&lt;BR&gt;Onde? &lt;BR&gt;&lt;BR&gt;Blast! O Labirinto de Azarel é provavelmente o lugar mais infestado de gula do mundo. Não é tarefa fácil se infiltrar.&lt;BR&gt;&lt;BR&gt;Informe {@LinkCreature:62#1036#Elleon} sobre o que descobrimos. Samael está se movendo ou cobrindo seus rastros. De qualquer forma, temos que nos apressar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="212" id="8" villagerId="1035">
+         
+        <Page social="0">Você sabe como funcionam as cifras de substituição, certo? Basta combinar as letras do livro de registro com as letras do livro de decifração.</Page>
+    
+    </Text>
+    <Text huntingZoneId="62" id="9" prevId="7" villagerId="1036">
+         
+        <Page social="4">O que descobrimos? &lt;BR&gt;&lt;BR&gt;Intrigante... Samael e Akia devem estar se comunicando em segredo e Kutmaschuk deve estar guardando a lança amaldiçoada de Gidd.&lt;BR&gt;&lt;BR&gt;Vá até o Labirinto de Azarel. Vamos nos separar para o caso de algum Justicars ter escapado de nossa varredura. Vamos nos encontrar no {@LinkCreature:209#1031#acampamento perto do labirinto}.</Page>
+    
+    </Text>
+    <Text huntingZoneId="209" id="10" prevId="9" villagerId="1031">
+         
+        <Page social="4">O plano de Samael fica claro. Armado com a lança, ele poderia matar Velik e assumir o controle da Cidade das Rodas com pouco esforço. Francamente, quem controla Velika governa todo o sul de Arun.&lt;BR&gt;&lt;BR&gt;Não podemos deixar que isso aconteça.&lt;BR&gt;&lt;BR&gt;Devemos encontrar o {@LinkCreature:209#1030#route} para o esconderijo de Kutmaschuk.&lt;BR&gt;&lt;BR&gt;Vamos nos mexer.</Page>
+    
+    </Text>
+    <Text huntingZoneId="209" id="11" prevId="10" villagerId="1030">
+         
+        <Page social="4">(Esse teleportal tem um cheiro estranho. Pode ser o cheiro de Kutmaschuk - use esse portal e entre em seu esconderijo).</Page>
+    
+    </Text>
+    <Text huntingZoneId="209" id="12" prevId="11" villagerId="1031">
+         
+        <Page social="4">A Lança de Gidd... agora seu poder é meu! Vocês foram tolos em confiar em mim! &lt;BR&gt;&lt;BR&gt;Só estou brincando - sempre quis fazer aquela coisa de "artefato antigo transforma alguém em mau". A lança é falsa, e uma falsificação bastante amadora. Parece que os gulas iam trair Samael.&lt;BR&gt;&lt;BR&gt;Mas, falsos ou não, essa lança e o livro-razão são a prova de que precisamos da culpa de Samael.</Page>
+    
+    </Text>
+    <Text huntingZoneId="209" id="13" villagerId="1031">
+         
+        <Page social="0">Se Samael e os Herdeiros de Lok conseguirem a Lança de Gidd... não, isso não pode acontecer! &lt;BR&gt;&lt;BR&gt;Velik pode ser o primeiro alvo deles, mas não será o último.</Page>
+    
+    </Text>
+</QuestDialog>

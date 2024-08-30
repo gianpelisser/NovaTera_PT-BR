@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="51" id="24" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="251" id="100" prevId="0" villagerId="1006">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="251" id="2" prevId="0" villagerId="1006">
+         
+        <Page social="4">Percebi que todos os xamãs dominados carregam esses cristais azuis. Aposto que os argonomorfos também os têm. Isso talvez explique por que você e eu não sentimos os efeitos dos pilones de Draelkar.&lt;BR&gt;&lt;BR&gt;Preciso que você colete alguns. Se houver uma ligação entre os cristais e os pilones, pode ser que haja também um ponto fraco que possamos explorar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="251" id="3" prevId="2" villagerId="1006">
+         
+        <Page social="4">Deixe-me ver isso...&lt;BR&gt;&lt;BR&gt;Bem, eu não sou um arcanista, mas isso é definitivamente o que eu vi. Vou mandá-los de volta para Habere - veja se eles podem aprender algo útil com isso.&lt;BR&gt;&lt;BR&gt;Qualquer coisa para salvar nosso povo vale o esforço.</Page>
+    
+    </Text>
+    <Text huntingZoneId="251" id="4" villagerId="1006">
+         
+        <Page social="0">Os xamãs wendigo dominados os têm, assim como os argonomorfos em Wendigo's Howl. Mova-se rapidamente!</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="56" id="2" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="256" id="100" prevId="0" villagerId="1010">
+         
+        <Page social="0">Depois de acabar com a sangria no Altar do Corvo, você foi até Amena Quatla para acabar com o plano de Thulsa. Você matou os sacerdotes sikandari e seus reforços de argons, dando a Isrenia tempo para se unir a Sikander.&lt;BR&gt;&lt;BR&gt;Mas, mesmo quando ela o fez, Thulsa e Killian apareceram. Sikander, enlouquecido, entrou em erupção como Kelsaik.&lt;BR&gt;&lt;BR&gt;Mas Kaia lhe garantiu que ainda havia esperança. Thulsa não podia controlar Kelsaik. Kaia ordenou que você encontrasse um artefato antigo e destruísse o Kelsaik antes que Thulsa pudesse ligá-lo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="256" id="2" prevId="0" villagerId="1010">
+         
+        <Page social="0">Os sikandaris vivem ao redor do templo de Sikander em Amena Quatla. Sikander descansa em um enorme ovo dourado, se os Vanguards não estiverem mentindo. Encontre Sonacria no Broken Bridge Camp. Ela saberá o que fazer agora. E Kaia cuide de você!</Page>
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="257" id="3" prevId="2" villagerId="1008">
+         
+        <Page social="4">&lt;PCNAME&gt;? Ouvi dizer que você estava-&lt;BR&gt;&lt;BR&gt;Espere, o quê? Os sikandaris estão acordando Sikander? Agora? &lt;BR&gt;&lt;BR&gt;Oh, explosão e maldição! Isso explica todo tipo de coisa.&lt;BR&gt;&lt;BR&gt;Um enorme desfile de anciãos e atendentes entrou no templo de Sikander esta manhã. Sikander dorme em um enorme ovo no sul, mas eu apostaria meu peso em vinho que o ritual está no templo! E que sua força seja suficiente!</Page>
+    
+    </Text>
+    <Text huntingZoneId="474" id="4" prevId="3" villagerId="1007">
+         
+        <Page social="4">Excelente trabalho, &lt;PCNAME&gt;. A agitação de Sikander está diminuindo. Ele pode se curar sozinho agora... se for deixado sozinho.&lt;BR&gt;&lt;BR&gt;Isrênia, eu também sinto você! Você sabe o que tem que fazer, não sabe? O que Isren quereria? E o custo? &lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, pare esse ritual! Se você não o fizer, estamos todos perdidos. Até eu. Não posso pensar em nenhuma bênção florida - apenas saiba que confio em você para isso.&lt;BR&gt;&lt;BR&gt;Agora vá. Lutem! Vencer!</Page>
+    
+    </Text>
+    <Text huntingZoneId="474" id="5" prevId="4" villagerId="1008">
+         
+        <Page social="4">Está na hora. Estou pronto.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;...obrigado. Gostei de caminhar pelo mundo mortal por um tempo com você.&lt;BR&gt;&lt;BR&gt;Mas agora Sikander precisa de mim... precisa de tudo o que tenho.&lt;BR&gt;&lt;BR&gt;Sikander! Lembre-se de Isren! Lembre-se do amor dela por você!&lt;BR&gt;&lt;BR&gt;Não faça isso!</Page>
+    
+    </Text>
+    <Text huntingZoneId="84" id="6" prevId="5" villagerId="1088">
+         
+        <Page social="4">Você parece pálido &lt;PCNAME&gt;&lt;BR&gt;&lt;BR&gt;Por favor, entre!</Page>
+    
+    </Text>
+    <Text huntingZoneId="528" id="7" prevId="6" villagerId="5009">
+         
+        <Page social="4">Maldito seja você, Thulsa! Como alguém tão inteligente pode ser tão estúpido?&lt;BR&gt;&lt;BR&gt;Tenha orgulho, mortal. Embora Thulsa tenha acordado Kelsaik, por seus esforços ele perdeu o controle sobre ele. Kelsaik é uma besta enlouquecida em vez de uma arma obediente.&lt;BR&gt;&lt;BR&gt;Isso é uma tragédia, e a besta é inimaginavelmente perigosa, mas podemos vencê-los separadamente. Juntos, eles teriam sido imparáveis.&lt;BR&gt;&lt;BR&gt;Seu grande esforço, as vidas de Kanmur e Isrênia? Um preço alto. Mas você nos deu esperança.&lt;NEXTPAGEBUTTON&gt;"Você pode detê-lo, Shieldmaiden?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Não.&lt;BR&gt;&lt;BR&gt;Sikander é um deus da geração de meus pais. Ele pode estar além de todo o nosso poder, especialmente insano.&lt;BR&gt;&lt;BR&gt;Eu consigo pensar em apenas uma relíquia potente o suficiente. Saleron, o pai de Killian e Icaruna, a possui - um dos grandes artefatos dos primórdios do mundo.&lt;BR&gt;&lt;BR&gt;Mas Killian e Thulsa também a buscarão.&lt;NEXTPAGEBUTTON&gt;"Onde está Saleron? Posso chegar lá?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Saleron está preso em uma grande caverna em Val Elenium. Ele não cederá a Thulsa ou Killian de bom grado, mas você deve se apressar.&lt;BR&gt;&lt;BR&gt;Informe Tamur, depois busque a ajuda de Fraya.&lt;BR&gt;&lt;BR&gt;Kelsaik é uma força furiosa e destrutiva. Somente a influência de Isrenia o impede de se submeter a Thulsa. Kelsaik pode devastar o mundo. Nas mãos de Thulsa, é exatamente isso que ele fará.&lt;BR&gt;&lt;BR&gt;Há grandeza em vocês, mortais. Vocês a demonstram. Thulsa a teme. Lute com bravura, meu amigo. Conquiste a arma de que precisamos.</Page>
+    
+    </Text>
+</QuestDialog>

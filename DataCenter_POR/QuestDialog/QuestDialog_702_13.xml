@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="702" id="13" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="205" id="100" prevId="0" villagerId="2001">
+         
+        <Page social="0">Você aprendeu que os tambores e os lírios da lagoa atraem os tuwangis e que os tuwangi usam tambores para afastar os sapos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="2" prevId="0" villagerId="2001">
+         
+        <Page social="4">A Vedobo está procurando ajuda. Sua grande ajuda. Vá ajudar o Vedobo. &lt;NEXTPAGEBUTTON&gt;Ok.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="3" prevId="2" villagerId="2002">
+         
+        <Page social="4">Alguns tuwangis gostam de tambor. Nós tocamos tambor; os tuwangis vêm.&lt;BR&gt;&lt;BR&gt;Alguns tuwangis gostam de flores. Preciso de flores para trazer os tuwangis! &lt;NEXTPAGEBUTTON&gt;Eu posso ajudar.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="4" prevId="3" villagerId="2002">
+         
+        <Page social="4">Você traz boas flores. As flores trazem tuwangis.&lt;BR&gt;&lt;BR&gt;A bateria também traz tuwangis.&lt;BR&gt;&lt;BR&gt;Vá aprender a tocar bateria com Kukuta!&lt;NEXTPAGEBUTTON&gt;Ok.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="5" villagerId="2002">
+         
+        <Page social="0">Precisa de flores.</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="6" prevId="4" villagerId="2003">
+         
+        <Page social="4">Bateria fácil!&lt;BR&gt;&lt;BR&gt;Bater tambor. Sapo amarelo, tambor amarelo! Sapo verde, tambor verde! Sapo azul, tambor azul! &lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;Tentar? &lt;NEXTPAGEBUTTON&gt;Com certeza, vou tentar.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="7" prevId="6" villagerId="2003">
+         
+        <Page social="0">Toque tambor para os tuwangis!</Page>
+    
+    </Text>
+</QuestDialog>

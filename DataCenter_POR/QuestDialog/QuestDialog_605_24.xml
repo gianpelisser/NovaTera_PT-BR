@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="605" id="24" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="63" id="100" prevId="0" villagerId="3002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="2" prevId="0" villagerId="3002">
+         
+        <Page social="4">Soldado, meus companheiros e eu precisamos de ajuda, e você parece ser um &lt;PCCLASS:lcase&gt; bastante capaz.&lt;BR&gt;&lt;BR&gt;O que você ganha com isso, você pergunta? Bem, além de me conhecer, as Mãos de Velika recompensam generosamente por um trabalho bem feito.&lt;BR&gt;&lt;BR&gt;Se seu interesse for bem despertado, vá falar com {@LinkCreature:63#3003#Elthienne} ali.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="3003">
+         
+        <Page social="0">Então, você falou com a Taratia? Ela é persuasiva, não é? É por isso que a mantemos por perto! Eu brinco. Na verdade, não, é por isso mesmo.&lt;BR&gt;&lt;BR&gt;Ouça, se você quiser ajudar, precisamos desesperadamente de um item fabricado. Mas não se trata de um par de botas para o filho de sua irmã. Precisamos de alguém altamente qualificado.&lt;BR&gt;&lt;BR&gt;Isso descreve você? Ótimo. Entregue sua arte finalizada a Barian. Você será recompensado, é claro.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="4" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="5" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="6" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="7" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="8" prevId="2" villagerId="3001">
+         
+        <Page social="5">Maravilhoso! &lt;BR&gt;&lt;BR&gt;Faça outra visita a {@LinkCreature:63#3002#Taratia} se você quiser ser pago.&lt;BR&gt;&lt;BR&gt;Veja o que eu fiz? "Pagar a ela" para ser "pago"? Eu me mato. Terminei de falar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="9" villagerId="3001">
+         
+        <Page social="0">Lingote de aço Xersteel. Lingote de aço inoxidável. Lingote de aço de Xersteel.&lt;BR&gt;&lt;BR&gt;Você não adora o som? &lt;BR&gt;&lt;BR&gt;A única coisa melhor é a aparência. Faça um para mim, está bem?</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="10" prevId="8" villagerId="3001">
+         
+        <Page social="5">Maravilhoso!&lt;BR&gt;&lt;BR&gt;Veja {@LinkCreature:63#3002#Taratia} se quiser ver sua recompensa.&lt;BR&gt;&lt;BR&gt;Veja o que eu fiz ali? "Consulte-a" se quiser "ver" sua recompensa. Espere, isso não foi nem um pouco engraçado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="11" villagerId="3001">
+         
+        <Page social="0">Crie um pouco de galvasilex e traga-o para mim. Fique tranquilo, você será muito bem recompensado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="12" prevId="10" villagerId="3001">
+         
+        <Page social="5">Maravilhoso! &lt;BR&gt;&lt;BR&gt;Vocês vão ver {@LinkCreature:63#3002#Taratia}. Já terminamos aqui.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="13" villagerId="3001">
+         
+        <Page social="0">Faça couro de cereal. Traga-o para mim.&lt;BR&gt;&lt;BR&gt;Não poderia ser mais simples.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="14" prevId="12" villagerId="3001">
+         
+        <Page social="5">Maravilhoso! &lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} tem uma coisinha para você.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="15" villagerId="3001">
+         
+        <Page social="0">O trabalho de artesanato de hoje é luriacloth. Você está disposto a participar ou eu mesmo devo fabricá-lo?</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="16" prevId="14" villagerId="3002">
+         
+        <Page social="4">Você está pegando fogo! E vindo de um castanic, isso é dizer muito.&lt;BR&gt;&lt;BR&gt;Sua ajuda às Mãos de Velika e à nossa causa não será esquecida. Por favor, visite-nos novamente.</Page>
+    
+    </Text>
+</QuestDialog>

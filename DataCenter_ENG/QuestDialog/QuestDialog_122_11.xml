@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="122" id="11" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="122" id="100" prevId="0" villagerId="220037">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="122" id="2" prevId="0" villagerId="220037">
+         
+        <Page social="0">Venturing into enemy territory is difficult for even the most experienced fighters. As always, though, it's necessary.&lt;BR&gt;&lt;BR&gt;We need to collect extractor keys from the noctenium extractors here in the Enlightened Union's territory. Bring them back to me as quickly as possible.</Page>
+    
+    </Text>
+    <Text huntingZoneId="122" id="3" prevId="2" villagerId="220037">
+         
+        <Page social="0">That was a dangerous mission. Good job on coming back—and with your objective, even!</Page>
+    
+    </Text>
+    <Text huntingZoneId="122" id="4" villagerId="220037">
+         
+        <Page social="0">For profit!</Page>
+    
+    </Text>
+</QuestDialog>

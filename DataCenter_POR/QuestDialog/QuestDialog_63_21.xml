@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="63" id="21" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="84" id="100" prevId="0" villagerId="1132">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="84" id="2" prevId="0" villagerId="1132">
+         
+        <Page social="5">Chegaram notícias sobre você, &lt;PCNAME&gt;. O cônsul Dougal quer que você volte a Velika o mais rápido possível. &lt;BR&gt;&lt;BR&gt;Algo sobre apoiar os esforços na frente doméstica. É melhor ir andando.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="1160">
+         
+        <Page social="5">Obrigado por ter chegado até aqui, &lt;PCNAME&gt;. Vou direto ao ponto. O apoio ao esforço de guerra afetou a qualidade de vida em toda a federação.&lt;BR&gt;&lt;BR&gt;A federação está enviando você e outros agentes para apoiar os magistrados, coletar bens materiais e proporcionar algum alívio.&lt;BR&gt;&lt;BR&gt;Apresentem-se ao Magistrado Arn em Lumbertown. Mostre aos cidadãos que eles são tão prioritários quanto os argonss.</Page>
+    
+    </Text>
+    <Text huntingZoneId="60" id="4" prevId="3" villagerId="1013">
+         
+        <Page social="9">A natureza fornece, mas os inimigos saqueiam. Estamos carentes de matérias-primas.&lt;BR&gt;&lt;BR&gt;O que mais precisamos são fibras de verdra, minério de krymetal e alguma essência solar. Sem isso, é difícil ganhar a vida por aqui.</Page>
+    
+    </Text>
+    <Text huntingZoneId="60" id="5" prevId="4" villagerId="1013">
+         
+        <Page social="8">Isso ajudará muito! Podemos consertar nossas ferramentas, cuidar de nossas terras e curar nossas feridas. Obrigado.&lt;NEXTPAGEBUTTON&gt;"É uma honra poder ajudar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="5">Você é modesto demais. Tenho certeza de que o Magistrado Bisi concordará quando o vir. Ele está em Popolion e precisa mais do que nós. &lt;BR&gt;&lt;BR&gt;Que Velik o abençoe.</Page>
+    
+    </Text>
+    <Text huntingZoneId="60" id="6" villagerId="1013">
+         
+        <Page social="0">Os tempos estão difíceis para todos. Estamos apenas pedindo ajuda com as necessidades básicas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="67" id="7" prevId="5" villagerId="1015">
+         
+        <Page social="9">Sim, Lumbertown está faminta por matérias-primas. Você pode ajudar? &lt;BR&gt;&lt;BR&gt;Recolha fibras de sylva, minério de linmetal e um pouco de essência de vento, por favor? Não há glória nisso, mas ajudaria a todos nós.</Page>
+    
+    </Text>
+    <Text huntingZoneId="67" id="8" prevId="7" villagerId="1015">
+         
+        <Page social="13">Muito obrigado! &lt;BR&gt;&lt;BR&gt;A natureza provê - quando a natureza tem a ajuda de &lt;PCNAME&gt;!&lt;NEXTPAGEBUTTON&gt;"Tudo em um dia de trabalho."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="5">Nunca esqueceremos o que você fez por nós. Nunca! &lt;BR&gt;&lt;BR&gt;Novas ordens chegaram para você. Parece que você está indo para Tulufan. Eles precisam de você em seguida.&lt;BR&gt;&lt;BR&gt;Que Seren o abençoe!</Page>
+    
+    </Text>
+    <Text huntingZoneId="67" id="9" villagerId="1015">
+         
+        <Page social="0">Você pode obter tudo o que eu pedi nos campos de Popolion. Eu iria, mas por causa dos monstros...</Page>
+    
+    </Text>
+    <Text huntingZoneId="66" id="10" prevId="8" villagerId="1009">
+         
+        <Page social="5">Já não era sem tempo! &lt;BR&gt;&lt;BR&gt;Eu escrevi tantas cartas para Velika que provavelmente tenho minha própria ala nos arquivos.&lt;BR&gt;&lt;BR&gt;Nossas lojas foram roubadas recentemente. Vamos conseguir - se conseguirmos repor nossos estoques de fibras de shetla, minério normetal e essência estelar.&lt;BR&gt;&lt;BR&gt;Pode ajudar?</Page>
+    
+    </Text>
+    <Text huntingZoneId="66" id="11" prevId="10" villagerId="1009">
+         
+        <Page social="8">Não é ruim. Adequado até. &lt;BR&gt;&lt;BR&gt;Se soubéssemos que a federação nos abandonaria, nunca teríamos nos juntado a ela. &lt;NEXTPAGEBUTTON&gt;"Estamos juntos nessa."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="5">Hmph. Talvez.&lt;BR&gt;&lt;BR&gt;O Cônsul Dougal diz que você deve ir para Tria, no sul de Shara, em seguida.&lt;BR&gt;&lt;BR&gt;As bênçãos de Kaia o protegem, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="66" id="12" villagerId="1009">
+         
+        <Page social="0">Bem, acho que podemos nos contentar com areia. Um material muito útil, não é? Não dá para fazer roupas, não dá para fazer armas, mas dá para fazer qualquer um sentir coceira!</Page>
+    
+    </Text>
+    <Text huntingZoneId="70" id="13" prevId="11" villagerId="1011">
+         
+        <Page social="5">Somos gratos por qualquer ajuda.&lt;BR&gt;&lt;BR&gt;Os suprimentos estão baixos no momento. Em particular, precisamos de fibras de toira, minério de shadmetal e alguma essência de gelo.&lt;BR&gt;&lt;BR&gt;O apoio da federação é vital para nossa sobrevivência e sucesso. Por favor, nos ajude.</Page>
+    
+    </Text>
+    <Text huntingZoneId="70" id="14" prevId="13" villagerId="1011">
+         
+        <Page social="5">Isso vai servir muito bem.&lt;BR&gt;&lt;BR&gt;O povo de Tria encontrou uma nova esperança. Por favor, aceite nossos agradecimentos.&lt;NEXTPAGEBUTTON&gt;"De nada."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="5">O prefeito Lauma, em Frontera, espera se beneficiar da mesma forma com a assistência da federação. Boa viagem!</Page>
+    
+    </Text>
+    <Text huntingZoneId="70" id="15" villagerId="1011">
+         
+        <Page social="0">Sabemos que isso é difícil, mas não temos mais opções. Por favor, nos ajude.</Page>
+    
+    </Text>
+    <Text huntingZoneId="75" id="16" prevId="14" villagerId="1007">
+         
+        <Page social="5">O cônsul Dougal explicou sobre a iniciativa da federação de ajudar as colônias mais distantes. Precisamos da ajuda.&lt;BR&gt;&lt;BR&gt;Estamos com falta de fibras de luria, minério de xermetal e essência de raio. Qualquer acréscimo aos nossos estoques seria muito bem-vindo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="75" id="17" prevId="16" villagerId="1007">
+         
+        <Page social="5">Dougal escolheu bem o seu assistente. Somos gratos pela ajuda e faremos bom uso desses suprimentos.&lt;BR&gt;&lt;BR&gt;Dougal também pediu que você retornasse a Velika. Adeus, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="75" id="18" villagerId="1007">
+         
+        <Page social="0">Precisamos ter matérias-primas para manter a Frontera ativa e produtiva.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="19" prevId="17" villagerId="1160">
+         
+        <Page social="5">Não ouvi nada além de coisas boas a seu respeito. Até Turrek está mais alegre agora.&lt;BR&gt;&lt;BR&gt;Não houve conspirações frustradas ou grandes feras vencidas, mas o serviço aos outros está nas mais altas tradições do serviço da federação. Você se saiu bem, &lt;PCNAME&gt;. Muito obrigado.</Page>
+    
+    </Text>
+</QuestDialog>

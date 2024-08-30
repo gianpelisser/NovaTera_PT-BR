@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="203" id="1016" voiceTypeId="12">
+    <Text huntingZoneId="203" id="1" endSocial="14" prevId="0" villagerId="1016">
+         
+        <Page social="4">If you're ready to fight, I'm ready to find you work.&lt;BR&gt;&lt;BR&gt;Stay frosty and get them before they get us!</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="99" endSocial="14" prevId="0" villagerId="1016">
+         
+        <Page social="4" />
+    
+    </Text>
+    <Text huntingZoneId="203" id="2" endSocial="14" prevId="0" villagerId="1016">
+         
+        <Page social="4">I heard a rumor around the campfire one night. This cult people whisper about? They're trying to resurrect a dead god.&lt;BR&gt;&lt;BR&gt;I don't know why. The gods have messed everything up. It's up to us to fix it.</Page>
+    
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="40" id="39" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="240" id="100" prevId="0" villagerId="1003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="240" id="2" prevId="0" villagerId="1003">
+         
+        <Page social="4">Many of the miners caught the plague. With some tissue samples from the mutated survivors, one could determine more about the origins of this disease. In the process, you might put some of those {@LinkCreature:40#16#mutant miners} out of their misery.</Page>
+    
+    </Text>
+    <Text huntingZoneId="240" id="3" prevId="2" villagerId="1003">
+         
+        <Page social="4">I'll work night and day to make sense of this. Thank you, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="240" id="4" villagerId="1003">
+         
+        <Page social="0">When I have the samples from those {@LinkCreature:40#16#mutant miners} I can begin my work. For now, my hands are tied.</Page>
+    
+    </Text>
+</QuestDialog>

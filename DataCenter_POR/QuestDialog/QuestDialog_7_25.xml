@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="7" id="25" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="207" id="100" prevId="0" villagerId="1013">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="207" id="2" prevId="0" villagerId="1013">
+         
+        <Page social="5">Sei que Heroth está tentando, mas não há muito que eles possam fazer. Eventualmente, os orcs vão parar de debater e nos invadir. Minha filha merece algo melhor do que isso.&lt;BR&gt;&lt;BR&gt;Se vocês conseguirem eliminar alguns punhados dos {@LinkCreature:7#7#Red Fang ragers} e seus lacaios, os {@LinkCreature:7#8#Red Fang kobolds}, o resto cairá uns sobre os outros tentando estabelecer o domínio.&lt;BR&gt;&lt;BR&gt;Não é uma solução permanente, mas estamos vivendo hora a hora aqui.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="3" prevId="2" villagerId="1013">
+         
+        <Page social="5">Nossa fazenda deve estar mais segura, pelo menos por enquanto. Talvez Abélia tenha uma noite de sono tranqüila.&lt;BR&gt;&lt;BR&gt;Obrigado. Heroth e Drustan não desistiram daqui e eu também não. Vamos tornar este vale verde novamente, como minha esposa gosta de dizer, e que se danem os destinos.</Page>
+    
+    </Text>
+</QuestDialog>

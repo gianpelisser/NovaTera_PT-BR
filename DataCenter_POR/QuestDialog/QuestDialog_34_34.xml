@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="34" id="34" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="234" id="100" prevId="0" villagerId="1015">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="234" id="2" prevId="0" villagerId="1015">
+         
+        <Page social="4">Outros wendigos liderados por {@LinkCreature:34#5001#Kaijas}. Ele não está disposto a compartilhar fragmentos.&lt;BR&gt;&lt;BR&gt;Se você matá-lo, outros wendigos podem estar dispostos a ouvir Krrevaas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="234" id="3" prevId="2" villagerId="1015">
+         
+        <Page social="4">Mais importante do que a força é a honra. Madyar a tem. &lt;PCNAME&gt; também a tem.&lt;BR&gt;&lt;BR&gt;Krrevaas falará com os wendigos. Falará sobre compartilhar os fragmentos com seu povo.&lt;NEXTPAGEBUTTON&gt;"Assim como eu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Então nos separamos como aliados. Quando nos encontrarmos novamente, Krrevaas espera que seja como amigos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="234" id="4" villagerId="1015">
+         
+        <Page social="0">Ambos os lados perdem se os fragmentos desaparecerem. O tempo está se esgotando para trabalharmos juntos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="234" id="5" prevId="3" villagerId="1009">
+         
+        <Page social="4">Você está voltando para a Base de Gelo Stalker? Sinto que devo ficar aqui e ajudar os wendigos. Quer agradecer a Lalash por sua preocupação?</Page>
+    
+    </Text>
+    <Text huntingZoneId="234" id="6" prevId="5" villagerId="1005">
+         
+        <Page social="4">Toda essa luta e miséria por causa de fragmentos de cristal.&lt;BR&gt;&lt;BR&gt;O ponto de vista de Madiyar é bem aceito, não somos os únicos inquilinos deste mundo. Discutirei seus relatórios com o pretor. Talvez a política possa mudar a tempo de evitar um desastre.&lt;BR&gt;&lt;BR&gt;Dispensado!</Page>
+    
+    </Text>
+</QuestDialog>

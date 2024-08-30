@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="151" id="3" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">As you show an interest in alliances, Korino introduces you to the alliance recruiters.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">Like most secrets, everyone knows about our secret research territory. So now some powerhouses have made alliances outside the federation's rule to control the mining and distribution of noctenium.&lt;BR&gt;&lt;BR&gt;These powerhouses desire a pocket realm with their own access to noctenium. No one's tried to seize this one, so they must have found pocket realms of their own.</Page>
+    
+    </Text>
+    <Text huntingZoneId="151" id="3" prevId="2" villagerId="1003">
+         
+        <Page social="4">You want to join an alliance? I'm an expert on noctenium, not alliances. But if it'll get you out of my hair, I can send you to the cities where the alliances congregate.&lt;BR&gt;&lt;BR&gt;Meet with a recruiter in Velika, Allemantheia, or Kaiator. I'm sure they'd love to sell you on their power-hungry groups. Which alliance do you think you're interested in?</Page>
+    
+    </Text>
+    <Text huntingZoneId="151" id="4" prevId="2" villagerId="1003">
+         
+        <Page social="4">I gave you a scroll to Velika. Teleport there and ask Robenit your questions about the Free Traders Collective.</Page>
+    
+    </Text>
+    <Text huntingZoneId="151" id="5" prevId="2" villagerId="1003">
+         
+        <Page social="4">You have a scroll to Allemantheia. You can teleport there and ask Lasri about the Enlightened Union.</Page>
+    
+    </Text>
+    <Text huntingZoneId="151" id="6" prevId="2" villagerId="1003">
+         
+        <Page social="4">Use the teleport scroll to Kaiator and ask Donnelly about the Iron Order.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="7" prevId="3" villagerId="220044">
+         
+        <Page social="4">Are you interested in an alliance?&lt;BR&gt;&lt;BR&gt;Guild masters can join an alliance right away and the entire guild benefits. Guild members can only ask the guild master to make a good choice.&lt;BR&gt;&lt;BR&gt;Do you have a preference? I'm sure your guild master will appreciate knowing that information.</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="8" prevId="3" villagerId="220046">
+         
+        <Page social="4">Oh, you are interested in joining an alliance?&lt;BR&gt;&lt;BR&gt; I can sign up guild masters right away. But guild members should discuss their preference with their guild master. Any guild master will appreciate such good information.</Page>
+    
+    </Text>
+    <Text huntingZoneId="84" id="9" prevId="3" villagerId="220045">
+         
+        <Page social="4">Interested in joining an alliance?&lt;BR&gt;&lt;BR&gt;Only guild masters can join right away. For guild members, I suggest you talk to your guild master about which to join.</Page>
+    
+    </Text>
+</QuestDialog>

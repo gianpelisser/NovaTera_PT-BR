@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="15" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1600">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1600">
+        <Page social="4">Hey-hey-heeeeeeey! It's nice to see you so often! You came for another reward? He he, and I already have some new info! A power of an incomprehensible nature has begun to emanate from the Necromancer's Tomb. The adventurers passing by are sometimes losing consciousness and, according to tales, they see unusual dreams, where some old man tells them the secrets of existence itself and the mysteries of the origin of magic. I have little faith in it, but it's an unusual case, and it probably involves a rune of some kind. However, I haven't found any descriptions similar to what's going on in the tomb. You should go there, and if you find anything, bring it to me, and we'll figure out what we're dealing with.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1600">
+        <Page social="4">I've been so tired of waiting that I was on the verge of going after you by myself! It turns out that the ancient rune book I found in Velika's library was missing a page. I decided to go back there and look for a better one. I peeked under the closet, and there it was. The unknown rune, it turned out, was Kenaz, the rune of knowledge. That's why the adventurers saw the old man in their dreams, trying to tell them something! You've done a fine job, you've earned it!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="1600">
+        <Page social="0">We have to go back to that library, again, maybe there's something left ...</Page>
+    </Text>
+</QuestDialog>

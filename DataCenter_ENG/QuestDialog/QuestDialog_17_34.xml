@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="17" id="34" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="217" id="100" prevId="0" villagerId="1013">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="217" id="2" prevId="0" villagerId="1013">
+         
+        <Page social="5">Hmm. Bad, this ledger business. Not sure who to trust. Just you and Puran. He's the commander at Gloomy Outpost. Smart. He'll have a plan. Take the ledger there. Don't tell anyone else. And move fast! Too long and they'll find out we have it!</Page>
+    
+    </Text>
+    <Text huntingZoneId="217" id="3" prevId="2" villagerId="1023">
+         
+        <Page social="5">A transport ledger? One of mine? Ah!&lt;BR&gt;&lt;BR&gt;Keep my ledgers in a strongbox here. Only other person with a key is Quartermaster Licinza. Hmm. Wonder why Licinza would do it?</Page>
+    
+    </Text>
+</QuestDialog>

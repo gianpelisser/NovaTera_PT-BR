@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="20" id="3" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="220" id="100" prevId="0" villagerId="1039">
+         
+        <Page social="0">Justicars ordenou que você matasse o fornecedor de armas escondido nas Minas Tenebrosas.&lt;BR&gt;&lt;BR&gt;Você perseguiu a figura encapuzada, mas quando o pegou, uma energia hipnótica permeou a sala e você lutou! Antes que você pudesse acabar com o Capuz Negro, Jelena interveio e você descobriu que o Capuz Negro era nada mais nada menos que um Elleon hipnotizado.&lt;BR&gt;&lt;BR&gt;A base de suprimentos nas Minas Tenebrosas era um ardil elaborado para matar Elleon, e você deveria fazer a ação sombria.&lt;BR&gt;&lt;BR&gt;Em Velika, você foi castigado por Samael, que claramente queria Elleon morto.</Page>
+    
+    </Text>
+    <Text huntingZoneId="220" id="2" prevId="0" villagerId="1039">
+         
+        <Page social="4">Agora que temos as armas, temos que cortar a fonte. Ouvimos falar de alguém que chamam de Black Hood, um infame contrabandista de armas. Eu o localizei enquanto você estava fora. Se você passar pelo &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7003#-30657.6289,-34483.0313,-1932.3782&amp;type=1&amp;name=Door of Dimension"&gt;teleportal&lt;/A&gt;&lt;/font&gt; nos Salões de Utterdark, você o encontrará.&lt;BR&gt;&lt;BR&gt;Mate o Capuz Negro e apresente-se a {@LinkCreature:65#1100#Bruke} em Chebika quando o feito estiver concluído.&lt;NEXTPAGEBUTTON&gt;"Como ordenado."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="8">Ouça com atenção, &lt;PCNAME&gt;. Acima de tudo, a qualquer custo, você deve matar o Capuz Negro - não importa quem seja. Eles são uma ameaça para a federação. Se Samael não estivesse nos protegendo, eles provavelmente teriam metade de nossos inimigos acampados fora dos portões de Velika.&lt;BR&gt;&lt;BR&gt;Faça seu dever. Acabem com o Capuz Negro!</Page>
+    
+    </Text>
+    <Text huntingZoneId="421" id="3" prevId="2" villagerId="1002">
+         
+        <Page social="4">Era uma armadilha! Droga! Mais uma aposta perdida para Jelena.&lt;BR&gt;&lt;BR&gt;Vamos fazer o seguinte. Faça um relatório e diga a eles que o Capuz Negro fugiu. Não deixe transparecer que você sabe quem eu sou. Vamos ver como eles reagem, qual é o próximo passo deles.&lt;BR&gt;&lt;BR&gt;Nós nos encontraremos novamente em Velika.</Page>
+    
+    </Text>
+    <Text huntingZoneId="65" id="4" prevId="3" villagerId="1100">
+         
+        <Page social="4">O quê? Errou?! Você errou e ele fugiu? Como? Por que não está gravemente ferido? &lt;BR&gt;&lt;BR&gt;Agora você conseguiu. O General Samael terá suas tripas como ligas.&lt;BR&gt;&lt;BR&gt;Vá embora daqui e informe ao general.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="5" prevId="4" villagerId="1137">
+         
+        <Page social="12">Ele não está morto?! O Lupus não deixou claro que precisávamos que você o matasse? Essa era a nossa oportunidade.&lt;NEXTPAGEBUTTON&gt;"Bem, eu destruí a base de suprimentos."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="12">Como se isso importasse. Como se isso importasse.&lt;BR&gt;&lt;BR&gt;Só... só saia daqui! Droga!</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="6" prevId="5" villagerId="1166">
+         
+        <Page social="4">Ele estava com raiva, não estava? Apesar de você ter destruído toda a base de suprimentos, como era? &lt;BR&gt;&lt;BR&gt;Então, é como eu pensava. Ele estava me mirando. A "base de suprimentos" era um ardil!&lt;BR&gt;&lt;BR&gt;Isso significa que estamos no caminho certo. Samael está protegendo os Scions of Lok - mas por quê? &lt;NEXTPAGEBUTTON&gt;"Talvez ele tenha sido subornado?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Duvidoso. Samael é um bruto, mas se considera honrado. Ele nunca aceitaria um suborno, mas isso não significa que não esteja ganhando alguma coisa com o acordo.&lt;BR&gt;&lt;BR&gt;Precisamos de provas, se quisermos chegar ao fundo da questão. A investigação continuará, mas com cautela. As suspeitas de Samael não serão facilmente dissipadas no futuro.</Page>
+    
+    </Text>
+</QuestDialog>

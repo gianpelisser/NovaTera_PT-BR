@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="492" id="1002" voiceTypeId="0">
+    <Text id="1" endSocial="0">
+         
+        <Page social="0">(This teleportal will exit the instance and take you to the &lt;font color='#0000FF'&gt;Depths of Corruption&lt;/font&gt; in the Temple of Dagon.)</Page>
+    
+    </Text>
+    <Text id="2" endSocial="0">
+         
+        <Page social="0">(The teleportal feels odd.)</Page>
+    
+    </Text>
+    <Text id="3" endSocial="0">
+         
+        <Page social="0">(Return by way of the teleportal.)&lt;TEXTBUTTON&gt;End quest.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Go to Depths of Corruption.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</VillagerDialog>

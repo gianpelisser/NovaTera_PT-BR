@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="182" id="12" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="814" id="100" prevId="0" villagerId="2106">
+         
+        <Page social="0">Roubadas todas as evidências bem na frente do sucesso, &lt;PCNAME&gt; e os aliados não puderam deixar de se sentir abandonados.&lt;BR&gt;Dougal aconselhou que os cidadãos da Highwatch soubessem o que aconteceu no Vault of Oriyn.</Page>
+    
+    </Text>
+    <Text huntingZoneId="814" id="2" prevId="0" villagerId="2106">
+         
+        <Page social="1">Rhodos está sob o domínio de uma "dor furiosa" neste momento. Não é provável que consigamos arrancar nada coerente dele por algum tempo.&lt;BR&gt;&lt;BR&gt;Vamos contar a Dougal o que aconteceu, e ele terá conselhos sobre o que fazer em seguida.&lt;NEXTPAGEBUTTON&gt;"Essa é uma ideia."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="183" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="1">Isso não faz o menor sentido! Madat estava nos ajudando a entrar... na cidade...&lt;BR&gt;&lt;BR&gt;Demônios! Tudo isso nunca foi para romper o cerco! Dakuryon apenas nos usou para se aproximar de Verikam! &lt;BR&gt;&lt;BR&gt;Precisamos repensar todos os nossos planos...&lt;NEXTPAGEBUTTON&gt;"Ok."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</QuestDialog>

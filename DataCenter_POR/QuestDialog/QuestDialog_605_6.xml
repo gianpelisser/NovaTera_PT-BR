@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="605" id="6" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="63" id="100" prevId="0" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="2" prevId="0" villagerId="3003">
+         
+        <Page social="4">Você deve estar muito entediado. Quero dizer, há uma guerra em andamento e aqui está você conversando comigo.&lt;NEXTPAGEBUTTON&gt;"Sim..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Percebi isso no momento em que coloquei meus olhos em você. Apenas um &lt;PCCLASS:lcase&gt; entediado, preguiçoso e inútil. Heh.&lt;BR&gt;&lt;BR&gt;Vá pedir a {@LinkCreature:63#3002#Taratia} para jogar vinte perguntas com você.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="3002">
+         
+        <Page social="4">Hee-hee. Sim, estamos todos ficando um pouco loucos, não estamos? &lt;BR&gt;&lt;BR&gt;Vinte perguntas é possivelmente o melhor jogo de todos os tempos, mas eu preciso de materiais, e preciso que eles sejam entregues ontem para Santia na oficina.&lt;BR&gt;&lt;BR&gt;Então, outra hora?</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="4" prevId="2" villagerId="3002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="5" prevId="2" villagerId="3002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="6" prevId="3" villagerId="1098">
+         
+        <Page social="5">Essência solar. Você já se perguntou de onde vem esse material? Quero dizer, de verdade? Sim, eu também.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="7" villagerId="1098">
+         
+        <Page social="0">Na verdade, não é preciso viajar até o sol para obter a essência solar. Você sabe disso, certo?</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="8" prevId="3" villagerId="1098">
+         
+        <Page social="5">Obrigado, &lt;PCNAME&gt;. Taratia estava certa sobre você. Confiável, rápido e eficiente.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="9" villagerId="1098">
+         
+        <Page social="0">Foi você que Taratia enviou para me trazer minério de krymetal? Bem, onde ele está?</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="10" prevId="0" villagerId="3002">
+         
+        <Page social="4">Falando sério, um dia desses todos nós precisamos nos reunir para tomar um drinque e dar risada. Algum dia, quando tudo isso acabar, talvez.</Page>
+    
+    </Text>
+</QuestDialog>

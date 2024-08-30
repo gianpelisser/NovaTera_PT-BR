@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="34" id="94" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="83" id="100" prevId="0" villagerId="1004">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="83" id="2" prevId="0" villagerId="1004">
+         
+        <Page social="0">Como se nossos outros inimigos não fossem suficientes, os mugatos estão nos atacando. Mostre a eles o quanto essa escolha foi tola.&lt;BR&gt;&lt;BR&gt;Mata {@LinkCreature:34#900#mugatos da guarda-frontal} e seus {@LinkCreature:34#910#cubos}, e {@LinkCreature:34#920#patriotas da guarda-frontal}.&lt;BR&gt;&lt;BR&gt;Relate a Kahuere quando tiver concluído sua tarefa.</Page>
+    
+    </Text>
+    <Text huntingZoneId="234" id="3" prevId="2" villagerId="1004">
+         
+        <Page social="4">Os Mugato são demônios incômodos. São astutos e resistentes, mas não aprendem rápido.&lt;BR&gt;&lt;BR&gt;Oh, bem. Você lhes deu uma lição!</Page>
+    
+    </Text>
+    <Text huntingZoneId="234" id="4" villagerId="1004">
+         
+        <Page social="0">Precisamos interromper os ataques dos mugatos. Por favor, vá até lá e mostre a eles como pode ser um pesadelo lutar contra a federação!</Page>
+    
+    </Text>
+</QuestDialog>

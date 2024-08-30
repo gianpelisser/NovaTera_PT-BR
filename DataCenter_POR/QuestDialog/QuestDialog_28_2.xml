@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="2" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="70" id="100" prevId="0" villagerId="1013">
+         
+        <Page social="0">Blightwood foi o local onde Shakan matou Lok durante a Guerra Divina. O sangue de Lok manchou a floresta e liberou incontáveis espíritos furiosos.&lt;BR&gt;&lt;BR&gt;O Mysterium construiu um agente de melhoria que você usou para afastar a desolação.&lt;BR&gt;&lt;BR&gt;Você recuperou o Bracelete de Thulsa - uma relíquia que poderia amplificar a energia de Lok - do terrível fantasma Gaist, mas não poderia usá-lo sem o poder de Shakan.</Page>
+    
+    </Text>
+    <Text huntingZoneId="70" id="2" prevId="0" villagerId="1013">
+         
+        <Page social="5">Antes da Guerra Divina, Blightwood era um reino de beleza assombrosa. Então Shakan matou Lok e destruiu a antiga floresta.&lt;BR&gt;&lt;BR&gt;O Mysterium tem um plano para reverter os danos, mas precisa de sua ajuda. Fale com Gwahre em Tria. Ele é um sacerdote rabugento, mas brilhante.</Page>
+    
+    </Text>
+    <Text huntingZoneId="70" id="3" prevId="2" villagerId="1027">
+         
+        <Page social="5">Já estava na hora! Suponho que Raeren acha que podemos esperar pela morte térmica do universo! &lt;BR&gt;&lt;BR&gt;Agora, qual a melhor maneira de utilizá-lo? Você sabe muito sobre a história de Blightwood? Alguma coisa? &lt;NEXTPAGEBUTTON&gt;"Sei um pouco."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="5">Quando Shakan despedaçou Lok, a carne e o sangue de Lok mancharam a floresta.&lt;BR&gt;&lt;BR&gt;O Mysterium estudou isso extensivamente e acreditamos ter uma solução, mas ela requer a ajuda de soldados.&lt;NEXTPAGEBUTTON&gt;"Como posso ajudar?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="5">Nossos pesquisadores estão tentando purificar a floresta, mas os {@LinkCreature:28#1021#thorny timberwolves} atacam constantemente. Eles nem sempre foram tão agressivos, mas como a maioria das coisas por aqui, foram contaminados.&lt;BR&gt;&lt;BR&gt;Caça-os para que os arcanistas possam continuar seu trabalho.&lt;BR&gt;&lt;BR&gt;E volte logo. Há muito a ser feito.</Page>
+    
+    </Text>
+    <Text huntingZoneId="70" id="4" prevId="3" villagerId="1027">
+         
+        <Page social="5">Excelente trabalho. Esse é um problema resolvido. Mas as mordidas dos lobos tendem a infectar, e há muitas vítimas. Por favor, vá até {@LinkCreature:228#1001#Camp Zakai} e fale com a Mysterium Inquisitor Anarie.&lt;BR&gt;&lt;BR&gt;A estrada para o acampamento está invadida por {@LinkCreature:28#2011#smokepaw timberwolves}, que foram expostos a uma fonte de contaminação ainda mais forte do que os lobos espinhosos. Acredito que seus dentes podem ser usados para criar uma cura para os trabalhadores doentes.&lt;BR&gt;&lt;BR&gt;Por favor, eliminem os {@LinkCreature:28#2011#smokepaw timberwolves} e levem seus dentes para Anarie.</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="5" prevId="4" villagerId="1001">
+         
+        <Page social="4">A consideração de Gwahre é apreciada, assim como seus esforços. As poções que faço com elas são surpreendentemente eficazes para evitar infecções.&lt;BR&gt;&lt;BR&gt;Tenho um lote pronto agora. Leve-o para Lasiren no Posto Avançado de Garbi. Ele é extremamente necessário!</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="6" villagerId="1001">
+         
+        <Page social="0">Eu poderia preparar mais da poção, mas não sem mais presas dos lobos da floresta de smokepaw. Se eu não conseguir manter os trabalhadores em segurança, minha missão será um fracasso.&lt;BR&gt;&lt;BR&gt;Você acha que poderia buscar um pouco?</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="7" prevId="5" villagerId="1014">
+         
+        <Page social="5">O remédio de Anarie é muito apreciado, assim como sua bondade. Poderíamos pensar que a contaminação diminuiria com o tempo, mas parece ser o contrário.&lt;BR&gt;&lt;BR&gt;De fato, cada vez mais nossos trabalhadores adoecem e agora os purificadores pararam de funcionar.&lt;NEXTPAGEBUTTON&gt;"Existe alguma maneira de ajudar?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="5">A única maneira é reiniciar os purificadores. Primeiro, porém, você precisará matar os {@LinkCreature:28#3051#tainted jalmaraks} ao sul. Depois de eliminá-los, reinicie os dispositivos. Eles devem começar a fazer diferença logo em seguida.</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="8" prevId="7" villagerId="1014">
+         
+        <Page social="5">Tenho outra tarefa para você.&lt;BR&gt;&lt;BR&gt;Quando a contaminação mata alguém aqui, essa pessoa geralmente retorna como um wraith. Como os mortos pelos wraiths também retornam como wraiths, cada batalha nos enfraquece e os fortalece. O wraith mais antigo e mais poderoso é {@LinkCreature:28#6000#Gaist}. Se Gaist fosse morto, poderíamos quebrar o ciclo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="9" prevId="8" villagerId="1014">
+         
+        <Page social="5">Você recuperou esse bracelete de Gaist? &lt;BR&gt;&lt;BR&gt;Ele está repleto de energia necromântica. Leve-o para Gwahre em Tria. Ele é muito versado em tais assuntos e saberá como proceder da melhor forma.</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="10" villagerId="1014">
+         
+        <Page social="0">Se não acabarmos com Gaist, os wraiths acabarão por nos dominar. Muitas vidas dependem dessa batalha, &lt;PCNAME&gt;. Você precisa matá-lo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="70" id="11" prevId="9" villagerId="1027">
+         
+        <Page social="5">O simples toque desse bracelete me enoja. Não é de Lok - é mais provável que as garras negras de Thulsa estejam por trás dele.&lt;BR&gt;&lt;BR&gt;Poderíamos voltar esse poder contra os wraiths e destruí-los para sempre, mas precisaríamos do poder de outro deus para acrescentar a ele.&lt;BR&gt;&lt;BR&gt;Erlon, no Bosque Eterno, é extremamente erudito sobre esses assuntos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="229" id="12" prevId="11" villagerId="1010">
+         
+        <Page social="5">Gwahre está falando de um amplificador necromântico. É interessante. A solução mais simples seria neutralizar a energia de Lok. O poder de Shakan seria uma boa solução, já que foi o Beastlord que matou Lok.&lt;BR&gt;&lt;BR&gt;Encontre Taleron no Posto Avançado de Dorana. Ele sabe muito sobre Shakan. Ele pode até mesmo ter um artefato em sua posse.&lt;BR&gt;&lt;BR&gt;Mova-se rapidamente, &lt;PCNAME&gt;. Esse bracelete é como um sinalizador para as forças das trevas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="229" id="13" prevId="12" villagerId="1012">
+         
+        <Page social="5">Há um método simples para fazer o que você pede, mas também há uma complicação. O altar de Shakan tem o poder necessário, mas está nas mãos de shurianos.&lt;BR&gt;&lt;BR&gt;Se você quiser usar o altar, terá que matar {@LinkCreature:29#7022#Artania} e {@LinkCreature:29#7021#Limcadus}. Isso deve provar seu valor para o Beastlord.&lt;BR&gt;&lt;BR&gt;Quando isso for feito, coloque o bracelete no altar e espere. Se você for digno, algo acontecerá.</Page>
+    
+    </Text>
+    <Text huntingZoneId="229" id="14" prevId="13" villagerId="1024">
+         
+        <Page social="5">(Você sente o ronco de um rugido subindo por sua espinha, embora a floresta permaneça em silêncio. O bracelete fica sem brilho e depois se desfaz em pó).</Page>
+    
+    </Text>
+    <Text huntingZoneId="229" id="15" prevId="14" villagerId="1012">
+         
+        <Page social="5">Funcionou? Esplêndido. Shakan não amava Thulsa, então essa oferenda deve tê-lo agradado.&lt;BR&gt;&lt;BR&gt;Deixe Gwahre saber que você resolveu esse problema e dê meus cumprimentos ao padre rabugento.</Page>
+    
+    </Text>
+    <Text huntingZoneId="70" id="16" prevId="15" villagerId="1027">
+         
+        <Page social="5">Você a destruiu? Esse bracelete era uma relíquia divina! Poderíamos ter descoberto inúmeros segredos! Bah! &lt;BR&gt;&lt;BR&gt;Bem, o que está feito está feito. Livrar a região dos wraiths provavelmente valeu a pena. Você nos serviu muito bem, &lt;PCNAME&gt;. O Mysterium tem uma dívida de gratidão para com você.</Page>
+    
+    </Text>
+</QuestDialog>

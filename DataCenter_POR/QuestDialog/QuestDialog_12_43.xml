@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="12" id="43" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="212" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="212" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="5">Ainda hoje, os cidadãos de nossa federação são comercializados como escravos nas Rain Cages. Não podemos deixar que o Sindicato Kazuur se apodere de nosso povo! &lt;BR&gt;&lt;BR&gt;Reúna seus aliados e ataque os saqueadores {@LinkCreature:12#17#Red Lash}. Eles são os executores do sindicato.</Page>
+    
+    </Text>
+    <Text huntingZoneId="212" id="3" prevId="2" villagerId="1004">
+         
+        <Page social="5">Com o fim da ameaça dos escravagistas e a interrupção dos piratas, a região pode começar a contribuir para o esforço de guerra.&lt;BR&gt;&lt;BR&gt;Nosso povo se sente mais seguro do que nunca desde o início da guerra. Eu sei que os nagas e gulas ainda estão por aí, mas vocês nos mostraram que eles não são inimigos imbatíveis.&lt;BR&gt;&lt;BR&gt;Nós podemos vencer essa coisa! A promessa da federação está mais firme do que nunca!</Page>
+    
+    </Text>
+</QuestDialog>

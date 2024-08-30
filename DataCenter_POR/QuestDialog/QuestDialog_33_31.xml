@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="33" id="31" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="233" id="100" prevId="0" villagerId="1004">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="233" id="2" prevId="0" villagerId="1004">
+         
+        <Page social="4">Como essas monstruosidades distorcidas se atrevem a se chamar "Guardas de Sangue" - isso me enoja.&lt;BR&gt;&lt;BR&gt;Cada vez que os vejo fingindo ser soldados de verdade, morro um pouco por dentro. Eles são monstros! &lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, mostre a eles como é um soldado de verdade. Persiga os {@LinkCreature:33#12#Lanceiros da Guarda Sangrenta} e os {@LinkCreature:33#62#Campeões} e pegue seus emblemas. Eles não merecem usá-los!</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="3" prevId="2" villagerId="1004">
+         
+        <Page social="4">Vou queimar cada um desses emblemas pessoalmente, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="4" villagerId="1004">
+         
+        <Page social="0">{Os lanceiros da Guarda Sangrenta e os campeões estão zombando de nós com esses emblemas. Você vai tolerar isso?</Page>
+    
+    </Text>
+</QuestDialog>

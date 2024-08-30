@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="27" id="34" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="227" id="100" prevId="0" villagerId="1024">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="227" id="2" prevId="0" villagerId="1024">
+         
+        <Page social="5">Thulsa's forces are heavily augmented by constructs. His command of dark magic is all but absolute, which means the fortress is incredibly durable. If we can control it, we'll have a powerful asset in the war against the argons.&lt;BR&gt;&lt;BR&gt;To weaken the legions, I want you to slay {@LinkCreature:27#4#eldritch sentinels}. Their fighting ability is considerable, so eliminating them is vital.</Page>
+    
+    </Text>
+    <Text huntingZoneId="227" id="3" prevId="2" villagerId="1024">
+         
+        <Page social="5">With the sentinels destroyed, we have a chance to break through their lines. You must excuse me. I must report this to Velnen!</Page>
+    
+    </Text>
+    <Text huntingZoneId="227" id="4" villagerId="1024">
+         
+        <Page social="0">Those sentinels stand in the way of our counterattack. They must be destroyed.</Page>
+    
+    </Text>
+</QuestDialog>

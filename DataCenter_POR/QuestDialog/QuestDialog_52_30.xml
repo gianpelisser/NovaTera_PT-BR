@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="30" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="252" id="100" prevId="0" villagerId="1018">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="252" id="2" prevId="0" villagerId="1018">
+         
+        <Page social="4">Já é ruim o suficiente que os lacaios de Thulsa nos apunhalem, mordam e arranhem. Será que eles têm que nos envenenar também? &lt;BR&gt;&lt;BR&gt;A raiz da lágrima é o melhor tratamento que podemos encontrar por aqui, mas eu sou um não-combatente. Nunca poderei chegar aos lugares onde ela cresce, não com o exército de Thulsa à espreita.&lt;BR&gt;&lt;BR&gt;Uma elite como você não teme Thulsa, aposto. Reúna um pouco de raiz-de-lágrima e eu farei um tratamento antitoxina para nossos soldados.</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="3" prevId="2" villagerId="1018">
+         
+        <Page social="4">Com isso, posso fazer tratamento suficiente para todos. Você faz com que pareça fácil, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="4" villagerId="1018">
+         
+        <Page social="0">Por favor, se apresse. Nossos soldados estão sofrendo com o veneno mortal que os soldados ressuscitados de Thulsa espalharam.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="123" id="5" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="123" id="100" prevId="0" villagerId="220020">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="123" id="2" prevId="0" villagerId="220020">
+         
+        <Page social="1">A energia Noctenium é uma fonte poderosa. Algumas funcionam bem para armaduras, outras para armas. Quanto mais tivermos, mais forte a Ordem de Ferro se tornará.&lt;BR&gt;&lt;BR&gt;Pode coletar energia de noctênio arúnico de fluxos de noctênio para o arsenal?</Page>
+    
+    </Text>
+    <Text huntingZoneId="123" id="3" prevId="2" villagerId="220020">
+         
+        <Page social="0">Isso energizará nossas forças!</Page>
+    
+    </Text>
+    <Text huntingZoneId="123" id="4" villagerId="220020">
+         
+        <Page social="0">Nossos ferreiros aguardam mais energia arúnica.</Page>
+    
+    </Text>
+</QuestDialog>

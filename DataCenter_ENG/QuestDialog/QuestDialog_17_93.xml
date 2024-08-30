@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="17" id="93" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="67" id="100" prevId="0" villagerId="1015">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="67" id="2" prevId="0" villagerId="1015">
+         
+        <Page social="5">We'll get our own back from Heavens Fall. Hunt them in the areas around Gloomy Outpost, and recover the supplies.&lt;BR&gt;&lt;BR&gt;Target the {@LinkCreature:17#300551#barrelhead harvesters}.</Page>
+    
+    </Text>
+    <Text huntingZoneId="217" id="3" prevId="2" villagerId="1009">
+         
+        <Page social="5">Thank you for bringing these supplies back, &lt;PCNAME&gt;. You've been great help.</Page>
+    
+    </Text>
+    <Text huntingZoneId="217" id="4" villagerId="1009">
+         
+        <Page social="0">You must recover the supplies no matter what. Good luck.</Page>
+    
+    </Text>
+</QuestDialog>

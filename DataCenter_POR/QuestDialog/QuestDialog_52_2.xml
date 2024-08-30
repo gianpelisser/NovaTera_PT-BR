@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="2" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">Elleon lhe deu informações vitais: uma maneira de entrar na Ebon Tower, a fortaleza de Thulsa. Mas o caminho de Elleon exigia uma chave especial: uma gema pertencente a Killian, o deus do terror. Elleon e Jelena o acompanharam até o Labyrinth of Terror, o lar de Killian. Elleon interceptou uma explosão de magia destinada a você - talvez ao custo da própria vida....</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">Caro &lt;PCNAME&gt;- parece que estaremos lutando lado a lado mais uma vez. Thulsa e Killian despertaram Kelsaik, mas você os impediu de obter o controle total.&lt;BR&gt;&lt;BR&gt;Kelsaik deve estar perto de Thulsa... o que é preocupante, mas nos dá uma oportunidade. Jelena e eu sabemos onde fica Thulsa: Vale of Spires, Lorcada.&lt;BR&gt;&lt;BR&gt;Vamos conversar pessoalmente. Vejo você na oficina do ferreiro.&lt;BR&gt;&lt;BR&gt;Sinceramente, Elleon</Page>
+    
+    </Text>
+    <Text huntingZoneId="411" id="3" prevId="2" villagerId="5002">
+         
+        <Page social="4">Faz tempo que não nos vemos, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Thulsa, Killian e agora Kelsaik. Temos o dom de atrair inimigos poderosos, não é mesmo? &lt;BR&gt;&lt;BR&gt;Já ouviu falar de uma antiga fortaleza chamada Torre de Ébano? &lt;BR&gt;&lt;BR&gt;Bem, Thulsa está lá... talvez Kelsaik também. Mas Thulsa deu a chave para apenas um visitante. Adivinhe quem é? &lt;NEXTPAGEBUTTON&gt;"Killian?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Exatamente! Precisamos da gema no cajado de Killian, ou não conseguiremos entrar na Torre de Ébano. E não vai me partir o coração tirar a gema do cadáver frio do Killian.&lt;BR&gt;&lt;BR&gt;Então, primeiro o Killian. Ele está no Labirinto do Terror.&lt;BR&gt;&lt;BR&gt;Mas antes de irmos, fale com Jelena. Ela preparou algo especial para nosso destino.</Page>
+    
+    </Text>
+    <Text huntingZoneId="79" id="4" prevId="3" villagerId="1103">
+         
+        <Page social="1">Uau, &lt;PCNAME&gt;, estou vendo um equipamento novo em você - e algumas cicatrizes novas. Que bom - combinam com você. &lt;BR&gt;&lt;BR&gt;Tome isto. É uma poção da vontade. O engenheiro Gaicus e eu a preparamos, e ele tem um estoque para o caso de você ficar sem.&lt;BR&gt;&lt;BR&gt;O Labirinto do Terror não é apenas um nome assustador. Se você entrar sem a poção, seu cérebro sairá pelos ouvidos! &lt;BR&gt;&lt;BR&gt;Vamos ao labirinto. Dez de ouro dizem que Elleon já está lá.</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="5" prevId="4" villagerId="1105">
+         
+        <Page social="1">Acabamos de romper o lacre e a Jelena foi a primeira a entrar. Vamos lá!</Page>
+    
+    </Text>
+    <Text huntingZoneId="476" id="6" prevId="5" villagerId="1019">
+         
+        <Page social="1">Não posso deixar Elleon morrer. Simplesmente não posso! &lt;BR&gt;&lt;BR&gt;Sei que Elleon gostaria que eu o deixasse e fosse com você, mas ele não está em posição de discutir. Mas estou me sentindo péssimo...&lt;NEXTPAGEBUTTON&gt;"Está tudo bem. Eu consigo fazer isso."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Eu sei que você sabe, &lt;PCNAME&gt;. Estarei de volta em Habere e quero todos os detalhes. Então, vá matar um deus!</Page>
+    
+    </Text>
+    <Text huntingZoneId="476" id="7" prevId="6" villagerId="1021">
+         
+        <Page social="1">Você extraiu a gema que o levará até a Ebon Tower.</Page>
+    
+    </Text>
+    <Text huntingZoneId="79" id="8" prevId="7" villagerId="1103">
+         
+        <Page social="1">Se você estiver vivo, então... sim! Sim! Sim! &lt;BR&gt;&lt;BR&gt;Elleon? Vivo, mas por um fio. Ainda assim, ele é Elleon, certo? Isso deve contar para alguma coisa.&lt;BR&gt;&lt;BR&gt;Elleon e eu estamos fora de serviço por enquanto, no entanto. Dêem nosso "melhor" para Kelsaik, sim?</Page>
+    
+    </Text>
+</QuestDialog>

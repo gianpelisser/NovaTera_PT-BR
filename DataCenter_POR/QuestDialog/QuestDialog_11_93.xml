@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="11" id="93" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="62" id="100" prevId="0" villagerId="1019">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="62" id="2" prevId="0" villagerId="1019">
+         
+        <Page social="0">Precisamos ferir os veteranos e líderes piratas.&lt;BR&gt;&lt;BR&gt;Eliminar os piratas do Red Lash no Freebooters' Roost e ao redor do escritório do Pirate Captain na Pirate Grotto.&lt;BR&gt;&lt;BR&gt;Derrube os {@LinkCreature:11#1001#Bosuns piratas do chicote vermelho}, {@LinkCreature:11#1002#swashbucklers}, {@LinkCreature:11#1009#reapers}, {@LinkCreature:11#1010#archers}, {@LinkCreature:11#1011#petty officers}, {@LinkCreature:11#2006#raiders}, {@LinkCreature:11#2008#buccaneers} e {@LinkCreature:11#4005#overseers}.&lt;BR&gt;&lt;BR&gt;Relacione-se com Matina quando a missão estiver concluída.</Page>
+    
+    </Text>
+    <Text huntingZoneId="211" id="3" prevId="2" villagerId="1013">
+         
+        <Page social="4">Muito bem, &lt;PCNAME&gt;. Continue com o bom trabalho.&lt;BR&gt;&lt;BR&gt;Vitória para Valkyon!</Page>
+    
+    </Text>
+    <Text huntingZoneId="211" id="4" villagerId="1013">
+         
+        <Page social="0">Eu o recompensarei se você me trouxer os tokens da repressão aos líderes dos piratas.</Page>
+    
+    </Text>
+</QuestDialog>

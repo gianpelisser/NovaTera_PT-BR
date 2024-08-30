@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="42" id="95" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="242" id="100" prevId="0" villagerId="1033">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="242" id="2" prevId="0" villagerId="1033">
+         
+        <Page social="42">Nós ferimos as nagas, mas não podemos diminuir a pressão.&lt;BR&gt;&lt;BR&gt;Enfrente os sobreviventes naga que guardam a galeria no terceiro andar do templo.&lt;BR&gt;&lt;BR&gt;Derrubem quantos {@LinkCreature:42#210#Dagonite crusaders}, {@LinkCreature:42#310#naga tridentars} e {@LinkCreature:42#330#guardians}, e {@LinkCreature:42#900#mekonari shamans}, {@LinkCreature:42#910#witches} e {@LinkCreature:42#1000#sentinels} forem necessários.&lt;BR&gt;&lt;BR&gt;Apresentem-se a {@LinkCreature:75#1016#Glasrinne} em Frontera quando terminarem de nadar em sangue.</Page>
+    
+    </Text>
+    <Text huntingZoneId="75" id="3" prevId="2" villagerId="1016">
+         
+        <Page social="0">As nagas estão mais fracas, graças a vocês. Mas ainda há muito o que fazer, e espero que você fique por aqui para ajudar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="75" id="4" villagerId="1016">
+         
+        <Page social="0">Eu nunca disse que seria fácil, mas o que você está fazendo está nos ajudando a permanecer vivos e a fazer o que viemos fazer aqui. Não pare agora.</Page>
+    
+    </Text>
+</QuestDialog>

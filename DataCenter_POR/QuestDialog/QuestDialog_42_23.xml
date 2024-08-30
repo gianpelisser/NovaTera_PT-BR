@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="42" id="23" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="242" id="100" prevId="0" villagerId="1037">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="242" id="2" prevId="0" villagerId="1037">
+         
+        <Page social="5">Precisamos urgentemente de antídotos aqui - as garras das nagas são venenosas e causam uma morte agonizante.&lt;BR&gt;&lt;BR&gt;Os fungos de que precisamos crescem nas profundezas do templo, mas as {@LinkCreature:42#500#chikas vigilantes} me impediram de ver a maioria deles.&lt;BR&gt;&lt;BR&gt;Agradeceria qualquer ajuda que você pudesse dar para diminuir um pouco o número delas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="3" prevId="2" villagerId="1037">
+         
+        <Page social="5">Obrigado a você. A coleta será mais rápida e fácil agora.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="37" id="25" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="237" id="100" prevId="0" villagerId="1012">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="237" id="2" prevId="0" villagerId="1012">
+         
+        <Page social="6">Foi aqui que os outros deuses aprisionaram Saleron no final da Guerra Divina. Enterrado vivo, basicamente, com apenas o que restou de seus outrora poderosos príons como companhia.&lt;BR&gt;&lt;BR&gt;A lição dessa pequena fábula é bastante óbvia, não? Não perca uma guerra com os deuses.&lt;BR&gt;&lt;BR&gt;A dor de Saleron, o problema de Saleron. Mas há um benefício colateral para nós: cogumelos misteriosos alimentados pelo sangue de Saleron que escorre pelas rochas. Peguem alguns para mim!</Page>
+    
+    </Text>
+    <Text huntingZoneId="237" id="3" prevId="2" villagerId="1012">
+         
+        <Page social="7">Um fungo que se alimenta do sangue de um deus.&lt;BR&gt;&lt;BR&gt;Tenho certeza de que o Mysterium pode fazer bom uso dele de alguma forma. É melhor não fazer muitas perguntas, não é?</Page>
+    
+    </Text>
+    <Text huntingZoneId="237" id="4" villagerId="1012">
+         
+        <Page social="0">Mais cogumelos, &lt;PCNAME&gt;!</Page>
+    
+    </Text>
+</QuestDialog>

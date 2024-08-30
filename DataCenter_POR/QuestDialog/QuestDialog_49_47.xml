@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="49" id="47" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="76" id="100" prevId="0" villagerId="1024">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="76" id="2" prevId="0" villagerId="1024">
+         
+        <Page social="4">Você feriu os argons, mas ainda não terminamos. Se a federação enviar um batalhão de tropas, precisaremos de mobilidade para usá-las com eficiência.&lt;BR&gt;&lt;BR&gt;Atingir os argons ao redor da Plataforma de Teletransporte Norte. Se recebermos reforços, não pretendo desperdiçar suas vidas em um local inseguro.</Page>
+    
+    </Text>
+    <Text huntingZoneId="76" id="3" prevId="2" villagerId="1034">
+         
+        <Page social="6">Ei &lt;PCNAME&gt;-espere um momento. Se você está indo para o {@Creature:249#1102} preciso de um favor.&lt;BR&gt;&lt;BR&gt;Há um tipo incomum de argonomorfo chamado ciclope zariik. Eles têm belas asas. Não há como não vê-las.&lt;BR&gt;&lt;BR&gt;Traga-me essas asas. Farei bom uso delas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="76" id="4" prevId="3" villagerId="1034">
+         
+        <Page social="6">O Mysterium paga bem por peças de argonomorfos. Eles esperam reverter o processo um dia.&lt;BR&gt;&lt;BR&gt;Uma meta digna... uma meta digna e bem paga.</Page>
+    
+    </Text>
+    <Text huntingZoneId="76" id="5" villagerId="1034">
+         
+        <Page social="0">Olhe, você os mataria protegendo a plataforma de teletransporte de qualquer maneira.&lt;BR&gt;&lt;BR&gt;Isso é apenas matar dois gulas com uma lança.</Page>
+    
+    </Text>
+    <Text huntingZoneId="76" id="6" prevId="4" villagerId="1024">
+         
+        <Page social="6">Fico feliz que você tenha voltado. Estou cansado de escrever cartas para famílias que nunca mais verão seus entes queridos novamente.&lt;BR&gt;&lt;BR&gt;Tudo bem. Você fez seu trabalho. Vamos para a próxima.</Page>
+    
+    </Text>
+</QuestDialog>

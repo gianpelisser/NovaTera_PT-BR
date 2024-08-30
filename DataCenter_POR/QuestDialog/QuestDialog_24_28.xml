@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="24" id="28" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="224" id="100" prevId="0" villagerId="1005">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="224" id="2" prevId="0" villagerId="1005">
+         
+        <Page social="5">Entre os kumases e as patrulhas, não tenho soldados de sobra. E agora tenho ordens para enviar ajuda ao Refúgio Sandwalker! Ainda bem que você está aqui.&lt;BR&gt;&lt;BR&gt;Vá para oeste pela estrada e apresente-se a {@LinkCreature:224#1009#Stadrian}.</Page>
+    
+    </Text>
+    <Text huntingZoneId="224" id="3" prevId="2" villagerId="1009">
+         
+        <Page social="5">Já não era sem tempo! Os últimos reforços que recebi foram três bibliotecários e um alfaiate - tão úteis vivos quanto mortos.&lt;BR&gt;&lt;BR&gt;Faremos bom uso de suas habilidades.</Page>
+    
+    </Text>
+</QuestDialog>

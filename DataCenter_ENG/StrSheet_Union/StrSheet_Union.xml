@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StrSheet_Union xmlns="https://vezel.dev/novadrop/dc/StrSheet_Union" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Union StrSheet_Union.xsd">
+    <String id="1" string="Free Traders Collective" />
+    <String id="2" string="Enlightened Union" />
+    <String id="3" string="Iron Order" />
+    <String id="11" string="An organization that uses noctenium as a means to financial prosperity." />
+    <String id="12" string="." />
+    <String id="13" string="An organization that studies noctenium for academic purposes." />
+    <String id="14" string="Enlightened Union employs superior diplomatic influence." />
+    <String id="15" string="An organization that uses noctenium to achieve superhuman strength." />
+    <String id="16" string="Iron Order provides superior physical advantages." />
+    <String id="400" string="Exarch" />
+    <String id="300" string="Commander" />
+    <String id="301" string="Adjunct Commander" />
+    <String id="302" string="Assault Commander" />
+    <String id="303" string="Defense Commander" />
+    <String id="200" string="Alliance Member" />
+    <String id="100" string="Alliance Cadet" />
+    <String id="1000" string="Echelons" />
+    <String id="1001" string="Echelon 1" />
+    <String id="1002" string="Echelon 2" />
+    <String id="1003" string="Echelon 3" />
+    <String id="1004" string="Echelon 4" />
+    <String id="1101" string="Exarch of {UnionName}: {CharName} [{GuildName}]" />
+    <String id="1102" string="{UnionName} Exarch: Election tournament" />
+    <String id="1103" string="Exarch's Term: {Data}" />
+    <String id="1104" string="Exarch Candidate Registration Period: {Data}" />
+    <String id="1105" string="Extractor Competition: {State}" />
+    <String id="1106" string="Alliance Guard: {State}" />
+    <String id="1107" string="Executor: {State}" />
+    <String id="1120" string="In progress" />
+    <String id="1121" string="Closed" />
+    <String id="1122" string="Surveillance in Progress" />
+    <String id="1123" string="In combat" />
+    <String id="1124" string="Safe" />
+    <String id="1125" string="Dead" />
+    <String id="1126" string="In Danger" />
+    <String id="1127" string="Not joined" />
+    <String id="1128" string="Contestants compete to control noctenium extractors in alliance territories." />
+    <String id="1130" string="Information about My Position" />
+    <String id="1131" string="Infiltration Beacon Area" />
+    <String id="1132" string="Alliance Conflict Starts: {Data}" />
+    <String id="10001" string="Access to vaults: Open" />
+    <String id="10002" string="Access to vaults: Closed" />
+    <String id="20001" string="Allocate Specialty Store" />
+    <String id="20002" string="Exarch's XP Boost" />
+    <String id="20003" string="Exarch's PvP Bolster" />
+    <String id="20004" string="Exarch's Fortitude" />
+    <String id="20005" string="Change Tax Rate" />
+    <String id="20006" string="Collect Taxes" />
+    <String id="20007" string="Install Infiltration Beacon" />
+    <String id="20008" string="Manufacture Stun Bomb" />
+    <String id="20009" string="Manufacture Landmine Bomb" />
+    <String id="20010" string="Manufacture Slow Bomb" />
+    <String id="20011" string="Manufacture Time Bomb" />
+    <String id="20012" string="Manufacture Flash Grenade" />
+    <String id="20013" string="Summon Guard" />
+    <String id="20014" string="Summon Wooden Fence" />
+    <String id="20015" string="Summon Weapon" />
+    <String id="20016" string="Commanding Shout" />
+    <String id="20017" string="Commander's Protection" />
+    <String id="20018" string="Commander's Wings" />
+    <String id="20019" string="Commander's Blessing" />
+    <String id="20020" string="Upgrade Enchanter" />
+    <String id="470301" string="Alliance Membership Conditions" />
+    <String id="470302" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;2 or more guild mates&lt;/font&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470303" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;2 or more guild mates&lt;/font&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470304" string="&lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;Gold cost:&lt;/font&gt; &lt;FONT color='#ffb033'&gt;1000&lt;/font&gt; &lt;img src='Gold_smalltoken'&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470305" string="&lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;Gold cost:&lt;/font&gt; &lt;FONT color='#ffb033'&gt;1000&lt;/font&gt; &lt;img src='Gold_smalltoken'&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470306" string="&lt;img src='icon_notice'&gt; &lt;FONT SIZE='18'&gt; To join the alliance, you must meet all requirements. &lt;/font&gt;" />
+    <String id="470307" string="Join Free Traders Collective" />
+    <String id="470308" string="Join Enlightened Union " />
+    <String id="470309" string="Join Iron Order" />
+    <String id="470311" string="Leave Alliance" />
+    <String id="470312" string="You will leave the alliance and become a non-Alliance Member.&lt;br&gt;All Guild Members become non-Alliance Members and cannot receive any benefits from any alliance. They can re-join alliances in {Hour} hour(s) and {Min} minute(s)." />
+    <String id="470313" string="Leave" />
+    <String id="470314" string="Cancel" />
+    <String id="470315" string="Exarch Candidate Requirements" />
+    <String id="470316" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;30 or more guild mates&lt;/font&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470317" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;30 or more guild mates&lt;/font&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470318" string="&lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;Gold cost:&lt;/font&gt; &lt;FONT color='#ffb033'&gt;1000&lt;/font&gt; &lt;img src='Gold_smalltoken'&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470319" string="&lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;Gold cost:&lt;/font&gt; &lt;FONT color='#ffb033'&gt;1000&lt;/font&gt; &lt;img src='Gold_smalltoken'&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470320" string="&lt;img src='icon_notice'&gt; &lt;FONT SIZE='18'&gt; To apply to be an Exarch candidate, you must meet all requirements. &lt;/font&gt;" />
+    <String id="470321" string="Register as Exarch Candidate" />
+    <String id="470322" string="Open Specialty Stores" />
+    <String id="470323" string="Allocate Specialty Stores to all villages ruled by alliances. 
+Alliance policy points will be deducted every hour. If you don't have enough alliance policy points, the allocation will be automatically canceled." />
+    <String id="470324" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;Allocate Specialty Store
+      Required Alliance Policy Points: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470325" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;Allocate Specialty Store
+      Required Alliance Policy Points: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470326" string="Allocate Specialty Store" />
+    <String id="470327" string="Cancel Specialty Store" />
+    <String id="470328" string="
+&lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;Cancel Specialty Store
+      Required Alliance Policy Points: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470329" string="
+&lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;Cancel Specialty Store
+      Required Alliance Policy Points: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470330" string="Upgrade Enchanter" />
+    <String id="470331" string="Increase alliance hall enchanter success rate for 1 hour.
+" />
+    <String id="470332" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;Silver Enchanter
+      Required Alliance Policy Points: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470333" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;Silver Enchanter
+      Required Alliance Policy Points: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470334" string="
+&lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;Gold Enchanter
+      Required Alliance Policy Points: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470335" string="
+&lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;Gold Enchanter
+      Required Alliance Policy Points: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470336" string="Silver Enchanter" />
+    <String id="470337" string="Gold Enchanter" />
+    <String id="470338" string="Bronze Enchanter" />
+    <String id="470339" string="
+&lt;img src='number3' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;Bronze Enchanter
+      Required Alliance Policy Points: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470340" string="
+&lt;img src='number3' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;Bronze Enchanter
+      Required Alliance Policy Points: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470341" string="Use Exarch’s Powers" />
+    <String id="470342" string="&lt;FONT SIZE='24' color='#cccccc'&gt;{SkillName} 
+ &lt;FONT SIZE='18' color='#cccccc'&gt;{SkillDesc} 
+
+ &lt;FONT SIZE='18' color='#80e71c'&gt;Required Points:{Point} 
+
+ &lt;FONT SIZE='24' color='#ff0000'&gt;{SkillName} will be used.
+
+&lt;FONT SIZE='18' color='#80e71c'&gt;Available alliance policy points:{Current} 
+Alliance policy points balance after using the required points:{Next}
+" />
+    <String id="470343" string="OK" />
+    <String id="470344" string="Cancel" />
+    <String id="470380" string="You can collect tax again in {CoolTime} hour(s)." />
+    <String id="470400" string="Personal Policy Points" />
+    <String id="470401" string="Alliance Policy Points" />
+    <String id="470402" string="Consumption Personal Policy Points" />
+    <String id="470403" string="Bonus Reward (Alliance)" />
+    <String id="470501" string="Keep your advantage for 30 seconds, and your defense will be successful." />
+    <String id="470502" string="You must now defend your alliance." />
+    <String id="470503" string="Be careful—you can now be invaded at any time." />
+    <String id="470504" string="Free Traders Collective Executor" />
+    <String id="470505" string="Enlightened Union Executor" />
+    <String id="470506" string="Iron Order Executor" />
+    <String id="470507" string="Test String 07" />
+    <String id="470508" string="Test String 08" />
+    <String id="470509" string="Test String 09" />
+    <String id="470510" string="Test String 10" />
+    <String id="470511" string="Test String 11" />
+    <String id="470512" string="Test String 12" />
+    <String id="470513" string="Test String 13" />
+    <String id="470514" string="Test String 14" />
+    <String id="470515" string="Test String 15" />
+    <String id="470516" string="Test String 16" />
+    <String id="470517" string="Test String 17" />
+    <String id="470518" string="Test String 18" />
+    <String id="470519" string="Test String 19" />
+    <String id="470520" string="Test String 20" />
+    <String id="470521" string="You have joined an alliance." />
+    <String id="470522" string="You have left an alliance." />
+    <String id="470523" string="A new alliance season has begun." />
+    <String id="470524" string="The alliance has a new exarch." />
+    <String id="470525" string="You are now a commander!" />
+    <String id="470526" string="Welcome to the echelon!" />
+    <String id="470527" string="You have been allotted time to enter the alliance vault." />
+    <String id="470528" string="You can enter the alliance vault." />
+    <String id="470529" string="You can no longer access the alliance vault." />
+    <String id="470530" string="You can register an alliance exarch candidate." />
+    <String id="470531" string="The competition over noctenium extractors has begun." />
+    <String id="470532" string="The competition over noctenium extractors has ended." />
+    <String id="470533" string="There are not enough noctenium extractors in the alliance territory." />
+    <String id="470534" string="Your alliance territory is being invaded." />
+    <String id="470535" string="Your alliance post is in danger." />
+    <String id="470536" string="The Executor is under attack." />
+    <String id="470537" string="The Executor has died. Exarch features are not available." />
+    <String id="470538" string="The Executor has died." />
+    <String id="470539" string="An alliance guard has died." />
+    <String id="470540" string="You feel the effect of Exarch's Fortitude." />
+    <String id="470541" string="You feel the effect of Exarch's XP Boost." />
+    <String id="470542" string="You feel the effect of Exarch's PvP Bolster." />
+    <String id="470543" string="Personal policy points have been provided." />
+    <String id="470544" string="Alliance activity funds have been provided." />
+    <String id="470545" string="You have collected all taxes levied for the alliance." />
+    <String id="470546" string="The alliance exarch has died." />
+    <String id="470547" string="You have defeated the alliance exarch." />
+    <String id="470548" string="You have become the alliance exarch." />
+    <String id="470549" string="Location where noctenium extractor was stolen from" />
+    <String id="470550" string="Your noctenium extractor has been disabled." />
+    <String id="470551" string="Alliance Activity Funds Provided" />
+    <String id="470552" string="Alliance" />
+    <String id="470553" string="Balance of Collected Tax" />
+    <String id="470554" string="Deliver remaining tax as the season has ended." />
+    <String id="470555" string="You acquired an extractor key." />
+    <String id="470601" string="A battle has begun at the post." />
+    <String id="470602" string="The enemy alliance's attack has begun." />
+    <String id="470603" string="A battle is taking place between different alliances." />
+    <String id="470604" string="Another alliance will participate in the attack." />
+    <String id="470605" string="Another alliance will participate in the attack." />
+    <String id="470606" string="Participate in the battle between different alliances that is taking place at the post." />
+    <String id="470607" string="Attack the enemy alliance successfully and take parts of its tax money." />
+    <String id="470608" string="You have won the defense quest." />
+    <String id="470609" string="Invasion Risk – Reduces the shield effect of your alliance executor for 1 hour." />
+    <String id="470610" string="Invasion Risk – Reduces the shield effect of your alliance executor for 1 hour." />
+    <String id="470611" string="You have driven away the invading enemy alliance and succeeded in defense." />
+    <String id="470701" string="In 5 minutes, PvP will be enabled in all alliance territories." />
+    <String id="470702" string="All enemy alliance members in the territory will be forcibly moved to the battle area in 1 minute." />
+    <String id="470703" string="Battle is about to commence in the alliance territory." />
+    <String id="470704" string="For the next 2 hours, PvP is possible in all areas of the alliance territory." />
+    <String id="470705" string="In 5 minutes, PvP will be disabled in all alliance territories." />
+    <String id="470706" string="In 1 minute, all enemy alliance members in the territory will be forcibly moved to the battle area." />
+    <String id="470707" string="PvP is currently disabled in alliance territories." />
+    <String id="470708" string="For the next 2 hours, PvP is impossible in all areas of the alliance territory." />
+    <String id="470712" string="5" />
+    <String id="470713" string="4" />
+    <String id="470714" string="3" />
+    <String id="470715" string="2" />
+    <String id="470716" string="1" />
+    <String id="470717" string="All enemy alliance members will be forcibly moved to the battle area." />
+    <String id="470718" string="Due to excessive PvP, point earning will be limited from now on." />
+    <String id="470719" string="Due to excessive PvP, point earning will be severely limited." />
+    <String id="470720" string="Due to excessive PvP, point earning will be extremely limited." />
+    <String id="470800" string="Our alliance is attacking the executor of the Free Traders Collective." />
+    <String id="470801" string="Our alliance is attacking the executor of the Enlightened Union." />
+    <String id="470802" string="Our alliance is attacking the executor of the Iron Order." />
+    <String id="470901" string="Free Traders Salvalith destroyed." />
+    <String id="470902" string="Enlightened Union Salvalith destroyed." />
+    <String id="470903" string="Iron Order Salvalith destroyed." />
+    <String id="470904" string="The Salvalith is nearly destroyed. The shield protecting Fort Tulufan drops." />
+    <String id="470905" string="The Salvalith is nearly destroyed. The shield protecting Fort Elenea drops." />
+    <String id="470906" string="The Salvalith is nearly destroyed. The shield protecting Fort Dragonfall drops." />
+    <String id="470907" string="Woe to the Free Traders Collective! Executor Adiar is dead!" />
+    <String id="470908" string="Woe to the Enlightened Union! Executor Derene is dead!" />
+    <String id="470909" string="Woe to the Iron Order! Executor Frateko is dead!" />
+    <String id="470910" string="The alliance conflict begins in 5 minutes." />
+    <String id="470911" string="The alliance conflict begins in 1 minute." />
+    <String id="470912" string="The alliance conflict begins in 10 seconds." />
+    <String id="470913" string="The alliance conflict has begun." />
+    <String id="470914" string="The alliance conflict ends in 5 minutes." />
+    <String id="470915" string="The alliance conflict ends in 1 minute." />
+    <String id="470916" string="The alliance conflict ends in 10 seconds." />
+    <String id="470917" string="The alliance conflict has ended." />
+    <String id="470918" string="The executor's aura around the enemy fort has disappeared." />
+    <String id="470919" string="You have achieved {killCount} consecutive kills or assists. " />
+    <String id="470920" string="{killerName} is ravaging the battlefield!" />
+    <String id="470921" string="{killerName} is dominating the battlefield!" />
+    <String id="470937" string="{killerName} cannot be stopped!" />
+    <String id="470938" string="{killerName} has aced the alliance conflict!" />
+    <String id="470939" string="{killerName} is unbeatable!" />
+    <String id="480001" string="Salvalith Assault Position" />
+    <String id="470922" string="The Free Traders Salvalith is under attack." />
+    <String id="470923" string="The Enlightened Union Salvalith is under attack." />
+    <String id="470924" string="The Iron Order Salvalith is under attack." />
+    <String id="470925" string="The alliance conflict begins in 5 minutes." />
+    <String id="470926" string="The alliance conflict begins in 1 minute." />
+    <String id="470927" string="The alliance conflict begins in 10 seconds." />
+    <String id="470928" string="The alliance conflict has begun." />
+    <String id="470929" string="The alliance conflict ends in 5 minutes." />
+    <String id="470930" string="The alliance conflict ends in 1 minute." />
+    <String id="470931" string="The alliance conflict ends in 10 seconds." />
+    <String id="470932" string="The alliance conflict has ended." />
+    <String id="470933" string="The alliance conflict begins in 10 minutes." />
+    <String id="470934" string="The alliance conflict begins in 30 minutes." />
+    <String id="470935" string="The alliance conflict begins in 60 minutes." />
+    <String id="470936" string="The alliance conflict ends in 10 minutes." />
+    <String id="470405" string="Points" />
+</StrSheet_Union>

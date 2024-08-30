@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="2" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="71" id="100" prevId="0" villagerId="1101">
+         
+        <Page social="0">Para desbloquear o Templo de Balder, você e {@Creature:71#1114$$Rida} realizaram várias provas estabelecidas por {@Creature:230#1007$$$Lashinuk}, um baraka muito antigo. Depois, você e {@Creature:71#1114$$Rida} quebraram um dos selos de Seren ao redor do templo com a ajuda de {@Creature:230#1015$$Elsine}.</Page>
+    
+    </Text>
+    <Text huntingZoneId="71" id="2" prevId="0" villagerId="1101">
+         
+        <Page social="1">Agora é hora de você conhecer um dos Consos, o clã baraka que guarda {@Rgn:30001#Refúgio de Balder}.&lt;BR&gt;&lt;BR&gt;Acreditamos que eles estão aqui desde a queda do império dos gigantes - ou há mais tempo. Alguns, como seu líder Nandu, estavam morando aqui quando Lok e Thulsa mataram Balder.&lt;BR&gt;&lt;BR&gt;A ajuda dos Consos é indispensável, e você precisará da permissão deles.&lt;NEXTPAGEBUTTON&gt;"Como faço para obtê-la?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Parece que os deuses especificaram várias provas rituais para aqueles que desejam entrar no templo.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#1007$$Lashinuk} o encontrará no Campo Luz do Sol. Ele administrará sua primeira prova.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="3" prevId="2" villagerId="1007">
+         
+        <Page social="1">Você é o &lt;PCNAME&gt;? É uma honra conhecê-lo! Elsine me deu alguns pergaminhos de suas façanhas.&lt;BR&gt;&lt;BR&gt;Isso é tão emocionante! Meus amigos vão ficar com inveja por eu ter sido o primeiro a falar com você.&lt;BR&gt;&lt;BR&gt;Eu não saio muito. Você é o primeiro herói de guerra que conheço.&lt;NEXTPAGEBUTTON&gt;"Você tem um teste para mim?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Ah! Sim, é claro.&lt;BR&gt;&lt;BR&gt;Ahem... "Você, que busca o Sol, deve primeiro provar sua força contra um campeão de latão."&lt;BR&gt;&lt;BR&gt;Há um {@LinkCreature:30#2004#brass warden} por perto. É uma coisa mortal, mas tenho certeza de que você pode vencê-lo facilmente! Traga uma de suas engrenagens e então eu poderei revelar o próximo teste.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="4" prevId="3" villagerId="1007">
+         
+        <Page social="1">Viva! Uma coisa é praticar as falas de um ritual, outra coisa é vê-lo se desenrolar!&lt;BR&gt;&lt;BR&gt;Uma hora dessas eu lhe mostro o livro onde aprendi o ritual, escrito pelo próprio deus Balder em páginas de latão antes de morrer.&lt;BR&gt;&lt;BR&gt;Agora vamos à sua próxima prova.&lt;BR&gt;&lt;BR&gt;"Uma vez que a terra prove sua força, deixe o ar mostrar sua sabedoria."&lt;NEXTPAGEBUTTON&gt;"Ar? Você quer dizer Rida?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Sim, a princesa! Este julgamento é dela.&lt;BR&gt;&lt;BR&gt;Seren ajudou Balder a esconder e proteger o templo daqueles que abusariam de seu poder. Seren chamou Rida aqui, sabendo que um elin não seria enganado para abrir o templo para a pessoa errada.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#1081$$Rida} deve encontrar e descobrir a próxima parte do quebra-cabeça. Você tem permissão para ajudá-la... e ela pode precisar de ajuda.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="5" villagerId="1007">
+         
+        <Page social="0">Destrua a {@LinkCreature:30#2004#brass warden} e encontre uma de suas engrenagens. Eu estarei esperando.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="6" prevId="4" villagerId="1081">
+         
+        <Page social="1">Então é a minha vez, não é? Bem, eu sei para onde ir - eu vi esse lugar em minhas visões.&lt;BR&gt;&lt;BR&gt;Eu estava segurando a espada de Seren e ela me puxou para cá. Eu entrei na espada de alguma forma....&lt;BR&gt;&lt;BR&gt;Mas eu não tenho a espada. Não sei o que devo fazer.&lt;NEXTPAGEBUTTON&gt;"A resposta deve estar aqui."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Hmm. Provavelmente é um selo de dois lados. Terei que trabalhar na parte interna enquanto você abre a parte externa. Mas onde está o selo? &lt;BR&gt;&lt;BR&gt;Espere, algo está diferente.&lt;BR&gt;&lt;BR&gt;Esse espelho d'água não estava em minha visão.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="7" prevId="6" villagerId="1081">
+         
+        <Page social="1">Foi isso! Conseguimos...mas estou exausto.&lt;BR&gt;&lt;BR&gt;E acho que esse não foi o único selo. Vou procurar o próximo.&lt;BR&gt;&lt;BR&gt;Pergunte ao seu admirador Consos do que mais precisamos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="8" prevId="7" villagerId="1007">
+         
+        <Page social="1">Mais uma etapa do ritual está concluída. Nós sonhamos com esse dia! &lt;BR&gt;&lt;BR&gt;A princesa Rida é muito talentosa. Por serem mais espírito do que carne, os elins não costumam sonhar - nem mesmo as princesas.&lt;BR&gt;&lt;BR&gt;Oh, mas estou dando aula. Em seguida, você e Rida devem realizar uma cerimônia. Mas não aqui - nos arquivos. &lt;NEXTPAGEBUTTON&gt;"Arquivos?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Os arquivos são repositórios de sabedoria que guardam tábuas especiais, cada uma delas contendo vastas reservas de conhecimento.&lt;BR&gt;&lt;BR&gt;A tábua de que você precisa está em pedaços, escondida no Pavilhão de Balder.&lt;BR&gt;&lt;BR&gt;Encontre as partes e {@LinkCreature:230#1015$$Elsine} a montará para você. Boa sorte, herói da Terra!</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="9" prevId="8" villagerId="1015">
+         
+        <Page social="1">Fico feliz que isso tenha cabido a você, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Deixe-me ver as peças da tábua... notável! Basta encaixá-las... perfeito.&lt;BR&gt;&lt;BR&gt;Agora vou ler os pergaminhos de controle do repositório.&lt;BR&gt;&lt;BR&gt;Espere - eles estavam aqui!</Page>
+         
+        <Page social="1">O controle rola para o repositório. Ele não funcionará sem eles.&lt;BR&gt;&lt;BR&gt;Não posso acreditar nisso! A mochila foi aberta por essas malditas preguiças! Vim para ajudá-lo, &lt;PCNAME&gt;, mas, em vez disso, preciso de sua ajuda.&lt;BR&gt;&lt;BR&gt;Recupere meus pergaminhos de controle. Não vou chorar por nenhuma {@LinkCreature:30#130#preguiça forrageira} que você tenha que mutilar horrivelmente para fazer isso.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="10" villagerId="1015">
+         
+        <Page social="0">Embora eu esteja feliz em vê-lo, devemos adiar nosso reencontro até que você tenha os fragmentos do tablet, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="11" prevId="9" villagerId="1015">
+         
+        <Page social="1">Ah, você encontrou os pergaminhos! Eles estavam rasgados ou danificados? &lt;BR&gt;&lt;BR&gt;Estas tábuas estão codificadas de forma muito densa para serem lidas em voz alta. Mas elas deveriam abrir o repositório...&lt;BR&gt;&lt;BR&gt;Vamos tentar o seguinte: colocar os pergaminhos e a tábua diretamente no repositório, como se fossem chaves. Eu quero ver essa cerimônia!</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="12" villagerId="1015">
+         
+        <Page social="0">Não rasgue os pergaminhos. Eles levam uma eternidade para serem escritos.&lt;BR&gt;&lt;BR&gt;Faça o que quiser com as preguiças.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="13" prevId="11" villagerId="1015">
+         
+        <Page social="1">Agora vamos ler os pergaminhos que o repositório nos liberou.&lt;BR&gt;&lt;BR&gt;Hmm, grande parte do conteúdo é histórico.&lt;BR&gt;&lt;BR&gt;Os edifícios aqui eram do império dos gigantes. Balder os preservou do Dia do Fogo, quando os deuses lançaram aquele império em ruínas. Parece que o deus Lok construiu os edifícios e repositórios para Balder.&lt;BR&gt;&lt;BR&gt;Irônico, já que outro dispositivo de Lok matou Balder mais tarde.&lt;NEXTPAGEBUTTON&gt;"E a cerimônia?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Perdoe a curiosidade de um estudioso. &lt;BR&gt;&lt;BR&gt;Balder e os Consos construíram o templo, Seren colocou seus selos nele...aqui. Deve ser isso. "O Caminho da Purificação". Podemos fazer a cerimônia.&lt;BR&gt;&lt;BR&gt;Segure essa tábua! Os curiosos certamente precisarão dela novamente.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="45" id="35" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="245" id="100" prevId="0" villagerId="1029">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="245" id="2" prevId="0" villagerId="1029">
+         
+        <Page social="0">Preciso de uma amostra, um fragmento - qualquer coisa dos fragmentos da fortaleza de argons que caiu. Eles estão nos {@Rgn:45005$$Skyfields} perto da entrada desmoronada.&lt;BR&gt;&lt;BR&gt;Pode me poupar uma viagem, e provavelmente minha vida, e coletar um para mim? Mas mate os wendigos antes de chegar perto deles - eles protegerão os fragmentos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="245" id="3" prevId="2" villagerId="1029">
+         
+        <Page social="4">Não há como entrar na fortaleza, eu temo. Mas quanto mais soubermos sobre o que os argons estavam fazendo aqui, melhor.&lt;BR&gt;&lt;BR&gt;Felizmente, controlamos uma fortaleza muito mais funcional - as Três Torres.&lt;BR&gt;&lt;BR&gt;Tome este relatório e entregue-o a Borskan no Pathfinder Post. Obrigado por sua ajuda.</Page>
+    
+    </Text>
+    <Text huntingZoneId="77" id="4" prevId="3" villagerId="1009">
+         
+        <Page social="4">Entregue seu relatório a Ellisiana e siga suas instruções. Ainda há muito a aprender sobre esse suposto retiro de argons.</Page>
+    
+    </Text>
+    <Text huntingZoneId="77" id="5" prevId="4" villagerId="1011">
+         
+        <Page social="4">Esse relatório me preocupa. Ele levanta questões incômodas - possivelmente com respostas ainda mais incômodas.&lt;BR&gt;&lt;BR&gt;Precisamos saber por que os argons abandonaram essa região. Você nos ajudará?</Page>
+    
+    </Text>
+</QuestDialog>

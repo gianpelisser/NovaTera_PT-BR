@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="94" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="70" id="100" prevId="0" villagerId="1017">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="70" id="2" prevId="0" villagerId="1017">
+         
+        <Page social="0">Corrupted creature attacks are on the rise. To prevent the rise of more wraiths, kill {@LinkCreature:28#3031#blighted jalmaraks}, {@LinkCreature:28#3041#fallen wraiths}, {@LinkCreature:28#3051#tainted jalmaraks}, {@LinkCreature:28#1031#tumbling sporewalkers}, and {@LinkCreature:28#1041#corrupted mycanars}.&lt;BR&gt;&lt;BR&gt;Move quickly now, and report to Laneama when mission is complete.</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="3" prevId="2" villagerId="1004">
+         
+        <Page social="5">Your efforts are much appreciated. In fact, should you wish to earn more coin, I'm authorized to pay bounties on these creatures until further notice.</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="4" villagerId="1004">
+         
+        <Page social="0">It's a tall order, I realize, but until it's fulfilled, I can't compensate you.</Page>
+    
+    </Text>
+</QuestDialog>

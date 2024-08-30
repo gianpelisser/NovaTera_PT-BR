@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="13" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="213" id="100" prevId="0" villagerId="1018">
+         
+        <Page social="0">Prefect Riel ordered you to look into the whereabouts of the advance party. Upon arriving at the entrance to Tainted Gorge, you met with Scout Phaedra and learned that the advance party is safe and sound. Phaedra then said you should go to the Tainted Gorge Outpost to receive new assignments from Sersine.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="2" prevId="0" villagerId="1018">
+         
+        <Page social="4">Head down into the gorge, &lt;PCNAME&gt;, but keep an eye out for Phaedra. She's my best infiltrator, and she should be somewhere where she can monitor the roads.&lt;BR&gt;&lt;BR&gt;Whatever the enemy's up to, she'll probably know it. Good luck and take the field!</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="3" prevId="2" villagerId="1005">
+         
+        <Page social="4">What'd they do? Rip you out of training? Oh. They did?&lt;BR&gt;&lt;BR&gt;Well, let me give you the gold piece tour. This is enemy territory, and there's a lot of them. Demons of every shape and size. They seem to be searching for something, but I don't know what.&lt;BR&gt;&lt;BR&gt;Head west. You'll see a small outpost at the base of the hill. Talk to Sersine and do what you can for her!</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="4" prevId="3" villagerId="1025">
+         
+        <Page social="4">We're grateful for any assistance, of course.&lt;BR&gt;&lt;BR&gt;The demons and their allies are indeed hunting for something—and are a bit further along than we are. They know what they're after.&lt;BR&gt;&lt;BR&gt;Perhaps it's time we disrupted their plans....</Page>
+    
+    </Text>
+</QuestDialog>

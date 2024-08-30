@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="27" id="23" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="227" id="100" prevId="0" villagerId="1018">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="227" id="2" prevId="0" villagerId="1018">
+         
+        <Page social="5">Estamos lutando contra muitos golems, o que está causando a quebra de muitas armas. O reabastecimento é lento ou inexistente, por isso temos que pensar de forma criativa.&lt;BR&gt;&lt;BR&gt;Se vocês pudessem matar os {@LinkCreature:27#2#ancient bladegolems} e trazer seus restos para nós, poderíamos consertar ou reformar nosso equipamento. A noção de extrair força do enfraquecimento de nosso inimigo é definitivamente atraente.</Page>
+    
+    </Text>
+    <Text huntingZoneId="227" id="3" prevId="2" villagerId="1018">
+         
+        <Page social="5">Uma grande colheita. Nossos ferreiros ficarão encantados, assim como nossas tropas sobreviventes. Obrigado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="227" id="4" villagerId="1018">
+         
+        <Page social="0">São pequenas criaturas de metal. Você as destrói e coleta os restos. É muito ecologicamente correto.</Page>
+    
+    </Text>
+</QuestDialog>

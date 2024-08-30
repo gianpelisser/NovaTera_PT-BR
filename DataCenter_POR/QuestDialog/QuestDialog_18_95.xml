@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="18" id="95" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="218" id="100" prevId="0" villagerId="1009">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="218" id="2" prevId="0" villagerId="1009">
+         
+        <Page social="4">Os Lokianos estão de volta. E não me pergunte o que é "aquilo" - eu apenas sigo as ordens de Kardelen.&lt;BR&gt;&lt;BR&gt;Caça {@LinkCreature:18#19#Vanguardas Lokianas}, {@LinkCreature:18#20#Matadores Lokianos}, {@LinkCreature:18#21#Lavadores de Crânio Lokianos} e {@LinkCreature:18#113#Kaltrun da Perdição} Quebrem suas armas, para que conheçam a vergonha da derrota! &lt;BR&gt;&lt;BR&gt;Apresentem-se a Dorinne em Sietch Bidaum quando terminarem de cortar uma faixa sangrenta em suas fileiras.</Page>
+    
+    </Text>
+    <Text huntingZoneId="218" id="3" prevId="2" villagerId="1006">
+         
+        <Page social="4">Tantas armas quebradas... tantos Lokianos quebrados.</Page>
+    
+    </Text>
+    <Text huntingZoneId="218" id="4" villagerId="1006">
+         
+        <Page social="0">Você não tem medo dos lokianos, tem?</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1600">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1600">
+        <Page social="4">Hello, hello! I see you're eager to explore something again. Let me look in my notes. Well, well, well ... (Reading: Recently found out where to find a recipe for happiness ...) ... what is it? I don't remember writing this ... (reads: Argon Corpus.) ... That's all, no more information! It's strange ... It's not my handwriting ... I hate to send you off into the unknown, but if you check this place out, it wouldn't be bad ...</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1600">
+        <Page social="4">You came back alive, which means it wasn't some kind of a trap. What did you find in there? Wow, those really are shards of a new rune! Well done, thank you! But who left that note ... Oh, right, here's your reward!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="1600">
+        <Page social="0">Strange record ... Some kind of weird happiness recipe ... I hope everything will be okay ...</Page>
+    </Text>
+</QuestDialog>

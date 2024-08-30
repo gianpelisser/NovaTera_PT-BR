@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="18" id="24" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="218" id="100" prevId="0" villagerId="1003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="218" id="2" prevId="0" villagerId="1003">
+         
+        <Page social="4">Recebemos informações sobre {@LinkCreature:18#103#Kudarsh}, o líder fugitivo dos ladrões que cometeram atrocidades ao redor de Tulufan. O informante é um dos kulkaris e, de acordo com ele, Kudarsh está escondido em Mags Kuchanaru.&lt;BR&gt;&lt;BR&gt;Diga, suponho que não esteja procurando algo para fazer esta noite?</Page>
+    
+    </Text>
+    <Text huntingZoneId="218" id="3" prevId="2" villagerId="1003">
+         
+        <Page social="4">Já está pronto, não é? Excelente. Isso deve manter os outros afastados por um tempo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="218" id="4" villagerId="1003">
+         
+        <Page social="0">Não está interessado em dinheiro? Bem, e quanto à sua vida? &lt;BR&gt;&lt;BR&gt;Não, não estou ameaçando-o. Se Kudarsh continuar sendo o líder, eles estarão por toda parte. Rapidamente.</Page>
+    
+    </Text>
+</QuestDialog>

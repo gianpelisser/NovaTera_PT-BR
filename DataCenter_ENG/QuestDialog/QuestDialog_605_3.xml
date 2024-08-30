@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="605" id="3" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="63" id="100" prevId="0" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="2" prevId="0" villagerId="3003">
+         
+        <Page social="4">Have some time on your hands, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"As a matter of fact, I do."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">{@LinkCreature:63#3002#Taratia} needs a hand. Poor thing only has two—as she keeps telling me. What I wouldn't give for a trained cephalopod.&lt;BR&gt;&lt;BR&gt;Anyway, I'm sure she can put your idle hands to work.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="3002">
+         
+        <Page social="4">Did {@LinkCreature:63#3003#Elthienne} tell you I couldn't handle this on my own? She has some nerve. I'll show her what I'm made of, she'll see...&lt;BR&gt;&lt;BR&gt;Sorry. I'm a little on edge today. I have a "friend" visiting from out of town.&lt;BR&gt;&lt;BR&gt;All right, well go to it then.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="4" prevId="2" villagerId="3002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="5" prevId="2" villagerId="3002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="6" prevId="2" villagerId="3002">
+         
+        <Page social="5">Thanks, friend.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} has a little something for your trouble.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="7" villagerId="3002">
+         
+        <Page social="0">Where’s the shetla fiber I asked you to get? This is making me look bad, you realize.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="8" prevId="6" villagerId="3002">
+         
+        <Page social="5">Ah, this is high quality rough hide. Nice work.&lt;BR&gt;&lt;BR&gt;You know the drill. {@LinkCreature:63#3003#Elthienne} holds the key to the treasury.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="9" villagerId="3002">
+         
+        <Page social="0">Did you get the rough hide? My hide will be rough if you don't get a move on.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="10" prevId="8" villagerId="3003">
+         
+        <Page social="4">Thanks, &lt;PCNAME&gt;! Taratia has you to thank for her continued employment.</Page>
+    
+    </Text>
+</QuestDialog>

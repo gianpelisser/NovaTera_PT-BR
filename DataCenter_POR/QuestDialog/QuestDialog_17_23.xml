@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="17" id="23" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="217" id="100" prevId="0" villagerId="1007">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="217" id="2" prevId="0" villagerId="1007">
+         
+        <Page social="4">Estou morrendo de fome aqui, sabe? Deveria ter comida a cada duas semanas, mas você sabe como é. &lt;BR&gt;&lt;BR&gt;Ouça, você tem algum minério de linhito? Não posso consertar armas ou armaduras sem ele. Eu lhe pagarei acima do preço de mercado!</Page>
+    
+    </Text>
+    <Text huntingZoneId="217" id="3" prevId="2" villagerId="1007">
+         
+        <Page social="4">Oh, isso é o suficiente para nos ajudar até que os suprimentos cheguem. A última carga nem chegou a aparecer! Mais uma vez, obrigado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="217" id="4" villagerId="1007">
+         
+        <Page social="0">Já existe algum minério de linmetal? Vou enlouquecer se o buraco nas grevas de Cafnil ficar ainda maior!</Page>
+    
+    </Text>
+</QuestDialog>

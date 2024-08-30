@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="37" id="21" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="74" id="100" prevId="0" villagerId="1010">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="74" id="2" prevId="0" villagerId="1010">
+         
+        <Page social="10">Why isn't he here? I know these tunnels go on forever, but that doesn't mean I can wait forever!&lt;BR&gt;&lt;BR&gt;&lt;PCCLASS&gt;, if you're not busy, can you go to the crypt and check on Eudon?&lt;BR&gt;&lt;BR&gt;Oldest story in the world. Guy gets sent to deliver rations to the scouts in the crypt, but doesn't come back on schedule.&lt;BR&gt;&lt;BR&gt;And on your way, make sure something bad happens to the hellhounds wandering around. Hard to do your duty when the endless baying prevents an honest sleep!</Page>
+    
+    </Text>
+    <Text huntingZoneId="237" id="3" prevId="2" villagerId="1032">
+         
+        <Page social="20">You're from Elenea, &lt;PCCLASS:lcase&gt;?&lt;BR&gt;&lt;BR&gt;Yeah, yeah, I know I'm overdue.&lt;BR&gt;&lt;BR&gt;Is it so hard to fathom why I got lost?</Page>
+    
+    </Text>
+</QuestDialog>

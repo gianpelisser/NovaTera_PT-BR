@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="901" id="9" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">There's never been a "true hero" born. Soldiers rush into battle, and fate hands them a choice. The ones that make the right choice, they're the ones who get to be heroes.&lt;BR&gt;&lt;BR&gt;Onward to glory!</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="1256">
+         
+        <Page social="0">You did a hero's work out there, &lt;PCNAME&gt;. Allies and enemies alike are going to remember you for a long time.</Page>
+    
+    </Text>
+</QuestDialog>

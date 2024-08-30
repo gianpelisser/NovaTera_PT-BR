@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="24" id="39" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="224" id="100" prevId="0" villagerId="1024">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="224" id="2" prevId="0" villagerId="1024">
+         
+        <Page social="4">Elsine's work requires a lot of mana. It wouldn't have been a problem if we had cores, but they're almost impossible to find in places like this.&lt;BR&gt;&lt;BR&gt;The good news is that the Cultists near the ruins, such as the {@LinkCreature:24#17#eldritch masters} and {@LinkCreature:24#18#skullcleavers}, have mana. Of course, their mana is tainted with evil, but purifying it is easy. Bring me their mana orbs.&lt;BR&gt;&lt;BR&gt;Well, they're not exactly orbs, but hearts. Either way, bring them to me.</Page>
+    
+    </Text>
+    <Text huntingZoneId="224" id="3" prevId="2" villagerId="1024">
+         
+        <Page social="5">Thank you—that can't have been pleasant, but it needed to be done. Please take these hearts to Elsine now.</Page>
+    
+    </Text>
+    <Text huntingZoneId="224" id="4" villagerId="1024">
+         
+        <Page social="0">Did you collect those hearts? You still think you can do it, right?</Page>
+    
+    </Text>
+    <Text huntingZoneId="224" id="5" prevId="3" villagerId="1002">
+         
+        <Page social="4">Allow me to express my gratitude for your diligence. These are just what is required.</Page>
+    
+    </Text>
+</QuestDialog>

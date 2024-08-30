@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="49" id="33" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="76" id="100" prevId="0" villagerId="1023">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="76" id="2" prevId="0" villagerId="1023">
+         
+        <Page social="4">Nossos batedores relataram um novo tipo de argons perto do {@Rgn:49002}. Eles disseram que as criaturas comiam fragmentos de iteris, se é que você pode acreditar nisso.&lt;BR&gt;&lt;BR&gt;Vá até lá, mate algumas aves de rapina suulvir e traga todos os fragmentos que encontrar. Precisamos saber se os argons conseguem mudar os fragmentos por conta própria.</Page>
+    
+    </Text>
+    <Text huntingZoneId="76" id="3" prevId="2" villagerId="1023">
+         
+        <Page social="6">Intrigante. Posso sentir a diferença, mas não consigo explicá-la. Bah. Deixarei isso para nossos amigos de Mysterium.&lt;BR&gt;&lt;BR&gt;Eles não os estão usando contra nós e, por enquanto, isso é suficiente. Bom trabalho.</Page>
+    
+    </Text>
+    <Text huntingZoneId="76" id="4" villagerId="1023">
+         
+        <Page social="0">Os fragmentos de iteris são vitais para o esforço de guerra - nosso e deles. Mate algumas aves de rapina e me traga pelo menos três fragmentos para comparação.</Page>
+    
+    </Text>
+</QuestDialog>

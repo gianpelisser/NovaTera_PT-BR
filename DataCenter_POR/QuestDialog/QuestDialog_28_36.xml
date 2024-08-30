@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="36" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="228" id="100" prevId="0" villagerId="1016">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="228" id="2" prevId="0" villagerId="1016">
+         
+        <Page social="5">Os Scions of Lok ainda acreditam que podem ressuscitar seu senhor. Eles são tão leais que até sacrificam suas próprias vidas pela causa.&lt;BR&gt;&lt;BR&gt;Isso pode nos abrir um ramo de pesquisa particularmente terrível.&lt;BR&gt;&lt;BR&gt;Procurem por &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7011#34177,-11670,4572&amp;type=1&amp;name=Tooltip"&gt;corpos de Scion&lt;/A&gt;&lt;/font&gt; e recuperem-nos. Se os estudarmos, poderemos aprofundar nosso conhecimento sobre o próprio Lok. Naturalmente, compartilharemos todos os dados com a federação.</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="3" prevId="2" villagerId="1016">
+         
+        <Page social="12">Vamos dar uma olhada no que você encontrou. A boa notícia é que eles estão definitivamente mortos.&lt;BR&gt;&lt;BR&gt;Interessante. Os ossos não ficaram pretos, o que é um precursor para que o corpo se torne um espectro.&lt;BR&gt;&lt;BR&gt;Em vez disso, eles têm uma estranha coloração verde. Será que isso é um fenômeno natural? Algo mágico? Se pudermos reproduzir isso, talvez possamos evitar que outros se tornem wraiths!</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="4" villagerId="1016">
+         
+        <Page social="0">É um trabalho sujo, mas alguém tem que fazer isso. Vamos lá, não é tão ruim assim. Você só está recuperando alguns cadáveres.</Page>
+    
+    </Text>
+</QuestDialog>

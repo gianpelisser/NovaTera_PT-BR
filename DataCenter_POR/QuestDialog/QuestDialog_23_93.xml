@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="23" id="93" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="68" id="100" prevId="0" villagerId="1007">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="68" id="2" prevId="0" villagerId="1007">
+         
+        <Page social="5">O problema dos fangspawns persiste.&lt;BR&gt;&lt;BR&gt;Desta vez, suas ordens são para eliminar os {@LinkCreature:23#13#searing fangspawns} e coletar seus corações.&lt;BR&gt;&lt;BR&gt;Relate a Dainell quando tiver terminado a ação.</Page>
+    
+    </Text>
+    <Text huntingZoneId="223" id="3" prevId="2" villagerId="1005">
+         
+        <Page social="5">Você está ficando bom nisso. Talvez você deva seguir carreira militar!</Page>
+    
+    </Text>
+    <Text huntingZoneId="223" id="4" villagerId="1005">
+         
+        <Page social="0">Desculpe-me. Preciso ver os corações ardentes antes de poder distribuir o dinheiro da recompensa.</Page>
+    
+    </Text>
+</QuestDialog>

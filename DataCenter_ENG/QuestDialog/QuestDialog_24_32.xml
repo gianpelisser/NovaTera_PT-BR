@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="24" id="32" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="224" id="100" prevId="0" villagerId="1009">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="224" id="2" prevId="0" villagerId="1009">
+         
+        <Page social="5">One of my patrols hasn't reported back, and with all the dangers of the desert, who knows what's keeping them? Too many ways to die out there.&lt;BR&gt;&lt;BR&gt;Their route took them north. Head out and see if you can find any sign of them.</Page>
+    
+    </Text>
+    <Text huntingZoneId="224" id="3" prevId="2" villagerId="1026">
+         
+        <Page social="0">(This corpse is badly mutilated, as if mauled by a wild beast.)</Page>
+    
+    </Text>
+    <Text huntingZoneId="224" id="4" prevId="2" villagerId="1027">
+         
+        <Page social="0">(A deep stab wound splits this corpse's chest. It looks like the mark of an orcan blade.)</Page>
+    
+    </Text>
+    <Text huntingZoneId="224" id="5" prevId="2" villagerId="1028">
+         
+        <Page social="0">(Countless wounds cover this corpse.)</Page>
+    
+    </Text>
+    <Text huntingZoneId="224" id="6" prevId="2" villagerId="1029">
+         
+        <Page social="0">(This corpse looks untouched, but all of the waterskins nearby are empty.)</Page>
+    
+    </Text>
+    <Text huntingZoneId="224" id="7" prevId="3" villagerId="1009">
+         
+        <Page social="5">I hoped there'd be a few survivors at least. Damn!&lt;BR&gt;&lt;BR&gt;Thank you for recovering their medals. We must never forget our fallen comrades.&lt;BR&gt;&lt;BR&gt;I have one other soldier out there alone right now. Can you lend him a hand?&lt;BR&gt;&lt;BR&gt;Find Qasimir near the entrance of Sand Wind Village...if he's still there.</Page>
+    
+    </Text>
+    <Text huntingZoneId="224" id="8" prevId="7" villagerId="1014">
+         
+        <Page social="4">Dead? All of them? Blast. Stadrian must feel awful about their loss.&lt;BR&gt;&lt;BR&gt;That patrol was supposed to stop here and help against the kulkaris.&lt;BR&gt;&lt;BR&gt;Feel up to the challenge?</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="38" id="33" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="238" id="100" prevId="0" villagerId="1010">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="238" id="2" prevId="0" villagerId="1010">
+         
+        <Page social="6">I'm glad to hear Poihon's on his way. We can certainly use his expertise while he's here—we haven't nearly enough fortifications.&lt;BR&gt;&lt;BR&gt;What we do have are dracoloths, and a never-ending demand from the Mysterium for dracoloth hearts.&lt;BR&gt;&lt;BR&gt;They won't tell us what they do with them, but it's not lost on me that if they're useful, the giants used them too.&lt;BR&gt;&lt;BR&gt;Hunting dracoloths is hazardous work, but the gold's good. Interested? Head south to Barbtail Coulee.</Page>
+    
+    </Text>
+    <Text huntingZoneId="238" id="3" prevId="2" villagerId="1010">
+         
+        <Page social="6">Thank you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;The Mysterium will make good use of these I'm sure. What use that is, I couldn't say.</Page>
+    
+    </Text>
+    <Text huntingZoneId="238" id="4" villagerId="1010">
+         
+        <Page social="0">We need all of these we can get, but I can't pay for fewer than three.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="31" id="39" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="231" id="100" prevId="0" villagerId="1021">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="231" id="2" prevId="0" villagerId="1021">
+         
+        <Page social="9">I ran out of water, so I melted some snow and drank that. Now my stomach is killing me!&lt;BR&gt;&lt;BR&gt;I can hardly stand, let alone work. I've heard that wispy iceflowers are a good cure for stomachaches, but I can't go hunting for plants.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, if you see any, can you pick a few for me? They're very small, and they grow along the path toward the Maelstrom.</Page>
+    
+    </Text>
+    <Text huntingZoneId="231" id="3" prevId="2" villagerId="1021">
+         
+        <Page social="4">Oh thank you so much! I've been so miserable. I can't wait to make a tea from these wispy iceflowers and see if it helps.</Page>
+    
+    </Text>
+    <Text huntingZoneId="231" id="4" villagerId="1021">
+         
+        <Page social="0">It feels like there's an angry dragon in my stomach.</Page>
+    
+    </Text>
+</QuestDialog>

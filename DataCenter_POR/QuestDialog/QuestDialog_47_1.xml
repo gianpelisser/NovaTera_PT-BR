@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="47" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">Enquanto você discutia a guerra com Tamur, chegou um mensageiro com ordens para que você se apresentasse na Floresta Tirkai. Os argonss se retiraram recentemente, deixando para trás uma grande instalação de pesquisa e uma paisagem completamente transformada.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">Rascunho de Ordens:&lt;BR&gt;&lt;BR&gt;[Kaiator] Apresente-se ao Comandante Tamur para discutir estratégias para a Guerra de Argon.</Page>
+    
+    </Text>
+    <Text huntingZoneId="84" id="3" prevId="2" villagerId="1088">
+         
+        <Page social="4">Já faz algum tempo, &lt;PCNAME&gt;. Como você tem passado? O Comandante Tamur está esperando por você.</Page>
+    
+    </Text>
+    <Text huntingZoneId="528" id="4" prevId="3" villagerId="5005">
+         
+        <Page social="0">Bem-vindo, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;A federação está em dívida com você por ter destruído Thulsa. Mas uma ameaça muito pior são os argonss, agora que {@Rgn:47001$$Tirkai Forest} caiu nas mãos deles. &lt;NEXTPAGEBUTTON&gt;"Concordo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Quanto mais tempo demorar, menores serão nossas chances. Kaiator só está de pé por causa de Kaia, e nem mesmo ela pode afastá-los para sempre.&lt;BR&gt;&lt;BR&gt;Vamos discutir os próximos passos com meus ajudantes, certo?</Page>
+    
+    </Text>
+    <Text huntingZoneId="528" id="5" prevId="4" villagerId="5005">
+         
+        <Page social="4">Os argonss podem ter retirado suas principais forças de Tirkai, mas isso não significa que seja seguro recuperá-la. &lt;NEXTPAGEBUTTON&gt;"Certamente que não."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="10">Estou enviando você para Verge em {@Rgn:77001$$Pathfinder Post}. Ele saberá o que precisa ser feito. &lt;NEXTPAGEBUTTON&gt;"Estou a caminho."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Antes de partir, {@LinkCreature:528#5011$$Ukenul} tem um presente da federação para você.</Page>
+    
+    </Text>
+    <Text huntingZoneId="528" id="6" prevId="5" villagerId="5011">
+         
+        <Page social="0">Pelo serviço extraordinário, &lt;PCNAME&gt;. Sinto que em breve você terá motivos para fazer bom uso desse presente.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="7" prevId="6" villagerId="2001">
+         
+        <Page social="4">É uma honra, &lt;PCNAME&gt;. Faremos bom uso dessa coragem lendária, sem medo. &lt;BR&gt;&lt;BR&gt;{@LinkCreature:247#2002$$Yasring} na Floresta de Gelo Branco tem os detalhes.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="8" prevId="7" villagerId="2002">
+         
+        <Page social="8">Em um dia este lugar estava cheio de argons, no dia seguinte eles se foram. Mas o que eles deixaram para trás...&lt;BR&gt;&lt;BR&gt;Poderíamos estudá-lo por toda a vida, mas não temos esse tempo.&lt;NEXTPAGEBUTTON&gt;"Como posso ajudar?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Eles sujaram a terra, a água e até mesmo o ar. Consegue sentir o gosto do mal que há nele? Estou liderando os esforços de purificação e, para isso, preciso saber como eles contaminaram tudo.&lt;BR&gt;&lt;BR&gt;Traga-me alguns cogumelos contaminados. E a essência dessas criaturas argonificadas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="9" prevId="8" villagerId="2002">
+         
+        <Page social="0">Com eles, posso fazer alguns orbes de limpeza.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="10" villagerId="2002">
+         
+        <Page social="0">É uma questão de virar a contaminação contra si mesma...&lt;BR&gt;&lt;BR&gt;Não é fácil, mas...eficaz.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="11" prevId="9" villagerId="2002">
+         
+        <Page social="9">O Lago Tirkai é a principal fonte de água doce por aqui, e não é tão doce assim. Eu continuarei produzindo orbes - você os usará no que quer que esteja poluindo o lago. Depois, há mais uma tarefa....&lt;NEXTPAGEBUTTON&gt;"O que é isso?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Depois de dar uma olhada no lago, encontre Cheniel, o chefe das fadas. Vamos precisar de ajuda para consertar tudo o que os argonss arruinaram.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="12" prevId="11" villagerId="2005">
+         
+        <Page social="0">(Esse cadáver parece errado de alguma forma - não apenas morto, mas errado.)&lt;BR&gt;&lt;BR&gt;(Será que ele pode estar contaminando o lago? Usar um orbe deve lhe dizer).</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="13" prevId="11" villagerId="2006">
+         
+        <Page social="0">(Esse cadáver está de alguma forma contaminado. Ele pode estar afetando o lago. Talvez você deva usar um orbe nele).</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="14" prevId="11" villagerId="2007">
+         
+        <Page social="0">(Você usa um orbe para remover qualquer contaminação de argons do cadáver).</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="15" prevId="12" villagerId="2003">
+         
+        <Page social="8">O lago ficará limpo novamente? Se ao menos isso fosse suficiente. Nossas árvores da vida estão morrendo. Morreremos sem elas, e em breve.&lt;BR&gt;&lt;BR&gt;Mas talvez não tenha sido por acaso que Yasring o enviou agora, quando você pode ser capaz de ajudar.&lt;BR&gt;&lt;BR&gt;Se você estiver disposto, Shemi pode levá-lo até a árvore.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="16" prevId="15" villagerId="2004">
+         
+        <Page social="8">Não posso ir até lá, mas posso lhe mostrar. Olhe com atenção - eles estão certos...&lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7023#-14543, -27587, -943&amp;type=1&amp;name=there"&gt;&lt;/A&gt;&lt;/font&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="17" prevId="16" villagerId="2003">
+         
+        <Page social="8">Com as árvores restauradas, não estamos mais sob a sombra da morte.&lt;BR&gt;&lt;BR&gt;Rozaline na {@Rgn:47007$$Blightroar Research Station} acha que as fadas ajudarão a restaurar Tirkai.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="18" prevId="17" villagerId="1004">
+         
+        <Page social="8">Bom trabalho, &lt;PCNAME&gt;. Com as fadas ajudando a limpar a terra, em breve a corrupção do argons será coisa do passado.&lt;BR&gt;&lt;BR&gt;Relate para {@LinkCreature:247#2001$$Verge} no Pathfinder Post tudo o que você conseguiu fazer aqui.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="19" prevId="18" villagerId="2001">
+         
+        <Page social="4">As fadas foram salvas? Aposto que você participou disso, &lt;PCNAME&gt;. Yasring também vai querer saber sobre isso. Acho que ela foi para Thrallhold.</Page>
+    
+    </Text>
+</QuestDialog>

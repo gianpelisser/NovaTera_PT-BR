@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="26" id="33" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="226" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="226" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="5">I bought a map off a castanic who swore this fountain could restore my wife's health. So far, all I've gotten is thrashed by those wretched {@LinkCreature:26#4000#Patient Lithikumases}.&lt;BR&gt;&lt;BR&gt;I'm not a coward, nor weak, but I'm no match for them. If you can kill some of them, I'd probably be able to sneak past in the confusion and get the draught for my wife.</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="5">Don't look so surprised. I'm old and gray, not weak and feeble. You did well, my friend. I snuck past everyone and filled a skin with the water.&lt;BR&gt;&lt;BR&gt;Thank you. With luck, my wife may well be restored.</Page>
+    
+    </Text>
+</QuestDialog>

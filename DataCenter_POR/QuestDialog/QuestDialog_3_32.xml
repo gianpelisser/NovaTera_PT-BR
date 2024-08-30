@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="3" id="32" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="203" id="100" prevId="0" villagerId="1021">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="203" id="2" prevId="0" villagerId="1021">
+         
+        <Page social="4">Tenho uma suspeita incômoda de que os devas estão por trás do nosso problema com os mortos-vivos. Infelizmente, não tenho como provar.&lt;BR&gt;&lt;BR&gt;Timuron mencionou um &lt;font color='#660000'&gt;túmulo antigo&lt;/font&gt; onde ocorrem coisas misteriosas no Cemitério de Berzerad. Se eu estiver certo, nenhum revenant comum se esconde lá. Investigue o túmulo e mate todos os mortos-vivos que encontrar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="3" prevId="2" villagerId="1021">
+         
+        <Page social="4">Eu estava certo. Os devas criaram um espírito nexus, que atraiu as outras almas de volta da vida após a morte e as aprisionou em seus corpos ou infectou os espíritos da terra.&lt;BR&gt;&lt;BR&gt;Graças a você, isso não deve ser um grande problema no futuro.</Page>
+    
+    </Text>
+</QuestDialog>

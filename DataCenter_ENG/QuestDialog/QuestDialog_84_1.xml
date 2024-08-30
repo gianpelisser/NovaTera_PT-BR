@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="84" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">To all soldiers of the Valkyon Federation:&lt;BR&gt;&lt;BR&gt;In these dark times we have seen our greatness and our shortcomings. We have known the joys of victory and the bitterness of defeat.&lt;BR&gt;&lt;BR&gt;We are exhausted. We have seen our comrades and friends dying on the battlefield. We felt helpless and hopeless, but we rose up at the first opportunity.&lt;BR&gt;&lt;BR&gt;You have fought well and with dedication. You have shown the world the power of the Valkyon Federation.&lt;BR&gt;&lt;BR&gt;But the battle is not yet won. Join me, brothers and sisters! Together we will change history and send our enemies back to the world of dreams!&lt;BR&gt;&lt;BR&gt;I am awaiting you in Kaiator, with a gift.&lt;BR&gt;&lt;BR&gt;-Tamur</Page>
+    
+    </Text>
+    <Text huntingZoneId="84" id="3" prevId="2" villagerId="1088">
+         
+        <Page social="8">Welcome, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Tamur is waiting for you. Head to the command center.</Page>
+    
+    </Text>
+    <Text huntingZoneId="528" id="4" prevId="3" villagerId="5005">
+         
+        <Page social="4">Kaiator, as always, welcomes you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;I won't retain you any longer. Ukenul has something that will interest you.</Page>
+    
+    </Text>
+    <Text huntingZoneId="528" id="5" prevId="4" villagerId="5011">
+         
+        <Page social="4">I have prepared a unique set of equipment for a soldier of your level. At least, I hope so.&lt;BR&gt;&lt;BR&gt;If you don't like it, please, lie and say it's great.</Page>
+    
+    </Text>
+</QuestDialog>

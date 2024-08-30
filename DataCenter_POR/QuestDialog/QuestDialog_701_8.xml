@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="701" id="8" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="230" id="100" prevId="0" villagerId="7101">
+         
+        <Page social="0">Você entregou sorvetes de sarberry para os peregrinos do festival.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="2" prevId="0" villagerId="7101">
+         
+        <Page social="1">&lt;PCNAME&gt;, estou muito feliz por você estar aqui! Você tem tempo para me ajudar? &lt;NEXTPAGEBUTTON&gt;&amp;quot;O que você precisa?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Fiz todos esses sorvetes de sarberry para os peregrinos do festival, mas Luman está muito ocupado para entregá-los!&lt;BR&gt;&lt;BR&gt;Diga à minha assistente, Trilyn, que você os entregará. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Acho que tenho tempo.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="3" prevId="2" villagerId="7102">
+         
+        <Page social="4">Ah, &lt;PCNAME&gt;. Lilan o convenceu a ajudar novamente, pelo visto.&lt;BR&gt;&lt;BR&gt;Oh, bem, desde que você não se importe. Tenho ordens aqui para Morun... Tanith... e Hayden. Pegue este primeiro, pois é o que está esperando há mais tempo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="4" prevId="2" villagerId="7102">
+         
+        <Page social="4">Lembre-se de sorrir.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="5" prevId="2" villagerId="7102">
+         
+        <Page social="4">Lembre-se de sorrir.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="6" prevId="2" villagerId="7102">
+         
+        <Page social="4">Lembre-se de sorrir.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="7" prevId="3" villagerId="7103">
+         
+        <Page social="1">Então esse é o famoso gelo de sarberry? Ora, tem o mesmo gosto do verão!</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="8" prevId="3" villagerId="7104">
+         
+        <Page social="1">Ah, gelo de amora. A delícia gelada perfeita para um dia quente, você não acha?</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="9" prevId="3" villagerId="7105">
+         
+        <Page social="1">Ah, gelo de amora! Esse é o verdadeiro motivo pelo qual eu venho aqui, para ser sincero, mas, vamos manter isso entre nós.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="10" prevId="9" villagerId="7101">
+         
+        <Page social="4">Obrigado por me ajudar novamente, &lt;PCNAME&gt;! Você é o melhor de todos!</Page>
+    
+    </Text>
+</QuestDialog>

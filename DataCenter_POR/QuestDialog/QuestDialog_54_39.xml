@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="54" id="39" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="254" id="100" prevId="0" villagerId="1033">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="254" id="2" prevId="0" villagerId="1033">
+         
+        <Page social="4">Você acha que unicórnios e diabinhos vão melhorar? Ha!&lt;BR&gt;&lt;BR&gt;A névoa cai sobre todos os fey e deixa todos doentes. Agora os unicórnios da coroa da floresta e os diabinhos de Caprin expostos a muita névoa se voltam contra nós.&lt;BR&gt;&lt;BR&gt;Os arcanistas encontraram uma maneira de extrair a névoa deles? Não. Eu conheço o caminho - o caminho das armas.&lt;BR&gt;&lt;BR&gt;Devemos detê-los antes que se transformem em marionetes de argons como os tuwangis.</Page>
+    
+    </Text>
+    <Text huntingZoneId="254" id="3" prevId="2" villagerId="1033">
+         
+        <Page social="4">Você acha que os arcanistas nos agradecerão por termos coletado toda essa infecção para eles?</Page>
+    
+    </Text>
+    <Text huntingZoneId="254" id="4" villagerId="1033">
+         
+        <Page social="0">Você é fraco demais para lidar com os unicórnios da coroa da floresta e os diabinhos de Caprin? &lt;BR&gt;&lt;BR&gt;Então recrute alguns amigos para ajudar!</Page>
+    
+    </Text>
+</QuestDialog>

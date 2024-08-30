@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="31" id="21" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="73" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="73" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="4">Aqueles que sobreviveram à tempestade em Tempest Reach fugiram em todas as direções. Eles estão voltando agora, para reconstruir, mas não sei se serão bem-sucedidos. &lt;BR&gt;&lt;BR&gt;Toda a área está infestada de mortos-vivos e, mesmo em um dia agradável, tudo está congelado. E isso é só para começar.&lt;NEXTPAGEBUTTON&gt;"Ah?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Infelizmente, o povo de Acarum não tem ideia de onde virá o próximo ataque. Thulsa? A rebelião? O clima neste lugar de pesadelo? O ônus de acolher os refugiados foi a gota d'água. E aldeões como Arvo convenceram os outros a não ajudar.&lt;BR&gt;&lt;BR&gt;É triste, de fato. Por mais isolado que esteja aqui, o povo de Acarum sempre valorizou a cooperação e a simpatia, mesmo em tempos de grande perigo.&lt;BR&gt;&lt;BR&gt;Este emblema pertenceu a um dos anciãos de Acarum que tombou durante o primeiro ataque de Thulsa. Você poderia levá-lo a Arvo e convencê-la a mudar de ideia?</Page>
+    
+    </Text>
+    <Text huntingZoneId="73" id="3" prevId="2" villagerId="1011">
+         
+        <Page social="4">Já nos foi pedido que suportássemos demais! Não é dar as costas aos nossos vizinhos - é dar as costas aos nossos futuros inimigos. Todos eles podem se juntar ao traidor a qualquer momento! &lt;BR&gt;&lt;BR&gt;As coisas têm sido insuportáveis desde que meu marido morreu lutando contra o traidor. Eu me dediquei à sua memória e a servir Acarum da maneira antiga. A maneira como nossos anciãos - &lt;NEXTPAGEBUTTON&gt;"Como o dono disto?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Onde você conseguiu isso? Este emblema pertenceu à minha tia. Ela era uma mulher corajosa e bondosa também. Morreu conduzindo um grupo de feridos para longe dos combates.&lt;BR&gt;&lt;BR&gt;Talvez minha dor tenha sido dirigida às pessoas erradas. Você me ajudará a consertar o que eu quebrei?</Page>
+    
+    </Text>
+    <Text huntingZoneId="73" id="4" prevId="3" villagerId="1015">
+         
+        <Page social="4">Não quero falar sobre os refugiados da costa. Toda vez que o Arvo aparece, é "recursos blahblah" ou "inimigos yakyak". Estou cansado disso.&lt;NEXTPAGEBUTTON&gt;"O Arvo não está mais chateado."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">O que disse para acalmá-la? O que você disse para acalmá-la? &lt;BR&gt;&lt;BR&gt;Bem, não me importo de compartilhar alguns suprimentos, desde que nenhuma mulher louca venha me assediar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="73" id="5" prevId="4" villagerId="1016">
+         
+        <Page social="4">Você está louco? Olhe, mal conseguimos cuidar de nós mesmos - quer dizer, você já conheceu a Arvo Maluca? &lt;NEXTPAGEBUTTON&gt;"Acho que ela está melhor."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">"Melhor" é relativo, não é? &lt;BR&gt;&lt;BR&gt;Bem, se o Arvo vai ajudar, não posso recusar. Diga a Karihne que ajudarei a escoltar os refugiados através do alcance.</Page>
+    
+    </Text>
+    <Text huntingZoneId="73" id="6" prevId="5" villagerId="1001">
+         
+        <Page social="4">Uau - &lt;PCNAME&gt;, eu sei que você é bom, mas até eu estou impressionado. Arvo está causando problemas há meses. Coitado.&lt;BR&gt;&lt;BR&gt;Precisamos levar notícias para o povo de Tempest Reach. Você pode levar esta carta para a Estação de Pesquisa da Baía Glacial e entregá-la a Gron, o comissário de lá?</Page>
+    
+    </Text>
+    <Text huntingZoneId="231" id="7" prevId="6" villagerId="1015">
+         
+        <Page social="4">Huh. Bem, não vou dizer que não estou surpreso. A Acarum vem nos ignorando há meses. Mas antes tarde do que nunca. Obrigado.&lt;BR&gt;&lt;BR&gt;Eu vou mandar alguém para Acarum e coordenar com Karihne. Mas já que você está aqui, talvez possa ajudar? Precisamos de todos que pudermos, especialmente com todos os mortos-vivos circulando por aí.</Page>
+    
+    </Text>
+</QuestDialog>

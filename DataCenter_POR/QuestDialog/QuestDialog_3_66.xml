@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="3" id="66" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="59" id="100" prevId="0" villagerId="1031">
+         
+        <Page social="0">Missão da Arma de Avatar</Page>
+    
+    </Text>
+    <Text huntingZoneId="59" id="2" prevId="0" villagerId="1031">
+         
+        <Page social="0">Há rumores de que o caçador de armadilhas em Crescentia, Roson, descobriu recentemente uma antiga relíquia com um poder mágico.&lt;BR&gt;&lt;BR&gt;Ninguém entra em detalhes sobre isso, no entanto! Do que se trata? Não se pode simplesmente lançar frases como "relíquia mágica" e depois não dar mais nenhuma informação!&lt;BR&gt;&lt;BR&gt;Faça o seguinte: vá até a fonte por mim. Fale com Roson, pergunte a ela o que realmente está acontecendo com essa relíquia.</Page>
+    
+    </Text>
+    <Text huntingZoneId="59" id="3" prevId="2" villagerId="1031">
+         
+        <Page social="0">O quê? Estão dizendo que eu tenho uma relíquia? Que ridículo!&lt;BR&gt;&lt;BR&gt;Que isso sirva de lição para você: as pessoas falam antes de saberem toda a história e repetem as coisas antes de perguntarem todos os fatos.&lt;BR&gt;&lt;BR&gt;O que eu tenho é a área geral para encontrar pedaços de relíquias.&lt;BR&gt;&lt;BR&gt;Um pedaço não faz nada. Você tem que reunir um monte deles.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Mas...reuni-los para quê?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Recentemente, descobri uma antiga lenda sobre os deuses e suas relíquias.&lt;BR&gt;&lt;BR&gt;Se você coletar peças suficientes para formar uma relíquia inteira, poderá criar uma arma incrível e adquirir o poder dos deuses! Uma arma de avatar.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Isso parece... falso.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Eu sei! Mas é isso que meus estudos sugerem. É por isso que estou caçando relíquias - preciso testar essa teoria e ver se o que eles dizem é verdade.&lt;BR&gt;&lt;BR&gt;Só que estou tendo dificuldades para conseguir as relíquias. Nunca fui um grande lutador, e as peças de relíquias geralmente são encontradas em monstros atraídos pela energia das relíquias. Eu sou um pesquisador muito melhor.&lt;BR&gt;&lt;BR&gt;Mas... você é um lutador experiente, certo? Talvez você possa... sabe como é. E depois voltar e me mostrar o que encontrou?</Page>
+    
+    </Text>
+    <Text huntingZoneId="59" id="4" prevId="3" villagerId="1031">
+         
+        <Page social="0">Você a encontrou? É verdade? &lt;BR&gt;&lt;BR&gt;Oh, minha teoria estava correta? Eu preciso saber! &lt;NEXTPAGEBUTTON&gt;&amp;quot;Veja isso.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Oh, meu Deus... isso é incrível! Um arco tão bom... é uma verdadeira arma de aventureiro! &lt;BR&gt;&lt;BR&gt;E você confirmou minha pesquisa! Obrigado!&lt;BR&gt;&lt;BR&gt;Em troca, por que você não fica com esse arco? Acho que você teria muito mais utilidade para ele do que eu jamais teria.&lt;BR&gt;&lt;BR&gt;Supostamente há mais relíquias escondidas pelo continente! Aposto que não seria difícil para alguém como você encontrar todas elas. Continue procurando e boa sorte em suas futuras viagens!</Page>
+    
+    </Text>
+    <Text huntingZoneId="59" id="5" villagerId="1031">
+         
+        <Page social="0">Oh não, você não conseguiu encontrá-los? Será que minha teoria estava errada? &lt;BR&gt;&lt;BR&gt;Oh, por favor, procure novamente! Eu quero tanto encontrar alguma prova disso.</Page>
+    
+    </Text>
+</QuestDialog>

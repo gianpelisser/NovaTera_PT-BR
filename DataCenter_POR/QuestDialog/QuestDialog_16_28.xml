@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="16" id="28" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="216" id="100" prevId="0" villagerId="1020">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="216" id="2" prevId="0" villagerId="1020">
+         
+        <Page social="5">Os vampiros costumavam beber sangue de porco. Então, o quê, eles se cansaram disso? Nós parecíamos gostosos demais? &lt;BR&gt;&lt;BR&gt;Preciso saber o quanto isso é difundido entre eles. Acredite ou não, eles já foram amigáveis conosco. &lt;BR&gt;&lt;BR&gt;Preciso que você colete corações de {@LinkCreature:16#2201#vampir henchmen} e {@LinkCreature:16#2202#retiariuses}. Assim, poderei ver o que eles estão bebendo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="3" prevId="2" villagerId="1020">
+         
+        <Page social="5">Você conseguiu isso com os vampiros? Tem certeza absoluta? Mas eles estão completamente secos. Esses corações não vêem sangue há muito tempo. Incomum, para dizer o mínimo.&lt;BR&gt;&lt;BR&gt;Como eles estão sobrevivendo sem sangue? O que eles fizeram com o sangue de Jadan, se não o beberam?</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="4" villagerId="1020">
+         
+        <Page social="0">Não posso saber o que está acontecendo sem antes ver seus corações. Eles foram longe demais agora.</Page>
+    
+    </Text>
+</QuestDialog>

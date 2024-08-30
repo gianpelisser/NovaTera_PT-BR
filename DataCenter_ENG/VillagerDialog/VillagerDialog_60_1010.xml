@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="60" id="1010" voiceTypeId="25">
+    <Text huntingZoneId="60" id="1" endSocial="14" prevId="0" villagerId="1010">
+         
+        <Page social="4">No logging means no axes. No axes means no work.</Page>
+    
+    </Text>
+    <Text huntingZoneId="60" id="2" endSocial="14" prevId="0" villagerId="1010">
+         
+        <Page social="4">It seems like the army requisitions all the axe heads around here, and we aren't cutting enough timber for proper axe handles.</Page>
+    
+    </Text>
+</VillagerDialog>

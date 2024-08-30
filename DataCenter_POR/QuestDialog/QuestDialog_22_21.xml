@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="22" id="21" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="223" id="100" prevId="0" villagerId="1010">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="223" id="2" prevId="0" villagerId="1010">
+         
+        <Page social="5">{O Dr. Dullulu examinou a situação nos terrenos da Academia Eldritch. Aparentemente, o local está repleto de feras perigosas. Se você planeja ir até lá, pergunte a ele o que deve ser observado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="223" id="3" prevId="2" villagerId="1054">
+         
+        <Page social="5">Eu lhe direi com o que você deve tomar cuidado - sua sanidade, se eu não conseguir convencê-lo a ficar longe daquele lugar esquecido por Deus.&lt;BR&gt;&lt;BR&gt;Mas, se você estiver decidido a ir, tente eliminar o maior número possível de {@LinkCreature:22#4#Vadoma centaurs}, {@LinkCreature:22#5#redcap artisans} e {@LinkCreature:22#3#wandmakers}.&lt;BR&gt;&lt;BR&gt;Temos que abrir caminho para entrar e sair do castelo se quisermos ser úteis.&lt;NEXTPAGEBUTTON&gt;"Não vou decepcioná-lo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="5">Obrigado, &lt;PCNAME&gt;. Você está bem, sabia?</Page>
+    
+    </Text>
+    <Text huntingZoneId="222" id="4" prevId="3" villagerId="1005">
+         
+        <Page social="5">Graças aos deuses, você cuidou de alguns desses centauros e redcaps. Os perigos aqui são muitos para contar no momento. Talvez agora o caminho esteja livre para que outros venham em nosso auxílio.&lt;BR&gt;&lt;BR&gt;Podemos ter uma chance com soldados corajosos como você do nosso lado.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="26" id="27" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="226" id="100" prevId="0" villagerId="1006">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="226" id="2" prevId="0" villagerId="1006">
+         
+        <Page social="5">A vida e a morte fazem parte de um ciclo, de um sistema. Podemos interrompê-lo, mas o sonho termina para todos nós em algum momento. Devemos respeitar isso.&lt;BR&gt;&lt;BR&gt;Soube que você encontrou criaturas que vivem após a morte, mesmo com seus corações separados. Não podemos permitir que isso continue. Mate os {@LinkCreature:26#2001#revivified cromoses} e {@LinkCreature:26#2003#resurgent ghilliedhus} para proteger a ordem natural.</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="3" prevId="2" villagerId="1006">
+         
+        <Page social="5">Arun e Shara têm planos para cada criatura do mundo. É perigoso usar magia para subverter esses planos.&lt;BR&gt;&lt;BR&gt;Sua ajuda foi registrada, &lt;PCNAME&gt;. Que os titãs continuem sonhando com você.</Page>
+    
+    </Text>
+</QuestDialog>

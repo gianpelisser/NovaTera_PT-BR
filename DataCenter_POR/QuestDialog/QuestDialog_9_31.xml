@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="9" id="31" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="209" id="100" prevId="0" villagerId="1011">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="209" id="2" prevId="0" villagerId="1011">
+         
+        <Page social="4">Os gulas são canibais e toda a sociedade é governada por seus chefs. Mas isso não significa que eles sejam exigentes.&lt;BR&gt;&lt;BR&gt;Eles estão consumindo os &lt;font color='#660000'&gt;restos mortais&lt;/font&gt; de nossos companheiros mortos, bons soldados que deram tudo pela federação.&lt;BR&gt;&lt;BR&gt;Isso não é um sonho; é um pesadelo. Recupere os corpos para que possamos dar a eles um enterro adequado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="209" id="3" prevId="2" villagerId="1011">
+         
+        <Page social="4">Obrigado, &lt;PCNAME&gt;. As Espadas de Kaia têm uma cerimônia especial para honrar os mortos, mas é mais significativo se tivermos os restos mortais.</Page>
+    
+    </Text>
+    <Text huntingZoneId="209" id="4" villagerId="1011">
+         
+        <Page social="0">Conseguiu encontrar nossos irmãos mortos?</Page>
+    
+    </Text>
+</QuestDialog>

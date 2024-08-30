@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="51" id="93" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="79" id="100" prevId="0" villagerId="1027">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="79" id="2" prevId="0" villagerId="1027">
+         
+        <Page social="5">We need to keep the ice giants from marshaling their strength near Raseri Festning. A coordinated assault would wipe out our units.&lt;BR&gt;&lt;BR&gt;Kill the {@LinkCreature:51#3021#vengeful ice giants}.&lt;BR&gt;&lt;BR&gt;Report to Thenuvia at Icebase Defiance when mission is complete.</Page>
+    
+    </Text>
+    <Text huntingZoneId="251" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="5">You've earned the thanks of the federation!</Page>
+    
+    </Text>
+    <Text huntingZoneId="251" id="4" villagerId="1001">
+         
+        <Page social="0">It looks like you haven't completed your mission yet.</Page>
+    
+    </Text>
+</QuestDialog>

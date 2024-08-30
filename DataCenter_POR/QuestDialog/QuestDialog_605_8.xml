@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="605" id="8" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="63" id="100" prevId="0" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="2" prevId="0" villagerId="3003">
+         
+        <Page social="4">Você não vai acreditar, mas {@LinkCreature:63#3002#Taratia} foi se embebedar com uísque de fogo - no meio do dia! Eu lhe dei uma bronca, mas ela é inútil para mim nesse estado.&lt;NEXTPAGEBUTTON&gt;"Alguma coisa que eu possa fazer?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Bem, dê a ela esse couro de água e veja se consegue fazer com que ela faça sentido o suficiente para lhe dar algumas de suas tarefas diárias. Ela está com as palavras arrastadas, mas tenho certeza de que você conseguirá.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="3002">
+         
+        <Page social="4">Você! Eu amo você... eu já lhe disse isso? Não, eu realmente amo você, &lt;PCNAME&gt;. Muito e muito e... o quê? Ah, ela? Ela é burra! Está ouvindo isso, Elthienne? &lt;BR&gt;&lt;BR&gt;Huh? Você quer me ajudar com as coisas? Está bem.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="4" prevId="2" villagerId="3002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="5" prevId="2" villagerId="3002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="6" prevId="2" villagerId="1098">
+         
+        <Page social="5">Você viu a {@LinkCreature:63#3002#Taratia} hoje? O que deu nessa garota? Obrigado por substituí-la. Ela caiu três vezes no caminho para cá esta manhã. Quando chegou, já tinha perdido metade do meu pedido. Provavelmente está espalhado por Velika.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="7" villagerId="1098">
+         
+        <Page social="0">Essência Estelar não é fácil de conseguir, certo? &lt;BR&gt;&lt;BR&gt;Desculpe por ter que consertar a bagunça de Taratia.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="8" prevId="6" villagerId="1098">
+         
+        <Page social="5">Você conseguiu o minério normetal? &lt;BR&gt;&lt;BR&gt;Grande trabalho. Você é muito bom.&lt;BR&gt;Por favor, diga a {@LinkCreature:63#3002#Taratia} que eu agradeci.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="9" villagerId="1098">
+         
+        <Page social="0">Normetal Ore, certo!&lt;BR&gt;&lt;BR&gt;Era para estar na entrega de hoje.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="10" prevId="8" villagerId="3002">
+         
+        <Page social="4">Eu simplesmente amo você!</Page>
+    
+    </Text>
+</QuestDialog>

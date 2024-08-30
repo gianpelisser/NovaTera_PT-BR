@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="31" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="64" id="100" prevId="0" villagerId="1006">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="64" id="2" prevId="0" villagerId="1006">
+         
+        <Page social="4">Tenho outra tarefa para você. É importante, mas não crítica. A leste daqui, há um afloramento rochoso com um terraço na metade do caminho. Ramun mencionou alguma atividade em torno de nossa pedra detectora lá. Se você pudesse dar uma olhada na área, eu agradeceria.&lt;BR&gt;&lt;BR&gt;Em uma nota pessoal, eu entendo que não há apenas uma vista realmente incrível do nosso acampamento lá de cima, mas também uma espetacular &lt;b&gt;flor do céu&lt;/b&gt; que floresce uma vez por dia sob o arco.&lt;BR&gt;&lt;BR&gt;Suba as &lt;b&gt;vinhas&lt;/b&gt; e dê uma olhada ao redor. Por favor, pegue uma dessas flores para mim e use este pergaminho de teletransporte para voltar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="3" prevId="2" villagerId="1053">
+         
+        <Page social="4">(Parece ser a pedra detectora de que Jorhon estava falando, colocada aqui para detectar qualquer intruso que possa vagar perto da Torre de Mathar.)&lt;BR&gt;&lt;BR&gt;(Agora, suba a videira até o topo da torre.)</Page>
+    
+    </Text>
+    <Text huntingZoneId="64" id="4" prevId="3" villagerId="1001">
+         
+        <Page social="4">Arranhões na pedra? Muito interessante. Não pensei que isso fosse possível. Vou adicionar outra patrulha à área.&lt;BR&gt;&lt;BR&gt;E o que é isso que você tem aí? &lt;NEXTPAGEBUTTON&gt;"Uma flor de skyreach..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Outra flor? Não me importo com a atenção, mas tenho mais em que pensar do que em flores cheirosas no momento. &lt;BR&gt;&lt;BR&gt;Dependemos desses marcadores para manter nosso acampamento seguro - se alguém - ou alguma coisa - estiver investigando-os, precisamos estar em alerta.</Page>
+    
+    </Text>
+    <Text huntingZoneId="64" id="5" villagerId="1001">
+         
+        <Page social="0">Alguma coisa a relatar?</Page>
+    
+    </Text>
+</QuestDialog>

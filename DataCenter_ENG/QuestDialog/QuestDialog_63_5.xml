@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="63" id="5" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="63" id="100" prevId="0" villagerId="1107">
+         
+        <Page social="0">You've become an official federation soldier. You were summoned to Velika to meet Commander Seir, the commander of the Valkyon Federation's forces.&lt;BR&gt;&lt;BR&gt;Seir was impressed with you and welcomed you formally into federation service, but the real power pusher of the military, Commander Samael, doesn't seem impressed with you. He dismissed your accomplishments as mere luck.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="2" prevId="0" villagerId="1107">
+         
+        <Page social="4">&lt;PCNAME&gt;, you did fine work on the Island of Dawn. Commander Seir is anxious to speak with you. Head to the federation's headquarters and find Uriela.&lt;BR&gt;&lt;BR&gt;She'll point you in the right direction. Good luck.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="1101">
+         
+        <Page social="4">&lt;PCNAME&gt;? I've heard that name, haven't I? Oh! Yes, you're one of the recruits who helped out on the island! So peculiar, that island....&lt;BR&gt;&lt;BR&gt;Ah, forgive me. I'm losing track of myself. Please go in. Commander Seir is expecting you.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="4" prevId="3" villagerId="1102">
+         
+        <Page social="4">&lt;PCNAME&gt;? Delighted to meet a young soldier with your gumption!&lt;BR&gt;&lt;BR&gt;With the situation in Arcadia province, and soldiers so thin on the ground this far from the argon front, we need more people who can take initiative.&lt;BR&gt;&lt;BR&gt;Let me formally welcome you to the ranks of the Valkyon Federation!</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="5" prevId="4" villagerId="1102">
+         
+        <Page social="4">Tales of your heroics on the Island of Dawn spread quickly, &lt;PCNAME&gt;. The federation needs you now more than ever. Are you ready for new orders?&lt;NEXTPAGEBUTTON&gt;"Yes, sir!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="5">Splendid. Commander Samael will handle your next deployment. It was good to meet you, &lt;PCNAME&gt;. I look forward to reading reports of your exploits!</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="6" prevId="5" villagerId="1137">
+         
+        <Page social="4">Look, you did fine—if killing a bunch of piglings counts as a battle. Around here we've got real problems that need real soldiers. We've got rebellion in Arcadia, and no supplies coming from the north.&lt;BR&gt;&lt;BR&gt;If you're not up to it, you put lives at risk. Gotta keep your eye on the big picture. It takes more than luck to make a soldier.</Page>
+    
+    </Text>
+</QuestDialog>

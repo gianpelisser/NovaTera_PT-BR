@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="603" id="4" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="76" id="100" prevId="0" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="76" id="2" prevId="0" villagerId="3003">
+         
+        <Page social="4">One of our better hunters is guiding a Mysterium team in {@Rgn:50001$$Granarkus}.&lt;BR&gt;&lt;BR&gt;They want someone to clear trails for them. I suggested you.</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="3" prevId="2" villagerId="3001">
+         
+        <Page social="4">Still standing, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;Well, you're just the &lt;PCCLASS:lcase&gt; I wanted, assuming you're up for some excitement today.&lt;NEXTPAGEBUTTON&gt;"Always!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Never any dross in you, eh?&lt;BR&gt;&lt;BR&gt;Argons have massed right where the Mysterium wanted to go grubbing for artifacts.&lt;BR&gt;&lt;BR&gt;Go clear a trail and collect some hides for me.</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="4" prevId="2" villagerId="3001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="250" id="5" prevId="2" villagerId="3001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="250" id="6" prevId="2" villagerId="3001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="250" id="7" prevId="2" villagerId="3001">
+         
+        <Page social="4">Fast little creatures, aren't they?&lt;BR&gt;&lt;BR&gt;Beautiful, in their own way.</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="8" villagerId="3001">
+         
+        <Page social="0">The prowlers are pack hunters.&lt;BR&gt;&lt;BR&gt;Not too smart, but they can run.</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="9" prevId="7" villagerId="3001">
+         
+        <Page social="4">Crazy, aren't they?&lt;BR&gt;&lt;BR&gt;Those bugs they carry make good trophies.</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="10" villagerId="3001">
+         
+        <Page social="0">Gatherers look strange and tricky. Expect the unexpected.</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="11" prevId="9" villagerId="3001">
+         
+        <Page social="4">Deftly done.&lt;BR&gt;&lt;BR&gt;I imagine you see a lot of kalashes on the front lines.</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="12" villagerId="3001">
+         
+        <Page social="0">Kalashes are smart, tough, and have a long reach with their swords.&lt;BR&gt;&lt;BR&gt;Respect those blades.</Page>
+    
+    </Text>
+</QuestDialog>

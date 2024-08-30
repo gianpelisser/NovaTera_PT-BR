@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="181" id="17" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">Protegendo Paesyn, &lt;PCNAME&gt; avançou até o coração de Energia Celo, matando todos os monstros que surgiam.&lt;BR&gt;No caminho, &lt;PCNAME&gt; presenciou a trágica cena de partos capturados sendo transformados em demokrons.&lt;BR&gt;Zolyn apareceu com seus mercenários, pedindo a &lt;PCNAME&gt; que libertasse os cativos enquanto ela e seus soldados avançavam para exterminar os guardas arquidevais.&lt;BR&gt;No entanto, quando &lt;PCNAME&gt; e Paesyn seguiram Zolyn, tiveram que testemunhar uma cena ainda mais trágica...</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="818" id="3" prevId="2" villagerId="1112">
+         
+        <Page social="4">O quê? Não, eu vou com você! Zolyn disse que você é muito importante - parte de uma profecia! &lt;BR&gt;&lt;BR&gt;Se você tiver problemas, eu posso ir buscar ajuda! &lt;NEXTPAGEBUTTON&gt;"Eu... tudo bem. Mas fique atrás até que seja seguro."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="818" id="4" prevId="3" villagerId="1112">
+         
+        <Page social="4">Quantos guardas você acha que há? &lt;BR&gt;&lt;BR&gt;Você acha que talvez devêssemos esperar por Zolyn? &lt;NEXTPAGEBUTTON&gt;"Estou entrando - ouvi prisioneiros lá dentro. Fique aqui."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="818" id="5" prevId="4" villagerId="1116">
+         
+        <Page social="4">Obrigado por manter Paesyn a salvo. Acho que ele meio que... cresceu em mim.&lt;BR&gt;&lt;BR&gt;Ok, vamos ao que interessa: Vou levar meus soldados para capturar o laboratório. Você encontra uma maneira de libertar esses prisioneiros.&lt;BR&gt;&lt;BR&gt;Oh, e não mencione isso a Rhodos! Todas essas cobaias são partas - seu povo. Rhodos ficaria furioso ao vê-los assim.&lt;NEXTPAGEBUTTON&gt;"Entendo. Vou me juntar a você quando terminar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="818" id="6" prevId="5" villagerId="1103">
+         
+        <Page social="4">Temos que salvá-la! &lt;BR&gt;&lt;BR&gt;Não vou embora até que a tenhamos de volta! &lt;BR&gt;&lt;BR&gt;Você deveria ser um herói! Você deveria ser O herói! A profecia! O "escolhido" de Mystel!"&lt;BR&gt;&lt;BR&gt;AJUDE-ME A TRAZÊ-LA DE VOLTA! &lt;NEXTPAGEBUTTON&gt;"Não há nada que possamos fazer a partir daqui. Sinto muito."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="818" id="7" prevId="6" villagerId="1002">
+         
+        <Page social="4">Cheguei a tempo... e tarde demais. Lamento que sua amiga Zolyn não tenha podido ser salva, mas tenha coragem: Mystel profetizou que você a verá novamente.&lt;BR&gt;&lt;BR&gt;Agora, vou falar de seu papel nos acontecimentos: Aquela máquina no meio da sala regula a Barreira da Tormenta. Ela não pode ser desligada... mas pode ser sobrecarregada.&lt;BR&gt;&lt;BR&gt;Puxe a alavanca e ela se destruirá.&lt;NEXTPAGEBUTTON&gt;"Será um prazer."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="818" id="8" prevId="7" villagerId="1002">
+         
+        <Page social="4">O regulador vai explodir! &lt;BR&gt;&lt;BR&gt;Devemos partir sem demora.&lt;NEXTPAGEBUTTON&gt;"Vamos, Paesyn... é hora de ir."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</QuestDialog>

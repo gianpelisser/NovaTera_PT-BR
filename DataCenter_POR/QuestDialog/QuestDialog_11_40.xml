@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="11" id="40" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="211" id="100" prevId="0" villagerId="1031">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="211" id="2" prevId="0" villagerId="1031">
+         
+        <Page social="4">Você já fez tudo o que podia aqui, &lt;PCNAME&gt;. Atravesse as tábuas e você estará na parte da gruta onde a liderança do chicote vermelho se agacha.&lt;BR&gt;&lt;BR&gt;Temos batedores lá - graças às interrupções que você já causou - e eles podem ter visto esse dementalith.&lt;BR&gt;&lt;BR&gt;Fale com Ebosius. Ele geralmente sabe o que está acontecendo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="211" id="3" prevId="2" villagerId="1018">
+         
+        <Page social="4">Um dementalith? Uma pedra grande? Eu vi alguns dos pequenos subalternos levarem um grande pedaço de pedra lá para baixo há cerca de um mês.&lt;BR&gt;&lt;BR&gt;Ela tombou e esmagou um deles. Pode ser seu dementalith.</Page>
+    
+    </Text>
+</QuestDialog>

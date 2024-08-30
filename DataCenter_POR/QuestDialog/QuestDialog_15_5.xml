@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="15" id="5" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">Bruke emitiu uma ordem de execução contra Jelena e fez de você o executor. Em vez de trazer a cabeça de Bruke, você avisou Jelena, que fugiu.&lt;BR&gt;&lt;BR&gt;Você retornou a Samael em Velika bem a tempo de ele ler o relatório contundente de Bruke sobre suas atividades em Popolion. Você escapou da punição, mas Samael parece estar observando-o mais de perto do que nunca.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="4">Ordens da missão&lt;BR&gt;&lt;BR&gt;Bruke emitiu uma ordem de execução para a traidora Jelena. Ele exige que &lt;PCNAME&gt; encontre Jelena e traga a cabeça dela para ele imediatamente.</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="3" prevId="2" villagerId="1032">
+         
+        <Page social="4">O quê? Bruke emitiu uma ordem de execução? Para mim? &lt;BR&gt;&lt;BR&gt;Que... charmoso. "Traga-me a cabeça dela?" Quem fala assim? &lt;BR&gt;&lt;BR&gt;Crê em mim, não sou traidor. Gostaria de ter tempo para explicar. Basta dizer que justicars e rangers não se dão bem.&lt;NEXTPAGEBUTTON&gt;"O que você vai fazer?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">O que posso fazer? Fugir, obviamente.&lt;BR&gt;&lt;BR&gt;Diga a seus superiores que não conseguiu me encontrar. Não precisa nem mentir. Basta fechar os olhos pelos próximos cinco segundos.&lt;BR&gt;&lt;BR&gt;Até nos encontrarmos novamente, e pode apostar que nos encontraremos de novo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="4" prevId="3" villagerId="1012">
+         
+        <Page social="4">O quê? Você a deixou escapar? Seu tolo incompetente! &lt;BR&gt;&lt;BR&gt;Não importa o que você fez na Sinestral Manor, isso manchará sua carreira como soldado para sempre!</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="5" prevId="4" villagerId="1012">
+         
+        <Page social="4">Acho difícil acreditar que ela tenha escapado sem deixar rastros. Acho que está mentindo - posso ver isso em seus olhos. Meu relatório refletirá isso.&lt;BR&gt;&lt;BR&gt;Bem, agora você é um problema para o General Samael. Apresente-se a ele imediatamente. Quando ele ler meu relatório, você terá sorte se não for preso como traidor.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="6" prevId="5" villagerId="1137">
+         
+        <Page social="4">Acabei de ler o relatório de Bruke, &lt;PCNAME&gt;. Ele diz que você deixou um traidor conhecido escapar.&lt;BR&gt;&lt;BR&gt;Por outro lado, parece que você também foi fundamental para deter a instabilidade lá. Como faço para garantir que você receba o que merece? Decisões, decisões.&lt;BR&gt;&lt;BR&gt;Bem, você cumpriu suas ordens. Por enquanto, isso é o suficiente. No futuro, porém, se Bruke lhe disser para pular, pergunte a que altura - e então pule ainda mais alto.&lt;BR&gt;&lt;BR&gt;Dispensado.</Page>
+    
+    </Text>
+</QuestDialog>

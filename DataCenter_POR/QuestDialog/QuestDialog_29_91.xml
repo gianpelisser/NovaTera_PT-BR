@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="29" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="70" id="100" prevId="0" villagerId="1017">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="70" id="2" prevId="0" villagerId="1017">
+         
+        <Page social="5">A população de fangspawns está ficando fora de controle. Eles estão queimando tudo o que encontram pela frente! Você está autorizado a caçar {@LinkCreature:29#1041#woodland fangspawns} e {@LinkCreature:29#1051#hellmouth fangspawns}.&lt;BR&gt;&lt;BR&gt;Relate a Kendara quando a missão estiver concluída.</Page>
+    
+    </Text>
+    <Text huntingZoneId="229" id="3" prevId="2" villagerId="1007">
+         
+        <Page social="5">Seu trabalho árduo vale a pena, &lt;PCNAME&gt;. Precisamos de mais soldados como você.</Page>
+    
+    </Text>
+    <Text huntingZoneId="229" id="4" villagerId="1007">
+         
+        <Page social="0">Pedimos desculpas, mas sem a comprovação do óbito, os pagamentos não são autorizados.</Page>
+    
+    </Text>
+</QuestDialog>

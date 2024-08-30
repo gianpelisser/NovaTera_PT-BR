@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="21" id="25" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="221" id="100" prevId="0" villagerId="1033">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="221" id="2" prevId="0" villagerId="1033">
+         
+        <Page social="4">Sim, os kulkari são um espinho em nosso caminho, mas temos outros problemas. {@LinkCreature:21#7#yurklag hyenas} e {@LinkCreature:21#14#desert arachnen workers} são as ameaças imediatas.&lt;BR&gt;&lt;BR&gt;Ouvi dizer que você é bom em matar coisas. Agora é a sua chance de provar isso!</Page>
+    
+    </Text>
+    <Text huntingZoneId="221" id="3" prevId="2" villagerId="1033">
+         
+        <Page social="4">Agora que não estamos na fila para o almoço de alguma fera, podemos fazer muita coisa. Você é um bom soldado, &lt;PCNAME&gt;. Obrigado.</Page>
+    
+    </Text>
+</QuestDialog>

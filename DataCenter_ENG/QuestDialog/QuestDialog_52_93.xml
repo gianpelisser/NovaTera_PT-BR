@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="93" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="79" id="100" prevId="0" villagerId="1027">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="79" id="2" prevId="0" villagerId="1027">
+         
+        <Page social="5">Those Thulsan vermin are messing with the controls of the Divine Furnace!&lt;BR&gt;&lt;BR&gt;Throw those {@LinkCreature:52#9006#Ksharan reavers}, {@LinkCreature:52#9007#ragers}, {@LinkCreature:52#5004#shadowweavers}, {@LinkCreature:52#5001#swordmasters}, {@LinkCreature:52#9008#dreadweavers} and {@LinkCreature:52#5002#archers} into the lava!&lt;BR&gt;&lt;BR&gt;Report to Centurion Senelin at the Gravewatch of the Exiled when mission is complete.</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="3" prevId="2" villagerId="1045">
+         
+        <Page social="5">Nice work, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;I was worried these unholy morons might blow the furnace up while fiddling with the controls. Keep up your good work.</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="4" villagerId="1045">
+         
+        <Page social="0">Kill off those Ksharan idiots before they damage the Divine Furnace!</Page>
+    
+    </Text>
+</QuestDialog>

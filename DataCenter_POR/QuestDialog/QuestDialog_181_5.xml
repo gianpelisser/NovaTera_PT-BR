@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="181" id="5" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">Os pesquisadores do Laboratório de Arqueologia ficaram presos bem em frente ao Laboratório por causa dos demokrons na área.&lt;BR&gt;Ao caçar os demokrons a pedido de Redorn, o guarda-chefe do portão sul da Highwatch, &lt;PCNAME&gt; salvou os pesquisadores e os acompanhou até o laboratório.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="181" id="3" prevId="2" villagerId="3006">
+         
+        <Page social="4">Oh, graças a Oriyn, alguém veio! &lt;BR&gt;&lt;BR&gt;Sou arqueólogo e estou indo para a Estação Qeldar. Estávamos a caminho de nosso local de escavação quando fomos atacados por demokrons. Nossos guardas ficaram sobrecarregados, mas pelo menos eles levaram as criaturas para longe de nós! &lt;BR&gt;&lt;BR&gt;Infelizmente, agora estamos presos aqui, sem escolta.&lt;NEXTPAGEBUTTON&gt;"Posso ajudá-los, se estiverem prontos para ir."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="4" villagerId="5">
+         
+        <Page social="0">Muito obrigado, &lt;PCNAME&gt;-e sinto muito se isso o incomodar.&lt;BR&gt;&lt;BR&gt;Devíamos realmente passar um pouco menos de tempo lendo sobre guerreiros e um pouco mais de tempo aprendendo a nos defender.</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="5" prevId="3" villagerId="1005">
+         
+        <Page social="4">Obrigado por ajudar nossos pesquisadores a voltarem para nós.&lt;BR&gt;&lt;BR&gt;Ordinariamente, a Alta Guarda é mais do que capaz de garantir nossa segurança... mas com todos trabalhando para localizar O Grande Ancião Verikam e reforçar as defesas da cidade, eles provavelmente estão sobrecarregados.&lt;BR&gt;&lt;BR&gt;Vocês têm nossa gratidão.&lt;NEXTPAGEBUTTON&gt;"Fico feliz em ajudar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</QuestDialog>

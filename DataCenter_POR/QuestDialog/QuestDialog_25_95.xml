@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="25" id="95" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="66" id="100" prevId="0" villagerId="1008">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="66" id="2" prevId="0" villagerId="1008">
+         
+        <Page social="0">Cuide dos {@LinkCreature:25#3011#lokianos consagrados}, dos {@LinkCreature:25#3012#campeões shurianos}, dos {@LinkCreature:25#3021#lokianos primordiais}, dos {@LinkCreature:25#3022#magistradores shurianos}, dos {@LinkCreature:25#3031#pesadores das trevas lokianos primordiais} e dos {@LinkCreature:25#3032#cavaleiros lokianos sagrados} na Catedral Sombria.&lt;BR&gt;&lt;BR&gt;Acho que isso é suficiente, na verdade.&lt;BR&gt;&lt;BR&gt;Karus será o seu contato quando vocês terminarem.</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="3" prevId="2" villagerId="1019">
+         
+        <Page social="4">Outra luta bem disputada. Que se danem os destinos, você é bom.</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="4" villagerId="1019">
+         
+        <Page social="0">Certo, você vai acabar com todos esses cultistas? Eu sei o que dizem sobre você, mas acreditarei quando vir os núcleos.</Page>
+    
+    </Text>
+</QuestDialog>

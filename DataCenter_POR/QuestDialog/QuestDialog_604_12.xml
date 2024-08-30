@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="604" id="12" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="71" id="100" prevId="0" villagerId="3002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="71" id="2" prevId="0" villagerId="3002">
+         
+        <Page social="4">{@LinkCreature:230#3026#Lilis}, no {@Rgn:9017001$$Farol do Sol}, não consegue contornar um dos golems lá dentro.&lt;BR&gt;&lt;BR&gt;Quer ajudar?</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="3" prevId="2" villagerId="3026">
+         
+        <Page social="4">&lt;PCNAME&gt;, o {@LinkCreature:417#2001#old keeper} perto do topo da torre não me deixa chegar perto do ignitor, e ele precisa ser limpo ou vai quebrar de novo.&lt;BR&gt;&lt;BR&gt;Encontre-o e desligue-o.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="4" prevId="3" villagerId="3026">
+         
+        <Page social="4">Obrigado.&lt;BR&gt;&lt;BR&gt;A torre já é instável o suficiente quando consigo mantê-la limpa!</Page>
+    
+    </Text>
+</QuestDialog>

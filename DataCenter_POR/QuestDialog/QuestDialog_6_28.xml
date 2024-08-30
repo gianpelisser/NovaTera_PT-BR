@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="6" id="28" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="206" id="100" prevId="0" villagerId="1005">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="206" id="2" prevId="0" villagerId="1005">
+         
+        <Page social="5">Não podemos obter nossos suprimentos. Sem suprimentos, não há comida. Sem comida não há energia, e sem energia não há chance de lutar contra os Gutrends que estão nos atacando e levando nossos suprimentos! &lt;BR&gt;&lt;BR&gt;Se pudéssemos conseguir um pouco de carne.... Talvez você não se importe em matar alguns {@LinkCreature:6#1021#stomping noruks} para que possamos usar a carne deles para sobreviver?</Page>
+    
+    </Text>
+    <Text huntingZoneId="206" id="3" prevId="2" villagerId="1005">
+         
+        <Page social="5">Obrigado. Essa deve ser uma experiência interessante.&lt;BR&gt;&lt;BR&gt;Não costumamos comer carne de noruk, como você vê. Mas em circunstâncias extraordinárias.</Page>
+    
+    </Text>
+    <Text huntingZoneId="206" id="4" villagerId="1005">
+         
+        <Page social="0">Você trouxe a carne de volta? Não costumamos comer noruks, mas estamos realmente muito desesperados por aqui.</Page>
+    
+    </Text>
+</QuestDialog>

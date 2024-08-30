@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="26" id="22" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="226" id="100" prevId="0" villagerId="1007">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="226" id="2" prevId="0" villagerId="1007">
+         
+        <Page social="5">Sou o guardião da floresta por aqui, o que significa que tudo nesta floresta depende de mim. Meu trabalho é cuidar do equilíbrio, e os kulkari do Forestwalker estão pondo isso em risco.&lt;BR&gt;&lt;BR&gt;Se os {@LinkCreature:26#1001#Forestwalker shamans} e {@LinkCreature:26#1002#thrashers} quiserem minha proteção, terão de merecê-la. Enquanto isso, estou enviando você para entregar uma mensagem. Você está comigo?</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="3" prevId="2" villagerId="1007">
+         
+        <Page social="5">Agora vamos ver se eles aprenderam alguma coisa. Vou ficar de olho neles.</Page>
+    
+    </Text>
+</QuestDialog>

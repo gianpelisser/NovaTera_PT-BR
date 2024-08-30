@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="42" id="27" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="242" id="100" prevId="0" villagerId="1037">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="242" id="2" prevId="0" villagerId="1037">
+         
+        <Page social="5">Quero compartilhar nosso suprimento de antídoto naga com Canto, no próximo andar. &lt;BR&gt;&lt;BR&gt;Eles enfrentaram alguns dos combates mais difíceis, portanto, dêem uma mão sempre que puderem.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="3" prevId="2" villagerId="1013">
+         
+        <Page social="4">Antídoto para Naga! Obrigado! &lt;BR&gt;&lt;BR&gt;Leve um pouco para Trikaian ali. Ele foi atingido ontem.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="4" prevId="3" villagerId="1006">
+         
+        <Page social="4">Ele está falando sério? Foi só um arranhão. Bem, tudo bem... estou sentindo um pouco de calor. É claro que pode ser só eu.&lt;BR&gt;&lt;BR&gt;Obrigado, &lt;PCNAME&gt;. Espero que fique por aqui e nos dê uma mãozinha.</Page>
+    
+    </Text>
+</QuestDialog>

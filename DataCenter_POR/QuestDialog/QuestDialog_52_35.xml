@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="35" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="252" id="100" prevId="0" villagerId="1044">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="252" id="2" prevId="0" villagerId="1044">
+         
+        <Page social="4">Muito bem, "herói de Valkyon", vamos ver o que você tem. &lt;BR&gt;&lt;BR&gt;Que tal me trazer a cabeça de Tersa, o líder dos necromantes inimigos? Você pode fazer isso? &lt;NEXTPAGEBUTTON&gt;"Mostre-me para onde ir."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="5">Eu estava brincando, mas gostei da sua atitude, &lt;PCCLASS:lcase&gt;. Mas, falando sério, que tal você...&lt;BR&gt;&lt;BR&gt;O quê? Não me olhe assim! &lt;BR&gt;&lt;BR&gt;Fique à vontade. Vá atrás de Tersa. Eles só mandaram um soldado, então acho que só posso sofrer uma baixa.</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="3" prevId="2" villagerId="1044">
+         
+        <Page social="4">Esta é realmente a cabeça de Tersa?&lt;BR&gt;&lt;BR&gt;Não acredito que você realmente decapitou o líder dos necromantes!&lt;BR&gt;&lt;BR&gt;...Ok, eu admito. Você é um &lt;PCCLASS:lcase&gt; melhor do que eu já vi. Talvez um &lt;PCNAME&gt; seja melhor do que uma coluna dos melhores de Kaiator.</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="4" villagerId="1044">
+         
+        <Page social="0">Se você não tem coragem de lutar contra Tersa, volte para Kaiator.&lt;BR&gt;&lt;BR&gt;Tome uma profissão de artesão! Não me interessa.</Page>
+    
+    </Text>
+</QuestDialog>

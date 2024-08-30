@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="603" id="4" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="76" id="100" prevId="0" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="76" id="2" prevId="0" villagerId="3003">
+         
+        <Page social="4">Um de nossos melhores caçadores está guiando uma equipe de Mysterium em {@Rgn:50001$$Granarkus}.&lt;BR&gt;&lt;BR&gt;Eles querem alguém para limpar trilhas para eles. Eu sugeri você.</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="3" prevId="2" villagerId="3001">
+         
+        <Page social="4">Ainda está de pé, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;Bem, você é exatamente o &lt;PCCLASS:lcase&gt; que eu queria, supondo que esteja disposto a se divertir hoje.&lt;NEXTPAGEBUTTON&gt;"Sempre!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Você nunca foi um lixo, não é? &lt;BR&gt;&lt;BR&gt;Os argons se aglomeraram exatamente onde o Mysterium queria ir procurar artefatos.&lt;BR&gt;&lt;BR&gt;Vá abrir uma trilha e coletar algumas peles para mim.</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="4" prevId="2" villagerId="3001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="250" id="5" prevId="2" villagerId="3001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="250" id="6" prevId="2" villagerId="3001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="250" id="7" prevId="2" villagerId="3001">
+         
+        <Page social="4">São criaturinhas rápidas, não são? &lt;BR&gt;&lt;BR&gt;Lindas, à sua maneira.</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="8" villagerId="3001">
+         
+        <Page social="0">Os prowlers são caçadores de matilhas.&lt;BR&gt;&lt;BR&gt;Não são muito inteligentes, mas podem correr.</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="9" prevId="7" villagerId="3001">
+         
+        <Page social="4">São loucos, não são? &lt;BR&gt;&lt;BR&gt;Os insetos que eles carregam são bons troféus.</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="10" villagerId="3001">
+         
+        <Page social="0">Os coletores parecem estranhos e complicados. Espere o inesperado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="11" prevId="9" villagerId="3001">
+         
+        <Page social="4">Muito bem feito.&lt;BR&gt;&lt;BR&gt;Imagino que você tenha visto muitos kalashes nas linhas de frente.</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="12" villagerId="3001">
+         
+        <Page social="0">Os Kalashes são inteligentes, resistentes e têm um longo alcance com suas espadas.&lt;BR&gt;&lt;BR&gt;Respeite essas lâminas.</Page>
+    
+    </Text>
+</QuestDialog>

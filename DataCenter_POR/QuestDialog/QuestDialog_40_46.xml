@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="40" id="46" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="240" id="100" prevId="0" villagerId="1035">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="240" id="2" prevId="0" villagerId="1035">
+         
+        <Page social="4">Testamos várias plantas e compostos em nossas tentativas de limpar essa área, mas todos falharam. Acho que a artemísia pode ser a única que funciona.&lt;BR&gt;&lt;BR&gt;É um desinfetante potente. Você poderia colher um pouco para mim? Ela cresce nos arredores da aldeia.&lt;BR&gt;&lt;BR&gt;Peça a {@LinkCreature:240#1101#Nevis} que a experimente.</Page>
+    
+    </Text>
+    <Text huntingZoneId="240" id="3" prevId="2" villagerId="1101">
+         
+        <Page social="0">Ah, isso é bastante erva-de-são-joão. Mais do que suficiente para eu começar meus experimentos.&lt;BR&gt;&lt;BR&gt;Obrigado!</Page>
+    
+    </Text>
+    <Text huntingZoneId="240" id="4" villagerId="1101">
+         
+        <Page social="0">A erva-de-são-joão parece promissora. Você pode buscar amostras?</Page>
+    
+    </Text>
+</QuestDialog>

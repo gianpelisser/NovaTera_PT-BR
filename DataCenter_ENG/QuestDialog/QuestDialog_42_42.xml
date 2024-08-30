@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="42" id="42" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="242" id="100" prevId="0" villagerId="1035">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="242" id="2" prevId="0" villagerId="1035">
+         
+        <Page social="4">The naga known as {@LinkCreature:42#5006#Maelsaress} is Dagon's highest-ranking officer. She carries a book: The Acts of Dagon.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, I can't tell you how badly we need that book if we're going to defeat the nagas and find their treasure. You're our best hope for getting this done.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="3" prevId="2" villagerId="1035">
+         
+        <Page social="4">Defeating Maelsaress was the next best thing to killing Dagon himself. We're all amazed at what you've been able to accomplish here.&lt;BR&gt;&lt;BR&gt;Between you and me, I'd say you're going places in the federation, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="4" villagerId="1035">
+         
+        <Page social="0">Killing {@LinkCreature:42#5006#Maelsaress} will be a huge blow to the nagas. It would be better to do so quickly.</Page>
+    
+    </Text>
+</QuestDialog>

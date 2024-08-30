@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StrSheet_Passivity xmlns="https://vezel.dev/novadrop/dc/StrSheet_Passivity" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Passivity StrSheet_Passivity.xsd">
+    <String id="80010" name="Main Artifact - Pounding VII" tooltip="Do $value more damage agains monsters" />
+    <String id="80020" name="Main Artifact - Destroyer's Rage VII" tooltip="1.52 times more power to crit on attack from behind" />
+    <String id="80030" name="Main Artifact - Slaying Rhomb VII" tooltip="1.74 more power to crit on attacking a monster with lower than 50% HP" />
+    <String id="80040" name="Main Artifact - Furious Rhomb VII" tooltip="$value additional damage on attacking with lower than 50% HP" />
+    <String id="80050" name="Main Artifact - Focused Rhomb VII" tooltip="1.88 more power to crit on attacking an enraged monster" />
+    <String id="80060" name="Main Artifact - Virulent Rhomb VII" tooltip="Poison effect with crit damage to prone targets." />
+    <String id="80070" name="Main Artifact - Brutal VII" tooltip="Increases damage to knocked-down opponents by $value" />
+    <String id="80080" name="Main Artifact - Cruel VII" tooltip="0.48 more power to crit on inducing knockdown" />
+    <String id="80090" name="Main Artifact - Forceful VII" tooltip="Increases power on crit attack from behind" />
+    <String id="80100" name="Main Artifact - Savage VII" tooltip="1.32 times more power to crit on attack from behind" />
+    <String id="80110" name="Main Artifact - Cunning VII" tooltip="Raises max MP by $value." />
+    <String id="80120" name="Main Artifact - Infused VII" tooltip="285 MP regeneration on knockdown" />
+    <String id="80130" name="Main Artifact - Glistening VII" tooltip="245 MP regeneration on crit attack from behind" />
+    <String id="80140" name="Main Artifact - Swift VII" tooltip="Movement speed in combat increases by $value" />
+    <String id="80150" name="Main Artifact - Brilliant VII" tooltip="Restores $value of MP per $tickInterval" />
+    <String id="80160" name="Main Artifact - Carving VII" tooltip="Increases crit chance by 3.3%" />
+    <String id="80170" name="Main Artifact - Salivating Rhomb VII" tooltip="Restores 89% of MP on attacking a Player." />
+    <String id="80180" name="Main Artifact - Threatening Rhomb VII" tooltip="$value addition aggro on using a skill" />
+    <String id="80190" name="Main Artifact - Destroyer's Will VII" tooltip="$value less damage from monster" />
+    <String id="80200" name="Main Artifact - Protective Rhomb VII" tooltip="$value less chance of crit rate to self when HP is below 50%" />
+    <String id="80210" name="Main Artifact - Resolute Rhomb VII" tooltip="$value less damage to self when HP is below 50%" />
+    <String id="80220" name="Main Artifact - Poised Rhomb VII" tooltip="You take $value less damage from enraged monsters." />
+    <String id="80230" name="Main Artifact - Empyrean VII" tooltip="Activates Shield when knocked down by enraged monsters." />
+    <String id="80240" name="Main Artifact - Warding VII" tooltip="Activates Shield when knocked down by $prob chance" />
+    <String id="80250" name="Main Artifact - Inspiring VII" tooltip="$prob chance to provide HP Regeneration when knocked down." />
+    <String id="80260" name="Main Artifact - Relentless VII" tooltip="Raises max HP by $value." />
+    <String id="80270" name="Main Artifact - Fleetfoot VII" tooltip="Movement speed increases by $value" />
+    <String id="80280" name="Main Artifact - Vigorous VII" tooltip="Restores $value of HP per $tickInterval" />
+    <String id="80290" name="Main Artifact - Grieving VII" tooltip="Recovers 117 MP when hit from Player" />
+    <String id="81001" name="Sub Artifact - Glistening VII" tooltip="Recovers 60 MP on crit attack from behind" />
+    <String id="81002" name="Sub Artifact - Cunning VII" tooltip="Raises max MP by $value." />
+    <String id="81003" name="Sub Artifact - Infused VII" tooltip="Restores 63 MP on knockdown." />
+    <String id="81004" name="Sub Artifact - Salivating Rhomb VII" tooltip="Restores 21 of MP on attacking a Player." />
+    <String id="81005" name="Sub Artifact - Brutal VII" tooltip="Increases damage to knocked-down opponents by $value" />
+    <String id="81006" name="Sub Artifact - Brilliant VII" tooltip="Restores $value of MP per $tickInterval" />
+    <String id="81007" name="Sub Artifact - Swift VII" tooltip="Movement speed in combat increases by $value" />
+    <String id="81008" name="Sub Artifact - Poised Rhomb VII" tooltip="You take $value less damage from enraged monsters." />
+    <String id="81009" name="Sub Artifact - Resolute Rhomb VII" tooltip="$value less damage to self when HP is below 50%" />
+    <String id="81010" name="Sub Artifact - Grieving VII" tooltip="Recovers 28 MP when hit from Player" />
+    <String id="81011" name="Sub Artifact - Protective Rhomb VII" tooltip="$value less chance of crit rate to self when HP is below 50%" />
+    <String id="81012" name="Sub Artifact - Relentless VII" tooltip="Raises max HP by $value." />
+    <String id="81013" name="Sub Artifact - Vigorous VII" tooltip="Restores $value of HP per $tickInterval" />
+</StrSheet_Passivity>

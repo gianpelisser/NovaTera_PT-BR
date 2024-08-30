@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="487" id="23" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="203" id="100" prevId="0" villagerId="1032">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="203" id="2" prevId="0" villagerId="1032">
+         
+        <Page social="5">Não sei o que os Scions estão tramando por lá, mas eles têm muitos aliados demoníacos. Se os Scions puderem prender demônios para fazer seu trabalho, será mais difícil derrotá-los. Vá até o bastião e mate os diabinhos dos Scions.</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="3" prevId="2" villagerId="1032">
+         
+        <Page social="5">Você conseguiu? Esplêndido! &lt;BR&gt;&lt;BR&gt;Não suporto demônios, mesmo os pequenos. Estamos bem livres deles.</Page>
+    
+    </Text>
+</QuestDialog>

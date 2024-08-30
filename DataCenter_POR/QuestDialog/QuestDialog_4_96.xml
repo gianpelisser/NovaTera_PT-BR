@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="96" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="61" id="100" prevId="0" villagerId="1016">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="61" id="2" prevId="0" villagerId="1016">
+         
+        <Page social="4">Há um grande problema em Fyrmount. Os gigantes do tipo hydrath e fimbrilisk.&lt;BR&gt;&lt;BR&gt;Vá até Molten Reach e destrua os {@LinkCreature:4#3011#maraseps} e os {@LinkCreature:4#3021#soulstalkers}.&lt;BR&gt;&lt;BR&gt;Relate a Tifane na Firebase Valor quando a missão estiver concluída.</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="3" prevId="2" villagerId="1006">
+         
+        <Page social="4">Isso é de grande ajuda, &lt;PCNAME&gt;. Muito obrigado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="4" villagerId="1006">
+         
+        <Page social="0">Receio que precisaremos de um pouco mais de você. Vá em frente e tente novamente.</Page>
+    
+    </Text>
+</QuestDialog>

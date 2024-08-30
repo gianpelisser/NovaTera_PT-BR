@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="5" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">Thulsa, holding the last relic fragment, told you he'd rather destroy the world than let you win. He threw himself into Kelsaik's mouth, and Kelsaik became even stronger by consuming the god of death.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">Kelsaik is not in the Ebon Tower, so pursue Thulsa instead! Follow the traces of mana Thulsa leaves in his wake, and you'll find the teleportal Thulsa used to escape.</Page>
+    
+    </Text>
+    <Text huntingZoneId="251" id="3" prevId="2" villagerId="1502">
+         
+        <Page social="1">Thulsa's teleportal goes to a pocket dimension called "Kelsaik's Nest." Brace yourself before you enter.</Page>
+    
+    </Text>
+    <Text huntingZoneId="528" id="4" prevId="3" villagerId="5009">
+         
+        <Page social="1">You defeated Kelsaik, and thus saved Kaiator...and Allemantheia...and Velika...&lt;BR&gt;&lt;BR&gt;...and everywhere.&lt;BR&gt;&lt;BR&gt;The titans continue their dream uninterrupted, thanks to you, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="528" id="5" prevId="4" villagerId="5005">
+         
+        <Page social="1">Killian is dead! You hear that, Father! KILLIAN IS DEAD!&lt;BR&gt;&lt;BR&gt;You kept your promise to me, &lt;PCNAME&gt;, and my father can rest in peace.&lt;BR&gt;&lt;BR&gt;With Killian, Thulsa, and Kelsaik no more, my people can focus on the Argon War.&lt;BR&gt;&lt;BR&gt;Speaking of the argons, you say they took Kelsaik's corpse away? I wonder why....</Page>
+    
+    </Text>
+</QuestDialog>

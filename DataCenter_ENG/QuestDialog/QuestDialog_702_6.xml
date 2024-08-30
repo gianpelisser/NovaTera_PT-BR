@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="702" id="6" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="219" id="100" prevId="0" villagerId="1009">
+         
+        <Page social="0">You participated in Digory’s Kick-Bale game.</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="2" prevId="0" villagerId="1009">
+         
+        <Page social="4">Anybody can kick, but not everybody can kick bales of hay.&lt;BR&gt;&lt;BR&gt;Want to give it a go? &lt;NEXTPAGEBUTTON&gt;&amp;quot;Yes.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="3" prevId="2" villagerId="1009">
+         
+        <Page social="4">You get better each time! Here's your prize. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Thank you.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</QuestDialog>

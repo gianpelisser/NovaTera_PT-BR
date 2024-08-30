@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="3" id="44" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="60" id="100" prevId="0" villagerId="1014">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="60" id="2" prevId="0" villagerId="1014">
+         
+        <Page social="4">Perdemos contato com nossos primos em Crescentia. Os devas passaram por nossos acampamentos e isolaram a cidade e o comércio que a acompanhava.&lt;BR&gt;&lt;BR&gt;Vá para o leste, pela caverna, e informe {@LinkCreature:203#1004#Neacal} no Acampamento Bulwark. Faça o que puder para ajudá-lo. Se você for tão útil em Oblivion Woods quanto foi aqui, eles ficarão bem.</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="3" prevId="2" villagerId="1004">
+         
+        <Page social="6">Está se apresentando? Ótimo.&lt;BR&gt;&lt;BR&gt;Os devas invadiram a floresta e montaram vários acampamentos. Normalmente, eles se limitam a Deva Silva, mas algo os afetou recentemente. &lt;BR&gt;&lt;BR&gt;Eles são durões e astutos, mas com a sua ajuda, talvez possamos derrotá-los.</Page>
+    
+    </Text>
+</QuestDialog>

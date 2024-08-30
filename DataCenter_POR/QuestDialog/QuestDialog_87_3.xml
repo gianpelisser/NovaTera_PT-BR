@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="87" id="3" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="87" id="100" prevId="0" villagerId="1003">
+         
+        <Page social="0">&lt;img src='img://__Quest_Mission.870301'/&gt;&lt;BR&gt;Mirvan não estava cooperando, mas você começou sua missão. Enquanto ajudava na missão de Mirvan, você descobriu sobre os refugiados que estavam sendo ameaçados pelos orcs no campo de refugiados temporário.</Page>
+    
+    </Text>
+    <Text huntingZoneId="87" id="2" prevId="0" villagerId="1003">
+         
+        <Page social="4">&lt;img src='img://__Quest_Mission.870301'/&gt;&lt;BR&gt;Este token é a prova do reconhecimento de Rida por seus serviços e sua autorização para realizar missões.&lt;BR&gt;&lt;BR&gt;Mostre-o a Dorinu e ele lhe dará uma missão.</Page>
+    
+    </Text>
+    <Text huntingZoneId="87" id="3" prevId="2" villagerId="1007">
+         
+        <Page social="4">Papéis? &lt;BR&gt;&lt;BR&gt;Huh. A própria Princesa Rida lhe enviou. Interessante. Acho que ela pensa que você seria um bom complemento para Mirvan, o melhor batedor que temos. Talvez, entre vocês dois, vocês possam resolver esse problema com os invasores orcs.&lt;BR&gt;&lt;BR&gt;Ela está bem aqui. Por favor, ajude-a da melhor maneira possível e não me incomode novamente.</Page>
+    
+    </Text>
+    <Text huntingZoneId="87" id="4" prevId="3" villagerId="1034">
+         
+        <Page social="4">Então... você é um daqueles... bem, eu não sei exatamente o que você é. Mas se a princesa confia em você, suponho que eu também possa confiar.&lt;BR&gt;&lt;BR&gt;Lembre-se disso: Se você ficar no meu caminho, não o perdoarei.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Não o decepcionarei.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Veremos.&lt;BR&gt;&lt;BR&gt;Então a Princesa espera que trabalhemos juntos. Muito bem, aqui está sua primeira tarefa.&lt;BR&gt;&lt;BR&gt;Preciso de uma distração para que eu possa sair e observar a posição dos orcs na Floresta Perdida. Então você vai matar os orcs nessa área; enquanto eles estiverem lidando com você, eu posso ir para onde eu quiser.&lt;BR&gt;&lt;BR&gt;Se você ainda estiver vivo depois disso, vá falar com o gerente do campo de refugiados. Eles precisam de toda a ajuda que puderem obter.</Page>
+    
+    </Text>
+    <Text huntingZoneId="87" id="5" prevId="4" villagerId="1035">
+         
+        <Page social="4">Ouvi os orcs criando um grande tumulto. Isso foi obra sua? &lt;BR&gt;&lt;BR&gt;Bom. Muito bom! Então, em que posso ajudá-lo? &lt;NEXTPAGEBUTTON&gt;&amp;quot;Eu vim para ajudá-lo.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Ah, é claro! Excelente! Agora...hum...&lt;BR&gt;&lt;BR&gt;Oh, sim! Você deveria ir falar com Ansiny.&lt;BR&gt;&lt;BR&gt;Ela acabou de chegar da Floresta Perdida e não está muito bem.</Page>
+    
+    </Text>
+    <Text huntingZoneId="87" id="6" prevId="5" villagerId="1019">
+         
+        <Page social="4">Eu... é como se... um pedaço de mim... tivesse desaparecido. Simplesmente... se foi.&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;&amp;quot;Lá, lá.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Você está... tentando me tranquilizar? Bem, isso não vai ajudar. Minha irmã gêmea se foi. Foi-se! &lt;BR&gt;&lt;BR&gt;Você quer ouvir minha história? Está bem. Vivíamos na floresta, trabalhando em nosso pequeno campo. Conseguimos sobreviver. Então, apareceram alguns orcs. Eles estavam procurando por fadas e ursos. Decidimos que nosso pequeno campo não valia nossas vidas, então fugimos.&lt;BR&gt;&lt;BR&gt;Mas para onde quer que fôssemos: mais orcs. Quase morremos uma dúzia de vezes, indo de campo de refugiados em campo de refugiados, recebendo ajuda onde podíamos. Mas então nos deparamos com um urso particularmente agitado. Ele havia sido ferido pelos orcs e estava furioso. Minha irmã e eu nos separamos. Dissemos que nos encontraríamos aqui, então continuei correndo. Agora aqui estou eu, mas ela não está aqui.</Page>
+         
+        <Page social="0">Seu nome é Raina... Perguntei a todos no acampamento, mas ninguém a viu. Você acha que há alguma chance de ela ainda estar viva? Espero que sim.&lt;BR&gt;&lt;BR&gt;Por favor, &lt;PCNAME&gt;, ajude minha irmã a chegar ao acampamento! Há tantos ursos agitados e fadas ansiosas que ela pode estar do lado de fora do acampamento, sem conseguir passar por eles para se salvar! Mate-os. Mate-os para que minha irmã e os outros refugiados possam passar! &lt;BR&gt;&lt;BR&gt;E se você vir minha irmã, por favor, diga a ela que estou aqui!</Page>
+    
+    </Text>
+    <Text huntingZoneId="87" id="7" prevId="6" villagerId="1020">
+         
+        <Page social="4">É melhor desistir, amigo. Não há como chegar ao campo de refugiados... eu já tentei.&lt;BR&gt;&lt;BR&gt;O quê? Minha irmã o enviou? Oh, estou tão feliz que ela esteja bem! Ela é tudo o que eu tenho. Eu sou tudo o que ela tem.&lt;BR&gt;&lt;BR&gt;Os orcs tomaram nossa fazenda, nos perseguiram pela floresta... as fadas e os ursos tentaram nos matar, várias vezes. Corríamos, nos escondíamos, comíamos nozes e frutas silvestres... mas tínhamos um ao outro! E então conhecemos Kalido.&lt;BR&gt;&lt;BR&gt;Ele era um fazendeiro que voltava do mercado. Ele nos contou o que aconteceu com Pora Elinu... disse que tínhamos que chegar a um campo de refugiados.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Estou ouvindo.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Kalido nos ajudou a sair do Bosque Perdido. Mas ele disse que tinha algo a fazer e voltou. Então Ansiny e eu continuamos correndo. E então nos separamos.&lt;BR&gt;&lt;BR&gt;Mas agora eu não só sei que ela está viva, como sei onde ela está! E tudo isso graças a você, &lt;PCNAME&gt;. Você até abriu um caminho entre as fadas e os ursos para mim! Obrigado a você. Agora posso chegar ao acampamento sozinho... e encontrar minha irmã novamente.&lt;BR&gt;&lt;BR&gt;Mas estou preocupado com Kalido, &lt;PCNAME&gt;. Ele precisa de ajuda, tanto quanto eu e minha irmã. Por favor, ajude-o, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="87" id="8" prevId="7" villagerId="1021">
+         
+        <Page social="4">Essas duas garotas estão bem? Estão bem. Eu esperava que elas ficassem bem, depois que nos separamos...&lt;NEXTPAGEBUTTON&gt;&amp;quot;Qual é a situação aqui?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Depois que mandei as meninas para o campo de refugiados, voltei para cá para ajudar essas pessoas a construir uma muralha, para manter os orcs do lado de fora.&lt;BR&gt;&lt;BR&gt;Mas tivemos que deixar um caminho para os refugiados passarem, e os orcs continuam nos contornando, para atacar os campos de refugiados. Você provavelmente viu alguns no caminho para cá.&lt;BR&gt;&lt;BR&gt;A Guarda de Honra aqui fez um trabalho admirável guardando a muralha, mas eles não podem resistir por muito mais tempo. Não recebemos nenhuma notícia de alívio da cidade.&lt;BR&gt;&lt;BR&gt;Este acampamento não é mais seguro. Mas Kelleher tem um plano. Ela é a oficial mais graduada aqui. Acho que ela é a única oficial aqui agora. Você deveria ir falar com ela.</Page>
+    
+    </Text>
+    <Text huntingZoneId="87" id="9" prevId="8" villagerId="1015">
+         
+        <Page social="4">Acho que você não é o nosso alívio. Não tem problema. Pelo menos vocês não são mais bocas para alimentar. Qualquer ajuda é bem-vinda.&lt;BR&gt;&lt;BR&gt;Fomos encarregados de recuperar os suprimentos perdidos, mas não está indo bem. Perdemos contato com nossos catadores - e depois perdemos contato com os soldados que enviei para procurá-los.&lt;BR&gt;&lt;BR&gt;Vocês podem nos ajudar indo ao Bosque Perdido, encontrando Hasran e trazendo de volta meus soldados... e aqueles suprimentos!</Page>
+    
+    </Text>
+    <Text huntingZoneId="87" id="10" prevId="9" villagerId="1002">
+         
+        <Page social="4">A Kelleher lhe enviou? &lt;NEXTPAGEBUTTON&gt;&amp;quot;Sim.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Que bom, eu estava começando a achar que eles tinham me dado como morto.&lt;BR&gt;&lt;BR&gt;Obrigado por me encontrar, &lt;PCNAME&gt;. Aqui, pegue isso. É tudo o que eu tenho. Que sejam úteis para você.</Page>
+    
+    </Text>
+</QuestDialog>

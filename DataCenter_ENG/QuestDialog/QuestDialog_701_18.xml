@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="701" id="18" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="210" id="100" prevId="0" villagerId="2005">
+         
+        <Page social="0">You participated in the melon bash game at Wahmel’s game area.</Page>
+    
+    </Text>
+    <Text huntingZoneId="210" id="2" prevId="0" villagerId="2005">
+         
+        <Page social="4">Welcome back, &lt;PCNAME&gt;! Have you come back for more of the best game on the beach?&lt;BR&gt;&lt;BR&gt;Think you can beat your score this time? Let's find out!</Page>
+    
+    </Text>
+    <Text huntingZoneId="210" id="3" prevId="2" villagerId="2005">
+         
+        <Page social="4">Did you set a new best score? Yes? No?&lt;BR&gt;&lt;BR&gt;Well, either way, I promised you a prize, and a prize you will have!&lt;BR&gt;&lt;BR&gt;Enjoy!</Page>
+    
+    </Text>
+</QuestDialog>

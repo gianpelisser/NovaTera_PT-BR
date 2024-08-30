@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="494" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="237" id="100" prevId="0" villagerId="1027">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="237" id="2" prevId="0" villagerId="1027">
+         
+        <Page social="0">Suas façanhas no jardim do meu mestre o divertiram muito! Saleron lhe dá as boas-vindas para passear por lá sempre que desejar.&lt;BR&gt;&lt;BR&gt;Enquanto você continuar a diverti-lo, Saleron o recompensará com algo que possa usar em seu mundo.&lt;BR&gt;&lt;BR&gt;Ele acha sua prisão bastante entediante.</Page>
+    
+    </Text>
+    <Text huntingZoneId="237" id="3" prevId="2" villagerId="1027">
+         
+        <Page social="5">Saleron está satisfeito. Aqui está sua recompensa, como prometido.&lt;BR&gt;&lt;BR&gt;Enquanto você mantiver Saleron entretido, ele sempre lhe mostrará essa gratidão.</Page>
+    
+    </Text>
+    <Text huntingZoneId="237" id="4" villagerId="1027">
+         
+        <Page social="0">Estou feliz por você estar aqui - meu mestre Saleron se aborrece facilmente. Se quiser passear novamente pelo jardim do céu, tenho certeza de que isso o animaria bastante.&lt;BR&gt;&lt;BR&gt;E eu pagaria de bom grado para ver Saleron mais feliz.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="63" id="56" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="63" id="100" prevId="0" villagerId="1070">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="2" prevId="0" villagerId="1070">
+         
+        <Page social="5">Um duelo, lembre-se, é um teste de habilidade entre dois oponentes. Nunca é uma luta até a morte. A federação precisa de soldados, não de tolos mortos.&lt;BR&gt;&lt;BR&gt;Então, o que você acha - está pronto para uma rodada?</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="1070">
+         
+        <Page social="5">Os duelos não são brigas, portanto, preste atenção e aprenda o protocolo. O duelo requer consentimento, portanto, mostre respeito e pergunte. Qualquer covarde que não queira duelar com você pode recusar e ir embora.&lt;BR&gt;&lt;BR&gt;Os duelos nunca são para a morte - é um esporte de honra! Você pode duelar livremente fora dos limites da cidade, mas na cidade você só pode duelar em determinadas áreas. Algumas pessoas são moles demais para apreciar a visão de dois oponentes habilidosos lutando até o limite!</Page>
+         
+        <Page social="5">Se quiser duelar, digite &lt;b&gt;/duelo "nome do personagem"&lt;/b&gt; na sua janela de bate-papo, ou abra o cursor pressionando a tecla Alt, &lt;b&gt;clique com o botão direito do mouse no seu oponente e selecione Duelar no menu.&lt;/b&gt;&lt;BR&gt;&lt;BR&gt;Seu oponente deve concordar, então pode haver um pouco de espera - seja paciente! Você pode &lt;b&gt;aceitar ou recusar&lt;/b&gt; como quiser.&lt;BR&gt;&lt;BR&gt;Para aqueles que lutam por ela, no entanto, a vida tem um sabor que os protegidos nunca poderão conhecer.</Page>
+    
+    </Text>
+</QuestDialog>

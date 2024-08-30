@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="11" id="44" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="211" id="100" prevId="0" villagerId="1018">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="211" id="2" prevId="0" villagerId="1018">
+         
+        <Page social="0">I'll bet that magic stone is right next to {@LinkCreature:11#5003#Orless}, the captain of the Red Lashes.&lt;BR&gt;&lt;BR&gt;But he ain't giving it up without a fight. You look like you got a lot of fight in you, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Head down the northern stairs, and you'll reach the cabin Orless calls home. Beat some answers out of him!</Page>
+    
+    </Text>
+    <Text huntingZoneId="211" id="3" prevId="2" villagerId="1018">
+         
+        <Page social="4">Well, the words on the map are in code. And math wasn't exactly my best subject in reform school.&lt;BR&gt;&lt;BR&gt;Take this to Ilaria on the Jagged Coast. She has a head for figures, and a figure for...&lt;BR&gt;&lt;BR&gt;Never mind. Long story.</Page>
+    
+    </Text>
+    <Text huntingZoneId="211" id="4" villagerId="1018">
+         
+        <Page social="0">{@LinkCreature:11#5003#Orless} is the key. Don't you want to have the key?</Page>
+    
+    </Text>
+    <Text huntingZoneId="211" id="5" prevId="3" villagerId="1005">
+         
+        <Page social="4">Fate smile upon you, &lt;PCNAME&gt;. Any news from the grotto?&lt;BR&gt;&lt;BR&gt;What? A dementalith? And bombs? Titans preserve us!&lt;BR&gt;&lt;BR&gt;Let me look at the map you have. They're pirates. How good could their code be?&lt;NEXTPAGEBUTTON&gt;"Here you go."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Let's see...first, inner, outer, last...got it!&lt;BR&gt;&lt;BR&gt;Hmmm. You aren't going to like this, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;This map is an emergency land route out of the grotto. The pirates took the dementalith overland...to the north.&lt;BR&gt;&lt;BR&gt;Worse...it's labeled as the "stone of insanity."</Page>
+    
+    </Text>
+</QuestDialog>

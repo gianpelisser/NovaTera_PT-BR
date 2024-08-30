@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="21" id="41" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="221" id="100" prevId="0" villagerId="1029">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="221" id="2" prevId="0" villagerId="1029">
+         
+        <Page social="4">Não posso mais ignorar o perigo que os basiliscos representam. Velika diz que ninguém entra, mas Chebika não estará segura até que alguém o faça.&lt;BR&gt;&lt;BR&gt;Vocês estão autorizados a entrar no Vale dos Túmulos e matar {@LinkCreature:21#2#dusky basilisks}. Informe quando tiver terminado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="221" id="3" prevId="2" villagerId="1029">
+         
+        <Page social="6">Os basiliscos não são nada para se brincar. Eu saúdo sua coragem, &lt;PCNAME&gt;!</Page>
+    
+    </Text>
+    <Text huntingZoneId="221" id="4" villagerId="1029">
+         
+        <Page social="0">Chebika está sob proteção da federação. Tenho minhas ordens, assim como você. Acabem com os basiliscos.</Page>
+    
+    </Text>
+</QuestDialog>

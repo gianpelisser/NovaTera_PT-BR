@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="31" id="95" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="73" id="100" prevId="0" villagerId="1009">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="73" id="2" prevId="0" villagerId="1009">
+         
+        <Page social="0">The cycle never ends. All sorts of undead creatures are lurking on Icefang Inlet. Kill {@LinkCreature:31#8#sepulchral} and {@LinkCreature:31#9#souleater wraiths}, {@LinkCreature:31#10#frostreach sentinels}, {@LinkCreature:31#16#storm naga ravagers} and {@LinkCreature:31#17#predators}, {@LinkCreature:31#22#frosthowl sirens}, {@LinkCreature:31#23#frostclaw sirens}, and {@LinkCreature:31#24#dark arcanists}. And while you're at it, collect some wispy iceflowers, too!&lt;BR&gt;&lt;BR&gt;Report to Leuwra at Coastal Overwatch camp when you're finished</Page>
+    
+    </Text>
+    <Text huntingZoneId="231" id="3" prevId="2" villagerId="1012">
+         
+        <Page social="4">Here's your reward for a job well done. We're always eager for more help eliminating our enemies.</Page>
+    
+    </Text>
+    <Text huntingZoneId="231" id="4" villagerId="1012">
+         
+        <Page social="0">I will reward you any time you clear up this region.&lt;BR&gt;&lt;BR&gt;Just bring back some of those wispy iceflowers to prove you did the deed.</Page>
+    
+    </Text>
+</QuestDialog>

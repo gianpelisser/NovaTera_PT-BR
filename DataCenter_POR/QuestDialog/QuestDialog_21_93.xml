@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="21" id="93" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="65" id="100" prevId="0" villagerId="1012">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="65" id="2" prevId="0" villagerId="1012">
+         
+        <Page social="0">Minha pilha está começando a se esgotar aqui. Guarde alguns trabalhos para os outros pobres coitados, hein?&lt;BR&gt;&lt;BR&gt;Tudo bem, então {@LinkCreature:21#1#vicious dusky basilisks} e {@LinkCreature:21#2#dusky basilisks} é isso.&lt;BR&gt;&lt;BR&gt;Fale com Gaenor na Rocha do Basilisco quando terminar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="221" id="3" prevId="2" villagerId="1030">
+         
+        <Page social="4">Obrigado por seu trabalho árduo. Espero que isso impeça que eles se multipliquem, pelo menos por um tempo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="221" id="4" villagerId="1030">
+         
+        <Page social="0">Sinto muito, mas você ainda não cumpriu sua cota de missões.</Page>
+    
+    </Text>
+</QuestDialog>

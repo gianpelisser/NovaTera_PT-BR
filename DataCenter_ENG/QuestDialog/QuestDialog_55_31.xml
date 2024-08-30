@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="55" id="31" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="255" id="100" prevId="0" villagerId="1015">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="255" id="2" prevId="0" villagerId="1015">
+         
+        <Page social="4">The path to the Staff of Isren is blocked by orisks. They're not normally found in this area, so someone wants us to stay as far from the staff as possible.&lt;BR&gt;&lt;BR&gt;We need to reach the staff. I don't care if you lure them away with steamcakes and firewhiskey, but dead or alive, they've got to go.</Page>
+    
+    </Text>
+    <Text huntingZoneId="255" id="3" prevId="2" villagerId="1015">
+         
+        <Page social="4">It's just as well you didn't waste food or drink on the orisks. Rations are a bit thin lately. Folks might have killed you for the firewhiskey.</Page>
+    
+    </Text>
+</QuestDialog>

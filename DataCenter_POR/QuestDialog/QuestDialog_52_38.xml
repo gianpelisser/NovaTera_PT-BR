@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="38" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="252" id="100" prevId="0" villagerId="1048">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="252" id="2" prevId="0" villagerId="1048">
+         
+        <Page social="4">Nosso solo sagrado é profanado por porcos gananciosos, cegos pela atração do dinheiro sujo de Thulsa.&lt;BR&gt;&lt;BR&gt;Os viciosos guardiões de runas e conquistadores maligosos. Não são vocês. Você está do nosso lado.&lt;BR&gt;&lt;BR&gt;Traga-me os corações das feras, e eu lhe pagarei por quilo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="3" prevId="2" villagerId="1048">
+         
+        <Page social="4">Fazia muito tempo que eu não ria tanto!&lt;BR&gt;&lt;BR&gt;Obrigado por punir o porco ganancioso. Aceite este pequeno símbolo de minha gratidão. &lt;BR&gt;&lt;BR&gt;Por favor, eu insisto. Meu dinheiro não é tão sujo quanto o de Thulsa.</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="4" villagerId="1048">
+         
+        <Page social="0">Cuide de alguns guardiões de runas cruéis e conquistadores malignos e depois me traga seus corações, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+</QuestDialog>

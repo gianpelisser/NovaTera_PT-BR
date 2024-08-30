@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="46" id="31" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="246" id="100" prevId="0" villagerId="1035">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="246" id="2" prevId="0" villagerId="1035">
+         
+        <Page social="4">In the deepest part of Raga Shadi are argons, of course. But what fascinates me are the argonomorph nightmare fiends. We think their blood somehow reacts to dreaming mortals. They get stronger whenever we sleep, in other words.</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="3" prevId="2" villagerId="1035">
+         
+        <Page social="4">Don't get the blood on you. Nightmare-tainted blood could drive you insane if you're exposed to enough of it.&lt;BR&gt;&lt;BR&gt;You know your way around the towers, right? Been to Soulsurge Chamber to the east? Well, that's your next destination.</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="4" villagerId="1035">
+         
+        <Page social="0">The blood of {@Creature:46#402#argonomorph nightmare fiends} reacts to mortal dreams. We need to figure out how.</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="5" prevId="3" villagerId="1036">
+         
+        <Page social="4">Flinton sent you onward rather quickly. Either you're quite efficient, or...no, that must be it. You're just good at what you do.</Page>
+    
+    </Text>
+</QuestDialog>

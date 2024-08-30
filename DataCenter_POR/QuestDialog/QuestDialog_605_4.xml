@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="605" id="4" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="63" id="100" prevId="0" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="2" prevId="0" villagerId="3003">
+         
+        <Page social="4">Nunca me canso de ver seu rosto sorridente, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"Nem eu o seu."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Eu adoro conversa fiada, e você? Vamos ficar aqui o dia todo e dizer coisas boas um para o outro.&lt;BR&gt;&lt;BR&gt;Ou, você poderia ir ver se {@LinkCreature:63#3002#Taratia} tem algum trabalho para você. Eu sei o quanto você gosta disso.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="3002">
+         
+        <Page social="4">Eu sei que esse negócio de coleta deve estar totalmente abaixo de você, mas você está aqui apenas pelo dinheiro, certo? "Pela federação" e assim por diante.&lt;BR&gt;&lt;BR&gt;Bem, aproveite o mundo exterior enquanto você recebe as remessas de hoje. Eu, com certeza, nunca o verei.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="4" prevId="2" villagerId="3002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="5" prevId="2" villagerId="3002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="6" prevId="2" villagerId="3002">
+         
+        <Page social="5">Fibra de Toira. Esse material é infinitamente útil se você souber o que fazer com ele.&lt;BR&gt;&lt;BR&gt;Obrigado! Diga a {@LinkCreature:63#3003#Elthienne} que eu terei o item dela fabricado em pouco tempo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="7" villagerId="3002">
+         
+        <Page social="0">Traga-me a fibra de toira, ou juro que vou chorar como um bebê. Você não quer ver isso, quer?</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="8" prevId="6" villagerId="3002">
+         
+        <Page social="5">{A Elthienne acha que esse material é a camisola do dente-de-sabre. Ela sabe muito pouco sobre artesanato. Você deveria vê-la em uma oficina. É realmente muito engraçado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="9" villagerId="3002">
+         
+        <Page social="0">Está vendo este rosto? Esse é o rosto de alguém que precisa de bloodhide.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="10" prevId="8" villagerId="3003">
+         
+        <Page social="4">{@LinkCreature:63#3002#Taratia} lhe disse que eu não sou bom em artesanato? Aquela bruxa! &lt;BR&gt;&lt;BR&gt;Eu fiz esse cinto estiloso, fique sabendo.</Page>
+    
+    </Text>
+</QuestDialog>

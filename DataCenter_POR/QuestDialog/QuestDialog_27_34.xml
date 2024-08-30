@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="27" id="34" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="227" id="100" prevId="0" villagerId="1024">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="227" id="2" prevId="0" villagerId="1024">
+         
+        <Page social="5">As forças de Thulsa são fortemente aumentadas por construtos. Seu domínio da magia negra é quase absoluto, o que significa que a fortaleza é incrivelmente durável. Se conseguirmos controlá-la, teremos um trunfo poderoso na guerra contra os argons.&lt;BR&gt;&lt;BR&gt;Para enfraquecer as legiões, quero que você mate {@LinkCreature:27#4#eldritch sentinels}. Sua capacidade de combate é considerável, portanto, eliminá-las é vital.</Page>
+    
+    </Text>
+    <Text huntingZoneId="227" id="3" prevId="2" villagerId="1024">
+         
+        <Page social="5">Com as sentinelas destruídas, temos a chance de romper as linhas deles. Você deve me desculpar. Tenho que relatar isso a Velnen!</Page>
+    
+    </Text>
+    <Text huntingZoneId="227" id="4" villagerId="1024">
+         
+        <Page social="0">Essas sentinelas estão no caminho de nosso contra-ataque. Elas devem ser destruídas.</Page>
+    
+    </Text>
+</QuestDialog>

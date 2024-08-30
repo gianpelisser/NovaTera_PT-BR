@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="20" id="30" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="220" id="100" prevId="0" villagerId="1004">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="220" id="2" prevId="0" villagerId="1004">
+         
+        <Page social="4">Sei que há sobreviventes aqui em cima. Posso ouvi-los gritar, mas os esqueletos me impedem de resgatá-los.&lt;BR&gt;&lt;BR&gt;Sinto como se já tivesse tentado uma dúzia de vezes.&lt;BR&gt;&lt;BR&gt;Por favor, &lt;PCNAME&gt;Eu realmente poderia usar sua ajuda aqui.</Page>
+    
+    </Text>
+    <Text huntingZoneId="220" id="3" prevId="2" villagerId="1030">
+         
+        <Page social="4">Ah - através! Porta aberta, porta aberta. Tchau!</Page>
+    
+    </Text>
+    <Text huntingZoneId="220" id="4" prevId="2" villagerId="1031">
+         
+        <Page social="4">Obrigado! Eu pensei... apenas obrigado!</Page>
+    
+    </Text>
+    <Text huntingZoneId="220" id="5" prevId="2" villagerId="1032">
+         
+        <Page social="4">Gostaria muito de ficar e agradecê-lo adequadamente, mas tenho que ir!</Page>
+    
+    </Text>
+    <Text huntingZoneId="220" id="6" prevId="2" villagerId="1033">
+         
+        <Page social="4">Preciso falar com minha família. Obrigado!</Page>
+    
+    </Text>
+    <Text huntingZoneId="220" id="7" prevId="2" villagerId="1034">
+         
+        <Page social="4">Obrigado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="220" id="8" prevId="3" villagerId="1006">
+         
+        <Page social="4">Oh, obrigado. Os aldeões que você resgatou foram levados para Chebika.&lt;BR&gt;&lt;BR&gt;Foi muito bom você ter ajudado. Estava me matando não ser capaz de ajudar.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="33" id="33" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="233" id="100" prevId="0" villagerId="1008">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="233" id="2" prevId="0" villagerId="1008">
+         
+        <Page social="4">Você é o &lt;PCNAME&gt;, certo? Talvez você possa me ajudar. Os soldados comuns são inúteis.&lt;BR&gt;&lt;BR&gt;Eles me enviaram aqui para estudar os mortos-vivos e encontrar uma fraqueza, mas as tropas não conseguem reunir... hum... espécimes.&lt;BR&gt;&lt;BR&gt;Mate {@LinkCreature:33#16#minionsanguished} e {@LinkCreature:33#17#ebon inquisitors}.&lt;BR&gt;&lt;BR&gt;E acredite em mim: você está fazendo um favor às almas presas deles ao devolvê-las ao Sonho.</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="3" prevId="2" villagerId="1008">
+         
+        <Page social="0">Confie em mim: se você morrer aqui embaixo, preferirá que sua alma retorne ao Sonho dos Titãs a ficar presa em um corpo morto-vivo por anos. Se não séculos...</Page>
+    
+    </Text>
+</QuestDialog>

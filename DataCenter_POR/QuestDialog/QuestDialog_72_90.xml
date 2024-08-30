@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="72" id="90" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="518" id="100" prevId="0" villagerId="1015">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="518" id="2" prevId="0" villagerId="1015">
+         
+        <Page social="0">&lt;PCNAME&gt;, posso sentir algo especial em você - confiança duramente conquistada pela experiência. Se quiser aumentar sua fama em toda a nossa guilda, por que não se testar na arena? &lt;BR&gt;&lt;BR&gt;Você deve começar no Champions' Skyring. Se quiser batalhar, reúna seus colegas e monte sua equipe por meio do gerenciador do Champions' Skyring. Se você vencer, terá fama e recompensas proporcionais à sua vitória. Você não tem nada a perder!</Page>
+    
+    </Text>
+    <Text huntingZoneId="518" id="3" prevId="2" villagerId="1015">
+         
+        <Page social="0">Excelente! Que coragem magnífica! Este é apenas o primeiro passo. Se você escolher, grandes glórias - e desafios - o aguardam.</Page>
+    
+    </Text>
+</QuestDialog>

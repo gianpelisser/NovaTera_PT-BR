@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="63" id="57" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="63" id="100" prevId="0" villagerId="1160">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="2" prevId="0" villagerId="1160">
+         
+        <Page social="0">Você aí! O senhor! Oh, obrigado por ter vindo. Por favor, meu querido amigo Haines está nos arredores da Vila Velika e, ultimamente, ele está passando por um momento terrível com os cavalos. Quero que você o ajude. Depois que você o ajudar, quem sabe? Ele pode lhe dar algo em troca de seu tempo e trabalho.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="1149">
+         
+        <Page social="0">Saudações. Você veio me ajudar com os cavalos? Dougal disse que perguntaria por aí, mas achei que ele não encontraria ninguém! &lt;BR&gt;&lt;BR&gt;O problema é que os cavalos estão muito fracos. Eles não estão em condições de cavalgar para a batalha. Tenho certeza de que &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=1#-11565.4844,-9482.6436,6291.0557&amp;type=1&amp;name=veridia extract"&gt;veridia extract&lt;/A&gt;&lt;/font&gt; os ajudaria, mas não posso deixar os cavalos à procura de ninguém.&lt;BR&gt;&lt;BR&gt;E não posso enviar Pokan. É um sujeito leal, mas me surpreende que ele não se perca ao sair da cama.&lt;BR&gt;&lt;BR&gt;Poderia encontrar algum para mim? Para os cavalos?</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="4" prevId="3" villagerId="1149">
+         
+        <Page social="0">Oh, excelente. É isso mesmo! Obrigado pela ajuda!&lt;BR&gt;&lt;BR&gt;Aqui, tome isto por sua gentileza. Espero que lhe seja útil.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="5" villagerId="1149">
+         
+        <Page social="0">Por favor, obtenha o extrato. Esses cavalos são para soldados como você!</Page>
+    
+    </Text>
+</QuestDialog>

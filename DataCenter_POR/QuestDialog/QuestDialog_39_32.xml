@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="39" id="32" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="239" id="100" prevId="0" villagerId="1015">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="239" id="2" prevId="0" villagerId="1015">
+         
+        <Page social="4">Se conseguirmos eliminar aqueles {@LinkCreature:39#170#jalmaraks leais} a leste do acampamento, será uma força a menos que os aracnídeos poderão usar contra nós.&lt;BR&gt;&lt;BR&gt;Se você matar algum em suas viagens, traga-me as cabeças.</Page>
+    
+    </Text>
+    <Text huntingZoneId="239" id="3" prevId="2" villagerId="1015">
+         
+        <Page social="4">Você prestou um serviço valioso para a federação e para todos nós aqui. Espero que fique por aqui.</Page>
+    
+    </Text>
+    <Text huntingZoneId="239" id="4" villagerId="1015">
+         
+        <Page social="0">Os aracnídeos controlam os {@LinkCreature:39#170#jalmaraks leais}. Nós queremos que eles desapareçam.&lt;BR&gt;&lt;BR&gt;Eles já foram embora?</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="33" id="39" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="233" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="233" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="0">&lt;PCNAME&gt;, você é bom em pular? &lt;BR&gt;&lt;BR&gt;Que tal cair? &lt;BR&gt;&lt;BR&gt;Precisamos de alguém que pule pelo piso escavado e desça - despenque, na verdade - até o porão.&lt;BR&gt;&lt;BR&gt;Há um batedor lá, Waqaar, de quem não temos notícias há algum tempo. Dê uma olhada nele e depois volte para cá quando terminar de descer.</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="3" prevId="2" villagerId="1024">
+         
+        <Page social="4">A má notícia: esse é o buraco pelo qual você está pulando. E não, não há outra maneira de descer.&lt;BR&gt;&lt;BR&gt;A boa notícia: enviamos um mestre de teletransporte para lá ontem, então você deve conseguir voltar.&lt;BR&gt;&lt;BR&gt;Assumindo que o mestre de teletransporte sobreviveu à queda, isto é...</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="4" prevId="3" villagerId="1013">
+         
+        <Page social="4">Que pressa, hein?&lt;BR&gt;&lt;BR&gt;Espero que você tenha dominado o combate tão bem quanto domina a gravidade, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;Temos muito trabalho a fazer aqui embaixo.</Page>
+    
+    </Text>
+</QuestDialog>

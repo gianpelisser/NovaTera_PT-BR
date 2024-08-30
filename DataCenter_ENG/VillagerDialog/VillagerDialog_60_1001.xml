@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="60" id="1001" voiceTypeId="5">
+    <Text huntingZoneId="60" id="1" endSocial="14" prevId="0" villagerId="1001">
+         
+        <Page social="4">Everyone wants a bargain, just because the loggers can't work...</Page>
+    
+    </Text>
+    <Text huntingZoneId="60" id="2" endSocial="14" prevId="0" villagerId="1001">
+         
+        <Page social="4">Everyone wants the loggers to get back to work, but what about the refugees?</Page>
+    
+    </Text>
+    <Text huntingZoneId="60" id="101" endSocial="14" prevId="0" villagerId="1001">
+         
+        <Page social="4">Looking for something special?</Page>
+    
+    </Text>
+    <Text huntingZoneId="60" id="102" endSocial="14" prevId="0" villagerId="1001">
+         
+        <Page social="4">Fair goods for a fair price, friend.</Page>
+    
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="5" id="38" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="205" id="100" prevId="0" villagerId="1003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="205" id="2" prevId="0" villagerId="1003">
+         
+        <Page social="0">All the chiefs who follow Great Chief Moong are dangerous. None should still be alive. It's terrible, but it's the only way.&lt;BR&gt;&lt;BR&gt;If you take this tablet to the humans, they'll probably be able to help.</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="3" prevId="2" villagerId="1012">
+         
+        <Page social="5">Huh. Conquer all non-tuwangis? That's absolute jibberish, besides the fact that we're quickly running out of tree-growing land, what with the swamp expanding like it is.&lt;BR&gt;&lt;BR&gt;Thanks for bringing this to me. We've clearly got some work to do if we're going to stop it before it gets out of control.</Page>
+    
+    </Text>
+</QuestDialog>

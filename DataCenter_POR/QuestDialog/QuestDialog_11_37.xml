@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="11" id="37" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="211" id="100" prevId="0" villagerId="1009">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="211" id="2" prevId="0" villagerId="1009">
+         
+        <Page social="4">Nenhum navio pirata partiu, então o dementalith deve estar lá em cima em algum lugar. E nós vamos localizá-la.&lt;BR&gt;&lt;BR&gt;Fale com Piarto lá em cima. Ele está reunindo informações lá em cima. No caminho, mate alguns {@LinkCreature:11#2007#Red Lash slayers} para que não enfrentemos tanta resistência no segundo andar.&lt;BR&gt;&lt;BR&gt;Oh, e mais uma coisa: Piarto é um mestre do disfarce. Não dá para saber como ele se parece.</Page>
+    
+    </Text>
+    <Text huntingZoneId="211" id="3" prevId="2" villagerId="1031">
+         
+        <Page social="4">Otus o enviou, certo? Que bom. Eu estava começando a pensar que eles tinham se esquecido de mim.&lt;BR&gt;&lt;BR&gt;Um dementalith, hein? Não, não ouvi nada sobre isso. &lt;BR&gt;&lt;BR&gt;Será bem-vindo para dar uma olhada.</Page>
+    
+    </Text>
+</QuestDialog>

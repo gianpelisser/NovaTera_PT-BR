@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="121" id="17" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="63" id="100" prevId="0" villagerId="22008">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="2" prevId="0" villagerId="22008">
+         
+        <Page social="1">Temos que treinar você, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Oh, eu sei que você acha que já está treinando há algum tempo, mas por melhor que você se ache, você tem que ser melhor para fazer parte do Coletivo de Comerciantes Livres.&lt;BR&gt;&lt;BR&gt;Você precisará matar um {@linkcreature:124#102#Monstro de Olho Único Treinado}, um {@linkcreature:125#103#Filhote de Dragão Treinado} ou um {@linkcreature:126#104#Vulcano Treinado}. Você receberá uma ficha de coração quando fizer isso.&lt;BR&gt;&lt;BR&gt;Depois de terminar, traga sua ficha de volta.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="22008">
+         
+        <Page social="4">Bom trabalho. Já posso dizer que você será um trunfo para o coletivo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="4" villagerId="22008">
+         
+        <Page social="0">Pelo coletivo de comerciantes livres!</Page>
+    
+    </Text>
+</QuestDialog>

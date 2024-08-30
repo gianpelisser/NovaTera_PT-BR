@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="90" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="213" id="100" prevId="0" villagerId="1141">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="213" id="2" prevId="0" villagerId="1141">
+         
+        <Page social="4">Poderia me fazer um favor? &lt;BR&gt;&lt;BR&gt;Precisamos instalar um escudo mágico ao redor de nosso posto avançado, mas estamos com poucas pedras de relíquia.&lt;BR&gt;&lt;BR&gt;Vá até a &lt;b&gt;Mestre de Teleporte Hermaiorni&lt;/b&gt; na Base da Torre e diga a ela que eu o enviei. Ela lhe dará pedras de relíquia.&lt;BR&gt;&lt;BR&gt;Isso é urgente, então, por favor, use o &lt;b&gt;Safe Haven Teleport Scroll&lt;/b&gt; para viajar mais rápido. Você pode usar o serviço de teletransporte de Hermaiorni para retornar. Não perca tempo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="64" id="3" prevId="2" villagerId="1050">
+         
+        <Page social="4">Fili o enviou? Ela compreende perfeitamente o processo de requisição, mas persiste em cortar caminho.&lt;BR&gt;&lt;BR&gt;Nossa troca, que deveria ter sido simples, agora requer a intervenção de outra pessoa. No entanto, posso atender às necessidades dela e também lhe demonstrar como funciona o &lt;b&gt;teletransporte&lt;/b&gt;.&lt;BR&gt;&lt;BR&gt;Para o viajante, é simples. Uma vez que você tenha visitado um lugar, &lt;b&gt;mestres do teletransporte&lt;/b&gt; como eu podem enviá-lo diretamente para lá.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="4" prevId="3" villagerId="1141">
+         
+        <Page social="4">Você veio! Obrigado! &lt;BR&gt;&lt;BR&gt;Lembre-se de que usar um pergaminho de teletransporte ou um mestre de teletransporte é uma maneira muito conveniente de se mover.</Page>
+    
+    </Text>
+</QuestDialog>

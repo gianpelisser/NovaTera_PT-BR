@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="51" id="21" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="79" id="100" prevId="0" villagerId="1007">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="79" id="2" prevId="0" villagerId="1007">
+         
+        <Page social="4">Thulsa's taken over the Vale of Spires and deployed some pylons made with argon technology. They appear to make the denizens of the vale hostile to us, but not to his forces.&lt;BR&gt;&lt;BR&gt;We must locate these pylons and find a way to destroy them. Report to Thenuvia. She'll have more details for you.</Page>
+    
+    </Text>
+    <Text huntingZoneId="251" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="4">Yes, these draelkar pylons are vicious things. I wish we had some! Send the argons to go fight themselves while we down a few tankards, eh?&lt;BR&gt;&lt;BR&gt;The vanguards compiled a list of pylon locations. The sooner they're destroyed, the sooner we can take the fight straight to Thulsa!</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="64" id="1001" voiceTypeId="16">
+    <Text huntingZoneId="64" id="1" endSocial="14" prevId="0" villagerId="1001">
+         
+        <Page social="4">This island has cost us much, but Elleon saw us through. We who survived will always be known as Elleon's Expedition. He is an inspiration to us all—though I wish he'd learn he doesn't have to personally investigate every single report.</Page>
+    
+    </Text>
+    <Text huntingZoneId="64" id="2" endSocial="14" prevId="0" villagerId="1001">
+         
+        <Page social="4">Welcome, &lt;PCNAME&gt;. Thanks to your help, the base's defenses have been much improved. This would've been very difficult to achieve without you, &lt;PCNAME&gt;. It's too early for our expedition team to resume their work, but I feel that we've certainly taken a step in the right direction.</Page>
+    
+    </Text>
+    <Text huntingZoneId="64" id="3" endSocial="14" prevId="0" villagerId="1001">
+         
+        <Page social="4">Ah, it's you, &lt;PCNAME&gt;. We can resume the expedition now, thanks to you. And it's not just me; the entire expedition team thanks you. You've done something really great for us.</Page>
+    
+    </Text>
+</VillagerDialog>

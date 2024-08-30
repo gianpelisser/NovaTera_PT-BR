@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="27" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="79" id="100" prevId="0" villagerId="1007">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="79" id="2" prevId="0" villagerId="1007">
+         
+        <Page social="4">Além de seus batedores e das feras, Thulsa tem uma brigada de assalto estacionada no portão oeste de Habere. Derrote-os e todos nós respiraremos mais aliviados&lt;BR&gt;&lt;BR&gt;Vocês têm sido muito corajosos até agora, portanto, mantenham o curso! Registre-se com o Centurião Turua no portão oeste. Ele o levará até os lacaios de Thulsa.</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="3" prevId="2" villagerId="1017">
+         
+        <Page social="4">Deixe-me informá-lo sobre nossa situação, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Warkul comanda as forças de Thulsa na região. Repelir Warkul e suas tropas nos dará uma enorme vantagem na batalha, talvez uma chance de reverter a situação em toda essa terra miserável.&lt;BR&gt;&lt;BR&gt;Lidere-nos à vitória, &lt;PCNAME&gt;!</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="4" prevId="3" villagerId="1017">
+         
+        <Page social="4">Os remanescentes permanecem, mas não representam uma ameaça à segurança de Habere.&lt;BR&gt;&lt;BR&gt;Muito obrigado, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+</QuestDialog>

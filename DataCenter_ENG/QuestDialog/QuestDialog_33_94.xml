@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="33" id="94" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="73" id="100" prevId="0" villagerId="1009">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="73" id="2" prevId="0" villagerId="1009">
+         
+        <Page social="0">We've done all we can, but the prisoners held on the third level of the Citadel of Torment can't be saved.&lt;BR&gt;&lt;BR&gt;All we can do for them is send in someone to put them out of their misery before they transform any further.&lt;BR&gt;&lt;BR&gt;I need you to kill the {@LinkCreature:33#16#anguished} and {@LinkCreature:33#18#decaying minions}, and {@LinkCreature:33#66#rotting prisoners} and {@LinkCreature:33#68#slaves}.&lt;BR&gt;&lt;BR&gt;I wouldn't ask if it didn't need to be done. Tell Iorine when you've finished.</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="3" prevId="2" villagerId="1007">
+         
+        <Page social="4">Thank you. I know that wasn't easy.</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="4" villagerId="1007">
+         
+        <Page social="0">This isn't your normal mission, but someone must bring the prisoners mercy.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="51" id="38" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="251" id="100" prevId="0" villagerId="1014">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="251" id="2" prevId="0" villagerId="1014">
+         
+        <Page social="4">Os miseráveis gigantes do gelo não nos deixarão recuperar os corpos de nossos honrados mortos.&lt;BR&gt;&lt;BR&gt;Temos o dever para com nossos companheiros de fazer o que pudermos por eles - mesmo na morte.&lt;BR&gt;&lt;BR&gt;Vá para Raseri Festning e recupere o que puder de nossos soldados mortos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="251" id="3" prevId="2" villagerId="1014">
+         
+        <Page social="4">Agradeço por isso, &lt;PCNAME&gt;. Todos nós morremos sozinhos, mas isso não significa que devemos ser esquecidos. As famílias de nossos amigos sofrerão mais facilmente graças a você.</Page>
+    
+    </Text>
+    <Text huntingZoneId="251" id="4" villagerId="1014">
+         
+        <Page social="0">Traga de volta todos os símbolos ou amuletos que encontrar. Eu os enviarei junto com as cartas de condolências.</Page>
+    
+    </Text>
+</QuestDialog>

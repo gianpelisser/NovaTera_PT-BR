@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="25" id="23" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="225" id="100" prevId="0" villagerId="1016">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="225" id="2" prevId="0" villagerId="1016">
+         
+        <Page social="4">A resistência feroz dos Atel Akaad é assustadora. É como se algo os estivesse controlando.&lt;BR&gt;&lt;BR&gt;Vá matar os {@LinkCreature:25#1021#prelados de Devan} e os {@LinkCreature:25#1022#guardiões esqueléticos}. Veremos se algo muda. Talvez eles estejam controlando as feras.</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="3" prevId="2" villagerId="1016">
+         
+        <Page social="4">Uma algema psico-supressora! Então era assim que eles estavam controlando o Atel Akaad!</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="4" villagerId="1016">
+         
+        <Page social="0">Deve haver algo que mantenha esses temíveis cavaleiros sob controle.</Page>
+    
+    </Text>
+</QuestDialog>

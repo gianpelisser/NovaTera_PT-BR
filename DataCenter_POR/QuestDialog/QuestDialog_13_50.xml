@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="50" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="213" id="100" prevId="0" villagerId="1026">
+         
+        <Page social="0">Demônios chamados de Dark Raiders começaram a aparecer na parte leste do Tainted Gorge.&lt;BR&gt;&lt;BR&gt;Estes demônios são servos do deus maligno Lok e nunca foram vistos acima do solo desde que Lok andou pelo mundo. Verus pediu que você eliminasse os invasores das trevas e descobrisse o motivo do aparecimento repentino deles. Você encontra o token de Lok e o entrega a Verus, que se lembra de uma lenda sobre o retorno de Lok. Talvez haja uma correlação entre Tainted Gorge e essa lenda.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="2" prevId="0" villagerId="1026">
+         
+        <Page social="4">Se você quiser fazer a diferença aqui, precisará reconhecer as oportunidades quando elas surgirem em seu caminho. A leste, há um grupo de criaturas sobre as quais precisamos saber mais.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:13#300951#Dark raiders} raramente viajam sem lacaios e parecem ser amigos desses cultistas errantes. Descubra o motivo e informe imediatamente!</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="3" prevId="2" villagerId="1026">
+         
+        <Page social="4">Hmmm... Este é o símbolo de Lok! Parece que foi feito recentemente.&lt;BR&gt;&lt;BR&gt;Os demônios que desapareceram quando Lok sumiu apareceram novamente e com a ficha de Lok... Oh, não....&lt;BR&gt;&lt;BR&gt;Isso significa que Lok retornou?&lt;NEXTPAGEBUTTON&gt;"O retorno de Lok?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">&amp;quot;Lok retornará algum dia. E o mundo se encherá com as bênçãos de Lok...&amp;quot;&lt;BR&gt;&lt;BR&gt;É a crença dos devas das trevas. Ouvi dizer que existem pessoas insanas até mesmo no continente que acreditam em tal absurdo. Hmmm... isso é estranho. Bem, primeiro tenho que relatar isso a Sersine. Ótimo trabalho.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="4" villagerId="1026">
+         
+        <Page social="0">Esses {@LinkCreature:13#300951#dark raiders} não revelarão seus segredos facilmente. Mesmo assim, precisamos conhecê-los. Descubra se eles estão carregando algo suspeito - da maneira mais difícil!</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="46" id="92" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="77" id="100" prevId="0" villagerId="1011">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="77" id="2" prevId="0" villagerId="1011">
+         
+        <Page social="4">Why the argon-twisted sikandaris are here, I'll never understand. But I know that we want 'em gone from the lower depths. Kill {@LinkCreature:46#301#argonomorph sikandaris}, {@LinkCreature:46#302#argonomorph fiends}, {@LinkCreature:46#303#argonomorph blood fiends}, and {@LinkCreature:46#304#argonomorph jalmaraks}.&lt;BR&gt;&lt;BR&gt;Report to {@Creature:246#1027} at {@Rgn:46016} when mission is complete.</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="3" prevId="2" villagerId="1027">
+         
+        <Page social="5">Make those sikandaris pay!</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="4" villagerId="1027">
+         
+        <Page social="0">Eliminate {@LinkCreature:46#301#argonomorph sikandaris}, {@LinkCreature:46#302#argonomorph fiends}, {@LinkCreature:46#303#argonomorph blood fiends}, and {@LinkCreature:46#304#argonomorph jalmaraks}. I reward performance!</Page>
+    
+    </Text>
+</QuestDialog>

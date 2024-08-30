@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="29" id="26" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="229" id="100" prevId="0" villagerId="1010">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="229" id="2" prevId="0" villagerId="1010">
+         
+        <Page social="5">The tertas seeds have sprouted. Plant them, and they'll grow quickly. Please deliver these seeds to {@LinkCreature:229#1019#Karsonak}. He's south of this camp researching arachnen mutations. Tertas will definitely help his study. I've got more seeds to sprout, but at least these are ready.&lt;BR&gt;&lt;BR&gt;Take them to Karsonak and remind him to be careful!</Page>
+    
+    </Text>
+    <Text huntingZoneId="229" id="3" prevId="2" villagerId="1019">
+         
+        <Page social="5">By Oriyn's torch, these sprouts will be most useful! I shall plant them at once.&lt;BR&gt;&lt;BR&gt;Because this region is so out of balance, I am reluctant to slaughter my research subjects. I much prefer to dose them and let them wake up a few hours later.&lt;BR&gt;&lt;BR&gt;Whatever the root cause, there are lessons for us to learn. Let us continue with open minds.</Page>
+    
+    </Text>
+</QuestDialog>

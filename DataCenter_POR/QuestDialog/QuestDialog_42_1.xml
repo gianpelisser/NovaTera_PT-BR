@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="42" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">Você foi ao Templo de Dagon por ordem de Fraya e encontrou lá a equipe de expedição em busca de um suposto tesouro que ajudaria a financiar os custos da Guerra de Argon.&lt;BR&gt;&lt;BR&gt;Depois de uma busca exaustiva no templo, você obteve a Gema Cerúlea, chave para a ressurreição de Dagon, e a entregou à equipe de expedição.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="5">Ordens de Missão&lt;BR&gt;&lt;BR&gt;O Comandante Fraya solicitou sua ajuda em um assunto de interesse da equipe de expedição do Templo de Dagon. Consulte Ibar em Frontera para obter detalhes.</Page>
+    
+    </Text>
+    <Text huntingZoneId="75" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="5">Estou feliz por você estar aqui, &lt;PCNAME&gt;. Não me pergunte como sabemos disso, mas os nagas têm escondido um tesouro em algum lugar do Templo de Dagon, presumivelmente para usá-lo como oferenda.&lt;BR&gt;&lt;BR&gt;Temos um uso melhor para ele. Os argons não vão a lugar algum e o tesouro está se esgotando. A federação está procurando... soluções criativas.&lt;BR&gt;&lt;BR&gt;Enviamos uma equipe de expedição para vasculhar o templo, mas eles vão precisar de reforços. Eu gostaria de enviar você.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="4" prevId="3" villagerId="1039">
+         
+        <Page social="5">Você não pode saber o quanto estamos gratos por vê-lo aqui. Não apenas o templo é muito maior do que esperávamos, mas os nagas e seus amigos estão se mostrando inimigos formidáveis.&lt;BR&gt;&lt;BR&gt;Pelo que conseguimos descobrir, há dois esconderijos de tesouro em dois andares diferentes. Um está em algum lugar perto daqui, e o outro - o grande - está lá embaixo, onde Dagon está dormindo.&lt;BR&gt;&lt;BR&gt;Receio que não saibamos mais do que isso, mas precisamos desses tesouros, &lt;PCNAME&gt;. A federação precisa deles.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="5" prevId="4" villagerId="1039">
+         
+        <Page social="4">Você trouxe o tesouro! Vamos ver o que há aqui! &lt;NEXTPAGEBUTTON&gt;"Algo valioso?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Sim, mas não tanto quanto esperávamos. Temos que encontrar aquele tesouro inferior - isso dificilmente será suficiente para comprar cem armaduras boas.&lt;BR&gt;&lt;BR&gt;Há outro acampamento no próximo nível abaixo. Fale com Wekrine lá embaixo - eles estão formulando planos para chegar aos níveis mais baixos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="6" villagerId="1039">
+         
+        <Page social="0">Você já encontrou o tesouro?</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="7" prevId="5" villagerId="1040">
+         
+        <Page social="5">Nedisia o enviou? Excelente. Já percorremos todos os cantos desse nível sem encontrar nada.&lt;BR&gt;&lt;BR&gt;Pode o &lt;PCNAME&gt;controlar os templários de Dagonite na Câmara das Almas Poderosas? E trazer de volta um pouco de couro de naga.&lt;NEXTPAGEBUTTON&gt;"Couro de naga?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Sim, a pele é resistente o suficiente para ser transformada em uma armadura e também tem propriedades mágicas. É vendida por um preço alto em Allemantheia.&lt;BR&gt;&lt;BR&gt;Como você vai lutar contra eles de qualquer maneira, não há necessidade de desperdiçar a oportunidade de enriquecer os cofres da federação.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="8" prevId="7" villagerId="1040">
+         
+        <Page social="4">Elas são requintadas. E o dinheiro que recebermos com a venda deles ajudará no esforço de guerra. Muito bem, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="9" villagerId="1040">
+         
+        <Page social="0">Você trouxe o couro de naga?</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="10" prevId="8" villagerId="1038">
+         
+        <Page social="5">Couro de naga, diz ela. Sim, é terrivelmente caro, mas não fará diferença no custo dessa guerra.&lt;BR&gt;&lt;BR&gt;Mas acredito que a Gema Cerúlea esteja aqui neste templo. Ela não é apenas a coisa mais valiosa que poderíamos esperar encontrar, mas os mekonaris acham que ela acelerará o processo de ressurreição de Dagon. Isso significa que devemos mantê-la longe deles.&lt;BR&gt;&lt;BR&gt;Também pode haver mais tesouros. Mantenham seus olhos abertos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="11" prevId="10" villagerId="1038">
+         
+        <Page social="4">Dê uma olhada nisso! Magníficas! Valem bilhões de peças de couro naga.&lt;BR&gt;&lt;BR&gt;A propósito, &lt;PCNAME&gt;, meu batedor diz que os nagas esconderam a Relíquia de Dagon na Chantry de Dagon. Se isso for verdade, eles podem estar se preparando para ressuscitá-lo.&lt;BR&gt;&lt;BR&gt;Temos que pegar essa gema.&lt;NEXTPAGEBUTTON&gt;"O que posso fazer?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Temos quase certeza de que o Chantry de Dagon fica no fundo do templo, mas não temos ideia de onde. &lt;BR&gt;&lt;BR&gt;Um dos mekonaris - Resaltuuk, o Sacerdote da Renovação - tem um livro que diz a localização exata. Você provavelmente terá que pegá-lo de seu cadáver.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="12" villagerId="1038">
+         
+        <Page social="0">Vamos ver o que há aqui, certo?</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="13" prevId="11" villagerId="1038">
+         
+        <Page social="4">O Livro dos Rituais! Agora podemos encontrar o Chantry de Dagon!&lt;BR&gt;&lt;BR&gt;Sim, aqui. Mas está protegido de alguma forma.&lt;BR&gt;&lt;BR&gt;Olha, há um menir no salão central do terceiro nível. Talvez seja assim que eles entram e saem.&lt;BR&gt;&lt;BR&gt;Quando você entrar, &lt;PCNAME&gt;, não espere que seja fácil. Eles terão seus guerreiros mais poderosos guardando o local. Derrote-os e procure a gema na sala.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="14" villagerId="1038">
+         
+        <Page social="0">O Livro dos Rituais. Você já o tem? &lt;BR&gt;&lt;BR&gt;Não podemos encontrar o Chantry de Dagon sem ele.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="15" prevId="13" villagerId="1038">
+         
+        <Page social="4">Então é isso: a Gema Cerúlea. Essa pedra preciosa sozinha é igual a todas as riquezas de Allemantheia.&lt;BR&gt;&lt;BR&gt;E há um poder inegável aqui também. O Mysterium ficará muito interessado.&lt;BR&gt;&lt;BR&gt;Agora a federação terá os meios para combater os argons, e devemos isso a você, &lt;PCNAME&gt;. Este estava entre os tesouros que libertamos, e eu gostaria que você ficasse com ele. É pouco em comparação com o que você fez, mas espero que você encontre algum valor nele. Use-o bem.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="16" villagerId="1038">
+         
+        <Page social="0">Você encontrou a Cerulean Gem? Ela estava lá?</Page>
+    
+    </Text>
+</QuestDialog>

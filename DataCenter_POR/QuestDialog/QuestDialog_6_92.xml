@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="6" id="92" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="206" id="100" prevId="0" villagerId="1022">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="206" id="2" prevId="0" villagerId="1022">
+         
+        <Page social="0">Os Filhos de Lok estabeleceram um ponto de apoio e ergueram o Santuário de Valselok. Eles precisam ser detidos ou, pelo menos, retardados.&lt;BR&gt;&lt;BR&gt;Caça os {@LinkCreature:6#3031#Lokian reavers} e os {@LinkCreature:6#3032#mystics} ao redor do santuário.&lt;BR&gt;&lt;BR&gt;Relate a Embarr perto do santuário quando sua missão estiver concluída.</Page>
+    
+    </Text>
+    <Text huntingZoneId="206" id="3" prevId="2" villagerId="1022">
+         
+        <Page social="5">Eles não conseguem se livrar de Lok. Por que reverenciar um deus morto? &lt;BR&gt;&lt;BR&gt;De qualquer forma, vamos ver o que você tem.</Page>
+    
+    </Text>
+    <Text huntingZoneId="206" id="4" villagerId="1022">
+         
+        <Page social="0">Parece que você ainda não completou sua missão.</Page>
+    
+    </Text>
+</QuestDialog>

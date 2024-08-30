@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="42" id="32" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="242" id="100" prevId="0" villagerId="1041">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="242" id="2" prevId="0" villagerId="1041">
+         
+        <Page social="5">There are reports of {@LinkCreature:42#800#besharan gulas} in the southern part of the temple. While you're killing them, see what you can find out about how they control the undead, especially those {@LinkCreature:42#700#vicious bone imps}.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="3" prevId="2" villagerId="1041">
+         
+        <Page social="4">So the gulas who were controlling undead carried these crystals? Let me see...&lt;BR&gt;&lt;BR&gt;See this? It's a besharan seal and next to it a naga seal!&lt;BR&gt;&lt;BR&gt;I have to get this news to Frontera. Thank you for your help, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="4" villagerId="1041">
+         
+        <Page social="0">When we know how the gulas are controlling the undead, we can turn that knowledge to our advantage.</Page>
+    
+    </Text>
+</QuestDialog>

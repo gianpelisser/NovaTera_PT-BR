@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="122" id="3" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="122" id="100" prevId="0" villagerId="220020">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="122" id="2" prevId="0" villagerId="220020">
+         
+        <Page social="1">Nosso corpo de conhecimento sobre o noctênio é extremamente deficiente, meu amigo. Precisamos de dados adicionais.&lt;BR&gt;&lt;BR&gt;A União Iluminada precisa de mais amostras de noctênio bruto para poder formular conclusões. Vasculhe os territórios e reúna nada menos que três amostras de minério de noctênio. Traga-os de volta para mim.</Page>
+    
+    </Text>
+    <Text huntingZoneId="122" id="3" prevId="2" villagerId="220020">
+         
+        <Page social="0">Esse minério de noctênio é ideal para nossos dados. Obrigado, amigo. Passarei os espécimes para os pesquisadores do sindicato.</Page>
+    
+    </Text>
+    <Text huntingZoneId="122" id="4" villagerId="220020">
+         
+        <Page social="0">A União Iluminada prevalecerá!</Page>
+    
+    </Text>
+</QuestDialog>

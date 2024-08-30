@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="39" id="42" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="239" id="100" prevId="0" villagerId="1033">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="239" id="2" prevId="0" villagerId="1033">
+         
+        <Page social="4">Estou planejando novas maneiras de combater os aracnídeos - espero que antes que eles se tornem gigantescos assassinos. &lt;BR&gt;&lt;BR&gt;Isso significa pesquisa, então pensei em apaziguar dois baraka com um pergaminho.&lt;BR&gt;&lt;BR&gt;Vá até a incubadora e colete alguns de seus casulos. Isso me dará sujeitos de pesquisa e deixará os aracnídeos com menos combatentes. Parece bom?</Page>
+    
+    </Text>
+    <Text huntingZoneId="239" id="3" prevId="2" villagerId="1033">
+         
+        <Page social="0">Você me trouxe os casulos? Muito bem! &lt;BR&gt;&lt;BR&gt;Espero que eu possa encontrar uma maneira de lutar contra os filhos de Arachne sem arriscar a vida de nossos soldados!</Page>
+    
+    </Text>
+    <Text huntingZoneId="239" id="4" villagerId="1033">
+         
+        <Page social="0">Os casulos são alvos muito mais fáceis do que os aracnídeos adultos. Não perca tempo!</Page>
+    
+    </Text>
+</QuestDialog>

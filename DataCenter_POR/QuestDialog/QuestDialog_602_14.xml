@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="602" id="14" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="78" id="100" prevId="0" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="78" id="2" prevId="0" villagerId="3003">
+         
+        <Page social="4">Recebemos um pedido incomum de suprimentos das catacumbas.&lt;BR&gt;&lt;BR&gt;É uma viagem perigosa, por isso estamos enviando você. Apresente-se ao Artur.</Page>
+    
+    </Text>
+    <Text huntingZoneId="78" id="3" prevId="2" villagerId="3008">
+         
+        <Page social="4">Preciso de ajuda! {@LinkCreature:418#2006#Geik} solicitou cogumelos cadmiel para testar em argons.&lt;BR&gt;&lt;BR&gt;Você precisará reunir alguns e depois entregá-los a ele.</Page>
+    
+    </Text>
+    <Text huntingZoneId="78" id="4" prevId="2" villagerId="3008">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="78" id="5" prevId="2" villagerId="3008">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="78" id="6" prevId="2" villagerId="3008">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="418" id="7" prevId="2" villagerId="2006">
+         
+        <Page social="4">Trabalho muito rápido, &lt;PCNAME&gt;. Só enviei o pedido ontem.&lt;BR&gt;&lt;BR&gt;Estou ansioso para ver que efeito esses cogumelos cadmiel têm na fisiologia do argons.&lt;BR&gt;&lt;BR&gt;Espero que não os torne mais fortes!</Page>
+    
+    </Text>
+    <Text huntingZoneId="418" id="8" villagerId="2006">
+         
+        <Page social="0">Alguém está atrapalhando o avanço científico. Preciso desses cogumelos, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="418" id="9" prevId="7" villagerId="2006">
+         
+        <Page social="4">Trabalho muito rápido, &lt;PCNAME&gt;. Só enviei o pedido ontem.&lt;BR&gt;&lt;BR&gt;Estou ansioso para ver que efeito esses cogumelos cadmiel têm na fisiologia do argons.&lt;BR&gt;&lt;BR&gt;Espero que não os torne mais fortes!</Page>
+    
+    </Text>
+    <Text huntingZoneId="418" id="10" villagerId="2006">
+         
+        <Page social="0">Alguém está atrapalhando o avanço científico. Preciso desses cogumelos, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="418" id="11" prevId="9" villagerId="2006">
+         
+        <Page social="4">Trabalho muito rápido, &lt;PCNAME&gt;. Só enviei o pedido ontem.&lt;BR&gt;&lt;BR&gt;Estou ansioso para ver que efeito esses cogumelos cadmiel têm na fisiologia do argons.&lt;BR&gt;&lt;BR&gt;Espero que não os torne mais fortes!</Page>
+    
+    </Text>
+    <Text huntingZoneId="418" id="12" villagerId="2006">
+         
+        <Page social="0">Alguém está atrapalhando o avanço científico. Preciso desses cogumelos, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+</QuestDialog>

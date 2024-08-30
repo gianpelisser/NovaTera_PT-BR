@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="63" id="88" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">Do you know what our problem is? No, not argons. Pirates!&lt;BR&gt;&lt;BR&gt;The sneaky bastards are stealing our supplies and killing good soldiers. We have to stop this.&lt;BR&gt;&lt;BR&gt;The only way to deal with pirates is to think like a pirate. Join a team in Corsairs' Stronghold, and learn how those sea robbers act!&lt;BR&gt;&lt;BR&gt;[Corsairs' Stronghold is accessible through the Battleground Matching system.]</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="1256">
+         
+        <Page social="4">Well done!&lt;BR&gt;&lt;BR&gt;Great exploits in the battleground earn you Bellicarium credits. Bring those credits to me to purchase your choice of reward items. It's just like pirate's booty!&lt;BR&gt;&lt;BR&gt;Don't you feel more like a pirate already?</Page>
+    
+    </Text>
+</QuestDialog>

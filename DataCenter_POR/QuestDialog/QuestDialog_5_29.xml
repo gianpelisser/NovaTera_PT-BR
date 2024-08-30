@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="5" id="29" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="205" id="100" prevId="0" villagerId="1006">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="205" id="2" prevId="0" villagerId="1006">
+         
+        <Page social="5">É tão estranho que eles tenham escolhido me envenenar agora - não é como se eles não me conhecessem. Eu tenho vendido mercadorias aqui há algum tempo.&lt;BR&gt;&lt;BR&gt;Depois que fiquei incapacitado, no entanto, eles pegaram minhas coisas e fugiram.&lt;BR&gt;&lt;BR&gt;Você acha que poderia pegar meus &lt;font color='#660000'&gt; pertences&lt;/font&gt; para mim? Tenho certeza de que eles estão em Babok Hollow, a oeste daqui.</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="3" prevId="2" villagerId="1006">
+         
+        <Page social="7">Sim, é isso mesmo! Muito obrigado!&lt;BR&gt;&lt;BR&gt;E aqui está algo para você.</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="4" villagerId="1006">
+         
+        <Page social="0">Sem minha mercadoria, estou perdido. Por favor, você pode ir buscá-la para mim?</Page>
+    
+    </Text>
+</QuestDialog>

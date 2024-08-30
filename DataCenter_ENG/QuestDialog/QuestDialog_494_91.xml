@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="494" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="237" id="100" prevId="0" villagerId="1027">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="237" id="2" prevId="0" villagerId="1027">
+         
+        <Page social="0">Your exploits in my master's garden entertained him greatly! Saleron welcomes you to stroll through whenever you wish.&lt;BR&gt;&lt;BR&gt;So long as you continue to amuse him, Saleron will reward you with something you can use in your world.&lt;BR&gt;&lt;BR&gt;He finds his imprisonment quite tedious.</Page>
+    
+    </Text>
+    <Text huntingZoneId="237" id="3" prevId="2" villagerId="1027">
+         
+        <Page social="5">Saleron is pleased. Here is your reward as promised.&lt;BR&gt;&lt;BR&gt;As long as you keep Saleron entertained, he will always show you such gratitude.</Page>
+    
+    </Text>
+    <Text huntingZoneId="237" id="4" villagerId="1027">
+         
+        <Page social="0">I'm glad you're here—my master Saleron bores esily. If you'd care to walk his sky garden again, I'm sure it would cheer him considerably.&lt;BR&gt;&lt;BR&gt;And I'd gladly pay to see Saleron happier.</Page>
+    
+    </Text>
+</QuestDialog>

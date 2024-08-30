@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="61" id="100" prevId="0" villagerId="1016">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="61" id="2" prevId="0" villagerId="1016">
+         
+        <Page social="4">The mines in the Brimstone Highlands are overrun with enemies. We must have those resources.&lt;BR&gt;&lt;BR&gt;You are to destroy the {@LinkCreature:4#1031#sooty sporewalkers}, {@LinkCreature:4#1032#smoldering ghilliedhus}, {@LinkCreature:4#1041#ashstalker wolves}, {@LinkCreature:4#1051#devan war golems}, {@LinkCreature:4#1052#fallen devan protectors}, {@LinkCreature:4#1061#devan dark knights}, and {@LinkCreature:4#1062#risen devan infantry}.&lt;BR&gt;&lt;BR&gt;Report to Keinie at Cauldron Outpost when mission is complete.</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="3" prevId="2" villagerId="1002">
+         
+        <Page social="4">You've earned the thanks of the federation.</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="4" villagerId="1002">
+         
+        <Page social="0">It looks like you haven't completed your mission yet.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="10" id="44" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="210" id="100" prevId="0" villagerId="1004">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="210" id="2" prevId="0" villagerId="1004">
+         
+        <Page social="4">One naga in particular is laying the groundwork for reviving Dagon.&lt;BR&gt;&lt;BR&gt;You probably guess where I'm going with this. And I'd hate to disappoint you. Your target is {@LinkCreature:10#19#Siraxatol}. Take her out.</Page>
+    
+    </Text>
+    <Text huntingZoneId="210" id="3" prevId="2" villagerId="1004">
+         
+        <Page social="4">We're inside the nagas' reaction cycle now, giving them new things to worry about before they've dealt with the last batch of troubles.&lt;BR&gt;&lt;BR&gt;And we have you and your quick work to thank for that, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+</QuestDialog>

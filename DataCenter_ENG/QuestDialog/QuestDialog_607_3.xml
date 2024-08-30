@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="607" id="3" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="72" id="100" prevId="0" villagerId="1703">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="72" id="2" prevId="0" villagerId="1703">
+         
+        <Page social="4">You're the new &lt;PCCLASS:lcase&gt;, eh?&lt;BR&gt;&lt;BR&gt;Good—I need your help. I ran out of materials to make magic paper, which we use to record observations when our hands are too occupied to write.&lt;BR&gt;&lt;BR&gt;To make more paper, we need lard wood. And we obtain it—yes, the hard way—from forest guardians and shamans in Bluefirst Mountain.&lt;BR&gt;&lt;BR&gt;Go, go, go! I need lard wood immediately!</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="3" prevId="2" villagerId="1703">
+         
+        <Page social="4">Faster than I thought, &lt;PCCLASS:lcase&gt;. I'm impressed.&lt;BR&gt;&lt;BR&gt;We're always going to need magic paper, and thus we're always going to need lard wood. Keep that in mind when you visit us.</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="4" villagerId="1703">
+         
+        <Page social="0">Without magic paper, my—I mean, "our"—brilliance will be unrecorded! Fetch some straightaway.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="95" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="61" id="100" prevId="0" villagerId="1016">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="61" id="2" prevId="0" villagerId="1016">
+         
+        <Page social="4">Os shurianos e seus aliados malditos estão causando estragos. Precisamos que você acabe com os esforços deles.&lt;BR&gt;&lt;BR&gt;Os {@LinkCreature:4#3031#tyraks}, os {@LinkCreature:4#3041#shurian mindbenders} e os {@LinkCreature:4#3042#hellion thralls} devem ser mortos.&lt;BR&gt;&lt;BR&gt;Relate a Tifane na Base de Fogo Valor quando a missão estiver concluída.</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="3" prevId="2" villagerId="1006">
+         
+        <Page social="4">Você fez um trabalho realmente maravilhoso aqui. Agradecemos a ajuda!</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="4" villagerId="1006">
+         
+        <Page social="0">Você veio para ajudar, presumo? Talvez você deva fazer isso.</Page>
+    
+    </Text>
+</QuestDialog>

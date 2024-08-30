@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="2" id="31" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="202" id="100" prevId="0" villagerId="1047">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="202" id="2" prevId="0" villagerId="1047">
+         
+        <Page social="4">Temos uma cota de madeira para preencher e não fizemos quase nenhum progresso nos últimos dias.&lt;BR&gt;&lt;BR&gt;Lennert, em Lumbertown, não dá ouvidos a desculpas. Ele é um homem duro, mas entendo seu ponto de vista. Nossos soldados no front também não querem ouvir desculpas.&lt;BR&gt;&lt;BR&gt;Se pudermos levar nossas equipes de volta à floresta...&lt;NEXTPAGEBUTTON&gt;"O que posso fazer?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Você não parece muito com um lenhador, mas como eu disse, lenhadores são inúteis se não puderem chegar às árvores.&lt;BR&gt;&lt;BR&gt;Em vez de cortar árvores, que tal você cortar alguns {@LinkCreature:2#3#centauros}?&lt;BR&gt;&lt;BR&gt;Pagarei por cada crina que você trouxer de volta. Mate o suficiente e talvez eles entendam a dica.</Page>
+    
+    </Text>
+    <Text huntingZoneId="202" id="3" prevId="2" villagerId="1047">
+         
+        <Page social="4">Nunca vi os centauros galoparem tão rápido. Eles voltarão, mas enviarei equipes imediatamente&lt;BR&gt;&lt;BR&gt;Pelo menos faremos progressos hoje... graças a você, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="202" id="4" villagerId="1047">
+         
+        <Page social="0">Mate os {@LinkCreature:2#3#centauros}, certo? Isso não é ciência de teletransporte!</Page>
+    
+    </Text>
+</QuestDialog>

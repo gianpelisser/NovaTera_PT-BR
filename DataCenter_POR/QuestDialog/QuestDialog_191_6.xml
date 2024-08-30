@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="191" id="6" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="191" id="100" prevId="0" villagerId="2108">
+         
+        <Page social="0">&lt;PCNAME&gt; limitou a capacidade de reforço dos arquidemônios ao destruir seus portões de vórtice.</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="2" prevId="0" villagerId="2108">
+         
+        <Page social="4">&lt;PCNAME&gt;, para atacar a fortaleza, precisamos limitar o número deles. Ataque seus portais e elimine esses demokrons miseráveis!</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="3" prevId="2" villagerId="2110">
+         
+        <Page social="4">Bem lutado, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Vamos em frente!</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="42" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="230" id="100" prevId="0" villagerId="1028">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="230" id="2" prevId="0" villagerId="1028">
+         
+        <Page social="1">Você já ouviu falar de Oshar, o feiticeiro? É claro que sim! Ele é a mente mágica mais proeminente do continente.&lt;BR&gt;&lt;BR&gt;Eu sou seu melhor aluno, destinado a continuar suas pesquisas quando Oshar entrar no Sonho.&lt;BR&gt;&lt;BR&gt;Ajude-me e você ganhará a boa vontade do atual mestre feiticeiro... e do próximo.&lt;NEXTPAGEBUTTON&gt;"Do que você precisa?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Quero demonstrar o domínio do intelecto elevando a inteligência da fauna local.&lt;BR&gt;&lt;BR&gt;Meus primeiros esforços se concentram na criatura mais astuta do refúgio: as preguiças. Não, é verdade. De você, preciso de garras de preguiça para poder criar uma poção que metaforicamente as "desgarre" e as torne civilizadas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="3" prevId="2" villagerId="1028">
+         
+        <Page social="1">Vou escrever para Oshar para que eu possa começar a testar a poção de docilidade da preguiça em breve.&lt;BR&gt;&lt;BR&gt;Imagine voltar daqui a anos e encontrar uma civilização inteira baseada na preguiça, com religião da preguiça, cultura da preguiça, uma economia da preguiça... como o antigo império dos gigantes, mas com preguiças.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="4" villagerId="1028">
+         
+        <Page social="0">Hoje as preguiças, amanhã o mundo!</Page>
+    
+    </Text>
+</QuestDialog>

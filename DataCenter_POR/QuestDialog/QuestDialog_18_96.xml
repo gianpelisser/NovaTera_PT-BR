@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="18" id="96" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="218" id="100" prevId="0" villagerId="1009">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="218" id="2" prevId="0" villagerId="1009">
+         
+        <Page social="4">Os lokianos... ainda irritantes, mas ainda potencialmente lucrativos.&lt;BR&gt;&lt;BR&gt;Mata os {@LinkCreature:18#22#Sacerdotes lokianos}, {@LinkCreature:18#23#Magistradores lokianos}, {@LinkCreature:18#24#Sanguinários lokianos} e {@LinkCreature:18#114#Teseku do Sangue}.&lt;BR&gt;&lt;BR&gt;Dorinne em Sietch Bidaum oferece uma recompensa por armas lokianas quebradas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="218" id="3" prevId="2" villagerId="1006">
+         
+        <Page social="4">Você está aqui por causa da recompensa? Fantástico!</Page>
+    
+    </Text>
+    <Text huntingZoneId="218" id="4" villagerId="1006">
+         
+        <Page social="0">Mate os Lokians e depois colete dinheiro. Não é possível inverter a ordem, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+</QuestDialog>

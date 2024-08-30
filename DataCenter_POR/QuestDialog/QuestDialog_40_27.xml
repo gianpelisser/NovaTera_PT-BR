@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="40" id="27" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="240" id="100" prevId="0" villagerId="1012">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="240" id="2" prevId="0" villagerId="1012">
+         
+        <Page social="4">Estamos discutindo uma conexão entre os batedores {@LinkCreature:40#11#selvaras}, nossos amigos desaparecidos e a praga. Os selvaras têm uma base perto daqui. Uma busca lá pode revelar informações úteis.</Page>
+    
+    </Text>
+    <Text huntingZoneId="240" id="3" prevId="2" villagerId="1012">
+         
+        <Page social="4">Todas as páginas desses documentos fazem referência à Legião de Thulsa de alguma forma. Aí está nossa conexão - eles estão trabalhando juntos.&lt;BR&gt;&lt;BR&gt;Mas por quê? E para quê? &lt;BR&gt;&lt;BR&gt;E para quem?</Page>
+    
+    </Text>
+    <Text huntingZoneId="240" id="4" villagerId="1012">
+         
+        <Page social="0">Traga todos os documentos que se refiram às abduções ou à praga. A conexão está em algum lugar.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="32" id="92" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="73" id="100" prevId="0" villagerId="1009">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="73" id="2" prevId="0" villagerId="1009">
+         
+        <Page social="0">The Sihran defenders have surroundeed the Winterwolves Encampment on Mount Tyrannas. We can't seem to thin those buggers out!&lt;BR&gt;&lt;BR&gt;Take out as many {@LinkCreature:32#4#Sihran ragers} and {@LinkCreature:32#6#defenders}, and {@LinkCreature:32#5#tuwangi thumpers} as you can.&lt;BR&gt;&lt;BR&gt;Kamese will have your reward, as usual.</Page>
+    
+    </Text>
+    <Text huntingZoneId="232" id="3" prevId="2" villagerId="1030">
+         
+        <Page social="4">Well done, &lt;PCNAME&gt;. Better delayed than wasted.</Page>
+    
+    </Text>
+    <Text huntingZoneId="232" id="4" villagerId="1030">
+         
+        <Page social="0">You need to eliminate the {@LinkCreature:32#4#Sihran ragers} and {@LinkCreature:32#6#defenders}, and {@LinkCreature:32#5#tuwangi thumpers}.</Page>
+    
+    </Text>
+</QuestDialog>

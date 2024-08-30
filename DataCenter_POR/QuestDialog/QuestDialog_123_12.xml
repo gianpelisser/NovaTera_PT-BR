@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="123" id="12" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="123" id="100" prevId="0" villagerId="220037">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="123" id="2" prevId="0" villagerId="220037">
+         
+        <Page social="0">Meu amigo, preciso que você crie uma distração para mim enquanto envio alguns batedores para o território da Ordem de Ferro. A ordem tem vários extratores de noctênio não muito longe daqui. A remoção das chaves do extrator deve desativá-los, e eles serão forçados a parar o que estão fazendo e investigar. Meus batedores passarão despercebidos na confusão.&lt;BR&gt;&lt;BR&gt;Recompensarei você por cada chave extratora que me trouxer.</Page>
+    
+    </Text>
+    <Text huntingZoneId="123" id="3" prevId="2" villagerId="220037">
+         
+        <Page social="0">Muito bem, &lt;PCNAME&gt;! Essa foi uma missão extremamente perigosa, e você a cumpriu com honra e distinção! A União Iluminada tem a sorte de tê-lo entre suas fileiras! &lt;BR&gt;&lt;BR&gt;Hoje, você realmente mereceu o título de "herói";</Page>
+    
+    </Text>
+    <Text huntingZoneId="123" id="4" villagerId="220037">
+         
+        <Page social="0">Que a luz da razão brilhe sobre todos nós!</Page>
+    
+    </Text>
+</QuestDialog>

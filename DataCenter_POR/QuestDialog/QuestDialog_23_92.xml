@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="23" id="92" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="68" id="100" prevId="0" villagerId="1007">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="68" id="2" prevId="0" villagerId="1007">
+         
+        <Page social="5">Nossos postos avançados estão sendo ameaçados por {@LinkCreature:23#9#molten fangspawns}. Derrube-os e colete suas faíscas amaldiçoadas.&lt;BR&gt;&lt;BR&gt;Traga as faíscas para Shaleen quando a missão estiver concluída.</Page>
+    
+    </Text>
+    <Text huntingZoneId="223" id="3" prevId="2" villagerId="1008">
+         
+        <Page social="5">Essas criaturas horríveis me aterrorizam. Muito obrigado por matá-las!</Page>
+    
+    </Text>
+    <Text huntingZoneId="223" id="4" villagerId="1008">
+         
+        <Page social="0">Sem as faíscas malditas como prova, não pode haver recompensa.</Page>
+    
+    </Text>
+</QuestDialog>

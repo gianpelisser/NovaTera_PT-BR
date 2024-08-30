@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="122" id="17" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="72" id="100" prevId="0" villagerId="22008">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="72" id="2" prevId="0" villagerId="22008">
+         
+        <Page social="1">Olá, amigo. Ouvimos dizer que seu trabalho de campo é impressionante, mas sempre há espaço para melhorias.&lt;BR&gt;&lt;BR&gt;Vá para os cofres e traga provas de que completou a tarefa.</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="3" prevId="2" villagerId="22008">
+         
+        <Page social="4">Muito bem, amigo!&lt;BR&gt;&lt;BR&gt;Espero que tenha achado nossos cofres úteis para aprimorar suas habilidades.</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="4" villagerId="22008">
+         
+        <Page social="0">Que a união prevaleça!</Page>
+    
+    </Text>
+</QuestDialog>

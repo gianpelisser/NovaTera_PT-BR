@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="16" id="22" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="67" id="100" prevId="0" villagerId="1007">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="67" id="2" prevId="0" villagerId="1007">
+         
+        <Page social="5">Drenado? Seu sangue foi drenado? &lt;BR&gt;&lt;BR&gt;Ok, tenho soldados indo naquela direção. Encontre-se com eles nas Planícies Retorcidas. Apresente-se a {@LinkCreature:216#1012#Ludin}.</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="3" prevId="2" villagerId="1012">
+         
+        <Page social="5">Foi o Paka que mandou você? Sim, está bem. Está bom. Está vendo aquela parede de gente ali? Eles estão matando qualquer um que se aproxime e não conseguimos chegar à aldeia.&lt;BR&gt;&lt;BR&gt;Veja o que você pode fazer para ajudar.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="46" id="26" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="246" id="100" prevId="0" villagerId="1102">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="246" id="2" prevId="0" villagerId="1102">
+         
+        <Page social="4">Duas dificuldades primárias aqui, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Primeiro, os remanescentes de argons em toda Raga Kabash. Eles parecem estar indo para o sul, para o que acreditamos ser algum tipo de sala de transmissão.&lt;BR&gt;&lt;BR&gt;Segundo, preciso de peças de uma {@Creature:46#7005#grellok spire}. Pesquisa, você sabe.</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="3" prevId="2" villagerId="1102">
+         
+        <Page social="5">Obrigado. O pináculo grellok é interessante, mas... você sabe quem ficaria fascinado com isso? Rhentar, que está trabalhando na Câmara Strifecore. Isso combina perfeitamente com sua linha de investigação.</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="4" villagerId="1102">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="246" id="5" prevId="3" villagerId="1028">
+         
+        <Page social="0">Isso é de um pináculo grellok, você diz? Ainda não consegui me aproximar de uma. Lembre-me de agradecer a Nevian, se algum dia eu sair desta câmara.</Page>
+    
+    </Text>
+</QuestDialog>

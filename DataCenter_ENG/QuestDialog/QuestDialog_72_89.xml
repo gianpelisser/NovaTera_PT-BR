@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="72" id="89" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">[Suspicious Summoning]&lt;BR&gt;&lt;BR&gt;There is a mysterious energy in the air. Go see the mysterious man named Kareras near the platform in Allemantheia.</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="3" prevId="2" villagerId="1169">
+         
+        <Page social="0">Hmmm... I sense the soul of a champion, but...&lt;BR&gt;&lt;BR&gt;You want something more, don't you?&lt;BR&gt;&lt;BR&gt;There are many paths in life, but pretending to be righteous all the time will make you blind to certain other aspects to life.&lt;BR&gt;&lt;BR&gt;Want to know more? Go to Agora and pay Erigar a visit. He'll tell you how to lead a more rewarding life.</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="4" prevId="3" villagerId="1158">
+         
+        <Page social="0">A more rewarding life, eh?&lt;BR&gt;&lt;BR&gt;Life becomes monotonous if you do only what others tell you to do. That's true whether we're talking about mortals or gods.&lt;BR&gt;&lt;BR&gt;Law and order are only concepts that were conceived by the strong to dominate the weak. People with your talents shouldn't let anyone tell them what to do. Not mortals, not gods, not anyone!&lt;BR&gt;&lt;BR&gt;Radical words, I know, but are you tired of being pushed around? &lt;NEXTPAGEBUTTON&gt;"Yes, I am."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Here's the truth—how you can escape the shackles the gods placed on us.&lt;BR&gt;&lt;BR&gt;Make an &lt;font color='#FF0000'&gt;outlaw declaration&lt;/font&gt;, and you state that you are above and beyond the petty laws of mortals and gods alike.&lt;BR&gt;&lt;BR&gt;Outlaws can attack and be attacked. I'm sure you wouldn't want it any other way. Let the strong survive!&lt;BR&gt;&lt;BR&gt;There's one small exception: those under the direct protection of Seren or other gods. But they're just trifles—rounding errors, if you will.&lt;NEXTPAGEBUTTON&gt;"Bring it on!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">The more you make outlaw declarations and get involved in fights, the more your infamy grows. Depending on how infamous you are, you might draw the wrath of the gods.&lt;BR&gt;&lt;BR&gt;A small price to pay for freedom, I say.&lt;BR&gt;&lt;BR&gt;You should be able to figure out the rest with this skill book. Remember, the choice is yours, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+</QuestDialog>

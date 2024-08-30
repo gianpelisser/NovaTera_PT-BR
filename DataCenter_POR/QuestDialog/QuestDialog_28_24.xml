@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="24" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="228" id="100" prevId="0" villagerId="1009">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="228" id="2" prevId="0" villagerId="1009">
+         
+        <Page social="9">Suponho que você já tenha ouvido a história dos poderes maravilhosos da crina de unicórnio. Tenho certeza de que é um conto popular, mas não consigo convencer os outros.&lt;BR&gt;&lt;BR&gt;Se você me trouxesse algumas crinas de {@LinkCreature:28#1011#unicórnios de casco negro}, eu poderia desmentir os contos de uma vez por todas! Os unicórnios estão ao longo deste caminho para o sul. Não há como errar. Eles são os que têm chifres.</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="3" prevId="2" villagerId="1009">
+         
+        <Page social="5">Isso foi rápido! Tenho certeza de que posso usá-las para provar a muitos homens que essas histórias são tolices.&lt;BR&gt;&lt;BR&gt;E com um bom lucro, também.&lt;BR&gt;&lt;BR&gt;Agradeço seu trabalho, &lt;PCNAME&gt;. Esses unicórnios teriam transformado minha barriga em uma peneira.</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="4" villagerId="1009">
+         
+        <Page social="0">Juro pela cabeça do melhor amigo do primo do tio do sobrinho do pai de minha mãe que tenho apenas os interesses do público em mente.&lt;BR&gt;&lt;BR&gt;Honesto.</Page>
+    
+    </Text>
+</QuestDialog>

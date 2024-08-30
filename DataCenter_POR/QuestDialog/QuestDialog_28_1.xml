@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="70" id="100" prevId="0" villagerId="1027">
+         
+        <Page social="0">Os eruditos de Mysterium, na Bacia da Bênção, pediram sua ajuda depois que as histórias de seus feitos foram gravadas em antigos cenotáfios.&lt;BR&gt;&lt;BR&gt;Você estudou os cenotáfios e soube que teria de enfrentar um grande teste. Você enfrentou os guardiões do destino e se encontrou com a Vidente dos Deuses, Mystel. Ela lhe deu um aviso sobre o futuro e um tomo antigo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="70" id="2" prevId="0" villagerId="1027">
+         
+        <Page social="5">Hmm, agora a equipe do Mysterium na Bacia da Bênção está perguntando por você pelo nome. Parece que eles fizeram uma descoberta importante que envolve você.&lt;BR&gt;&lt;BR&gt;Fale com o Magistrado Jelren em Tralion imediatamente.</Page>
+    
+    </Text>
+    <Text huntingZoneId="69" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="5">A equipe do Mysterium está muito ansiosa para conhecê-lo. Eles têm sido muito reservados em relação ao trabalho - mesmo para eles - mas inflexíveis quanto à necessidade de sua ajuda.&lt;BR&gt;&lt;BR&gt;A equipe ainda está em campo, portanto, vá para o oeste, para o Acampamento Crossroads. Esteja preparado para qualquer coisa. A insistência deles é incomum. Presumo que o pedido deles também será.</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="4" prevId="3" villagerId="1025">
+         
+        <Page social="5">Glorioso! Estamos ansiosos para trabalhar com você desde que lemos sobre suas façanhas. Você certamente fez um nome para si mesmo em seu breve serviço. Não é de admirar que os deuses tenham notado! &lt;NEXTPAGEBUTTON&gt;"Você leu sobre mim?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Seu nome e seus feitos apareceram nos cenotáfios há algumas semanas. Todas as suas ações em Shara do Sul estão registradas lá.&lt;BR&gt;&lt;BR&gt;Você deve falar com Ansine no Seekers' Locus. Ao longo do caminho, leia as pedras. Veja você mesmo!</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="5" prevId="4" villagerId="1102">
+         
+        <Page social="4">Há muito tempo, Arun e Shara, cansados da guerra, deixaram o reino da contenda.&lt;BR&gt;&lt;BR&gt;Deixaram seus tesouros e vestes de poder e caíram em um sono profundo. E, enquanto sonhavam, este mundo surgiu.&lt;NEXTPAGEBUTTON&gt;"Não vejo nada a meu respeito."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">A forma adormecida de Arun tornou-se a terra do leste, e a de Shara, o oeste.&lt;BR&gt;&lt;BR&gt;Suas lágrimas tornaram-se o oceano; sua respiração, o vento. Seus sonhos se tornaram realidade.&lt;BR&gt;&lt;BR&gt;(A pedra continua a narrar a Era dos Deuses, a Guerra Divina e a moderna Era dos Mortais.)&lt;NEXTPAGEBUTTON&gt;Pule para o final.&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Entre os que exploraram e protegeram essa nova terra - essa Island of Dawn - estava o aventureiro &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="6" prevId="4" villagerId="1104">
+         
+        <Page social="4">...e &lt;PCNAME&gt;, que derrotou Karascha na Island of Dawn, partiu para a cidade da deusa Velik. A cidade estava ameaçada por inimigos internos, enquanto os adoradores do enganador Lok provocavam o caos no continente de Arun. Por meio de longas e difíceis provações, &lt;PCNAME&gt; expôs a conspiração deles e acabou com ela.&lt;BR&gt;&lt;BR&gt;Se não fosse por &lt;PCNAME&gt; e Elleon, todo o reino teria perecido.</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="7" prevId="4" villagerId="1105">
+         
+        <Page social="4">...e um segredo será revelado a &lt;PCNAME&gt; no mais improvável dos lugares...&lt;BR&gt;&lt;BR&gt;...&lt;PCNAME&gt; enfrentará uma grande provação...&lt;BR&gt;&lt;BR&gt;...a Mão da Vidente percorrerá o caminho entre as sombras das árvores na Bacia da Bênção e dará um passo mais perto da verdade.&lt;NEXTPAGEBUTTON&gt;"Isso não pode ser..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">(Talvez Ansine saiba algo sobre tudo isso).</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="8" prevId="5" villagerId="1003">
+         
+        <Page social="4">É uma leitura fascinante, não é? Nós mesmos não acreditávamos nisso até perguntarmos se a Federação Valkyon tinha um soldado chamado &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;As façanhas de Elleon são bem conhecidas. As suas, menos. &lt;NEXTPAGEBUTTON&gt;"Não estou aqui pela fama."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Uma política sábia, sem dúvida.&lt;BR&gt;&lt;BR&gt;Bem, as instruções estão aí. Você é a "Mão da Vidente", obviamente. Você deve caminhar através das sombras.&lt;BR&gt;&lt;BR&gt;Qualquer que seja o teste que você enfrente a seguir, as pedras o guiarão.</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="9" prevId="8" villagerId="1107">
+         
+        <Page social="4">A Mão da Vidente deve ser testada. Quando estiver totalmente preparada, a Mão poderá usar essa pedra para prosseguir.&lt;BR&gt;&lt;BR&gt;Cuidado com a arrogância. Os destinos são infinitamente mutáveis, e as visões da vidente não garantem nenhum resultado.&lt;BR&gt;&lt;BR&gt;Não há destino a não ser o que você faz.</Page>
+    
+    </Text>
+    <Text huntingZoneId="402" id="10" prevId="9" villagerId="1003">
+         
+        <Page social="4">(Os símbolos na pedra não se movem, mas um padrão está surgindo em sua mente).</Page>
+    
+    </Text>
+    <Text huntingZoneId="402" id="11" prevId="10" villagerId="1001">
+         
+        <Page social="1">E assim nos encontramos finalmente, &lt;PCNAME&gt;. Eu sou Mystel, vidente dos deuses. Você viajou muito para chegar a este lugar no espaço e no tempo. Você foi testado pela própria caçadora e agora por mim.&lt;BR&gt;&lt;BR&gt;Eu preciso saber se você tem forças para ir ainda mais longe - para derrotar um mal mais poderoso do que qualquer mortal jamais imaginou.&lt;NEXTPAGEBUTTON&gt;"O que você quer dizer?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Nosso mundo enfrenta um perigo mais grave do que qualquer um imagina. Será preciso um soldado de incrível coragem e fortaleza para enfrentar um inimigo tão inexorável. Esse teste foi duro, mas necessário.&lt;BR&gt;&lt;BR&gt;Você me surpreendeu. Não pode imaginar como isso é raro.&lt;NEXTPAGEBUTTON&gt;"Então, passei no teste?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">O teste nunca termina, &lt;PCNAME&gt;. Seu desempenho, no entanto, foi muito promissor. Estamos no mesmo caminho agora. Com o tempo, poderei lhe revelar mais. Por enquanto, pegue este livro e estude seus segredos. Pode haver um momento em que o conhecimento aqui contido será decisivo.&lt;BR&gt;&lt;BR&gt;Fique firme no coração e no propósito.&lt;NEXTPAGEBUTTON&gt;"Ficarei."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Nossos destinos estão entrelaçados agora. A jornada é clara, embora o destino ainda seja desconhecido.&lt;BR&gt;&lt;BR&gt;Tenho outras pedras para colocar, então devo me despedir. Adeus, por enquanto.</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="12" prevId="11" villagerId="1003">
+         
+        <Page social="4">A deusa do destino o escolheu, e você passou no teste dela! Incrível! &lt;BR&gt;&lt;BR&gt;Você sabe como poucos são escolhidos e muito menos sobrevivem? Este é um momento de enorme importância. Preciso preparar um relatório. Você deve voltar a Tralion e informar ao Magistrado Jelren o que aconteceu aqui.</Page>
+    
+    </Text>
+    <Text huntingZoneId="69" id="13" prevId="12" villagerId="1001">
+         
+        <Page social="1">Você está a salvo! Estávamos esperando ansiosamente. O que aconteceu? &lt;NEXTPAGEBUTTON&gt;"Foi um teste e tanto."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Incrível! Você se encontrou com Mystel? E passou no teste dela? Sua sorte está aumentando! &lt;BR&gt;&lt;BR&gt;O livro que ela lhe deu é o Códice Nelsiir. Diz-se que ele contém a localização de um artefato terrivelmente poderoso.&lt;BR&gt;&lt;BR&gt;Eu enviarei o códice para o Mysterium em Allemantheia para um estudo mais aprofundado. Quando chegar a hora certa, ele voltará para você.&lt;BR&gt;&lt;BR&gt;Bem feito, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+</QuestDialog>

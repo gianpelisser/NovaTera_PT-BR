@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="32" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="204" id="100" prevId="0" villagerId="1108">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="204" id="2" prevId="0" villagerId="1108">
+         
+        <Page social="4">They do some crazy stuff in Castanica, &lt;PCCLASS:lcase&gt;. You walk into an alley, and some guy will be selling you some weird thing you've never even heard of.&lt;BR&gt;&lt;BR&gt;And I hear—from a friend of a friend, of course—that one of the things they sell are the bones of {@LinkCreature:4#2031#eldritch cardinals}.&lt;BR&gt;&lt;BR&gt;Medicinal purposes, maybe? Don't know, don't wanna know. But I like money just fine...</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="3" prevId="2" villagerId="1108">
+         
+        <Page social="4">I'll send these off to Castanica. Here's your cut. And don't tell the other soldiers. I want to keep a good thing quiet.</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="4" villagerId="1108">
+         
+        <Page social="0">Your business, friend. If you aren't going to help out, though, I'd appreciate a little discretion on your part.&lt;BR&gt;&lt;BR&gt;Don't tell anyone about how I'm paying top coin for eldritch bones, eh?</Page>
+    
+    </Text>
+</QuestDialog>

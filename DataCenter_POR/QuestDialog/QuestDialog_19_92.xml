@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="19" id="92" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="65" id="100" prevId="0" villagerId="1012">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="65" id="2" prevId="0" villagerId="1012">
+         
+        <Page social="0">Vamos ver, o que mais eu tenho aqui... ah! Vou precisar que você se livre dos {@LinkCreature:19#2001#crazed}, {@LinkCreature:19#2003#wild}, {@LinkCreature:19#3001#berserk} e {@LinkCreature:19#3003#reaping harvester golems} ao redor de Thrallfield.&lt;BR&gt;&lt;BR&gt;Fale com Cardis quando terminar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="3" prevId="2" villagerId="1020">
+         
+        <Page social="4">Que bom! Muito obrigado. Por favor, aceite isso pelo que você fez.</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="4" villagerId="1020">
+         
+        <Page social="0">Eu adoraria recompensá-lo, mas você precisa fazer algo primeiro.</Page>
+    
+    </Text>
+</QuestDialog>

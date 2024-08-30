@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1600">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1600">
+        <Page social="4">Hi there! You want to help me again?! How nice! Moreover,  this time there are two runes. The first is Dagas rune, and of course I found out what creature had managed to devour it. It's the demon overseer from the Macellarius Catacombs, Demokraxus. It's either the kindness hit it in the head, or the balance of light and dark in its soul is messed up, but the fact that it has the power of light is undeniable. Some of the light spells on him no longer work, which creates a lot of problems ... Regarding the second rune, there is not much info, but its approximate location is somewhere in the Sabex Arsenal. So, do you want to help me again, huh?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1600">
+        <Page social="4">Thank you, thank you so much! You helped me complete an important mission that will affect the fate of the entire Arborea!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="1600">
+        <Page social="0">All that remains is to prepare for the ritual, and the God-killer will not be able to return!</Page>
+    </Text>
+</QuestDialog>

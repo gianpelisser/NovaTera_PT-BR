@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="18" id="33" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="218" id="100" prevId="0" villagerId="1008">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="218" id="2" prevId="0" villagerId="1008">
+         
+        <Page social="4">I wonder if I might ask a favor, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Nema wants me to collect &lt;font color='#660000'&gt;marked fragments&lt;/font&gt; from the bodies of {@LinkCreature:18#14#piledriver golems}. The problem is they terrify me. And I can't tell Nema, because she terrifies me, too.&lt;BR&gt;&lt;BR&gt;Would you mind collecting them for me and bringing them back here?</Page>
+    
+    </Text>
+    <Text huntingZoneId="218" id="3" prevId="2" villagerId="1008">
+         
+        <Page social="4">Oh, thank you! I really didn't want to upset Nema.&lt;BR&gt;&lt;BR&gt;Could you maybe not tell her about this?</Page>
+    
+    </Text>
+    <Text huntingZoneId="218" id="4" villagerId="1008">
+         
+        <Page social="0">Oh, please hurry. Nema has already been waiting on me for quite some time.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="487" id="22" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="203" id="100" prevId="0" villagerId="1032">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="203" id="2" prevId="0" villagerId="1032">
+         
+        <Page social="5">My orders are to scout out the Bastion of Lok and hit the Scions hard, but a basilisk injured my leg.&lt;BR&gt;&lt;BR&gt;I can't go down there like this—I'll be dead in moments.&lt;BR&gt;&lt;BR&gt;We need to strike the Scions in their lair. Will you go in my stead?</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="3" prevId="2" villagerId="1032">
+         
+        <Page social="5">I see bloodied badges. Excellent. That means the Scions of Lok can spend some time grieving over their dead for a change.&lt;BR&gt;&lt;BR&gt;Couldn't have done it without you. Well done.</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="4" villagerId="1032">
+         
+        <Page social="0">We must strike at the Scions of Lok. I can't do it, &lt;PCNAME&gt;. The mission falls to you.</Page>
+    
+    </Text>
+</QuestDialog>

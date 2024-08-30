@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="46" id="22" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="246" id="100" prevId="0" villagerId="1103">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="246" id="2" prevId="0" villagerId="1103">
+         
+        <Page social="4">First thing first: clear the hallways. Can't do research with argons trying to argonify us every ten minutes.&lt;BR&gt;&lt;BR&gt;Start with the tholzak emitters; they give commands like "harvest" and "exterminate" to the argon golems that patrol the halls.&lt;BR&gt;&lt;BR&gt;Keep the broken emitters, though. Maybe the researchers in the Beastroar chamber can come up with a use for them.</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="3" prevId="2" villagerId="1025">
+         
+        <Page social="5">That's a lot of emitters. And I bet the hallways are clear, too.</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="4" villagerId="1025">
+         
+        <Page social="0">If you can bring us broken emitters, we may be able to take them apart and figure out what makes them work. Or not work, if you catch my meaning.</Page>
+    
+    </Text>
+</QuestDialog>

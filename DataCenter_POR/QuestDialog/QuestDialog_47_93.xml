@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="47" id="93" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="77" id="100" prevId="0" villagerId="1010">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="77" id="2" prevId="0" villagerId="1010">
+         
+        <Page social="4">Os {@LinkCreature:47#3003#argonomorph wendigo shamans}, junto com seus subordinados, os {@LinkCreature:47#3002#argononomorph wendigos} e os {@LinkCreature:47#3001#contaminated wendigos} estão causando problemas em {@Rgn:47004$$Blightroar}. Leve as fichas deles para {@Creature:247#1005$$$Chenace} e ela o recompensará por seu trabalho.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="3" prevId="2" villagerId="1005">
+         
+        <Page social="5">Obrigado por cuidar disso, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="4" villagerId="1005">
+         
+        <Page social="0">Apenas cuide dos {@LinkCreature:47#3001#wendigos contaminados}, dos {@LinkCreature:47#3002#wendigos argonomorfos} e dos {@LinkCreature:47#3003#xamãs argonomorfos wendigos}, e eu ficarei feliz.</Page>
+    
+    </Text>
+</QuestDialog>

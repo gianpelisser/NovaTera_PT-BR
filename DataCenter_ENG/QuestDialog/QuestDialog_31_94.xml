@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="31" id="94" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="73" id="100" prevId="0" villagerId="1009">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="73" id="2" prevId="0" villagerId="1009">
+         
+        <Page social="0">Those {@LinkCreature:31#25#onyx hydraths} are strange creatures indeed. So strange that the Mysterium wants to take a closer look. Make them some carcasses and report back to Leuwra at Coastal Overwatch camp.</Page>
+    
+    </Text>
+    <Text huntingZoneId="231" id="3" prevId="2" villagerId="1012">
+         
+        <Page social="4">Thank you for your help. The remains of the onyx hydrath will be sent to Allemantheia for further research, but extra samples wouldn't hurt.&lt;BR&gt;&lt;BR&gt;Bring me more onyx hydraths and I'll keep rewarding you.</Page>
+    
+    </Text>
+    <Text huntingZoneId="231" id="4" villagerId="1012">
+         
+        <Page social="0">It looks like you haven't completed your mission yet.</Page>
+    
+    </Text>
+</QuestDialog>

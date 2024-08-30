@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="20" id="28" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="220" id="100" prevId="0" villagerId="1007">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="220" id="2" prevId="0" villagerId="1007">
+         
+        <Page social="4">Eu quero as armas dos {@LinkCreature:20#30114001#ossugon centurions} e dos {@LinkCreature:20#30031000#skeleton spearmen}. Quero estudá-las e ver como se mantiveram ao longo de todos esses anos.&lt;BR&gt;&lt;BR&gt;Quer dizer, sim, elas estão enferrujadas, mas ainda não se desfizeram.&lt;BR&gt;&lt;BR&gt;Eu preciso saber por quê. Colete-os para mim. Não me importa o que você fará com os esqueletos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="220" id="3" prevId="2" villagerId="1014">
+         
+        <Page social="4">Você claramente tem mais braços do que aparenta ter para conseguir trazer tantos de volta sozinho.&lt;BR&gt;&lt;BR&gt;De qualquer forma, obrigado. Vou cuidar deles imediatamente.</Page>
+    
+    </Text>
+    <Text huntingZoneId="220" id="4" villagerId="1014">
+         
+        <Page social="0">Quero saber por que essas armas não estão quebradas! Eu quero saber, então preciso que você as traga para mim!</Page>
+    
+    </Text>
+</QuestDialog>

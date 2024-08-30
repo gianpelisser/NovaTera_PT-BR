@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="82" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="64" id="100" prevId="0" villagerId="1048">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="64" id="2" prevId="0" villagerId="1048">
+         
+        <Page social="4">Nature's bounty is all around you. Ores, plants, and energy are all &lt;font color='#660000'&gt;materials&lt;/font&gt; that can be harvested for crafting! &lt;BR&gt;&lt;BR&gt;This will serve you well, as crafted items are generally superior quality.&lt;BR&gt;&lt;BR&gt;Materials are everywhere! See what I mean?&lt;NEXTPAGEBUTTON&gt;"What should I be seeing?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Gatherable items activate when you walk near them—a circle appears much like the one I'm standing in. Stand next to a gatherable item and press &lt;b&gt;F&lt;/b&gt;. If it fails, try again.&lt;BR&gt;&lt;BR&gt;Give it a try for yourself. Look around near me for reddish rocks. When you find and activate one, press the &lt;font color='#660000'&gt;[F] key&lt;/font&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="64" id="3" prevId="2" villagerId="1048">
+         
+        <Page social="4">Good work. You wouldn't believe how many people come back to me with some random pebbles.&lt;BR&gt;&lt;BR&gt;When you're in a &lt;font color='#660000'&gt;group&lt;/font&gt;, you'll gather materials faster and share in the rewards.&lt;BR&gt;&lt;BR&gt;Another way to speed up gathering: increase your &lt;font color='#660000'&gt;Gathering skill&lt;/font&gt; level through practice. Practice makes perfect!</Page>
+    
+    </Text>
+    <Text huntingZoneId="64" id="4" villagerId="1048">
+         
+        <Page social="0">Have you tried the &lt;font color='#660000'&gt;Gathering skill&lt;/font&gt; yet? Need a refresher course?&lt;BR&gt;&lt;BR&gt;Head over to that pile of rocks, then press the &lt;font color='#660000'&gt;[F] key&lt;/font&gt;. When you're done, pick up what you've gathered.</Page>
+    
+    </Text>
+</QuestDialog>

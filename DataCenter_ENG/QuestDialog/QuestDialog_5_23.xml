@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="5" id="23" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="205" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="205" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="5">This surveying is going much more slowly than I was hoping—and certainly more slowly than Ackerly was expecting. These pesky {@LinkCreature:5#14#Muddy Sporewalkers} keep wandering around, blocking my way.&lt;BR&gt;&lt;BR&gt;If you could get them out of my way, I'd be able to actually finish the job here and get reports back to Ackerly.</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="5">Oh, thanks! It's going to be so much easier to finish this surveying without those pests in the way.&lt;BR&gt;&lt;BR&gt;Here's something for your trouble.</Page>
+    
+    </Text>
+</QuestDialog>

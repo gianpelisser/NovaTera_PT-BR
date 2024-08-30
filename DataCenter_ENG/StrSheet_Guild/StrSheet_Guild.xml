@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StrSheet_Guild xmlns="https://vezel.dev/novadrop/dc/StrSheet_Guild" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Guild StrSheet_Guild.xsd">
+    <String string="Your guild has been created." readableId="SMT_GUILDLOG_CREATE_GUILD" />
+    <String string="Your guild has been disbanded." readableId="SMT_GUILDLOG_DESTROY_GUILD" />
+    <String string="{UserName} has joined the guild." readableId="SMT_GUILDLOG_ADD_MEMBER" />
+    <String string="{UserName} has left the guild." readableId="SMT_GUILDLOG_LEAVE_GUILD" />
+    <String string="{UserName} has been kicked from the guild." readableId="SMT_GUILDLOG_BAN" />
+    <String string="The rank {GroupName} has been added." readableId="SMT_GUILDLOG_CREATE_GROUP" />
+    <String string="The rank {GroupName} has been removed." readableId="SMT_GUILDLOG_DESTROY_GROUP" />
+    <String string="{UserName} is now the guild master." readableId="SMT_GUILDLOG_CHANGE_CHIEF" />
+    <String string="{UserName} is now rank {GroupName}." readableId="SMT_GUILDLOG_CHANGE_GROUP" />
+    <String string="{UserName} has set the area tax rate." readableId="SMT_GUILDLOG_LORD_CALC_TAX" />
+    <String string="Guild name changed from [{OldName}] to [{NewName}]." readableId="SMT_GUILDLOG_CHANGE_NAME" />
+    <String string="Guild master" readableId="SMT_MASTER_GUILDGROUP_NAME" />
+    <String string="Recruit" readableId="SMT_MEMBER_GUILDGROUP_NAME" />
+    <String string="[{UserName}] earned [{Point}] competition points." readableId="SMT_GUILDLOG_GAIN_LORD_ELECTION_COMPETITION_POINT" />
+    <String string="{CoolTime}" readableId="SMT_GUILDWAR_INFO_COOLTIME" />
+    <String string="{KP} point{@select:{KP}/s//s}" readableId="SMT_GUILDWAR_INFO_MEMBER_KILLPOINT" />
+    <String string="{KP} point{@select:{KP}/s//s}" readableId="SMT_GUILDWAR_INFO_MASTER_KILLPOINT" />
+    <String string="{KP} point{@select:{KP}/s//s}" readableId="SMT_GUILDWAR_INFO_WIN_KILLPOINT" />
+    <String string="GvG Declaration" readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_TITLE" />
+    <String string="Do you want to begin a GvG guild battle against {Opponent}?
+Battle will last {Duration}." readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_MESSAGE" />
+    <String string="Declare" readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_DECLARE" />
+    <String string="Cancel" readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_CANCEL" />
+    <String string="Battle in progress" readableId="SMT_GUILDWAR_HISTORY_ONGOING" />
+    <String string="[{Name}] guild won!" readableId="SMT_GUILDWAR_HISTORY_RESULT" />
+    <String string="The battle was a draw." readableId="SMT_GUILDWAR_HISTORY_DRAW" />
+    <String string="[{Name}] guild surrendered." readableId="SMT_GUILDWAR_HISTORY_SURRENDER" />
+    <String string="Surrender Confirmation" readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_TITLE" />
+    <String string="Do you want to surrender?
+The battle against [{Opponent}] will end and they will be declared the winner." readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_MESSAGE" />
+    <String string="OK" readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_DECLARE" />
+    <String string="Cancel" readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_CANCEL" />
+    <String string="Guild Master: {Master}" readableId="SMT_GUILDWAR_MASTER" />
+    <String string="{Kp}" readableId="SMT_GUILDWAR_KILLPOINT" />
+    <String string="{Time}" readableId="SMT_GUILDWAR_REMAINING_TIME" />
+    <String string="Time is running out." readableId="SMT_GUILDWAR_REMAINING_TIME_IMPEND" />
+    <String string="{Kp} point{@select:{KP}/s//s}" readableId="SMT_GUILDWAR_KILLPOINT2" />
+    <String string="Pacifist" readableId="SMT_GUILDSTATE_PEACEFUL" />
+    <String string="Battle Ready" readableId="SMT_GUILDSTATE_NORMAL" />
+    <String string="Confirm Change to Guild State" readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_TITLE" />
+    <String string="Changing guild state from {OldState} to {NewState}. {NewState} guilds cannot engage in guild battles." readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_MESSAGE_TO_PEACEFUL" />
+    <String string="Changing guild state from {OldState} to {NewState}. You may engage in guild battles while {NewState}." readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_MESSAGE_TO_NORMAL" />
+    <String string="Change" readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_OK" />
+    <String string="Cancel" readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_CANCEL" />
+</StrSheet_Guild>

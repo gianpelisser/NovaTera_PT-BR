@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="25" id="33" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="225" id="100" prevId="0" villagerId="1027">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="225" id="2" prevId="0" villagerId="1027">
+         
+        <Page social="4">O Atel Akaad é liderado pelos devas, mas os seguidores de Lok também incluem outras raças e nem todos foram raptados e forçados a se converter. Não sei que mentiras os {@LinkCreature:25#2071#dark deacons} contam para conseguir convertidos, mas eu gostaria de descobrir. &lt;BR&gt;&lt;BR&gt;Se você conseguir derrotar os diáconos e trazer as escrituras para mim, tenho certeza de que encontraremos uma resposta.</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="3" prevId="2" villagerId="1027">
+         
+        <Page social="4">Eu sabia que você poderia fazer isso. Vamos ver o que temos.&lt;BR&gt;&lt;BR&gt;"A ressurreição de Lok o salvará..."&lt;BR&gt;&lt;BR&gt;Ele continua, prometendo redenção nas mãos de Lok. Essas pessoas não sabem que os diáconos pensam nelas como bens descartáveis! Elas estão sendo atraídas por promessas bonitas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="4" villagerId="1027">
+         
+        <Page social="0">Sei que os crentes de Lok valorizam suas escrituras acima de suas próprias vidas, mas é preciso encontrar uma maneira de coletar uma.</Page>
+    
+    </Text>
+</QuestDialog>

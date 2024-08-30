@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StrSheet_AccountBenefit xmlns="https://vezel.dev/novadrop/dc/StrSheet_AccountBenefit" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_AccountBenefit StrSheet_AccountBenefit.xsd">
+    <String id="31" string="Identificação de Membro da Expedição" />
+    <String id="32" string="Aventureiro habilidoso" />
+    <String id="33" string="VIP" />
+    <String id="34" string="Fronteira" hideCoolTime="true" />
+    <String id="101" string="" />
+    <String id="102" string="" hideCoolTime="true" />
+    <String id="103" string="" />
+    <String id="333" string="Status de elite" />
+    <String id="334" string="Fundador" />
+    <String id="350" string="Benefício do Servidor" />
+    <String id="433" string="TERA Clube" />
+    <String id="434" string="Veterano" />
+    <String id="532" string="VIP-Bônus" />
+    <String id="534" string="Fundador" />
+    <String id="533" string="Elite VIP" />
+	<String id="535" string="VIP Grand" />
+	<String id="536" string="Mau" />
+	<String id="537" string="Grande" />
+	<String id="538" string="Vasto" />
+	
+	<String id="539" string="Assistente gentil" />
+    <String id="540" string="Investidor experiente" />
+    <String id="541" string="Como Tio Patinhas" />
+	
+    <String id="601" string="Pacote básico" />
+    <String id="602" string="Pacote de conveniência" />
+    <String id="603" string="Pacote de crescimento" />
+    <String id="691" string="Modo de segurança" />
+    <String id="1000" string="TERA PC cafe" hideCoolTime="true" />
+    <String id="10031" string="Recompensa: receba duas Valkyon's Response ao usar a Instance Matching." />
+    <String id="10032" string="Diminuir o tempo de recarga da instância pela metade e aumentar as entradas da instância em 100%" />
+    <String id="10033" string="Pagamento em Ouro: isento&lt;BR&gt;Taxa de leilão: 5%&lt;BR&gt;Número de registro no Trader: 50&lt;BR&gt;Negociação de preço do Trader: Disponível&lt;BR&gt;Recompensa: receba a Resposta de Valkyon ao usar o sistema de instância entre servidores.&lt;BR&gt;Reduzir o cooldown da instância pela metade e aumentar as entradas de instância em 100%&lt;BR&gt;Aplicar o Sistema de Iniciante de Instância" />
+    <String id="10034" string="Recompensa: receba a Resposta de Valkyon ao usar o sistema de Instâncias de Dungeon entre servidores.&lt;BR&gt;Aplicar o sistema para iniciantes de instâncias" />
+    <String id="10101" string="" />
+    <String id="10102" string="" />
+    <String id="10103" string="" />
+    
+    <String id="10333" string="Recompensas da Conta Mensal:&lt;BR&gt;Duas Respostas de Valkyon na Procura por Instâncias.&lt;BR&gt;Dobro de missões diárias disponíveis.&lt;BR&gt;Dobro de acesso as Dungeons.&lt;BR&gt;Até 50 itens ativos no Leilão.&lt;BR&gt;Isento de exigências de dinheiro no Leilão.&lt;BR&gt;Taxa de Leilão de apenas 10%.&lt;BR&gt;Montaria: Muda periodicamente.&lt;BR&gt;Impulsos que se renovam diariamente.&lt;BR&gt;&lt;BR&gt;Recompensas Mensais para um Único Personagem: (via Reivindicação de Item)&lt;BR&gt;Halo Flamejante.&lt;BR&gt;Pergaminho Traveler's Insurance.&lt;BR&gt;Presente de elite grátis (muda mensalmente)." />
+    <String id="10334" string="Recompensas Permanentes da Conta: &lt;BR&gt;8 slots de personagem gratuitos por servidor.&lt;BR&gt;4 abas de banco por servidor.&lt;BR&gt;Terminus, o cavalo de guerra híbrido argon.&lt;BR&gt;Título de &quot;Fundador&quot;.&lt;BR&gt;Até 30 itens ativos no Leilão." hideCoolTime="true" />
+    <String id="10433" string="Recompensas da Conta Mensal:&lt;BR&gt;Duas Respostas de Valkyon na Procura por Instâncias.&lt;BR&gt;Dobro de missões diárias disponíveis.&lt;BR&gt;Acesso a instâncias duas vezes mais frequente.&lt;BR&gt;Montaria: Muda periodicamente.&lt;BR&gt;Até 50 itens ativos no Leilão.&lt;BR&gt;Isento de exigências de dinheiro no Leilão.&lt;BR&gt;Taxa de Leilão de apenas 10%.&lt;BR&gt;&lt;BR&gt;Village atlas.&lt;BR&gt;Dez chaves de cofre fortes.&lt;BR&gt;Pergaminho Traveler's Insurance.&lt;BR&gt;Impulsos que se renovam diariamente." />
+    <String id="10434" string="Recompensas Permanentes da Conta: &lt;BR&gt;8 personagens disponíveis por servidor.&lt;BR&gt;4 abas de banco por servidor.&lt;BR&gt;Título de &quot;Veterano da Federação de Valkyon&quot;.&lt;BR&gt;Até 30 itens ativos no Leilão." hideCoolTime="true" />
+
+	<String id="10532" string="Bônus de conta:&#10;Dobrar a recompensa da Federação por completar dungeons.&#10;Dobro de missões diárias disponíveis.&#10;Acesso em dobro às dungeons.&#10;Pode dar até 50 lances em itens no leilão.&#10;O depósito do leilão é de 5%.&#10;A comissão do leilão é de 5%.&#10;Experiência adicional: +100% (VIP).&#10;Reputação e Valor adicionais: +100% (VIP).&#10;Ouro adicional (Missões): 100% (VIP).&#10;Ouro adicional (Caça): 100% (VIP).&#10;Guardião do cristal inatacável (VIP)." />
+    <String id="10535" string="Bônus de conta:&#10;Dobrar a recompensa da Federação por completar dungeons.&#10;Dobro de missões diárias disponíveis.&#10;Acesso em dobro às dungeons.&#10;Pode dar até 50 lances em itens no leilão.&#10;O depósito do leilão é de 5%.&#10;A comissão do leilão é de 5%.&#10;Cavalo branco veloz para se deslocar pelo mundo!&#10;Lucky Tickets (VIP) x50 (Diário).&#10;Chave da caixa x5 (Diário).&#10;Experiência adicional: +100% (VIP).&#10;Reputação e Valor adicionais: +100% (VIP).&#10;Ouro adicional (missões): 100% (VIP).&#10;Ouro adicional (Caça): 100% (VIP).&#10;Complete Crystalbind (VIP).&#10;Diário e Atlas do Viajante.&#10;Presente VIP x2 (diário)." />
+    <String id="10533" string="Bônus de conta:&#10;Dobrar a recompensa da Federação por completar dungeons.&#10;Dobro de missões diárias disponíveis.&#10;Acesso em dobro às dungeons.&#10;Pode dar até 50 lances em itens no leilão.&#10;O depósito do leilão é de 5%.&#10;A comissão do leilão é de 5%.&#10;Cavalo branco veloz para se deslocar pelo mundo!&#10;Lucky Tickets (VIP) x50 (Diário).&#10;Chave da caixa x5 (Diário).&#10;Experiência adicional: +100% (VIP).&#10;Reputação e Valor adicionais: +100% (VIP).&#10;Ouro adicional (missões): 100% (VIP).&#10;Ouro adicional (Caça): 100% (VIP).&#10;Complete Crystalbind (VIP).&#10;Diário e Atlas do Viajante.&#10;Presente VIP x2 (diário)." />
+
+    <String id="10534" string="Bônus de status:&#10;Um ícone exclusivo no bate-papo do jogo.&#10;Título exclusivo: Fundador." />
+	
+	<String id="10536" string="Bônus de status:&#10;Um ícone exclusivo no bate-papo do jogo.&#10;Título exclusivo: Bungo sutorei doggusu." />
+	<String id="10537" string="Bônus de status:&#10;Um ícone exclusivo no bate-papo do jogo.&#10;Título exclusivo: 2B de não 2B." />
+	<String id="10538" string="Bônus de status:&#10;Um ícone exclusivo no bate-papo do jogo.&#10;Título exclusivo: I'll be back." />
+	
+	<String id="10539" string="Bônus de status:&#10;Um ícone exclusivo no bate-papo do jogo.&#10;Título exclusivo: Para Akeron!" />
+	<String id="10540" string="Bônus de status:&#10;Um ícone exclusivo no bate-papo do jogo.&#10;Título exclusivo: Herói devotado." />
+	<String id="10541" string="Bônus de status:&#10;Um ícone exclusivo no bate-papo do jogo.&#10;Título exclusivo: Mais louco." />
+	
+	<String id="10601" string="Recompensas Permanentes da Conta: &lt;BR&gt;8 personagens disponíveis por servidor.&lt;BR&gt;4 abas de banco por servidor.&lt;BR&gt;Título de &quot;Veterano da Federação Valkyon&quot;.&lt;BR&gt;Até 30 itens ativos na leilão." hideCoolTime="true" />
+    <String id="10602" string="Recompensas da Conta Mensal:&lt;BR&gt;Duas Respostas de Valkyon da Instâncias de Dungeon.&lt;BR&gt;Duas vezes mais missões diárias disponíveis.&lt;BR&gt;Acesso a instâncias duas vezes mais frequente.&lt;BR&gt;Montarias (muda periodicamente).&lt;BR&gt;Pode colocar até 50 itens no leilão.&lt;BR&gt;Isenção de requisitos de dinheiro adiantado no leilão.&lt;BR&gt;Taxa de leilão de apenas 10%.&lt;BR&gt;&lt;BR&gt;Atlas da vila.&lt;BR&gt;Dez chaves de caixa forte.&lt;BR&gt;Pergaminhos do Seguro do Viajante.&lt;BR&gt;Boosts que se reabastecem diariamente." />
+    <String id="10603" string="Recompensas da Conta Mensal:&lt;BR&gt;Duas Respostas de Valkyon da Instâncias de Dungeon.&lt;BR&gt;Duas vezes mais missões diárias disponíveis.&lt;BR&gt;Acesso a instâncias duas vezes mais frequente.&lt;BR&gt;Montarias (muda periodicamente).&lt;BR&gt;Pode colocar até 50 itens no leilão.&lt;BR&gt;Isenção de requisitos de dinheiro adiantado no leilão.&lt;BR&gt;Taxa de leilão de apenas 10%.&lt;BR&gt;&lt;BR&gt;Atlas da vila.&lt;BR&gt;Dez chaves de caixa forte.&lt;BR&gt;Pergaminhos do Seguro do Viajante.&lt;BR&gt;Boosts que se reabastecem diariamente." />
+    <String id="10691" string="Recompensas da Conta Mensal:&lt;BR&gt;Duas Respostas de Valkyon da Instâncias de Dungeon.&lt;BR&gt;Duas vezes mais missões diárias disponíveis.&lt;BR&gt;Acesso a instâncias duas vezes mais frequente.&lt;BR&gt;Montarias (muda periodicamente).&lt;BR&gt;Pode colocar até 50 itens no leilão.&lt;BR&gt;Isenção de requisitos de dinheiro adiantado no leilão.&lt;BR&gt;Taxa de leilão de apenas 10%.&lt;BR&gt;&lt;BR&gt;Atlas da vila.&lt;BR&gt;Dez chaves de caixa forte.&lt;BR&gt;Pergaminhos do Seguro do Viajante.&lt;BR&gt;Boosts que se reabastecem diariamente." />
+    <String id="11000" string="Pagamento em Ouro: isenção&lt;BR&gt;Taxa do corretor no leilão: 5% &lt;BR&gt;Pode colocar até 50 itens no leilão &lt;BR&gt;Negociação de preço no leilão: disponível&lt;BR&gt;Inventário do PC Café: disponível &lt;BR&gt;Adquirir 100% de experiência adicional&lt;BR&gt;Ganhar 100% de pontos de reputação adicionais&lt;BR&gt;Ganhar 100% de ouro adicional" />
+    <String id="100031" string="" />
+    <String id="100032" string="" />
+    <String id="100033" string="Benefício do pacote" />
+    <String id="100034" string="Benefício do pacote" />
+    <String id="100101" string="" />
+    <String id="100102" string="" />
+    <String id="100103" string="" />
+    <String id="100333" string="Benefício do pacote" />
+    <String id="100334" string="Benefício do pacote" />
+    <String id="100350" string="Você está sob o efeito de pontos de experiência em dobro." />
+    <String id="100433" string="Benefício do pacote" />
+    <String id="100434" string="Benefício do pacote" />
+    <String id="100533" string="Benefício do pacote" />
+    <String id="100534" string="Benefício do pacote" />
+    <String id="100601" string="Benefício do pacote" />
+    <String id="100602" string="Benefício do pacote" />
+    <String id="100603" string="Benefício do pacote" />
+    <String id="100691" string="Modo de segurança" />
+    <String id="101000" string="Benefício do pacote" />
+</StrSheet_AccountBenefit>

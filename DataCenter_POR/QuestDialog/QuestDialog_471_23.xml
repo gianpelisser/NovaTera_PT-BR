@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="471" id="23" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="233" id="100" prevId="0" villagerId="1026">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="233" id="2" prevId="0" villagerId="1026">
+         
+        <Page social="4">Os ksharans mataram meu marido, &lt;PCNAME&gt;, e eu quero me vingar.&lt;BR&gt;&lt;BR&gt;Depois de todos os arranhões que passamos juntos, acho que presumi que estaríamos sempre juntos.&lt;BR&gt;&lt;BR&gt;Cuidado, porém - esses ksharans são letais. Meu pobre marido nunca soube o que o atingiu.</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="3" prevId="2" villagerId="1026">
+         
+        <Page social="6">Isso não faz com que a solidão desapareça, mas admito que sim.&lt;BR&gt;&lt;BR&gt;Põe um pouco de sorriso em meu rosto. Obrigado, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="4" villagerId="1026">
+         
+        <Page social="0">Vingar meu marido, &lt;PCNAME&gt;. Matem esses ksharans!</Page>
+    
+    </Text>
+</QuestDialog>

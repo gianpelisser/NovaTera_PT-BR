@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="21" id="22" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="65" id="100" prevId="0" villagerId="1009">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="65" id="2" prevId="0" villagerId="1009">
+         
+        <Page social="4">Enviei um batedor para observar o kulkari do Crag Stalker há dois dias. Nenhuma notícia desde então. Não tenho mais batedores, então estou enviando você.&lt;BR&gt;&lt;BR&gt;Saia pelo portão oeste e encontre {@LinkCreature:221#1047#Hebbin}. Se ela estiver viva, obtenha seu relatório. Se não estiver, procure você mesmo e informe.</Page>
+    
+    </Text>
+    <Text huntingZoneId="221" id="3" prevId="2" villagerId="1047">
+         
+        <Page social="4">O capitão estava preocupado? Huh. Bem, eu simplesmente não podia me esgueirar, só isso.&lt;BR&gt;&lt;BR&gt;Estranhamente, os kulkari não estão fazendo nada em particular. Tem sido estranhamente silencioso.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="23" id="36" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="223" id="100" prevId="0" villagerId="1006">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="223" id="2" prevId="0" villagerId="1006">
+         
+        <Page social="5">Those damned {@LinkCreature:23#21#trickster jesters} and {@LinkCreature:23#22#kobold bloodletters} are encroaching on our position.&lt;BR&gt;&lt;BR&gt;If I send anyone else, they'll be going to their deaths. This calls for a veteran like you.&lt;BR&gt;&lt;BR&gt;Do unto them before they do unto us.</Page>
+    
+    </Text>
+    <Text huntingZoneId="223" id="3" prevId="2" villagerId="1006">
+         
+        <Page social="5">Kobolds are basically cowards.&lt;BR&gt;&lt;BR&gt;A defeat like the one you just gave them should keep them at bay for quite awhile.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="7" id="22" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="207" id="100" prevId="0" villagerId="1006">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="207" id="2" prevId="0" villagerId="1006">
+         
+        <Page social="5">The kobolds are sneaking around to flank us from behind. The fools act like we can't see them skulking out there.&lt;BR&gt;&lt;BR&gt;Kobolds are a pain in the ass but we need to keep them at bay as long as possible. Think you can cut a swath through them? If they fear us, they're not going to be so anxious to swarm our position.&lt;BR&gt;&lt;BR&gt;Kill as many {@LinkCreature:7#9#Red Fang kobold minions} as you can. I doubt you'll run out.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="3" prevId="2" villagerId="1006">
+         
+        <Page social="5">That should make them think twice, or thrice. Thanks, &lt;PCNAME&gt;. Perhaps we can get five minutes of sleep now.</Page>
+    
+    </Text>
+</QuestDialog>

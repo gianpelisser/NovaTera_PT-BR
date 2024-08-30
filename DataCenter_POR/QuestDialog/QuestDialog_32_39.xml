@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="32" id="39" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="232" id="100" prevId="0" villagerId="1005">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="232" id="2" prevId="0" villagerId="1005">
+         
+        <Page social="4">As bruxas estão conectadas ao poder dos titãs por meio da energia ouijic.&lt;BR&gt;&lt;BR&gt;Mesmo que consigamos eliminar as bruxas, há muito minério ouijic por aí, de modo que sempre é possível trazer reforços para ocupar seus lugares.&lt;BR&gt;&lt;BR&gt;Precisamos de alguém para cortar as conexões do minério ouijic em Tyrant's Overwatch e Frigid Vigil.</Page>
+    
+    </Text>
+    <Text huntingZoneId="232" id="3" prevId="2" villagerId="1005">
+         
+        <Page social="4">Excelente trabalho! Agora essas bruxas não podem mais causar problemas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="232" id="4" villagerId="1005">
+         
+        <Page social="0">Você resolveu nosso problema com o minério de ferro?</Page>
+    
+    </Text>
+</QuestDialog>

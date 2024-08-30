@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="39" id="29" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="239" id="100" prevId="0" villagerId="1026">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="239" id="2" prevId="0" villagerId="1026">
+         
+        <Page social="4">Um...{@LinkCreature:39#270#volito sem mercúrio} me mordeu. Ainda não consigo me mover - ainda estou envenenado.&lt;BR&gt;&lt;BR&gt;Por favor, mate os mais próximos para ganhar tempo!&lt;BR&gt;&lt;BR&gt;Chaman nunca vai me perdoar se eu for comido aqui embaixo!</Page>
+    
+    </Text>
+    <Text huntingZoneId="239" id="3" prevId="2" villagerId="1026">
+         
+        <Page social="4">Posso sentir meus braços e pernas novamente! Vou ficar bem.&lt;BR&gt;&lt;BR&gt;Só tenho que fazer mais algumas coisas...</Page>
+    
+    </Text>
+</QuestDialog>

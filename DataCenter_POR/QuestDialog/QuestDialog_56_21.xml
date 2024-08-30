@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="56" id="21" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="80" id="100" prevId="0" villagerId="1020">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="80" id="2" prevId="0" villagerId="1020">
+         
+        <Page social="4">&lt;PCNAME&gt;! Temos grandes problemas. Ontem à noite - mantenha isso em segredo, está bem? &lt;BR&gt;&lt;BR&gt;Depois que os mekonaris tomaram a floresta e a junção, eles bloquearam o vale. Cachoeira do Dragão parecia segura, mas agora mesmo a Patrulha encontrou uma casa vazia. Toda a família foi raptada. Algumas manchas de sangue... e algumas penas negras.&lt;BR&gt;&lt;BR&gt;Se a notícia se espalhar... bem, a cidade já está em pânico.&lt;BR&gt;&lt;BR&gt;Temos que agir! Minha guilda irá à frente se você conseguir romper o bloqueio. Você está dentro?</Page>
+    
+    </Text>
+    <Text huntingZoneId="256" id="3" prevId="2" villagerId="1006">
+         
+        <Page social="4">Muito bem, &lt;PCCLASS:lcase&gt;! Meu dia está melhorando!</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="172" id="9" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="172" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0">Após a queda da Intrepid, a Iniciativa Vanguard encontra os Khirianos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="4">Não podemos ficar aqui para sempre. Temos um dever para com nossos soldados e a Federação Valkyon."&lt;NEXTPAGEBUTTON&gt;"Suas ordens, senhor?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Enviei um batedor. Alcance-o e ajude no reconhecimento.</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="3" prevId="2" villagerId="1019">
+         
+        <Page social="4">Eu vi os destroços, mas daqui não dá para chegar lá.&lt;BR&gt;&lt;BR&gt;Eu deveria disparar um sinalizador, mas o lançador não funciona. Por que você não tenta?</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="4" prevId="3" villagerId="1019">
+         
+        <Page social="4">Ali está o sinalizador de resposta. Devemos seguir em frente.&lt;BR&gt;&lt;BR&gt;Não sei quanto aos feridos, mas não posso lutar contra esses mandris. Talvez você possa nos abrir um pequeno caminho?</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="5" prevId="4" villagerId="1005">
+         
+        <Page social="4">Não reconheço suas vestimentas ou armamentos. Quem é você? &lt;NEXTPAGEBUTTON&gt;"Sou do extremo sul."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Isso não deveria ser possível. As nuvens negras nos mantêm presos. Se o que você diz é verdade, Rhodos deve ouvi-lo&lt;BR&gt;&lt;BR&gt;Passe esta ponte para chegar ao nosso acampamento. Peça para ver Rhodos. Dê a ele este pergaminho. Eu responderei por você.</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="6" prevId="5" villagerId="1006">
+         
+        <Page social="4">O que é isso? Bagi escreveu que você é do sul. Isso é verdade? &lt;NEXTPAGEBUTTON&gt;"É verdade."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Por que você está aqui? Como encontrou meu acampamento? &lt;NEXTPAGEBUTTON&gt;"Nossa nave caiu na selva."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Você pode ser esperto, mas não posso dizer se está mentindo, mas há alguém que pode.&lt;BR&gt;&lt;BR&gt;Ao cruzar a trilha do nosso acampamento, você verá uma cabana com chifres. Madat pode julgar a veracidade de suas palavras.</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="7" prevId="6" villagerId="1007">
+         
+        <Page social="4">&lt;NEXTPAGEBUTTON&gt;"O que você disse?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Não pareça tão surpreso. Eu vi seu grande peixe aéreo cair do céu. Você deve ser de fora.&lt;BR&gt;&lt;BR&gt;Talvez nossa hora tenha chegado.&lt;BR&gt;&lt;BR&gt;Acredito que sua chegada anuncia a vitória dos Khiria sobre os malditos arquidevas!&lt;BR&gt;&lt;BR&gt;Hatishna! Diga a Rhodos Hatishna!</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="8" prevId="7" villagerId="1006">
+         
+        <Page social="4">O que Madat disse?</Page>
+    
+    </Text>
+</QuestDialog>

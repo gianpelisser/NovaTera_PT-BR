@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="27" id="30" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="227" id="100" prevId="0" villagerId="1022">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="227" id="2" prevId="0" villagerId="1022">
+         
+        <Page social="5">O moral está sofrendo muito. Os {@LinkCreature:27#10#Thulsan slayers} e os {@LinkCreature:27#8#Thulsan berserkers} estão massacrando nossas tropas.&lt;BR&gt;&lt;BR&gt;Precisamos de um ponto de encontro para usar contra a Legião Brogar. Preciso que você derrube as tropas deles e pegue suas armas. Nós as usaremos como um símbolo de esperança, uma prova de que podemos lidar com as forças de Thulsa.</Page>
+    
+    </Text>
+    <Text huntingZoneId="227" id="3" prevId="2" villagerId="1021">
+         
+        <Page social="5">É assim que a Legião Brogar arma seus soldados?&lt;BR&gt;&lt;BR&gt;Armas tão selvagens. Muito sangue foi derramado dos jovens homens e mulheres da federação. Mas não hoje. Obrigado, &lt;PCNAME&gt;. Esta é uma grande vitória.</Page>
+    
+    </Text>
+    <Text huntingZoneId="227" id="4" villagerId="1021">
+         
+        <Page social="0">Se não tomarmos as armas da Legião Brogar, essa batalha se arrastará para sempre. Por favor, se apresse.</Page>
+    
+    </Text>
+</QuestDialog>

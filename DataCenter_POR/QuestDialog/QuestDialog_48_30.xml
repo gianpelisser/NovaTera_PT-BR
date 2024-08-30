@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="48" id="30" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="48" id="100" prevId="0" villagerId="1013">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="48" id="2" prevId="0" villagerId="1013">
+         
+        <Page social="4">Preciso voltar para Chatran, mas nunca sobreviveria à viagem. São muitos argonss malditos! &lt;NEXTPAGEBUTTON&gt;"Você irá, sob minha proteção."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Excelente! Estou ansioso para voltar ao trabalho. Avise-me quando estiver pronto para partir.</Page>
+    
+    </Text>
+    <Text huntingZoneId="48" id="3" villagerId="30">
+         
+        <Page social="0">Vamos lá?</Page>
+    
+    </Text>
+    <Text huntingZoneId="248" id="4" prevId="2" villagerId="1034">
+         
+        <Page social="6">Você é tão bom quanto sua palavra, &lt;PCNAME&gt;. Obrigado.&lt;NEXTPAGEBUTTON&gt;"De nada."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">A propósito, encontrei uma carta. A julgar por todas as palavras grandes, é de um baraka. Você acha que pode encontrar o proprietário? Eu começaria a procurar em {@Rgn:78001}.</Page>
+    
+    </Text>
+</QuestDialog>

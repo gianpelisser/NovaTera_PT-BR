@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="701" id="14" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="230" id="100" prevId="0" villagerId="7002">
+         
+        <Page social="0">Você forçou sua entrada no Banquet of Blood, destruiu o altar dos vampiros e interrompeu o ritual.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="2" prevId="0" villagerId="7002">
+         
+        <Page social="0">Finalmente descobri por que os vampiros precisavam de tantos prisioneiros. Eles colocam o sangue de seus cativos em seu altar e isso, de alguma forma, lhes dá força. Provavelmente é por isso que não conseguimos exterminá-los completamente.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, preciso de sua ajuda novamente: Destrua aquele altar!</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="3" prevId="2" villagerId="7002">
+         
+        <Page social="4">Você nunca deixa de impressionar, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Talvez você devesse considerar voltar um dia, quando não estiver muito ocupado, e posar para uma estátua...?</Page>
+    
+    </Text>
+</QuestDialog>

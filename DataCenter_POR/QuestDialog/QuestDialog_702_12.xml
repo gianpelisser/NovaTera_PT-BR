@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="702" id="12" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="205" id="100" prevId="0" villagerId="2000">
+         
+        <Page social="0">Você ajudou os tuwangis e participou da Pond Faire.</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="2" prevId="0" villagerId="2000">
+         
+        <Page social="4">A Pond Faire é uma cerimônia para os tuwangis que completam sete anos de idade. Os rituais dos tuwangis são surpreendentemente complicados para uma espécie tão simples!&lt;BR&gt;&lt;BR&gt;Fale com o xamã, Haroso. Talvez ele permita que você observe os jovens tuwangis, ou até mesmo participe deles. &lt;NEXTPAGEBUTTON&gt;Ok.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="3" prevId="2" villagerId="2001">
+         
+        <Page social="4">Os jovens tuwangi têm medo. Estão se escondendo agora. Preciso encontrar. Preciso torná-lo corajoso! &lt;NEXTPAGEBUTTON&gt;Como posso ajudar?&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Haroso dá tambor.&lt;BR&gt;Bang, bang tambor! Bater no tambor para deixar o tuwangi corajoso.&lt;BR&gt;&lt;BR&gt;Encontre o tuwangi! Bater tambor. Tornar corajoso.</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="4" prevId="3" villagerId="2006">
+         
+        <Page social="4">Tão... assustador.</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="5" prevId="4" villagerId="2001">
+         
+        <Page social="4">Obrigado! Você trabalha duro. Nós nos banqueteamos! &lt;BR&gt;&lt;BR&gt;Grande banquete por seu trabalho! &lt;NEXTPAGEBUTTON&gt;Eu não fiz tanto assim.&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Você traz um banquete! Tragam carne de dragão! Todos os tuwangis se banqueteiam! A melhor carne de dragão!</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="6" prevId="5" villagerId="2001">
+         
+        <Page social="4">Carne de dragão!</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="7" villagerId="2001">
+         
+        <Page social="0">Carne de dragão!</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="15" id="35" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="215" id="100" prevId="0" villagerId="1015">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="215" id="2" prevId="0" villagerId="1015">
+         
+        <Page social="5">Brohua parece muito nervoso. Tentei animá-lo, mas ele está de mau humor. Você poderia falar com ele por mim?</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="3" prevId="2" villagerId="1019">
+         
+        <Page social="5">Eu sei, estou vendo coisas.&lt;BR&gt;&lt;BR&gt;Eu costumava ser capaz de apagá-lo, mas agora você também o está vendo! Ele se parece comigo! &lt;BR&gt;&lt;BR&gt;Tenho vergonha de minha ilusão ser tão narcisista.</Page>
+    
+    </Text>
+</QuestDialog>

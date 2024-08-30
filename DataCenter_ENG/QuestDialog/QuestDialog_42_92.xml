@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="42" id="92" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="242" id="100" prevId="0" villagerId="1033">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="242" id="2" prevId="0" villagerId="1033">
+         
+        <Page social="42">We're encountering heavier than anticipated resistance, so we're dispatching you.&lt;BR&gt;&lt;BR&gt;Engage the naga survivors guarding the Chamber of Lost Souls, including {@LinkCreature:42#610#skeletal guardians}, {@LinkCreature:42#200#Dagonite slayers}, {@LinkCreature:42#300#naga fighters}, {@LinkCreature:42#700#vicious bone imps}, and {@LinkCreature:42#800#besharan traffickers}.&lt;BR&gt;&lt;BR&gt;Report your progress to Glasrinne in Frontera.</Page>
+    
+    </Text>
+    <Text huntingZoneId="75" id="3" prevId="2" villagerId="1016">
+         
+        <Page social="0">The nagas are weaker, thanks to you. But there's still a lot to do, and I hope you'll stick around to help out.</Page>
+    
+    </Text>
+    <Text huntingZoneId="75" id="4" villagerId="1016">
+         
+        <Page social="0">I never said it'd be easy, but what you're doing is helping us stay alive and do what we came here to do. Don't stop now.</Page>
+    
+    </Text>
+</QuestDialog>

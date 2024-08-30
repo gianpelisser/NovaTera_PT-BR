@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="603" id="3" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="76" id="100" prevId="0" villagerId="3001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="76" id="2" prevId="0" villagerId="3001">
+         
+        <Page social="4">Há espaço para outro caçador ao redor do {@Rgn:49003$$Agnurok Engine}, se você quiser.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:76#3010#Beiran} vai prepará-lo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="76" id="3" prevId="2" villagerId="3010">
+         
+        <Page social="4">Chegar ao {@Rgn:49003$$Agnurok Engine} é fácil. Voltar é mais complicado. O local está cheio de {@LinkCreature:49#16#zariik cyanowitches} e {@LinkCreature:49#14#kalash defenders}. Se eles o dominarem, esconda-se em algum lugar e descanse.</Page>
+    
+    </Text>
+    <Text huntingZoneId="76" id="4" prevId="2" villagerId="3010">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="76" id="5" prevId="2" villagerId="3010">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="76" id="6" prevId="2" villagerId="3001">
+         
+        <Page social="4">O {@Rgn:49003$$Agnurok Engine} é um desafio, mas cheio de presas emocionantes.&lt;BR&gt;&lt;BR&gt;É um dos meus locais favoritos.</Page>
+    
+    </Text>
+</QuestDialog>

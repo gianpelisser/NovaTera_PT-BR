@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="9" id="28" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="209" id="100" prevId="0" villagerId="1012">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="209" id="2" prevId="0" villagerId="1012">
+         
+        <Page social="4">Um tratamento de choque por si só não é suficiente, é claro. É preciso que haja um aspecto mágico. E, é claro, isso significa um trabalho mais sangrento de sua parte.&lt;BR&gt;&lt;BR&gt;Traga-me os cérebros de {@LinkCreature:9#800#gula butchers} para absorver o pesadelo que turva a mente dele.&lt;BR&gt;&lt;BR&gt;E como é que minhas curas nunca exigem algo inócuo como um "copo de leite morno" ou "bastante descanso?"</Page>
+    
+    </Text>
+    <Text huntingZoneId="209" id="3" prevId="2" villagerId="1012">
+         
+        <Page social="4">Eles são menores do que eu pensava. Mas acho que isso explica muita coisa, não é?</Page>
+    
+    </Text>
+    <Text huntingZoneId="209" id="4" villagerId="1012">
+         
+        <Page social="0">Traga-me cérebros, &lt;PCNAME&gt;. Cérebros! &lt;BR&gt;&lt;BR&gt;O quê? Não se pode dizer isso?</Page>
+    
+    </Text>
+</QuestDialog>

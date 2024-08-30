@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="25" id="4" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="218" id="100" prevId="0" villagerId="1022">
+         
+        <Page social="0">Você impediu que os crentes de Lok adquirissem a antiga magia dos gigantes e destruiu o livro que continha as informações para que ele nunca caísse em mãos erradas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="218" id="2" prevId="0" villagerId="1022">
+         
+        <Page social="4">Temos que contar a Elsine que os Scions of Lok souberam onde as armas dos gigantes foram seladas. Precisaremos de sua experiência para detê-los.&lt;BR&gt;&lt;BR&gt;Volte para ela o mais rápido possível!</Page>
+    
+    </Text>
+    <Text huntingZoneId="66" id="3" prevId="2" villagerId="1023">
+         
+        <Page social="4">Nós procuramos por anos e anos, e ainda assim os Scions encontraram o local de descanso dos gigantes tão rapidamente.&lt;BR&gt;&lt;BR&gt;Bem, eles podem saber a localização, mas não devemos deixá-los adquirir as relíquias. Com tal poder, eles poderiam facilmente matar Velik e tomar seu poder divino.&lt;BR&gt;&lt;BR&gt;Diga a Baruch o que aconteceu. Precisamos de ajuda para deter os Scions.</Page>
+    
+    </Text>
+    <Text huntingZoneId="66" id="4" prevId="3" villagerId="1001">
+         
+        <Page social="4">É claro que vamos ajudar! Pelos titãs, como podemos não ajudar? Vou ordenar que todos os postos avançados dobrem suas patrulhas. Encontraremos os Scions e os deteremos.&lt;BR&gt;&lt;BR&gt;Fale com Veltana no Posto de Vigilância Ocidental. Sob minhas ordens, ela fará o que puder para ajudá-los.</Page>
+    
+    </Text>
+    <Text huntingZoneId="224" id="5" prevId="4" villagerId="1005">
+         
+        <Page social="4">Não vimos nenhuma atividade estranha - além daqueles kulkaris assassinos, é claro.&lt;BR&gt;&lt;BR&gt;Li um relatório do Decurião Stadrian no Refúgio Sandwalker. Ele não mencionou os Scions pelo nome, mas descreveu uma força estranha abrindo caminho pelas estradas.&lt;BR&gt;&lt;BR&gt;Vocês não esmagaram os Scions há algum tempo? Na época em que o General Samael morreu?</Page>
+    
+    </Text>
+    <Text huntingZoneId="224" id="6" prevId="5" villagerId="1009">
+         
+        <Page social="4">Não sei se eles eram Scions, mas não poderiam estar do nosso lado. Eles estão lidando com os orcs - comercializando suprimentos, saqueando, esse tipo de coisa.&lt;BR&gt;&lt;BR&gt;Você acabará com a cadeia de suprimentos deles se matar {@LinkCreature:24#11#horned orcan berserkers}. Você também pode conseguir algumas informações dessa forma.&lt;BR&gt;&lt;BR&gt;Além disso, estou livre de alguns orcs sangrentos. Todos saem ganhando!</Page>
+    
+    </Text>
+    <Text huntingZoneId="224" id="7" prevId="6" villagerId="1009">
+         
+        <Page social="4">Enquanto você estava envolvido em negociações agressivas com os orcs, Qasimir mandou um recado para você. Aparentemente, os Scions estão fazendo algo na Vila do Vento de Areia. Ele está se preparando para revistar a aldeia agora. Se você se apressar, poderá participar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="224" id="8" prevId="7" villagerId="1014">
+         
+        <Page social="4">Prazer em conhecê-lo, finalmente. Meu primo mais novo é Kaeden. Ele escreveu tudo sobre suas façanhas na Island of Dawn.&lt;BR&gt;&lt;BR&gt;Não sei por que os Scions estão trabalhando com os kulkaris, mas temos visto coisas muito estranhas ultimamente.&lt;BR&gt;&lt;BR&gt;Se quiser dar uma olhada por aí, você terá que matar os {@LinkCreature:24#13#sly runekeepers} e os {@LinkCreature:24#58#Sand Wind shamans} que guardam a vila. Uma vez dentro do acampamento, os {@LinkCreature:24#19#eldritch warpers} podem ser os melhores alvos, ou pelo menos os mais experientes.</Page>
+    
+    </Text>
+    <Text huntingZoneId="224" id="9" prevId="8" villagerId="1009">
+         
+        <Page social="4">Zuulrakar, Ezzareshar e Terenoff - devem ser os que estão liderando a busca pelos artefatos. Nomes estranhos. Nunca ouvi falar deles, mas sou apenas um soldado.&lt;BR&gt;&lt;BR&gt;Se você está realmente trabalhando com Elsine, deveria perguntar a ela. Aposto que ela sabe mais do que qualquer um de nós.</Page>
+    
+    </Text>
+    <Text huntingZoneId="66" id="10" prevId="9" villagerId="1023">
+         
+        <Page social="4">Zuulrakar! Verdadeiramente? &lt;BR&gt;&lt;BR&gt;Esse é um demônio antigo, e Ezzareshar e Terenoff são seus seguidores. Se os Scions of Lok os convocaram, eles estão tentando descobrir as armas dos gigantes e o Tome of Sealing roubado. Não podemos permitir isso! &lt;BR&gt;&lt;BR&gt;Vocês devem matar Zuulrakar e seus seguidores e recuperar o tomo.&lt;BR&gt;&lt;BR&gt;Vá até o Posto Avançado de Torrent e fale com Raquib. Ele é um veterano por lá e talvez possa ajudar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="224" id="11" prevId="10" villagerId="1012">
+         
+        <Page social="4">Demônios, não é? Sim. Eu os vi. &lt;BR&gt;&lt;BR&gt;As &lt;font color='#0080FF'&gt;Ruínas de Storst&lt;/font&gt; estão repletas de demônios - entre eles, os seus amigos {@LinkCreature:24#5003#Ezzareshar} e {@LinkCreature:24#5004#Terenoff}.&lt;BR&gt;&lt;BR&gt;Se você conseguir matá-los e destruir {@LinkCreature:24#5002#Zuulrakar}, então tudo o que terá que fazer é recuperar o tomo que o velho Zuuly está carregando por aí.&lt;BR&gt;&lt;BR&gt;Faça tudo isso e alguém lhe deve um barril de cerveja. Não eu, mas alguém.</Page>
+    
+    </Text>
+    <Text huntingZoneId="66" id="12" prevId="11" villagerId="1023">
+         
+        <Page social="4">Este tomo contém poder e segredos que podem remodelar a face de nosso mundo, &lt;PCNAME&gt;. Reinos - dinastias - foram construídos com muito, muito menos.&lt;NEXTPAGEBUTTON&gt;"Precisamos destruí-lo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="10">É uma pena. Sabe, metade do Mysterium cairia morto na hora em Allemantheia se sugeríssemos tal coisa.&lt;BR&gt;&lt;BR&gt;Mesmo assim, talvez não haja mãos certas para um poder dessa magnitude. Ainda não adquirimos a capacidade de manejá-lo com sabedoria.</Page>
+    
+    </Text>
+    <Text huntingZoneId="66" id="13" villagerId="1023">
+         
+        <Page social="0">Se Zuulrakar recuperar as armas dos gigantes, será um pesadelo tentar detê-los. Mate {@LinkCreature:24#5002#Zuulrakar} e recupere o Tome of Sealing.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="54" id="71" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="5">Ordens da missão&lt;BR&gt;&lt;BR&gt;As criaturas superpopulosas ameaçam o acampamento no Posto Avançado de Arcanum. &lt;BR&gt;&lt;BR&gt;Matar {@LinkCreature:54#250#baelith arachnen}, {@LinkCreature:54#240#spineback noruks} e {@LinkCreature:54#160#rippertusk sabertooths}.&lt;BR&gt;&lt;BR&gt;Relatar a Gillian em Scythera Fae quando a missão estiver concluída.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="3" prevId="2" villagerId="0">
+         
+        <Page social="5">Você recebeu os agradecimentos da federação. Sua guilda é uma inspiração para todos!</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="4" villagerId="0">
+         
+        <Page social="0">Parece que você ainda não completou sua missão.</Page>
+    
+    </Text>
+</QuestDialog>

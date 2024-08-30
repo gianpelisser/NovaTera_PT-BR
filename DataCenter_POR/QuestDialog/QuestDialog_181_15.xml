@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="181" id="15" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="181" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0">Dougal ordenou que &lt;PCNAME&gt; investigasse o local marcado no mapa mutável e levasse Zolyn junto.&lt;BR&gt;&lt;BR&gt;Enquanto isso, Zolyn estava se esforçando para descobrir onde Paesyn estava.&lt;BR&gt;&lt;PCNAME&gt; resgatou Paesyn dos monstros e o levou para Zolyn.&lt;BR&gt;&lt;BR&gt;Paesyn havia colhido flores para fazer um buquê para Zolyn. Ao receber o buquê, Zolyn lembrou-se de sua irmã desaparecida e perdoou os esforços anteriores e mais desajeitados de Paesyn para animá-la.</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="4">Você vai investigar agora mesmo? &lt;BR&gt;&lt;BR&gt;Você deveria levar a Capitã Zolyn com você. Ela está ansiosa para encontrar qualquer pista sobre onde a irmã dela possa estar - e se você tiver problemas, precisará dela.&lt;NEXTPAGEBUTTON&gt;"Boa ideia. Onde posso encontrá-la?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Ela foi procurar Paesyn. Ele está colhendo flores ou algo assim.&lt;BR&gt;&lt;BR&gt;Dê uma olhada na área - é provável que você a encontre.&lt;NEXTPAGEBUTTON&gt;"Certo, obrigado."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="3" prevId="2" villagerId="1104">
+         
+        <Page social="4">Estou procurando o Pae, aquele popori bola de pelo. Não consigo encontrá-lo em lugar nenhum. &lt;BR&gt;&lt;BR&gt;Dougal disse que ele estava com você mais cedo, no prado das ovelhas? &lt;NEXTPAGEBUTTON&gt;"Não encontrei."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="4" prevId="2" villagerId="1104">
+         
+        <Page social="4">É claro; ele é o engenheiro de nosso navio... e um membro de nossa expedição.&lt;BR&gt;&lt;BR&gt;E, ao contrário do que você possa pensar, eu realmente gosto dele. Só gostaria que ele não se esforçasse tanto para fazer as pessoas mostrarem que gostam dele.&lt;BR&gt;&lt;BR&gt;O que está olhando? Vai me ajudar ou não? &lt;NEXTPAGEBUTTON&gt;"É Paesyn. É claro que vou ajudar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="5" prevId="2" villagerId="1104">
+         
+        <Page social="4">Você o deixou em algum lugar aqui fora... sozinho? &lt;BR&gt;&lt;BR&gt;Eu entendo que você é do tipo autossuficiente, e um herói da Guerra de Argon e tudo mais, mas nem todos são tão capazes quanto você! &lt;BR&gt;&lt;BR&gt;Agora, você vai me ajudar a procurá-lo ou não? &lt;NEXTPAGEBUTTON&gt;"Ele é mais capaz do que você pensa. Mas sim, eu vou ajudar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="6" prevId="3" villagerId="2071">
+         
+        <Page social="0">(Paesyn claramente veio por aqui... mas é estranho que ele deixasse cair algo assim de sua caixa de ferramentas e não percebesse.)&lt;NEXTPAGEBUTTON&gt;"Parece que ele foi por aqui."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="7" prevId="6" villagerId="1019">
+         
+        <Page social="0">(É quase como se Paesyn estivesse deixando cair as coisas mais pesadas que carregava...)&lt;NEXTPAGEBUTTON&gt;"Ele estava fugindo de alguma coisa..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="8" prevId="7" villagerId="3113">
+         
+        <Page social="4">Eu me perdi! Devo ter errado o caminho ou algo assim, porque quando dei por mim, estava cercado por aquelas... coisas! &lt;NEXTPAGEBUTTON&gt;"O que você estava fazendo aqui fora?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Ah, bem... quando você não voltou logo com as flores primaveris, pensei que talvez tivesse se esquecido. Então decidi procurá-las eu mesmo - e as encontrei! Eu... acho que não estava prestando muita atenção ao meu redor...&lt;BR&gt;&lt;BR&gt;De qualquer forma, preparei um buquê de flores para Zolyn.&lt;BR&gt;&lt;BR&gt;Oh! Lá vem ela! Humm, posso pedir-lhe que as entregue para mim, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"Esta é a última vez, certo? Então está bem."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="9" prevId="8" villagerId="3104">
+         
+        <Page social="4">O que é isso que você tem? Oh, Deuses! Não é outro presente daquele cabelo inútil... bola...&lt;BR&gt;&lt;BR&gt;Flores primaveris? Minha irmã e eu costumávamos colhê-las juntas...&lt;BR&gt;&lt;BR&gt;Como você...? Oh, elas são de Paesyn, não são? Oh, irmão...&lt;BR&gt;&lt;BR&gt;Irmão, sinto muito por como agi! Será que você pode me perdoar?"&lt;NEXTPAGEBUTTON&gt;"Acho que você acabou de fazer o dia dele, Zolyn."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="10" prevId="9" villagerId="3113">
+         
+        <Page social="4">&lt;PCNAME&gt;! Você viu isso? &lt;BR&gt;&lt;BR&gt;A Zolyn está finalmente se aquecendo para mim! Ela realmente sorriu para mim! Quero dizer, um sorriso de verdade - não aquele sorriso de "não posso esperar para matá-lo" que ela dá aos seus inimigos! &lt;BR&gt;&lt;BR&gt;Eu sabia que ela só precisava do gesto certo para ajudá-la a se animar! &lt;NEXTPAGEBUTTON&gt;"Ela parece muito menos assassina. Muito bem, Paesyn."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="11" prevId="10" villagerId="3104">
+         
+        <Page social="4">...Ok, já chega de comemoração. De volta ao trabalho!&lt;NEXTPAGEBUTTON&gt;"...e de volta ao assassinato."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Dougal me enviou para ajudá-lo a encontrar algum laboratório secreto? &lt;BR&gt;&lt;BR&gt;Deixe-me levar Paesyn para um lugar seguro e reunir alguns soldados, e eu o encontrarei em breve.&lt;NEXTPAGEBUTTON&gt;"Parece bom. Cuide-se, Paesyn!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</QuestDialog>

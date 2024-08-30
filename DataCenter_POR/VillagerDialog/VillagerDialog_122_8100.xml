@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="122" id="8100" voiceTypeId="67">
+    <Text huntingZoneId="121" id="3" endSocial="14" prevId="0" villagerId="8100">
+         
+        <Page social="4">Hello, friend! How may this one serve you today?</Page>
+    
+    </Text>
+    <Text huntingZoneId="121" id="20" endSocial="14" prevId="0" villagerId="8100">
+         
+        <Page social="4">Welcome, friend! This one stands ready to serve you.</Page>
+    
+    </Text>
+    <Text huntingZoneId="121" id="21" endSocial="14" prevId="0" villagerId="8100">
+         
+        <Page social="4">Greetings, friend! Do you have need of a cleric at this time?</Page>
+    
+    </Text>
+    <Text huntingZoneId="121" id="22" endSocial="14" prevId="0" villagerId="8100">
+         
+        <Page social="4">Hello, my friend! How can this one serve your needs today?</Page>
+    
+    </Text>
+    <Text huntingZoneId="121" id="23" endSocial="14" prevId="0" villagerId="8100">
+         
+        <Page social="4">Salutations, brave friend! This one has been dispatched to serve your needs and tend your wounds. Where shall we start?</Page>
+    
+    </Text>
+    <Text huntingZoneId="121" id="1" endSocial="14" prevId="0" villagerId="8100">
+         
+        <Page social="4">Many apologies! Your blood is not for me, nor mine for you!</Page>
+    
+    </Text>
+</VillagerDialog>

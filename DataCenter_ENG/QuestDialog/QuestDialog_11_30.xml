@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="11" id="30" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="211" id="100" prevId="0" villagerId="1009">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="211" id="2" prevId="0" villagerId="1009">
+         
+        <Page social="4">As you disrupted the Red Lash pirates on the dock, we got a scout leader, Armantes, down into the basement.&lt;BR&gt;&lt;BR&gt;He's in storage, so to speak. Tell him about the pirate bombs and ask him whether he's seen anything related to them.</Page>
+    
+    </Text>
+    <Text huntingZoneId="211" id="3" prevId="2" villagerId="1026">
+         
+        <Page social="4">Pirates with bombs? That sounds ominous.&lt;BR&gt;&lt;BR&gt;Nothing unusual to report here, but I've only just started to explore the area.</Page>
+    
+    </Text>
+</QuestDialog>

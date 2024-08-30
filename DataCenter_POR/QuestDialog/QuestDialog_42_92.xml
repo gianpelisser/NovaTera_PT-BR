@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="42" id="92" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="242" id="100" prevId="0" villagerId="1033">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="242" id="2" prevId="0" villagerId="1033">
+         
+        <Page social="42">Estamos encontrando uma resistência maior do que a esperada, por isso estamos enviando vocês.&lt;BR&gt;&lt;BR&gt;Enfrente os sobreviventes naga que estão guardando a Câmara das Almas Perdidas, incluindo {@LinkCreature:42#610#guardiões esqueléticos}, {@LinkCreature:42#200#Matadores de Dagonita}, {@LinkCreature:42#300#lutadores naga}, {@LinkCreature:42#700#impactos de ossos malignos} e {@LinkCreature:42#800#traficantes debesharan}.&lt;BR&gt;&lt;BR&gt;Relate seu progresso para Glasrinne em Frontera.</Page>
+    
+    </Text>
+    <Text huntingZoneId="75" id="3" prevId="2" villagerId="1016">
+         
+        <Page social="0">As nagas estão mais fracas, graças a vocês. Mas ainda há muito o que fazer, e espero que você fique por aqui para ajudar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="75" id="4" villagerId="1016">
+         
+        <Page social="0">Eu nunca disse que seria fácil, mas o que você está fazendo está nos ajudando a permanecer vivos e a fazer o que viemos fazer aqui. Não pare agora.</Page>
+    
+    </Text>
+</QuestDialog>

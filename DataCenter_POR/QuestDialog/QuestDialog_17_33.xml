@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="17" id="33" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="217" id="100" prevId="0" villagerId="1013">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="217" id="2" prevId="0" villagerId="1013">
+         
+        <Page social="5">Soldado! Preciso de sua ajuda. O culto está invadindo nossas carroças, levando nossa comida. Sempre quando a guarda está mais fraca, mesmo quando mudamos de rota. Que truque, hein? &lt;BR&gt;&lt;BR&gt;Tem gosto de traição para mim.&lt;BR&gt;&lt;BR&gt;O supervisor {@LinkCreature:17#201#thresher Rotcarn} lidera os ataques. Ele está nos campos reunindo tropas para alguma coisa. Mate-o. Pegue o cadáver para obter evidências. Vamos acabar com isso. Já está ouvindo?</Page>
+    
+    </Text>
+    <Text huntingZoneId="217" id="3" prevId="2" villagerId="1013">
+         
+        <Page social="5">Esfola-me vivo! Somente oficiais de confiança têm acesso a esses registros! Se alguém o roubasse, seria denunciado. Isso foi dado, não tomado. É uma sensação muito amarga.</Page>
+    
+    </Text>
+    <Text huntingZoneId="217" id="4" villagerId="1013">
+         
+        <Page social="0">A Rotcarn já morreu? Não? Então, já está ouvindo.</Page>
+    
+    </Text>
+</QuestDialog>

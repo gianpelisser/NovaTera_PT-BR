@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StrSheet_DungeonMatching xmlns="https://vezel.dev/novadrop/dc/StrSheet_DungeonMatching" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_DungeonMatching StrSheet_DungeonMatching.xsd">
+    <String string="Seguir a ordem de rascunho da Valkyon" readableId="SMT_DUNGEONMATCHING_POSITION_CALL_TITLE" />
+    <String string="Veio para o resgate:" readableId="SMT_DUNGEONMATCHING_ADD_ENTRY_TITLE" />
+    <String string="Objetivo da Dungeon cumprido:" readableId="SMT_DUNGEONMATCHING_DUNGEON_CLEAR_TITLE" />
+    <String string="Eliminar {NpcName} ({Amount})" readableId="SMT_DUNGEONMATCHING_CLEAR_CONDITION" />
+    <String string="Cancelar a procura de instâncias" readableId="SMT_DUNGEONMATCHING_CANCEL_APPLICATION_POPUP_TITLE" />
+    <String string="Você gostaria de cancelar a solicitação de procurar instâncias?" readableId="SMT_DUNGEONMATCHING_CANCEL_APPLICATION_POPUP_MESSAGE" />
+    <String string="Cancelar" readableId="SMT_DUNGEONMATCHING_CANCEL_APPLICATION_POPUP_YES" />
+    <String string="Continuar procurando" readableId="SMT_DUNGEONMATCHING_CANCEL_APPLICATION_POPUP_NO" />
+    <String string="Entrar na Dungeon" readableId="SMT_DUNGEONMATCHING_ASK_ENTER_POPUP_TITLE" />
+    <String string="Combinação de grupos concluída. Você gostaria de entrar na Dungeon {DungeonName}?" readableId="SMT_DUNGEONMATCHING_ASK_ENTER_POPUP_MESSAGE" />
+    <String string="Entre agora" readableId="SMT_DUNGEONMATCHING_ASK_ENTER_POPUP_YES" />
+    <String string="Entrar mais tarde" readableId="SMT_DUNGEONMATCHING_ASK_ENTER_POPUP_NO" />
+    <String string="Recrutamento adicional" readableId="SMT_DUNGEONMATCHING_MAKEUP_RECRUIT_POPUP_TITLE" />
+    <String string="Você gostaria de recrutar mais membros para o grupo?" readableId="SMT_DUNGEONMATCHING_MAKEUP_RECRUIT_POPUP_MESSAGE" />
+    <String string="Recrutamento" readableId="SMT_DUNGEONMATCHING_MAKEUP_RECRUIT_POPUP_YES" />
+    <String string="Continuar como está" readableId="SMT_DUNGEONMATCHING_MAKEUP_RECRUIT_POPUP_NO" />
+    <String string="Recrutar mais" readableId="SMT_DUNGEONMATCHING_CANCEL_MAKEUP_RECRUIT_POPUP_TITLE" />
+    <String string="No momento, você está recrutando membros adicionais para o grupo. Gostaria de cancelar o recrutamento adicional?" readableId="SMT_DUNGEONMATCHING_CANCEL_MAKEUP_RECRUIT_POPUP_MESSAGE" />
+    <String string="Sim" readableId="SMT_DUNGEONMATCHING_CANCEL_MAKEUP_RECRUIT_POPUP_YES" />
+    <String string="Não" readableId="SMT_DUNGEONMATCHING_CANCEL_MAKEUP_RECRUIT_POPUP_NO" />
+    <String string="Permitir recrutamento adicional" readableId="SMT_DUNGEONMATCHING_SUGGEST_POPUP_TITLE" />
+    <String string="Você está convidado a entrar em uma instância de {DungeonName} que está em andamento. Gostaria de participar da festa?" readableId="SMT_DUNGEONMATCHING_SUGGEST_POPUP_MESSAGE" />
+    <String string="Sim" readableId="SMT_DUNGEONMATCHING_SUGGEST_POPUP_YES" />
+    <String string="Não" readableId="SMT_DUNGEONMATCHING_SUGGEST_POPUP_NO" />
+    <String string="Procurar instâncias não está disponível" readableId="SMT_DUNGEONMATCHING_CANNOT_APPLY" />
+    <String string="Procurar instâncias disponível" readableId="SMT_DUNGEONMATCHING_CAN_APPLY" />
+    <String string="Procurando por {Num} instancia{@select:{Num}/s//s}" readableId="SMT_DUNGEONMATCHING_MATCHING_IN_PROGRESS" />
+    <String string="Solicitação de Dungeon concluída" readableId="SMT_DUNGEONMATCHING_MATCHED" />
+    <String string="Recrutamento adicional disponível" readableId="SMT_DUNGEONMATCHING_CAN_RECRUIT" />
+    <String string="Recrutamento de membros adicionais para {DungeonName}" readableId="SMT_DUNGEONMATCHING_RECRUITING_IN_PROGRESS" />
+    <String string="Confirmação de solicitação de instância" readableId="SMT_DUNGEONMATCHING_CONFIRM_APPLICATION" />
+    <String string="Detalhes da solicitação de instância" readableId="SMT_DUNGEONMATCHING_SHARE_APPLICATION" />
+    <String string="Detalhes da solicitação de instância" readableId="SMT_DUNGEONMATCHING_VIEW_PROGRESS" />
+    <String string="OK" readableId="SMT_DUNGEONMATCHING_OK" />
+    <String string="Solicitação" readableId="SMT_DUNGEONMATCHING_APPLY" />
+    <String string="Cancelar" readableId="SMT_DUNGEONMATCHING_CANCEL_BTN" />
+    <String string="Cancelar Pedido" readableId="SMT_DUNGEONMATCHING_CANCEL_APPLICATION" />
+    <String string="Mudança" readableId="SMT_DUNGEONMATCHING_MODIFY_APPLICATION" />
+    <String string="Em recarga" readableId="SMT_DUNGEONMATCHING_COOLTIME_REJECT_MSG" />
+    <String string="Item level muito baixo" readableId="SMT_DUNGEONMATCHING_ITEM_LEVEL_REJECT_MSG" />
+    <String string="Ganhou" readableId="SMT_BFMATCHING_BF_WIN_TITLE" />
+    <String string="Perdido" readableId="SMT_BFMATCHING_BF_LOSE_TITLE" />
+    <String string="Cancelar a procura por Campos de Batalha" readableId="SMT_BFMATCHING_CANCEL_APPLICATION_POPUP_TITLE" />
+    <String string="Você gostaria de cancelar a solicitação para Campos de Batalha?" readableId="SMT_BFMATCHING_CANCEL_APPLICATION_POPUP_MESSAGE" />
+    <String string="Cancelar solicitação" readableId="SMT_BFMATCHING_CANCEL_APPLICATION_POPUP_YES" />
+    <String string="Continuar combinando" readableId="SMT_BFMATCHING_CANCEL_APPLICATION_POPUP_NO" />
+    <String string="Entrar no campo de batalha" readableId="SMT_BFMATCHING_ASK_ENTER_POPUP_TITLE" />
+    <String string="Solicitação de campos de batalha concluída. Você gostaria de entrar no {BFName}?" readableId="SMT_BFMATCHING_ASK_ENTER_POPUP_MESSAGE" />
+    <String string="Entre agora" readableId="SMT_BFMATCHING_ASK_ENTER_POPUP_YES" />
+    <String string="Entrar mais tarde" readableId="SMT_BFMATCHING_ASK_ENTER_POPUP_NO" />
+    <String string="Recrutamento adicional" readableId="SMT_BFMATCHING_SUGGEST_POPUP_TITLE" />
+    <String string="Você está convidado a entrar em uma instância de {BFName} atualmente em andamento. Gostaria de participar da festa?" readableId="SMT_BFMATCHING_SUGGEST_POPUP_MESSAGE" />
+    <String string="Aceitar" readableId="SMT_BFMATCHING_SUGGEST_POPUP_YES" />
+    <String string="Declínio" readableId="SMT_BFMATCHING_SUGGEST_POPUP_NO" />
+    <String string="Solicitação de campo de batalha não disponível" readableId="SMT_BFMATCHING_CANNOT_APPLY" />
+    <String string="solicitação de campos de batalha disponível" readableId="SMT_BFMATCHING_CAN_APPLY" />
+    <String string="Procurando por {Num} Campos de Batalha{@select:{Num}/s//s}" readableId="SMT_BFMATCHING_MATCHING_IN_PROGRESS" />
+    <String string="Solicitação de Campos de Batalha concluída" readableId="SMT_BFMATCHING_MATCHED" />
+    <String string="Recrutamento adicional disponível" readableId="SMT_BFMATCHING_CAN_RECRUIT" />
+    <String string="Recrutamento de membros adicionais para {BFName}" readableId="SMT_BFMATCHING_RECRUITING_IN_PROGRESS" />
+    <String string="Confirmação de solicitação para Campos de Batalha" readableId="SMT_BFMATCHING_CONFIRM_APPLICATION" />
+    <String string="Detalhes da solicitação para Campos de Batalha" readableId="SMT_BFMATCHING_SHARE_APPLICATION" />
+    <String string="Detalhes da solicitação para Campos de Batalha" readableId="SMT_BFMATCHING_VIEW_PROGRESS" />
+    <String string="OK" readableId="SMT_BFMATCHING_OK" />
+    <String string="Solicitar" readableId="SMT_BFMATCHING_APPLY" />
+    <String string="Cancelar" readableId="SMT_BFMATCHING_CANCEL_BTN" />
+    <String string="Cancelar Pedido" readableId="SMT_BFMATCHING_CANCEL_APPLICATION" />
+    <String string="Mudar" readableId="SMT_BFMATCHING_MODIFY_APPLICATION" />
+    <String string="Em recarga" readableId="SMT_BFMATCHING_COOLTIME_REJECT_MSG" />
+    <String string="Item level muito baixo" readableId="SMT_BFMATCHING_ITEM_LEVEL_REJECT_MSG" />
+    <String string="(Aplicar sozinho)" readableId="SMT_BFMATCHING_SOLO_POSTFIX" />
+    <String string="(Sem restrições)" readableId="SMT_BFMATCHING_FREE_POSTFIX" />
+</StrSheet_DungeonMatching>

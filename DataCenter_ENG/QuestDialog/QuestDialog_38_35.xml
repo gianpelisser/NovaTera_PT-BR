@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="38" id="35" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="238" id="100" prevId="0" villagerId="1031">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="238" id="2" prevId="0" villagerId="1031">
+         
+        <Page social="5">My orders say Thunder Hold. Lots of important work to do, giant relics lying about for the taking, enough research to keep an archaeologist happily employed for a lifetime.&lt;BR&gt;&lt;BR&gt;I know—this isn't Thunder Hold. The prions ran us off, and now I'm stuck here.&lt;BR&gt;&lt;BR&gt;The relics are still there, of course. Perhaps you'd be willing to collect a few for me?</Page>
+    
+    </Text>
+    <Text huntingZoneId="238" id="3" prevId="2" villagerId="1031">
+         
+        <Page social="6">Thank you, &lt;PCNAME&gt;. Perhaps this posting won't be a complete loss.</Page>
+    
+    </Text>
+    <Text huntingZoneId="238" id="4" villagerId="1031">
+         
+        <Page social="0">I'm sorry you came all the way back from Thunder Hold, but I'll need more than this.</Page>
+    
+    </Text>
+</QuestDialog>

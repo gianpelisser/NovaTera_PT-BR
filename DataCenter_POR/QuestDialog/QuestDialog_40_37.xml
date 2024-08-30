@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="40" id="37" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="240" id="100" prevId="0" villagerId="1035">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="240" id="2" prevId="0" villagerId="1035">
+         
+        <Page social="4">Estou observando o inimigo. Também deveria estar guiando alguns soldados presos no posto de controle ao norte daqui de volta para um lugar mais seguro.&lt;BR&gt;&lt;BR&gt;O problema é que não posso fazer as duas coisas ao mesmo tempo. Você pode avisar o posto de controle que estarei lá assim que puder? Obrigado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="240" id="3" prevId="2" villagerId="1015">
+         
+        <Page social="4">Ah, finalmente um soldado da Federação. A equipe de resgate está a caminho, certo? Faça-me um favor e informe a prefeita Anelle. Pegue a trepadeira e suba direto.</Page>
+    
+    </Text>
+    <Text huntingZoneId="240" id="4" prevId="3" villagerId="1002">
+         
+        <Page social="4">Bem, mesmo que você não seja a equipe de resgate, é bom saber que eles estarão aqui em breve. Qualquer coisa para criar um pouco de esperança, sabe?</Page>
+    
+    </Text>
+</QuestDialog>

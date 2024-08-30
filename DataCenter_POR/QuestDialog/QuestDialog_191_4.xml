@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="191" id="4" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="191" id="100" prevId="0" villagerId="2135">
+         
+        <Page social="0">&lt;PCNAME&gt; sobrevoou Arx Umbra e atacou o Posto Avançado Alfa Parthian. Após a batalha, a verdade sobre como os arquidevas escravizaram os partas se tornou conhecida.</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="2" prevId="0" villagerId="2135">
+         
+        <Page social="4">Finalmente! Algo em que sou bom. Eu posso pilotar o dirigível e você pode pular dele.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Pular do quê?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Não se preocupe. Ficarei baixo o suficiente para que a queda não doa muito.&lt;BR&gt;&lt;BR&gt;Vamos! Nós chegaremos a Zolyn, não importa o quanto isso o machuque!</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="3" prevId="2" villagerId="2136">
+         
+        <Page social="4">Quando estiver no meio das formações inimigas, abaixe-se.&lt;BR&gt;&lt;BR&gt;Que Kaia lhe conceda a vitória!</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="4" prevId="3" villagerId="2137">
+         
+        <Page social="4">&lt;PCNAME&gt;, venha aqui, rápido! &lt;BR&gt;&lt;BR&gt;Ele ainda está vivo! E está tentando dizer alguma coisa! &lt;BR&gt;Estrada? Que estrada? Oh! Rhodos! Ele está procurando por Rhodos! &lt;NEXTPAGEBUTTON&gt;"Vou falar com ele."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="5" prevId="4" villagerId="2202">
+         
+        <Page social="4">Mente... clara. Diga a Rhodos...&lt;BR&gt;&lt;BR&gt;Não somos servos dos arquideuses, somos escravos.&lt;NEXTPAGEBUTTON&gt;"Como assim?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Sua magia... distorceu nossas mentes. Nos prendeu a eles.&lt;BR&gt;&lt;BR&gt;Diga a Rhodos para nos libertar... e me vingar.&lt;NEXTPAGEBUTTON&gt;"Fique em paz."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="6" prevId="5" villagerId="2108">
+         
+        <Page social="4">Boa luta, &lt;PCNAME&gt;! Você conseguiu! &lt;NEXTPAGEBUTTON&gt;"Pediram-me que lhe entregasse isto."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">É a adaga de Jitt! &lt;BR&gt;Onde você conseguiu isso? Onde ele está?</Page>
+    
+    </Text>
+</QuestDialog>

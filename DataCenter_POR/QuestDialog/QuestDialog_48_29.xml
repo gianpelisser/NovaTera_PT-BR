@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="48" id="29" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="248" id="100" prevId="0" villagerId="1030">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="248" id="2" prevId="0" villagerId="1030">
+         
+        <Page social="4">Quando os argons nos atingiram, tivemos muitas baixas. Não temos recursos para enviar os corpos de volta, mas se pudéssemos devolver os chifres dos mortos às suas famílias, isso seria uma grande honra para eles.&lt;BR&gt;&lt;BR&gt;Você é um soldado - você entende, certo? Quatro ferreiros mortos ainda jazem no campo de batalha. Recupere os chifres deles para mim.</Page>
+    
+    </Text>
+    <Text huntingZoneId="248" id="3" prevId="2" villagerId="1026">
+         
+        <Page social="6">(Esse ferreiro deu sua vida lutando contra os argonss).</Page>
+    
+    </Text>
+    <Text huntingZoneId="248" id="4" prevId="2" villagerId="1027">
+         
+        <Page social="6">(Esse ferreiro deu sua vida lutando contra os argonss).</Page>
+    
+    </Text>
+    <Text huntingZoneId="248" id="5" prevId="2" villagerId="1028">
+         
+        <Page social="6">(Esse ferreiro deu sua vida lutando contra os argonss).</Page>
+    
+    </Text>
+    <Text huntingZoneId="248" id="6" prevId="2" villagerId="1029">
+         
+        <Page social="6">(Esse ferreiro deu sua vida lutando contra os argonss).</Page>
+    
+    </Text>
+    <Text huntingZoneId="248" id="7" prevId="3" villagerId="1030">
+         
+        <Page social="4">Agradecemos a você. Suas famílias também ficarão agradecidas.</Page>
+    
+    </Text>
+</QuestDialog>

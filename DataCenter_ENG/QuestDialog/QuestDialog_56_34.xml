@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="56" id="34" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="256" id="100" prevId="0" villagerId="1019">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="256" id="2" prevId="0" villagerId="1019">
+         
+        <Page social="4">The mekonaris have argon soldiers in their ranks!&lt;BR&gt;&lt;BR&gt;These kalash avengers are mere footsoldiers, but very deadly ones. One must be wary of their immense swords. That crystal edge is keen and almost unbreakable.&lt;BR&gt;&lt;BR&gt;Yet, if you destroy them, you may flush out their leader.</Page>
+    
+    </Text>
+    <Text huntingZoneId="256" id="3" prevId="2" villagerId="1019">
+         
+        <Page social="4">Excellent! Now, to find their leader.&lt;BR&gt;&lt;BR&gt;Anyone who can stand against those argon soldiers is a credit to the federation, and lucky as well!</Page>
+    
+    </Text>
+</QuestDialog>

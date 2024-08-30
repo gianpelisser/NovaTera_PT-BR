@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="2" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="70" id="100" prevId="0" villagerId="1013">
+         
+        <Page social="0">Blightwood was the site where Shakan slew Lok during the Divine War. Lok's blood tainted the forest and unleashed countless angry spirits.&lt;BR&gt;&lt;BR&gt;The Mysterium constructed an amelioration agent that you used to push back the desolation.&lt;BR&gt;&lt;BR&gt;You recovered Thulsa's Bracelet—a relic that could amplify Lok's energy—from the dread wraith, Gaist, but you could not use it without the power of Shakan.</Page>
+    
+    </Text>
+    <Text huntingZoneId="70" id="2" prevId="0" villagerId="1013">
+         
+        <Page social="5">Before the Divine War, Blightwood was a realm of haunting beauty. Then Shakan slew Lok and destroyed the ancient forest.&lt;BR&gt;&lt;BR&gt;The Mysterium has a plan to reverse the damage, but they need your aid. Speak with Gwahre in Tria. He's a cranky priest, but brilliant.</Page>
+    
+    </Text>
+    <Text huntingZoneId="70" id="3" prevId="2" villagerId="1027">
+         
+        <Page social="5">It's about bloody time! I suppose Raeren thinks we can just wait for the heat death of the universe!&lt;BR&gt;&lt;BR&gt;Now, how best to put you to use. Do you know much about the history of Blightwood? Any of it?&lt;NEXTPAGEBUTTON&gt;"I know a little of it."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="5">When Shakan tore Lok apart, Lok's flesh and blood tainted the woods.&lt;BR&gt;&lt;BR&gt;The Mysterium has studied it extensively, and we believe we have a solution, but it requires the assistance of soldiers.&lt;NEXTPAGEBUTTON&gt;"How can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="5">Our researchers are trying to purify the forest, but the {@LinkCreature:28#1021#thorny timberwolves} attack constantly. They weren't always so aggressive, but like most things hereabouts, they've been contaminated.&lt;BR&gt;&lt;BR&gt;Hunt them so the arcanists can continue their work.&lt;BR&gt;&lt;BR&gt;And hurry back. There's much to be done.</Page>
+    
+    </Text>
+    <Text huntingZoneId="70" id="4" prevId="3" villagerId="1027">
+         
+        <Page social="5">Excellent work. That's one problem dealt with. But the bites of the wolves tend to infect, and there are many victims. Please go to {@LinkCreature:228#1001#Camp Zakai} and see Mysterium Inquisitor Anarie.&lt;BR&gt;&lt;BR&gt;The road to the camp is overrun by {@LinkCreature:28#2011#smokepaw timberwolves}, which have been exposed to even a stronger source of contamination than the thorny timberwolves. I believe their teeth can be used to create a cure for the sick workers.&lt;BR&gt;&lt;BR&gt;Please, eliminate the {@LinkCreature:28#2011#smokepaw timberwolves} and take their teeth to Anarie.</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="5" prevId="4" villagerId="1001">
+         
+        <Page social="4">Gwahre's consideration is appreciated, as are your efforts. The potions I make with these are surprisingly effective in staving off infection.&lt;BR&gt;&lt;BR&gt;I have a batch ready now. Take it to Lasiren at the Garbi Outpost. It's desperately needed!</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="6" villagerId="1001">
+         
+        <Page social="0">I could brew up more of the potion, but not without more fangs from the smokepaw timberwolves. If I can't keep the workers safe, my mission will be a failure.&lt;BR&gt;&lt;BR&gt;Do you think you could fetch some?</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="7" prevId="5" villagerId="1014">
+         
+        <Page social="5">Anarie's remedy is much appreciated, and so is her kindness. One might think the contamination would diminish over time, but the opposite seems to be true.&lt;BR&gt;&lt;BR&gt;In fact, more and more of our workers grow ill, and now the purifiers have stopped functioning.&lt;NEXTPAGEBUTTON&gt;"Is there some way to help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="5">The only way is to restart the purifiers. First, though, you'll need to kill the {@LinkCreature:28#3051#tainted jalmaraks} to the south. When you've cleared them out, restart the devices. They should start making a difference soon afterward.</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="8" prevId="7" villagerId="1014">
+         
+        <Page social="5">I've another task for you.&lt;BR&gt;&lt;BR&gt;When the contamination kills someone here, they often return as a wraith. Since those slain by wraiths also return as wraiths, every battle weakens us and strengthens them. The oldest and most powerful wraith is {@LinkCreature:28#6000#Gaist}. If Gaist were slain, we might be able to break the cycle.</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="9" prevId="8" villagerId="1014">
+         
+        <Page social="5">You recovered this bracelet from Gaist? &lt;BR&gt;&lt;BR&gt;It surges with necromantic energy. Take it to Gwahre in Tria. He's well-versed in such matters—he'll know how best to proceed.</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="10" villagerId="1014">
+         
+        <Page social="0">If we don't put an end to Gaist, the wraiths will eventually overwhelm us. Too many lives depend on this battle, &lt;PCNAME&gt;. You must slay him.</Page>
+    
+    </Text>
+    <Text huntingZoneId="70" id="11" prevId="9" villagerId="1027">
+         
+        <Page social="5">The very touch of this bracelet sickens me. It's not of Lok—more likely Thulsa's dark claws are behind it.&lt;BR&gt;&lt;BR&gt;We could turn this power back on the wraiths and destroy them for good, but we'd need another god's power to add to it.&lt;BR&gt;&lt;BR&gt;Erlon, in the Timeless Woods, is enormously erudite about such matters.</Page>
+    
+    </Text>
+    <Text huntingZoneId="229" id="12" prevId="11" villagerId="1010">
+         
+        <Page social="5">Gwahre's talking about a necromantic amplifier. Interesting. The simplest solution would be to counter Lok's energy. Shakan's power would do nicely, as it was the Beastlord who killed Lok.&lt;BR&gt;&lt;BR&gt;Find Taleron at Dorana Outpost. He knows most about Shakan. He may even have an artifact in his possession.&lt;BR&gt;&lt;BR&gt;Move quickly, &lt;PCNAME&gt;. That bracelet is like a beacon to dark forces.</Page>
+    
+    </Text>
+    <Text huntingZoneId="229" id="13" prevId="12" villagerId="1012">
+         
+        <Page social="5">There is a simple method to do what you ask, but also a complication. Shakan's altar has the requisite power, but it's in the hands of shurians.&lt;BR&gt;&lt;BR&gt;If you want to use the altar, you'll have to kill {@LinkCreature:29#7022#Artania} and {@LinkCreature:29#7021#Limcadus}. That should prove your worth to the Beastlord.&lt;BR&gt;&lt;BR&gt;When that's done, place the bracelet on the altar and wait. If you're worthy, something will happen.</Page>
+    
+    </Text>
+    <Text huntingZoneId="229" id="14" prevId="13" villagerId="1024">
+         
+        <Page social="5">(You feel the rumblings of a growl inching up your spine, though the forest remains silent. The bracelet grows dull, then crumbles into dust.)</Page>
+    
+    </Text>
+    <Text huntingZoneId="229" id="15" prevId="14" villagerId="1012">
+         
+        <Page social="5">It worked? Splendid. Shakan bore Thulsa no love, so this offering must have pleased him.&lt;BR&gt;&lt;BR&gt;Let Gwahre know that you've dealt with this problem and give the cranky priest my regards.</Page>
+    
+    </Text>
+    <Text huntingZoneId="70" id="16" prevId="15" villagerId="1027">
+         
+        <Page social="5">You destroyed it? That bracelet was a divine relic! We could have uncovered countless secrets! Bah!&lt;BR&gt;&lt;BR&gt;Well, what's done is done. To rid the region of wraiths was likely worth it. You've served us well, &lt;PCNAME&gt;. The Mysterium owes you a debt of gratitude.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="17" id="37" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="217" id="100" prevId="0" villagerId="1023">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="217" id="2" prevId="0" villagerId="1023">
+         
+        <Page social="5">Sei que posso confiar em você, pelo menos. Tenho certeza de que o Licinza é um espião. Se você denunciar um espião, ele vai para a cadeia. Mas, se você prender um espião, poderá usá-lo! Eu posso lidar com o Licinza, mas o mestre espião do culto {@LinkCreature:17#205#Vilastasia} vai descobrir sobre o livro-razão.&lt;BR&gt;&lt;BR&gt;Então nós o matamos. Sim! Perfeito. Proteger o segredo e o espião. Você acha que pode fazer isso?</Page>
+    
+    </Text>
+    <Text huntingZoneId="217" id="3" prevId="2" villagerId="1023">
+         
+        <Page social="5">Bom soldado! Agora mandamos seus invasores para onde quisermos! &lt;BR&gt;&lt;BR&gt;Ganhar guerras tem tudo a ver com logística e inteligência. &lt;PCCLASS&gt;, você acabou de nos ajudar com ambos.</Page>
+    
+    </Text>
+</QuestDialog>

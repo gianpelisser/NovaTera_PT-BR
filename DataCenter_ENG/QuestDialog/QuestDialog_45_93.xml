@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="45" id="93" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="77" id="100" prevId="0" villagerId="1009">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="77" id="2" prevId="0" villagerId="1009">
+         
+        <Page social="4">I need you to help secure the area around Lookout Point.&lt;BR&gt;&lt;BR&gt;To that end, kill {@LinkCreature:45#3001#argonomorph Lokian archers} and {@LinkCreature:45#3002#reavers}, as well as {@LinkCreature:45#3003#kelba rippers} and {@LinkCreature:45#3004#athakela stalkers}.&lt;BR&gt;&lt;BR&gt;Report to {@Creature:245#1004$$Beruse} at Field Base Valiance when your mission is complete.</Page>
+    
+    </Text>
+    <Text huntingZoneId="245" id="3" prevId="2" villagerId="1004">
+         
+        <Page social="5">Excellent work, &lt;PCNAME&gt;. Carry on.</Page>
+    
+    </Text>
+    <Text huntingZoneId="245" id="4" villagerId="1004">
+         
+        <Page social="0">It looks like you haven't completed your mission yet.</Page>
+    
+    </Text>
+</QuestDialog>

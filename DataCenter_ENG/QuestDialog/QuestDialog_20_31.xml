@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="20" id="31" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="220" id="100" prevId="0" villagerId="1007">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="220" id="2" prevId="0" villagerId="1007">
+         
+        <Page social="4">The {@LinkCreature:20#30087000#relentless bloodclaw arachnens} have taken over the tunnels—because undead aren't enough! I don't know when they showed up, but if they keep digging into the walls, the tunnels will collapse.&lt;BR&gt;&lt;BR&gt;Now, while that would be a great way to take out the undead, it'd also be a great way to take out our soldiers who are deep inside, not to mention the survivors that we're trying to find.&lt;BR&gt;&lt;BR&gt;I have soldiers and survivors to deal with, so I need you to head in there and take care of the spiders.</Page>
+    
+    </Text>
+    <Text huntingZoneId="220" id="3" prevId="2" villagerId="1007">
+         
+        <Page social="4">Wow, I didn't even realize how much that vibration they make was bothering me until it stopped.&lt;BR&gt;&lt;BR&gt;Thank you for clearing them out.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="87" id="4" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="87" id="100" prevId="0" villagerId="1002">
+         
+        <Page social="0">&lt;img src='img://__Quest_Mission.870401'/&gt;&lt;BR&gt;Você ajudou os soldados que estavam recuperando suprimentos em Lost Woods e reuniu mais informações sobre os planos dos orcs.</Page>
+    
+    </Text>
+    <Text huntingZoneId="87" id="2" prevId="0" villagerId="1002">
+         
+        <Page social="4">&lt;img src='img://__Quest_Mission.870401'/&gt;&lt;BR&gt;&lt;PCNAME&gt;, preciso voltar ao acampamento. Você encontrará a carroça de suprimentos no final da estrada, à direita. Por favor, reúna os suprimentos espalhados por aqui e entregue-os a Ketrath.</Page>
+    
+    </Text>
+    <Text huntingZoneId="87" id="3" prevId="2" villagerId="1026">
+         
+        <Page social="4">Afinal, alguém veio! Mas acho que você chegou tarde demais.&lt;NEXTPAGEBUTTON&gt;&amp;quot;O que aconteceu?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Orcans. Eles capturaram os suprimentos que recuperamos... e minhas tropas. Eu, eles me deixaram para morrer.&lt;BR&gt;&lt;BR&gt;Você poderia localizá-los e ajudar meus companheiros a escapar?</Page>
+    
+    </Text>
+    <Text huntingZoneId="87" id="4" villagerId="1026">
+         
+        <Page social="0">O tempo é curto. Por favor, se apresse.</Page>
+    
+    </Text>
+    <Text huntingZoneId="87" id="5" prevId="3" villagerId="1040">
+         
+        <Page social="4">Muito obrigado. Eu estava tentando voltar para Ketrath, mas fui cortado.&lt;BR&gt;&lt;BR&gt;Eu escapei dos orcs há pouco tempo... escapuli enquanto eles estavam distraídos. Mas eu vi para onde eles levaram o resto da unidade... e estava indo buscar ajuda. Parece que você é a ajuda que eles precisam.&lt;BR&gt;&lt;BR&gt;Não se preocupe comigo. Eu posso ir agora que o caminho está livre. Basta chegar ao acampamento orcano e libertar meus amigos!</Page>
+    
+    </Text>
+    <Text huntingZoneId="87" id="6" prevId="5" villagerId="1041">
+         
+        <Page social="4">Você veio por nós! &lt;BR&gt;&lt;BR&gt;Eu estou bem... mas, por favor, ajude meu amigo Milio. Eu o ouvi gritando mais cedo, então sei que ele está sendo mantido em cativeiro em algum lugar perto deste acampamento.&lt;BR&gt;&lt;BR&gt;Vou voltar para o acampamento da unidade de suprimentos; eu posso fazer isso sozinho.&lt;BR&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="87" id="7" prevId="6" villagerId="1042">
+         
+        <Page social="4">Esere está vivo? E Ketrath também? Então não foi um massacre total...&lt;BR&gt;&lt;BR&gt;Onde eles estão?&lt;NEXTPAGEBUTTON&gt;&amp;quot;Volte para o acampamento.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Vou até lá e me reagruparei com eles.&lt;BR&gt;&lt;BR&gt;Antes de ir... talvez eu tenha alguma informação útil para você. Os orcs da Floresta Perdida têm uma cadeia de comando. Procure por grupos deles, usando selos vermelhos. &lt;BR&gt;&lt;BR&gt;Mate alguns desses orcs, pegue seus selos e mostre-os a Lapau... se ele ainda estiver vivo. Ninguém sabe mais sobre os orcs. Se alguém pode explicar o significado dos selos vermelhos, esse alguém é Lapau.</Page>
+    
+    </Text>
+    <Text huntingZoneId="87" id="8" prevId="7" villagerId="1009">
+         
+        <Page social="4">Olá! Como vai a resistência?&lt;BR&gt;&lt;BR&gt;O que é isso que você tem aí? Ahh... um selo de marca orcana! Os orcs os usam para marcar seus escravos.&lt;BR&gt;&lt;BR&gt;Hmm, isso é interessante. Esses selos são mágicos! O mestre canaliza o poder através do selo para o escravo.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Encontre um lugar para se esconder.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Heh! Você é engraçado! Estou me escondendo dos orcs! Sou apenas melhor nisso do que qualquer outra pessoa! &lt;BR&gt;&lt;BR&gt;Por que, olá! Amigo de vocês?</Page>
+    
+    </Text>
+    <Text huntingZoneId="87" id="9" villagerId="1009">
+         
+        <Page social="0">Não há nada que possa lhe interessar!</Page>
+    
+    </Text>
+    <Text huntingZoneId="87" id="10" prevId="8" villagerId="1037">
+         
+        <Page social="4">Bom trabalho, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Eu estive fazendo algumas pesquisas. Essa não foi apenas uma invasão de suprimentos. Os orcs têm um líder, e esse líder os organizou e os enviou para atacar Pora Elinu.&lt;BR&gt;&lt;BR&gt;Mas, sendo orcs, suas táticas eram rudes e desajeitadas.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Mas tristemente eficazes.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Certo. Ouça, tenho uma nova missão para você. Tenho outro batedor nas profundezas do território controlado pelos orcs, procurando um ponto de apoio - uma fraqueza que possamos explorar para expulsá-los da Floresta Perdida.&lt;BR&gt;&lt;BR&gt;Você vai me proporcionar outra diversão. Faça isso e terá conquistado meu respeito.&lt;BR&gt;&lt;BR&gt;Entretanto, tome. Considere isso um prêmio por ter chegado aqui antes de mim.</Page>
+    
+    </Text>
+</QuestDialog>

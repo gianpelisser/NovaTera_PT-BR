@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="488" id="24" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="216" id="100" prevId="0" villagerId="1031">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="216" id="2" prevId="0" villagerId="1031">
+         
+        <Page social="5">There's no zealot like a new convert, I suppose.&lt;BR&gt;&lt;BR&gt;The ducal loyalists and ducal bodyguards are more vicious than the old-time vampirs. They're downright bloodthirsty! Well, obviously vampirs are too, but you know what I mean...&lt;BR&gt;&lt;BR&gt;So spill some ducal blood! And bring back proof. I like to know we're making progress.</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="3" prevId="2" villagerId="1031">
+         
+        <Page social="4">That'll teach them to back the wrong side, eh, &lt;PCNAME&gt;?</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="4" villagerId="1031">
+         
+        <Page social="0">Ducal loyalists and bodyguards. Should be simple. Go.</Page>
+    
+    </Text>
+</QuestDialog>

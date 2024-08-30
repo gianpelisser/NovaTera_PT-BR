@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="38" id="41" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="238" id="100" prevId="0" villagerId="1027">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="238" id="2" prevId="0" villagerId="1027">
+         
+        <Page social="5">O pobre Jermir geme de dor durante o sono.&lt;BR&gt;&lt;BR&gt;Mas há uma flor em Barbtail Coulee chamada salixia. Os wyverns a comem quando estão doentes. Será que isso o ajudaria? &lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, você pode pegar um pouco para mim? Para o bem de Jermir?</Page>
+    
+    </Text>
+    <Text huntingZoneId="238" id="3" prevId="2" villagerId="1027">
+         
+        <Page social="6">Obrigado! Vou dar um pouco para ele assim que acordar. Tenho certeza de que logo ele voltará a ser o que era.</Page>
+    
+    </Text>
+    <Text huntingZoneId="238" id="4" villagerId="1027">
+         
+        <Page social="0">Jermir estará recuperado assim que eu puder lhe dar salixia suficiente.</Page>
+    
+    </Text>
+</QuestDialog>

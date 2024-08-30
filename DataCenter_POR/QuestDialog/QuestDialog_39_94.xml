@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="39" id="94" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="75" id="100" prevId="0" villagerId="1024">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="75" id="2" prevId="0" villagerId="1024">
+         
+        <Page social="0">Precisamos ferir os aracnídeos em um nível básico. Vá atrás das {@LinkCreature:39#131#matronas aracnídeas} e dos {@LinkCreature:39#130#matriarcas} e dos {@LinkCreature:39#140#guardiões escravos} no nível mais baixo da Aracnéia.&lt;BR&gt;&lt;BR&gt;Quando terminar, apresente-se a Greina no Posto Avançado de Roughneck.</Page>
+    
+    </Text>
+    <Text huntingZoneId="239" id="3" prevId="2" villagerId="1003">
+         
+        <Page social="4">Essa era uma missão perigosa, e você teve um bom desempenho.</Page>
+    
+    </Text>
+    <Text huntingZoneId="239" id="4" villagerId="1003">
+         
+        <Page social="0">Cace {@LinkCreature:39#130#arachnen matriarchs}, {@LinkCreature:39#131#arachnen matrons} e {@LinkCreature:39#140#slave wardens} e me traga provas de suas mortes.</Page>
+    
+    </Text>
+</QuestDialog>

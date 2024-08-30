@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StrSheet_PetitionTitle xmlns="https://vezel.dev/novadrop/dc/StrSheet_PetitionTitle" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_PetitionTitle StrSheet_PetitionTitle.xsd">
+    <String string="Mensagem do GM" readableId="SMT_PETITION_TITLE_GM_MESSAGE" />
+    <String string="Status da petição" readableId="SMT_PETITION_TITLE_RESULT" />
+    <String string="Ticket enviado. Aguardando resposta." readableId="SMT_PETITION_TITLE_ICON_REQUESTING" />
+    <String string="Sessão encerrada. Aguardando resposta." readableId="SMT_PETITION_TITLE_ICON_CHAT_COMPLETE" />
+    <String string="Resposta recebida. Aguardando a realização da pesquisa." readableId="SMT_PETITION_TITLE_ICON_REPLY_COMPLETE" />
+    <String string="Em uma sessão..." readableId="SMT_PETITION_TITLE_ICON_CHAT_ING" />
+</StrSheet_PetitionTitle>

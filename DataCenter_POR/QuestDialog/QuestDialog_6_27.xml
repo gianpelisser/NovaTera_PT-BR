@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="6" id="27" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="206" id="100" prevId="0" villagerId="1008">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="206" id="2" prevId="0" villagerId="1008">
+         
+        <Page social="5">Ei, você pode me ajudar? Eu realmente preciso consertar essa cerca para meu pai, mas não consigo encontrar os materiais.&lt;BR&gt;&lt;BR&gt;Não tenho permissão para sair, mas tenho certeza de que o &lt;font color='#660000'&gt;metal, a madeira e a corda&lt;/font&gt; de que preciso estão em &lt;font color='#660000'&gt;caixas de lixo&lt;/font&gt; aqui perto.&lt;BR&gt;&lt;BR&gt;Pode, por favor, ir me procurar? E trazê-las de volta?</Page>
+    
+    </Text>
+    <Text huntingZoneId="206" id="3" prevId="2" villagerId="1038">
+         
+        <Page social="0">Há uma corda nessa caixa.</Page>
+    
+    </Text>
+    <Text huntingZoneId="206" id="4" prevId="3" villagerId="1036">
+         
+        <Page social="0">Há metal nessa caixa.</Page>
+    
+    </Text>
+    <Text huntingZoneId="206" id="5" prevId="4" villagerId="1037">
+         
+        <Page social="0">Há madeira nessa caixa.</Page>
+    
+    </Text>
+    <Text huntingZoneId="206" id="6" prevId="5" villagerId="1008">
+         
+        <Page social="8">Oh, que bom! Obrigado, obrigado!&lt;BR&gt;&lt;BR&gt;O pai vai ficar tão surpreso ao ver que fiz isso por ele!</Page>
+    
+    </Text>
+    <Text huntingZoneId="206" id="7" villagerId="1008">
+         
+        <Page social="0">Os materiais? Você não conseguiu encontrá-los? &lt;BR&gt;&lt;BR&gt;Por favor, procure novamente.</Page>
+    
+    </Text>
+</QuestDialog>

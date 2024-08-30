@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="15" id="93" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="67" id="100" prevId="0" villagerId="1015">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="67" id="2" prevId="0" villagerId="1015">
+         
+        <Page social="0">Ordens da missão&lt;BR&gt;&lt;BR&gt;Limpar a estrada para Pora Elinu de {@LinkCreature:15#4#recrutas castanhos} e {@LinkCreature:15#5#recrutasamani}.&lt;BR&gt;&lt;BR&gt;Relatar ao Prefeito Madron quando a missão estiver concluída.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="3" prevId="2" villagerId="1009">
+         
+        <Page social="5">Bom trabalho! Use essa recompensa para aprimorar seu equipamento.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="4" villagerId="1009">
+         
+        <Page social="0">Quando você matar esses {@LinkCreature:15#4#recrutas castanhos} e {@LinkCreature:15#5#recrutasamani}, guarde os amuletos de serviço deles!</Page>
+    
+    </Text>
+</QuestDialog>

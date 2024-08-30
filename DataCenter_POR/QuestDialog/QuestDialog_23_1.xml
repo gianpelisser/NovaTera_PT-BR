@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="23" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">As princesas elin Rida e Arin estavam envolvidas em uma disputa sobre heráldica. A disputa sobre o novo desenho da bandeira do Reino de Poporia ficou feia quando Rida fugiu de Pora Elinu e reuniu um exército.&lt;BR&gt;&lt;BR&gt;Lienyn recrutou você para resolver a disputa, já que a rainha não estava disponível. A princesa Arin queria sua ajuda para preparar um caldo para obrigar Rida a voltar para o lado dela.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">Ordens da Missão&lt;BR&gt;&lt;BR&gt;O Reino de Poporia, parte vital da Federação Valkyon, solicita assistência em Pora Elinu.&lt;BR&gt;&lt;BR&gt;Relacione-se com o Comandante Seir em Velika para obter mais detalhes.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="1102">
+         
+        <Page social="4">É bom vê-lo novamente, &lt;PCNAME&gt;. Você provou ser capaz e engenhoso. Agora veremos se você também pode ser delicado.&lt;BR&gt;&lt;BR&gt;O Reino de Poporia o chamou especificamente para esta missão.&lt;NEXTPAGEBUTTON&gt;"Em que posso servi-lo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Há uma disputa entre duas princesas reais, Arin e Rida. A rainha está comungando com a deusa Seren e não está disponível. O reino quer um forasteiro para ajudar a resolver isso, para evitar um pesadelo político.&lt;BR&gt;&lt;BR&gt;Se você me perguntar, já é um pesadelo político.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:68#1007#Lienyn} em Pora Elinu tem os detalhes.</Page>
+    
+    </Text>
+    <Text huntingZoneId="68" id="4" prevId="3" villagerId="1007">
+         
+        <Page social="4">Saudações, &lt;PCNAME&gt;. O Comandante Seir fala bem de suas habilidades... e de sua discrição. Preciso de alguém para mediar uma disputa entre os membros da realeza. É um assunto interno que requer uma perspectiva externa.&lt;BR&gt;&lt;BR&gt;Você tem um toque hábil, pelo que sei.&lt;NEXTPAGEBUTTON&gt;"Como posso ajudar?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">As princesas Rida e Arin estão brigando e a discussão dividiu o reino. A rainha normalmente interviria, mas ela permanece em reclusão e não pode ser incomodada.&lt;BR&gt;&lt;BR&gt;Fale com a Princesa Arin e ouça-a, mas tente convencê-la para o bem do reino! Ela não cederá facilmente, mas se essa fosse uma tarefa fácil, não precisaríamos de você. Pedido feito.</Page>
+    
+    </Text>
+    <Text huntingZoneId="223" id="5" prevId="4" villagerId="1002">
+         
+        <Page social="4">Esse é um assunto interno, mas eu me digno a aceitar sua presença. Você certamente não pode piorar as coisas! &lt;BR&gt;&lt;BR&gt;Estamos projetando uma nova bandeira para o reino. Rida, aquele... bovino intratável, insiste em um símbolo verdadeiramente ridículo, enquanto meu projeto usa um símbolo mais adequado. A questão nos dividiu a todos! &lt;NEXTPAGEBUTTON&gt;"Vocês estão brigando por causa de arte?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Não apenas arte! O símbolo de nossa nação! &lt;BR&gt;&lt;BR&gt;Os oficiais votaram para adotar minha imagem. A Princesa Rida é simplesmente teimosa. Sem contar o fato de que o símbolo dela é um esquilo! Gauche.&lt;BR&gt;&lt;BR&gt;A raposa é um símbolo claramente superior e ressoa com nosso povo. Como podemos não nos posicionar e lutar?</Page>
+    
+    </Text>
+    <Text huntingZoneId="223" id="6" prevId="5" villagerId="1002">
+         
+        <Page social="4">Os votos foram claros. Meu símbolo ganhou por um voto individual completo. Não foi nem de perto.&lt;BR&gt;&lt;BR&gt;Não é minha culpa que a princesa esquilo seja maluca!&lt;BR&gt;&lt;BR&gt;Quando perdeu a votação, ela saiu correndo da assembleia e partiu para essa cruzada tola. Ela está formando um exército! &lt;BR&gt;&lt;BR&gt;Precisamos ficar unidos, sob uma única bandeira. Minha bandeira, para ser mais preciso.&lt;NEXTPAGEBUTTON&gt;"O que posso fazer para ajudar?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Bem, primeiro você pode dizer à Rida que ela está sendo tola e teimosa. Depois, pode me ajudar a preparar uma bebida para ela.&lt;BR&gt;&lt;BR&gt;Se você me trouxer alguns &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7002#-38335.6172,46082.5313,1267.9902&amp;type=1&amp;name=Dewdrop Buds"&gt;dewdrop buds&lt;/A&gt;&lt;/FONT&gt;, prepararei um coquetel deslumbrante. Ele tem um sabor excelente e torna as pessoas muito mais receptivas a sugestões. Simples!</Page>
+    
+    </Text>
+    <Text huntingZoneId="223" id="7" prevId="6" villagerId="1002">
+         
+        <Page social="4">Perfeito! Agora, só nos falta algo da pessoa que estamos encantando.&lt;BR&gt;&lt;BR&gt;Não fique horrorizado. Esta é minha irmã - eu nunca a machucaria! &lt;BR&gt;&lt;BR&gt;Se você subir ao topo da árvore mais alta do leste de Pora Elinu, encontrará Sujai, a criada de Rida. Ela deve ser capaz de obter um &lt;b&gt;fio de cabelo de Rida&lt;/b&gt;. Traga-o de volta para mim e estaremos prontos! &lt;NEXTPAGEBUTTON&gt;"Por que você não pode ir?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Porque eu sou uma princesa e você não é. Estaria abaixo de mim porque... é muito alto!&lt;BR&gt;&lt;BR&gt;Agora, apresse-se!</Page>
+    
+    </Text>
+    <Text huntingZoneId="223" id="8" villagerId="1002">
+         
+        <Page social="0">Só preciso desses botões de gota de orvalho e toda essa história sórdida ficará para trás! Agora, vá embora com você.</Page>
+    
+    </Text>
+    <Text huntingZoneId="223" id="9" prevId="7" villagerId="1042">
+         
+        <Page social="4">Pelas lágrimas de Seren, quem é você? &lt;BR&gt;&lt;BR&gt;Arin o enviou? Não posso tomar partido nisso - sou apenas uma criada! &lt;BR&gt;&lt;BR&gt;Um fio de cabelo? É claro que eu poderia conseguir isso, mas eu nunca faria nada para prejudicar a Princesa Rida! Sou uma filha leal do reino! &lt;NEXTPAGEBUTTON&gt;"Nenhum mal lhe acontecerá."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Bem, você tem um rosto honesto, e eu quero que as princesas parem de discutir.&lt;BR&gt;&lt;BR&gt;É apenas uma bandeira! Seren nos guie! &lt;BR&gt;&lt;BR&gt;Como quiser, &lt;PCNAME&gt;. Pegue este bracelete - ele é feito do cabelo dela. Desde que não lhe faça nenhum mal, você tem minha permissão para usá-lo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="223" id="10" prevId="9" villagerId="1002">
+         
+        <Page social="4">Você tem o cabelo! Você é realmente uma negociadora habilidosa, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Por favor, aceite esta recompensa com os agradecimentos de uma princesa agradecida.</Page>
+    
+    </Text>
+    <Text huntingZoneId="223" id="11" villagerId="1002">
+         
+        <Page social="0" />
+    
+    </Text>
+</QuestDialog>

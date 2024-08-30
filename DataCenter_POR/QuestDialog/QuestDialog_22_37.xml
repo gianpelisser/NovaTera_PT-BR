@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="22" id="37" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="222" id="100" prevId="0" villagerId="1026">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="222" id="2" prevId="0" villagerId="1026">
+         
+        <Page social="5">Minhas irmãs encontraram um altar nas catacumbas.&lt;BR&gt;&lt;BR&gt;Mahagi o viu. Ela está escondida nos Laboratórios Maléficos, a leste daqui.&lt;BR&gt;&lt;BR&gt;Os {@LinkCreature:22#23#mekonari sorcerers}, {@LinkCreature:22#24#ebon imp thralls} e {@LinkCreature:22#25#mekonari darkweavers} estão em seu caminho. Oblitere-os e encontre-a.</Page>
+    
+    </Text>
+    <Text huntingZoneId="222" id="3" prevId="2" villagerId="1020">
+         
+        <Page social="5">Ouvi falar muito de você pelos outros.&lt;BR&gt;&lt;BR&gt;Suas mãos estão cobertas com o sangue de minhas irmãs bruxas, mas este é um dia em que todos nós estamos tão manchados.&lt;BR&gt;&lt;BR&gt;Vamos pôr um fim a isso.</Page>
+    
+    </Text>
+</QuestDialog>

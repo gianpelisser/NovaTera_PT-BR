@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="34" id="31" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="234" id="100" prevId="0" villagerId="1009">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="234" id="2" prevId="0" villagerId="1009">
+         
+        <Page social="4">Os wendigos afirmam que nossa mineração dos fragmentos vai esgotá-los para sempre. Eles também afirmam que o Santuário de Azurice pode cultivá-los indefinidamente - se houver energia suficiente.&lt;BR&gt;&lt;BR&gt;Decidimos acreditar neles por enquanto. Precisamos de fragmentos carmesim - eles são os mais potentes - se quisermos imbuir o Santuário.&lt;BR&gt;&lt;BR&gt;Vá para o sudeste e junte o que puder.</Page>
+    
+    </Text>
+    <Text huntingZoneId="234" id="3" prevId="2" villagerId="1009">
+         
+        <Page social="4">É possível que esses fragmentos possam restaurar o Santuário Azurice e evitar que os fragmentos desapareçam completamente de nosso mundo.&lt;BR&gt;&lt;BR&gt;Há uma lição a ser aprendida sobre sustentabilidade e equilíbrio.</Page>
+    
+    </Text>
+    <Text huntingZoneId="234" id="4" villagerId="1009">
+         
+        <Page social="0">Desculpe-me, &lt;PCNAME&gt;. Precisamos de mais fragmentos carmesim.</Page>
+    
+    </Text>
+</QuestDialog>

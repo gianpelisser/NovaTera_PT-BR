@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="487" id="92" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="203" id="100" prevId="0" villagerId="1032">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="203" id="2" prevId="0" villagerId="1032">
+         
+        <Page social="5">Alguns dos pesos pesados de Scion ainda estão à espreita no bastião. Até que tenhamos protegido aqueles túneis, o Bosque do Esquecimento não estará seguro.&lt;BR&gt;&lt;BR&gt;Tire de lá {@LinkCreature:487#2002#místicos do bastião}, {@LinkCreature:487#2003#sorcerers}, {@LinkCreature:487#2004#reapers}, {@LinkCreature:487#3001#lancers} e {@LinkCreature:487#3002#slayers}.&lt;BR&gt;&lt;BR&gt;Relacione-se comigo quando tiver mandado todos eles de volta para o Sonho.</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="3" prevId="2" villagerId="1032">
+         
+        <Page social="5">Fico feliz por termos um veterano como você por perto. Eu poderia ter enviado um esquadrão de soldados menos experientes para fazer esse trabalho - e provavelmente perderia a maioria deles. Obrigado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="4" villagerId="1032">
+         
+        <Page social="0">Não volte até ter distintivos suficientes para me deixar orgulhoso.</Page>
+    
+    </Text>
+</QuestDialog>

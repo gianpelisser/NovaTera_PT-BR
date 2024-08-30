@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="39" id="41" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="239" id="100" prevId="0" villagerId="1025">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="239" id="2" prevId="0" villagerId="1025">
+         
+        <Page social="4">A incubadora está repleta de corpos mumificados de nossos soldados mortos. É uma pena que os tenhamos deixado aqui para apodrecer - mas não mais! &lt;BR&gt;&lt;BR&gt;Recuperem os corpos que puderem e tragam-nos para cá.</Page>
+    
+    </Text>
+    <Text huntingZoneId="239" id="3" prevId="2" villagerId="1025">
+         
+        <Page social="0">Devolvê-los às suas famílias não fará muito bem aos mortos, mas talvez alivie a dor dos que estão em casa.&lt;BR&gt;&lt;BR&gt;Obrigado por sua ajuda.</Page>
+    
+    </Text>
+    <Text huntingZoneId="239" id="4" villagerId="1025">
+         
+        <Page social="0">Ajude-me a fazer a coisa certa, &lt;PCNAME&gt;. Traga de volta nossos mortos honrados.</Page>
+    
+    </Text>
+</QuestDialog>

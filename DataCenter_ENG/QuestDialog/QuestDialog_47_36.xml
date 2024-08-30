@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="47" id="36" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="247" id="100" prevId="0" villagerId="1004">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="247" id="2" prevId="0" villagerId="1004">
+         
+        <Page social="4">Why didn't all these monstrosities leave with the argons who made them? Is there a strategic reason? There's a wendigo somewhere around the {@Rgn:47012$$Argon Shield Emitter} who leads the pack. {@Creature:47#6001$$Erphisha}'s what they call him. See if he's carrying any orders.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="3" prevId="2" villagerId="1004">
+         
+        <Page social="4">So what did you find on him? Hey, this isn't orders!&lt;NEXTPAGEBUTTON&gt;"No, it's skin."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Skin! That's horrible!&lt;BR&gt;&lt;BR&gt;I guess what's really horrible is the state of it. It's badly decomposed.&lt;BR&gt;&lt;BR&gt;So he was already dead when you killed him....</Page>
+    
+    </Text>
+</QuestDialog>

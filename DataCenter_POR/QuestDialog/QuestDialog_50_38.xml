@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="50" id="38" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="250" id="100" prevId="0" villagerId="1002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="250" id="2" prevId="0" villagerId="1002">
+         
+        <Page social="4">O apelo do {@Rgn:50008} para mim, como estudioso, é que ele de alguma forma evita a maior parte da corrupção dos argonss. Como ele conseguiu evitar a magia transformadora dos argons? &lt;BR&gt;&lt;BR&gt;As implicações deixam a imaginação atônita.&lt;NEXTPAGEBUTTON&gt;"E você precisa de ajuda."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">É verdade. Essas trepadeiras cambaleantes já foram lindas flores antes de serem remodeladas pelos argonss.&lt;BR&gt;&lt;BR&gt;Use essa flor de tialinto nas trepadeiras. Vamos ver se conseguimos desfazer os danos causados pelos argonss.</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="3" prevId="2" villagerId="1002">
+         
+        <Page social="6">Resultados muito promissores! Se eu conseguir adaptar o método a outras criaturas, talvez possamos recuperar nosso mundo.</Page>
+    
+    </Text>
+</QuestDialog>

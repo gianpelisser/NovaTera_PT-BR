@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="172" id="12" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="172" id="100" prevId="0" villagerId="1301">
+         
+        <Page social="0">Rhodos revelou um pouco da história de Arun do Norte, enquanto Paesyn tentou uma nova tática para fazer com que Zolyn gostasse dele.</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="2" prevId="0" villagerId="1301">
+         
+        <Page social="4">O fato de os khirianos terem nos acolhido diz bem do seu trabalho, &lt;PCNAME&gt;. Nós precisávamos do abrigo.&lt;BR&gt;&lt;BR&gt;Esse tal de Rhodos fala sobre coisas que caem do céu. Talvez possamos salvar a Intrepid! &lt;BR&gt;&lt;BR&gt;Talvez nossa missão não falhe.</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="3" prevId="2" villagerId="1301">
+         
+        <Page social="4">Paesyn quer falar com você se tiver um momento.</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="4" prevId="3" villagerId="1100">
+         
+        <Page social="4">É por isso que gosto de você! Você salvou o dia! &lt;BR&gt;&lt;BR&gt;Eu vi vários pedaços dos destroços da Intrepid. Vou dar uma olhada neles. Talvez impressionar um pouco a Zolyn. Faça com que ela goste de mim!&lt;BR&gt;&lt;BR&gt;Como meu poema não a animou, desenhei um retrato dela. Você poderia entregá-lo? Por favor?</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="5" prevId="4" villagerId="1102">
+         
+        <Page social="4">Ouvi dizer que você salvou Madat. Nada mal. Você é um ótimo soldado.&lt;NEXTPAGEBUTTON&gt;"Paesyn desenhou isto para você."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Retiro o que disse.&lt;BR&gt;&lt;BR&gt;Pare de desperdiçar meu tempo com essas bobagens. O que há com esse engenheiro idiota? Será que ele não tem trabalho a fazer?</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="6" prevId="5" villagerId="1301">
+         
+        <Page social="4">Por acaso, você viu o Paesyn? Ele já deve ter voltado. &lt;NEXTPAGEBUTTON&gt;"Ele está investigando os destroços."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Bem, precisamos continuar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="7" prevId="6" villagerId="1206">
+         
+        <Page social="4">O caminho a seguir não será fácil. Você é novo em Val Oriyn, portanto, ouça nossa história sombria.</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="8" prevId="7" villagerId="1206">
+         
+        <Page social="4">Nós, os Khiria, resistimos aos arquidevas, mas a maioria de minha espécie está escravizada. Nós nos referimos a eles como os Parthia.&lt;BR&gt;&lt;BR&gt;Eles têm um acampamento nas proximidades, mas não sei se nos deixarão passar sem lutar.&lt;NEXTPAGEBUTTON&gt;"Vou falar com eles."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Espero que a diplomacia funcione para você.&lt;BR&gt;&lt;BR&gt;Procure por Pariya. Os Parthia a respeitam, mas tenha cuidado.&lt;BR&gt;&lt;BR&gt;Ela é perigosa.</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="9" prevId="8" villagerId="1015">
+         
+        <Page social="0">Hatishna? Você acredita em uma história tão popular? &lt;BR&gt;&lt;BR&gt;Ninguém resiste ao Senhor Dakuryon. Você também deve se ajoelhar diante dele!</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="10" prevId="9" villagerId="1200">
+         
+        <Page social="4">Oh, &lt;PCNAME&gt;! Você está aqui? Ótimo! &lt;BR&gt;&lt;BR&gt;A Zolyn gostou da foto? Trabalhei durante dias nele. O que ela disse? &lt;NEXTPAGEBUTTON&gt;"Ela não gostou."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Ela provavelmente não aprecia meu realismo abstrato. Estudei arte por dois dias em Velika, então sei tudo sobre isso.</Page>
+    
+    </Text>
+</QuestDialog>

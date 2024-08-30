@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="37" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="252" id="100" prevId="0" villagerId="1045">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="252" id="2" prevId="0" villagerId="1045">
+         
+        <Page social="4">As sirenes da tempestade trouxeram um frio intenso para esta terra, fazendo com que nossos soldados lutem tanto contra o clima quanto contra o inimigo.&lt;BR&gt;&lt;BR&gt;O clima não tem efeito sobre os lacaios de Thulsa, porque eles estão mortos ou são animais cobertos de peles. Isso nos deixa como os únicos que sofrem com o frio.&lt;BR&gt;&lt;BR&gt;Cuide das sirenes da tempestade, está bem?</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="3" prevId="2" villagerId="1045">
+         
+        <Page social="4">Finalmente, posso sentir o calor da luz do sol novamente. &lt;BR&gt;&lt;BR&gt;Pelo menos um pouco. Obrigado, &lt;PCNAME&gt;!</Page>
+    
+    </Text>
+</QuestDialog>

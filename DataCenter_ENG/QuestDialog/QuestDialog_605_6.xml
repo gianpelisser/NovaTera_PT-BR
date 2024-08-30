@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="605" id="6" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="63" id="100" prevId="0" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="2" prevId="0" villagerId="3003">
+         
+        <Page social="4">You must be really bored. I mean, there's a war going on, and here you are chatting me up.&lt;NEXTPAGEBUTTON&gt;"Yeah..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">I noticed it the moment I laid my eyes on you. Just a bored, lazy, no good &lt;PCCLASS:lcase&gt;. Heh.&lt;BR&gt;&lt;BR&gt;Go ask {@LinkCreature:63#3002#Taratia} to play twenty questions with you.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="3002">
+         
+        <Page social="4">Hee-hee. Yeah, we're all going a little mad, aren't we?&lt;BR&gt;&lt;BR&gt;Twenty questions is possibly the best game ever, but I need materials, and I need them delivered yesterday to Santia in the workshop.&lt;BR&gt;&lt;BR&gt;So, another time?</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="4" prevId="2" villagerId="3002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="5" prevId="2" villagerId="3002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="6" prevId="3" villagerId="1098">
+         
+        <Page social="5">Sun essence. You ever wonder where this stuff comes from? I mean, really? Yeah, me either.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="7" villagerId="1098">
+         
+        <Page social="0">You don't actually have to travel to the sun to get sun essence. You know that, right?</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="8" prevId="3" villagerId="1098">
+         
+        <Page social="5">Thanks, &lt;PCNAME&gt;. Taratia was right about you. Trustworthy, fast, and efficient.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="9" villagerId="1098">
+         
+        <Page social="0">Are you the one Taratia sent to bring me krymetal ore? Well, where is it?</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="10" prevId="0" villagerId="3002">
+         
+        <Page social="4">In all seriousness, one of these days we all need to get together for drinks and laughs. Someday, when all of this is over, maybe.</Page>
+    
+    </Text>
+</QuestDialog>

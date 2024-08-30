@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="49" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">O comandante Tamur ordenou que você e Hasmina se infiltrassem em Argonea em um esforço para assediar a retaguarda dos argons, além de restabelecer o contato com a cidade de Kanstria. Kanstria ficou isolada quando os argons cercaram a cidade e desativaram a plataforma de voo, mas você conseguiu passar pelas linhas. O magistrado pediu que você encontrasse vários batedores desaparecidos. Hasmina o levou até eles e aos portais de transporte de tropas dos argons. Você recuperou as placas de identificação dos batedores mortos e deu as más notícias a Kanstria.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">[Encontre-se com {@Creature:248#2011$$Hasmina} para uma operação atrás das linhas em Argonea.&lt;BR&gt;&lt;BR&gt;Hasmina tem experiência e conhece o terreno. Ela o informará sobre os detalhes da missão.&lt;BR&gt;&lt;BR&gt;-Tamur</Page>
+    
+    </Text>
+    <Text huntingZoneId="248" id="3" prevId="2" villagerId="2011">
+         
+        <Page social="4">Ouça, eu queria lhe agradecer por salvar minha vida. Achei que não conseguiria sair das Três Torres.&lt;BR&gt;&lt;BR&gt;Não há muito tempo. A luta aqui diminuiu, por isso vamos tentar um ataque ao escalão traseiro dos argons. Primeiro, precisamos fazer contato com Kanstria. Perdemos contato com eles depois do último surto argônico.&lt;BR&gt;&lt;BR&gt;Encontro vocês nos arredores da cidade.</Page>
+    
+    </Text>
+    <Text huntingZoneId="249" id="4" prevId="3" villagerId="2013">
+         
+        <Page social="4">Está vendo aqueles pilares avermelhados? Isso é Kanstria. Deve haver uma força de resposta bem à vista.&lt;BR&gt;&lt;BR&gt;A proximidade dessas kalashes me preocupa. Você acha que os argons mataram todo mundo? Chegamos tarde demais?</Page>
+    
+    </Text>
+    <Text huntingZoneId="249" id="5" prevId="4" villagerId="2001">
+         
+        <Page social="12">Soldados da Federação? Você é um colírio para os olhos! &lt;NEXTPAGEBUTTON&gt;"O que aconteceu aqui?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="12">Os argonss fizeram algo em nossa plataforma de voo. Ela não funciona e estamos isolados. Enviamos uma patrulha para a Cidadela de Khanovar, mas nunca tivemos notícias deles.&lt;BR&gt;&lt;BR&gt;Olha, você realmente deveria falar com o magistrado. Pegue esta carta - eu o apoiarei. Boa sorte.</Page>
+    
+    </Text>
+    <Text huntingZoneId="249" id="6" prevId="5" villagerId="2002">
+         
+        <Page social="1">Novos rostos... isso significa que a federação está protegendo a província? &lt;NEXTPAGEBUTTON&gt;"Não exatamente. Estamos aqui para ajudar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Hmm. Celtan garante que você está bem. Isso é o suficiente para mim.&lt;BR&gt;&lt;BR&gt;Olha, nós não ficamos parados esse tempo todo. Mandei todos que pude dispensar para se conectar com as forças da Federação, mas ninguém voltou. Encontrá-los, ou até mesmo saber o que aconteceu com eles, seria uma grande ajuda para o nosso moral. Você pode nos ajudar?</Page>
+    
+    </Text>
+    <Text huntingZoneId="249" id="7" prevId="6" villagerId="2003">
+         
+        <Page social="4">Eu o ouvi. Estou pronto para ir. Há uma pequena área de vigilância ao norte daqui. Eu costumava me esconder lá quando era menina. Se os batedores sobreviveram, aposto que é lá que eles estão se escondendo.&lt;BR&gt;&lt;BR&gt;Vá para o &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=8001#65883, 25758, 4896&amp;type=1&amp;name=Hill Near Melgatol Portal"&gt;Melgatol Portal&lt;/A&gt;&lt;/font&gt;. Vou verificar um outro local primeiro, mas vou encontrá-lo na colina com vista para o portal.</Page>
+    
+    </Text>
+    <Text huntingZoneId="249" id="8" prevId="7" villagerId="2005">
+         
+        <Page social="4">Está vendo esses portais? É por ali que os argons trazem seus reforços. Se ao menos tivéssemos algumas daquelas armas de cerco...&lt;BR&gt;&lt;BR&gt;Vocês - quero dizer, nós - deveriam dar uma olhada mais de perto. Vamos, antes que eu perca a coragem.</Page>
+    
+    </Text>
+    <Text huntingZoneId="249" id="9" prevId="8" villagerId="2010">
+         
+        <Page social="10">Olhe lá embaixo! É um portal ativo. É aqui que eles estão reunindo forças para enviar ao {@Rgn:48001$$Khanovar Front}. Tantos...&lt;BR&gt;&lt;BR&gt;Vamos embora. Eu quero ir embora. Agora! &lt;NEXTPAGEBUTTON&gt;"Espere, aqueles não são os batedores de Kanstrian?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Sim. &lt;BR&gt;&lt;BR&gt;Sinto muito. Perdi a cabeça por um momento.&lt;BR&gt;&lt;BR&gt;Levaremos suas placas de identificação de volta.</Page>
+    
+    </Text>
+    <Text huntingZoneId="249" id="10" prevId="9" villagerId="2002">
+         
+        <Page social="13">Mortos? Todos eles? &lt;BR&gt;&lt;BR&gt;Eu temia isso, é claro, mas eu ainda esperava que eles voltassem em segurança.</Page>
+    
+    </Text>
+    <Text huntingZoneId="249" id="11" villagerId="2002">
+         
+        <Page social="0">Você já encontrou os batedores? &lt;BR&gt;&lt;BR&gt;Eu gostaria de dar boas notícias aos companheiros deles, então, por favor, apresse-se.</Page>
+    
+    </Text>
+    <Text huntingZoneId="249" id="12" prevId="10" villagerId="2006">
+         
+        <Page social="4">Ouvi seu relatório para o magistrado. Lamento saber que todos os batedores morreram. Eles partiram sob minhas ordens. Raios e maldições! &lt;NEXTPAGEBUTTON&gt;"Eles morreram cumprindo seu dever."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">É verdade. Eles não morreram como covardes. Isso pode dar algum conforto às suas famílias, se algum dia restabelecermos contato com o resto do mundo.&lt;BR&gt;&lt;BR&gt;Obrigado por trazer de volta as etiquetas deles. Só um colega soldado sabe o quanto isso é importante.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="42" id="32" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="242" id="100" prevId="0" villagerId="1041">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="242" id="2" prevId="0" villagerId="1041">
+         
+        <Page social="5">Há relatos de {@LinkCreature:42#800#besharan gulas} na parte sul do templo. Enquanto estiver matando-os, veja o que pode descobrir sobre como eles controlam os mortos-vivos, especialmente aqueles {@LinkCreature:42#700#vicious bone imps}.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="3" prevId="2" villagerId="1041">
+         
+        <Page social="4">Então os gulas que estavam controlando mortos-vivos carregavam esses cristais? Deixe-me ver...&lt;BR&gt;&lt;BR&gt;Veja isso? É um selo besharan e, ao lado, um selo naga! &lt;BR&gt;&lt;BR&gt;Tenho que levar essa notícia para Frontera. Obrigado por sua ajuda, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="4" villagerId="1041">
+         
+        <Page social="0">Quando soubermos como os gulas estão controlando os mortos-vivos, poderemos usar esse conhecimento a nosso favor.</Page>
+    
+    </Text>
+</QuestDialog>

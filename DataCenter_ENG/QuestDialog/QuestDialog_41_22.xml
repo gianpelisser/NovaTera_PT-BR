@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="41" id="22" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="241" id="100" prevId="0" villagerId="1005">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="241" id="2" prevId="0" villagerId="1005">
+         
+        <Page social="4">I have a favor to ask. We're supposed to be observing the Black Claw orcans, but we're overrun with {@LinkCreature:41#1003#sable sabertooths} and {@LinkCreature:41#1002#noralk kamaras}.&lt;BR&gt;&lt;BR&gt;Keeping their numbers down doesn't leave us much time, not to mention the problem of injuries. Will you join the hunt while you're here? {@LinkCreature:241#1003$$Jaebel} will pay you.</Page>
+    
+    </Text>
+    <Text huntingZoneId="241" id="3" prevId="2" villagerId="1003">
+         
+        <Page social="4">You've helped us a great deal. I'd like you to have this token of our gratitude.</Page>
+    
+    </Text>
+</QuestDialog>

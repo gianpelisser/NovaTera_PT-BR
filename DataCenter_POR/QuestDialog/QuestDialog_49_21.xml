@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="49" id="21" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">Fale com Linkia no vilarejo de Kanstria.</Page>
+    
+    </Text>
+    <Text huntingZoneId="76" id="3" prevId="2" villagerId="1011">
+         
+        <Page social="4">Ei! Não estou reconhecendo você. Você veio de Kaiator? &lt;NEXTPAGEBUTTON&gt;"Não, mas estou aqui para ajudar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Estamos isolados há algum tempo. Quando os argons atingiram nossa plataforma de voo, isso nos isolou mais do que esperávamos.&lt;BR&gt;&lt;BR&gt;Mesmo assim, se você está aqui, eles não se esqueceram de nós. Muito obrigado.</Page>
+    
+    </Text>
+</QuestDialog>

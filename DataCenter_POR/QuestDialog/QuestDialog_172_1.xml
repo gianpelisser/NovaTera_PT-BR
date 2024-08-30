@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="172" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">Prepare-se para uma nova missão viajando para os arredores de Velika. Ajude a proteger os suprimentos e depois se apresente na doca do dirigível.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="4">[Seir]&lt;BR&gt;&lt;BR&gt;Meu caro amigo,&lt;BR&gt;&lt;BR&gt;O Mysterium rastreou as recentes incursões demokron ao norte de Arun, e acredita que podemos enviar uma força para investigar.&lt;BR&gt;&lt;BR&gt;Você nunca falhou com a Federação Valkyon, então eu o convoco novamente para nos emprestar sua habilidade. Dougal liderará essa missão, mas ele precisará de alguém forte para fazer a parte perigosa.&lt;BR&gt;&lt;BR&gt;Desenvolvemos um novo dirigível chamado Arca do Céu. Ele levará sua missão para o norte. Preciso que você verifique os suprimentos e depois se apresente a bordo da Arca do Céu.&lt;BR&gt;&lt;BR&gt;Nari, nas docas, está esperando por você.&lt;BR&gt;&lt;BR&gt;~Seir</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="1507">
+         
+        <Page social="4">Não é maravilhoso? Tanta agitação e atividade! &lt;BR&gt;O que posso fazer por você? &lt;NEXTPAGEBUTTON&gt;"Seir me enviou a você."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Estou vendo. Você está indo para o norte a bordo da Arca do Céu? Isso é ótimo! &lt;BR&gt;&lt;BR&gt;Ela é muito mais poderosa do que os nossos dirigíveis normais.&lt;BR&gt;&lt;BR&gt;Voltando para o norte de Arun e para a aventura! Isso não faz seu coração disparar? &lt;NEXTPAGEBUTTON&gt;"Onde exatamente fica essa arca do céu?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Está vendo-a ali, pairando a oeste? &lt;BR&gt;&lt;BR&gt;Ouça, a arca do céu não sairá nas próximas horas, mas eu preciso de ajuda.&lt;NEXTPAGEBUTTON&gt;"Do que você precisa?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Estamos coordenando os suprimentos para a arca do céu, mas encontramos alguns problemas.&lt;BR&gt;&lt;BR&gt;Lojemoon pode colocá-lo para trabalhar. É tudo para sua nova missão! Terminou a conversa.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="4" prevId="3" villagerId="1242">
+         
+        <Page social="4">Uma visão para os olhos doloridos! Se não carregarmos esses suprimentos, meu pelo vai cair! &lt;BR&gt;&lt;BR&gt;A carroça de suprimentos partiu antes que pudéssemos obter o óleo de flor de brasa. Queima devagar e não faz fumaça, o que o torna ideal para dirigíveis.&lt;NEXTPAGEBUTTON&gt;"De quanto você precisa?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Não muito! Não muito!&lt;BR&gt;&lt;BR&gt;Veja aquelas ovelhas? Elas adoram comer flores de brasa. Colham algumas flores e tragam-nas para mim. &lt;BR&gt;&lt;BR&gt;Eu farei o resto.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="5" prevId="4" villagerId="1242">
+         
+        <Page social="4">Ótimo, ótimo. Isso vai servir. Um pequeno aperto....&lt;BR&gt;&lt;BR&gt;Feito! Um caixote, exatamente como o intendente pediu.&lt;BR&gt;&lt;BR&gt;Só falta um passo.&lt;NEXTPAGEBUTTON&gt;"Entregando?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Correto! &lt;BR&gt;&lt;BR&gt;Um comerciante chamado Tonas acabou de sair para a plataforma do dirigível. Mas a carroça dele é bem lenta, então você provavelmente pode alcançá-lo.&lt;NEXTPAGEBUTTON&gt;"Só isso?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Nada mais.&lt;BR&gt;&lt;BR&gt;Obrigado!</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="6" villagerId="1242">
+         
+        <Page social="0">Você não tem o suficiente. Continue colhendo flores de brasa.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="7" prevId="5" villagerId="1534">
+         
+        <Page social="4">Eu não o vi. Ele simplesmente surgiu do nada e bateu na minha carroça.&lt;BR&gt;&lt;BR&gt;Os cavalos entraram em pânico e arrancaram os arreios.&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Talvez eu possa ajudar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Fico grato, mas o impacto rachou meus eixos. Preciso consertar a carroça primeiro.&lt;BR&gt;&lt;BR&gt;O problema é que não tenho nada para improvisar para o conserto.&lt;NEXTPAGEBUTTON&gt;"Então você precisa de madeira?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Sim! Aqueles ghilliedhus ou mycanars podem servir, mas não sem uma luta.&lt;BR&gt;&lt;BR&gt;Preciso de um punhado de galhos fortes. Veja o que pode fazer enquanto eu encontro minhas ferramentas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="8" prevId="7" villagerId="1534">
+         
+        <Page social="4">Eles se foram? &lt;NEXTPAGEBUTTON&gt;"Quem?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Esses malditos ursos atacaram a carroça! Eles comeram alguns suprimentos, quebraram meu assento e me fizeram sujar as calças antes que meus guardas os expulsassem! &lt;BR&gt;&lt;BR&gt;Preciso compensar a comida perdida.&lt;NEXTPAGEBUTTON&gt;"Será que carne de urso serve?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Ah! De fato, seria. Velik o abençoe!&lt;BR&gt;&lt;BR&gt;Obrigado, muito obrigado!&lt;BR&gt;&lt;BR&gt;Você me traz um pouco de carne e eu vou consertar esses eixos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="9" villagerId="1534">
+         
+        <Page social="0">Não posso fazer reparos com menos de cinco ramos. Você pode conseguir mais?</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="10" prevId="8" villagerId="1534">
+         
+        <Page social="4">&lt;PCNAME&gt;, você é o melhor! &lt;BR&gt;&lt;BR&gt;Eu vou levar esse carregamento para a doca do dirigível e comprar alguns cavalos novos.&lt;BR&gt;&lt;BR&gt;Obrigado. Que Velik o guie em sua caçada!</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="11" villagerId="1534">
+         
+        <Page social="0">O tempo está se esgotando, soldado.</Page>
+    
+    </Text>
+</QuestDialog>

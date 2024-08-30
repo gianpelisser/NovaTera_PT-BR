@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="437" id="1001" voiceTypeId="0">
+    <Text huntingZoneId="437" id="1" endSocial="0" prevId="0" villagerId="1001">
+         
+        <Page social="0">I'm sorry to go off without telling anyone, but I can fix the Tainted Gorge. With my own hands!</Page>
+    
+    </Text>
+    <Text id="2" endSocial="0">
+         
+        <Page social="0">Get ready!&lt;BR&gt;&lt;BR&gt;The enemy senses the device's magical power!&lt;TEXTBUTTON&gt;Activate the magical device.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Protect Sorcha.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</VillagerDialog>

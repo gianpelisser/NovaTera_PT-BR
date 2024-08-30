@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="22" id="28" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="222" id="100" prevId="0" villagerId="1003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="222" id="2" prevId="0" villagerId="1003">
+         
+        <Page social="5">Follow these stairs to the third floor. Ania should be waiting for you at the top.&lt;BR&gt;&lt;BR&gt;Go quickly and quietly!</Page>
+    
+    </Text>
+    <Text huntingZoneId="222" id="3" prevId="2" villagerId="1010">
+         
+        <Page social="5">An outsider? Interesting.&lt;BR&gt;&lt;BR&gt;This student uprising presents us with so many problems. Normally, I'd just liquify some entrails—that solves so many problems—but these are our wards.&lt;BR&gt;&lt;BR&gt;You certainly don't look useless. Let's put you to work.</Page>
+    
+    </Text>
+</QuestDialog>

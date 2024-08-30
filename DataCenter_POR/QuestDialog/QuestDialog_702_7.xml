@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="702" id="7" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="219" id="100" prevId="0" villagerId="7002">
+         
+        <Page social="0">Você ajudou Tagun a pastorear suas ovelhas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="2" prevId="0" villagerId="7002">
+         
+        <Page social="4">Prazer em vê-lo, amigo. A ovelha, hum, fugiu de mim. De novo. Você pode me ajudar a pastoreá-las? &lt;NEXTPAGEBUTTON&gt;&amp;quot;Claro.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="702" id="3" villagerId="7">
+         
+        <Page social="0">Baah-aah! Baaaah!</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="4" prevId="2" villagerId="7002">
+         
+        <Page social="4">Diga-me qual ovelha se comportou pior e eu lerei para ele a receita de bulgogi de cordeiro.&lt;BR&gt;&lt;BR&gt;Bem, obrigado por sua ajuda. Receba um símbolo de minha gratidão! &lt;NEXTPAGEBUTTON&gt;&amp;quot;Obrigado.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</QuestDialog>

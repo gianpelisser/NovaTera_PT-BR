@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="2" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="213" id="100" prevId="0" villagerId="1014">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="213" id="2" prevId="0" villagerId="1014">
+         
+        <Page social="4">Sei que você voltou aqui para ajudar a encontrar Elleon, mas vou ser direto: tivemos muitos sobreviventes em estado de choque voltando para cá... sobreviventes que deveriam ter ficado em suas camas de hospital.&lt;BR&gt;&lt;BR&gt;Não me entenda mal. Quero que você encontre Elleon, mas não quero que um dia eu esteja tentando encontrá-lo. Precisamos ter certeza de que você está totalmente recuperado e pronto para o combate.&lt;BR&gt;&lt;BR&gt;Fale com o &lt;font color='#660000'&gt;Centurião Barsabba&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;Se aquele velho cavalo de guerra disser que você está pronto para o serviço, isso é o suficiente para mim.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="3" prevId="2" villagerId="1106">
+         
+        <Page social="4">Todos nós queremos nos vingar dos demônios, mas desta vez estaremos preparados. Nada mais de tempestades surpresa ou aterrissagens desastrosas na praia.&lt;BR&gt;&lt;BR&gt;Você parece tão saudável quanto qualquer outro &lt;PCCLASS:lcase&gt;. Mas a aparência pode enganar.</Page>
+    
+    </Text>
+</QuestDialog>

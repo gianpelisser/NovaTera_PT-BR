@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="32" id="31" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="232" id="100" prevId="0" villagerId="1005">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="232" id="2" prevId="0" villagerId="1005">
+         
+        <Page social="4">O acampamento mercenário está de alguma forma recebendo reforços regulares, mas não sabemos como ou de onde eles estão vindo. Não importa quantos matemos, seus números não estão diminuindo.&lt;BR&gt;&lt;BR&gt;No entanto, não importa quantos mercenários existam, eles são inúteis sem seus comandantes.&lt;BR&gt;&lt;BR&gt;Só temos que descobrir onde os comandantes estão acampados. Aqui está uma lista de setores a serem explorados, mas você precisará da aprovação de Uzair primeiro.</Page>
+    
+    </Text>
+    <Text huntingZoneId="232" id="3" prevId="2" villagerId="1003">
+         
+        <Page social="4">Eu adoraria seguir em frente com o plano de Nashwa - é uma ótima ideia - mas os batedores que enviamos para aquela área não voltaram.&lt;BR&gt;&lt;BR&gt;Você serve, no entanto. Vá procurar o comandante deles, {@LinkCreature:32#20#Baalark}, e acabe com ele antes que esses mercenários tenham mais ideias.</Page>
+    
+    </Text>
+    <Text huntingZoneId="232" id="4" prevId="3" villagerId="1003">
+         
+        <Page social="4">O bastardo finalmente teve o que merecia - juro pelo sangue dos soldados que ele massacrou, sua cabeça ficará pendurada por uma semana para os corvos se banquetearem e seus mercenários considerarem.&lt;BR&gt;&lt;BR&gt;Todos ficarão felizes com a notícia. Mal posso esperar para contar a Nashwa que seu plano deu certo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="232" id="5" villagerId="1003">
+         
+        <Page social="0">Você encontrará o acampamento mercenário ao norte daqui. Não há tempo a perder.</Page>
+    
+    </Text>
+</QuestDialog>

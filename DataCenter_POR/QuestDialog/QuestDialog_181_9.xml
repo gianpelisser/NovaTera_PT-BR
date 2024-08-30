@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="181" id="9" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="181" id="100" prevId="0" villagerId="1022">
+         
+        <Page social="0">&lt;PCNAME&gt; entrou na Pedreira de Diranas e bebeu a poção de invisibilidade que Hagand forneceu.&lt;BR&gt;Enquanto estava escondido, &lt;PCNAME&gt;coletou Pedras da Relatividade bem debaixo do nariz dos demokrons e dos partas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="2" prevId="0" villagerId="1022">
+         
+        <Page social="4">Para onde está indo agora? Para a Pedreira Diranas, no Vale da Fome? &lt;BR&gt;&lt;BR&gt;Acredito que você deve estar em uma missão tola - ninguém jamais conseguiu tirar sequer uma faísca daquele teleportal.&lt;BR&gt;&lt;BR&gt;Mas você parece competente, então acredito que pelo menos voltará vivo. Boa sorte.&lt;NEXTPAGEBUTTON&gt;"Precisamos que esse teleportal funcione, ou estaremos todos condenados."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="3" prevId="2" villagerId="1018">
+         
+        <Page social="4">Hagand pede pedra!&lt;BR&gt;&lt;BR&gt;Muito ouro!&lt;BR&gt;&lt;BR&gt;Hagand experimenta, quer pedra!&lt;NEXTPAGEBUTTON&gt;"Posso confiar em você?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Confiar em Guikol? Talvez.&lt;BR&gt;&lt;BR&gt;Confiar em Hagand, com certeza.&lt;BR&gt;&lt;BR&gt;Confiar no ouro? Claro! &lt;NEXTPAGEBUTTON&gt;"Entendi."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="4" villagerId="1018">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="181" id="5" prevId="3" villagerId="1018">
+         
+        <Page social="4">Pedras, muitas! Pesadas demais!&lt;BR&gt;&lt;BR&gt;Esconder pedras, em uma pilha. Não muito longe!&lt;BR&gt;&lt;BR&gt;Obter ajuda, voltar, carregar pedras.&lt;NEXTPAGEBUTTON&gt;"Tudo bem."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="6" prevId="5" villagerId="2064">
+         
+        <Page social="4">(Este deve ser o monte de pedras de que Guikol lhe falou.)&lt;NEXTPAGEBUTTON&gt;"Parece ser este o lugar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</QuestDialog>

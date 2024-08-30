@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="602" id="3" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="78" id="100" prevId="0" villagerId="3002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="78" id="2" prevId="0" villagerId="3002">
+         
+        <Page social="4">Não que estejamos levando essa guerra para o lado pessoal, mas quero prejudicar os argons o máximo possível.&lt;BR&gt;&lt;BR&gt;Dei ordens a {@LinkCreature:248#3003#Vikhonul} para identificar os comandantes argons. Sua tarefa é acabar com eles.</Page>
+    
+    </Text>
+    <Text huntingZoneId="248" id="3" prevId="2" villagerId="3003">
+         
+        <Page social="4">Kalkzak queria alvos, então eu lhes dou alvos.&lt;BR&gt;&lt;BR&gt;Os três argons que marquei para morrer são responsáveis por múltiplas atrocidades contra as forças da federação.&lt;BR&gt;&lt;BR&gt;Isso não é vingança, é justiça.</Page>
+    
+    </Text>
+    <Text huntingZoneId="248" id="4" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="248" id="5" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="248" id="6" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="248" id="7" prevId="2" villagerId="3003">
+         
+        <Page social="4">Você pegou {@LinkCreature:48#25#Baruldur}! Ótimo trabalho.&lt;BR&gt;&lt;BR&gt;Nosso moral estava precisando de um impulso como esse. Vida longa aos Shariar!</Page>
+    
+    </Text>
+    <Text huntingZoneId="248" id="8" prevId="7" villagerId="3003">
+         
+        <Page social="4">{@LinkCreature:48#27#Nauti} está morto! Ótimo trabalho.&lt;BR&gt;&lt;BR&gt;Nosso moral estava precisando de um impulso como esse. Vida longa para os Shariar!</Page>
+    
+    </Text>
+    <Text huntingZoneId="248" id="9" prevId="8" villagerId="3003">
+         
+        <Page social="4">Você matou {@LinkCreature:48#28$$Mogmolor}! Ótimo trabalho.&lt;BR&gt;&lt;BR&gt;Nossa moral estava precisando de um impulso como esse. Vida longa aos Shariar!</Page>
+    
+    </Text>
+</QuestDialog>

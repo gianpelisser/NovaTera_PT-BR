@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="16" id="92" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="67" id="100" prevId="0" villagerId="1015">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="67" id="2" prevId="0" villagerId="1015">
+         
+        <Page social="0">Now it's time to kill ovoliths. Go to the Sinestral Manor and attack {@LinkCreature:16#2401#ovoliths}, {@LinkCreature:16#2402#lurking ovoliths}, and {@LinkCreature:16#2501#massive ovoliths}.&lt;BR&gt;&lt;BR&gt;Report to Gisa when your mission is complete.</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="3" prevId="2" villagerId="1006">
+         
+        <Page social="5">Excellent! Thank you for the work you've put in here.&lt;BR&gt;&lt;BR&gt;Please, take this.</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="4" villagerId="1006">
+         
+        <Page social="0">I need claws if I'm to offer payment.&lt;BR&gt;&lt;BR&gt;I do not reward the bringing of air.</Page>
+    
+    </Text>
+</QuestDialog>

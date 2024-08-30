@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="33" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="228" id="100" prevId="0" villagerId="1015">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="228" id="2" prevId="0" villagerId="1015">
+         
+        <Page social="9">Eurgh! Como é que você não está vomitando? O fedor não lhe assusta as narinas? &lt;BR&gt;&lt;BR&gt;Nosso intendente nos prometeu um caixote inteiro de roseira brava perfumada, mas ele fugiu para o Vale Retorcido. Se você puder recuperar alguns, mesmo que seja apenas uma pequena quantidade, seria de grande ajuda.</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="3" prevId="2" villagerId="1024">
+         
+        <Page social="5">(A caixa está quebrada. Restam algumas pétalas de rosa mosqueta. Você deve levá-la de volta para Bolga).</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="4" prevId="3" villagerId="1015">
+         
+        <Page social="8">Foi só isso que você encontrou? Não está me escondendo nada, está? Não tem graça. Esse fedor colore meus sonhos! &lt;BR&gt;&lt;BR&gt;Bem, se isso é tudo o que você tem, vai ter que servir!</Page>
+    
+    </Text>
+</QuestDialog>

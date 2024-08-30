@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="25" id="39" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="225" id="100" prevId="0" villagerId="1019">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="225" id="2" prevId="0" villagerId="1019">
+         
+        <Page social="4">Have you seen the sinister people roaming the basement? They're {@LinkCreature:25#3012#shurian champions}. Everyone thought they disappeared with the devan Dark Empire, but they're definitely here. We think they might be members of the Atel Akaad.&lt;BR&gt;&lt;BR&gt;Let's drive them to extinction for real this time! Take them out and bring back their emblems.</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="3" prevId="2" villagerId="1019">
+         
+        <Page social="4">Not bad at all! Even better, these emblems are full of mana, and can be used to activate the teleportal. Good going!</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="4" villagerId="1019">
+         
+        <Page social="0">Come on—I really need those emblems.</Page>
+    
+    </Text>
+</QuestDialog>

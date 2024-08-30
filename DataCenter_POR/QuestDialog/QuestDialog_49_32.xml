@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="49" id="32" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="76" id="100" prevId="0" villagerId="1022">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="76" id="2" prevId="0" villagerId="1022">
+         
+        <Page social="4">Há argons... coisas... que eu suspeito que afetam o desenvolvimento dos fragmentos de iteris. Preciso estudar um deles, mas não sou um venador. Você pode ir até a Plataforma de Teletransporte do Sul e me enviar uma mensagem quando for seguro?&lt;NEXTPAGEBUTTON&gt;"Como faço para enviar uma mensagem para você?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Os harmônicos da plataforma de teletransporte se alinham com os de Kanstria. Não poderia ser mais fácil.&lt;BR&gt;&lt;BR&gt;Quando a área estiver segura, me avise e eu irei para lá.</Page>
+    
+    </Text>
+    <Text huntingZoneId="249" id="3" prevId="2" villagerId="1101">
+         
+        <Page social="6">(Não há nenhum sinal óbvio de perigo.)&lt;BR&gt;&lt;BR&gt;(Você deve avisar Shirka.)</Page>
+    
+    </Text>
+    <Text huntingZoneId="249" id="4" prevId="3" villagerId="1016">
+         
+        <Page social="6">Surpresa! Não sou Shirka.&lt;BR&gt;&lt;BR&gt;Minhas desculpas, mas minhas ordens são para mantê-la viva a todo custo. Esta área é muito perigosa para ela, por isso vim em seu lugar.&lt;NEXTPAGEBUTTON&gt;"Tudo bem. Qual é o próximo passo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="6">Os {@Rgn:49002} ao sul daqui projetam feixes de energia em direção a estruturas orgânicas que estamos chamando de cápsulas de cyasmana.&lt;BR&gt;&lt;BR&gt;Shirka quer um fragmento de uma dessas cápsulas. Destrua uma delas, colete um pedaço e me devolva.</Page>
+    
+    </Text>
+    <Text huntingZoneId="249" id="5" prevId="4" villagerId="1016">
+         
+        <Page social="6">Parece perfeito. Shirka ficará satisfeito.&lt;BR&gt;&lt;BR&gt;Você pode usar a plataforma de teletransporte para voltar a Kanstria quando quiser.</Page>
+    
+    </Text>
+    <Text huntingZoneId="249" id="6" villagerId="1016">
+         
+        <Page social="0">Os casulos de cyasmana estão embaixo do {@Rgn:49002}. Basta seguir o feixe de luz no céu. Não há como errar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="76" id="7" prevId="5" villagerId="1022">
+         
+        <Page social="6">Essa amostra deve ser muito esclarecedora.&lt;BR&gt;&lt;BR&gt;Espero que você não tenha se esforçado muito.&lt;NEXTPAGEBUTTON&gt;"Bem, kelbas me emboscou."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Havia kelbas na cápsula? Isso é simplesmente... estranho.&lt;BR&gt;&lt;BR&gt;Talvez sejam eles que estejam por trás das melhorias nos fragmentos. Terei que pensar um pouco sobre isso. De qualquer forma, obrigado por sua ajuda!</Page>
+    
+    </Text>
+</QuestDialog>

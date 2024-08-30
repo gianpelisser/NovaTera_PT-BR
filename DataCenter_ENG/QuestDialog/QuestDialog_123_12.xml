@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="123" id="12" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="123" id="100" prevId="0" villagerId="220037">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="123" id="2" prevId="0" villagerId="220037">
+         
+        <Page social="0">My friend, I need you to create a distraction for me while I send some scouts into Iron Order territory. The order has several noctenium extractors not far from here. Removing the extractor keys should disable them, and they'll be forced to stop what they're doing and investigate. My scouts will slip by in the confusion.&lt;BR&gt;&lt;BR&gt;I'll reward you for each extractor key you bring back to me.</Page>
+    
+    </Text>
+    <Text huntingZoneId="123" id="3" prevId="2" villagerId="220037">
+         
+        <Page social="0">Well done, &lt;PCNAME&gt;! That was an extremely dangerous mission, and you carried it out with honor and distinction! The Enlightened Union is fortunate to have you among its ranks!&lt;BR&gt;&lt;BR&gt;Today, you truly earned the title &amp;quot;hero.&amp;quot;</Page>
+    
+    </Text>
+    <Text huntingZoneId="123" id="4" villagerId="220037">
+         
+        <Page social="0">May the light of reason shine upon us all!</Page>
+    
+    </Text>
+</QuestDialog>

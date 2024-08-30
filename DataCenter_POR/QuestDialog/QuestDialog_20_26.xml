@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="20" id="26" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="220" id="100" prevId="0" villagerId="1010">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="220" id="2" prevId="0" villagerId="1010">
+         
+        <Page social="4">Meu irmão foi um dos muitos mineiros que nunca voltaram para casa. Aqueles monstros... provavelmente já mataram todos eles. &lt;BR&gt;&lt;BR&gt;Mas pelo menos tenho a palheta dele para me lembrar dele. Gostaria de poder dar algo em troca para as famílias dos outros mineiros perdidos.&lt;BR&gt;&lt;BR&gt;Diga, se você encontrar algum mineiro... restos mortais... lá dentro, poderia recolher seus pertences? Sei que seria um grande conforto para suas famílias.&lt;BR&gt;&lt;BR&gt;Dê todos os objetos pessoais que encontrar para Nemuro no Posto Avançado de Utterdark. Ele cuidará do resto.&lt;BR&gt;&lt;BR&gt;Isso significaria muito para todos nós.</Page>
+    
+    </Text>
+    <Text huntingZoneId="220" id="3" prevId="2" villagerId="2002">
+         
+        <Page social="4">Foi muito gentil de sua parte, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;Eu entregarei esses itens aos enlutados quando voltar a Chebika.</Page>
+    
+    </Text>
+    <Text huntingZoneId="220" id="4" villagerId="2002">
+         
+        <Page social="0">Tenho compromissos a cumprir, &lt;PCCLASS:lcase&gt;. Se você tiver algo para enviar para Chebika comigo, é melhor que seja rápido.</Page>
+    
+    </Text>
+</QuestDialog>

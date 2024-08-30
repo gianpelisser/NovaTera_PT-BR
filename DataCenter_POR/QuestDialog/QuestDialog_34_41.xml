@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="34" id="41" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="234" id="100" prevId="0" villagerId="1012">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="234" id="2" prevId="0" villagerId="1012">
+         
+        <Page social="4">Eu poderia dar mais instruções pessoais a Shalim se não estivesse sempre preocupado em ser atacado por gigantes.&lt;BR&gt;&lt;BR&gt;Eles são ferozes e surgem do nada! &lt;BR&gt;&lt;BR&gt;Se você matar alguns {@LinkCreature:34#1000#icecleaver giants}, eu arrumarei tempo para dar aulas particulares a Shalim, mas não arriscarei a vida dele só para aliviar seu tédio.</Page>
+    
+    </Text>
+    <Text huntingZoneId="234" id="3" prevId="2" villagerId="1012">
+         
+        <Page social="4">Sua habilidade envergonha a minha, &lt;PCNAME&gt;. Fico feliz que a federação tenha soldados como você por aqui.&lt;BR&gt;&lt;BR&gt;Obrigado por diminuir os gigantes. Shalim ficará muito feliz!</Page>
+    
+    </Text>
+    <Text huntingZoneId="234" id="4" villagerId="1012">
+         
+        <Page social="0">Se os gigantes forem eliminados, os mineiros se beneficiarão muito. Todos prosperam, exceto os gigantes.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="24" id="33" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="224" id="100" prevId="0" villagerId="1019">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="224" id="2" prevId="0" villagerId="1019">
+         
+        <Page social="4">Estou arruinado! Aqueles bastardos kulkari pegaram minha carga, minhas carroças e quase conseguiram minha pele!&lt;BR&gt;&lt;BR&gt;Eles acham que venceram, mas eu ainda tenho ouro suficiente para colocar uma recompensa naqueles {@LinkCreature:24#6#Sand Wind kulkari}, {@LinkCreature:24#7#champions} e {@LinkCreature:24#8#prophets}, e depois passar para os {@LinkCreature:24#57#crushers}, {@LinkCreature:24#58#shamans} e {@LinkCreature:24#156#reavers}.&lt;BR&gt;&lt;BR&gt;Mata todos eles!</Page>
+    
+    </Text>
+    <Text huntingZoneId="224" id="3" prevId="2" villagerId="1019">
+         
+        <Page social="4">Agora me sinto vingado. Posso dormir com um pouco de tranquilidade. Obrigado.</Page>
+    
+    </Text>
+</QuestDialog>

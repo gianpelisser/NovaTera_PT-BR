@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="31" id="93" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="73" id="100" prevId="0" villagerId="1009">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="73" id="2" prevId="0" villagerId="1009">
+         
+        <Page social="0">The naga {@LinkCreature:31#20#deathreapers} and {@LinkCreature:31#21#colossi} have no fear. They'll walk right into our camps if they get the chance. Eliminate them and bring back their helmets as proof.&lt;BR&gt;&lt;BR&gt;Report to Leuwra when you're done.</Page>
+    
+    </Text>
+    <Text huntingZoneId="231" id="3" prevId="2" villagerId="1012">
+         
+        <Page social="4">Great job! Things will be a bit quieter now that there are fewer nagas to storm around the camps.</Page>
+    
+    </Text>
+    <Text huntingZoneId="231" id="4" villagerId="1012">
+         
+        <Page social="0">I'm only giving rewards if I see proof.</Page>
+    
+    </Text>
+</QuestDialog>

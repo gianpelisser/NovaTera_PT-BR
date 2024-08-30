@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="605" id="2" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="63" id="100" prevId="0" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="2" prevId="0" villagerId="3003">
+         
+        <Page social="4">Você é um colírio para os olhos. Estou me afogando em trabalho! &lt;BR&gt;&lt;BR&gt;Você quer ganhar um dinheirinho extra? &lt;NEXTPAGEBUTTON&gt;"Você sabe disso."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Excelente! {@LinkCreature:63#3002#Taratia} tem uma longa lista de tarefas simples que precisam ser feitas - bem, tão simples quanto qualquer outra coisa para ela.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="3002">
+         
+        <Page social="4">Ah, o momento é perfeito! Você pode sair em uma pequena missão de coleta para mim? &lt;BR&gt;&lt;BR&gt;Elthienne terá minha cabeça excitada se eu não fizer algumas coisas serem verificadas nesta lista.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="4" prevId="2" villagerId="3002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="5" prevId="2" villagerId="3002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="6" prevId="2" villagerId="3002">
+         
+        <Page social="5">Isso é imensamente útil. Você é incrível. Quero muito ser você quando crescer. Sério! &lt;BR&gt;&lt;BR&gt;Diga a {@LinkCreature:63#3003#Elthienne} o que eu disse. Não que ela vá acreditar. Ela acha que eu sou um completo idiota.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="7" villagerId="3002">
+         
+        <Page social="0">Fibra de Sylva? Sylva fiber, onde você está? Fibra de Sylva? Alguém? &lt;BR&gt;&lt;BR&gt;Não? Que droga. Acho que vou ficar por aqui e ver se aparece alguém.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="8" prevId="6" villagerId="3002">
+         
+        <Page social="5">Sim! É isso mesmo. Você é o melhor! &lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} tem algo para você. Aposto que você não consegue adivinhar o que é!</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="9" villagerId="3002">
+         
+        <Page social="0">Você está escondendo couro verde em algum lugar?</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="10" prevId="8" villagerId="3003">
+         
+        <Page social="4">Sua recompensa, como prometido. E uma bem merecida. Sei que trabalhar com a Taratia pode ser... estressante.</Page>
+    
+    </Text>
+</QuestDialog>

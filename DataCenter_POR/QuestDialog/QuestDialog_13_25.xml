@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="25" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="213" id="100" prevId="0" villagerId="1121">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="213" id="2" prevId="0" villagerId="1121">
+         
+        <Page social="4">Esse Dulari não pára de falar, não é mesmo? Deixe-me dizer algo importante, em vez de falar sobre "conhecimento puro". &lt;BR&gt;&lt;BR&gt;Sempre que você sai de uma área protegida, você é apenas mais um par de botas vazias. Eles fizeram com que você se concentrasse em alvos individuais, certo? Você precisa praticar contra o maior número possível de oponentes.&lt;BR&gt;&lt;BR&gt;Veja aqueles {@LinkCreature:13#1#piglings}, &lt;font color='#660000'&gt;ao sul&lt;/font&gt;? Excelente prática para o que está por vir na próxima elevação. Vou observar seus movimentos e avisá-lo quando estiver pronto para seguir em frente.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="3" prevId="2" villagerId="1121">
+         
+        <Page social="4">Foi uma bela carnificina. Não se sinta mal por isso - esses porcos aparecem do nada em um piscar de olhos. Dulari diz que, embora eles não sejam nativos da ilha, há algo nessa área que os faz prosperar.&lt;BR&gt;&lt;BR&gt;Olha, pegue isso. Não é muito, mas é perigoso lá fora.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="4" villagerId="1121">
+         
+        <Page social="0">É uma tarefa simples. Vá praticar o que aprendeu marcando &lt;font color='#660000'&gt;clean kills&lt;/font&gt;. Em {@LinkCreature:13#1#piglings}. Estou tentando ajudá-lo a ser um soldado melhor, pois estamos todos juntos nisso.</Page>
+    
+    </Text>
+</QuestDialog>

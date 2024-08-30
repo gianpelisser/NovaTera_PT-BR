@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StrSheet_AdminTool xmlns="https://vezel.dev/novadrop/dc/StrSheet_AdminTool" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_AdminTool StrSheet_AdminTool.xsd">
+    <String string="Forçar o desligamento" readableId="SMT_ADMINTOOL_DISCONNECT" />
+    <String string="Ressurreição" readableId="SMT_ADMINTOOL_RESURRECT" />
+    <String string="Convocar" readableId="SMT_ADMINTOOL_CALL" />
+    <String string="Teleporte" readableId="SMT_ADMINTOOL_TELEPORT" />
+    <String string="Digite as coordenadas do teleporte [continentId] [x] [y] [z]" readableId="SMT_ADMINTOOL_WRITE_POSITION" />
+    <String string="Incluir a localização atual no marcador. Digite o nome do marcador." readableId="SMT_ADMINTOOL_ADD_WRITE_BOOKMARKNAME" />
+    <String string="Salvo nos favoritos" readableId="SMT_ADMINTOOL_ADD_BOOKMARK" />
+    <String string="Remoção de NPCs" readableId="SMT_ADMINTOOL_REMOVENPC" />
+    <String string="Remoção de favoritos" readableId="SMT_ADMINTOOL_REMOVE_BOOKMARK" />
+    <String string="Digite o marcador para excluir e confirme." readableId="SMT_ADMINTOOL_WRITE_REMOVE_BOOKMARKNAME" />
+    <String string="Invisível" readableId="SMT_ADMINTOOL_TRANSPARENT" />
+    <String string="[GM]" readableId="SMT_ADMINTOOL_GMTITLE" />
+</StrSheet_AdminTool>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="121" id="5" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="121" id="100" prevId="0" villagerId="220020">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="121" id="2" prevId="0" villagerId="220020">
+         
+        <Page social="1">We need to collect as much noctenium energy as possible. Some of the research we're getting back suggests there's some important materials we can extract from it.&lt;BR&gt;&lt;BR&gt;If we get enough, we can collect it and repurpose it, probably into defenses. Bring me as much Arunic noctenium energy from the noctenium fluxes as you can.</Page>
+    
+    </Text>
+    <Text huntingZoneId="121" id="3" prevId="2" villagerId="220020">
+         
+        <Page social="0">Fantastic. Thank you. I'll get these to our researchers.</Page>
+    
+    </Text>
+    <Text huntingZoneId="121" id="4" villagerId="220020">
+         
+        <Page social="0">For the collective!</Page>
+    
+    </Text>
+</QuestDialog>

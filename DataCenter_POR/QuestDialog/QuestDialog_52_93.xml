@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="93" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="79" id="100" prevId="0" villagerId="1027">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="79" id="2" prevId="0" villagerId="1027">
+         
+        <Page social="5">Esses vermes thulsanianos estão mexendo nos controles da Fornalha Divina!&lt;BR&gt;&lt;BR&gt;Jogue esses {@LinkCreature:52#9006#Ksharan reavers}, {@LinkCreature:52#9007#ragers}, {@LinkCreature:52#5004#shadowweavers}, {@LinkCreature:52#5001#swordmasters}, {@LinkCreature:52#9008#dreadweavers} e {@LinkCreature:52#5002#archers} na lava!&lt;BR&gt;&lt;BR&gt;Apresentem-se ao Centurião Senelin no Gravewatch of the Exiled quando a missão estiver concluída.</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="3" prevId="2" villagerId="1045">
+         
+        <Page social="5">Bom trabalho, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Eu estava preocupado que esses idiotas profanos pudessem explodir a fornalha enquanto mexiam nos controles. Continue com seu bom trabalho.</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="4" villagerId="1045">
+         
+        <Page social="0">Acabem com esses idiotas ksharanos antes que eles danifiquem a Fornalha Divina!</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="56" id="35" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="256" id="100" prevId="0" villagerId="1022">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="256" id="2" prevId="0" villagerId="1022">
+         
+        <Page social="4">Os mekonaris ergueram dispositivos mágicos semelhantes a lápides.&lt;BR&gt;&lt;BR&gt;De vez em quando, um dos argons ou mekonaris cobre as coisas com sangue, então tenho certeza de que elas são importantes para o ritual deles. Você precisa de mais motivos para quebrar essas coisas?</Page>
+    
+    </Text>
+    <Text huntingZoneId="256" id="3" prevId="2" villagerId="1022">
+         
+        <Page social="4">Posso ver os restos dessas coisas? &lt;BR&gt;&lt;BR&gt;Oh, deuses, isso é horrível! Elas realmente foram projetadas para interromper a ligação das almas com o próprio Sonho! Eu não imaginava que isso fosse possível. Será que os mekonaris não percebem o que estão fazendo?</Page>
+    
+    </Text>
+    <Text huntingZoneId="256" id="4" villagerId="1022">
+         
+        <Page social="0">Destrua essas bombas de sangue, &lt;PCNAME&gt;. Tenho certeza de que isso prejudicará o ritual.</Page>
+    
+    </Text>
+</QuestDialog>

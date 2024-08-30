@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="25" id="93" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="66" id="100" prevId="0" villagerId="1008">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="66" id="2" prevId="0" villagerId="1008">
+         
+        <Page social="0">Mais para a Catedral das Trevas. Desta vez, você está atrás de {@LinkCreature:25#2051#cruel fimbrilisks}.&lt;BR&gt;&lt;BR&gt;Encontre-se com Culetta quando terminar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="3" prevId="2" villagerId="1009">
+         
+        <Page social="4">Você já deve ter imaginado que eles perceberiam sua chegada e fugiriam. Muito bem feito, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="4" villagerId="1009">
+         
+        <Page social="0">Você deve eliminar os fimbrilisks cruéis.</Page>
+    
+    </Text>
+</QuestDialog>

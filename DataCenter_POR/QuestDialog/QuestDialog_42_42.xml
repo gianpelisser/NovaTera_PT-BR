@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="42" id="42" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="242" id="100" prevId="0" villagerId="1035">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="242" id="2" prevId="0" villagerId="1035">
+         
+        <Page social="4">A naga conhecida como {@LinkCreature:42#5006#Maelsaress} é a oficial de mais alto escalão de Dagon. Ela carrega um livro: Os Atos de Dagon.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, não posso lhe dizer o quanto precisamos desse livro se quisermos derrotar os nagas e encontrar o tesouro deles. Você é a nossa maior esperança de conseguir fazer isso.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="3" prevId="2" villagerId="1035">
+         
+        <Page social="4">Derrotar Maelsaress foi a segunda melhor coisa que matar o próprio Dagon. Estamos todos maravilhados com o que você conseguiu realizar aqui.&lt;BR&gt;&lt;BR&gt;Entre nós dois, eu diria que você está indo longe na federação, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="4" villagerId="1035">
+         
+        <Page social="0">Matar {@LinkCreature:42#5006#Maelsaress} será um grande golpe para os nagas. Seria melhor fazer isso rapidamente.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="29" id="24" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="229" id="100" prevId="0" villagerId="1013">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="229" id="2" prevId="0" villagerId="1013">
+         
+        <Page social="5">Você já ouviu falar de tertas? É o principal ingrediente de um poderoso sedativo, que pode ser útil com criaturas ou pessoas - dependendo de suas necessidades, é claro.&lt;BR&gt;&lt;BR&gt;Ela cresce selvagem na área ao norte do acampamento, então os animais de lá tendem a ser um pouco mais dóceis do que os de outras áreas.&lt;BR&gt;&lt;BR&gt;Na verdade, se você trouxesse algumas frutas de volta, aposto que poderíamos plantá-las em outras áreas e acalmar alguns desses animais que são... digamos, excessivamente excitáveis?</Page>
+    
+    </Text>
+    <Text huntingZoneId="229" id="3" prevId="2" villagerId="1013">
+         
+        <Page social="5">Muito bem. Deixe-me pegar as sementes dessas frutas aqui.&lt;BR&gt;&lt;BR&gt;Está pronto. Agora, temos que esperar até que as sementes brotem. Plantá-las cedo demais não vai adiantar nada, e precisamos do poder dos espíritos para fazer as sementes brotarem.&lt;BR&gt;&lt;BR&gt;Se você levar essas sementes para o Erlon, ele poderá ajudá-lo a acelerar a germinação.</Page>
+    
+    </Text>
+    <Text huntingZoneId="229" id="4" villagerId="1013">
+         
+        <Page social="0">Os efeitos soporíferos dessa fruta precisam ser vistos para se acreditar. Traga-me algumas e eu lhe mostrarei!</Page>
+    
+    </Text>
+    <Text huntingZoneId="229" id="5" prevId="3" villagerId="1010">
+         
+        <Page social="5">Oh, as tertas possuem propriedades calmantes notáveis. Se ingeridas, as criaturas mais agressivas se transformam em mansos habitantes da floresta.&lt;BR&gt;&lt;BR&gt;No entanto, o processo requer a ajuda dos espíritos. Seja paciente. Elas brotarão em breve.</Page>
+    
+    </Text>
+</QuestDialog>

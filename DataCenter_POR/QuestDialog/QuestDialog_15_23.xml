@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="15" id="23" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="215" id="100" prevId="0" villagerId="1024">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="215" id="2" prevId="0" villagerId="1024">
+         
+        <Page social="5">Plantas estranhas brotaram aqui pouco antes de os demônios do sangue se instalarem. As flores têm uma semelhança impressionante com as pétalas de sangue.&lt;BR&gt;&lt;BR&gt;Talvez seja apenas uma coincidência, mas, para ter certeza, precisamos estudar as plantas. Você poderia fazer a gentileza de colher as flores para mim enquanto estiver fora?</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="3" prevId="2" villagerId="1024">
+         
+        <Page social="5">Sim, esta é a planta. As flores ficam vermelhas como sangue quando colhidas. Não parece haver nada de incomum nessas amostras, mas as aparências podem enganar.&lt;BR&gt;&lt;BR&gt;Aqui está um símbolo da gratidão de um humilde acadêmico.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="4" villagerId="1024">
+         
+        <Page social="0">Tenha cuidado com os demônios do sangue, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+</QuestDialog>

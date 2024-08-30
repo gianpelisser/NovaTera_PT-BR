@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="29" id="27" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="229" id="100" prevId="0" villagerId="1019">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="229" id="2" prevId="0" villagerId="1019">
+         
+        <Page social="5">It pains me to say this, but I must ask a terrible thing of you.&lt;BR&gt;&lt;BR&gt;I require the hearts of {@LinkCreature:29#2031#vinesplicer arachnens}. Normally, I seek not to kill, but if there's an external cause to their behavior, it's likely to be carried in the blood.&lt;BR&gt;&lt;BR&gt;Be merciful and quick, but please bring me their hearts.</Page>
+    
+    </Text>
+    <Text huntingZoneId="229" id="3" prevId="2" villagerId="1019">
+         
+        <Page social="5">A necessary evil, I assure you. While this research will take some time, it's not likely to require more samples.&lt;BR&gt;&lt;BR&gt;The expansion of the Valkyon Federation carries consequences. We carve out hillsides, cut down forests, infuse the world with magic and power. There are always consequences.</Page>
+    
+    </Text>
+    <Text huntingZoneId="229" id="4" villagerId="1019">
+         
+        <Page social="0">The death of the arachnens is balanced by the preservation of other lives. The request is not idle. Bring me the hearts, I entreat you.</Page>
+    
+    </Text>
+</QuestDialog>

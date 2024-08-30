@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="181" id="11" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">Enquanto lutava contra o Exército Imperial de Archdevan, &lt;PCNAME&gt; notou que eles estavam protegendo misteriosos carrinhos de minério.&lt;BR&gt;Sabendo que eles poderiam conter algo importante, &lt;PCNAME&gt; pegou amostras dos "devastones" que estavam lá dentro.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">(As elites partas parecem ser particularmente protetoras desses carrinhos de minério. O que há neles que é tão valioso?)</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="3" prevId="2" villagerId="3001">
+         
+        <Page social="4">Droga, mas você é muito esperto, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Qualquer outro teria simplesmente fugido e voltado mais tarde!&lt;BR&gt;&lt;BR&gt;Mostrarei essas pedras a Hagand. Talvez ele consiga descobrir para que elas servem.&lt;NEXTPAGEBUTTON&gt;"Com prazer."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</QuestDialog>

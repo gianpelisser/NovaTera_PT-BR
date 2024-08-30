@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="9" id="23" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="209" id="100" prevId="0" villagerId="1005">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="209" id="2" prevId="0" villagerId="1005">
+         
+        <Page social="4">I understand you soldiers have more important things to do, but the situation has gotten so bad, you must help me.&lt;BR&gt;&lt;BR&gt;The gulas inflict wounds that fester almost instantly. I need to make an ointment bandage to stop the wounds from becoming infected. I'll need &lt;FONT COLOR='#660000'&gt;Shetla Fibers&lt;/FONT&gt; to do it.&lt;BR&gt;&lt;BR&gt;You can find soft fiber all throughout the maze, or you can buy some from other people.</Page>
+    
+    </Text>
+    <Text huntingZoneId="209" id="3" prevId="2" villagerId="1005">
+         
+        <Page social="0">I know plant-gathering isn't exactly what the recruiter promised you, but you're saving your comrades' lives, &lt;PCNAME&gt;. Thanks!</Page>
+    
+    </Text>
+    <Text huntingZoneId="209" id="4" villagerId="1005">
+         
+        <Page social="0">I need more &lt;font color='#660000'&gt;shetla fiber&lt;/font&gt;, &lt;PCNAME&gt;. It's that simple.</Page>
+    
+    </Text>
+</QuestDialog>

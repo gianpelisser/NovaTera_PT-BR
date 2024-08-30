@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="33" id="28" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="233" id="100" prevId="0" villagerId="1027">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="233" id="2" prevId="0" villagerId="1027">
+         
+        <Page social="4">Eles não são tão ruins quanto aquelas bonecas horríveis, mas os monstros da Catacumba da Miséria e das Profundezas Sangrentas ainda não são nada de se espantar.&lt;BR&gt;&lt;BR&gt;Os {@LinkCreature:33#8#merciless}, {@LinkCreature:33#9#armored}, {@LinkCreature:33#58#relentless} e {@LinkCreature:33#59#pitiless disc reapers} conseguiram perseguir e matar vários soldados e pesquisadores, apesar do fato de que nada deveria se mover tão rápido em suas mãos.&lt;BR&gt;&lt;BR&gt;Você deve eliminá-los.</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="3" prevId="2" villagerId="1027">
+         
+        <Page social="4">Ah! Você realmente ri na cara da morte! &lt;BR&gt;&lt;BR&gt;Esses ceifadores de discos mataram tantos, colecionando suas insígnias como troféus! Já lutei nos campos de batalha mais sangrentos, mas nada faz meu sangue gelar como este lugar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="4" villagerId="1027">
+         
+        <Page social="0">Vamos lá! Você pode encontrar esses ceifadores de discos!</Page>
+    
+    </Text>
+</QuestDialog>

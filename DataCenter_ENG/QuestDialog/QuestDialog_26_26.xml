@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="26" id="26" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="226" id="100" prevId="0" villagerId="1106">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="226" id="2" prevId="0" villagerId="1106">
+         
+        <Page social="5">I need to keep the animals at bay long enough to reinforce the fences. My training covered a remedy that would drive animals away, but it needs normetal ore as a reagent.&lt;BR&gt;&lt;BR&gt;Your assistance would be much appreciated. I've no desire to harm animals unduly. Bring me the normetal and I'll put it to good use.</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="3" prevId="2" villagerId="1106">
+         
+        <Page social="5">Your haste is appreciated. I'll coat the ore with blood and...&lt;BR&gt;&lt;BR&gt;Phew! What a stench! No wonder animals avoid it.&lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;. The Forest Keepers will note your consideration.</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="4" villagerId="1106">
+         
+        <Page social="0">If we can't keep the animals away, I'll be forced to kill them. Help me spare their lives and bring me the normetal ore.</Page>
+    
+    </Text>
+</QuestDialog>

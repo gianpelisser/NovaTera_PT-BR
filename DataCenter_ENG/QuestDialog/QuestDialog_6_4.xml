@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="6" id="4" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="206" id="100" prevId="0" villagerId="1042">
+         
+        <Page social="0">Isla asked you to kill Dakarius—a Scion leader—and recover any clues about the location of the Scion stronghold. You killed Dakarius and recovered some Scion records that talk about using the teleportal.&lt;BR&gt;&lt;BR&gt;You used the teleportal and found yourself in the Bastion of Lok's armory—in Oblivion Woods! You talked with several cultists and learned that the Scions are stockpiling weapons and energy. They think they can resurrect Lok himself! You gave the information to Isla, who took it to Daven personally.</Page>
+    
+    </Text>
+    <Text huntingZoneId="206" id="2" prevId="0" villagerId="1042">
+         
+        <Page social="4">We managed to get a bit more information. Turns out the local leader is someone named {@LinkCreature:6#7041#Dakarius}. If you can get in there and get him out of the way, they'd be disorganized—vulnerable.&lt;BR&gt;&lt;BR&gt;It might also be a prime chance to gather intelligence on the Scions.&lt;NEXTPAGEBUTTON&gt;"I can do that."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Good. Dakarius is surely in charge of it. Once you've eliminated him, search the Altar of Anguish. If Dakarius doesn't have anything useful on him, the altar's the next logical location to find their secrets. I'm particularly interested as to the whereabouts of their stronghold.</Page>
+    
+    </Text>
+    <Text huntingZoneId="420" id="3" prevId="2" villagerId="1002">
+         
+        <Page social="0">Who are you? I haven't seen you around here before.&lt;BR&gt;&lt;BR&gt;Ah, you must've come through the teleportal. Are those federation fools still flailing about? Hah! They've no idea we're in Oblivion Woods.&lt;BR&gt;&lt;BR&gt;Things on our end go well. We're stocking arms and troops at a record pace and our arcanists are collecting energy at an unprecedented rate. We might be ahead of schedule!</Page>
+    
+    </Text>
+    <Text huntingZoneId="420" id="4" prevId="2" villagerId="1003">
+         
+        <Page social="0">Hey, keener! What took you so long? Tetra is furious!&lt;BR&gt;&lt;BR&gt;You don't want to anger her. Nothing says we have to gather vitae from others. Your blood can power the magic just as well....</Page>
+    
+    </Text>
+    <Text huntingZoneId="420" id="5" prevId="2" villagerId="1004">
+         
+        <Page social="0">Our forces gather in the Bastion of Lok, away from prying eyes, but soon we'll have no need to hide.&lt;BR&gt;&lt;BR&gt;Our illustrious 'ally' has kept his word and left our enemies vulnerable. If all goes well, Arcadia will be the first province to destabilize.&lt;BR&gt;&lt;BR&gt;Perhaps then our prayers will be answered and Lok will be resurrected. Imagine the eternal gratitude of a god!</Page>
+    
+    </Text>
+    <Text huntingZoneId="420" id="6" prevId="3" villagerId="1005">
+         
+        <Page social="4">Why the disgusting disguises? Never mind. Why are there two keeners here? I've never seen your dumb face before and the other one before looked even dumber. We need to start recruiting a better class of believers.&lt;NEXTPAGEBUTTON&gt;"What other one?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">What? You didn't come with her? Over near the teleportal. She's gawking at everything like it's a mystery to her how it came to be here.&lt;BR&gt;&lt;BR&gt;Get her where she needs to be. I don't have time to play nursemaid to you all! Blast and damnation, what do they see in you fools?</Page>
+    
+    </Text>
+    <Text huntingZoneId="420" id="7" prevId="6" villagerId="1006">
+         
+        <Page social="4">You took so long that I got worried, so I followed you. I watched you go through the teleportal. This place is incredible. What secrets does it hold?&lt;NEXTPAGEBUTTON&gt;"Here's what I've learned..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">They're gathering power? Why?&lt;BR&gt;&lt;BR&gt;You must be joking. Surely they don't actually think they can resurrect Lok! That's ludicrous. It would take an obscene amount of power—literally a divine amount—to do such a thing.&lt;BR&gt;&lt;BR&gt;Still, they're amassing arms for something. They certainly think a fight is coming. We must be ready. I'll report this to Daven. Wish me luck!</Page>
+    
+    </Text>
+</QuestDialog>

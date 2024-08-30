@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="233" id="1008" voiceTypeId="39">
+    <Text huntingZoneId="233" id="1" endSocial="14" prevId="0" villagerId="1008">
+         
+        <Page social="4">What drove Kaidun insane still lingers here. Beware anything and everything you come across. Getting wounded is the least of the evils that hounds us here. The Red Mage's curse is nothing to take lightly.</Page>
+    
+    </Text>
+    <Text id="2" endSocial="5">
+         
+        <Page social="0">Teleporting you to Thulsa's secret research facility is a simple task.&lt;TEXTBUTTON&gt;Revenge!&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Go to Thulsa's secret research facility.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</VillagerDialog>

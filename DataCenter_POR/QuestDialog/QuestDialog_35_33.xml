@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="35" id="33" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="235" id="100" prevId="0" villagerId="1018">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="235" id="2" prevId="0" villagerId="1018">
+         
+        <Page social="6">Cada um de nós tem muito a fazer, mas os suprimentos e equipamentos são escassos.&lt;BR&gt;&lt;BR&gt;Precisamos de asas de dracoloth para negociar em Elenea. Você pode reunir algumas para nós? &lt;BR&gt;&lt;BR&gt;Evite Grigelt - ele é uma força a ser reconhecida. Os outros não devem ser páreo para sua força.</Page>
+    
+    </Text>
+    <Text huntingZoneId="235" id="3" prevId="2" villagerId="1018">
+         
+        <Page social="18">Nosso muito obrigado a você por ir além do seu dever para o bem maior.</Page>
+    
+    </Text>
+    <Text huntingZoneId="235" id="4" villagerId="1018">
+         
+        <Page social="0">Precisamos dessas asas de dracoloth se quisermos trocá-las por suprimentos muito necessários.</Page>
+    
+    </Text>
+</QuestDialog>

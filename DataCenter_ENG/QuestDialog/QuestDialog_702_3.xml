@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="702" id="3" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="219" id="100" prevId="0" villagerId="7006">
+         
+        <Page social="0">You helped Millia work on a Farmer's Almanac.</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="2" prevId="0" villagerId="7006">
+         
+        <Page social="4">Freeholds is famous for its specialty produce. I would like to make a Farmer's Almanac to sell, but I am just too busy.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, would you help me with it? I'll credit you as a contributor. Think about it. This idea could catch on!&lt;NEXTPAGEBUTTON&gt;&amp;quot;Make me &amp;quot;co-author,&amp;quot; and I'm in.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">It's a deal. Here's what I've got so far. Just try to fill in the missing parts.&lt;BR&gt;&lt;BR&gt;The general structure is already complete, so all you really need to do is collect some fruits and vegetables and sketch them in on the proper pages.&lt;BR&gt;&lt;BR&gt;Thank you so much!</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="3" prevId="2" villagerId="7006">
+         
+        <Page social="4">How's it going with the almanac? Let's see what you've got so far...&lt;BR&gt;&lt;BR&gt;You finished it! That's great! Thank you so much. &lt;PCNAME&gt;, I’ll make sure you get listed as co-author.&lt;BR&gt;&lt;BR&gt;In the meantime, here: Let me give you this as a token of my appreciation. You should find it very useful.</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="4" villagerId="7006">
+         
+        <Page social="0">&lt;PCNAME&gt;, any progress on the almanac?</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="25" id="41" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="225" id="100" prevId="0" villagerId="1019">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="225" id="2" prevId="0" villagerId="1019">
+         
+        <Page social="4">The faults of the underlings are the responsibilities of their leaders. Let's apply this simple concept to the cultists. Make the {@LinkCreature:25#3031#primal Lokian darkweavers} and {@LinkCreature:25#3032#hallowed Lokian knights} pay for their and their subordinates' mistakes!</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="3" prevId="2" villagerId="1019">
+         
+        <Page social="4">Great job! Maybe more cultists will give up, knowing their leaders are fallible.</Page>
+    
+    </Text>
+</QuestDialog>

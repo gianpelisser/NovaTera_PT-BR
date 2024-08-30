@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="489" id="92" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="489" id="100" prevId="0" villagerId="1013">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="489" id="2" prevId="0" villagerId="1013">
+         
+        <Page social="0">Mission Orders&lt;BR&gt;&lt;BR&gt;Drive out the abysmal beings from Cultists' Refuge. &lt;BR&gt;&lt;BR&gt;Focus on the {@LinkCreature:489#3610#mercenary snipers}, {@LinkCreature:489#3705#mercenary defenders}, {@LinkCreature:489#3706#mercenary ravagers}, {@LinkCreature:489#3708#mercenary prelates}, and {@LinkCreature:489#3709#mercenary arcanists}.&lt;BR&gt;&lt;BR&gt;Report to Raubelak when mission is complete.</Page>
+    
+    </Text>
+    <Text huntingZoneId="489" id="3" prevId="2" villagerId="1013">
+         
+        <Page social="5">Great job. Please continue to help the federation to fully eradicate the Cultists.</Page>
+    
+    </Text>
+    <Text huntingZoneId="489" id="4" villagerId="1013">
+         
+        <Page social="0">I will not live under the same sky as the cultists. Wipe them out as fast as you can.</Page>
+    
+    </Text>
+</QuestDialog>

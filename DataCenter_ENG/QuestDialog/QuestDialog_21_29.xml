@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="21" id="29" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="221" id="100" prevId="0" villagerId="1048">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="221" id="2" prevId="0" villagerId="1048">
+         
+        <Page social="4">Many researchers were sent to &lt;FONT COLOR='#660000'&gt;Stone Pillar Relics&lt;/FONT&gt; to study the area, but they have all been chased away by the Kulkari positioned there.&lt;BR&gt;&lt;BR&gt;It is urgent that we secure the grounds there before the statue research can begin. If you could eliminate the {@LinkCreature:21#9#Crag Stalker ragers} and {@LinkCreature:21#10#Crag Stalker crushers} from the area, it would help us get started on the research sooner.</Page>
+    
+    </Text>
+    <Text huntingZoneId="221" id="3" prevId="2" villagerId="1048">
+         
+        <Page social="4">Thank you. We can finally concentrate on our research.</Page>
+    
+    </Text>
+</QuestDialog>

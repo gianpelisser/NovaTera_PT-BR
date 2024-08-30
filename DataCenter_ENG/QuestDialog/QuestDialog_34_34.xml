@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="34" id="34" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="234" id="100" prevId="0" villagerId="1015">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="234" id="2" prevId="0" villagerId="1015">
+         
+        <Page social="4">Other wendigos led by {@LinkCreature:34#5001#Kaijas}. He not willing to share shards.&lt;BR&gt;&lt;BR&gt;If you kill him, other wendigos might be willing to listen to Krrevaas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="234" id="3" prevId="2" villagerId="1015">
+         
+        <Page social="4">More important than strength is honor. Madyar has it. &lt;PCNAME&gt; has it also.&lt;BR&gt;&lt;BR&gt;Krrevaas will speak to wendigos. Will talk sharing the shards with your people.&lt;NEXTPAGEBUTTON&gt;"As will I."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Then we part as allies. When next we meet, Krrevaas hopes it will be as friends.</Page>
+    
+    </Text>
+    <Text huntingZoneId="234" id="4" villagerId="1015">
+         
+        <Page social="0">Both sides lose if the shards disappear. Time running out to work together.</Page>
+    
+    </Text>
+    <Text huntingZoneId="234" id="5" prevId="3" villagerId="1009">
+         
+        <Page social="4">You're returning to Icebase Stalker? I feel I must stay here and aid the wendigos. Will you thank Lalash for his concern?</Page>
+    
+    </Text>
+    <Text huntingZoneId="234" id="6" prevId="5" villagerId="1005">
+         
+        <Page social="4">All this fighting and misery over shards of crystal.&lt;BR&gt;&lt;BR&gt;Madyar's point is well taken, we are not the only tenants of this world. I will discuss your reports with the praetor. Perhaps policy can shift in time to avert disaster.&lt;BR&gt;&lt;BR&gt;Dismissed!</Page>
+    
+    </Text>
+</QuestDialog>

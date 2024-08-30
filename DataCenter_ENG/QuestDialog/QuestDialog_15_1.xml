@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="15" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">General Samael dispatched you to Popolion to investigate some wild rumors. Unchecked aggression raged across the landscape and bizarre aberrations attacked the locals.&lt;BR&gt;&lt;BR&gt;You encountered a pair of baraka scholars, Bedoram and Brohua, who investigated the source of the trouble. Bedoram traced the problem to a relic known as a dementalith, but warned you that such a device is a massive investment and that the danger was greater than it first appeared.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">Mission Orders&lt;BR&gt;&lt;BR&gt;Report to General Samael at once. All other orders rescinded.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="1137">
+         
+        <Page social="4">We're keeping it quiet, but Poporia is in trouble and Consul Dougal ordered me to have someone investigate.&lt;BR&gt;&lt;BR&gt;Head to Popolion and investigate the source of this disturbance, but take no chances. Whatever the problem, it mustn't spread to Val Aureum or other provinces. Do you understand me?&lt;BR&gt;&lt;BR&gt;If stopping this threat means burning Popolion to the ground, then that's what you do.</Page>
+    
+    </Text>
+    <Text huntingZoneId="67" id="4" prevId="3" villagerId="1007">
+         
+        <Page social="4">You're the federation agent? Not a moment too soon! The bad news? Trouble everywhere outside Popolion. Is it a disease? A curse? There's talk about vampir blood magic, but no one knows anything.&lt;BR&gt;&lt;BR&gt;The good news? Not much. Two baraka scholars have been braving the woods seeking answers, but it's dangerous out there. Find {@LinkCreature:215#1019#Brohua} at the camp southwest of here and see what you can do to help.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="5" prevId="4" villagerId="1019">
+         
+        <Page social="4">Outside aid at last! If nothing else, it's comforting to talk to someone sane! I am Bedoram's assistant at your service. Nothing much to report yet, although we have concluded that this is less a plague or curse than an...emanation? Hard to say. What we do know is that the longer you stay, the deeper it affects you.&lt;BR&gt;&lt;BR&gt;It has affected my colleagues, though I don't think they realize it yet.&lt;NEXTPAGEBUTTON&gt;"Where is Bedoram?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">He's moving our gear to a new camp northwest of here. We're mapping the strength field of the—oh, I won't bore you.&lt;BR&gt;&lt;BR&gt;I am more concerned with all the {@LinkCreature:15#6#disturbed constructs} near our camp. I've seen them slaughter travelers, but Prefect Paka's holding back his troops. He's convinced we're about to be overrun by farmers.&lt;BR&gt;&lt;BR&gt;Could you deal with them?</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="6" prevId="5" villagerId="1019">
+         
+        <Page social="4">I'm grateful to you.&lt;BR&gt;&lt;BR&gt;As soon as I pack up here, I will go back to Popolion.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, would you check in with Bedoram? He may need assistance. He headed north so he probably passed through Camp Retribution. Go there and ask Centurion {@LinkCreature:215#1010$$Amallen} if he knows of Bedoram's whereabouts.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="7" prevId="6" villagerId="1010">
+         
+        <Page social="4">What's that? You're looking for {@LinkCreature:215#1027$$Bedoram}?&lt;BR&gt;&lt;BR&gt;He stopped briefly on his way to Camp Redemption to get his equipment from the caravan.&lt;BR&gt;&lt;BR&gt;Go find him. Our lives may depend on the outcome of his research.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="8" prevId="7" villagerId="1027">
+         
+        <Page social="4">The caravan is long overdue. Whatever shall I do?&lt;BR&gt;&lt;BR&gt;Without my instruments, I cannot isolate the source of the troubles. Did Paka actually send the—&lt;BR&gt;&lt;BR&gt;Wait, what was that? A distress signal! The caravan is in trouble! You must help them! Quickly! I'll {@LinkCreature:215#1027#teleport you}.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="9" prevId="8" villagerId="1027">
+         
+        <Page social="4">Thanks be to Oriyn! You saved the caravan, and my equipment.&lt;BR&gt;&lt;BR&gt;Now, I must take field-strength readings, then cross-compare against our earlier data. Oh, and I'll need fresh chemical residue!&lt;BR&gt;&lt;BR&gt;Could you gather the chemical samples I need? The field causes physical changes over time. I must see the blood of the, ahem, {@LinkCreature:15#14#blood fiends}.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="10" prevId="9" villagerId="1027">
+         
+        <Page social="4">Excellent!&lt;BR&gt;&lt;BR&gt;I'm almost done entering the new data. Once I add this blood, the analyzer will determine the drift in your samples and compare them.&lt;BR&gt;&lt;BR&gt;If I am right, they'll be the same.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="11" villagerId="1027">
+         
+        <Page social="0">I still need that blood, &lt;PCNAME&gt;. Those {@LinkCreature:15#14#blood fiends} are the key.&lt;BR&gt;&lt;BR&gt;I've asked for the bare minimum sufficient for my tests!</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="12" prevId="10" villagerId="1027">
+         
+        <Page social="4">This isn't a plague, thankfully, nor is it a primal curse. It's...oh, no!&lt;BR&gt;&lt;BR&gt;Blood magic—and powerful blood magic at that. It would take a large group of arcanists to achieve this effect, or possibly an artifact.&lt;NEXTPAGEBUTTON&gt;"What kind of artifact?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Good question!&lt;BR&gt;&lt;BR&gt;I've seen similar effects before, but dementaliths were always involved. Yes. They're powerful enough to cause this.&lt;BR&gt;&lt;BR&gt;I'll tell you this, though. Whoever would deploy such a device must have an agenda, and be ruthless enough to pay any price for success.&lt;BR&gt;&lt;BR&gt;By Oriyn's light, what a mess.</Page>
+    
+    </Text>
+</QuestDialog>

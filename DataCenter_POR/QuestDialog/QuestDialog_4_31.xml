@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="31" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="204" id="100" prevId="0" villagerId="1136">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="204" id="2" prevId="0" villagerId="1136">
+         
+        <Page social="4">Até os espíritos mais simples da natureza se encolhem de medo quando os shurianos caminham pela terra. Não sei o que os traz tão ao sul, mas provavelmente é algo ainda pior do que um shuriano.&lt;BR&gt;&lt;BR&gt;Aposto que os shurianos não assustam os melhores &lt;PCCLASS:lcase&gt; da federação, não é mesmo? &lt;BR&gt;&lt;BR&gt;Mostre àqueles {@LinkCreature:4#2021#shurianos martelos inimigos} como nós jogamos, ao estilo de Castanica!</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="3" prevId="2" villagerId="1136">
+         
+        <Page social="4">Você voltou inteiro! Hum, não que eu tenha duvidado de você.&lt;BR&gt;&lt;BR&gt;Não. Definitivamente não há dúvida de minha parte!&lt;BR&gt;&lt;BR&gt;Vamos manter esses shurianos no norte, onde eles pertencem!</Page>
+    
+    </Text>
+</QuestDialog>

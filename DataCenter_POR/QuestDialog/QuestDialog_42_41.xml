@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="42" id="41" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="242" id="100" prevId="0" villagerId="1036">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="242" id="2" prevId="0" villagerId="1036">
+         
+        <Page social="5">Detectamos uma energia mágica alarmante no quadrante nordeste do terceiro nível. Francamente, isso parece estar além de qualquer coisa que os nagas possam fazer. Suspeito que sejam os mekonaris.&lt;BR&gt;&lt;BR&gt;Especificamente, suspeito das {@LinkCreature:42#910#bruxas mekonari}. Elas são espertas.&lt;BR&gt;&lt;BR&gt;Matar um número suficiente delas pode atrapalhar o que quer que estejam planejando. Podemos esperar que sim, pelo menos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="3" prevId="2" villagerId="1036">
+         
+        <Page social="5">Eu ainda não entendi. Certo, energia mágica. Muita. Como isso é igual a trazer de volta um deus-serpente morto? &lt;BR&gt;&lt;BR&gt;Bem, fizemos a melhor coisa. Obrigado, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+</QuestDialog>

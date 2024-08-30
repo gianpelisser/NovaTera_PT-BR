@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="16" id="42" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="216" id="100" prevId="0" villagerId="1012">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="216" id="2" prevId="0" villagerId="1012">
+         
+        <Page social="4">Why settle for vampirs when we could be having just as much fun with the {@LinkCreature:16#2203#violent dwarves}, eh? They've been attacking anyone who goes near the Twisted Plains.&lt;BR&gt;&lt;BR&gt;I know the vampirs are what's on everyone's mind, but the dwarves are also posing quite a threat to Popolion. Try to make a dent in them.</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="3" prevId="2" villagerId="1012">
+         
+        <Page social="5">Thank you, &lt;PCNAME&gt;. The villagers may never realize they're safer, but I appreciate the work you've done here.</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="4" villagerId="1012">
+         
+        <Page social="0">If we don't send any forces to deal with the dwarves, then we won't need to worry about whether or not the vampirs are coming, cause we'll be dead.</Page>
+    
+    </Text>
+</QuestDialog>

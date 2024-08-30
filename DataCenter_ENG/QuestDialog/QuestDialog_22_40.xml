@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="22" id="40" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="222" id="100" prevId="0" villagerId="1009">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="222" id="2" prevId="0" villagerId="1009">
+         
+        <Page social="5">Why is it every conversation about you has the word "corpse" in it?&lt;BR&gt;&lt;BR&gt;It doesn't matter. The {@LinkCreature:22#28#dark prelates} and the {@LinkCreature:22#27#ensorceled disc reapers} are guarding the chapel. I think there's a link between their altar and what's happened here, so you're going to kill them.&lt;BR&gt;&lt;BR&gt;These cultists are so over.</Page>
+    
+    </Text>
+    <Text huntingZoneId="222" id="3" prevId="2" villagerId="1009">
+         
+        <Page social="5">Thanks to you, the Scions of Lok have been crushed and this mindmagic thingy is weakened.&lt;BR&gt;&lt;BR&gt;Now, perhaps, we can begin retaking our home. All thanks to me.&lt;BR&gt;&lt;BR&gt;Well, and you.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StrSheet_HelpData xmlns="https://vezel.dev/novadrop/dc/StrSheet_HelpData" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_HelpData StrSheet_HelpData.xsd">
+    <String id="1000">Beginner Help</String>
+    <String id="1001">Basics</String>
+    <String id="1002">User Interface</String>
+    <String id="1003">Mini-Map</String>
+    <String id="1004">Location Links</String>
+    <String id="1005">Compass</String>
+    <String id="1011">Camera Distance</String>
+    <String id="1006">Chain Skill</String>
+    <String id="1007">Crystals</String>
+    <String id="1010">Quest Difficulty</String>
+    <String id="1012">Party Gathering</String>
+    <String id="1016">During Fights</String>
+    <String id="1025">Getting Around</String>
+    <String id="2000">Intermediate Help</String>
+    <String id="2008">Enchanting</String>
+    <String id="2013">Party Monsters</String>
+    <String id="2015">Medals</String>
+    <String id="2018">Crafting</String>
+    <String id="2019">Extracting</String>
+    <String id="2020">Glyphs</String>
+    <String id="2021">Battlegrounds</String>
+    <String id="2022">LFG</String>
+    <String id="2023">Brokerage</String>
+    <String id="2030">Inventory Space</String>
+    <String id="2031">Guild Creation</String>
+    <String id="2032">Nexus</String>
+    <String id="2033">Reputation/Daily Quests</String>
+    <String id="2034">Warrior's Edge</String>
+    <String id="2035">Fraywind Canyon</String>
+    <String id="2036">Raid</String>
+    <String id="2037">Champions' Skyring</String>
+    <String id="2100">Chat Commands</String>
+    <String id="2101">Emotes</String>
+    <String id="10101">Move your character with the &lt;font color="#FF0000"&gt;WASD&lt;/font&gt; keys. Talk to NPCs with the &lt;font color="#FF0000"&gt;F&lt;/font&gt; key.</String>
+    <String id="10201">Toggle between UI and Combat mode by using the &lt;font color="#FF0000"&gt;Alt&lt;/font&gt; key or the &lt;font color="#FF0000"&gt;Esc&lt;/font&gt; key.</String>
+    <String id="10301">Press N to show and hide the Mini-Map. You can use it to locate quest NPCs, party members and objectives.</String>
+    <String id="10401">Clicking a blue name in the Quest log highlights that monster or NPC on your Map.</String>
+    <String id="10501">The Compass in the upper right corner marks the location of many things, like nearby quest-givers.</String>
+    <String id="10511">You can set the maximum distance between the camera and your character with Camera Maximum Distance in the Options.</String>
+    <String id="10601">Some skills chain to others. When they appear on your UI, press the &lt;font color="#FF0000"&gt;Space bar&lt;/font&gt; to activate them.</String>
+    <String id="10701">1. Enhancement crystals can increase your abilities.</String>
+    <String id="10702">2. Equip red enhancement crystals to weapons, blue to armor, and green to rings and earrings.</String>
+    <String id="10801">1. Attuned equipment can be enchanted through the &lt;font color="#FF0000"&gt;Activities - Enchant&lt;/font&gt; menu.</String>
+    <String id="11001">The quest name's color and level number indicate its difficulty.</String>
+    <String id="11201">1. Party members can multiply gains by gathering at the same time from one resource.</String>
+    <String id="11202">2. The highest-skilled character determines the group's success in gathering.</String>
+    <String id="11301">Very tough monsters with skull icons in front of their names usually require a party to kill.</String>
+    <String id="11501">1. Medals are awarded for repeating quests and guild quests.</String>
+    <String id="11502">2. Exchange medals for equipment at the medal shops in major cities.</String>
+    <String id="11601">If a monster's eyes turn red, it is about to unleash a powerful attack.</String>
+    <String id="11801">1. Crafting workshops in major cities teach you to craft equipment from gathered materials.</String>
+    <String id="11802">2. First, buy crafting recipes and necessary reagents from merchants at the workshop.</String>
+    <String id="11803">3. There are 5 types of items that can be crafted: weapons, armor, alchemical consumables, etchings, and alliance consumables.</String>
+    <String id="11804">4. Crafting consumes production points. Five production points are restored every 5 minutes. Up to 1,440 production points are restored per day.</String>
+    <String id="11805">5. You can unlock the ability to craft artisan items once you level up your crafting skills and take a crafting test.</String>
+    <String id="11901">1. Most equipment can be broken down (extracted) into useful crafting materials.</String>
+    <String id="11902">2. Extraction recipes can be purchased at any general goods shop.</String>
+    <String id="11903">3. Your extraction skill must be as high as the equipment tier you're trying to extract.</String>
+    <String id="12001">1. Activate glyphs to improve your skills when you reach level 20.</String>
+    <String id="12003">2. Glyphs are activated through your Skills menu. You can activate as many glyphs as your glyph points allow.</String>
+    <String id="12004">3. If you are not sure about which glyph to select, use the [Recommended Glyph] feature.</String>
+    <String id="12101">1. At level 57, join in the battlegrounds through the battle gatekeepers in major cities.</String>
+    <String id="12102">2. Exchange the medals you earn for equipment and guild consumables.</String>
+    <String id="12201">1. Form parties quickly by using the LFG function (Y) on the Social menu.</String>
+    <String id="12202">2. Or join a party in progress.</String>
+    <String id="12203">3. Select party members from the LFG applicants in the Social menu.</String>
+    <String id="12301">1. Brokers in major cities or villages help you sell to or buy items from other players.</String>
+    <String id="12302">2. When buying, you can choose to bargain with the seller or buy the item outright.</String>
+    <String id="12303">3. Payments are settled and purchased items collected through the Brokered Sales and Purchases tabs.</String>
+    <String id="12501">Teleport masters in towns can teleport you back to outlying areas you have visited.</String>
+    <String id="13001">For a price, an Inventory manager can expand your inventory.</String>
+    <String id="13101">You can create a guild through guild managers in the major cities.</String>
+    <String id="13201">1. Nexuses appear at set intervals in Khanovar Front, Argonea, and Granarkus.</String>
+    <String id="13202">2. When a nexus appears, the world map and mini-map display its location.</String>
+    <String id="13203">3. Existing monsters vanish and eerie ones emerge. Kill three phases of nexus monsters to close it.</String>
+    <String id="13204">4. At Zulfikar Fortress, the Agnitor offer nexus quests, which earn you Agnitor reputation and credits.</String>
+    <String id="13301">1. Earn reputation at level 58 through quests from various factions. Profile &gt; Reputation shows your progress.</String>
+    <String id="13302">2. Faction NPCs have daily quests that award reputation and credits. Daily quests can't be repeated that day.</String>
+    <String id="13401">1. Some warrior skills increase their edge against foes.&lt;BR&gt;2. The edge count is displayed when edge skills are used.</String>
+    <String id="13402">3. The edge count is displayed below the enemy's HP.&lt;BR&gt;4. The edge resets if the warrior lets it lapse.</String>
+    <String id="13403">5. When the gauge changes color and displays an icon, exploit the edge for more damage. The greater the edge, the greater the damage.</String>
+    <String id="13501">1. Enchant eligible gear with bonuses through the enchanting button on the bottom left of your inventory or press [T].</String>
+    <String id="13502">2. Enchanting costs feedstock and alkahest of the same or higher tier. The interface will automatically select the optimal enchanting materials.</String>
+    <String id="13503">3. The more feedstock you invest, the better the chance of success. The UI will highlight the recommended materials for the item's next enchant bonus.</String>
+    <String id="13504">4. When you have an ample amount of enchanting materials, select Auto-Enchant to enchant automatically.</String>
+    <String id="13601">1. Starting at level 30, join in PvP battlegrounds through the battleground matching system.</String>
+    <String id="13602">2. Exchange the reputation credits you earn in battlegrounds for equipment and consumables.</String>
+    <String id="13701">1. Capture pyres and kill enemies to earn points.&lt;BR&gt;To capture a pyre, press the [F] key when near the pyre.</String>
+    <String id="13704">2. Some monsters in the battleground give a buff or team points for killing them.</String>
+    <String id="13706">3. Zenobic Crystals in Fraywind Canyon will increase your mount speed.</String>
+    <String id="13801">1. Unless they're in a dungeon, party leaders can use raid management (B) to create a raid.</String>
+    <String id="13802">2. While in a raid, you can't progress quests except raid quests. And rewards from hunting greatly decrease.</String>
+    <String id="13803">3. Raid leaders can change the party groupings.</String>
+    <String id="13804">4. Ready checks will help ensure everyone is ready to go.</String>
+    <String id="13805">5. Raid leaders can grant invite power so others can invite players to the raid.</String>
+    <String id="13806">6. Each raid member can customize their view of buffs and debuffs for each party as they like.</String>
+    <String id="13901">1. Champions' Skyring is a timed 3v3 battleground where teams need only wipe out the other team.</String>
+    <String id="13902">2. If the entire opposing team is dead, you win the round. Win two out of three rounds to win the battle.</String>
+    <String id="13903">3. When time is up, whoever has the most survivors wins. Teams with the same number of survivors when time is up tie.</String>
+    <String id="110001">&lt;Font color="#038bbe"&gt;&amp;lt;Chat&amp;gt;&lt;/FONT&gt;&lt;BR&gt;- /Say (/s): Chat to nearby players.&lt;BR&gt;- /Area (/a): Chat in the area channel.&lt;BR&gt;- /Trade (/t): Trade channel.&lt;BR&gt;- /Party (/p): Chat to your party.&lt;BR&gt;- /Raid (/ra) (/i): Chat to the raid.&lt;BR&gt;- /Whisper(/w) [OO]: Whisper OO privately.&lt;BR&gt;- /alliance (/f): Chat in your alliance's channel.&lt;BR&gt;- /echelon (/l): Chat in the alliance leadership channel.&lt;BR&gt;- /exarch (/x): Send an exarch notice. (Available only for exarchs.)&lt;BR&gt;- /notice (/n): Send a raid/party notice. (Available only for raid/party leaders.)&lt;BR&gt;&lt;Font color="#038bbe"&gt;&amp;lt;Party&amp;gt;&lt;/FONT&gt;&lt;BR&gt;- /invite [OO]: Invite OO to your party.&lt;BR&gt;- /drop: Leave the party.&lt;BR&gt;- /kick [OO]: Kick OO from your party. &lt;BR&gt;- /disband: Disband your party.&lt;BR&gt;- /leader [OO]: Make OO the party leader.&lt;BR&gt;- /lfg (/u) : Post Looking for Group message.&lt;BR&gt;- /notice(/n): Party leader message to take notice.</String>
+    <String id="110002">&lt;Font color="#038bbe"&gt;&amp;lt;Guild&amp;gt;&lt;/FONT&gt;&lt;BR&gt;- /guildlist : View the guild list.&lt;BR&gt;- /ginvite [OO]: Invite OO to the guild.&lt;BR&gt;- /gquit : Leave the guild.&lt;BR&gt;&lt;Font color="#038bbe"&gt;&amp;lt;Friend&amp;gt;&lt;/FONT&gt;&lt;BR&gt;- /friendlist : View the friend list.&lt;BR&gt;- /friend [OO] : Add OO as a friend.&lt;BR&gt;- /block [OO] : Block OO.&lt;BR&gt;- /unblock [OO] : Unblock OO.&lt;BR&gt;&lt;Font color="#038bbe"&gt;&amp;lt;Dueling&amp;gt;&lt;/FONT&gt;&lt;BR&gt;- /duel [OO] : Challenge OO to a duel.&lt;BR&gt;- /yield : Concede the duel.&lt;BR&gt;</String>
+    <String id="110003">&lt;Font color="#038bbe"&gt;&amp;lt;Chat channels&amp;gt;&lt;/FONT&gt;&lt;BR&gt;- /make [channel] [nnnn] : Create a private chat channel (up to 8 letters) with a 4-digit numerical password.&lt;BR&gt;- /chat [channel] [nnnn] : Join the [channel] private chat.&lt;BR&gt;- /leave [channel] : Leave the named channel.&lt;BR&gt;- /1 : Chat in your first private chat channel.&lt;BR&gt;&lt;Font color="#038bbe"&gt;&amp;lt;Misc.&amp;gt;&lt;/FONT&gt;&lt;BR&gt;- /follow [OO] : Follow OO.&lt;BR&gt;- /roll [x] : Roll a random number from 1-x.&lt;BR&gt;- /reset : Reset all instance dungeons.&lt;BR&gt;- Ctrl + Z : Hide/show all game UI.&lt;BR&gt;</String>
+    <String id="110101">&lt;Font color="#038bbe"&gt;&amp;lt;Emotes&amp;gt;&lt;/FONT&gt;&lt;BR&gt;- /hi /hello /wave&lt;BR&gt;- /bow /greet /formal&lt;BR&gt;- /happy /laugh /lol&lt;BR&gt;- /sad /cry /sob&lt;BR&gt;- /win /cheer /victory&lt;BR&gt;- /dance&lt;BR&gt;- /taunt /bringit /comeon&lt;BR&gt;- /clap /applaud&lt;BR&gt;- /beg /sorry&lt;BR&gt;- /think /ponder /hmm&lt;BR&gt;- /love&lt;BR&gt;- /charge /attack&lt;BR&gt;- /point /there&lt;BR&gt;</String>
+    <String id="110102">&lt;BR&gt;- /shy /blush&lt;BR&gt;- /mad /angry /anger&lt;BR&gt;- /sit&lt;BR&gt;- /em [message]: Follow /e with a message to chat.</String>
+</StrSheet_HelpData>

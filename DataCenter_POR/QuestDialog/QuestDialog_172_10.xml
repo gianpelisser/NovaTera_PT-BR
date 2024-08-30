@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="172" id="10" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="172" id="100" prevId="0" villagerId="1006">
+         
+        <Page social="0">Durante sua conversa com os Khiria, Madat desaparece e você é acusado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="2" prevId="0" villagerId="1006">
+         
+        <Page social="4">Hatishna?&lt;BR&gt;&lt;BR&gt;Isso não passa de uma fábula. Nós somos os Khiria! Não precisamos de um escolhido para nos levar à vitória!&lt;BR&gt;&lt;BR&gt;Tudo bem, "escolhido". Os aracnídeos perseguem nosso acampamento. Livre-nos deles e conversaremos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="3" prevId="2" villagerId="1006">
+         
+        <Page social="4">Demônio traiçoeiro! Em vez de ganhar nossa confiança, você sequestrou Madat! Onde ele está?&lt;BR&gt;&lt;BR&gt;Meus soldados vão descascar seus olhos como uvas por essa traição!&lt;NEXTPAGEBUTTON&gt;"Eu posso encontrar Madat!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Tudo bem. Devolva Madat para nós, vivo, e talvez eu acredite em você.&lt;BR&gt;&lt;BR&gt;Mas esteja avisado: se ele estiver morto ou apontar o dedo para você, você será comida para os aracnídeos nesse dia.</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="4" prevId="3" villagerId="1010">
+         
+        <Page social="4">(Alguns pedaços brilhantes de concha revestem o interior da caixa).</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="5" prevId="4" villagerId="1011">
+         
+        <Page social="4">(Um muco pungente mancha os cacos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="6" prevId="5" villagerId="1006">
+         
+        <Page social="4">Que horror! Esse fedor! Eu o reconheceria em qualquer lugar.&lt;BR&gt;&lt;BR&gt;Devemos voltar nossos olhos para o guwangi.</Page>
+    
+    </Text>
+</QuestDialog>

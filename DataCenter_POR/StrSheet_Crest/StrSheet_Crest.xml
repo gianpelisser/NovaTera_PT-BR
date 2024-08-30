@@ -1,0 +1,748 @@
+<StrSheet_Crest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Crest StrSheet_Crest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Crest">
+    <String id="21000" name="Rolamento Evasivo Rápido" tooltip="$prob de chance de aumentar a Velocidade de Ataque em 15% por 10 segundos." skillName="Evasive Roll" />
+    <String id="21001" name="Retaliação Energética" tooltip="Diminui o tempo de recarga em $value." skillName="Retaliate" />
+    <String id="21002" name="Morte energética vinda do alto" tooltip="Diminui o tempo de recarga em $value." skillName="Death From Above" />
+    <String id="21003" name="Teste" tooltip="Sem efeito" skillName="Mangle" />
+    <String id="21004" name="Ataque combinado ameaçador" tooltip="Fornece aggro adicional de $value." skillName="Combo Attack" />
+    <String id="21005" name="Torrent de golpes ameaçadores" tooltip="Fornece aggro adicional de $value." skillName="Torrent of Blows" />
+    <String id="21006" name="Chuva de golpes com poder" tooltip="Aumenta o dano da habilidade em $value." skillName="Rain of Blows" />
+    <String id="21007" name="Golpe de salto fortalecido" tooltip="Aumenta o dano da habilidade em $value." skillName="Leaping Strike" />
+    <String id="21008" name="Lâmina de veneno virulento" tooltip="Aumenta o dano de veneno em $value." skillName="Poison Blade" />
+    <String id="21009" name="Postura defensiva aterrada" tooltip="Aumenta a resistência em $value." skillName="Defensive Stance" />
+    <String id="21010" name="Retaliar com poder" tooltip="Aumenta o dano da habilidade em $value." skillName="Retaliate" />
+    <String id="21011" name="Torrent de golpes influentes" tooltip="Reduz o custo de MP da Chuva de Golpes em 88 por alguns segundos." skillName="Torrent of Blows" />
+    <String id="21012" name="Retaliação influente" tooltip="Reduz o custo de MP do Leaping Strike em 75 por alguns segundos." skillName="Retaliate" />
+    <String id="21013" name="Ataque Combo Espirituoso" tooltip="Aumenta a reposição de MP em $value." skillName="Combo Attack" />
+    <String id="21014" name="Morte rápida vinda do alto" tooltip="$prob de chance de aumentar a Velocidade de Ataque em 15% por 10 segundos." skillName="Death From Above" />
+    <String id="21015" name="Rolagem evasiva interminável" tooltip="Reduz o custo de RE em 100." skillName="Evasive Roll" />
+    <String id="21016" name="Grito de guerra energético" tooltip="Diminui o tempo de recarga em $value." skillName="Battle Cry" />
+    <String id="21017" name="Chuva de golpes restauradores" tooltip="Restaura imediatamente $value HP." skillName="Rain of Blows" />
+    <String id="21018" name="Golpe Sanativo Combativo" tooltip="Diminui o consumo de HP em $value." skillName="Combative Strike" />
+    <String id="21019" name="Corte de Vórtice Potencializado" tooltip="Aumenta o dano da habilidade em $value." skillName="Vortex Slash" />
+    <String id="21020" name="Corte de carregamento energético" tooltip="Diminui o tempo de recarga em $value." skillName="Charging Slash" />
+    <String id="21021" name="Teste" tooltip="Sem efeito" skillName="Assault Stance" />
+    <String id="21022" name="Fúria crescente e persistente" tooltip="$prob chance de eliminar o tempo de espera." skillName="Rising Fury" />
+    <String id="21023" name="Agressor energético de fumaça" tooltip="Diminui o tempo de recarga em $value." skillName="Smoke Aggressor" />
+    <String id="21024" name="Backstab Lacerante" tooltip="Aumenta a duração do efeito em $value." skillName="Backstab" />
+    <String id="21025" name="Aposta mortal energética" tooltip="Diminui o tempo de recarga em $value." skillName="Deadly Gamble" />
+    <String id="21026" name="Balcão de escalonamento capacitado" tooltip="Aumenta o dano da habilidade em $value." skillName="Staggering Counter" />
+    <String id="21027" name="Cascata brilhante de atordoamentos" tooltip="Reduz o custo de MP em $value." skillName="Cascade of Stuns" />
+    <String id="21028" name="Ataque combativo com ligação elétrica" tooltip="Aumenta o dano da Fúria Crescente em 20% por alguns segundos." skillName="Combative Strike" />
+    <String id="21029" name="Slash de carregamento influente" tooltip="Reduz o custo de MP da Poison Blade em 50 por alguns segundos." skillName="Charging Slash" />
+    <String id="21030" name="Cascata influente de atordoamentos" tooltip="Reduz o custo de MP da Chuva de Golpes em 88 por alguns segundos." skillName="Cascade of Stuns" />
+    <String id="21031" name="Cascata de atordoamentos com ligação elétrica" tooltip="Aumenta o dano da Chuva de golpes em 20% por alguns segundos." skillName="Cascade of Stuns" />
+    <String id="21032" name="Cascata energética de atordoamentos" tooltip="Diminui o tempo de recarga em $value." skillName="Cascade of Stuns" />
+    <String id="21033" name="Fúria crescente entorpecente" tooltip="$prob de chance de reduzir a Velocidade de Ataque do oponente em 15% por 7 segundos." skillName="Rising Fury" />
+    <String id="21034" name="Vinculação de torrentes de golpes" tooltip="$prob de chance de imobilizar o alvo por 4 segundos." skillName="Torrent of Blows" />
+    <String id="21035" name="Corte de carregamento com link de energia" tooltip="Aumenta o dano do Golpe Combativo em 20% por alguns segundos." skillName="Charging Slash" />
+    <String id="21036" name="Punhalada Energética pelas Costas" tooltip="Diminui o tempo de recarga em $value." skillName="Backstab" />
+    <String id="21037" name="Contador de escalonamento persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Staggering Counter" />
+    <String id="21038" name="Balcão de escalonamento energético" tooltip="Diminui o tempo de recarga em $value." skillName="Staggering Counter" />
+    <String id="21039" name="Ataque combinado de sabotagem" tooltip="$prob de chance de atordoar o alvo por 2 segundos." skillName="Combo Attack" />
+    <String id="21040" name="Grito de guerra apressado" tooltip="Aumenta a velocidade de lançamento em $value." skillName="Battle Cry" />
+    <String id="21041" name="Grito de guerra da sorte" tooltip="Aumenta a chance do efeito em $value." skillName="Battle Cry" />
+    <String id="21042" name="Grito de guerra ameaçador" tooltip="Fornece aggro adicional de $value." skillName="Battle Cry" />
+    <String id="21043" name="Golpe combativo persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Combative Strike" />
+    <String id="21044" name="Ataque combativo com ligação elétrica" tooltip="Aumenta o dano do Leaping Strike em 35% por alguns segundos." skillName="Combative Strike" />
+    <String id="21045" name="Corte de Vórtice Persistente" tooltip="$prob chance de eliminar o tempo de espera." skillName="Vortex Slash" />
+    <String id="21046" name="Rolo Evasivo Restaurador" tooltip="Restaura imediatamente 3% do HP total quando você é atingido pela Lâmina Venenosa." skillName="Evasive Roll" />
+    <String id="21047" name="Teste" tooltip="Sem efeito" skillName="Death From Above" />
+    <String id="21048" name="Salto rápido" tooltip="Aumenta a velocidade de ataque de Pounce em $value." skillName="Pounce" />
+    <String id="21049" name="Pulo Energético" tooltip="Diminui o tempo de recarga em $value." skillName="Pounce" />
+    <String id="21050" name="Corte transversal persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Traverse Cut" />
+    <String id="21051" name="Corte transversal brilhante" tooltip="Reduz o custo de MP em $value." skillName="Traverse Cut" />
+    <String id="21052" name="Saque da lâmina fortalecido" tooltip="Aumenta o dano da habilidade em $value." skillName="Blade Draw" />
+    <String id="21053" name="Desenho de lâmina brilhante" tooltip="Reduz o custo de MP em $value." skillName="Blade Draw" />
+    <String id="21054" name="Saque persistente da lâmina" tooltip="$prob chance de eliminar o tempo de espera." skillName="Blade Draw" />
+    <String id="21064" name="Chuva de golpes com poder" tooltip="Aumenta o dano da habilidade em $value." skillName="Rain of Blows" />
+    <String id="21065" name="Morte energética vinda do alto" tooltip="Diminui o tempo de recarga em $value." skillName="Death From Above" />
+    <String id="21066" name="Chuva de golpes restauradores" tooltip="Restaura imediatamente $value HP." skillName="Rain of Blows" />
+    <String id="21067" name="Rolagem evasiva interminável" tooltip="Reduz o custo de RE em 100." skillName="Evasive Roll" />
+    <String id="21068" name="Postura defensiva aterrada" tooltip="Aumenta a resistência em $value." skillName="Defensive Stance" />
+    <String id="21069" name="Golpe Sanativo Combativo" tooltip="Diminui o consumo de HP em $value." skillName="Combative Strike" />
+    <String id="21070" name="Ataque Combo Espirituoso" tooltip="Aumenta a reposição de MP em $value." skillName="Combo Attack" />
+    <String id="21071" name="Agressor energético de fumaça" tooltip="Diminui o tempo de recarga em $value." skillName="Smoke Aggressor" />
+    <String id="21072" name="Ataque combativo com ligação elétrica" tooltip="Aumenta o dano do Leaping Strike em 45% por alguns segundos." skillName="Combative Strike" />
+    <String id="21073" name="Corte de carregamento com link de energia" tooltip="Aumenta o dano do Golpe Combativo em 50% por alguns segundos." skillName="Charging Slash" />
+    <String id="21074" name="Grounded Death From Above" tooltip="Aumenta a resistência em 25 por 8 segundos." skillName="Death From Above" />
+    <String id="21075" name="Punhalada nas costas vantajosa" tooltip="Gera a borda adicional $value." skillName="Backstab" />
+    <String id="21076" name="Cascata de atordoamentos potencializada" tooltip="Aumenta o dano da habilidade em $value." skillName="Cascade of Stuns" />
+    <String id="21077" name="Cascata persistente de atordoamentos" tooltip="Aumenta a duração do efeito em $value." skillName="Cascade of Stuns" />
+    <String id="21078" name="Contador de escalonamento com link de energia" tooltip="Aumenta o dano da Cascata de Atordoamentos em 10% por alguns segundos." skillName="Staggering Counter" />
+    <String id="21080" name="Foice afiada" tooltip="Aumenta o bônus de dano de borda em 25%." skillName="Scythe" />
+    <String id="21081" name="Backstab Persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Backstab" />
+    <String id="21082" name="Salto rápido" tooltip="Aumenta a velocidade de ataque de Pounce em $value." skillName="Pounce" />
+    <String id="21083" name="Lâmina de veneno cumulativa" tooltip="O dano da Poison Blade se acumula até 2 vezes." skillName="Poison Blade" />
+    <String id="21084" name="Desenho de lâmina vantajoso" tooltip="Gera um Edge adicional de $value por acerto." skillName="Blade Draw" />
+    <String id="21085" name="Corte de Colheita Potencializada" tooltip="Aumenta o dano da habilidade em $value." skillName="Reaping Slash" />
+    <String id="21086" name="Parry cruzado bombeado" tooltip="$prob chance de aumentar o poder em 15% por 10 segundos em um bloqueio bem-sucedido." skillName="Cross Parry" />
+    <String id="21087" name="Flanker de fumaça ameaçador" tooltip="Fornece aggro adicional de $value." skillName="Smoke Flanker" />
+    <String id="21088" name="Poderosa espada de ligação" tooltip="Aumenta o dano da habilidade em $value." skillName="Binding Sword" />
+    <String id="21089" name="Poderosa espada de ligação" tooltip="Aumenta o dano da habilidade em $value." skillName="Binding Sword" />
+    <String id="21090" name="Espada de Ligação Energética" tooltip="Diminui o tempo de recarga em $value." skillName="Binding Sword" />
+    <String id="21091" name="Aposta mortal persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Deadly Gamble" />
+    <String id="21092" name="Espada de Ligação Energética" tooltip="Diminui o tempo de recarga em $value." skillName="Binding Sword" />
+    <String id="22000" name="Bombado Fique firme" tooltip="$prob chance de aumentar o poder em 15% por 10 segundos em um bloqueio bem-sucedido." skillName="Stand Fast" />
+    <String id="22001" name="Suporte com ligação elétrica rápida" tooltip="Aumenta o dano do Shield Counter em 25% por alguns segundos." skillName="Stand Fast" />
+    <String id="22002" name="Influenciador Stand Fast" tooltip="Reduz o custo de MP do Shield Counter em 115 por alguns segundos." skillName="Stand Fast" />
+    <String id="22003" name="Ataque combinado ameaçador" tooltip="Fornece aggro adicional de $value." skillName="Combo Attack" />
+    <String id="22004" name="Ameaça Desafio Grito" tooltip="Fornece aggro adicional de $value." skillName="Challenging Shout" />
+    <String id="22005" name="Brilhante grito desafiador" tooltip="Reduz o custo de MP em $value." skillName="Challenging Shout" />
+    <String id="22006" name="Desacelerar Enfurecer" tooltip="Diminui a velocidade de movimento do oponente em 50% por 5 segundos." skillName="Infuriate" />
+    <String id="22007" name="Ataque com poder" tooltip="Aumenta o dano da habilidade em $value." skillName="Onslaught" />
+    <String id="22008" name="Teste" tooltip="Sem efeito" skillName="Shield Counter" />
+    <String id="22009" name="Golpe de escudo retumbante" tooltip="Aumenta a duração do efeito em $value." skillName="Shield Bash" />
+    <String id="22010" name="Brilhante Grito do Guardião" tooltip="Reduz o custo de MP em $value." skillName="Guardian Shout" />
+    <String id="22012" name="Retaliar com poder" tooltip="Aumenta o dano da habilidade em $value." skillName="Retaliate" />
+    <String id="22013" name="Barragem de Escudo Brilhante" tooltip="Reduz o custo de MP em $value." skillName="Shield Barrage" />
+    <String id="22015" name="Ataque Combo Espirituoso" tooltip="Aumenta a reposição de MP em $value." skillName="Combo Attack" />
+    <String id="22016" name="Impulsionar Debilitar" tooltip="$prob chance de eliminar o custo de MP." skillName="Debilitate" />
+    <String id="22017" name="Coleira energética" tooltip="Diminui o tempo de recarga em $value." skillName="Leash" />
+    <String id="22018" name="Energetic Infuriate" tooltip="Diminui o tempo de recarga em $value." skillName="Infuriate" />
+    <String id="22019" name="Golpe de Escudo Energético" tooltip="Diminui o tempo de recarga em $value." skillName="Shield Bash" />
+    <String id="22020" name="Empowered Charging Lunge" tooltip="Aumenta o dano da habilidade em $value." skillName="Charging Lunge" />
+    <String id="22021" name="Segundo vento energético" tooltip="Diminui o tempo de recarga em $value." skillName="Second Wind" />
+    <String id="22022" name="Adrenalina rápida" tooltip="Aumenta a velocidade de ataque em um valor adicional de $." skillName="Adrenaline Rush" />
+    <String id="22023" name="Brilhante ataque de primavera" tooltip="Reduz o custo de MP em $value." skillName="Spring Attack" />
+    <String id="22024" name="Retaliação Energética" tooltip="Diminui o tempo de recarga em $value." skillName="Retaliate" />
+    <String id="22025" name="Onda Brilhante e Ameaçadora" tooltip="Reduz o custo de MP em $value." skillName="Menacing Wave" />
+    <String id="22026" name="Vontade de ferro persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Iron Will" />
+    <String id="22027" name="Coleira do mestre persistente" tooltip="$prob chance de eliminar o tempo de espera." skillName="Master's Leash" />
+    <String id="22028" name="Golpe de bloqueio com poderes" tooltip="Aumenta o dano da habilidade em $value." skillName="Lockdown Blow" />
+    <String id="22029" name="Promessa energética de proteção" tooltip="Diminui o tempo de recarga em $value." skillName="Pledge of Protection" />
+    <String id="22030" name="Ataque de primavera fortalecido" tooltip="Aumenta o dano da habilidade em $value." skillName="Spring Attack" />
+    <String id="22031" name="Teste" tooltip="Sem efeito" skillName="Challenging Shout" />
+    <String id="22032" name="Brilliant Onslaught" tooltip="Reduz o custo de MP em $value." skillName="Onslaught" />
+    <String id="22033" name="Contador de escudo ameaçador" tooltip="Fornece aggro adicional de $value." skillName="Shield Counter" />
+    <String id="22034" name="Debilitação persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Debilitate" />
+    <String id="22035" name="Golpe de Escudo Ardente" tooltip="Acelera o lançamento de Onslaught em 25% por alguns segundos." skillName="Shield Bash" />
+    <String id="22036" name="Compromisso restaurativo de proteção" tooltip="Aumenta a quantidade de recuperação de HP do lançador em 20% por 20 segundos." skillName="Pledge of Protection" />
+    <String id="22037" name="Grito energético do guardião" tooltip="Diminui o tempo de recarga em $value." skillName="Guardian Shout" />
+    <String id="22038" name="Onda persistente e ameaçadora" tooltip="Aumenta a duração do efeito em $value." skillName="Menacing Wave" />
+    <String id="22039" name="Lunge de carregamento energético" tooltip="Diminui o tempo de recarga em $value." skillName="Charging Lunge" />
+    <String id="22040" name="Lunge de carregamento com pés de frota" tooltip="Acelera o movimento em 10 por 7 segundos enquanto estiver em combate." skillName="Charging Lunge" />
+    <String id="22041" name="Proteção da vontade de ferro" tooltip="Aumenta a absorção de danos em $value." skillName="Iron Will" />
+    <String id="22042" name="Abrandamento do golpe de bloqueio" tooltip="Diminui a velocidade de movimento do oponente em um valor adicional de $." skillName="Lockdown Blow" />
+    <String id="22043" name="Coleira Longshot" tooltip="Aumenta o alcance em 3 metros." skillName="Leash" />
+    <String id="22044" name="Controle de desaceleração" tooltip="Diminui a velocidade de movimento do oponente em 50% por 4 segundos." skillName="Leash" />
+    <String id="22045" name="Golpe de escudo retumbante" tooltip="Aumenta a duração do efeito em $value." skillName="Shield Bash" />
+    <String id="22046" name="Golpe de Escudo Energético" tooltip="Diminui o tempo de recarga em $value." skillName="Shield Bash" />
+    <String id="22047" name="Coleira energética" tooltip="Diminui o tempo de recarga em $value." skillName="Leash" />
+    <String id="22048" name="Ataque combinado ameaçador" tooltip="Fornece aggro adicional de $value." skillName="Combo Attack" />
+    <String id="22049" name="Brilhante grito desafiador" tooltip="Reduz o custo de MP em $value." skillName="Challenging Shout" />
+    <String id="22050" name="Abrandamento do golpe de bloqueio" tooltip="Diminui a velocidade de movimento do oponente em um valor adicional de $." skillName="Lockdown Blow" />
+    <String id="22051" name="Brilliant Onslaught" tooltip="Reduz o custo de MP em $value." skillName="Onslaught" />
+    <String id="22052" name="Grito energético do guardião" tooltip="Diminui o tempo de recarga em $value." skillName="Guardian Shout" />
+    <String id="22053" name="Desacelerar Enfurecer" tooltip="Diminui a velocidade do oponente em 50% por 5 segundos." skillName="Infuriate" />
+    <String id="22054" name="Coleira de entorpecimento" tooltip="Diminui a Velocidade de Ataque do oponente em 40% por 4 segundos." skillName="Leash" />
+    <String id="22055" name="Coleira ameaçadora" tooltip="Fornece aggro adicional de $value." skillName="Leash" />
+    <String id="22056" name="Grito de desafio apressado" tooltip="Aumenta a velocidade de lançamento em $value." skillName="Challenging Shout" />
+    <String id="22057" name="Grito de desafio fundamentado" tooltip="Aumenta a resistência em 21 ao ser atingido com sucesso." skillName="Challenging Shout" />
+    <String id="22059" name="Ameaça de bloqueio" tooltip="Fornece aggro adicional de $value." skillName="Lockdown Blow" />
+    <String id="22060" name="Coleira Energética Acorrentada" tooltip="Diminui o tempo de recarga em $value." skillName="Chained Leash" />
+    <String id="22061" name="Coleira acorrentada persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Chained Leash" />
+    <String id="22062" name="Ataque Combo Espirituoso" tooltip="Aumenta a reposição de MP em $value." skillName="Combo Attack" />
+    <String id="22063" name="Contador de escudo ameaçador" tooltip="Fornece aggro adicional de $value." skillName="Shield Counter" />
+    <String id="22064" name="Barragem de escudo ameaçadora" tooltip="Fornece aggro adicional de $value." skillName="Shield Barrage" />
+    <String id="22065" name="Ataque de primavera entorpecente" tooltip="$prob de chance de reduzir a Velocidade de Ataque do oponente em 30% por 7 segundos." skillName="Spring Attack" />
+    <String id="22066" name="Wallop empoderado" tooltip="Aumenta o dano da habilidade em $value." skillName="Wallop" />
+    <String id="22067" name="Backstep energético" tooltip="Diminui o tempo de recarga em $value." skillName="Backstep" />
+    <String id="22068" name="Grito desafiador e caloroso" tooltip="Aumenta a regeneração da resolução em $value." skillName="Challenging Shout" />
+    <String id="22069" name="Contador de escudo saudável" tooltip="Aumenta a regeneração da resolução em $value." skillName="Shield Counter" />
+    <String id="22070" name="Segundo vento forte" tooltip="Restaura 20% a mais de determinação." skillName="Second Wind" />
+    <String id="22071" name="Stand Fast reforçado" tooltip="Aumenta a resolução máxima em $value." skillName="Stand Fast " />
+    <String id="22072" name="Grito de guerra energético" tooltip="Diminui o tempo de recarga em $value." skillName="Front Defense" />
+    <String id="22073" name="Grito de guerra persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Front Defense" />
+    <String id="22074" name="Brilhante grito de guerra" tooltip="Reduz o custo de MP em $value." skillName="Front Defense" />
+    <String id="22075" name="Grito de guerra ameaçador" tooltip="Fornece aggro adicional de $value." skillName="Front Defense" />
+    <String id="22076" name="Grito de guerra ameaçador" tooltip="Fornece aggro adicional de $value." skillName="Front Defense" />
+    <String id="22077" name="Grito de guerra persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Front Defense" />
+    <String id="22078" name="Grito de guerra energético" tooltip="Diminui o tempo de recarga em $value." skillName="Front Defense" />
+    <String id="23000" name="Rolagem evasiva com pés de frota" tooltip="$prob chance de aumentar a velocidade de movimento em 15% por 10 segundos." skillName="Evasive Roll" />
+    <String id="23001" name="Ataque Combo Rápido" tooltip="$prob de chance de aumentar a Velocidade de Ataque em 15% por 10 segundos." skillName="Combo Attack" />
+    <String id="23002" name="Ataque Combo Potencializado" tooltip="Aumenta o dano da habilidade em $value." skillName="Combo Attack" />
+    <String id="23003" name="Superpoder brilhante" tooltip="Reduz o custo de MP em $value." skillName="Overpower" />
+    <String id="23004" name="Golpe de derrubada fortalecido" tooltip="Aumenta o dano da habilidade em $value." skillName="Knockdown Strike" />
+    <String id="23005" name="Retaliar com poder" tooltip="Aumenta o dano da habilidade em $value." skillName="Retaliate" />
+    <String id="23007" name="Golpe de derrubada com ligação elétrica" tooltip="Aumenta o dano do Whirlwind em 25% por alguns segundos." skillName="Knockdown Strike" />
+    <String id="23008" name="Retaliação Powerlinked" tooltip="Aumenta o dano do Leaping Strike em 25% por alguns segundos." skillName="Retaliate" />
+    <String id="23009" name="Golpe persistente com a mão invertida" tooltip="$prob chance de eliminar o tempo de espera." skillName="Overhand Strike" />
+    <String id="23010" name="Ataque Combo Espirituoso" tooltip="Aumenta a reposição de MP em $value." skillName="Combo Attack" />
+    <String id="23011" name="Grito Triunfante Espirituoso" tooltip="Aumenta a reposição de MP em $value." skillName="Triumphant Shout" />
+    <String id="23012" name="Redemoinho brilhante" tooltip="Reduz o custo de MP em $value." skillName="Whirlwind" />
+    <String id="23013" name="Traço energético" tooltip="Diminui o tempo de recarga em $value." skillName="Dash" />
+    <String id="23014" name="Punhalada Energética pelas Costas" tooltip="Diminui o tempo de recarga em $value." skillName="Backstab" />
+    <String id="23015" name="Grito energético e triunfante" tooltip="Diminui o tempo de recarga em $value." skillName="Triumphant Shout" />
+    <String id="23016" name="Impulso do coração fortalecido" tooltip="Aumenta o dano da habilidade em $value." skillName="Heart Thrust" />
+    <String id="23017" name="Golpe de Fúria Potencializado" tooltip="Aumenta o dano da habilidade em $value." skillName="Fury Strike" />
+    <String id="23018" name="Backhand poderoso e impressionante" tooltip="Aumenta o dano da habilidade em $value." skillName="Stunning Backhand" />
+    <String id="23019" name="Corrida enérgica e impetuosa" tooltip="Diminui o tempo de recarga em $value." skillName="Headlong Rush" />
+    <String id="23020" name="Golpe de Salto Brilhante" tooltip="Reduz o custo de MP em $value." skillName="Leaping Strike" />
+    <String id="23021" name="Lâmina Distante Brilhante" tooltip="Reduz o custo de MP em $value." skillName="Distant Blade" />
+    <String id="23022" name="Chute brilhante e surpreendente" tooltip="Reduz o custo de MP em $value." skillName="Startling Kick" />
+    <String id="23023" name="Retaliação Energética" tooltip="Diminui o tempo de recarga em $value." skillName="Retaliate" />
+    <String id="23024" name="Golpe restaurador com a mão aberta" tooltip="Restaura imediatamente $value HP." skillName="Overhand Strike" />
+    <String id="23025" name="Tenacidade energética" tooltip="Diminui o tempo de recarga em $value." skillName="Tenacity" />
+    <String id="23026" name="Golpe Exaustivo Fortalecido" tooltip="Aumenta o dano da habilidade em $value." skillName="Exhausting Blow" />
+    <String id="23027" name="Brilhantismo a sangue frio" tooltip="Reduz o custo de MP em $value." skillName="In Cold Blood" />
+    <String id="23028" name="Impulso cardíaco persistente" tooltip="$prob chance de eliminar o tempo de espera." skillName="Heart Thrust" />
+    <String id="23029" name="Grito triunfante aterrado" tooltip="Aumenta a resistência em 20% por 10 segundos." skillName="Triumphant Shout" />
+    <String id="23030" name="Punhalada nas costas em chamas" tooltip="Acelera o lançamento de Heart Thrust em 25% por alguns segundos." skillName="Backstab" />
+    <String id="23031" name="Punhalada nas costas em chamas" tooltip="Acelera o lançamento do Knockdown Strike em 25% por alguns segundos." skillName="Backstab" />
+    <String id="23032" name="Ataque de Fúria Ardente" tooltip="Acelera o lançamento do Whirlwind em 25% por alguns segundos." skillName="Fury Strike" />
+    <String id="23033" name="Golpe de Fúria Restaurativa" tooltip="Restaura imediatamente 4% do total de HP quando você usa o golpe de mão atordoante." skillName="Fury Strike" />
+    <String id="23034" name="Golpe energético e exaustivo" tooltip="Diminui o tempo de recarga em $value." skillName="Exhausting Blow" />
+    <String id="23035" name="Lâmina distante entorpecente" tooltip="$prob de chance de reduzir a velocidade de ataque do oponente em 15% por 5 segundos." skillName="Distant Blade" />
+    <String id="23036" name="Equilibrando a tenacidade" tooltip="Aumenta o equilíbrio em 50% por 15 segundos." skillName="Tenacity" />
+    <String id="23037" name="Ardendo em sangue frio" tooltip="Acelera o lançamento de Heart Thrust em 25% por alguns segundos." skillName="In Cold Blood" />
+    <String id="23038" name="Rolagem evasiva persistente" tooltip="$prob chance de eliminar o tempo de espera." skillName="Evasive Roll" />
+    <String id="23039" name="Rolagem evasiva com link de energia" tooltip="Aumenta o dano do Fury Strike em 25% por alguns segundos." skillName="Evasive Roll" />
+    <String id="23040" name="Golpe de derrubada com ligação elétrica" tooltip="Aumenta o dano do Overhand Strike em 20% por alguns segundos." skillName="Knockdown Strike" />
+    <String id="23041" name="Golpe Knockdown reforçado" tooltip="Aumenta a chance de nocaute e atordoamento em $value." skillName="Knockdown Strike" />
+    <String id="23042" name="Chute surpreendente e persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Startling Kick" />
+    <String id="23043" name="Chute surpreendente e abrasador" tooltip="Acelera o lançamento de Heart Thrust em 25% por alguns segundos." skillName="Startling Kick" />
+    <String id="23044" name="Chute surpreendente e abrasador" tooltip="Acelera o lançamento do Knockdown Strike em 25% por alguns segundos." skillName="Startling Kick" />
+    <String id="23046" name="Golpe persistente com a mão invertida" tooltip="$prob chance de eliminar o tempo de espera." skillName="Overhand Strike" />
+    <String id="23047" name="Golpe de derrubada fortalecido" tooltip="Aumenta o dano da habilidade em $value." skillName="Knockdown Strike" />
+    <String id="23048" name="Backhand poderoso e impressionante" tooltip="Aumenta o dano da habilidade em $value." skillName="Stunning Backhand" />
+    <String id="23049" name="Golpe restaurador com a mão aberta" tooltip="Restaura imediatamente $value HP." skillName="Overhand Strike" />
+    <String id="23050" name="Ataque Combo Rápido" tooltip="$prob chance de aumentar a velocidade de ataque em 15% por 10 segundos." skillName="Combo Attack" />
+    <String id="23051" name="Golpe energético e exaustivo" tooltip="Diminui o tempo de recarga em $value." skillName="Exhausting Blow" />
+    <String id="23052" name="Equilibrando a tenacidade" tooltip="Duplica o equilíbrio por 15 segundos." skillName="Tenacity" />
+    <String id="23053" name="Tenacidade energética" tooltip="Diminui o tempo de recarga em $value." skillName="Tenacity" />
+    <String id="23054" name="Punhalada nas costas em chamas" tooltip="Acelera o lançamento de Heart Thrust em 35% por alguns segundos." skillName="Backstab" />
+    <String id="23055" name="Turbilhão Keen" tooltip="Fator de critério triplo." skillName="Whirlwind" />
+    <String id="23056" name="Rolagem evasiva com link de energia" tooltip="Aumenta o dano do Backstab em 25% por alguns segundos." skillName="Evasive Roll" />
+    <String id="23057" name="Impulso do coração afiado" tooltip="Fator de critério triplo." skillName="Heart Thrust" />
+    <String id="23058" name="Sobrepujança afiada" tooltip="Dobra o fator de crítico do próximo ataque." skillName="Overpower" />
+    <String id="23059" name="Superpotência reforçada" tooltip="Adiciona 10% de dano de habilidade ao próximo ataque." skillName="Overpower" />
+    <String id="23060" name="Chute rápido e surpreendente" tooltip="Aumenta a velocidade de ataque do Startling Kick em $value." skillName="Startling Kick" />
+    <String id="23062" name="Fatia Medida Empoderada" tooltip="Aumenta o dano da habilidade em $value." skillName="Measured Slice" />
+    <String id="23063" name="Golpe de Fúria Potencializado" tooltip="Aumenta o dano da habilidade em $value." skillName="Fury Strike" />
+    <String id="23064" name="Punhalada Energética pelas Costas" tooltip="Diminui o tempo de recarga em $value." skillName="Backstab" />
+    <String id="23065" name="Lâmina distante entorpecente" tooltip="$prob de chance de reduzir a velocidade de ataque do oponente em 15% por 5 segundos." skillName="Distant Blade" />
+    <String id="23066" name="Corrida de cabeça com links de energia" tooltip="Aumenta o dano do Knockdown Strike em 25% por alguns segundos." skillName="Headlong Rush" />
+    <String id="23067" name="Poderoso Eviscerate" tooltip="Aumenta o dano da habilidade em $value." skillName="Eviscerate" />
+    <String id="23068" name="Poderoso Eviscerate" tooltip="Aumenta o dano da habilidade em $value." skillName="Eviscerate" />
+    <String id="23069" name="Golpe de mão com ligação elétrica" tooltip="Aumenta o dano do Overhand Strike em 25% por alguns segundos." skillName="Eviscerate" />
+    <String id="23070" name="Evisceração Energética" tooltip="Diminui o tempo de recarga em $value." skillName="Eviscerate" />
+    <String id="23071" name="Eviscerar com ligação elétrica" tooltip="Aumenta o dano do Measured Slice em 25% por alguns segundos" skillName="Eviscerate" />
+    <String id="23072" name="Tenacidade espirituosa" tooltip="$prob chance de reabastecer 6% do seu MP total a cada segundo." skillName="Tenacity" />
+    <String id="24000" name="Bloco de machado faísca mental" tooltip="Reabastece 3% de MP em um bloqueio bem-sucedido." skillName="Axe Block" />
+    <String id="24001" name="Bloco de machado bombeado" tooltip="$prob chance de aumentar o Poder em 20% por 5 segundos em um bloqueio bem-sucedido." skillName="Axe Block" />
+    <String id="24003" name="Ciclone de entalhe" tooltip="Dobra a chance de crítico." skillName="Cyclone" />
+    <String id="24004" name="Ataque combinado de entalhe" tooltip="Aumenta em 10% a chance de ser crítico." skillName="Combo Attack" />
+    <String id="24005" name="Slick Thunder Strike" tooltip="Elimina a restrição de movimentos lentos." skillName="Thunder Strike" />
+    <String id="24006" name="Ciclone capacitado" tooltip="Aumenta o dano de sobrecarga adicional em $value." skillName="Cyclone" />
+    <String id="24007" name="Golpe de Trovão Sanativo" tooltip="Diminui o consumo de HP em $value quando sobrecarregado." skillName="Thunder Strike" />
+    <String id="24008" name="Swift Flatten" tooltip="Aumenta a velocidade de ataque de Flatten em $value." skillName="Flatten" />
+    <String id="24009" name="Ciclone acelerado" tooltip="Aumenta a velocidade de carregamento em $value." skillName="Cyclone" />
+    <String id="24010" name="Grito de zombaria apressado" tooltip="Aumenta a velocidade de lançamento em $value." skillName="Mocking Shout" />
+    <String id="24011" name="Fúria ardente bombeada" tooltip="$prob chance de aumentar o Poder em 10% adicionais por 20 segundos." skillName="Fiery Rage" />
+    <String id="24012" name="Influência de uma greve impressionante" tooltip="Reduz o custo de MP do Flatten em 63 por alguns segundos." skillName="Staggering Strike" />
+    <String id="24013" name="Achatar empoderado" tooltip="Aumenta o dano da habilidade em $value." skillName="Flatten" />
+    <String id="24015" name="Ataque Combo Espirituoso" tooltip="Aumenta a reposição de MP em $value." skillName="Combo Attack" />
+    <String id="24016" name="Grito Triunfante Espirituoso" tooltip="Aumenta a reposição de MP em $value." skillName="Triumphant Shout" />
+    <String id="24017" name="Sanative Unchained Anger" tooltip="Diminui o consumo de HP em $value." skillName="Unchained Anger" />
+    <String id="24018" name="Traço energético" tooltip="Diminui o tempo de recarga em $value." skillName="Dash" />
+    <String id="24019" name="Retaliação Energética" tooltip="Diminui o tempo de recarga em $value." skillName="Retaliate" />
+    <String id="24020" name="Golpe de escalonamento energético" tooltip="Diminui o tempo de recarga em $value." skillName="Staggering Strike" />
+    <String id="24021" name="Golpe de salto fortalecido" tooltip="Aumenta o dano da habilidade em $value." skillName="Leaping Strike" />
+    <String id="24022" name="Golpe Vampírico Potencializado" tooltip="Aumenta o dano da habilidade em $value." skillName="Vampiric Blow" />
+    <String id="24023" name="Fluxo persistente de golpes" tooltip="Aumenta a duração do efeito em $value." skillName="Flurry of Blows" />
+    <String id="24024" name="Teste" tooltip="Sem efeito" skillName="Fearsome Shout" />
+    <String id="24026" name="Grito energético e triunfante" tooltip="Diminui o tempo de recarga em $value." skillName="Triumphant Shout" />
+    <String id="24027" name="Retaliar com poder" tooltip="Aumenta o dano da habilidade em $value." skillName="Retaliate" />
+    <String id="24028" name="Brilhante sede de sangue" tooltip="Reduz o custo de MP em $value." skillName="Bloodlust" />
+    <String id="24029" name="Tenacidade energética" tooltip="Diminui o tempo de recarga em $value." skillName="Tenacity" />
+    <String id="24030" name="Perdição energética inevitável" tooltip="Diminui o tempo de recarga em $value." skillName="Inescapable Doom" />
+    <String id="24031" name="Grito triunfante influente" tooltip="Reduz o custo de MP do Dash em 75 por alguns segundos." skillName="Triumphant Shout" />
+    <String id="24032" name="Golpe Letal Potencializado" tooltip="Aumenta o dano da habilidade em $value." skillName="Lethal Strike" />
+    <String id="24033" name="Influência da desgraça inevitável" tooltip="Reduz o custo de MP do Flatten em 63 por alguns segundos." skillName="Inescapable Doom" />
+    <String id="24034" name="Teste" tooltip="Sem efeito" skillName="Mocking Shout" />
+    <String id="24035" name="Grito de zombaria com ligação elétrica" tooltip="Aumenta o dano do Staggering Strike em 25% por alguns segundos." skillName="Mocking Shout" />
+    <String id="24036" name="Raiva desencadeada fortalecida" tooltip="Aumenta Derrubar em 10% por 20 segundos." skillName="Unchained Anger" />
+    <String id="24037" name="Fúria furiosa sem correntes" tooltip="$prob chance de ativar Flurry of Blows I." skillName="Unchained Anger" />
+    <String id="24038" name="Fúria Ardente e Veloz" tooltip="Aumenta a velocidade de movimento de combate em 20 por 15 segundos." skillName="Fiery Rage" />
+    <String id="24039" name="Grito de medo com ligação elétrica" tooltip="Aumenta o dano do Staggering Strike em 25% por alguns segundos." skillName="Fearsome Shout" />
+    <String id="24040" name="Golpe de Salto Persistente" tooltip="$prob chance de eliminar o tempo de espera." skillName="Leaping Strike" />
+    <String id="24041" name="Perda inevitável e persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Inescapable Doom" />
+    <String id="24042" name="Perdição inescapável e ardente" tooltip="Acelera o lançamento de Flatten em 25% por alguns segundos." skillName="Inescapable Doom" />
+    <String id="24043" name="Teste" tooltip="Sem efeito" skillName="Inescapable Doom" />
+    <String id="24044" name="Equilibrando a tenacidade" tooltip="Aumenta o equilíbrio em 50% por 15 segundos." skillName="Tenacity" />
+    <String id="24045" name="Slick Lethal Strike" tooltip="Elimina a restrição de movimentos lentos." skillName="Lethal Strike" />
+    <String id="24046" name="Golpe de Salto Ardente" tooltip="Acelera o lançamento do Golpe Letal em 30% por alguns segundos." skillName="Leaping Strike" />
+    <String id="24047" name="Golpe de escalonamento flamejante" tooltip="Acelera o carregamento em 30% para o Thunder Strike por alguns segundos." skillName="Staggering Strike" />
+    <String id="24049" name="Slick Thunder Strike" tooltip="Elimina a restrição de movimentos lentos." skillName="Thunder Strike" />
+    <String id="24050" name="Swift Flatten" tooltip="Aumenta a velocidade de ataque de Flatten em $value." skillName="Flatten" />
+    <String id="24051" name="Golpe de Trovão Sanativo" tooltip="Diminui o consumo de HP em $value." skillName="Thunder Strike" />
+    <String id="24052" name="Ciclone acelerado" tooltip="Aumenta a velocidade de carregamento em $value." skillName="Cyclone" />
+    <String id="24053" name="Empowered Flatten" tooltip="Aumenta o dano da habilidade em $value." skillName="Flatten" />
+    <String id="24054" name="Equilibrando a tenacidade" tooltip="Duplica o equilíbrio por 15 segundos." skillName="Tenacity" />
+    <String id="24055" name="Grito de zombaria apressado" tooltip="Aumenta a velocidade de lançamento em $value." skillName="Mocking Shout" />
+    <String id="24056" name="Perdição inescapável e ardente" tooltip="Acelera o lançamento de Flatten em 30% por alguns segundos." skillName="Inescapable Doom" />
+    <String id="24057" name="Grito triunfante aterrado" tooltip="Aumenta a resistência em 16 por 12 segundos." skillName="Triumphant Shout" />
+    <String id="24058" name="Persistent Dash" tooltip="$prob chance de eliminar o tempo de espera." skillName="Dash" />
+    <String id="24059" name="Golpe de salto certeiro" tooltip="Fator de critério de duplas." skillName="Leaping Strike" />
+    <String id="24060" name="Tenacidade restauradora" tooltip="Restaura imediatamente $value de seu HP total." skillName="Tenacity" />
+    <String id="24061" name="Tenacidade espirituosa" tooltip="$prob chance de reabastecer 6% do seu MP total a cada segundo." skillName="Tenacity" />
+    <String id="24062" name="Furious Retaliate" tooltip="Aumenta seu dano à medida que seu HP diminui (até 4 vezes)." skillName="Retaliate" />
+    <String id="24063" name="Golpe Evasivo Potencializado" tooltip="Aumenta o dano da habilidade em $value." skillName="Evasive Smash" />
+    <String id="24065" name="Mindsparked Axe Block" tooltip="Restaura 3% de MP em um bloqueio bem-sucedido." skillName="Axe Block" />
+    <String id="24067" name="Golpe Rápido do Trovão" tooltip="Aumenta a velocidade de carregamento em $value." skillName="Thunder Strike" />
+    <String id="24068" name="Ataque Persistente e Espantoso" tooltip="$prob chance de eliminar o tempo de espera." skillName="Staggering Strike" />
+    <String id="24069" name="Energético Inquebrável" tooltip="Diminui o tempo de recarga em $value." skillName="Unbreakable" />
+    <String id="24070" name="Energético Inquebrável" tooltip="Diminui o tempo de recarga em $value." skillName="Unbreakable" />
+    <String id="24071" name="Inquebrável e persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Unbreakable" />
+    <String id="24072" name="Ataque do trovão flamejante" tooltip="Acelera o lançamento do Thunder Strike em 25% por alguns segundos." skillName="Raze" />
+    <String id="24073" name="Razeamento espirituoso" tooltip="Aumenta a reposição de MP em $value." skillName="Raze" />
+    <String id="24074" name="Raze Energético" tooltip="Diminui o tempo de recarga em $value." skillName="Raze" />
+    <String id="24075" name="Brilliant Tackle" tooltip="Reduz o custo de MP em $value." skillName="Tackle" />
+    <String id="24076" name="Equipamento de pés rápidos" tooltip="Aumenta a velocidade de movimento de combate em 20 por 15 segundos." skillName="Tackle" />
+    <String id="24077" name="Equipamento Keen" tooltip="Fator de critério de duplas." skillName="Tackle" />
+    <String id="24078" name="Swift Raze" tooltip="Aumenta a velocidade de lançamento em $value." skillName="Raze" />
+    <String id="25000" name="Bola de fogo Longshot" tooltip="Aumenta o alcance em 3 metros." skillName="Fireball" />
+    <String id="25001" name="Indignant Backstep" tooltip="$prob chance de acionar o Overchannel." skillName="Backstep" />
+    <String id="25003" name="Explosão de fogo acelerada" tooltip="Aumenta a velocidade de lançamento em $value." skillName="Fireblast" />
+    <String id="25004" name="Barreira de Mana bombeada" tooltip="Aumenta o poder em 10% por 15 segundos." skillName="Mana Barrier" />
+    <String id="25005" name="Barreira de mana aterrada" tooltip="Aumenta a resistência em 20% por 15 segundos." skillName="Mana Barrier" />
+    <String id="25006" name="Armadilha para raios com ligação elétrica" tooltip="Aumenta o dano do Fireblast em 20% por alguns segundos." skillName="Lightning Trap" />
+    <String id="25009" name="Infusão de Mana Espiritual" tooltip="Aumenta a reposição de MP em $value." skillName="Mana Infusion" />
+    <String id="25010" name="Canal de energia" tooltip="Diminui o tempo de recarga em $value." skillName="Overchannel" />
+    <String id="25011" name="Barreira de Mana Energética" tooltip="Diminui o tempo de recarga em $value." skillName="Mana Barrier" />
+    <String id="25012" name="Pulso Energético do Vácuo" tooltip="Diminui o tempo de recarga em $value." skillName="Void Pulse" />
+    <String id="25013" name="Agulha de gelo energética" tooltip="Diminui o tempo de recarga em $value." skillName="Ice Needle" />
+    <String id="25014" name="Brilhante armadilha para raios" tooltip="Reduz o custo de MP em $value." skillName="Lightning Trap" />
+    <String id="25015" name="Pulso do Vácuo Brilhante" tooltip="Reduz o custo de MP em $value." skillName="Void Pulse" />
+    <String id="25016" name="Pulso Arcano Potencializado" tooltip="Aumenta o dano da habilidade em $value." skillName="Arcane Pulse" />
+    <String id="25017" name="Brilhante explosão de fogo" tooltip="Reduz o custo de MP em $value." skillName="Fireblast" />
+    <String id="25018" name="Explosão de dor persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Painblast" />
+    <String id="25019" name="Pilar de chama fortalecido" tooltip="Aumenta o dano da habilidade em $value." skillName="Flame Pillar" />
+    <String id="25021" name="Fragmento de glyph passado" tooltip="Esse antigo glyph fragmentado não é mais usado." skillName="Mana Extraction" />
+    <String id="25022" name="Explosão mental persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Mindblast" />
+    <String id="25023" name="Sifão de Mana Espiritual" tooltip="Aumenta a reposição de MP em $value." skillName="Mana Siphon" />
+    <String id="25025" name="Barragem Flamejante Brilhante" tooltip="Reduz o custo de MP em $value." skillName="Flaming Barrage" />
+    <String id="25026" name="Bomba de Magma Brilhante" tooltip="Reduz o custo de MP em $value." skillName="Magma Bomb" />
+    <String id="25027" name="Armadilha Brilhante e Dolorosa" tooltip="Reduz o custo de MP em $value." skillName="Painful Trap" />
+    <String id="25028" name="Recuo glacial persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Glacial Retreat" />
+    <String id="25029" name="Pulso Arcano com ligação elétrica" tooltip="Aumenta o dano da Agulha de Gelo em 25% por alguns segundos." skillName="Arcane Pulse" />
+    <String id="25030" name="Armadilha dolorosa influente" tooltip="Reduz o custo de MP do Pilar de Chamas em 80 por alguns segundos." skillName="Painful Trap" />
+    <String id="25031" name="Recuo glacial indignado" tooltip="$prob chance de acionar o Overchannel." skillName="Glacial Retreat" />
+    <String id="25032" name="Sifão de Mana Indigno" tooltip="$prob chance de acionar o Overchannel." skillName="Mana Siphon" />
+    <String id="25033" name="Giro de tempo energético" tooltip="Diminui o tempo de recarga em $value." skillName="Time Gyre" />
+    <String id="25034" name="Hálito ardente e persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Burning Breath" />
+    <String id="25035" name="Rajada Rápida de Celeridade" tooltip="Aumenta a velocidade de ataque em $value." skillName="Burst of Celerity" />
+    <String id="25036" name="Exaustão do nervo energético" tooltip="Diminui o tempo de recarga em $value." skillName="Nerve Exhaustion" />
+    <String id="25037" name="Vôlei de mana persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Mana Volley" />
+    <String id="25038" name="Retaliação Energética" tooltip="Diminui o tempo de recarga em $value." skillName="Retaliate" />
+    <String id="25039" name="Blindagem Retaliate" tooltip="$prob chance de ativar a Barreira de Mana II." skillName="Retaliate" />
+    <String id="25040" name="Sifão de Mana Energético" tooltip="Diminui o tempo de recarga em $value." skillName="Mana Siphon" />
+    <String id="25041" name="Barreira de mana persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Mana Barrier" />
+    <String id="25042" name="Sifão de Mana Ardente" tooltip="Acelera o lançamento da Barragem Flamejante em 25% por alguns segundos." skillName="Mana Siphon" />
+    <String id="25043" name="Armadilha de relâmpago flamejante" tooltip="Acelera o lançamento do Pilar de Chamas em 25% por alguns segundos." skillName="Lightning Trap" />
+    <String id="25044" name="Powerlink Burning Breath" tooltip="Aumenta o dano da Barragem Flamejante em 35% por alguns segundos." skillName="Burning Breath" />
+    <String id="25045" name="Retiro Glacial Ardente" tooltip="Acelera o lançamento de Armadilha de Raios em 40% por alguns segundos." skillName="Glacial Retreat" />
+    <String id="25046" name="Giro de tempo multiplicativo" tooltip="Aumenta o número de alvos de bloqueio em $value." skillName="Time Gyre" />
+    <String id="25047" name="Giro do Tempo Ardente" tooltip="Acelera o lançamento do Fireblast em 25% por alguns segundos." skillName="Time Gyre" />
+    <String id="25048" name="Explosão mental acelerada" tooltip="Aumenta a velocidade de lançamento em $value." skillName="Mindblast" />
+    <String id="25049" name="Explosão mental persistente" tooltip="$prob chance de eliminar o tempo de espera." skillName="Mindblast" />
+    <String id="25050" name="Agulha de gelo persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Ice Needle" />
+    <String id="25051" name="Desaceleração da agulha de gelo" tooltip="Diminui a velocidade de movimento do oponente em um valor adicional de $value." skillName="Ice Needle" />
+    <String id="25052" name="Agulha de gelo flamejante" tooltip="Acelera o lançamento de Mindblast em 40% por alguns segundos." skillName="Ice Needle" />
+    <String id="25053" name="Explosão de dor em flor" tooltip="Aumenta o dano periódico em $value." skillName="Painblast" />
+    <String id="25054" name="Desaceleração do Painblast" tooltip="$prob de chance de reduzir a velocidade de movimento do oponente em 50% por 7 segundos." skillName="Painblast" />
+    <String id="25056" name="Barragem Flamejante Multiplicativa" tooltip="Aumenta o número de alvos de bloqueio em $value." skillName="Flaming Barrage" />
+    <String id="25057" name="Teste" tooltip="Sem efeito" skillName="Arcane Pulse" />
+    <String id="25058" name="Bomba de magma persistente" tooltip="$prob chance de eliminar o tempo de espera." skillName="Magma Bomb" />
+    <String id="25059" name="Pilar de chama flamejante" tooltip="Acelera o lançamento de Armadilha de Raios em 40% por alguns segundos." skillName="Flame Pillar" />
+    <String id="25060" name="Explosão mental compartilhada" tooltip="Aumenta a chance de debuff em 30% ao atingir vários alvos." skillName="Mindblast" />
+    <String id="25061" name="Jato de Fogo Energético" tooltip="Diminui o tempo de recarga em $value." skillName="Fireblast" />
+    <String id="25062" name="Retiro Glacial Ardente" tooltip="Acelera o carregamento em 30% para o Pulso Arcano por alguns segundos." skillName="Glacial Retreat" />
+    <String id="25063" name="Salto de teleporte energético" tooltip="Diminui o tempo de recarga em $value." skillName="Teleport Jaunt" />
+    <String id="25064" name="Pilar de Chama Energética" tooltip="Diminui o tempo de recarga em $value." skillName="Flame Pillar" />
+    <String id="25065" name="Tempestade de granizo energética" tooltip="Diminui o tempo de recarga em $value." skillName="Hail Storm" />
+    <String id="25066" name="Brilhante tempestade de granizo" tooltip="Reduz o custo de MP em $value." skillName="Hail Storm" />
+    <String id="25068" name="Rajada Rápida de Celeridade" tooltip="Aumenta a velocidade de ataque em $value." skillName="Burst of Celerity" />
+    <String id="25069" name="Explosão de fogo acelerada" tooltip="Aumenta a velocidade de lançamento em $value." skillName="Fireblast" />
+    <String id="25070" name="Jato de Fogo Energético" tooltip="Diminui o tempo de recarga em $value." skillName="Fireblast" />
+    <String id="25071" name="Armadilha para raios com ligação elétrica" tooltip="Aumenta o dano do Fireblast em 20% por alguns segundos." skillName="Lightning Trap" />
+    <String id="25072" name="Pulso do Vácuo Brilhante" tooltip="Reduz o custo de MP em $value." skillName="Void Pulse" />
+    <String id="25073" name="Explosão mental compartilhada" tooltip="Aumenta a chance de debuff em 30% ao atingir vários alvos." skillName="Mindblast" />
+    <String id="25074" name="Exaustão do nervo energético" tooltip="Diminui o tempo de recarga em $value." skillName="Nerve Exhaustion" />
+    <String id="25075" name="Brilhante armadilha para raios" tooltip="Reduz o custo de MP em $value." skillName="Lightning Trap" />
+    <String id="25076" name="Giro de tempo multiplicativo" tooltip="Aumenta o número de alvos de bloqueio em $value." skillName="Time Gyre" />
+    <String id="25077" name="Pilar de chamas de proteção" tooltip="$prob chance de ativar a Barreira de Mana I." skillName="Flame Pillar" />
+    <String id="25078" name="Jato de dor energético" tooltip="Diminui o tempo de recarga em $value." skillName="Painblast" />
+    <String id="25079" name="Impedimento da respiração ardente" tooltip="Diminui o poder de cura dos PCs hostis em 50%" skillName="Burning Breath" />
+    <String id="25080" name="Barreira de Mana de Proteção" tooltip="Aumenta a absorção de danos em 30%." skillName="Mana Barrier" />
+    <String id="25081" name="Pulso Arcano de Keen" tooltip="Dobra o fator de crítico por 4 segundos." skillName="Arcane Pulse" />
+    <String id="25082" name="Pulso Arcano Slick" tooltip="Pode se mover durante o carregamento." skillName="Arcane Pulse" />
+    <String id="25083" name="Pele de pedra energética" tooltip="Diminui o tempo de recarga em $value." skillName="Stone Skin" />
+    <String id="25084" name="Pele de pedra energética" tooltip="Diminui o tempo de recarga em $value." skillName="Stone Skin" />
+    <String id="25085" name="Barreira de mana persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Mana Barrier" />
+    <String id="25086" name="Brilhante explosão de fogo" tooltip="Reduz o custo de MP em $value." skillName="Fireblast" />
+    <String id="25087" name="Passo para trás com o pé na frota" tooltip="Aumenta a velocidade de movimento em 20% por 2 segundos." skillName="Backstep" />
+    <String id="25088" name="Jato de tinta com ligação elétrica" tooltip="Aumenta o dano da Barragem Flamejante em 25% por alguns segundos." skillName="Painblast" />
+    <String id="25089" name="Keen Nova" tooltip="Dobra o fator de crítico por 4 segundos." skillName="Nova" />
+    <String id="25090" name="Nova com base" tooltip="Aumenta a resistência em 20% por 15 segundos." skillName="Nova" />
+    <String id="25091" name="Nova Energética" tooltip="Diminui o tempo de recarga em $value." skillName="Nova" />
+    <String id="25092" name="Swift Nova" tooltip="Aumenta a velocidade de lançamento em $value." skillName="Nova" />
+    <String id="25093" name="Barreira de dobra energética" tooltip="Diminui o tempo de recarga em $value." skillName="Warp Barrier" />
+    <String id="25094" name="Barreira de dobra energética" tooltip="Diminui o tempo de recarga em $value." skillName="Warp Barrier" />
+    <String id="25095" name="Barreira de dobra persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Warp Barrier" />
+    <String id="26000" name="Vôlei de seta multiplicativo" tooltip="Aumenta o número de alvos de bloqueio em $value." skillName="Arrow Volley" />
+    <String id="26001" name="Flecha Radiante Longshot" tooltip="Aumenta o alcance em 3 metros." skillName="Radiant Arrow" />
+    <String id="26002" name="Flecha Penetrante Longshot" tooltip="Aumenta o alcance em 3 metros." skillName="Penetrating Arrow" />
+    <String id="26004" name="Flecha Penetrante Potencializada" tooltip="Aumenta o dano da habilidade em $value." skillName="Penetrating Arrow" />
+    <String id="26005" name="Teste" tooltip="Sem efeito" skillName="Poison Trap" />
+    <String id="26006" name="Armadilha lenta e persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Slow Trap" />
+    <String id="26007" name="Armadilha de atordoamento persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Stunning Trap" />
+    <String id="26008" name="Seta de desaceleração" tooltip="$prob de chance de reduzir a velocidade de movimento do oponente em 50% por 3 segundos." skillName="Arrow" />
+    <String id="26009" name="Flecha de sabotagem" tooltip="$prob chance de atordoar o oponente." skillName="Arrow" />
+    <String id="26010" name="Flecha Perfurante" tooltip="$prob chance de causar o dobro de dano." skillName="Arrow" />
+    <String id="26011" name="Flecha Radiante Liso" tooltip="Elimina a restrição de movimentos lentos." skillName="Radiant Arrow" />
+    <String id="26012" name="Flecha Penetrante Slick" tooltip="Elimina a restrição de movimentos lentos." skillName="Penetrating Arrow" />
+    <String id="26017" name="Fogo rápido persistente" tooltip="$prob chance de eliminar o tempo de espera." skillName="Rapid Fire" />
+    <String id="26018" name="Backstep energético" tooltip="Diminui o tempo de recarga em $value." skillName="Backstep" />
+    <String id="26019" name="Morte Fingida Energética" tooltip="Diminui o tempo de recarga em $value." skillName="Feign Death" />
+    <String id="26020" name="Retaliar com poder" tooltip="Aumenta o dano da habilidade em $value." skillName="Retaliate" />
+    <String id="26021" name="Chuva energética de flechas" tooltip="Diminui o tempo de recarga em $value." skillName="Rain of Arrows" />
+    <String id="26022" name="Parafuso de ruptura energético" tooltip="Diminui o tempo de recarga em $value." skillName="Breakaway Bolt" />
+    <String id="26023" name="Armadilha Incendiária Potencializada" tooltip="Aumenta o dano da habilidade em $value." skillName="Incendiary Trap" />
+    <String id="26024" name="Seta de rede maior" tooltip="Aumenta a duração do efeito em $value." skillName="Web Arrow" />
+    <String id="26025" name="Retaliação Energética" tooltip="Diminui o tempo de recarga em $value." skillName="Retaliate" />
+    <String id="26026" name="Teste" tooltip="Sem efeito" skillName="Poison Trap" />
+    <String id="26027" name="Flecha de veneno persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Poison Arrow" />
+    <String id="26028" name="Seta de rede influente" tooltip="Reduz o custo de MP do Web Arrow em 13 por alguns segundos." skillName="Sniper's Eye" />
+    <String id="26029" name="Seta de restrição persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Restraining Arrow" />
+    <String id="26030" name="Flecha Venenosa Influente" tooltip="Reduz o custo de MP da Flecha Venenosa em 31 por alguns segundos." skillName="Velik's Mark" />
+    <String id="26031" name="Armadilha Incendiária Influente" tooltip="Reduz o custo de MP da Armadilha Incendiária em 75 por alguns segundos." skillName="Arrow Volley" />
+    <String id="26032" name="Flecha penetrante com link de energia" tooltip="Aumenta o dano da Flecha Penetrante em 25% por alguns segundos." skillName="Breakaway Bolt" />
+    <String id="26033" name="Flecha de teia veloz" tooltip="$prob de chance de aumentar a velocidade de movimento em 10 por 12 segundos enquanto estiver em combate." skillName="Web Arrow" />
+    <String id="26034" name="Flecha de restrição energética" tooltip="Diminui o tempo de recarga em $value." skillName="Restraining Arrow" />
+    <String id="26035" name="Flecha de restrição de sabotagem" tooltip="$prob de chance de atordoar o alvo por 3 segundos." skillName="Restraining Arrow" />
+    <String id="26036" name="Marca persistente de Velik" tooltip="Aumenta a duração do efeito em $value." skillName="Velik's Mark" />
+    <String id="26037" name="Flecha Venenosa Ardente" tooltip="Acelera o lançamento da Flecha Venenosa em 25% por alguns segundos." skillName="Velik's Mark" />
+    <String id="26038" name="Seta persistente de vôlei" tooltip="$prob chance de eliminar o tempo de espera." skillName="Arrow Volley" />
+    <String id="26039" name="Armadilha de fogo impressionante" tooltip="Acelera o lançamento de Stunning Trap em 40% por alguns segundos." skillName="Arrow Volley" />
+    <String id="26040" name="Contatos próximos capacitados" tooltip="Aumenta o dano da habilidade em $value." skillName="Close Quarters" />
+    <String id="26041" name="Fogo rápido e espirituoso" tooltip="Aumenta a reposição de MP em $value ao atingir o alvo." skillName="Rapid Fire" />
+    <String id="26042" name="Salvo final persistente" tooltip="$prob chance de eliminar o tempo de espera." skillName="Final Salvo" />
+    <String id="26043" name="Parafuso de fuga Fleetfooted" tooltip="$prob de chance de aumentar a velocidade de movimento em 10 por 8 segundos enquanto estiver em combate." skillName="Breakaway Bolt" />
+    <String id="26044" name="Teste" tooltip="Sem efeito" skillName="Breakaway Bolt" />
+    <String id="26045" name="Regeneração da morte falsa" tooltip="Cura 2% do HP total a cada 1 segundo por 15 segundos. Somente fora de combate." skillName="Feign Death" />
+    <String id="26046" name="Vôlei de flecha com ligação elétrica" tooltip="Aumenta o dano de Arrow Volley em 25% por alguns segundos." skillName="Incendiary Trap" />
+    <String id="26047" name="Chuva de flechas fortalecida" tooltip="Aumenta o dano da habilidade em $value." skillName="Rain of Arrows" />
+    <String id="26048" name="Flecha Penetrante Ardente" tooltip="Acelera o lançamento da Flecha Penetrante em 30% por alguns segundos." skillName="Stunning Trap" />
+    <String id="26049" name="Flecha Penetrante Ardente" tooltip="Acelera o lançamento da Flecha Penetrante em 30% por alguns segundos." skillName="Arrow Volley" />
+    <String id="26050" name="Flecha Radiante Ardente" tooltip="Acelera o lançamento de Radiant Arrow em 30% por alguns segundos." skillName="Poison Arrow" />
+    <String id="26051" name="Flecha Penetrante Ardente" tooltip="Acelera o lançamento da Flecha Penetrante em 30% por alguns segundos." skillName="Final Salvo" />
+    <String id="26053" name="Flecha Penetrante Potencializada" tooltip="Aumenta o dano da habilidade em $value." skillName="Penetrating Arrow" />
+    <String id="26054" name="Flecha Penetrante Slick" tooltip="Elimina a restrição de movimentos lentos." skillName="Penetrating Arrow" />
+    <String id="26055" name="Flecha Radiante Liso" tooltip="Elimina a restrição de movimentos lentos." skillName="Radiant Arrow" />
+    <String id="26056" name="Backstep energético" tooltip="Diminui o tempo de recarga em $value." skillName="Backstep" />
+    <String id="26057" name="Flecha Penetrante Longshot" tooltip="Aumenta o alcance em 3 metros." skillName="Penetrating Arrow" />
+    <String id="26058" name="Armadilha lenta e persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Slow Trap" />
+    <String id="26059" name="Flecha Penetrante Ardente" tooltip="Acelera o lançamento da Flecha Penetrante em 40% por alguns segundos." skillName="Arrow Volley" />
+    <String id="26060" name="Armadilha de fogo impressionante" tooltip="Acelera o lançamento de Stunning Trap em 50% por alguns segundos." skillName="Arrow Volley" />
+    <String id="26061" name="Seta persistente de vôlei" tooltip="$prob chance de eliminar o tempo de espera." skillName="Arrow Volley" />
+    <String id="26062" name="Regeneração da morte falsa" tooltip="Cura 5% do HP total a cada 1 segundo por 8 segundos. Somente fora de combate." skillName="Feign Death" />
+    <String id="26063" name="Flecha Radiante Sanativa" tooltip="Diminui o consumo de HP em $value." skillName="Radiant Arrow" />
+    <String id="26065" name="Fleetfooted Close Quarters" tooltip="Acelera o movimento em 50 por 3 segundos." skillName="Close Quarters" />
+    <String id="26066" name="Lingering Close Quarters" tooltip="Aumenta a duração do efeito em $value." skillName="Close Quarters" />
+    <String id="26067" name="Desaceleração do parafuso de ruptura" tooltip="$prob de chance de reduzir a velocidade de movimento do oponente em 40% por 6 segundos." skillName="Breakaway Bolt" />
+    <String id="26068" name="Armadilha de Concussão Energética" tooltip="Diminui o tempo de recarga em $value." skillName="Concussion Trap" />
+    <String id="26069" name="Armadilha Energética de Ensnaring" tooltip="Diminui o tempo de recarga em $value." skillName="Ensnaring Trap" />
+    <String id="26070" name="Armadilha de explosão com poder" tooltip="Aumenta o dano da habilidade em $value." skillName="Explosion Trap" />
+    <String id="26071" name="Armadilha de Concussão Energética" tooltip="Diminui o tempo de recarga em $value." skillName="Concussion Trap" />
+    <String id="26072" name="Armadilha de Enfeite" tooltip="Diminui a resistência do alvo em 3,5% por 5 segundos." skillName="Ensnaring Trap" />
+    <String id="26073" name="Armadilha de explosão com poder" tooltip="Aumenta o dano da habilidade em $value." skillName="Explosion Trap" />
+    <String id="26074" name="Parafuso de ruptura energético" tooltip="Diminui o tempo de recarga em $value." skillName="Breakaway Bolt" />
+    <String id="26075" name="Seta de contenção energética" tooltip="Diminui o tempo de recarga em $value." skillName="Restraining Arrow" />
+    <String id="26076" name="Fogo rápido fortalecido" tooltip="Aumenta o dano da habilidade em $value." skillName="Rapid Fire" />
+    <String id="26077" name="Chuva de flechas rápida" tooltip="Aumenta a velocidade de ataque em $value." skillName="Rain of Arrows" />
+    <String id="26084" name="Equilibrando a tenacidade" tooltip="Aumenta o equilíbrio em 150% por 15 segundos." skillName="Tenacity" />
+    <String id="26085" name="Equilibrando a tenacidade" tooltip="Duplica o equilíbrio por 15 segundos." skillName="Tenacity" />
+    <String id="26086" name="Tenacidade espirituosa" tooltip="$prob chance de reabastecer 6% do seu MP total a cada segundo." skillName="Tenacity" />
+    <String id="26087" name="Tenacidade energética" tooltip="Diminui o tempo de recarga em $value." skillName="Tenacity" />
+    <String id="26088" name="Tenacidade energética" tooltip="Diminui o tempo de recarga em $value." skillName="Tenacity" />
+    <String id="26089" name="Raio rápido" tooltip="Aumenta a velocidade de lançamento em $value." skillName="Thunderbolt" />
+    <String id="26090" name="Thunderbolt potente" tooltip="Aumenta o dano da habilidade em $value." skillName="Thunderbolt" />
+    <String id="26091" name="Thunderbolt potente" tooltip="Aumenta o dano da habilidade em $value." skillName="Thunderbolt" />
+    <String id="27000" name="Favorecimento multiplicativo do Titanic" tooltip="Aumenta o número de alvos de bloqueio em $value." skillName="Titanic Favor" />
+    <String id="27002" name="Voto Energético de Renascimento" tooltip="Diminui o tempo de recarga em $value." skillName="Vow of Rebirth" />
+    <String id="27003" name="Limpeza de Arun multiplicativa" tooltip="Aumenta o número de alvos de bloqueio em $value." skillName="Arun's Cleansing Touch" />
+    <String id="27004" name="Ira persistente do Titanic" tooltip="Aumenta a duração do efeito em $value." skillName="Titanic Wrath" />
+    <String id="27005" name="Chicote persistente de Shara" tooltip="Aumenta a duração do efeito em $value." skillName="Shara's Lash" />
+    <String id="27006" name="Vinculação antiga e persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Ancient Binding" />
+    <String id="27007" name="Teste" tooltip="Sem efeito" skillName="Aura of Rejuvenation" />
+    <String id="27008" name="Teste" tooltip="Sem efeito" skillName="Aura of Tenacity" />
+    <String id="27009" name="Aura brilhante do impiedoso" tooltip="Reduz o custo de MP em $value." skillName="Aura of the Merciless" />
+    <String id="27010" name="Aura brilhante do Swift" tooltip="Reduz o custo de MP em $value." skillName="Aura of the Swift" />
+    <String id="27011" name="Sharan Bolt com poderes" tooltip="Aumenta o dano da habilidade em $value." skillName="Sharan Bolt" />
+    <String id="27012" name="Explosão Metamórfica Potencializada" tooltip="Aumenta o dano da habilidade em $value." skillName="Metamorphic Blast" />
+    <String id="27013" name="Teste" tooltip="Sem efeito" skillName="Corruption Ring" />
+    <String id="27014" name="Anel de Corrupção Trebling" tooltip="Aumenta o equilíbrio e a resistência ao atordoamento em 300%." skillName="Corruption Ring" />
+    <String id="27015" name="Anel de Corrupção Insensível" tooltip="Reduz o dano em $value." skillName="Corruption Ring" />
+    <String id="27016" name="Salto de teleporte energético" tooltip="Diminui o tempo de recarga em $value." skillName="Teleport Jaunt" />
+    <String id="27017" name="Infusão de Mana Espiritual" tooltip="Aumenta a reposição de MP em $value." skillName="Mana Infusion" />
+    <String id="27019" name="Fragmento de glyph passado" tooltip="Esse antigo glyph fragmentado não é mais usado." skillName="Mana Extraction" />
+    <String id="27020" name="Retaliar com poder" tooltip="Aumenta o dano da habilidade em $value." skillName="Retaliate" />
+    <String id="27021" name="Golpe Metamórfico Energético" tooltip="Diminui o tempo de recarga em $value." skillName="Metamorphic Smite" />
+    <String id="27022" name="Garras Energéticas de Proteção" tooltip="Diminui o tempo de recarga em $value." skillName="Thrall of Protection" />
+    <String id="27023" name="Teste" tooltip="Sem efeito" skillName="Thrall of Wrath" />
+    <String id="27024" name="Domínio energético da vida" tooltip="Diminui o tempo de recarga em $value." skillName="Thrall of Life" />
+    <String id="27025" name="Festa de Invocação Brilhante" tooltip="Reduz o custo de MP em $value." skillName="Summon Party" />
+    <String id="27026" name="Ressurreição brilhante" tooltip="Reduz o custo de MP em $value." skillName="Resurrect" />
+    <String id="27027" name="Soma de maldições persistentes" tooltip="Aumenta a duração do efeito em $value." skillName="Volley of Curses" />
+    <String id="27029" name="Ressurreição Energética" tooltip="Diminui o tempo de recarga em $value." skillName="Resurrect" />
+    <String id="27030" name="Retaliação Energética" tooltip="Diminui o tempo de recarga em $value." skillName="Retaliate" />
+    <String id="27031" name="Sonhos sonoros brilhantes" tooltip="Reduz o custo de MP em $value." skillName="Sonorous Dreams" />
+    <String id="27032" name="Regressão energética" tooltip="Diminui o tempo de recarga em $value." skillName="Regression" />
+    <String id="27033" name="Lama energética" tooltip="Diminui o tempo de recarga em $value." skillName="Mire" />
+    <String id="27034" name="Maldição energética da exaustão" tooltip="Diminui o tempo de recarga em $value." skillName="Curse of Exhaustion" />
+    <String id="27035" name="Maldição persistente da confusão" tooltip="Aumenta a duração do efeito em $value." skillName="Curse of Confusion" />
+    <String id="27036" name="Smite metamórfico influente" tooltip="Reduz o custo de MP do Metamorphic Blast em 41 por alguns segundos." skillName="Metamorphic Smite" />
+    <String id="27037" name="Vôlei influente de maldições" tooltip="Reduz o custo de MP de Volley of Curses em 33 por alguns segundos." skillName="Volley of Curses" />
+    <String id="27038" name="Influência da Ira do Titanic" tooltip="Reduz o custo de MP da Vitae de Arun em 100 por alguns segundos." skillName="Titanic Wrath" />
+    <String id="27039" name="Anel de Corrupção Influente" tooltip="Reduz o custo de MP das Lágrimas de Arun em 100 por alguns segundos." skillName="Corruption Ring" />
+    <String id="27040" name="Vôlei multiplicativo de maldições" tooltip="Aumenta o número de alvos de bloqueio em $value." skillName="Volley of Curses" />
+    <String id="27041" name="Anestesia de encadernação antiga" tooltip="$prob de chance de reduzir a Velocidade de Ataque do oponente em 30% por 6 segundos." skillName="Ancient Binding" />
+    <String id="27042" name="Golpe Metamórfico Apressado" tooltip="Aumenta a velocidade de lançamento em $value." skillName="Metamorphic Smite" />
+    <String id="27043" name="Festa de Invocação Energética" tooltip="Diminui o tempo de recarga em $value." skillName="Summon Party" />
+    <String id="27044" name="Infusão de mana acelerada" tooltip="Aumenta a velocidade de lançamento em $value." skillName="Mana Infusion" />
+    <String id="27045" name="Lágrimas de Arun em chamas" tooltip="Acelera o lançamento de Arun's Vitae em 25% por alguns segundos." skillName="Arun's Tears" />
+    <String id="27046" name="Servo da Vingança com poderes" tooltip="Aumenta o dano do Thrall of Vengeance em 25%." skillName="Thrall of Vengeance" />
+    <String id="27047" name="Servo da vingança fortificado" tooltip="Aumenta a defesa do Thrall of Vengeance em 25%." skillName="Thrall of Vengeance" />
+    <String id="27048" name="Trono persistente da vingança" tooltip="Aumenta a duração do servo em 25%." skillName="Thrall of Vengeance" />
+    <String id="27049" name="Ressurreição acelerada" tooltip="Aumenta a velocidade de lançamento em $value." skillName="Resurrect" />
+    <String id="27050" name="Domínio da Vida Fortificado" tooltip="Aumenta a defesa do Thrall of Life em 100%." skillName="Thrall of Life" />
+    <String id="27051" name="Thrall of Protection com Poderes" tooltip="Aumenta o dano do Thrall of Protection em 25%." skillName="Thrall of Protection" />
+    <String id="27052" name="Thrall of Protection Fortificado" tooltip="Aumenta a defesa do Thrall of Protection em 25%." skillName="Thrall of Protection" />
+    <String id="27053" name="Salto de teletransporte flamejante" tooltip="Acelera o lançamento de Arun's Vitae em 25% por alguns segundos." skillName="Teleport Jaunt" />
+    <String id="27054" name="Salto de teletransporte flamejante" tooltip="Acelera o lançamento de Thrall of Life em 25% por alguns segundos." skillName="Teleport Jaunt" />
+    <String id="27055" name="Energetic Thrall of Wrath" tooltip="Diminui o tempo de recarga em $value." skillName="Thrall of Wrath" />
+    <String id="27056" name="Servo da Ira fortalecido" tooltip="Aumenta o dano do Thrall of Wrath em 25%." skillName="Thrall of Wrath" />
+    <String id="27057" name="Fúria apressada" tooltip="Aumenta a velocidade de lançamento em $value." skillName="Thrall of Wrath" />
+    <String id="27058" name="Voto altruísta de renascimento" tooltip="O Conjurador recebe o efeito de Vow of Rebirth quando usado em outro alvo." skillName="Vow of Rebirth" />
+    <String id="27059" name="Vitae de Blazing Arun" tooltip="Acelera o lançamento das Lágrimas de Arun em 25% por alguns segundos." skillName="Arun's Vitae" />
+    <String id="27060" name="Favor Longshot Titanic" tooltip="Aumenta o alcance em 3 metros." skillName="Titanic Favor" />
+    <String id="27062" name="Salto de teleporte energético" tooltip="Diminui o tempo de recarga em $value." skillName="Teleport Jaunt" />
+    <String id="27063" name="Limpeza de Arun multiplicativa" tooltip="Aumenta o número de alvos de bloqueio em $value." skillName="Arun's Cleansing Touch" />
+    <String id="27064" name="Voto altruísta de renascimento" tooltip="O Conjurador recebe o efeito de Vow of Rebirth quando usado em outro alvo." skillName="Vow of Rebirth" />
+    <String id="27065" name="Domínio energético da vida" tooltip="Diminui o tempo de recarga em $value." skillName="Thrall of Life" />
+    <String id="27066" name="O chicote persistente de Shara" tooltip="Aumenta a duração do efeito em $value." skillName="Shara's Lash" />
+    <String id="27067" name="Favor Longshot Titanic" tooltip="Aumenta o alcance em 3 metros." skillName="Titanic Favor" />
+    <String id="27068" name="Vôlei influente de maldições" tooltip="Reduz o custo de MP de Volley of Curses em 33 por alguns segundos." skillName="Volley of Curses" />
+    <String id="27069" name="Trono persistente da vingança" tooltip="Aumenta a duração do servo em 35%." skillName="Thrall of Vengeance" />
+    <String id="27070" name="Sonhos sonoros brilhantes" tooltip="Reduz o custo de MP em $value." skillName="Sonorous Dreams" />
+    <String id="27071" name="Chicote de Shara Veloz" tooltip="Acelera o movimento em 50 por 3 segundos ao ser atingido." skillName="Shara's Lash" />
+    <String id="27072" name="Retaliação oportunista" tooltip="$prob de chance de limpar o tempo de recarga de Teleport Jaunt." skillName="Retaliate" />
+    <String id="27073" name="Equilíbrio de Retaliate" tooltip="Aumenta o equilíbrio em 500% por 2 segundos." skillName="Retaliate" />
+    <String id="27074" name="Espalhando a ira do Titanic" tooltip="Aumenta o raio da habilidade em 5M." skillName="Titanic Wrath" />
+    <String id="27075" name="Sonhos energéticos e sonoros" tooltip="Diminui o tempo de recarga em $value." skillName="Sonorous Dreams" />
+    <String id="27076" name="Thrall of Protection Resistente" tooltip="Aumenta a resistência de todos os membros do grupo em 10% por 10 minutos." skillName="Thrall of Protection" />
+    <String id="27077" name="Totem de Proteção Brilhante" tooltip="Diminui o consumo de MP em $value." skillName="Warding Totem" />
+    <String id="27078" name="Totem de Proteção Restaurativa" tooltip="Aumenta a regeneração de HP em 20%." skillName="Warding Totem" />
+    <String id="27079" name="Ressurreição acelerada" tooltip="Aumenta a velocidade de lançamento em $value." skillName="Resurrect" />
+    <String id="27080" name="Voto Energético de Renascimento" tooltip="Diminui o tempo de recarga em $value." skillName="Vow of Rebirth" />
+    <String id="27081" name="Vitae do Arun Restaurativo" tooltip="Recupera imediatamente 20% do HP total." skillName="Arun's Vitae" />
+    <String id="27082" name="A tentação persistente da vida" tooltip="Aumenta a duração do servo em 25%." skillName="Thrall of Life" />
+    <String id="27084" name="Súplica de maldições enfurecedoras" tooltip="$prob de chance de diminuir a Resistência em 3% por 16 segundos. Acumula até 3 vezes." skillName="Volley of Curses" />
+    <String id="27085" name="Hearty Resurrect" tooltip="Os alvos ressuscitam com Stamina de $value." skillName="Resurrect" />
+    <String id="27086" name="Contágio persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Contagion" />
+    <String id="27087" name="Brilliant Boomerang Pulse (Pulso Bumerangue Brilhante)" tooltip="Reduz o custo de MP em $value." skillName="Boomerang Pulse" />
+    <String id="27088" name="Pulso de bumerangue energético" tooltip="Diminui o tempo de recarga em $value." skillName="Boomerang Pulse" />
+    <String id="27089" name="Pulso de bumerangue energético" tooltip="Diminui o tempo de recarga em $value." skillName="Boomerang Pulse" />
+    <String id="28000" name="Restauração Cura-te a ti mesmo" tooltip="Aumenta a regeneração de HP em $value." skillName="Heal Thyself" />
+    <String id="28001" name="Círculo de Cura Restaurativa" tooltip="Aumenta a regeneração de HP em $value." skillName="Healing Circle" />
+    <String id="28002" name="Círculo de regeneração persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Regeneration Circle" />
+    <String id="28003" name="cura por foco multiplicativo" tooltip="Aumenta o número de alvos de bloqueio em $value." skillName="Focus Heal" />
+    <String id="28004" name="Escudo Energético da Kaia" tooltip="Diminui o tempo de recarga em $value." skillName="Kaia's Shield" />
+    <String id="28005" name="Círculo de Purificação Energética" tooltip="Diminui o tempo de recarga em $value." skillName="Purifying Circle" />
+    <String id="28006" name="Bênção persistente de Shakan" tooltip="Aumenta a duração do efeito em $value." skillName="Blessing of Shakan" />
+    <String id="28007" name="Bênção persistente de Arachne" tooltip="Aumenta a duração do efeito em $value." skillName="Blessing of Arachne" />
+    <String id="28008" name="Bênção persistente de Seren" tooltip="Aumenta a duração do efeito em $value." skillName="Blessing of Protection" />
+    <String id="28009" name="Bênção persistente de Balder" tooltip="Aumenta a duração do efeito em $value." skillName="Blessing of Balder" />
+    <String id="28012" name="Radiância Divina Potencializada" tooltip="Aumenta o dano da habilidade em $value." skillName="Divine Radiance" />
+    <String id="28013" name="Explosão Metamórfica Brilhante" tooltip="Reduz o custo de MP em $value." skillName="Metamorphic Blast" />
+    <String id="28014" name="Implosão chocante do Powerlinked" tooltip="Aumenta o dano da Represália Final em 25% por alguns segundos." skillName="Shocking Implosion" />
+    <String id="28018" name="Círculo de Regeneração Energética" tooltip="Diminui o tempo de recarga em $value." skillName="Regeneration Circle" />
+    <String id="28019" name="Infusão de Mana Espiritual" tooltip="Aumenta a reposição de MP em $value." skillName="Mana Infusion" />
+    <String id="28020" name="Fragmento de glyph passado" tooltip="Esse antigo glyph fragmentado não é mais usado." skillName="Mana Extraction" />
+    <String id="28021" name="Oração de paz apressada" tooltip="Aumenta a velocidade de lançamento em $value." skillName="Prayer of Peace" />
+    <String id="28022" name="Energetic Arise" tooltip="Diminui o tempo de recarga em $value." skillName="Arise" />
+    <String id="28023" name="Retaliar com poder" tooltip="Aumenta o dano da habilidade em $value." skillName="Retaliate" />
+    <String id="28024" name="Nêmesis triplo com ligação elétrica" tooltip="Aumenta o dano de Metamorphic Blast em 25% por alguns segundos." skillName="Triple Nemesis" />
+    <String id="28026" name="Ressurreição brilhante" tooltip="Reduz o custo de MP em $value." skillName="Resurrect" />
+    <String id="28027" name="Bênção reforçada de Zenobia" tooltip="Aumenta a velocidade de movimento em um valor adicional de $." skillName="Blessing of Zenobia" />
+    <String id="28028" name="Festa de Invocação Brilhante" tooltip="Reduz o custo de MP em $value." skillName="Summon Party" />
+    <String id="28029" name="Brilliant Homeward Bound" tooltip="Reduz o custo de MP em $value." skillName="Homeward Bound" />
+    <String id="28030" name="Brilliant Fiery Escape" tooltip="Reduz o custo de MP em $value." skillName="Fiery Escape" />
+    <String id="28031" name="Carga de Mana Apressada" tooltip="Aumenta a velocidade de carregamento em $value." skillName="Mana Charge" />
+    <String id="28032" name="Ressurreição Energética" tooltip="Diminui o tempo de recarga em $value." skillName="Resurrect" />
+    <String id="28033" name="Retaliação Energética" tooltip="Diminui o tempo de recarga em $value." skillName="Retaliate" />
+    <String id="28034" name="Canção de ninar de Ishara energética" tooltip="Diminui o tempo de recarga em $value." skillName="Ishara's Lullaby" />
+    <String id="28035" name="Santuário do Guardião Energético" tooltip="Diminui o tempo de recarga em $value." skillName="Guardian Sanctuary" />
+    <String id="28036" name="Respiro Energético Divino" tooltip="Diminui o tempo de recarga em $value." skillName="Divine Respite" />
+    <String id="28037" name="Praga energética da exaustão" tooltip="Diminui o tempo de recarga em $value." skillName="Plague of Exhaustion" />
+    <String id="28038" name="Círculo de Regeneração Influente" tooltip="Reduz o custo de MP da Cura Focalizada em 85 por alguns segundos." skillName="Regeneration Circle" />
+    <String id="28039" name="Carga de mana do Longshot" tooltip="Aumenta o alcance em 4 metros." skillName="Mana Charge" />
+    <String id="28040" name="Escudo da Kaia aterrado" tooltip="Aumenta a Resistência do lançador em 30% por 12 segundos." skillName="Kaia's Shield" />
+    <String id="28041" name="Bênção de Zenobia com pés de frota" tooltip="Aumenta a velocidade de movimento do lançador em 15 por 10 minutos." skillName="Blessing of Zenobia" />
+    <String id="28042" name="Festa de Invocação Energética" tooltip="Diminui o tempo de recarga em $value." skillName="Summon Party" />
+    <String id="28043" name="Carga de Mana com ligação elétrica" tooltip="Aumenta o dano da Implosão chocante em 25% por alguns segundos." skillName="Mana Charge" />
+    <String id="28044" name="Infusão de mana acelerada" tooltip="Aumenta a velocidade de lançamento em $value." skillName="Mana Infusion" />
+    <String id="28045" name="Ressurreição acelerada" tooltip="Aumenta a velocidade de lançamento em $value." skillName="Resurrect" />
+    <String id="28046" name="Estrelas de energia persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Energy Stars" />
+    <String id="28047" name="Estrelas da energia selvagem" tooltip="Aumenta o efeito de Energy Stars em $value." skillName="Energy Stars" />
+    <String id="28048" name="Explosão restauradora persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Restorative Burst" />
+    <String id="28049" name="Brilliant Restorative Burst" tooltip="Reduz o custo de MP em $value." skillName="Restorative Burst" />
+    <String id="28050" name="Brilhante represália final" tooltip="Reduz o custo de MP em $value." skillName="Final Reprisal" />
+    <String id="28051" name="Represália final persistente" tooltip="$prob chance de eliminar o tempo de espera." skillName="Final Reprisal" />
+    <String id="28052" name="Retardando a represália final" tooltip="$prob de chance de reduzir a Velocidade de Movimento do oponente em 30% por 4 segundos." skillName="Final Reprisal" />
+    <String id="28053" name="Explosão metamórfica entorpecente" tooltip="$prob de chance de reduzir a Velocidade de Ataque do oponente em 15% por 7 segundos." skillName="Metamorphic Blast" />
+    <String id="28054" name="Nêmesis Triplo Enfurecedor" tooltip="$prob chance de diminuir a Resistência em 10% por 12 segundos.$BRNão acumula com Kaia's Binding." skillName="Triple Nemesis" />
+    <String id="28055" name="cura com foco em tiro longo" tooltip="Aumenta o alcance em 3 metros." skillName="Focus Heal" />
+    <String id="28057" name="Restauração Cura-te a ti mesmo" tooltip="Aumenta a recuperação de HP em $value." skillName="Heal Thyself" />
+    <String id="28058" name="Implosão chocante do Powerlinked" tooltip="Aumenta o dano da Represália Final em 25% por alguns segundos." skillName="Shocking Implosion" />
+    <String id="28059" name="Infusão de Mana Espiritual" tooltip="Aumenta a reposição de MP em $value." skillName="Mana Infusion" />
+    <String id="28060" name="Nêmesis triplo com ligação elétrica" tooltip="Aumenta o dano de Metamorphic Blast em 25% por alguns segundos." skillName="Triple Nemesis" />
+    <String id="28061" name="Bênção de Zenobia com pés de frota" tooltip="Aumenta a Velocidade de Movimento do lançador em 15 por 10 minutos." skillName="Blessing of Zenobia" />
+    <String id="28062" name="Círculo de Regeneração Energética" tooltip="Diminui o tempo de recarga em $value." skillName="Regeneration Circle" />
+    <String id="28063" name="Praga energética da exaustão" tooltip="Diminui o tempo de recarga em $value." skillName="Plague of Exhaustion" />
+    <String id="28064" name="Explosão Restauradora Brilhante" tooltip="Reduz o custo de MP em $value." skillName="Restorative Burst" />
+    <String id="28065" name="Ressurreição brilhante" tooltip="Reduz o custo de MP em $value." skillName="Resurrect" />
+    <String id="28066" name="Fuga energética e ardente" tooltip="Diminui o tempo de recarga em $value." skillName="Fiery Escape" />
+    <String id="28067" name="Regenerando o escudo da Kaia" tooltip="Restaura 5% do HP total de todos os alvos a cada 2 segundos por 6 segundos." skillName="Kaia's Shield" />
+    <String id="28068" name="Carga de Mana Espiritual" tooltip="Aumenta a reposição de MP em $value." skillName="Mana Charge" />
+    <String id="28069" name="Calmante Foco Cura" tooltip="Diminuir o aggro em $value" skillName="Focus Heal" />
+    <String id="28070" name="Equilíbrio do Guardian Sanctuary" tooltip="Duplica o equilíbrio por 30 segundos." skillName="Guardian Sanctuary" />
+    <String id="28071" name="Levanta-te persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Arise" />
+    <String id="28072" name="Carga de Mana Espiritual" tooltip="Aumenta a reposição de MP em $value." skillName="Mana Charge" />
+    <String id="28073" name="Imersão de cura persistente" tooltip="$prob chance de eliminar o tempo de espera." skillName="Healing Immersion" />
+    <String id="28074" name="Graça energética da ressurreição" tooltip="Diminui o tempo de recarga em $value." skillName="Grace of Resurrection" />
+    <String id="28075" name="Imersão em Cura Restaurativa" tooltip="Aumenta a recuperação de HP em $value." skillName="Healing Immersion" />
+    <String id="28076" name="Bênção reforçada de Zenobia" tooltip="Aumenta a velocidade de movimento em um valor adicional de $." skillName="Blessing of Zenobia" />
+    <String id="28077" name="Infusão de mana acelerada" tooltip="Aumenta a velocidade de lançamento em $value." skillName="Mana Infusion" />
+    <String id="28078" name="Explosão restauradora espirituosa" tooltip="Repõe 50 MP por segundo para todos os alvos." skillName="Restorative Burst" />
+    <String id="28079" name="Ressuscitação Saudável" tooltip="Os alvos ressuscitam com Stamina de $value." skillName="Resurrect" />
+    <String id="28082" name="Intervenção Divina Energética" tooltip="Diminui o tempo de recarga em $value." skillName="Divine Intervention" />
+    <String id="28083" name="Brilhante Intervenção Divina" tooltip="Reduz o custo de MP em $value." skillName="Divine Intervention" />
+    <String id="28084" name="Intervenção Divina Longshot" tooltip="Aumenta o alcance em 4 metros." skillName="Divine Intervention" />
+    <String id="28085" name="Vórtice energético de Zenobia" tooltip="Diminui o tempo de recarga em $value." skillName="Zenobia's Vortex" />
+    <String id="28086" name="Vórtice energético de Zenobia" tooltip="Diminui o tempo de recarga em $value." skillName="Zenobia's Vortex" />
+    <String id="28087" name="Vórtice brilhante de Zenobia" tooltip="Reduz o custo de MP em $value." skillName="Zenobia's Vortex" />
+    <String id="28088" name="O poderoso vórtice de Zenobia" tooltip="Aumenta o dano da habilidade em $value." skillName="Zenobia's Vortex" />
+    <String id="29000" name="Poderosa barragem em espiral" tooltip="$prob chance de infligir o dobro de dano." skillName="Spiral Barrage" />
+    <String id="29001" name="Barragem espiralada espirituosa" tooltip="Aumenta a reposição de MP em $value." skillName="Spiral Barrage" />
+    <String id="29002" name="Barragem espiral rápida" tooltip="$prob de chance de aumentar a Velocidade de Ataque em 15% por 10 segundos." skillName="Spiral Barrage" />
+    <String id="29003" name="Escultura de barragem em espiral" tooltip="Dobra a chance de crítico." skillName="Spiral Barrage" />
+    <String id="29004" name="Tesoura dupla restauradora" tooltip="Recupera $value do HP total em cada acerto." skillName="Double Shear" />
+    <String id="29005" name="Tesoura dupla com ligação elétrica" tooltip="Aumenta o dano do Golpe Sombrio em 20% por alguns segundos." skillName="Double Shear" />
+    <String id="29006" name="Poderoso golpe de destruição" tooltip="Aumenta o dano da habilidade em $value." skillName="Sundering Strike" />
+    <String id="29009" name="Golpe enérgico de Grim" tooltip="$prob chance de eliminar o tempo de espera." skillName="Grim Strike" />
+    <String id="29010" name="Ataque Sombrio e Ardente" tooltip="Acelera o lançamento de Double Shear em 25% por alguns segundos." skillName="Grim Strike" />
+    <String id="29011" name="Poderosa espiral da morte" tooltip="Aumenta o dano da habilidade em $value." skillName="Death Spiral" />
+    <String id="29012" name="Espiral da morte persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Death Spiral" />
+    <String id="29013" name="Espiral da morte com link de energia" tooltip="Aumenta o dano do Double Shear em 20% por alguns segundos." skillName="Death Spiral" />
+    <String id="29014" name="Espiral da morte com link de energia" tooltip="Aumenta o dano do Golpe Sombrio em 20% por alguns segundos." skillName="Death Spiral" />
+    <String id="29015" name="Poderosa serra elétrica" tooltip="Aumenta o dano da habilidade em $value." skillName="Whipsaw" />
+    <String id="29016" name="Chicote energético" tooltip="Diminui o tempo de recarga em $value." skillName="Whipsaw" />
+    <String id="29017" name="Chicote entorpecente" tooltip="$prob de chance de diminuir a Velocidade de Ataque do oponente em 10% por 7 segundos para cada acerto. (Os efeitos de desaceleração acumulam até 5 vezes)." skillName="Whipsaw" />
+    <String id="29018" name="Golpe Energético" tooltip="Diminui o tempo de recarga em $value." skillName="Smite" />
+    <String id="29019" name="Golpe persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Smite" />
+    <String id="29020" name="Poderoso golpe de pêndulo" tooltip="Aumenta o dano da habilidade em $value." skillName="Pendulum Strike" />
+    <String id="29021" name="Golpe do Pêndulo Energético" tooltip="Diminui o tempo de recarga em $value." skillName="Pendulum Strike" />
+    <String id="29022" name="Golpe de pêndulo com ligação elétrica" tooltip="Aumenta a chance de acerto crítico de Whipsaw em 30% por alguns segundos." skillName="Pendulum Strike" />
+    <String id="29023" name="Cílios Energetic Shadow Lash" tooltip="Diminui o tempo de recarga em $value." skillName="Shadow Lash" />
+    <String id="29024" name="Sombra para cílios Spirited Shadow Lash" tooltip="Aumenta a reposição de MP em $value." skillName="Shadow Lash" />
+    <String id="29025" name="Explosão energética de sombras" tooltip="Diminui o tempo de recarga em $value." skillName="Shadow Burst" />
+    <String id="29026" name="Explosão Rápida de Sombras" tooltip="Aumenta a velocidade de lançamento em $value." skillName="Shadow Burst" />
+    <String id="29027" name="Brilhante reversão da alma" tooltip="Reduzir o custo de MP de fundição e troca de posições em $value." skillName="Soul Reversal" />
+    <String id="29028" name="Reversão Energética da Alma" tooltip="Diminui o tempo de recarga em $value." skillName="Soul Reversal" />
+    <String id="29029" name="Retaliação poderosa" tooltip="Aumenta o dano da habilidade em $value." skillName="Retaliate" />
+    <String id="29030" name="Retaliação Energética" tooltip="Diminui o tempo de recarga em $value." skillName="Retaliate" />
+    <String id="29031" name="Retribuição energética" tooltip="Diminui o tempo de recarga em $value." skillName="Retribution" />
+    <String id="29032" name="Colheita de Sombras Brilhantes" tooltip="Reduz o custo de MP em $value." skillName="Shadow Reaping" />
+    <String id="29033" name="Colheita de sombras persistentes" tooltip="Aumenta a duração do efeito em $value." skillName="Shadow Reaping" />
+    <String id="29035" name="Passo do cabo energético" tooltip="Diminui o tempo de recarga em $value." skillName="Cable Step" />
+    <String id="29036" name="Passo do cabo Swift" tooltip="Aumenta a velocidade de ataque da próxima habilidade em 50% ao ser atingido." skillName="Cable Step" />
+    <String id="29037" name="Passo do cabo com ligação elétrica" tooltip="Aumenta o dano de Shadow Burst em 20% por alguns segundos." skillName="Cable Step" />
+    <String id="29038" name="Passo energético da sombra" tooltip="Diminui o tempo de recarga em $value." skillName="Shadow Step" />
+    <String id="29039" name="Fleetfooted Shadow Step" tooltip="Aumenta a Velocidade de Movimento do combate em 50 por 2 segundos." skillName="Shadow Step" />
+    <String id="29046" name="Golpe Energético" tooltip="Diminui o tempo de recarga em $value." skillName="Smite" />
+    <String id="29047" name="Poderosa serra elétrica" tooltip="Aumenta o dano da habilidade em $value." skillName="Whipsaw" />
+    <String id="29048" name="Espiral da morte com link de energia" tooltip="Aumenta o dano do Golpe Sombrio em 20% por alguns segundos." skillName="Death Spiral" />
+    <String id="29049" name="Brilliant Shadow Burst" tooltip="Reduz o custo de MP em $value." skillName="Shadow Burst" />
+    <String id="29051" name="Escape enérgico e envolto em mortalha" tooltip="Diminui o tempo de recarga em $value." skillName="Shrouded Escape" />
+    <String id="29052" name="Fuga encoberta e persistente" tooltip="Aumenta a duração do efeito em $value." skillName="Shrouded Escape" />
+    <String id="30000" name="Glyph do poder" tooltip="Aumenta o dano da habilidade em $value" skillName="Blast" />
+    <String id="30001" name="Glyph de Brilhantismo" tooltip="Ganhe 5 de Força de Vontade em um acerto bem-sucedido." skillName="Blast" />
+    <String id="30002" name="Glyph do veloz" tooltip="$prob chance de aumentar a velocidade de ataque em 15% por 10 segundos." skillName="Blast" />
+    <String id="30003" name="Glyph de entalhe" tooltip="Aumenta a taxa de crítico em 1,5 vezes." skillName="Bombardment" />
+    <String id="30004" name="Glyph do veloz" tooltip="Aumenta a velocidade de lançamento em $value" skillName="Bombardment" />
+    <String id="30005" name="Glyph do poder" tooltip="Aumenta o dano da habilidade em $value." skillName="Scattershot" />
+    <String id="30006" name="Glyph de energia" tooltip="$prob chance de eliminar o tempo de recarga da Bomba de Arco." skillName="Point Blank" />
+    <String id="30007" name="Glyph do Slick" tooltip="Reduz o recuo em 40%." skillName="Scattershot" />
+    <String id="30008" name="Glyph do Espírito" tooltip="Reduz o custo de MP em $value." skillName="Scattershot" />
+    <String id="30009" name="Glyph do poder" tooltip="Aumenta o dano da habilidade em $value." skillName="Point Blank" />
+    <String id="30010" name="Glyph de restauração" tooltip="Recupera $value do HP total em cada acerto." skillName="Point Blank" />
+    <String id="30011" name="Glyph de energia" tooltip="Diminui o tempo de recarga em $value." skillName="Point Blank" />
+    <String id="30012" name="Glyph de restauração" tooltip="Recupera $value do HP total em cada acerto." skillName="Burst Fire" />
+    <String id="30013" name="Glyph de tiro longo" tooltip="Aumenta o alcance em 5 metros." skillName="Burst Fire" />
+    <String id="30014" name="Glyph do poder" tooltip="Aumenta o dano da habilidade em $value." skillName="Time Bomb" />
+    <String id="30015" name="Glyph do Espírito" tooltip="Ganhe 15 de Força de Vontade em um acerto bem-sucedido." skillName="Time Bomb" />
+    <String id="30016" name="Glyph do poder" tooltip="Aumenta o dano da habilidade em $value." skillName="Arcane Barrage" />
+    <String id="30017" name="Glyph do escudo" tooltip="Aumenta a Velocidade de Ataque em 30% até que a Barragem Arcana seja detonada." skillName="Arcane Barrage" />
+    <String id="30018" name="Glyph do Espírito" tooltip="Ganhe 15 de Força de Vontade em um acerto bem-sucedido." skillName="Arcane Barrage" />
+    <String id="30019" name="Glyph de entalhe" tooltip="Taxa de crítico dupla." skillName="Mana Missiles" />
+    <String id="30021" name="Glyph do poder" tooltip="Aumenta o dano da habilidade em $value." skillName="Arc Bomb" />
+    <String id="30022" name="Glyph da lentidão" tooltip="Aumenta a duração do efeito em $value." skillName="Arc Bomb" />
+    <String id="30023" name="Glyph do Espírito" tooltip="Reduz o custo de MP em $value." skillName="Arc Bomb" />
+    <String id="30024" name="Glyph de energia" tooltip="Diminui o tempo de recarga em $value." skillName="Rocket Jump" />
+    <String id="30028" name="Glyph de energia" tooltip="Diminui o tempo de recarga em $value." skillName="Balder's Vengeance" />
+    <String id="30029" name="Glyph de Fleetfoot" tooltip="Aumenta a velocidade de movimento em 50% por 5 segundos." skillName="Rocket Jump" />
+    <String id="30030" name="Glyph de energia" tooltip="Diminui o tempo de espera em $value" skillName="Replenish" />
+    <String id="30031" name="Glyph do Espírito" tooltip="Ganha 50 de Força de Vontade adicional quando a habilidade é usada." skillName="Replenish" />
+    <String id="30032" name="Glyph de energia" tooltip="Diminui o tempo de recarga em $value." skillName="ST" />
+    <String id="30033" name="Glyph do poder" tooltip="Aumenta o dano da habilidade em $value." skillName="HB" />
+    <String id="30034" name="Glyph do poder" tooltip="Aumenta o poder de ataque de um ST em 20%." skillName="ST" />
+    <String id="30035" name="Glyph da lentidão" tooltip="Aumenta a duração de uma ST em 30%." skillName="ST" />
+    <String id="30036" name="Glyph do Espírito" tooltip="Reduz o custo de MP em $value." skillName="ST" />
+    <String id="30037" name="Glyph do poder" tooltip="Aumenta o dano da habilidade em $value." skillName="Retaliate" />
+    <String id="30038" name="Glyph de energia" tooltip="Diminui o tempo de recarga em $value." skillName="Retaliate" />
+    <String id="30039" name="Glyph de energia" tooltip="Diminui o tempo de recarga em $value." skillName="Command: Recall" />
+    <String id="30040" name="Glyph de energia" tooltip="Diminui o tempo de recarga em $value." skillName="Command: Self-Destruct" />
+    <String id="30041" name="Glyph de energia" tooltip="$prob chance de eliminar o tempo de espera." skillName="Rolling Reload" />
+    <String id="30042" name="Espingarda com ligação elétrica" tooltip="Aumenta em 20% o dano de habilidade da próxima habilidade em cadeia: Scattershot." skillName="Rolling Reload" />
+    <String id="30043" name="Glyph de entalhe" tooltip="Taxa de crítico dupla." skillName="Bombardment" />
+    <String id="30044" name="Glyph do poder" tooltip="Aumenta o dano da habilidade em $value." skillName="Scattershot" />
+    <String id="30045" name="Glyph do poder" tooltip="Aumenta o dano da habilidade em $value." skillName="Point Blank" />
+    <String id="30046" name="Glyph do Espírito" tooltip="Reduz o custo de Força de Vontade em 10." skillName="Burst Fire" />
+    <String id="30047" name="Glyph de tiro longo" tooltip="Aumenta o alcance em 5 metros." skillName="Burst Fire" />
+    <String id="30048" name="Glyph do poder" tooltip="Aumenta o dano da habilidade em $value." skillName="Arcane Barrage" />
+    <String id="30049" name="Glyph do escudo" tooltip="Aumenta a Velocidade de Ataque em 30% até que a Barragem Arcana seja detonada." skillName="Arcane Barrage" />
+    <String id="30050" name="Glyph de entalhe" tooltip="Taxa de crítico triplo." skillName="Mana Missiles" />
+    <String id="30051" name="Glyph do poder" tooltip="Aumenta o dano da habilidade em $value." skillName="Arc Bomb" />
+    <String id="30052" name="Glyph de energia" tooltip="Diminui o tempo de recarga em $value." skillName="Rocket Jump" />
+    <String id="30055" name="Glyph de energia" tooltip="Diminui o tempo de recarga em $value." skillName="Balder's Vengeance" />
+    <String id="30056" name="Glyph de energia" tooltip="Diminui o tempo de recarga em $value." skillName="Replenish" />
+    <String id="30057" name="Glyph de energia" tooltip="Diminui o tempo de recarga em $value." skillName="ST" />
+    <String id="30058" name="Glyph do poder" tooltip="Aumenta o dano da habilidade em $value." skillName="Balder's Vengeance" />
+    <String id="30059" name="Glyph de energia" tooltip="$prob chance de eliminar o tempo de espera." skillName="Rolling Reload" />
+    <String id="30060" name="Glyph de energia" tooltip="Diminui o tempo de recarga em $value." skillName="Command: Recall" />
+	<!--NEW-->
+	<String id="30061" name="Chuva de flechas do caçador" tooltip="Aumenta em 2 vezes a probabilidade de um acerto crítico em uma batalha contra monstros" skillName="Дождь стрел" />
+	<String id="25055" name="Explosão de fogo impulsionadora" tooltip="Aumenta a chance de acerto crítico em 2x ao lutar contra monstros." skillName="Fireblast" />
+	<String id="22058" name="Ataque Afiado" tooltip="Fator de critério de duplas." skillName="Onslaught" />
+	<String id="21079" name="Foice afiada" tooltip="Fator de crítica dupla" skillName="Scythe" />
+	<String id="23061" name="Fatia Medida Keen" tooltip="Fator de critério de duplas." skillName="Measured Slice" />
+	<String id="29007" name="Esculpir o golpe de destruição" tooltip="Dobra a chance de crítico." skillName="Sundering Strike" />
+	<String id="26064" name="Flecha Radiante Afiada" tooltip="Fator de critério triplo." skillName="Radiant Arrow" />
+	<String id="24064" name="Esculpir o Smash Evasivo" tooltip="Dobra a chance de crítico." skillName="Evasive Smash" />
+	<String id="24066" name="Ciclone de entalhe" tooltip="Dobra a chance de crítico." skillName="Cyclone" />
+	<String id="24048" name="Esculpindo o golpe do trovão" tooltip="Dobra a chance de crítico." skillName="Thunder Strike" />
+	<String id="24002" name="Esculpindo o golpe do trovão" tooltip="Dobra a chance de crítico." skillName="Thunder Strike" />
+	<String id="29050" name="Esculpindo o Grim Strike" tooltip="Dobra a chance de um acerto crítico." skillName="Grim Strike" />
+</StrSheet_Crest>

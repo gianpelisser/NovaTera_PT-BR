@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="11" id="22" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="211" id="100" prevId="0" villagerId="1007">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="211" id="2" prevId="0" villagerId="1007">
+         
+        <Page social="4">Entendo que é preciso ter muita cautela no que diz respeito aos piratas do Red Lash. Mas se não conseguirmos retomar nossas operações de pesca, será uma corrida para ver se morreremos de fome ou ficaremos falidos primeiro.&lt;BR&gt;&lt;BR&gt;Você não me parece exatamente um bom pescador. Mas se você acabar com os {@LinkCreature:11#4003#Ladrões livres do chicote vermelho} na Costa Nervosa, isso dará às frotas pesqueiras a confiança de que precisam para deixar suas docas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="211" id="3" prevId="2" villagerId="1007">
+         
+        <Page social="4">Com menos pirataria ao longo da Costa Sinuosa, Nerth pode persuadir a frota pesqueira a voltar ao mar.&lt;BR&gt;&lt;BR&gt;Nagas são tenazes, no entanto, e tenho certeza de que ainda não vimos a última vez dos piratas de Red Lash.&lt;BR&gt;&lt;BR&gt;Se realmente quisermos que a frota pesqueira se sinta segura, temos que erradicar os nagas de sua base na Gruta dos Piratas de uma vez por todas.&lt;BR&gt;&lt;BR&gt;Eu disse "nós"? Eu quis dizer "você".</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="25" id="2" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">Jelena sent word that Elleon and the rest of his contingent were missing in the Dark Cathedral and asked for your help.&lt;BR&gt;&lt;BR&gt;At the Dark Cathedral, you met with Runha, a ranger like Jelena, and learned that Elleon and his soldiers went through a teleportal in pursuit of a Scion priestess, but were cut off. You were able to help Runha establish a new connection to Cultists' Refuge.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">Mission Orders&lt;BR&gt;&lt;BR&gt;Message from Velika. Return to Tulufan immediately.&lt;BR&gt;&lt;BR&gt;—Baruch</Page>
+    
+    </Text>
+    <Text huntingZoneId="66" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="4">A messenger—Brurun I think is his name—is looking for you. He's across the square.</Page>
+    
+    </Text>
+    <Text huntingZoneId="66" id="4" prevId="3" villagerId="1024">
+         
+        <Page social="4">Are you &lt;PCNAME&gt;? If you're not, we have nothing to talk about.&lt;BR&gt;&lt;BR&gt;Well, if you're sure you are... Jelena sent word for you. Elleon disappeared while tracking down a lead on the Scions of Lok. Inform Baruch and get moving.&lt;BR&gt;&lt;BR&gt;Elleon needs you!</Page>
+    
+    </Text>
+    <Text huntingZoneId="66" id="5" prevId="4" villagerId="1001">
+         
+        <Page social="4">Elleon...missing? I pray he's safe. Elsine raced toward the Dark Cathedral as soon as she heard. That's not the sort of place an archaeologist should go alone.&lt;BR&gt;&lt;BR&gt;Speak with Centurion Orlaith at Crusader Camp. If she's there, he'll know where she's going.</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="6" prevId="5" villagerId="1006">
+         
+        <Page social="4">Elsine said she was going to the Cathedral Redoubt and should be there now. As for Elleon, we haven't heard from him since he entered the cathedral.&lt;BR&gt;&lt;BR&gt;He was pursuing a priestess. Ackbar? Saskia? What was her name?</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="7" prevId="6" villagerId="1022">
+         
+        <Page social="4">Ah, &lt;PCNAME&gt;. You must have heard the news, too. Elleon and his team went missing inside the cathedral.&lt;BR&gt;&lt;BR&gt;I know there's not much I can do here, but I can't just sit and wait.&lt;NEXTPAGEBUTTON&gt;"Maybe the soldiers should be fighting?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">I suppose you're right. It's probably a better idea to get your help. Please go save them.&lt;BR&gt;&lt;BR&gt;It's Prefect Rendalf who first reported Elleon missing. He's waiting at Vindicator Redoubt. Find him, and he'll tell you the details.</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="8" prevId="7" villagerId="1027">
+         
+        <Page social="4">You're the famous &lt;PCNAME&gt;? The one who helped capture the traitor Samael, may he rot forever? What an honor! How can I be of service?&lt;BR&gt;&lt;BR&gt;Elleon? He took his team through this teleportal we found on the lowest level of this place...and then it just stopped working. No one's been able to get through it. Runha is working on it, but she hasn't succeeded yet.&lt;BR&gt;&lt;BR&gt;No doubt she could use your help.</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="9" prevId="8" villagerId="1023">
+         
+        <Page social="4">Welcome, &lt;PCNAME&gt;. Lamentably, the means to reactivate this teleportal are elusive—and damnably frustrating.&lt;BR&gt;&lt;BR&gt;Most likely, the Scions disengaged the teleportal at the other end, but perhaps it can be reactivated.&lt;BR&gt;&lt;BR&gt;We'll need "mementos of sacrifice"—borne by {@LinkCreature:25#8011#Nurkrasid}, {@LinkCreature:25#8021#Valursus}, and {@LinkCreature:25#8031#Masakrad}. With the tokens in hand, we might be able to reconnect with whatever's on the other side.</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="10" prevId="9" villagerId="1023">
+         
+        <Page social="4">The tokens are acquired? Splendid! Now we can use the {@LinkObject:31#summoning stone} in the Chapterhouse.&lt;BR&gt;&lt;BR&gt;Beware--some of those summoning stones have magical links to various kinds of monstrous guardians.</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="11" villagerId="1023">
+         
+        <Page social="0">I need the resonance from those three mementos of sacrifice. {@LinkCreature:25#8011#Nurkrasid}, {@LinkCreature:25#8021#Valursus}, {@LinkCreature:25#8031#Masakrad} must die in order to obtain them.</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="12" prevId="10" villagerId="1023">
+         
+        <Page social="4">The portal is open! Well done!&lt;BR&gt;&lt;BR&gt;We must hurry, however. Who knows what trouble the others are in!</Page>
+    
+    </Text>
+</QuestDialog>

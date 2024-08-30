@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="5" id="24" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="205" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="205" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="5">Continuo achando que finalmente vou conseguir terminar essa pesquisa, mas as coisas continuam surgindo! O {@LinkCreature:5#15#Hungry Cullar} e o {@LinkCreature:5#15#tentacullar} continuam passeando exatamente onde eu quero estar. Não são as criaturas mais simpáticas.&lt;BR&gt;&lt;BR&gt;Será que você não poderia ir até lá e acabar com eles para mim? Isso facilitaria muito a conclusão da pesquisa.</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="5">Já terminou? Uau, obrigado! Devo ser capaz de terminar isso em pouco tempo sem as criaturas em meu caminho.&lt;BR&gt;&lt;BR&gt;Leve isso por seus esforços. Eu, e por extensão, Ackerly, realmente apreciamos isso.</Page>
+    
+    </Text>
+</QuestDialog>

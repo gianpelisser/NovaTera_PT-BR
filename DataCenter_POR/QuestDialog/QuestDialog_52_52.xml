@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="52" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="79" id="100" prevId="0" villagerId="1056">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="79" id="2" prevId="0" villagerId="1056">
+         
+        <Page social="5">Portanto, estou procurando emblemas necróticos. Não, você não vai querer saber o motivo, mas estou oferecendo uma consideração valiosa em troca.&lt;NEXTPAGEBUTTON&gt;"O quê, exatamente?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="5">Distintivos de dualidade. Ótima troca, não é? Eu sabia que você concordaria, porque você é inteligente. Como eu.&lt;BR&gt;&lt;BR&gt;Só traga os emblemas necróticos quando os tiver. Faremos negócio.</Page>
+    
+    </Text>
+    <Text huntingZoneId="79" id="3" prevId="2" villagerId="1056">
+         
+        <Page social="5">Aí está você, pronto para negociar! Vou levar meus distintivos, e aqui estão os seus.&lt;BR&gt;&lt;BR&gt;Venha sempre que quiser!</Page>
+    
+    </Text>
+    <Text huntingZoneId="79" id="4" villagerId="1056">
+         
+        <Page social="0">Acho melhor adiar a transação até que você encontre mais emblemas necróticos.&lt;BR&gt;&lt;BR&gt;No seu lugar, eu não demoraria muito. Não precisarei de mais emblemas quando meu pedido for atendido.</Page>
+    
+    </Text>
+</QuestDialog>

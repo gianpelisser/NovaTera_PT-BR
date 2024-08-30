@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="489" id="23" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="489" id="100" prevId="0" villagerId="1016">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="489" id="2" prevId="0" villagerId="1016">
+         
+        <Page social="4">Desde que eu era criança, meus pais me diziam: "Todos esses livros serão a sua morte!". Não é exatamente sofisticada, minha família.&lt;BR&gt;&lt;BR&gt;Mas eles estão certos. Um livro vai me matar, e você vai ajudar.&lt;BR&gt;&lt;BR&gt;Atel Akaad tem algo chamado "Livro do Abismo". Lê-lo é perder sua alma. Mas, se eu conseguir chegar ao final, poderemos aprender muito sobre o motivo de toda essa conspiração.&lt;BR&gt;&lt;BR&gt;Eu conheço os riscos. Há uma guerra em andamento! O que é uma vida?</Page>
+    
+    </Text>
+    <Text huntingZoneId="489" id="3" prevId="2" villagerId="1016">
+         
+        <Page social="4">Posso sentir o poder em seu interior.&lt;BR&gt;&lt;BR&gt;Vou ler... mas devagar. Quanto mais eu avançar, mais aprenderemos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="489" id="4" villagerId="1016">
+         
+        <Page social="0">Traga-me o livro!</Page>
+    
+    </Text>
+</QuestDialog>

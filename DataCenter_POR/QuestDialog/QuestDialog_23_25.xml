@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="23" id="25" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="223" id="100" prevId="0" villagerId="1035">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="223" id="2" prevId="0" villagerId="1035">
+         
+        <Page social="5">Originalmente, Karas guardava o Lago das Lágrimas, mas ele desapareceu há muito tempo.&lt;BR&gt;&lt;BR&gt;Agora, todos os tipos de criaturas caçam ao redor do lago. O pior de todos são os {@LinkCreature:23#5#moonlight stalkers}.&lt;BR&gt;&lt;BR&gt;Eles mataram dezenas de poporis nos últimos meses. Se você pudesse caçá-los, nós respiraríamos mais facilmente.</Page>
+    
+    </Text>
+    <Text huntingZoneId="223" id="3" prevId="2" villagerId="1035">
+         
+        <Page social="5">Esses gatos irritantes não vão nos incomodar novamente! Sua intervenção ajudou a evitar uma catástrofe. Hee, hee!</Page>
+    
+    </Text>
+</QuestDialog>

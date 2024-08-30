@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="40" id="44" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="240" id="100" prevId="0" villagerId="1027">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="240" id="2" prevId="0" villagerId="1027">
+         
+        <Page social="4">Why did they send me here? I'm not a soldier! Guard the watchpost, they said. Kill {@LinkCreature:40#4#armored piglings} and {@LinkCreature:40#3#enraged armored piglings}, they said. I'll be the one getting killed.&lt;BR&gt;&lt;BR&gt;Unless I could pay you to kill them for me, of course.&lt;BR&gt;&lt;BR&gt;My friend {@LinkCreature:240#1026$$Grada} owes me a gambling debt. Kill the pigs and it's yours.</Page>
+    
+    </Text>
+    <Text huntingZoneId="240" id="3" prevId="2" villagerId="1026">
+         
+        <Page social="4">Wooron sent you? Old scoundrel cheats at dice, you know.</Page>
+    
+    </Text>
+    <Text huntingZoneId="240" id="4" villagerId="1026">
+         
+        <Page social="0">I'm not forking over Wooron's cash unless you kill those {@LinkCreature:40#4#armored piglings} and {@LinkCreature:40#3#enraged armored piglings}.</Page>
+    
+    </Text>
+</QuestDialog>

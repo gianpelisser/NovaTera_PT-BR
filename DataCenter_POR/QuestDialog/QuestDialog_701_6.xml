@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="701" id="6" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="230" id="100" prevId="0" villagerId="7000">
+         
+        <Page social="0">Você ajudou o Clã Consos a limpar a área do jardim do templo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="2" prevId="0" villagerId="7000">
+         
+        <Page social="0">Você falou com Nahad? Ele pediu mais ajuda para limpar o jardim do templo.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Eu posso ajudar.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="451" id="3" prevId="2" villagerId="7001">
+         
+        <Page social="4">Oh, &lt;PCNAME&gt;. Estou feliz em vê-lo. Muito obrigado por me ajudar. Entre o lixo, os grafites e os vampiros, estou sobrecarregado.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Onde você precisa da minha ajuda?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="451" id="4" prevId="2" villagerId="7001">
+         
+        <Page social="4">Obrigado por seu serviço no templo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="451" id="5" prevId="2" villagerId="7001">
+         
+        <Page social="4">Obrigado por seu serviço no templo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="451" id="6" prevId="2" villagerId="7001">
+         
+        <Page social="4">Obrigado por seu serviço no templo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="451" id="7" prevId="3" villagerId="903">
+         
+        <Page social="4">Um recipiente para resíduos. &lt;NEXTPAGEBUTTON&gt;Feche sua tampa.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="451" id="8" villagerId="903">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="230" id="9" prevId="7" villagerId="7000">
+         
+        <Page social="4">Obrigado, &lt;PCNAME&gt;. Por favor, aceite isso como um símbolo de minha gratidão.</Page>
+    
+    </Text>
+</QuestDialog>

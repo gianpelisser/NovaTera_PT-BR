@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="5" id="94" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="60" id="100" prevId="0" villagerId="1014">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="60" id="2" prevId="0" villagerId="1014">
+         
+        <Page social="0">Mission Orders &lt;BR&gt;&lt;BR&gt;Those cursed sabertooths are mauling federation personnel in the Tuwangi Mire and must be stopped.&lt;BR&gt;&lt;BR&gt;Kill those {@LinkCreature:5#13#inky sabertooths}.&lt;BR&gt;&lt;BR&gt;Report to Zelia at the Tuwangi Garrison when your mission is complete.</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="3" prevId="2" villagerId="1011">
+         
+        <Page social="5">Inky sabertooths down in numbers? I love it! I'll mark it right here on my chart, and I'll include it in my report!</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="4" villagerId="1011">
+         
+        <Page social="0">Do I look like a sabertooth to you?</Page>
+    
+    </Text>
+</QuestDialog>

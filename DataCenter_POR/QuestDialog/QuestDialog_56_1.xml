@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="56" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">Seguindo os avisos de Isrenia sobre os planos de Thulsa e Killian para Sikander, você lutou em Susurrus Woods para impedir que os mekonaris sequestrassem todos e destruiu o altar onde eles haviam sacrificado centenas de prisioneiros. Lá, as pistas o levaram a Amena Quatla, lar dos sikandaris e do grande ovo onde Sikander dorme.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">O ritual tem duas partes. A primeira é no Altar do Corvo. A segunda está no Sanctum of Resurrection. Você deve parar ambas.&lt;BR&gt;&lt;BR&gt;Procure conselhos em Dragonfall, depois siga o rastro dos sequestradores.</Page>
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="80" id="3" prevId="2" villagerId="1020">
+         
+        <Page social="4">Os mekonaris limparam a Floresta de Susurrus. Humanos, amani, baraka... não importava.&lt;BR&gt;&lt;BR&gt;Eles levaram multidões de pessoas para a estrada leste, até mesmo as crianças. Enviamos tudo o que podíamos para o Acampamento Umbra - eles estão encarregados de resgatar os abduzidos -, mas ainda estão em grande desvantagem numérica.&lt;BR&gt;&lt;BR&gt;Vá para Nightwood e acabe com todos os caçadores mekonari e tecelões de ébano que encontrar. Talvez assim tenhamos menos seqüestrados em nossas mãos.&lt;BR&gt;&lt;BR&gt;Fale com Arshak quando chegar, ele lhe dirá tudo o que sabe.</Page>
+    
+    </Text>
+    <Text huntingZoneId="256" id="4" prevId="3" villagerId="1010">
+         
+        <Page social="1">&lt;PCNAME&gt;? É graça da Kaia que você está aqui. Você já sabe muito, mas deixe-me contar o resto. Os mekonaris acham que todo o sangue que derramaram em homenagem a Sikander o despertará para recompensá-los alegremente. Idiotas.&lt;BR&gt;&lt;BR&gt;Mas há algo pior. O ritual que Killian lhes deu arranca as almas sacrificadas do Sonho. Indescritível!&lt;BR&gt;&lt;BR&gt;Os mekonari acreditam que isso atrairá Sikander para casa, mas certamente envenenará sua mente!&lt;NEXTPAGEBUTTON&gt;"Você está certo. Esse é o objetivo de Thulsa."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Ele quer acordar Sikander e levá-lo à loucura? Você precisa detê-los! &lt;BR&gt;&lt;BR&gt;Os templários mekonari e os dedicantes realizam os rituais, mas há outras ameaças. Killian jogou toda a sua caixa de brinquedos na Floresta de Susurrus.&lt;BR&gt;&lt;BR&gt;E até agora não tivemos sorte em usar o teletransporte do altar. Deve haver algum tipo de chave. Encontre-a e destrua o altar. Entendeu tudo isso?</Page>
+    
+    </Text>
+    <Text huntingZoneId="256" id="5" villagerId="1010">
+         
+        <Page social="0">Caçadores e tecelões de ébano estão cruzando a Nightwood a caminho de pegar mais vítimas! Não deixe que eles passem por você!</Page>
+    
+    </Text>
+    <Text huntingZoneId="256" id="6" prevId="4" villagerId="1025">
+         
+        <Page social="1">(Os ossos são de todos os tamanhos e raças - crânios humanos se misturam com ossos de cauda popori, chifres amani e castanic são empilhados juntos. Parece que ninguém foi poupado.)&lt;BR&gt;&lt;BR&gt;(Horrorosamente, os restos mortais estão todos inscritos com runas. Você espera sinceramente que os sigilos tenham sido esculpidos após a morte de seus donos.)&lt;BR&gt;&lt;BR&gt;(De repente, você sente um formigamento sinistro na nuca).</Page>
+    
+    </Text>
+    <Text huntingZoneId="256" id="7" prevId="6" villagerId="1027">
+         
+        <Page social="1">(Uma voz desaparece, como se fosse levada pelo vento a uma distância enorme.)&lt;BR&gt;&lt;BR&gt;Afogando-se em dor... nada mais... pode nos ouvir?&lt;BR&gt;&lt;BR&gt;... todos os deuses devem...&lt;BR&gt;&lt;BR&gt;Tanto esforço, mas... mostre-lhe onde...</Page>
+    
+    </Text>
+    <Text huntingZoneId="256" id="8" prevId="7" villagerId="1026">
+         
+        <Page social="1">...tocou você, então...o teleportal se abrirá...&lt;BR&gt;&lt;BR&gt;...dor, tanta dor!&lt;BR&gt;&lt;BR&gt;Diga às nossas famílias...não dá para segurar...</Page>
+    
+    </Text>
+    <Text huntingZoneId="256" id="9" prevId="8" villagerId="1010">
+         
+        <Page social="1">Você conseguiu! &lt;BR&gt;&lt;BR&gt;Mas estou preocupado com o sikandari que você viu no altar. Os mekonaris são apóstatas. Eles pagariam qualquer preço para acordar Sikander mais cedo, mas os sikandaris são pacientes, honrados. Presumi que fossem nossos aliados. Esse tipo de atrocidade não é típico deles.&lt;BR&gt;&lt;BR&gt;Se Thulsa enganou os sikandaris, é melhor você se mexer!</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="50" id="24" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="250" id="100" prevId="0" villagerId="1016">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="250" id="2" prevId="0" villagerId="1016">
+         
+        <Page social="6">Esses malditos argonss destruiriam esta terra para satisfazer sua fome bizarra de conquista. Temos que fazer alguma coisa! &lt;NEXTPAGEBUTTON&gt;"Estou no jogo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Excelente! Eu vi várias brocas quernok no Nest of the Shaper. Elas parecem caras. Destrua-os. &lt;BR&gt;&lt;BR&gt;Vamos ver como os argons gostam de perder suas posses!</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="3" prevId="2" villagerId="1016">
+         
+        <Page social="6">Você se saiu muito bem. Obrigado.&lt;BR&gt;&lt;BR&gt;Se não lutarmos para preservar nossos sonhos, o que deixaremos para nossos filhos?</Page>
+    
+    </Text>
+</QuestDialog>

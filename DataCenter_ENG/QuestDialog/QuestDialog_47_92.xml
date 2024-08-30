@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="47" id="92" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="77" id="100" prevId="0" villagerId="1010">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="77" id="2" prevId="0" villagerId="1010">
+         
+        <Page social="4">Those disgusting {@LinkCreature:47#2003#argonomorph gulas} are still hanging around the {@Rgn:47003$$Bridgehead} in the {@Rgn:47001$$Tirkai Forest}. Also {@LinkCreature:47#1003#argonomorph mugatos} and {@LinkCreature:47#2002#argonomorph faeries}. &lt;BR&gt;&lt;BR&gt;{@Creature:247#1002$$Salaine} at {@Rgn:47006$$Field Base Lunacy} wants them gone. Can you blame her?&lt;BR&gt;&lt;BR&gt;Talk to her when it's done.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="3" prevId="2" villagerId="1002">
+         
+        <Page social="5">Thanks, &lt;PCNAME&gt;. That helped a lot.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="4" villagerId="1002">
+         
+        <Page social="0">Just kill some {@LinkCreature:47#1003#argonomorph mugatos}, {@LinkCreature:47#2002#argonomorph faeries}, and {@LinkCreature:47#2003#argonomorph gulas}. Check back when you've done it.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="39" id="24" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="239" id="100" prevId="0" villagerId="1010">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="239" id="2" prevId="0" villagerId="1010">
+         
+        <Page social="4">Conchas! Preciso de mais conchas!&lt;BR&gt;&lt;BR&gt;Você conseguiu uma vez, então vá matar mais alguns arachnen {@LinkCreature:39#130#matriarchs} e {@LinkCreature:39#131#matrons} e me traga mais conchas. Terminou de falar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="239" id="3" prevId="2" villagerId="1010">
+         
+        <Page social="4">Conchas! Excelente! A natureza fornece!</Page>
+    
+    </Text>
+    <Text huntingZoneId="239" id="4" villagerId="1010">
+         
+        <Page social="0">Funciona assim: você me traz cascas duras e eu paro de incomodá-lo por causa delas.</Page>
+    
+    </Text>
+</QuestDialog>

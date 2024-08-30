@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="181" id="2" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="183" id="100" prevId="0" villagerId="1014">
+         
+        <Page social="0">Dougal tentou entrar em contato com Seir para obter uma força de apoio, mas não conseguiu.&lt;BR&gt;&lt;PCNAME&gt;encontra Garm, o guarda do teleportal de Highwatch, para saber por que o dispositivo de comunicação Mysterium não estava funcionando. Garm revelou que o teletransporte de Highwatch está fechado por algum motivo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="183" id="2" prevId="0" villagerId="1014">
+         
+        <Page social="4">Tenho algo para você, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Enquanto você falava com Olmeros, o homem de seu amigo Dougal apareceu com um bilhete.&lt;NEXTPAGEBUTTON&gt;"Obrigado."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="183" id="3" prevId="2" villagerId="1014">
+         
+        <Page social="4">Mysterium...? Dispositivo de comunicação...? Não conheço nenhuma dessas coisas.&lt;BR&gt;&lt;BR&gt;O Highwatch está isolado há gerações - desde que nosso teletransporte parou de funcionar.&lt;BR&gt;&lt;BR&gt;Não há como chegar ao mundo exterior sem atravessar fisicamente a Barreira da Tormenta.&lt;NEXTPAGEBUTTON&gt;"Sempre há um jeito."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Sem dúvida, você tem mais experiência com teleportais do que eu. Milhares de barakas tentaram reativar o nosso, mas tudo em vão.&lt;BR&gt;&lt;BR&gt;Você realmente deveria planejar uma rota alternativa.&lt;NEXTPAGEBUTTON&gt;"Posso ao menos ver o seu teleportal?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">...é claro.&lt;BR&gt;&lt;BR&gt;Fale com Garm, que guarda o teleportal da Highwatch.&lt;BR&gt;&lt;BR&gt;Ele é a maior autoridade da Highwatch em teleportais.&lt;BR&gt;&lt;BR&gt;Se alguém aqui pode ajudá-lo, é Garm.&lt;NEXTPAGEBUTTON&gt;"Obrigado."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="183" id="4" prevId="3" villagerId="1016">
+         
+        <Page social="4">Sempre imaginei como seria viajar para além de Val Oriyn, para ver o mundo.&lt;BR&gt;&lt;BR&gt;Fiz milhares de experimentos com a Pedra da Relatividade lá, mas sem sucesso.&lt;BR&gt;&lt;BR&gt;Hoje em dia, fico de guarda, não tanto sobre o teletransporte, mas sobre meu experimento.&lt;NEXTPAGEBUTTON&gt;"Não há nada que possa ser feito?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Minha teoria atual é que a Pedra da Relatividade está esgotada por ter tentado automaticamente romper a Barreira da Tempestade por tanto tempo. Agora que a Barreira da Tempestade se rompeu, a Pedra da Relatividade está fraca demais para atravessá-la.&lt;NEXTPAGEBUTTON&gt;"Há mais Pedras da Relatividade?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Pode ser que sim.&lt;BR&gt;&lt;BR&gt;Recomendo que visite o Salão do Conhecimento, onde os barakas registram todas as nossas descobertas desde que nos lembramos. Eu tentei, mas você pode ter informações que eu não tenho.&lt;NEXTPAGEBUTTON&gt;"Então vou procurar uma resposta lá."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Devo avisá-lo que você precisa de permissão específica para entrar no Salão do Conhecimento.&lt;BR&gt;&lt;BR&gt;Peça autorização a Rimun.&lt;BR&gt;&lt;BR&gt;E se você encontrar uma maneira de obter Pedras da Relatividade, sugiro que garanta um grande número; não há garantia de que a primeira funcionará.&lt;BR&gt;&lt;BR&gt;E, por favor, aceite isso antecipadamente, como um sinal de minha gratidão.&lt;NEXTPAGEBUTTON&gt;"Não se preocupe."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</QuestDialog>

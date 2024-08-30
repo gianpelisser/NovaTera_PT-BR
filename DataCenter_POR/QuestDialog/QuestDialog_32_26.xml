@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="32" id="26" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="232" id="100" prevId="0" villagerId="1019">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="232" id="2" prevId="0" villagerId="1019">
+         
+        <Page social="4">Esta guerra causou muitas atrocidades, muitas mortes. Quase todas as noites eu sonho com os {@LinkCreature:32#6#Defensores de Sihran}, com as coisas que eles fizeram no cerco de Acarum.&lt;BR&gt;&lt;BR&gt;Eles podem voltar a qualquer momento, a menos que alguém cuide deles.</Page>
+    
+    </Text>
+    <Text huntingZoneId="232" id="3" prevId="2" villagerId="1019">
+         
+        <Page social="4">Eu me pergunto se isso vai acabar com os pesadelos... mas prefiro os pesadelos aos defensores reais de Sihran que vêm à noite para nos mutilar.&lt;BR&gt;&lt;BR&gt;Por favor, apresente-se a {@LinkCreature:232#1002#Hallaj} no reduto dos Holdouts, na encosta sul do Monte Tyrannas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="232" id="4" prevId="3" villagerId="1002">
+         
+        <Page social="4">Todas as baixas infligidas aos Sihrans nos beneficiam. Seu sucesso é um sucesso para toda a federação.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="3" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="213" id="100" prevId="0" villagerId="1115">
+         
+        <Page social="0">Nivek pediu que você protegesse os porquinhos da ilha matando Vekas, a Árvore Maligna.&lt;BR&gt;&lt;BR&gt;Foi sua luta mais difícil até agora, mas você venceu e destruiu o ghilliedhu desenfreado.&lt;BR&gt;&lt;BR&gt;Nivek ficou grato a você e lhe deu suas botas novas como agradecimento.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="2" prevId="0" villagerId="1115">
+         
+        <Page social="4">É difícil manter o moral elevado aqui. Após o massacre, os sobreviventes se mantiveram, mas por pouco. Tenho feito a minha parte cozinhando porquinhos - costeletas, bacon, assados e coisas do gênero.&lt;BR&gt;&lt;BR&gt;Mas esse ghilliedhu maluco, Vekas, continua matando todos os porquinhos! Esse acampamento já é bastante miserável, mas viver sem carne? Nenhum soldado deveria ter que suportar isso.&lt;BR&gt;&lt;BR&gt;Mate Vekas e eu o usarei para defumar as melhores fatias de bacon deste lado de Kaiator!</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="3" prevId="2" villagerId="1115">
+         
+        <Page social="4">Bem lutado, &lt;PCCLASS:lcase&gt;. Pode não parecer muito, mas os exércitos dependem de seus estômagos para mais do que apenas viajar.&lt;BR&gt;&lt;BR&gt;Aqui está o meu agradecimento!</Page>
+    
+    </Text>
+</QuestDialog>

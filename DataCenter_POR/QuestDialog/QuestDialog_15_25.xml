@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="15" id="25" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="215" id="100" prevId="0" villagerId="1018">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="215" id="2" prevId="0" villagerId="1018">
+         
+        <Page social="5">Esses pesquisadores fracos não têm a menor chance aqui sem proteção. É aí que nós entramos.&lt;BR&gt;&lt;BR&gt;Os {@LinkCreature:15#8#mutant castanic cutters} e os {@LinkCreature:15#9#amani thumpers} são armas ambulantes, mas aposto que você poderia desarmá-los, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Mostre-me do que você é feito e traga-me alguns troféus.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="3" prevId="2" villagerId="1018">
+         
+        <Page social="5">O que é isso? &lt;BR&gt;&lt;BR&gt;Eles carregam bonequinhos de porquinho para o combate? &lt;BR&gt;&lt;BR&gt;Vamos anotá-los nos formulários como "totens de javali", certo?</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="4" villagerId="1018">
+         
+        <Page social="0">O que está esperando? Eles são apenas um bando de mutantes!</Page>
+    
+    </Text>
+</QuestDialog>

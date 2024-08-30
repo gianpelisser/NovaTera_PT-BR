@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="47" id="22" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="77" id="100" prevId="0" villagerId="1010">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="77" id="2" prevId="0" villagerId="1010">
+         
+        <Page social="4">Não sei se é uma boa ideia, mas devido à escassez de rações por aqui, as pessoas estão falando em comer carne de urso pardo de Tirkai.&lt;BR&gt;&lt;BR&gt;Acho que se salgássemos o suficiente, provavelmente eliminaríamos qualquer contaminação por argons.&lt;BR&gt;&lt;BR&gt;Leve um pouco para Jadora na Base de Campo Lunacy. Ela tem acesso a muito sal.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="4">Ela acha que o sal vai torná-lo seguro, não é? Poderíamos usar uma fonte alternativa de alimentos por aqui. Vou tentar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="4" villagerId="1001">
+         
+        <Page social="0">Eu tenho sal. Para que você disse que precisa dele? Não estou vendo nenhuma carne.</Page>
+    
+    </Text>
+</QuestDialog>

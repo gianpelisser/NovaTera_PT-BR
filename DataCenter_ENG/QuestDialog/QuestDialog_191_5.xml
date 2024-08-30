@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="191" id="5" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="191" id="100" prevId="0" villagerId="2108">
+         
+        <Page social="0">Rhodos wanted a way to free the Parthians from the archdevan magic. Tirene, a Mysterium researcher with the Vanguard Initiative, examined an archdevan seal and said it might be possible to save the Parthians. Relieved, Rhodos vowed vengeance against Dakuryon.</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="2" prevId="0" villagerId="2108">
+         
+        <Page social="4">Jitt's final words change everything. We can't simply slaughter the Parthains. We must find another way.&lt;BR&gt;&lt;BR&gt;I know nothing of magic. Find someone who does and bring me the answer I seek.</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="3" prevId="2" villagerId="2109">
+         
+        <Page social="4">If the archdevan spell lifted just before death, we might be able to undo it en masse. There must be a focus, however. That's the key.&lt;BR&gt;&lt;BR&gt;The seal! Examine several other fallen Parthians. Retrieve anything that looks out of place.</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="4" prevId="3" villagerId="2109">
+         
+        <Page social="4">A malignant power dwells within.&lt;BR&gt;&lt;BR&gt;Give me a moment to study it.</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="5" prevId="4" villagerId="2109">
+         
+        <Page social="4">I'm an arcanist, but not a soldier.&lt;BR&gt;&lt;BR&gt;The magic that transforms someone into a demokron cannot be undone, but we might free these poor people from the archdevas.&lt;BR&gt;&lt;BR&gt;Perhaps.&lt;BR&gt;&lt;BR&gt;With the aid of the baraka, we must try.</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="6" prevId="5" villagerId="2108">
+         
+        <Page social="4">I don't understand magic, but I understood Tirene. There might be hope for my people.&lt;BR&gt;&lt;BR&gt;Dakuryon will pay for pitting my brothers against me!</Page>
+    
+    </Text>
+</QuestDialog>

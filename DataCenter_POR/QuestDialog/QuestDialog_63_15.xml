@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="15" huntingZoneId="63" voiceTypeId="0">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1600">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1600">
+        <Page social="4">Ei, ei, ei, ei! É bom ver você com tanta frequência! Você veio buscar outro prêmio? He he he, e eu já tenho algumas informações novas! Um poder de natureza incompreensível começou a emanar da Tumba do Necromante. Os aventureiros que passam por lá às vezes perdem a consciência e, de acordo com as histórias, têm sonhos incomuns, nos quais algum velho lhes conta os segredos da própria existência e os mistérios da origem da magia. Tenho pouca fé nisso, mas é um caso incomum e provavelmente envolve algum tipo de runa. No entanto, não encontrei nenhuma descrição semelhante ao que está acontecendo na tumba. Você deve ir até lá e, se encontrar alguma coisa, traga-a para mim e descobriremos com o que estamos lidando.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1600">
+        <Page social="4">Eu estava tão cansado de esperar que estava a ponto de ir atrás de você sozinho! Acontece que o antigo livro de runas que encontrei na biblioteca de Velika estava faltando uma página. Decidi voltar lá e procurar um melhor. Dei uma olhada embaixo do armário e lá estava ela. A runa desconhecida, ao que parece, era Kenaz, a runa do conhecimento. É por isso que os aventureiros viram o velho em seus sonhos, tentando lhes dizer algo! Vocês fizeram um bom trabalho, mereceram!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="1600">
+        <Page social="0">Temos que voltar àquela biblioteca, novamente, talvez ainda haja alguma coisa...</Page>
+    </Text>
+</QuestDialog>

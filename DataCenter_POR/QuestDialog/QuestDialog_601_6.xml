@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="601" id="6" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="77" id="100" prevId="0" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="77" id="2" prevId="0" villagerId="3003">
+         
+        <Page social="4">{@LinkCreature:247#3509} em {@Rgn:47006$$Field Base Lunacy} tem um problema que ele não pode mais...suportar.&lt;BR&gt;&lt;BR&gt;Encontre Helvarian e veja se você pode ajudá-lo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="3" prevId="2" villagerId="3509">
+         
+        <Page social="4">Ah, reforços! Era exatamente o que eu esperava.&lt;BR&gt;&lt;BR&gt;Os ursos pardos Tirkai e os mugatos ao redor da base, sem mencionar as variantes de argonomorfo, tornam muito perigoso o trabalho de campo.&lt;BR&gt;&lt;BR&gt;Matá-los, expulsá-los - cheque, adotá-los e enviá-los para Pora Elinu, apenas mantenha-os longe de mim.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="4" prevId="2" villagerId="3509">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="247" id="5" prevId="2" villagerId="3509">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="247" id="6" prevId="2" villagerId="3509">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="247" id="7" prevId="2" villagerId="3509">
+         
+        <Page social="4">Ursos mortos, pesquisador feliz. Obrigado, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+</QuestDialog>

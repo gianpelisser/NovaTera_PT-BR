@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="26" id="21" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="69" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="69" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="5">A aldeia está tristemente quieta hoje. Normalmente, nosso melhor contador de histórias conta histórias fantásticas, mas ninguém consegue encontrá-lo em lugar algum.&lt;BR&gt;&lt;BR&gt;Vocês ouviram falar de Porun? Se ele fugiu, talvez haja algo errado. A cidade ficaria grata se você o procurasse.&lt;BR&gt;&lt;BR&gt;Às vezes, ele vai para o Acampamento Crossroads. Você pode procurar lá.</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="3" prevId="2" villagerId="1026">
+         
+        <Page social="5">A música da natureza é forte aqui. Dizem que toda a vida surgiu da Bacia da Bênção e, se você estiver bem quieto, quase poderá ouvir Shara sonhando.&lt;BR&gt;&lt;BR&gt;É claro que, na cidade, não importa se você está quieto. Esses malditos turistas estão por toda parte. Estou tentando desvendar um mistério, mas os perigos desta floresta são mais poderosos do que minha pena.&lt;NEXTPAGEBUTTON&gt;"Posso ajudar?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="5">Se eu pudesse entender melhor essa região, tenho certeza de que minha musa voltaria. Certa vez, encontrei uma velha lápide. Ela continha uma mensagem, mas não tive tempo de lê-la.&lt;BR&gt;&lt;BR&gt;Se você encontrasse essa mensagem e a seguisse até descobrir o segredo, talvez conseguisse a inspiração de que preciso.&lt;BR&gt;&lt;BR&gt;Fale com {@LinkCreature:226#1006#Narden}. Ele saberá onde está a lápide.</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="4" prevId="3" villagerId="1006">
+         
+        <Page social="5">Porun é incapaz de contar uma história? É uma pena. Então, o que você procura? &lt;BR&gt;&lt;BR&gt;Ah, acho que ele está descrevendo a {@LinkCreature:226#1018#Lousa do Guardião da Floresta}. Não sei se ele ganhará muito com isso, no entanto. Você está convidado a ver por si mesmo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="5" prevId="4" villagerId="1018">
+         
+        <Page social="5">(Uma inscrição cuidadosa diz: "A verdade só se revela quando se desiste de todas as ideias preconcebidas").</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="6" prevId="5" villagerId="1026">
+         
+        <Page social="5">Você a encontrou? O que ele disse? Oh, minha cauda está formigando!&lt;BR&gt;&lt;BR&gt;Interessante! Essa pedra ficou parada por anos até que você fez a viagem para vê-la. Isso é trágico e belo, tudo ao mesmo tempo. Acho que estou sentindo um conto surgindo!&lt;BR&gt;&lt;BR&gt;Obrigado, &lt;PCNAME&gt;. Você reacendeu o fogo em minha alma. Vou colocar esse fogo de volta em palavras.</Page>
+    
+    </Text>
+</QuestDialog>

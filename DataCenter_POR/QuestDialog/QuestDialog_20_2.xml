@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="20" id="2" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="63" id="100" prevId="0" villagerId="1137">
+         
+        <Page social="0">Samael tem ordens para investigar relatos de um novo esconderijo de Scion nas Minas Tenebrosas. Ele o enviou a Chebika para coordenar com os Justicars, mas a busca não produziu nada de valor. Na verdade, você se convenceu de que o boato era algum tipo de armação.&lt;BR&gt;&lt;BR&gt;Os Justicars, no entanto, ignoraram suas observações e insistiram que a ameaça era genuína.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="2" prevId="0" villagerId="1137">
+         
+        <Page social="4">O Comandante Seir está preocupado com esses Scions de Lok. Ele quer alguém mais experiente, mas acho que você pode dar conta do recado.&lt;BR&gt;&lt;BR&gt;Relatórios sobre uma base de Scions nas Minas Tenebrosas chegaram. Encontre Primus Jakarian em Chebika e diga a ele que lhe dei o comando operacional da missão. Saqueie a base e mate seus líderes.</Page>
+    
+    </Text>
+    <Text huntingZoneId="65" id="3" prevId="2" villagerId="1009">
+         
+        <Page social="12">Desculpe tê-lo feito percorrer todo esse caminho para nada, mas eu fiz um reconhecimento e não encontrei nada lá. É apenas uma velha mina com uma arma gigante saindo de dentro dela. O de sempre.&lt;BR&gt;&lt;BR&gt;Vocês podem voltar para Velika, se quiserem. Trabalho bem feito! &lt;NEXTPAGEBUTTON&gt;"Verei por mim mesmo, obrigado."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Como quiser. Lupus ainda está nas minas lidando com algum problema com os mortos-vivos.&lt;BR&gt;&lt;BR&gt;Você pode dar uma mãozinha. Saia pelo portão oeste e se apresente a Kusbert.</Page>
+    
+    </Text>
+    <Text huntingZoneId="65" id="4" prevId="3" villagerId="1029">
+         
+        <Page social="4">Fico feliz em vê-lo, &lt;PCCLASS:lcase&gt;. Os Justicars precisam de mais um corpo nas Minas Tenebrosas. Suba a colina e apresente-se a Lupus.</Page>
+    
+    </Text>
+    <Text huntingZoneId="220" id="5" prevId="4" villagerId="1035">
+         
+        <Page social="4">Estou muito feliz por ter alguma ajuda.&lt;BR&gt;&lt;BR&gt;Não há tempo para recriminações, apenas encontre {@LinkCreature:20#30012000#zombie slaves} e mate-os. Leve tudo o que você encontrar para Ruanal. Ele está escondido nos Salões da Escuridão.&lt;BR&gt;&lt;BR&gt;Temos muito o que fazer e não temos tempo para conversar. Temos que chegar ao fundo desse mistério do Scion. Vamos lá!</Page>
+    
+    </Text>
+    <Text huntingZoneId="220" id="6" prevId="5" villagerId="1028">
+         
+        <Page social="12">Graças aos deuses. Eu estava me escondendo há muito tempo! Espere, você não é um justiceiro... como me encontrou? &lt;BR&gt;&lt;BR&gt;Não importa. Não importa. O que você tem aí? &lt;NEXTPAGEBUTTON&gt;"Diários que encontrei sobre os escravos zumbis."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="12">Essa... que descoberta incrível. Ela indica a localização de uma arma oculta dos Scion que eles planejam usar para dominar a mina!&lt;BR&gt;&lt;BR&gt;Ouçam &lt;PCCLASS:lcase&gt;, é da maior importância que vocês levem essa informação a Talfryn imediatamente. Ele está na Estação Relicário, nos Salões da Sombra.&lt;BR&gt;&lt;BR&gt;Diga a ele que a arma está nos Salões da Sombra. Vá agora!</Page>
+    
+    </Text>
+    <Text huntingZoneId="220" id="7" villagerId="1028">
+         
+        <Page social="0">Talfryn, Estação Relicário, Salões das Sombras - vá!</Page>
+    
+    </Text>
+    <Text huntingZoneId="220" id="8" prevId="6" villagerId="1013">
+         
+        <Page social="4">Uma arma escondida, você diz? No segundo andar...&lt;BR&gt;&lt;BR&gt;Preciso que você vá até lá - e quero dizer agora! Encontre aquela arma, ou armas, ou o que quer que eles tenham lá embaixo.&lt;BR&gt;&lt;BR&gt;Leve o que encontrar para Jesper no Acampamento Central, no terceiro andar.&lt;BR&gt;&lt;BR&gt;Entendeu? Mexa-se, soldado!</Page>
+    
+    </Text>
+    <Text huntingZoneId="220" id="9" prevId="8" villagerId="1037">
+         
+        <Page social="0">(Há um martelo velho dentro desse caixote).</Page>
+    
+    </Text>
+    <Text huntingZoneId="220" id="10" prevId="8" villagerId="1038">
+         
+        <Page social="0">(Você encontra uma tesoura enferrujada dentro desse caixote).</Page>
+    
+    </Text>
+    <Text huntingZoneId="220" id="11" prevId="9" villagerId="1039">
+         
+        <Page social="4">Essas não parecem ser as armas chocantemente perigosas que eu esperava. Talvez elas façam alguma coisa... diferente? &lt;BR&gt;&lt;BR&gt;Acho que há algum poder dentro delas que não conseguimos detectar.&lt;NEXTPAGEBUTTON&gt;"Acho que fomos enganados."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="8">O quê? Isso não é possível. Basta olhar para essas armas! Elas são hediondas!</Page>
+    
+    </Text>
+    <Text huntingZoneId="220" id="12" villagerId="1039">
+         
+        <Page social="0">Você já encontrou as armas?</Page>
+    
+    </Text>
+</QuestDialog>

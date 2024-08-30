@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="24" id="38" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="224" id="100" prevId="0" villagerId="1023">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="224" id="2" prevId="0" villagerId="1023">
+         
+        <Page social="5">Essa costa é famosa por seus moluscos derasa com suas conchas mágicas. Não há mais a mesma procura por elas no mercado aberto como havia antes, mas os amani afirmam que as conchas são afrodisíacas - e que as pessoas pagam qualquer coisa por uma dose rápida de uma fonte discreta, se é que você me entende.&lt;BR&gt;&lt;BR&gt;Pagarei pela concha. Mas não as coma - não tenho tempo para isso.</Page>
+    
+    </Text>
+    <Text huntingZoneId="224" id="3" prevId="2" villagerId="1023">
+         
+        <Page social="5">Fantástico! Há cartuchos suficientes aqui para manter todo o exército Valkyon feliz. Se é que você me entende.</Page>
+    
+    </Text>
+    <Text huntingZoneId="224" id="4" villagerId="1023">
+         
+        <Page social="0">Concentre-se na linha d'água. É lá que vivem os moluscos.</Page>
+    
+    </Text>
+</QuestDialog>

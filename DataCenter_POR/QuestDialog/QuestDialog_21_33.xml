@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="21" id="33" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="221" id="100" prevId="0" villagerId="1021">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="221" id="2" prevId="0" villagerId="1021">
+         
+        <Page social="4">Meu amigo, você já fez muito por mim, mas tenho outro favor a pedir.&lt;BR&gt;&lt;BR&gt;Borud é um pesquisador de Velika. Infelizmente, ele é tão resistente à batalha quanto um ovo. Se você pudesse acompanhá-lo até as ruínas, seria de grande ajuda!</Page>
+    
+    </Text>
+    <Text huntingZoneId="21" id="3" villagerId="33">
+         
+        <Page social="0">Sei que você é um soldado mais do que competente. Farei o possível para acompanhá-lo! Vamos lá!</Page>
+    
+    </Text>
+    <Text huntingZoneId="221" id="4" prevId="2" villagerId="1046">
+         
+        <Page social="5">Bem, isso foi estimulante! Devo ficar bem aqui, &lt;PCNAME&gt;. Vou começar minha pesquisa. Por favor, avise Aresk que estou seguro.&lt;BR&gt;&lt;BR&gt;Obrigado pela ajuda.</Page>
+    
+    </Text>
+    <Text huntingZoneId="221" id="5" prevId="4" villagerId="1021">
+         
+        <Page social="5">Obrigado por ajudar o Borud. Mal posso esperar para ouvir suas descobertas!</Page>
+    
+    </Text>
+</QuestDialog>

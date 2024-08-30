@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="19" id="29" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="219" id="100" prevId="0" villagerId="1017">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="219" id="2" prevId="0" villagerId="1017">
+         
+        <Page social="4">It was a few days ago. I saw members of the Free Brotherhood just...turn into monsters. I know it sounds strange, but they placed these stones all around the ground here.&lt;BR&gt;&lt;BR&gt;Can you take a look at them and maybe see what they're for?</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="3" prevId="2" villagerId="1028">
+         
+        <Page social="4">(As you touch the obelisk, a small black rock falls out.)</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="4" prevId="3" villagerId="1017">
+         
+        <Page social="4">So...this is it? This is just a rock.&lt;BR&gt;&lt;BR&gt;Oh, but...I do feel sort of sick holding it. That must be the foul energy within it.&lt;BR&gt;&lt;BR&gt;I know how to dispose of this. Thank you, &lt;PCNAME&gt;, for what you've done.</Page>
+    
+    </Text>
+</QuestDialog>

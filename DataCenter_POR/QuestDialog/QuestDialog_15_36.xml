@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="15" id="36" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="215" id="100" prevId="0" villagerId="1019">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="215" id="2" prevId="0" villagerId="1019">
+         
+        <Page social="4">Por mais incrível que pareça, esses {@LinkCreature:15#4#castanic} e {@LinkCreature:15#5#amani recrutas} estavam estacionados na guarnição da federação aqui quando a praga atacou pela primeira vez. A loucura os deturpou irremediavelmente.&lt;BR&gt;&lt;BR&gt;Eu choro por eles e por suas famílias.&lt;BR&gt;&lt;BR&gt;Eu temo que a única bondade que podemos fazer a eles agora é acabar com sua miséria. É hora de eles se juntarem às listas de mortos honrados de Velika.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="3" prevId="2" villagerId="1010">
+         
+        <Page social="5">Bom trabalho, &lt;PCNAME&gt;. Levarei esses amuletos para suas famílias.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="4" villagerId="1010">
+         
+        <Page social="0">É a coisa certa a fazer, &lt;PCNAME&gt;. Fique tranquilo.</Page>
+    
+    </Text>
+</QuestDialog>

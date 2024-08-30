@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="3" id="23" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="203" id="100" prevId="0" villagerId="1005">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="203" id="2" prevId="0" villagerId="1005">
+         
+        <Page social="4">Capturei um bandido com um mapa vagando pela floresta há pouco tempo. Parece que os bandidos guardam nossas mercadorias em locais marcados com círculos no mapa. É &lt;FONT COLOR='#660000'&gt;a parte nordeste da Corrida do Sangue!&lt;/FONT&gt;&lt;BR&gt;&lt;BR&gt;É a nossa chance de recuperar nossos bens roubados. &lt;PCNAME&gt;, por favor, nos ajude.&lt;BR&gt;&lt;BR&gt;Se você for ao &lt;FONT COLOR='#660000'&gt;Blood Run&lt;/FONT&gt;, encontrará uma pilha de baús roubados pelos bandidos. Por favor, traga nossos preciosos bens de volta!</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="3" prevId="2" villagerId="1005">
+         
+        <Page social="8">Oh, oh! &lt;PCNAME&gt;, eu realmente agradeço sua ajuda. Com todo o caos causado pelos bandidos devaneses, pensei que minha propriedade estava perdida para sempre, mas você salvou o dia. Os deuses o abençoarão! Oh, sim, eles vão!</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="4" villagerId="1005">
+         
+        <Page social="0">Você encontrou minhas caixas? Ou foram os devas que o encontraram primeiro? São criaturinhas odiosas, não são?</Page>
+    
+    </Text>
+</QuestDialog>

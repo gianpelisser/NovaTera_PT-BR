@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="123" id="7" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="123" id="100" prevId="0" villagerId="9001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="123" id="2" prevId="0" villagerId="9001">
+         
+        <Page social="1">Strength to you!&lt;BR&gt;&lt;BR&gt;This task isn't for the feint of heart, but I can't think of a better &lt;PCRace:lcase&gt; for the job. I need someone to go deep into Free Traders territory and show them what we're made of.&lt;BR&gt;&lt;BR&gt;In war, any soldier can kill another soldier. I have something bigger in mind: take out their huge beasts, then they'll see the true strength of the Iron Order.</Page>
+    
+    </Text>
+    <Text huntingZoneId="123" id="3" prevId="2" villagerId="9001">
+         
+        <Page social="0">Too many soldiers are all talk and no fight. That was the federation's downfall.&lt;BR&gt;&lt;BR&gt;I see you're the kind whose actions speak louder than words.&lt;BR&gt;&lt;BR&gt;You've brought honor to the Iron Order!</Page>
+    
+    </Text>
+</QuestDialog>

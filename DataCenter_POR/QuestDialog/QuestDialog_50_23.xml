@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="50" id="23" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="250" id="100" prevId="0" villagerId="1014">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="250" id="2" prevId="0" villagerId="1014">
+         
+        <Page social="4">Uma oportunidade única se apresenta.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:50#3} é o culpado por muito do que vemos ao nosso redor. Um dos cavaleiros o avistou no Ninho do Formatador.&lt;BR&gt;&lt;BR&gt;Lute para passar pelas defesas de argons e matar essa abominação.</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="3" prevId="2" villagerId="1014">
+         
+        <Page social="6">A morte de Maskimxuul retardará, se não parar, a corrupção de argons nessa região. Poderemos até ver parte da energia roubada se difundir na terra.&lt;BR&gt;&lt;BR&gt;Sua intervenção oportuna nos dá novas opções a considerar. Obrigado.</Page>
+    
+    </Text>
+</QuestDialog>

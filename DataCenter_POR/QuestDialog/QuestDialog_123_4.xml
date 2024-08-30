@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="123" id="4" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="123" id="100" prevId="0" villagerId="220020">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="123" id="2" prevId="0" villagerId="220020">
+         
+        <Page social="1">Isso é extraordinário. Há plantas expostas ao noctênio que não crescem nem murcham. Colete algumas sementes dessas plantas para mim. Preciso tê-las para minha pesquisa.</Page>
+    
+    </Text>
+    <Text huntingZoneId="123" id="3" prevId="2" villagerId="220020">
+         
+        <Page social="0">Isso ajudará em minha pesquisa.</Page>
+    
+    </Text>
+    <Text huntingZoneId="123" id="4" villagerId="220020">
+         
+        <Page social="0">Você sabe o quanto isso é importante para minha pesquisa? Imagine se os membros da Ordem de Ferro, como você, nunca desaparecessem!</Page>
+    
+    </Text>
+</QuestDialog>

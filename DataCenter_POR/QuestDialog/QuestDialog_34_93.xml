@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="34" id="93" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="83" id="100" prevId="0" villagerId="1004">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="83" id="2" prevId="0" villagerId="1004">
+         
+        <Page social="0">Desta vez, você enfrentará os gigantes e seus animais de estimação. Não podemos tolerar a interferência deles.&lt;BR&gt;&lt;BR&gt;Mate os gigantes {@LinkCreature:34#1000#icecleaver} e {@LinkCreature:34#1010#icereaver}, bem como {@LinkCreature:34#1100#icewalker} e {@LinkCreature:34#1110#frosthunter barsicores}.&lt;BR&gt;&lt;BR&gt;Deixe Kahuere saber quando você terminar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="234" id="3" prevId="2" villagerId="1004">
+         
+        <Page social="4">Gigantes massacrados, confira! Vou anotar isso em seu registro permanente. Muito bem, soldado!</Page>
+    
+    </Text>
+    <Text huntingZoneId="234" id="4" villagerId="1004">
+         
+        <Page social="0">Minhas desculpas, mas suas ordens pareceram claras para mim. Você deve matar os gigantes e barsicores para obter crédito por seus feitos.</Page>
+    
+    </Text>
+</QuestDialog>

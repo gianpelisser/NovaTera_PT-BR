@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="24" id="27" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="224" id="100" prevId="0" villagerId="1008">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="224" id="2" prevId="0" villagerId="1008">
+         
+        <Page social="4">Você parece ser do tipo resistente. Quer trabalhar por fora? &lt;BR&gt;&lt;BR&gt;Relíquias da gigantesca civilização que existiu aqui estão espalhadas pelo deserto. Os estudiosos vão gastar uma boa grana com as peças mais completas. Eu fico com os compradores se você ficar com as mercadorias, e dividimos o lucro.</Page>
+    
+    </Text>
+    <Text huntingZoneId="224" id="3" prevId="2" villagerId="1008">
+         
+        <Page social="4">Bem, você conseguiu sair do deserto. Encontrou alguma coisa? &lt;BR&gt;&lt;BR&gt;Pequeno demais para relíquias gigantes, mas quem mais as teria deixado? De qualquer forma, o comprador pagou metade adiantado, então aqui está o seu. Obrigado!</Page>
+    
+    </Text>
+    <Text huntingZoneId="224" id="4" villagerId="1008">
+         
+        <Page social="0">Você quer ouro, eu quero relíquias. Que parte disso o está confundindo?</Page>
+    
+    </Text>
+</QuestDialog>

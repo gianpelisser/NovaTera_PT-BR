@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="63" id="85" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="63" id="100" prevId="0" villagerId="1605">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="2" prevId="0" villagerId="1605">
+         
+        <Page social="0">É hora de encantar para obter bônus maiores! Em sua janela de encantamento, você pode encantar continuamente com todo o material que tiver em mãos clicando em Auto-enchant.&lt;BR&gt;&lt;BR&gt;Saiba, porém, que o encantamento automático usará as quantidades ideais, não as mínimas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="1605">
+         
+        <Page social="0">Você não precisa se dar ao trabalho de encantar seus itens até o potencial máximo agora, mas um dia isso será útil. Você descobrirá que usar mais matéria-prima ao tentar obter bônus maiores produz melhores resultados. &lt;BR&gt;&lt;BR&gt;Você é um bom aluno, &lt;PCNAME&gt;. Espero que isso tenha ajudado.</Page>
+    
+    </Text>
+</QuestDialog>

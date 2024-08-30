@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="39" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="75" id="100" prevId="0" villagerId="1024">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="75" id="2" prevId="0" villagerId="1024">
+         
+        <Page social="0">Time for some payback! Hunt down some {@LinkCreature:39#110#guardian} and {@LinkCreature:39#270#merciless ovoliths} in the lower levels of Arachnaea and kill them!&lt;BR&gt;&lt;BR&gt;Deliver proof of death to Greina at Roughneck Outpost.</Page>
+    
+    </Text>
+    <Text huntingZoneId="239" id="3" prevId="2" villagerId="1003">
+         
+        <Page social="4">We appreciate the work you've done for the federation.</Page>
+    
+    </Text>
+    <Text huntingZoneId="239" id="4" villagerId="1003">
+         
+        <Page social="0">There are rewards available for doing the federation's work.</Page>
+    
+    </Text>
+</QuestDialog>

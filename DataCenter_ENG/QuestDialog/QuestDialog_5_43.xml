@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="5" id="43" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="205" id="100" prevId="0" villagerId="1012">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="205" id="2" prevId="0" villagerId="1012">
+         
+        <Page social="5">Okay, the next step here is going to be {@LinkCreature:5#20#Raguga}. This could very well be the key to breaking down the tuwangis.&lt;BR&gt;&lt;BR&gt;Do you still need fancy talk or can you just go take care of it? Seems like you'd have the drill by now.</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="3" prevId="2" villagerId="1012">
+         
+        <Page social="5">Finally! This should be the end of our fighting with the tuwangis! You have truly helped us out a great deal. Thank you so much.</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="4" villagerId="1012">
+         
+        <Page social="0">Is he still standing?&lt;BR&gt;&lt;BR&gt;Maybe you needed the fancy words after all.</Page>
+    
+    </Text>
+</QuestDialog>

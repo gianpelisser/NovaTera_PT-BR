@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="31" id="2" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="518" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0">Fraya insistiu que Kaidun, que foi capturado por Thulsa, ainda deve estar vivo e pediu que você fosse resgatá-lo. Ela deu a você um pingente que permanece aceso enquanto Kaidun estiver vivo. Ela lhe deu um pingente que permanece aceso enquanto Kaidun estiver vivo. Você se infiltrou na Citadel of Torment e obteve o Tome of Agonies, que o alertou sobre a localização da instalação de pesquisa secreta de Thulsa, nas profundezas da Citadel of Torment.</Page>
+    
+    </Text>
+    <Text huntingZoneId="518" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="5">Um soldado também deve estar disposto a deixar que outros tomem as atitudes que ele não pode tomar.&lt;BR&gt;&lt;BR&gt;Meus deveres estão aqui, mesmo que meu coração esteja com Kaidun.</Page>
+    
+    </Text>
+    <Text huntingZoneId="518" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="5">O pingente não mente. Ele ainda vive. Se Ghufran estiver correto, Thulsa deve ter Kaidun em algum lugar por perto.&lt;BR&gt;&lt;BR&gt;Tome o pingente de Kaidun. Ele deve ajudá-lo.&lt;NEXTPAGEBUTTON&gt;"Eu o encontrarei."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Eu não confiaria isso a você se não fosse verdade. Harule o ajudará. Boa sorte.</Page>
+    
+    </Text>
+    <Text huntingZoneId="73" id="4" prevId="3" villagerId="1110">
+         
+        <Page social="5">Ghufran diz que Kaidun foi capturado quando eles se infiltraram na Cidadela do Tormento e que ele não o vê desde então.&lt;BR&gt;&lt;BR&gt;Não é um lugar seguro, a Cidadela do Tormento. Alguns dizem que os monstros que perambulam por seus corredores foram criados pelo próprio Thulsa.&lt;BR&gt;&lt;BR&gt;Vá falar com Georrif - ele lhe dirá a quem você deve se reportar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="73" id="5" prevId="4" villagerId="1009">
+         
+        <Page social="5">A Cidadela do Tormento? Você precisará se encontrar com a força de ataque especial, então.&lt;BR&gt;&lt;BR&gt;Eles fazem as coisas à sua maneira lá. Se alguém pode lhe indicar a direção certa, é a equipe de ataque.&lt;BR&gt;&lt;BR&gt;Fale com Maianwe, a patrulheira na ponte. Ela saberá em que parte da cidadela eles estão.</Page>
+    
+    </Text>
+    <Text huntingZoneId="232" id="6" prevId="5" villagerId="1029">
+         
+        <Page social="5">Tenho certeza de que você não deveria estar indo para a Cidadela do Tormento, já que... espere, você é o &lt;PCNAME&gt;? Oh, uau! &lt;BR&gt;&lt;BR&gt;Ainda não acho que você deva entrar na cidadela. Ninguém deveria entrar lá - por que você acha que estou guardando a ponte? &lt;BR&gt;&lt;BR&gt;É a fortaleza gigante lá em cima, aquela que pulsa com magia necromântica? Cheia de criaturas estranhas e mortas-vivas que Thulsa deixou para trás? &lt;BR&gt;&lt;BR&gt;Se você está decidido a entrar, apresente-se à Capitã Alssiyah. Ela está no primeiro andar hoje.</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="7" prevId="6" villagerId="1001">
+         
+        <Page social="5">Não tenho nenhum problema com sua presença aqui, &lt;PCNAME&gt;, mas não temos nenhuma ideia de onde Kaidun possa estar. Até onde sabemos, ele estava no Monte Tyrannas. Meygren está liderando a investigação da cidadela. Obtenha o relatório dele e veja se algo lhe chama a atenção.</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="8" prevId="7" villagerId="1003">
+         
+        <Page social="5">Olhe, eu sou bom, mas não posso fazer milagres. A necromancia de Thulsa ainda permanece em cada centímetro desta fortaleza. Minha magia não pode procurar além disso.&lt;BR&gt;&lt;BR&gt;Mas você pode tentar fazer um reconhecimento. Nossos batedores informaram que os bobos da corte de Verminath no quarto andar estão falando sobre os planos de Thulsa. É um bom lugar para começar. Escutem antes de eliminá-los... e tomem cuidado com aqueles bonecos assustadores que andam por ali.</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="9" prevId="8" villagerId="1003">
+         
+        <Page social="4">Tome of Agonies? Deixe-me ver...&lt;BR&gt;&lt;BR&gt;Oh, meu Deus. São... instruções para... ugh, não quero dizer. Práticas horríveis.&lt;BR&gt;&lt;BR&gt;Mas menciona uma instalação de pesquisa secreta em algum lugar nas profundezas da Cidadela do Tormento. Estranho. Se Kaidun ainda está vivo, esse é o único lugar em que ele poderia estar.&lt;BR&gt;&lt;BR&gt;Há um pesquisador de Mysterium ocupando o posto nas catacumbas desse lugar. Seu nome é Lastair. Ele deve ser capaz de ajudá-lo a encontrar essa instalação secreta.</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="10" villagerId="1003">
+         
+        <Page social="0">Você descobriu alguma coisa com os bobos da corte?</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="11" prevId="9" villagerId="1008">
+         
+        <Page social="5">Uma Tumba de Necromante nas profundezas? Sem chance. Eu a teria encontrado.&lt;BR&gt;&lt;BR&gt;A não ser que esteja atrás do escudo. Há um lugar nas Profundezas Sangrentas que está protegido por uma poderosa magia. Ainda não o rompi - tenho estado ocupado.&lt;BR&gt;&lt;BR&gt;Mas nenhum escudo é impenetrável. Toda fechadura tem uma chave.</Page>
+    
+    </Text>
+</QuestDialog>

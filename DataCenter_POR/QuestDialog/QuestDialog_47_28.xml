@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="47" id="28" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="247" id="100" prevId="0" villagerId="1004">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="247" id="2" prevId="0" villagerId="1004">
+         
+        <Page social="4">Você viu o que os argonss deixaram para trás - horrores meio transformados, saídos de algum pesadelo. Ao sul daqui há um antigo posto argônico cheio de wendigos meio argônicos. Eu agradeceria se você os cortasse no tamanho certo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="3" prevId="2" villagerId="1004">
+         
+        <Page social="4">Obrigado, &lt;PCNAME&gt;. Enviarei alguém para limpar o que restou.</Page>
+    
+    </Text>
+</QuestDialog>

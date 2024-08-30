@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="38" id="36" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="238" id="100" prevId="0" villagerId="1027">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="238" id="2" prevId="0" villagerId="1027">
+         
+        <Page social="12">Jermir estava explorando o norte ontem, e voltou gravemente ferido.&lt;BR&gt;&lt;BR&gt;Há iskaragards perto das ruínas do norte de Ger, mas eles não devem ter sido nenhum problema para ele.&lt;BR&gt;&lt;BR&gt;Você vai descobrir o que aconteceu? Não posso abandoná-lo quando ele está tão fraco.&lt;BR&gt;&lt;BR&gt;Considerarei qualquer iskaragards que você venha a despachar como vingança pelo sofrimento de Jermir.</Page>
+    
+    </Text>
+    <Text huntingZoneId="238" id="3" prevId="2" villagerId="1027">
+         
+        <Page social="20">Mesmo que os ferimentos de Jermir não devam nada aos iskaragards, eu me sinto melhor sabendo que há menos deles.</Page>
+    
+    </Text>
+</QuestDialog>

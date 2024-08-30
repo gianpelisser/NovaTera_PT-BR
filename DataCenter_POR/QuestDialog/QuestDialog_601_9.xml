@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="601" id="9" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="77" id="100" prevId="0" villagerId="3005">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="77" id="2" prevId="0" villagerId="3005">
+         
+        <Page social="4">{@LinkCreature:245#3509#Jehnsprin} em {@Rgn:45008$$Field Base Valiance} precisa de um pouco de apoio em combate. Nossas investigações nos colocam em situações de risco, aceitamos isso. Mas eu gostaria de mitigar os perigos mesmo assim.&lt;BR&gt;&lt;BR&gt;Vá até lá e o apóie.</Page>
+    
+    </Text>
+    <Text huntingZoneId="245" id="3" prevId="2" villagerId="3509">
+         
+        <Page social="4">Sou um cientista, não um soldado. Não estou aqui para lutar contra os argons, por isso gostaria de sua ajuda. A maior parte do trabalho é simplesmente matar coisas, mas às vezes você também poderá explodir coisas.&lt;BR&gt;&lt;BR&gt;Bons tempos.&lt;BR&gt;&lt;BR&gt;O que você acha?</Page>
+    
+    </Text>
+    <Text huntingZoneId="245" id="4" prevId="2" villagerId="3509">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="245" id="5" prevId="2" villagerId="3509">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="245" id="6" prevId="2" villagerId="3509">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="245" id="7" prevId="2" villagerId="3509">
+         
+        <Page social="4">Ainda está de pé, hein? &lt;BR&gt;&lt;BR&gt;É ótimo trabalhar com um soldado de sua capacidade. Torna a vida muito mais fácil!</Page>
+    
+    </Text>
+</QuestDialog>

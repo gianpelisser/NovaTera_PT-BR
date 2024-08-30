@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StrSheet_VehicleSkill xmlns="https://vezel.dev/novadrop/dc/StrSheet_VehicleSkill" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_VehicleSkill StrSheet_VehicleSkill.xsd">
+    <String huntingZoneId="48" id="1101" name="Salvo de fogo" templateId="2000" tooltip="Atire um projétil em seu alvo." />
+    <String huntingZoneId="48" id="1201" name="Desmontar" templateId="2000" tooltip="Largue a arma de cerco." />
+    <String huntingZoneId="48" id="1101" name="Salvo de fogo" templateId="2001" tooltip="Atire um projétil em seu alvo." />
+    <String huntingZoneId="48" id="1201" name="Desmontar" templateId="2001" tooltip="Largue a arma de cerco." />
+    <String huntingZoneId="116" id="1101" name="Desmontagem" templateId="1001" tooltip="Preparar o dirigível para a partida. Não é possível usar essa habilidade durante o voo." />
+    <String huntingZoneId="116" id="1201" name="Pular" templateId="1001" tooltip="Pule do dirigível." />
+    <String huntingZoneId="116" id="1102" name="Desmontagem" templateId="1002" tooltip="Preparar o dirigível para a partida. Não é possível usar essa habilidade durante o voo." />
+    <String huntingZoneId="116" id="1202" name="Pular" templateId="1002" tooltip="Pule do dirigível." />
+    <String huntingZoneId="116" id="1103" name="Desmontagem" templateId="1003" tooltip="Preparar o dirigível para a partida. Não é possível usar essa habilidade durante o voo." />
+    <String huntingZoneId="116" id="1203" name="Pular" templateId="1003" tooltip="Pule do dirigível." />
+    <String huntingZoneId="116" id="1101" name="Salvo de fogo" templateId="4000" tooltip="Atire um projétil." />
+    <String huntingZoneId="116" id="1201" name="Desmontar" templateId="4000" tooltip="Largue a arma de cerco." />
+    <String huntingZoneId="116" id="1301" name="Salvo de fogo" templateId="4001" tooltip="Atire um projétil." />
+    <String huntingZoneId="116" id="1401" name="Desmontar" templateId="4001" tooltip="Largue a arma de cerco." />
+    <String huntingZoneId="116" id="1501" name="Salvo de fogo" templateId="4002" tooltip="Atire um projétil." />
+    <String huntingZoneId="116" id="1503" name="Desmontar" templateId="4002" tooltip="Largue a arma de cerco" />
+    <String huntingZoneId="116" id="1501" name="Salvo de fogo" templateId="4003" tooltip="Atire um projétil." />
+    <String huntingZoneId="116" id="1503" name="Desmontar" templateId="4003" tooltip="Largue a arma de cerco" />
+    <String huntingZoneId="117" id="1102" name="Belly-Flop" templateId="5000" tooltip="Salte para a frente de seus inimigos, causando danos terríveis e reduzindo a velocidade dos alvos." />
+    <String huntingZoneId="117" id="1103" name="Batida" templateId="5000" tooltip="Ataque os inimigos três vezes e continue a causar dano por alguns segundos depois." />
+    <String huntingZoneId="117" id="1104" name="Grande birra" templateId="5000" tooltip="Atire esferas de energia crítica em um arco à sua frente, atordoando os alvos." />
+    <String huntingZoneId="117" id="1111" name="Grande Belch" templateId="5000" tooltip="Sopre fogo em um arco à sua frente, lançando-se para trás." />
+    <String huntingZoneId="117" id="1212" name="Pular para trás" templateId="5000" tooltip="Permite que você salte para trás e ataque inimigos em um determinado intervalo." />
+    <String huntingZoneId="117" id="1318" name="Punhos voadores" templateId="5000" tooltip="Atire foguetes em várias direções ao seu redor, reduzindo a velocidade dos alvos." />
+    <String huntingZoneId="117" id="2201" name="Purificar Kumas" templateId="5000" tooltip="Elimina todos os efeitos nocivos lançados em kumases aliados no alcance da habilidade." />
+    <String huntingZoneId="117" id="2202" name="Curar Kumasi" templateId="5000" tooltip="Restaura a vida de outros kumases dentro do alcance." />
+    <String huntingZoneId="117" id="1102" name="Belly-Flop" templateId="6000" tooltip="Salte sobre seus inimigos, causando danos terríveis e reduzindo a velocidade dos alvos." />
+    <String huntingZoneId="117" id="1104" name="Birra" templateId="6000" tooltip="Atire duas esferas de energia em um pequeno arco à sua frente, atordoando os alvos." />
+    <String huntingZoneId="117" id="1106" name="Belch" templateId="6000" tooltip="Sopre fogo em um arco à sua frente." />
+    <String huntingZoneId="117" id="1108" name="Roundhouse Left" templateId="6000" tooltip="Dê um soco circular enquanto gira no sentido horário." />
+    <String huntingZoneId="117" id="1109" name="Roundhouse Right" templateId="6000" tooltip="Dê um soco circular enquanto gira no sentido anti-horário." />
+    <String huntingZoneId="117" id="1212" name="Passo para trás" templateId="6000" tooltip="Retirar!" />
+    <String huntingZoneId="117" id="1311" name="Rolo de barriga" templateId="6000" tooltip="Ataque ao rolar para frente, diminuindo a velocidade dos alvos sobre os quais você rola." />
+    <String huntingZoneId="117" id="2201" name="Purificar Kumas" templateId="6000" tooltip="Elimina todos os efeitos nocivos lançados em kumases aliados no alcance da habilidade." />
+    <String huntingZoneId="117" id="6010" name="Rolo para trás" templateId="6000" tooltip="Ataque ao rolar para trás, diminuindo a velocidade dos alvos sobre os quais você rola" />
+    <String huntingZoneId="117" id="1103" name="Batida" templateId="7000" tooltip="Ataque os inimigos três vezes e continue a causar dano por alguns segundos depois." />
+    <String huntingZoneId="117" id="1212" name="Passo para trás" templateId="7000" tooltip="Retirar!" />
+    <String huntingZoneId="121" id="1301" name="Salvo de fogo" templateId="9005" tooltip="Atire um projétil em seu alvo." />
+    <String huntingZoneId="121" id="1501" name="Desmontar" templateId="9005" tooltip="Saia do canhão." />
+    <String huntingZoneId="122" id="1301" name="Salvo de fogo" templateId="9005" tooltip="Atire um projétil em seu alvo." />
+    <String huntingZoneId="122" id="1501" name="Desmontar" templateId="9005" tooltip="Saia do canhão." />
+    <String huntingZoneId="123" id="1301" name="Salvo de fogo" templateId="9005" tooltip="Atire um projétil em seu alvo." />
+    <String huntingZoneId="123" id="1501" name="Desmontar" templateId="9005" tooltip="Saia do canhão." />
+    <String huntingZoneId="191" id="1101" name="Salvo de fogo" templateId="1601" tooltip="Atire um projétil em seu alvo." />
+    <String huntingZoneId="191" id="1201" name="Pular" templateId="1601" tooltip="Saia do canhão." />
+    <String huntingZoneId="191" id="1101" name="Desmontagem" templateId="1604" tooltip="Preparar o dirigível para a partida. Não é possível usar essa habilidade durante o voo." />
+    <String huntingZoneId="191" id="1201" name="Pular" templateId="1604" tooltip="Pule do dirigível." />
+    <String huntingZoneId="191" id="1101" name="Desmontagem" templateId="1605" tooltip="Preparar o dirigível para a partida. Não é possível usar essa habilidade durante o voo." />
+    <String huntingZoneId="191" id="1201" name="Pular" templateId="1605" tooltip="Pule do dirigível." />
+    <String huntingZoneId="210" id="1101" name="Salvo de fogo" templateId="2999" tooltip="Atire uma bomba d'água em um alvo." />
+    <String huntingZoneId="210" id="1201" name="Desmontar" templateId="2999" tooltip="Deixe o canhão de respingos." />
+    <String huntingZoneId="210" id="1101" name="Salvo de fogo" templateId="3000" tooltip="Atire uma bomba d'água em um alvo." />
+    <String huntingZoneId="210" id="1201" name="Desmontar" templateId="3000" tooltip="Deixe o canhão de respingos." />
+    <String huntingZoneId="210" id="1101" name="Salvo de fogo" templateId="4000" tooltip="Atire um projétil em seu alvo." />
+    <String huntingZoneId="210" id="1201" name="Desmontar" templateId="4000" tooltip="Saia do tanque." />
+    <String huntingZoneId="425" id="1101" name="Salvo de fogo" templateId="8041" tooltip="Atire um projétil em seu alvo." />
+    <String huntingZoneId="425" id="1201" name="Desmontar" templateId="8041" tooltip="Saia do canhão." />
+    <String huntingZoneId="443" id="1101" name="Salvo de fogo" templateId="4000" tooltip="Atire um projétil em seu alvo." />
+    <String huntingZoneId="443" id="1201" name="Desmontar" templateId="4000" tooltip="Deixe o canhão." />
+    <String huntingZoneId="447" id="1201" name="Desmontar" templateId="300" tooltip="Deixe o canhão." />
+    <String huntingZoneId="447" id="2101" name="Abóbora Fogo" templateId="300" tooltip="Atire um projétil em seu alvo." />
+    <String huntingZoneId="447" id="1201" name="Desmontar" templateId="310" tooltip="Deixe o canhão." />
+    <String huntingZoneId="447" id="2101" name="Abóbora Fogo" templateId="310" tooltip="Atire um projétil em seu alvo." />
+    <String huntingZoneId="447" id="1201" name="Desmontar" templateId="311" tooltip="Deixe o canhão." />
+    <String huntingZoneId="447" id="2101" name="Abóbora Fogo" templateId="311" tooltip="Atire um projétil em seu alvo." />
+    <String huntingZoneId="450" id="1101" name="Desmontagem" templateId="5000" tooltip="Preparar o dirigível para a partida. Não é possível usar essa habilidade durante o voo." />
+    <String huntingZoneId="450" id="1201" name="Pular" templateId="5000" tooltip="Pule do dirigível." />
+    <String huntingZoneId="453" id="1101" name="Salvo de fogo" templateId="500" tooltip="Atire um projétil em seu alvo." />
+    <String huntingZoneId="453" id="1201" name="Desmontar" templateId="500" tooltip="Deixe o canhão." />
+    <String huntingZoneId="453" id="1101" name="Salvo de fogo" templateId="501" tooltip="Atire um projétil em seu alvo." />
+    <String huntingZoneId="453" id="1201" name="Desmontar" templateId="501" tooltip="Deixe o canhão." />
+    <String huntingZoneId="725" id="1101" name="Salvo de fogo" templateId="8041" tooltip="Atire um projétil em seu alvo." />
+    <String huntingZoneId="725" id="1201" name="Desmontar" templateId="8041" tooltip="Saia do canhão." />
+    <String huntingZoneId="743" id="1101" name="Salvo de fogo" templateId="4000" tooltip="Atire um projétil em seu alvo." />
+    <String huntingZoneId="743" id="1201" name="Desmontar" templateId="4000" tooltip="Saia do canhão." />
+    <String huntingZoneId="750" id="1101" name="Desmontagem" templateId="5000" tooltip="Preparar o dirigível para a partida. Não é possível usar essa habilidade durante o voo." />
+    <String huntingZoneId="750" id="1201" name="Pular" templateId="5000" tooltip="Pule do dirigível." />
+    <String huntingZoneId="750" id="1101" name="Desmontagem" templateId="5001" tooltip="Preparar o dirigível para a partida. Não é possível usar essa habilidade durante o voo." />
+    <String huntingZoneId="750" id="1201" name="Pular" templateId="5001" tooltip="Pule do dirigível." />
+    <String huntingZoneId="750" id="1101" name="Desmontagem" templateId="5002" tooltip="Preparar o dirigível para a partida. Não é possível usar essa habilidade durante o voo." />
+    <String huntingZoneId="750" id="1201" name="Pular" templateId="5002" tooltip="Pule do dirigível." />
+    <String huntingZoneId="750" id="1101" name="Desmontagem" templateId="5003" tooltip="Preparar o dirigível para a partida. Não é possível usar essa habilidade durante o voo." />
+    <String huntingZoneId="750" id="1201" name="Pular" templateId="5003" tooltip="Pule do dirigível." />
+    <String huntingZoneId="750" id="1101" name="Desmontagem" templateId="5004" tooltip="Preparar o dirigível para a partida. Não é possível usar essa habilidade durante o voo." />
+    <String huntingZoneId="750" id="1201" name="Pular" templateId="5004" tooltip="Pule do dirigível." />
+    <String huntingZoneId="750" id="1101" name="Desmontagem" templateId="5005" tooltip="Preparar o dirigível para a partida. Não é possível usar essa habilidade durante o voo." />
+    <String huntingZoneId="750" id="1201" name="Pular" templateId="5005" tooltip="Pule do dirigível." />
+    <String huntingZoneId="750" id="1101" name="Desmontagem" templateId="5006" tooltip="Preparar o dirigível para a partida. Não é possível usar essa habilidade durante o voo." />
+    <String huntingZoneId="750" id="1201" name="Pular" templateId="5006" tooltip="Pule do dirigível." />
+    <String huntingZoneId="750" id="1101" name="Desmontagem" templateId="5007" tooltip="Preparar o dirigível para a partida. Não é possível usar essa habilidade durante o voo." />
+    <String huntingZoneId="750" id="1201" name="Pular" templateId="5007" tooltip="Pule do dirigível." />
+    <String huntingZoneId="750" id="1101" name="Desmontagem" templateId="5008" tooltip="Preparar o dirigível para a partida. Não é possível usar essa habilidade durante o voo." />
+    <String huntingZoneId="750" id="1201" name="Pular" templateId="5008" tooltip="Pule do dirigível." />
+    <String huntingZoneId="750" id="1101" name="Desmontagem" templateId="5009" tooltip="Preparar o dirigível para a partida. Não é possível usar essa habilidade durante o voo." />
+    <String huntingZoneId="750" id="1201" name="Pular" templateId="5009" tooltip="Pule do dirigível." />
+    <String huntingZoneId="1023" id="1101" name="Salvo de fogo" templateId="3000007" tooltip="Atire um projétil em seu alvo." />
+    <String huntingZoneId="1023" id="1201" name="Desmontar" templateId="3000007" tooltip="Saia do canhão." />
+</StrSheet_VehicleSkill>

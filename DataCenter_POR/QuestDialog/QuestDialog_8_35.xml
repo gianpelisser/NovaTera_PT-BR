@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="8" id="35" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="208" id="100" prevId="0" villagerId="1035">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="208" id="2" prevId="0" villagerId="1035">
+         
+        <Page social="4">Quando escavaram esse lugar, os gulas usaram escravos - é claro! - que eles animaram magicamente. Há tanta angústia aqui que os espíritos dos escravos não podem retornar ao Sonho - eles estão presos aqui.&lt;BR&gt;&lt;BR&gt;Mate os {@LinkCreature:8#4021#reanimated popori} e traga-me suas picaretas. Talvez eu possa fazer algo por eles.</Page>
+    
+    </Text>
+    <Text huntingZoneId="208" id="3" prevId="2" villagerId="1035">
+         
+        <Page social="4">Só espero que esses pobres espíritos possam retornar ao Dream agora.</Page>
+    
+    </Text>
+    <Text huntingZoneId="208" id="4" villagerId="1035">
+         
+        <Page social="0">Se você fosse reanimado como um escravo horrível, eu o destruiria. Você gostaria que eu o fizesse!</Page>
+    
+    </Text>
+</QuestDialog>

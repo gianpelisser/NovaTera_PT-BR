@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="34" id="22" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="234" id="100" prevId="0" villagerId="1006">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="234" id="2" prevId="0" villagerId="1006">
+         
+        <Page social="4">Forsil está desesperada por diamantes farpados. Todos os meus recursos estão caçando fragmentos eldritch, ou eu ajudaria.&lt;BR&gt;&lt;BR&gt;Você acha que poderia conseguir alguns? Eles não são difíceis de encontrar e Forsil é conhecida por pagar bem. São comuns ao sul de Bleakrock e ao norte do Santuário Azurice.</Page>
+    
+    </Text>
+    <Text huntingZoneId="83" id="3" prevId="2" villagerId="1011">
+         
+        <Page social="4">Ah, você me trouxe diamantes. As neves devem estar realmente manchadas de vermelho se você os tirou de debaixo do nariz dos Junaidars.&lt;BR&gt;&lt;BR&gt;Cortados corretamente, eles serão bem vendidos para arcanistas e joalheiros. De fato, muito obrigado!</Page>
+    
+    </Text>
+    <Text huntingZoneId="83" id="4" villagerId="1011">
+         
+        <Page social="0">Se você não tem os diamantes, eu não tenho tempo.</Page>
+    
+    </Text>
+</QuestDialog>

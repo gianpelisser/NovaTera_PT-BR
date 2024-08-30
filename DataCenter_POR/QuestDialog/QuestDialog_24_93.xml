@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="24" id="93" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="66" id="100" prevId="0" villagerId="1008">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="66" id="2" prevId="0" villagerId="1008">
+         
+        <Page social="5">Então, agora precisamos que você... deixe-me ver o que isso diz... eesh! Você tem os chefões a seguir.&lt;BR&gt;&lt;BR&gt;Vá matar alguns {@LinkCreature:24#9#desert lightning kumases} e se apresente a Kaera no Acampamento da Estrada Aurum.</Page>
+    
+    </Text>
+    <Text huntingZoneId="224" id="3" prevId="2" villagerId="1010">
+         
+        <Page social="5">As gemas de Kumases são as favoritas de todos os magos. Obrigado por trazê-las.</Page>
+    
+    </Text>
+    <Text huntingZoneId="224" id="4" villagerId="1010">
+         
+        <Page social="0">Sei que os kumases não são fáceis de matar, mas também reconheço um verdadeiro guerreiro quando vejo um. Tenho certeza de que você será capaz de lidar com todos eles sem nenhum problema. Volte quando concluir sua missão.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="32" id="35" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="232" id="100" prevId="0" villagerId="1013">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="232" id="2" prevId="0" villagerId="1013">
+         
+        <Page social="4">Os mercenários não são nada depois de você ter enfrentado as {@LinkCreature:32#10#Bruxas de Sihran} e os {@LinkCreature:32#11#polykinds}.&lt;BR&gt;&lt;BR&gt;Só o som de seus feitiços chiando no ar.... bem, se você acha que os mercenários lhe dão pesadelos, não há palavras para o que as bruxas lhe darão.&lt;BR&gt;&lt;BR&gt;Se alguém pudesse tirá-las do campo, teríamos muito mais facilidade.</Page>
+    
+    </Text>
+    <Text huntingZoneId="232" id="3" prevId="2" villagerId="1013">
+         
+        <Page social="4">Não importa o quanto você seja corajoso, não ter que enfrentar as bruxas novamente é um alívio! Obrigado!</Page>
+    
+    </Text>
+    <Text huntingZoneId="232" id="4" villagerId="1013">
+         
+        <Page social="0">Se você eliminar os Sihran {@LinkCreature:32#10#witches} e {@LinkCreature:32#11#polykinds}, poderemos sair daqui um pouco mais cedo.</Page>
+    
+    </Text>
+</QuestDialog>

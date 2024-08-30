@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="3" id="22" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="203" id="100" prevId="0" villagerId="1013">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="203" id="2" prevId="0" villagerId="1013">
+         
+        <Page social="9">Neacal me fez ficar de olho na rota das caravanas, mas isso não quer dizer que não haja trabalho a fazer.&lt;BR&gt;&lt;BR&gt;Foledus perdeu os lucros de um carregamento inteiro quando os {@LinkCreature:3#300142#guerreiros-devanos} atacaram. Eles provavelmente ainda têm o dinheiro com eles. Veja se você pode recuperá-lo. Você fará o pequeno coração daquele castanheiro brilhar de alegria avarenta!</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="3" prevId="2" villagerId="1013">
+         
+        <Page social="8">Foledus ficará muito satisfeito com seu trabalho. Corra de volta ao Acampamento Bulwark e dê a ele as boas notícias.&lt;BR&gt;&lt;BR&gt;E se ele tiver alguma cerveja de sobra, traga-me um pouco.</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="4" villagerId="1013">
+         
+        <Page social="0">Escolha um deva, qualquer deva. É bem provável que eles tenham o saque dele.</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="5" prevId="3" villagerId="1005">
+         
+        <Page social="4">Explosão e maldição! Achei que nunca mais conseguiria recuperá-los! Obrigado! Os malditos devas estão sempre estragando tudo para os outros.&lt;BR&gt;&lt;BR&gt;Se eu voltar para a cidade e montar uma loja, prometo a você a primeira escolha da melhor mercadoria - venda a granel!</Page>
+    
+    </Text>
+</QuestDialog>

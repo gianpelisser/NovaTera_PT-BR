@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="50" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">Os pesquisadores do Mysterium descobriram que os argonss transferiram energia do Cyasma Spire destruído para algum lugar em Granarkus. Enquanto procurava o destino da energia, você testemunhou os argons drenando o cadáver de Kelsaik. Depois, Shandra Manaya, a rainha dos argonss, roubou a chama de Sikander.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">O Cyasma Spire foi destruído com sucesso. Apresente-se ao Comandante Tamur em {@Rgn:84001$$Kaiator}.</Page>
+    
+    </Text>
+    <Text huntingZoneId="528" id="3" prevId="2" villagerId="5005">
+         
+        <Page social="1">Você reverteu o fluxo de energia dentro da Espiral de Cyasma! Esperto, &lt;PCNAME&gt;, muito esperto.&lt;BR&gt;&lt;BR&gt;Os relatórios estão chegando de todos os lugares; os argons estão se fechando ou recuando. Pela primeira vez, estamos vencendo!&lt;BR&gt;&lt;BR&gt;Mas não podemos desistir até que o trabalho esteja feito. Nunca estaremos seguros enquanto Shandra Manaya, a rainha dos argons, viver.&lt;BR&gt;&lt;BR&gt;Você já enfrentou deuses antes, portanto é a melhor chance que temos. Sua missão: derrotar Shandra Manaya. Faça o que for preciso.&lt;NEXTPAGEBUTTON&gt;"Onde ela está?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Essa é uma boa pergunta. A resposta curta é: não sabemos.&lt;BR&gt;&lt;BR&gt;Mas temos uma pista. Alguns pesquisadores do Mysterium estão rastreando a última transmissão de energia da Espiral de Cyasma. Eles a reduziram para algum lugar em Granarkus.&lt;BR&gt;&lt;BR&gt;Aqui vem Adeille, a líder dos pesquisadores. Ela vai informá-lo sobre os detalhes.</Page>
+    
+    </Text>
+    <Text huntingZoneId="528" id="4" prevId="3" villagerId="5038">
+         
+        <Page social="1">Tamur o colocou a par de tudo? Ótimo.&lt;BR&gt;&lt;BR&gt;A teoria é simples: A Cyasma Spire era um alvo de alto valor porque os argons a estavam usando como fonte de energia. Toda essa energia tinha que ir para algum lugar - isso é física básica - e estamos apostando que ela foi para a base principal dos argons.&lt;BR&gt;&lt;BR&gt;Granarkus é um lugar grande, no entanto. Para rastrear a energia até seu destino, precisamos de botas no chão. Suas botas.&lt;NEXTPAGEBUTTON&gt;"Deixe-me ir até ela!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Estamos enviando alguns de nossos melhores pesquisadores com você. Eles são especialistas em tecnologia de argons e transmissão de energia, não em combate.&lt;BR&gt;&lt;BR&gt;Você precisará mantê-los vivos por tempo suficiente para fazer o trabalho deles, e isso não será fácil. Os argons em Granarkus ainda são organizados e perigosos - provavelmente porque estão próximos da rainha dos argons.&lt;BR&gt;&lt;BR&gt;Para mais detalhes, você pode falar com Virienne no Cyasma Spire. Ela esqueceu mais sobre os argonss do que a maioria das pessoas jamais saberá.</Page>
+    
+    </Text>
+    <Text huntingZoneId="249" id="5" prevId="4" villagerId="1105">
+         
+        <Page social="1">Então você é &lt;PCNAME&gt;, o libertador de Kanstria. Nunca nos conhecemos, mas passei meses analisando os argons que você... desmontou.&lt;BR&gt;&lt;BR&gt;Vamos ao que interessa. Você foi informado? &lt;NEXTPAGEBUTTON&gt;"Sim, fui."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">A energia do Cyasma Spire foi para um purificador de energia em Granarkus... e depois para outro lugar próximo.&lt;BR&gt;&lt;BR&gt;Mas a área ao redor do purificador não é segura. Tome o purificador de energia a sudeste do Extrator de Noyul em Granarkus, depois abra um portal para que minha equipe possa se teletransportar para lá com segurança.&lt;BR&gt;&lt;BR&gt;Sei que a calibração de teletransporte não é sua especialidade, por isso simplifiquei: Insira esta pedra de teletransporte no purificador e você a converterá em um teletransporte temporário.</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="6" prevId="5" villagerId="1024">
+         
+        <Page social="1">Hmmm... isso pode ser mais fácil do que eu pensava. Está vendo aquelas coisas metálicas que parecem raízes? São conduítes de energia de argons.&lt;BR&gt;&lt;BR&gt;Você deve ter visto conduítes semelhantes perto da Espiral de Cyasma. Lembra-se? &lt;NEXTPAGEBUTTON&gt;"Sim, eu me lembro."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Talvez possamos seguir os conduítes diretamente para Shandra Manaya. Enviei um pesquisador, Dadoam, para seguir os conduítes. Ele deve ser capaz de rastreá-los, mesmo se forem subterrâneos.&lt;BR&gt;&lt;BR&gt;Chegue até Dadoam, certifique-se de que ele está seguro e veja aonde esses conduítes levam.</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="7" prevId="6" villagerId="1025">
+         
+        <Page social="1">&lt;PCNAME&gt;! Por aqui! Esse pequeno globo tem a mesma assinatura de energia que o Cyasma Spire. E algo além daqueles argons gigantes está emitindo energia... bem, é fora de série.&lt;BR&gt;&lt;BR&gt;A julgar pela estrutura, é uma incubadora de argons. E isso a torna um alvo óbvio.</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="8" prevId="7" villagerId="1025">
+         
+        <Page social="1">Shandra Manaya! O poder de um deus, mas tão sem coração quanto um argons. E esse é o corpo de Kelsaik! &lt;BR&gt;&lt;BR&gt;Shandra Manaya tirou algo dele: A chama de Sikander. Talvez a chama fosse um pouco de Sikander que sobreviveu depois que Thulsa transformou Sikander em Kelsaik.&lt;BR&gt;&lt;BR&gt;É preciso um deus para descobrir o que Shandra Manaya está fazendo com um fragmento de um deus morto. Você deveria contar a Kaia o que descobrimos.</Page>
+    
+    </Text>
+</QuestDialog>

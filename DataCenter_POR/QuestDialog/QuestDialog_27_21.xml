@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="27" id="21" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="70" id="100" prevId="0" villagerId="1020">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="70" id="2" prevId="0" villagerId="1020">
+         
+        <Page social="5">Meu marido, {@LinkCreature:227#1019#Jordal}, entrou recentemente para a guarnição. Tivemos pouco tempo para despedidas. Você poderia levar este colar para ele em &lt;font color='#660000'&gt;Castra Mysterium&lt;/font&gt;?&lt;BR&gt;&lt;BR&gt;Diga-lhe que ele é amado e está sempre em meus pensamentos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="227" id="3" prevId="2" villagerId="1019">
+         
+        <Page social="13">Lembra dela? Se as coisas não melhorarem, ela terá de se lembrar de mim! Tenho que me apresentar em Castra Mysterium e não vou conseguir chegar vivo. Não sem ajuda.&lt;BR&gt;&lt;BR&gt;Você poderia abrir caminho entre os {@LinkCreature:27#1#loamy sporewalkers} e deixar {@LinkCreature:227#1006#Ellahne} saber que não desertamos, que não somos covardes?</Page>
+    
+    </Text>
+    <Text huntingZoneId="227" id="4" prevId="3" villagerId="1006">
+         
+        <Page social="5">Hmph. As desculpas não compensam a perda de um movimento. Jordal sabe onde estamos. Ele deve vir para cá com a devida rapidez.&lt;BR&gt;&lt;BR&gt;Talvez agora que você já lutou por ele, ele pelo menos apareça.</Page>
+    
+    </Text>
+</QuestDialog>

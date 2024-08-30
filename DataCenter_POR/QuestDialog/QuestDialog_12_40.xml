@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="12" id="40" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="212" id="100" prevId="0" villagerId="1007">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="212" id="2" prevId="0" villagerId="1007">
+         
+        <Page social="5">O Sindicato Kazuur está tentando transportar os escravos - eles devem saber que estamos atrás deles.&lt;BR&gt;&lt;BR&gt;Desmonte os guardas em Sandbar Beach. Se um navio chegar e vir um monte de cadáveres de {@LinkCreature:12#14#traficante de gula}, eles não se arriscarão a transportar os escravos.&lt;BR&gt;&lt;BR&gt;Além disso, mais escravistas mortos é uma coisa inerentemente boa, certo?</Page>
+    
+    </Text>
+    <Text huntingZoneId="212" id="3" prevId="2" villagerId="1007">
+         
+        <Page social="5">Uma peça do quebra-cabeça de cada vez, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;É como se estivéssemos desmontando um quebra-cabeça. Cada peça do quebra-cabeça que removemos faz com que o resto pareça mais destruído e caótico.&lt;BR&gt;&lt;BR&gt;E, eventualmente, a coisa toda se desfaz. Hah!</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="39" id="39" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="239" id="100" prevId="0" villagerId="1005">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="239" id="2" prevId="0" villagerId="1005">
+         
+        <Page social="4">Você tem sido um grande recurso para nós. Muito obrigado. Kaleon está perseguindo várias ameaças adicionais e poderia usar sua ajuda.&lt;BR&gt;&lt;BR&gt;A última vez que o vi, ele estava indo para o leste, nas camadas superiores.</Page>
+    
+    </Text>
+    <Text huntingZoneId="239" id="3" prevId="2" villagerId="1100">
+         
+        <Page social="5">Bem-vindo, &lt;PCNAME&gt;! Você conquistou uma reputação e tanto dentro do Mysterium. Vamos ver o que podemos realizar juntos!</Page>
+    
+    </Text>
+</QuestDialog>

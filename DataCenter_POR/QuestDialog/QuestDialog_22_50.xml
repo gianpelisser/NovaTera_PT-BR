@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="22" id="50" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="222" id="100" prevId="0" villagerId="8001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="222" id="2" prevId="0" villagerId="8001">
+         
+        <Page social="4">A Eldritch Academy está em pânico! Queríamos fazer um simples festival de colheita, mas estamos recebendo cartas ameaçadoras. "Você será assombrado por seus erros do passado". Coisas desse tipo.&lt;BR&gt;&lt;BR&gt;Serena me pediu para descobrir quem está tentando arruinar nossa diversão, provavelmente porque ela me pegou lendo "Thrilling Detective Tales" quando eu deveria estar estudando.&lt;BR&gt;&lt;BR&gt;Estou perseguindo o mentor. Enquanto eu faço isso, você pode manter nossa festa segura? &lt;NEXTPAGEBUTTON&gt;"Claro... mas segura de quê?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Tuwangis, principalmente. Eles estão se reunindo na academia neste momento. Mas não se preocupe. Podemos virar as superstições deles contra eles.&lt;BR&gt;&lt;BR&gt;Use o canhão para atirar abóboras nos convidados indesejados e defender nossos suprimentos de festa - especialmente os doces.&lt;BR&gt;&lt;BR&gt;Quando os tuwangis forem atingidos por abóboras - símbolos da própria colheita - eles fugirão como os covardes que são.</Page>
+    
+    </Text>
+    <Text huntingZoneId="222" id="3" prevId="2" villagerId="8001">
+         
+        <Page social="4">Você não ficou sem abóboras, ficou? Ótimo.&lt;BR&gt;Aqui, pegue isso... e fique à vontade para participar da festa. Será perfeito! &lt;NEXTPAGEBUTTON&gt;"E o enorme monstro da abóbora?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Monstro de abóbora? Deve ser uma fantasia inteligente. Certamente não há motivo para preocupação. Vocês, &lt;PCCLASS:lcase&gt;s, podem ser tão preocupados.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="48" id="23" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="78" id="100" prevId="0" villagerId="1010">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="78" id="2" prevId="0" villagerId="1010">
+         
+        <Page social="4">Soldado, preciso de um mensageiro. Depois do último surto de argons, nossas linhas de comunicação se cruzaram. Não podemos deixar que isso continue.&lt;NEXTPAGEBUTTON&gt;"Fico feliz em ajudar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Excelente. Vá até {@Rgn:48004} e entregue essas ordens a {@LinkCreature:248#1015}. Em seu caminho, encontre {@LinkCreature:78#1012} nas proximidades de {@Rgn:78001} e ordene que ele volte para a base.&lt;BR&gt;&lt;BR&gt;Dispensado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="78" id="3" prevId="2" villagerId="1012">
+         
+        <Page social="4">De volta à base? Mas ainda não terminei de entregar os suprimentos.&lt;BR&gt;&lt;BR&gt;Este material é perecível. Você acha que poderia deixá-lo para mim? &lt;NEXTPAGEBUTTON&gt;"Se estiver no meu caminho, com certeza."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Ótimo! {@LinkCreature:78#1009} assou alguns leitões para os ferreiros na {@Rgn:48001}.&lt;BR&gt;&lt;BR&gt;Encontre {@LinkCreature:248#1044} a sudeste da fortaleza. Ele será o homem de aparência faminta com um grande martelo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="248" id="4" prevId="3" villagerId="1044">
+         
+        <Page social="6">Pelos titãs, isso está cheirando bem! Não como carne fresca há... nem me lembro! &lt;BR&gt;&lt;BR&gt;Agora, se pudermos ficar vivos tempo suficiente para aproveitar isso.&lt;NEXTPAGEBUTTON&gt;"Problemas com argons?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Sempre. Se você estiver indo em direção a {@Rgn:78001}, poderia matar alguns cadáveres de argonomorfos para mim? Está em seu caminho e ajudaria a manter meu povo vivo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="248" id="5" prevId="4" villagerId="1015">
+         
+        <Page social="6">Prazer em conhecê-lo, &lt;PCNAME&gt;. Muhrak fala bem de você.&lt;BR&gt;&lt;BR&gt;Obrigado pelas ordens. Quando fomos isolados, fiquei preocupado em manter meu povo aqui. No entanto, se conseguirmos aproveitar a tecnologia do argons, isso mudaria a guerra.&lt;BR&gt;&lt;BR&gt;Espero que o risco valha a pena.</Page>
+    
+    </Text>
+</QuestDialog>

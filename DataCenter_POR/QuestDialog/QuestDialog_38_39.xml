@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="38" id="39" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="238" id="100" prevId="0" villagerId="1027">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="238" id="2" prevId="0" villagerId="1027">
+         
+        <Page social="5">É o diário de um arqueólogo de príons. &lt;NEXTPAGEBUTTON&gt;"O que ele diz?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="5">Ouça este trecho: "Tínhamos a esperança de capturar o gigante que encontramos dentro da pirâmide, mas a ferocidade de seu ataque tornou nosso plano inútil. Aqueles poucos de nós que sobreviveram para recuar certamente são os favoritos de nosso pai Saleron."&lt;BR&gt;&lt;BR&gt;Não é incrível, &lt;PCNAME&gt;? Um gigante! Ainda vivo depois de todo esse tempo.&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Incrível, e meio aterrorizante."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="5">Você está certo. Imagine o retorno desse terrível império. O gigante ainda deve estar dentro da pirâmide de Thunder Hold. Não se pode permitir que ele escape.&lt;BR&gt;&lt;BR&gt;Você aceita a tarefa de destruí-lo?</Page>
+    
+    </Text>
+    <Text huntingZoneId="238" id="3" prevId="2" villagerId="1026">
+         
+        <Page social="5">Use esse teleportal para se transportar para dentro da pirâmide.</Page>
+    
+    </Text>
+    <Text huntingZoneId="238" id="4" prevId="3" villagerId="1027">
+         
+        <Page social="5">A ameaça acabou, por enquanto. Mas se havia um gigante aqui, será que há mais em outros lugares? Só podemos esperar que não.</Page>
+    
+    </Text>
+</QuestDialog>

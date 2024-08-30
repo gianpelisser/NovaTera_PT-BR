@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="60" id="99" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="206" id="100" prevId="0" villagerId="1042">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="206" id="2" prevId="0" villagerId="1042">
+         
+        <Page social="0">&lt;PCNAME&gt;, eu o tenho observado. Suas habilidades são impressionantes, mas sua arma está abaixo do ideal.&lt;BR&gt;&lt;BR&gt;Olhe para a arma que acabei de lhe dar. Você só precisará de alguns itens para encantá-la.&lt;BR&gt;&lt;BR&gt;Visite Valdrin em Lumbertown, e ele lhe dará o que você precisa.</Page>
+    
+    </Text>
+    <Text huntingZoneId="60" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="0">Encantamento, hein? Vou lhe explicar melhor.&lt;BR&gt;&lt;BR&gt;Enchante seu equipamento combinando-o com matéria-prima do mesmo nível e um pouco de alkahest - a propósito, eu vendo isso. O encantamento aumenta a defesa do item na armadura e o ataque nas armas. Você pode repetir o processo para desbloquear bônus em diferentes níveis.&lt;BR&gt;&lt;BR&gt;Para encantar equipamentos, você precisa coletar matéria-prima. Você pode fazer isso desmontando outros equipamentos do mesmo nível. Há um botão na parte inferior de seu inventário para desmontar equipamentos.&lt;BR&gt;&lt;BR&gt;Você também precisa de alkahest. Muito e muito alkahest. Não se esqueça de comprar alkahest.</Page>
+    
+    </Text>
+</QuestDialog>

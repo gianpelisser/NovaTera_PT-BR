@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="19" id="28" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="219" id="100" prevId="0" villagerId="1007">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="219" id="2" prevId="0" villagerId="1007">
+         
+        <Page social="4">Eu fiz algo terrível, &lt;PCNAME&gt;. Algo pelo qual talvez eu nunca consiga me redimir totalmente.&lt;BR&gt;&lt;BR&gt;Durante meu tempo com a Irmandade Livre, criei armas horríveis. Nunca suspeitei que elas seriam usadas contra nós, mas acho que isso não é desculpa.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Então, o que você gostaria que eu fizesse?</Page>
+         
+        <Page social="4">Não posso continuar sabendo que essas armas ainda estão por aí. Por favor, vá recolhê-las para mim. &lt;BR&gt;&lt;BR&gt;Recolha-as, traga-as de volta e eu cuidarei para que sejam destruídas. Elas não tirarão mais nenhuma vida inocente.</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="3" prevId="2" villagerId="1007">
+         
+        <Page social="4">Obrigado a você. Vou destruí-los imediatamente e, em minha vida, nunca mais farei nada parecido com isso.</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="4" villagerId="1007">
+         
+        <Page social="0">Por favor, você precisa encontrar essas armas antes que mais pessoas se machuquem!</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="122" id="10" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="122" id="100" prevId="0" villagerId="9001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="122" id="2" prevId="0" villagerId="9001">
+         
+        <Page social="1">Amigo, a União Iluminada precisa de você.&lt;BR&gt;&lt;BR&gt;Nossos espiões nas terras controladas pela Ordem de Ferro relataram rumores preocupantes, sugerindo que eles podem estar planejando empregar algumas das feras locais para usá-las como tropas de choque contra nós.&lt;BR&gt;&lt;BR&gt;Isso requer mais investigação. Por favor, entre no território da ordem e mate alguns {@linkcreature:123#202#Darkquaver mugatos} e {@linkcreature:123#205#river ghilliedhus} e retorne com suas descobertas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="122" id="3" prevId="2" villagerId="9001">
+         
+        <Page social="0">Você teve um desempenho excepcional e, por isso, meu amigo, a União Iluminada está em dívida com você!</Page>
+    
+    </Text>
+</QuestDialog>

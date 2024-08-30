@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="12" id="41" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="212" id="100" prevId="0" villagerId="1005">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="212" id="2" prevId="0" villagerId="1005">
+         
+        <Page social="4">Os piratas estão guardando um cais de escravos em nome do Sindicato Kazuur. Graças a você, &lt;PCNAME&gt;, os gulas não podem mais usar seus próprios guardas.&lt;BR&gt;&lt;BR&gt;Não importa quem está guardando aquele cais, no entanto. Temos que impedir que os navios atraquem lá.&lt;BR&gt;&lt;BR&gt;Isso significa eliminar os {@LinkCreature:12#13#Red Lash clawriders}. Nenhum capitão que esteja lidando com traficantes de escravos atracará em um píer desprotegido, para que o Sindicato Kazuur não possa mover seus escravos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="212" id="3" prevId="2" villagerId="1005">
+         
+        <Page social="4">Você é o pior pesadelo do comércio de escravos, &lt;PCNAME&gt;. Os deuses sorriem com sua dedicação à justiça!</Page>
+    
+    </Text>
+</QuestDialog>

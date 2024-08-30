@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="23" id="27" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="223" id="100" prevId="0" villagerId="1032">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="223" id="2" prevId="0" villagerId="1032">
+         
+        <Page social="5">We need you to hunt down some {@LinkCreature:23#10#moonlight sabertooths}. They're simply out of control.&lt;BR&gt;&lt;BR&gt;If they're not eating our supplies, they're trying to eat us. It's bad for morale.</Page>
+    
+    </Text>
+    <Text huntingZoneId="223" id="3" prevId="2" villagerId="1032">
+         
+        <Page social="5">Their deaths will make patrols a lot less dangerous. You're good at this killing thing. Thanks!</Page>
+    
+    </Text>
+</QuestDialog>

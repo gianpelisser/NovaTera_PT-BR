@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="7" id="93" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="60" id="100" prevId="0" villagerId="1013">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="60" id="2" prevId="0" villagerId="1013">
+         
+        <Page social="0">Os kumases reivindicaram as Planícies de Omphalos e desafiam nosso controle da região.&lt;BR&gt;&lt;BR&gt;Vocês devem matar {@LinkCreature:7#3#indolente} e {@LinkCreature:7#4#torpid kumases} para estabelecer nosso domínio.&lt;BR&gt;&lt;BR&gt;Relate a Heroth na Fazenda de Godric quando tiver sucesso.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="3" prevId="2" villagerId="1005">
+         
+        <Page social="5">Eu odeio kumases. Brutos nojentos. Eles tiveram o que mereciam. Se eu voltar a Velika, &lt;PCNAME&gt;, vou lhe pagar uma cerveja.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="4" villagerId="1005">
+         
+        <Page social="0">Parece que você ainda não completou sua missão.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="47" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">While you were discussing the war with Tamur, a messenger arrived with orders for you to report to Tirkai Forest. The argons have recently withdrawn, leaving behind a major research facility and a landscape completely transformed.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">Draft Orders:&lt;BR&gt;&lt;BR&gt;[Kaiator] Report to Commander Tamur to discuss strategies for the Argon War.</Page>
+    
+    </Text>
+    <Text huntingZoneId="84" id="3" prevId="2" villagerId="1088">
+         
+        <Page social="4">It's been a while, &lt;PCNAME&gt;. How have you been? Commander Tamur is waiting for you.</Page>
+    
+    </Text>
+    <Text huntingZoneId="528" id="4" prevId="3" villagerId="5005">
+         
+        <Page social="0">Welcome, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;The federation is in your debt for destroying Thulsa. But a far worse threat is the argons, now that {@Rgn:47001$$Tirkai Forest} has fallen to them. &lt;NEXTPAGEBUTTON&gt;"I agree."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">The longer it takes, the slimmer our chances. Kaiator only stands because of Kaia, and even she can't turn them away forever.&lt;BR&gt;&lt;BR&gt;Let's discuss the next steps with my adjutants, shall we?</Page>
+    
+    </Text>
+    <Text huntingZoneId="528" id="5" prevId="4" villagerId="5005">
+         
+        <Page social="4">The argons may have withdrawn their main forces from Tirkai, but that doesn't mean it's safe to reclaim it. &lt;NEXTPAGEBUTTON&gt;"Certainly not."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="10">I'm sending you to Verge at {@Rgn:77001$$Pathfinder Post}. He'll know what needs doing. &lt;NEXTPAGEBUTTON&gt;"I'm on my way."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Before you leave, {@LinkCreature:528#5011$$Ukenul} has a gift for you from the federation.</Page>
+    
+    </Text>
+    <Text huntingZoneId="528" id="6" prevId="5" villagerId="5011">
+         
+        <Page social="0">For extraordinary service, &lt;PCNAME&gt;. I feel you'll soon have cause to put this gift to good use.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="7" prevId="6" villagerId="2001">
+         
+        <Page social="4">It's an honor, &lt;PCNAME&gt;. We'll put that fabled courage to good use, never fear.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:247#2002$$Yasring} in Whitefrost Forest has the details.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="8" prevId="7" villagerId="2002">
+         
+        <Page social="8">One day this place was full of argons, the next day they were gone. But what they left behind...&lt;BR&gt;&lt;BR&gt;We could study it for a lifetime, but we don't have that long.&lt;NEXTPAGEBUTTON&gt;"How can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">They fouled the land, the water, even the air. Can you taste the wrongness in it? I'm leading the purification efforts, and to do that, I need to know how they contaminated everything.&lt;BR&gt;&lt;BR&gt;Bring me some contaminated mushrooms. And the essence from those argonified creatures.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="9" prevId="8" villagerId="2002">
+         
+        <Page social="0">With these I can make you some cleansing orbs.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="10" villagerId="2002">
+         
+        <Page social="0">It's a matter of turning the contamination against itself...&lt;BR&gt;&lt;BR&gt;Not easy, but...effective.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="11" prevId="9" villagerId="2002">
+         
+        <Page social="9">Tirkai Lake is the main source of fresh water around here, and it's none too fresh. I'll keep turning out orbs—you use these on whatever's polluting the lake. Then there's one more task....&lt;NEXTPAGEBUTTON&gt;"What's that?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">After you look around the lake, find Cheniel, the faerie chief. We're going to need help fixing everything the argons ruined.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="12" prevId="11" villagerId="2005">
+         
+        <Page social="0">(This corpse looks wrong somehow—not just dead, but wrong.)&lt;BR&gt;&lt;BR&gt;(Could it be contaminating the lake? Using an orb should tell you.)</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="13" prevId="11" villagerId="2006">
+         
+        <Page social="0">(This corpse is somehow contaminated. It could be affecting the lake. Maybe you should use an orb on it.)</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="14" prevId="11" villagerId="2007">
+         
+        <Page social="0">(You use an orb to remove any argon contamination from the corpse.)</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="15" prevId="12" villagerId="2003">
+         
+        <Page social="8">The lake will be clean again? If only that were enough. Our trees of life are dying. We will die without them, and soon.&lt;BR&gt;&lt;BR&gt;But perhaps it's no accident Yasring sent you now, when you might be able to help.&lt;BR&gt;&lt;BR&gt;If you're willing, Shemi can take you to the tree.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="16" prevId="15" villagerId="2004">
+         
+        <Page social="8">I can't go there, but I can show you. Look closely—they're right...&lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7023#-14543, -27587, -943&amp;type=1&amp;name=there"&gt;&lt;/A&gt;&lt;/font&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="17" prevId="16" villagerId="2003">
+         
+        <Page social="8">With the trees restored, we're no longer under the shadow of death.&lt;BR&gt;&lt;BR&gt;Rozaline at {@Rgn:47007$$Blightroar Research Station} thinks the faeries will help restore Tirkai.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="18" prevId="17" villagerId="1004">
+         
+        <Page social="8">Good work, &lt;PCNAME&gt;. With the faeries helping cleanse the land, soon the argon corruption will be a thing of the past.&lt;BR&gt;&lt;BR&gt;Report to {@LinkCreature:247#2001$$Verge} at Pathfinder Post on all that you've accomplished out here.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="19" prevId="18" villagerId="2001">
+         
+        <Page social="4">The faeries are saved? I'll bet you had a hand in that, &lt;PCNAME&gt;. Yasring will want to know about it, too. I think she's gone to Thrallhold.</Page>
+    
+    </Text>
+</QuestDialog>

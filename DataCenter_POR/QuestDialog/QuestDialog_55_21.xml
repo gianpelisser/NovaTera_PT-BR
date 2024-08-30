@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="55" id="21" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="80" id="100" prevId="0" villagerId="1012">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="80" id="2" prevId="0" villagerId="1012">
+         
+        <Page social="4">Estamos com pouca força e com muito medo. As pessoas desaparecem da noite para o dia e ninguém as vê sendo levadas. Não ajuda o fato de que a floresta também não é segura.&lt;BR&gt;&lt;BR&gt;Se você estiver procurando fazer algo de bom, nós o aceitaremos.&lt;BR&gt;&lt;BR&gt;Fale com o Mestre Yedwin da &lt;font color='0000ff'&gt;Guilda dos Exploradores&lt;/font&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="80" id="3" prevId="2" villagerId="1020">
+         
+        <Page social="4">A situação é ruim. Entre os desaparecimentos e os unseelie, as coisas estão difíceis. Estamos isolados aqui - é muito perigoso avançar para a Floresta de Susurrus ou para Amena Quatla.&lt;BR&gt;&lt;BR&gt;Precisamos de suprimentos básicos. Traga ao Thaqib algumas peles de hiena para que ele possa proteger melhor as tropas.&lt;BR&gt;&lt;BR&gt;Não podemos deixar de ver as hienas. Elas estão à espreita ao redor da aldeia.</Page>
+    
+    </Text>
+    <Text huntingZoneId="255" id="4" prevId="3" villagerId="1017">
+         
+        <Page social="4">Obrigado. Posso usar isso. Mas não sei de que adiantará. As pessoas desaparecem, não importa quantos soldados tenhamos.&lt;BR&gt;&lt;BR&gt;Kaia me dê coragem. Não quero viver com medo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="255" id="5" villagerId="1017">
+         
+        <Page social="0">Essas hienas dificultam o acesso dos suprimentos para nós ou para os outros postos avançados. Livrar-se delas serve a dois objetivos.</Page>
+    
+    </Text>
+</QuestDialog>

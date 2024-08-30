@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="38" id="22" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="238" id="100" prevId="0" villagerId="1013">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="238" id="2" prevId="0" villagerId="1013">
+         
+        <Page social="5">As máquinas vivas perto das ruínas ao leste são remanescentes do império perdido dos gigantes. Poihon, nosso engenheiro, desejava estudá-las, mas seus deveres o levaram para a Patrulha Wyvern.&lt;BR&gt;&lt;BR&gt;Se você... desmontasse algumas, eu poderia guardar as partes que funcionam para ele analisar. Seu coraçãozinho peludo ficaria feliz em tê-las.</Page>
+    
+    </Text>
+    <Text huntingZoneId="238" id="3" prevId="2" villagerId="1013">
+         
+        <Page social="6">Obrigado, &lt;PCNAME&gt;. Isso agregará muito ao nosso conhecimento.</Page>
+    
+    </Text>
+    <Text huntingZoneId="238" id="4" villagerId="1013">
+         
+        <Page social="0">Seria útil ter mais fragmentos, se você puder obtê-los.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="26" id="27" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="226" id="100" prevId="0" villagerId="1006">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="226" id="2" prevId="0" villagerId="1006">
+         
+        <Page social="5">Life and death are part of a cycle, a system. We can interrupt it but the Dream ends for us all at some point. We must respect that.&lt;BR&gt;&lt;BR&gt;I understand you've found creatures that live past death, even with their hearts separated. We cannot allow that to continue. Kill the {@LinkCreature:26#2001#revivified cromoses} and {@LinkCreature:26#2003#resurgent ghilliedhus} to protect the natural order.</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="3" prevId="2" villagerId="1006">
+         
+        <Page social="5">Arun and Shara have plans for each creature in the world. It is dangerous to use magic to subvert those plans.&lt;BR&gt;&lt;BR&gt;Your help is noted, &lt;PCNAME&gt;. May the titans continue to Dream of you.</Page>
+    
+    </Text>
+</QuestDialog>

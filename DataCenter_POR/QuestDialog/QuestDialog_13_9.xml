@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="9" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="213" id="100" prevId="0" villagerId="1007">
+         
+        <Page social="0">A pedido de Chione, você lutou contra Acharak e seus asseclas e recuperou uma pena de aparência simples que praticamente queimava com energia arcana.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="2" prevId="0" villagerId="1007">
+         
+        <Page social="4">Meu dirigível caiu por causa desses orcs. O pior deles, no entanto, é {@linkcreature:13#1002#Acharak}.&lt;BR&gt;&lt;BR&gt;Ele tomou conta de toda a Guarnição do Desfiladeiro Contaminado! Acho que ele tem um talismã poderoso.&lt;BR&gt;&lt;BR&gt;Mate-o e pegue-o, depois leve-o para Edan. Ele saberá o que podemos fazer com ele.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="3" prevId="2" villagerId="1134">
+         
+        <Page social="4">Essa ficha é tão pequena, tão simples, mas dói só de segurá-la. Que poder! &lt;BR&gt;&lt;BR&gt;Este não é um talismã orcano. Alguém o imbuiu de uma tremenda magia.&lt;BR&gt;&lt;BR&gt;Bem feito, &lt;PCNAME&gt;. Muito obrigado.</Page>
+    
+    </Text>
+</QuestDialog>

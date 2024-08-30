@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="181" id="5" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">Researchers of Archaeology Laboratory were stuck right in front of the Laboratory because of demokrons in the are.&lt;BR&gt;While hunting down demokrons upon the request of Redorn, Highwatch South Gate Headguard, &lt;PCNAME&gt; saved the researchers and escorted them to the laboratory.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="181" id="3" prevId="2" villagerId="3006">
+         
+        <Page social="4">Oh, thank Oriyn someone has come!&lt;BR&gt;&lt;BR&gt;I am an archaeologist, bound for Qeldar Station. We were en route back to our dig site when we were set upon by demokrons. Our guards were overwhelmed—but at least they led the creatures away from us!&lt;BR&gt;&lt;BR&gt;Unfortunately, now we're stuck here, with no escort.&lt;NEXTPAGEBUTTON&gt;"I can help you, if you're ready to go."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="4" villagerId="5">
+         
+        <Page social="0">Thank you so much, &lt;PCNAME&gt;—and I am so sorry if this inconveniences you.&lt;BR&gt;&lt;BR&gt;We really should spend a little less time reading about warriors, and a little more time learning how to defend ourselves.</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="5" prevId="3" villagerId="1005">
+         
+        <Page social="4">Thank you for helping our researchers return to us.&lt;BR&gt;&lt;BR&gt;Ordinarily, the High Guards are more than capable to ensuring our safety...but with everyone working to locate High Elder Verikam and shore up the city's defenses, they are most likely overwhelmed.&lt;BR&gt;&lt;BR&gt;You have our gratitude.&lt;NEXTPAGEBUTTON&gt;"I'm happy to help."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</QuestDialog>

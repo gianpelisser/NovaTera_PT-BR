@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="24" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="204" id="100" prevId="0" villagerId="1110">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="204" id="2" prevId="0" villagerId="1110">
+         
+        <Page social="4">Controlling the mines means nothing if we can't get shipments in and out of here.&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:4#1031#sooty sporewalkers} and the {@LinkCreature:4#1032#smoldering ghilliedhus} are mindless beasts, but that doesn't matter when it's your ore-wagon they're tearing apart.&lt;BR&gt;&lt;BR&gt;Keep them away from the roads, would you?</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="3" prevId="2" villagerId="1110">
+         
+        <Page social="4">With those beasts out of the way, maybe we can get supply trains in and out of here.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="26" id="24" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="226" id="100" prevId="0" villagerId="1005">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="226" id="2" prevId="0" villagerId="1005">
+         
+        <Page social="5">Something in this basin is affecting things in the most remarkable fashion! I've seen creatures healed of old wounds, even brought back to life. If we could harness such a thing, we could avert much suffering in our world.&lt;BR&gt;&lt;BR&gt;Bring me the hearts of some {@LinkCreature:26#2002#revivified noruks} and let us discover the secret to this mystery together!</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="3" prevId="2" villagerId="1005">
+         
+        <Page social="5">Look at this! The heart yet beats, in a completely natural fashion. This is no undead abomination, not at all!&lt;BR&gt;&lt;BR&gt;Perhaps the rumors of the Fountain of Shara aren't entirely groundless.</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="4" villagerId="1005">
+         
+        <Page social="0">You needn't worry about angering the Forest Keepers. My work is of much interest to them and I operate with their full support.</Page>
+    
+    </Text>
+</QuestDialog>

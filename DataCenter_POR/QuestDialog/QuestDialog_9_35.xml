@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="9" id="35" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="209" id="100" prevId="0" villagerId="1024">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="209" id="2" prevId="0" villagerId="1024">
+         
+        <Page social="0">(O cadáver do soldado foi mutilado e ainda tem uma lâmina cravada nele.)&lt;BR&gt;&lt;BR&gt;(Mas é uma arma {@LinkCreature:9#1000#Lokian}, não uma arma gula.)&lt;BR&gt;&lt;BR&gt;Armas como essa são evidências de que os {@LinkCreature:9#1100#cultistas} estão trabalhando com os gulas. Colete mais dessas &lt;font color='#660000'&gt;armas&lt;/font&gt; para ter certeza.</Page>
+    
+    </Text>
+    <Text huntingZoneId="209" id="3" prevId="2" villagerId="1005">
+         
+        <Page social="4">Para um amador, você sabe como manejar uma lâmina. E você está certo. Essa não é uma arma gula.&lt;BR&gt;&lt;BR&gt;Cultistas de Lok trabalhando com os gulas? Que a deusa Kaia nos preserve!</Page>
+    
+    </Text>
+    <Text huntingZoneId="209" id="4" villagerId="1005">
+         
+        <Page social="0">O que é tão urgente?</Page>
+    
+    </Text>
+</QuestDialog>

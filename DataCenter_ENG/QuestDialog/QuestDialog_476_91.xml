@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="476" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="253" id="100" prevId="0" villagerId="1002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="253" id="2" prevId="0" villagerId="1002">
+         
+        <Page social="5">It is of the utmost importance that the &lt;PCNAME&gt; infiltrates the Labyrinth of Terror and exterminates Killian's fools, jesters, and jokers. We must weaken the evil god the only way we are presently able.&lt;BR&gt;&lt;BR&gt;Report back when the deed is done.</Page>
+    
+    </Text>
+    <Text huntingZoneId="253" id="3" prevId="2" villagerId="1002">
+         
+        <Page social="5">Well done, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="253" id="4" villagerId="1002">
+         
+        <Page social="0">Eliminate Killian's clowns in the Labyrinth of Terror.</Page>
+    
+    </Text>
+</QuestDialog>

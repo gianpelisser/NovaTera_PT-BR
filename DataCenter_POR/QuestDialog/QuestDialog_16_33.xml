@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="16" id="33" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="216" id="100" prevId="0" villagerId="1003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="216" id="2" prevId="0" villagerId="1003">
+         
+        <Page social="4">Estou ouvindo rumores de todas as direções. Algo sobre uma &lt;font color='#660000'&gt;Cerimônia de Bênção&lt;/font&gt;? E esse novo acampamento: &lt;font color='#660000'&gt;Alethea's Last Hope&lt;/font&gt;. Acho que essa deve ser sua próxima parada.&lt;BR&gt;&lt;BR&gt;Lene seguiu naquela direção. Talvez ela saiba o que fazer.</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="3" prevId="2" villagerId="1023">
+         
+        <Page social="4">O Korwyn lhe enviou? Korwyn enviou você, não foi? É bom saber que ele está bem. Não tenho conseguido entrar em contato com ele ultimamente. Encontrei soldados da federação e eles me trouxeram para cá."&lt;NEXTPAGEBUTTON&gt;"Korwyn mencionou uma Cerimônia de Bênção?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Ah! Ele ouviu pelo menos isso? É bom. Fico feliz que algumas notícias ainda estejam sendo divulgadas. O que você precisa saber agora é que temos vampiros não infectados nos ajudando - não infectados, portanto, não ande exibindo essa arma por aí, certo?</Page>
+    
+    </Text>
+</QuestDialog>

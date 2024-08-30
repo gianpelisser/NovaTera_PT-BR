@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="701" id="9" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="230" id="100" prevId="0" villagerId="7001">
+         
+        <Page social="0">Você soltou fogos de artifício para homenagear Balder.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="2" prevId="0" villagerId="7001">
+         
+        <Page social="4">Pelo nome de Balder.&lt;BR&gt;&lt;BR&gt;Nós mantemos as tochas acesas dia e noite durante todo o ano, mas durante o festival também soltamos fogos de artifício como oferendas a Balder.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, você fez tanto por nós... gostaria de fazer as honras? &lt;NEXTPAGEBUTTON&gt;&amp;quot;Parece divertido!&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Contornando a plataforma das tochas, solte esses fogos de artifício.&lt;BR&gt;&lt;BR&gt;Ah, certifique-se de não fazer isso na direção das pessoas. É perigoso.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="3" prevId="2" villagerId="7001">
+         
+        <Page social="4">Meus agradecimentos, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Sei que esse trabalho pode parecer tedioso, mas me sinto grato a Balder todos os dias. Espero que honrar Balder como você o tenha ajudado a se sentir da mesma forma.</Page>
+    
+    </Text>
+</QuestDialog>

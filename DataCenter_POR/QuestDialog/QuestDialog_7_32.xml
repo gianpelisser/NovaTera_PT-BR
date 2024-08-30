@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="7" id="32" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="207" id="100" prevId="0" villagerId="1008">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="207" id="2" prevId="0" villagerId="1008">
+         
+        <Page social="5">Estou irritado com essa criatura, Nakarash. Não consigo deduzir por que ele é tão difícil de matar. Para seu crédito, os soldados fizeram o melhor que puderam, mas ele os derrubou como se fossem palha.&lt;BR&gt;&lt;BR&gt;Não vou mentir para vocês, esta será uma batalha difícil. Se você conseguir matar {@LinkCreature:7#18#Nakarash}, estaremos um passo mais perto de concluir nossa pesquisa. Então, talvez, possamos voltar nossa atenção para a retomada dessa região para a federação.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="3" prevId="2" villagerId="1008">
+         
+        <Page social="5">Você matou Nakarash? E me trouxe uma balança para estudar? Estou começando a achar que seus talentos são desperdiçados aqui no campo. Você deveria estar na Legião das Armas treinando nossos melhores soldados! &lt;BR&gt;&lt;BR&gt;Graças a você, meu insanamente intrépido companheiro e eu podemos terminar nossa pesquisa e retornar ao santuário de Allemantheia. Gratidão, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="4" villagerId="1008">
+         
+        <Page social="0">Não me atrevo a continuar meus estudos enquanto Nakarash estiver andando pelas colinas. Peço-lhe que acabe com a vida dele e, assim, preserve a nossa.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="5" prevId="3" villagerId="1001">
+         
+        <Page social="5">Uma peça da armadura de Nakarash? Intrigante. Você deve ser realmente habilidoso para derrubar uma fera como ele.&lt;BR&gt;&lt;BR&gt;Estudaremos isso cuidadosamente e acrescentaremos sua força à nossa. Você tem a nossa gratidão.</Page>
+    
+    </Text>
+</QuestDialog>

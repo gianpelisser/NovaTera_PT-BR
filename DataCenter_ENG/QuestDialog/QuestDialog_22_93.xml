@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="22" id="93" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="68" id="100" prevId="0" villagerId="1007">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="68" id="2" prevId="0" villagerId="1007">
+         
+        <Page social="5">Some of the faculty still haven't been cleansed and are trying to take back the academy. Hunt down the {@LinkCreature:22#19#vadoma witches} and {@LinkCreature:22#20#shadow guides} and put an end to this.&lt;BR&gt;&lt;BR&gt;Find Kendea when you're finished.</Page>
+    
+    </Text>
+    <Text huntingZoneId="222" id="3" prevId="2" villagerId="1025">
+         
+        <Page social="5">They had to die. I understand. Our loremaster will immortalize them in our tomes.&lt;BR&gt;&lt;BR&gt;No one will forget them.</Page>
+    
+    </Text>
+    <Text huntingZoneId="222" id="4" villagerId="1025">
+         
+        <Page social="0">Have you dealt with the witches and guides yet? If not, you should hurry.</Page>
+    
+    </Text>
+</QuestDialog>

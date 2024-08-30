@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="24" id="40" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="224" id="100" prevId="0" villagerId="1012">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="224" id="2" prevId="0" villagerId="1012">
+         
+        <Page social="5">Esses {@LinkCreature:24#62#vulcões-guias} nos eliminariam se se organizassem. Do jeito que está, eles já mataram um quarto de minhas tropas. &lt;BR&gt;&lt;BR&gt;É hora de mostrar a eles o que um ataque organizado pode fazer. Reúna seus aliados e acabe com esses monstros.</Page>
+    
+    </Text>
+    <Text huntingZoneId="224" id="3" prevId="2" villagerId="1012">
+         
+        <Page social="5">Obrigado, &lt;PCNAME&gt;. Talvez eu consiga dormir um pouco esta noite sem todo esse barulho.</Page>
+    
+    </Text>
+</QuestDialog>

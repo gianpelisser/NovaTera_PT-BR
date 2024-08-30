@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="6" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="213" id="100" prevId="0" villagerId="1008">
+         
+        <Page social="0">Os medidores dos pesquisadores mostraram uma nova assinatura mágica escura. Leander ficou intrigado e sugeriu que vocês investigassem o Santuário de Yurian, onde a magia era mais forte.&lt;BR&gt;&lt;BR&gt;Vocês recuperaram a espada Demonbane, que pertencia a Elleon. Eria, que parece ter uma queda por Leandro, confirmou que a lâmina pertencia ao líder da expedição e que a corrupção na lâmina era magia demoníaca.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="2" prevId="0" villagerId="1008">
+         
+        <Page social="4">Nossos resultados iniciais não mostraram nada de estranho sobre as criaturas dessa ilha, mas nossas amostras mais recentes mostram outra assinatura de energia.&lt;BR&gt;&lt;BR&gt;Fale com Eria sobre essas descobertas. Ela é erudita em tais assuntos, embora um pouco teimosa. Vamos esperar o melhor.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="3" prevId="2" villagerId="1021">
+         
+        <Page social="4">Teimoso? Ele me chamou de teimoso? Será que ele estava se olhando em um espelho quando disse isso? Hmph.&lt;BR&gt;&lt;BR&gt;Bem, vou fazer algumas concessões, já que o irmão dele está desaparecido... ou pior. O que você tem para mim? &lt;NEXTPAGEBUTTON&gt;"Esses medidores têm as amostras mais recentes."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Deixe-me ver.&lt;BR&gt;&lt;BR&gt;Fascinante!&lt;BR&gt;&lt;BR&gt;Essa magia não é espiritual ou arcana. Há quase algo de malévolo nela. Sinto algo no oeste.&lt;BR&gt;&lt;BR&gt;Deixe-me ver... O Santuário de Yurian. Posso senti-lo fluindo de lá. É uma energia sombria e malévola.&lt;BR&gt;&lt;BR&gt;Espero que ajude o pobre tolo, teimoso e emocionalmente acamado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="4" prevId="3" villagerId="1008">
+         
+        <Page social="4">O que disse Eria?&lt;BR&gt;&lt;BR&gt;Hmmm... Então é isso. O Santuário de Yurian, hein? Foi só isso que ela disse? &lt;NEXTPAGEBUTTON&gt;"Ela... espera que suas informações ajudem."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Interessante. Uma energia negra, não é? &lt;BR&gt;&lt;BR&gt;Nossos batedores estão observando uma força orcana ao sul, mas é inconcebível que eles sejam responsáveis por isso.&lt;NEXTPAGEBUTTON&gt;"Qual é o próximo passo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Não é óbvio? Temos que investigar o {@LinkCreature:213#1036#Santuário de Yurian}. Nós nos encontraremos no próprio santuário.&lt;BR&gt;&lt;BR&gt;Não deixe que nenhum orc nos siga, entretanto. Estamos lá para estudar, não para lutar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="5" prevId="4" villagerId="1036">
+         
+        <Page social="4">Hmm. Essa espada é muito familiar, mas a energia que ela irradia não é nada correta.&lt;BR&gt;&lt;BR&gt;Leve isso para Eria. Sem dúvida, ela será capaz de identificar a origem dessa misteriosa praga sobre a lâmina.&lt;BR&gt;&lt;BR&gt;O tempo é essencial, &lt;PCNAME&gt;. Não se demore.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="6" prevId="5" villagerId="1021">
+         
+        <Page social="4">Essa espada é? &lt;BR&gt;&lt;BR&gt;Oh, não! Esta é a lâmina de Elleon - Demonbane! &lt;BR&gt;&lt;BR&gt;Você a encontrou no santuário? Mas como essa energia negra foi infundida na lâmina? Não entendo.&lt;BR&gt;&lt;BR&gt;Pior ainda, Elleon adorava essa espada. De maneira alguma ele se separaria dela ou a deixaria para trás. Temo pelo coração de Leander."&lt;NEXTPAGEBUTTON&gt;"Então Elleon está realmente morto?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Esperemos que não! A natureza proíbe! &lt;BR&gt;&lt;BR&gt;Não, tudo o que posso dizer com certeza é que essa lâmina está impregnada de energia negra e demoníaca. Muito poderosa. Isso não é bom, &lt;PCNAME&gt;. De jeito nenhum.</Page>
+    
+    </Text>
+</QuestDialog>

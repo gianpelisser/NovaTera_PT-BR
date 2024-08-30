@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="35" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="74" id="100" prevId="0" villagerId="1019">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="74" id="2" prevId="0" villagerId="1019">
+         
+        <Page social="5">Here to kill stuff? Good. Let's...hmm?&lt;BR&gt;&lt;BR&gt;Oh, nevermind. Let's see what these orders say.&lt;BR&gt;&lt;BR&gt;You're on Desert Scourge {@LinkCreature:35#5#crushers}, {@LinkCreature:35#6#manglers}, {@LinkCreature:35#2#choppers}, {@LinkCreature:35#1#scouts}, and {@LinkCreature:35#4#reapers}, and {@LinkCreature:35#14#vulcan raiders} this round.&lt;BR&gt;&lt;BR&gt;Go see Donabel when you're through.</Page>
+    
+    </Text>
+    <Text huntingZoneId="235" id="3" prevId="2" villagerId="1004">
+         
+        <Page social="5">Great job.&lt;BR&gt;&lt;BR&gt;We were able to retake the mine thanks to your help.&lt;BR&gt;&lt;BR&gt;Here, please take this reward.</Page>
+    
+    </Text>
+    <Text huntingZoneId="235" id="4" villagerId="1004">
+         
+        <Page social="0">You'll get a reward when you finish up the order.</Page>
+    
+    </Text>
+</QuestDialog>

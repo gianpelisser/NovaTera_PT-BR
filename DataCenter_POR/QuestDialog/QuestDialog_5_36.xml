@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="5" id="36" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="205" id="100" prevId="0" villagerId="1003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="205" id="2" prevId="0" villagerId="1003">
+         
+        <Page social="0">Confio em você, &lt;PCNAME&gt;. Espero não tê-lo julgado rápido demais, mas suponho que não tenho outra escolha, já que não há mais ninguém em quem confiar.&lt;BR&gt;&lt;BR&gt;Eu sabia que haveria problemas assim que nos separássemos em tribos, mas ninguém queria ouvir isso. Eu sabia que havia intenções egoístas por trás disso.&lt;BR&gt;&lt;BR&gt;Preciso que você cuide do primeiro passo para mim. Para restabelecer a ordem, o primeiro passo será livrar-se do {@LinkCreature:5#7#Tuwangi Warfrogger} no Mighty Frog Pond, a sudoeste daqui.&lt;NEXTPAGEBUTTON&gt;"E matar os chefes vai restabelecer a ordem"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Bem, precisamos nos unir, e os chefes estão intencionalmente impedindo isso, não é mesmo? O Grande Chefe Moong já me expulsou antes. Se precisar de provas, você provavelmente poderá encontrar a grande placa na qual ele gravou as ordens. Traga-a para mim assim que a encontrar e estiver satisfeito.&lt;BR&gt;&lt;BR&gt;E não se esqueça dos chefes.</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="3" prevId="2" villagerId="1003">
+         
+        <Page social="0">Que bom, você encontrou a placa. Vejamos... sim, aqui está a parte de que eu estava falando. Diz...&lt;BR&gt;&lt;BR&gt;Oh não! O Grande Chefe Moong teve um sonho... e ele está planejando escravizar todos os não-tuwangis? Um simples sonho o fez fazer julgamentos de tribos? Quem ele pensa que é, Arun? Shara? Ele é um titã? Será que seus sonhos moldam o mundo? &lt;BR&gt;&lt;BR&gt;Oh, que raiva, que raiva.</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="4" villagerId="1003">
+         
+        <Page social="0">Se você me trouxer o tablet, posso lhe contar os planos dele, mas não posso ler algo que você não me traz, não é mesmo?</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="38" id="93" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="74" id="100" prevId="0" villagerId="1036">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="74" id="2" prevId="0" villagerId="1036">
+         
+        <Page social="5">O que matar, o que matar... deixe-me consultar esta útil lista....&lt;BR&gt;&lt;BR&gt;Ah! Preciso que você cace {@LinkCreature:38#32#trihorn dracoloths}. Que maravilha! &lt;BR&gt;&lt;BR&gt;Deixe Grenya em Sienna Canyon saber quando você tiver terminado isso.</Page>
+    
+    </Text>
+    <Text huntingZoneId="238" id="3" prevId="2" villagerId="1011">
+         
+        <Page social="5">Bom trabalho. Aqui está sua recompensa.&lt;BR&gt;&lt;BR&gt;Continue com o bom trabalho!</Page>
+    
+    </Text>
+    <Text huntingZoneId="238" id="4" villagerId="1011">
+         
+        <Page social="0">Você não completou sua missão.</Page>
+    
+    </Text>
+</QuestDialog>

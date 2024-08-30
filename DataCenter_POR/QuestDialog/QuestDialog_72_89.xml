@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="72" id="89" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">[Invocação Suspeita]&lt;BR&gt;&lt;BR&gt;Há uma energia misteriosa no ar. Vá ver o homem misterioso chamado Kareras perto da plataforma em Allemantheia.</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="3" prevId="2" villagerId="1169">
+         
+        <Page social="0">Hmmm... Sinto a alma de um campeão, mas...&lt;BR&gt;&lt;BR&gt;Você quer algo mais, não é? &lt;BR&gt;&lt;BR&gt;Há muitos caminhos na vida, mas fingir ser justo o tempo todo o deixará cego para certos outros aspectos da vida.&lt;BR&gt;&lt;BR&gt;Quer saber mais? Vá até a Ágora e faça uma visita a Erigar. Ele lhe dirá como levar uma vida mais gratificante.</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="4" prevId="3" villagerId="1158">
+         
+        <Page social="0">Uma vida mais gratificante, não é? &lt;BR&gt;&lt;BR&gt;A vida se torna monótona se você fizer apenas o que os outros mandam. Isso é verdade, quer estejamos falando de mortais ou de deuses.&lt;BR&gt;&lt;BR&gt;Lei e ordem são apenas conceitos que foram concebidos pelos fortes para dominar os fracos. Pessoas com seus talentos não devem deixar que ninguém lhes diga o que fazer. Nem mortais, nem deuses, nem ninguém! &lt;BR&gt;&lt;BR&gt;Palavras radicais, eu sei, mas você está cansado de ser pressionado? &lt;NEXTPAGEBUTTON&gt;"Sim, estou."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Aqui está a verdade - como você pode escapar dos grilhões que os deuses nos impuseram.&lt;BR&gt;&lt;BR&gt;Faça uma &lt;font color='#FF0000'&gt;declaração de fora da lei&lt;/font&gt;, e você afirma que está acima e além das leis mesquinhas dos mortais e dos deuses. Tenho certeza de que você não gostaria que fosse de outra forma. Que os fortes sobrevivam! &lt;BR&gt;&lt;BR&gt;Há uma pequena exceção: aqueles que estão sob a proteção direta de Seren ou de outros deuses. Mas são apenas ninharias - erros de arredondamento, se preferir.&lt;NEXTPAGEBUTTON&gt;"Vamos lá!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Quanto mais você faz declarações de fora da lei e se envolve em brigas, mais sua infâmia aumenta. Dependendo de quão infame você for, poderá atrair a ira dos deuses.&lt;BR&gt;&lt;BR&gt;Um pequeno preço a pagar pela liberdade, eu digo.&lt;BR&gt;&lt;BR&gt;Você deve ser capaz de descobrir o resto com este livro de habilidades. Lembre-se, a escolha é sua, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="9" id="94" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="62" id="100" prevId="0" villagerId="1019">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="62" id="2" prevId="0" villagerId="1019">
+         
+        <Page social="0">Desta vez, temos uma lista e tanto. Você está pronto?&lt;BR&gt;&lt;BR&gt;Tudo bem, temos {@LinkCreature:9#810#gula gourmands}, {@LinkCreature:9#910#caiman zealots}, {@LinkCreature:9#440#gula eviscerators}, {@LinkCreature:9#450#vigilantes de Gula}, {@LinkCreature:9#1000#repetidores de sangue de Lokian}, {@LinkCreature:9#1100#mestres de arco de Lokian}, {@LinkCreature:9#1200#campeões de Lokian} e {@LinkCreature:9#1300#fragilizadores de sangue de Lokian}. Todos precisam ser mortos.&lt;BR&gt;&lt;BR&gt;Vá até Noleta quando terminar isso.</Page>
+    
+    </Text>
+    <Text huntingZoneId="209" id="3" prevId="2" villagerId="1006">
+         
+        <Page social="4">Se continuarmos assim, vamos acabar com eles em breve, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="209" id="4" villagerId="1006">
+         
+        <Page social="0">Você já começou? E se não, por que não?</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="605" id="22" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="63" id="100" prevId="0" villagerId="3002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="2" prevId="0" villagerId="3002">
+         
+        <Page social="4">Do you ever wonder what my role is around here? All I seem to do is send you to Elthienne and then pay you when she sends you back.&lt;BR&gt;&lt;BR&gt;But, I've got one job, dammit, and I'm going to do it!&lt;BR&gt;&lt;BR&gt;Go see {@LinkCreature:63#3003#Elthienne}. There. Done.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="3003">
+         
+        <Page social="0">About time Taratia sent you over here. That girl is such a slacker!&lt;BR&gt;&lt;BR&gt;This is a high-pressure career. If it's not crafting, it's collecting parts for crafting.&lt;BR&gt;&lt;BR&gt;By the way, today, it's crafting. Deliver your completed work to {@LinkCreature:63#3001#Barian}.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="4" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="5" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="6" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="7" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="8" prevId="2" villagerId="3001">
+         
+        <Page social="5">Thanks, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} has payment for you.&lt;BR&gt;&lt;BR&gt;Hope to see you again soon!</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="9" villagerId="3001">
+         
+        <Page social="0">Make norsteel ingots and bring them to me as soon as you're able.&lt;BR&gt;&lt;BR&gt;Much appreciated.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="10" prevId="8" villagerId="3001">
+         
+        <Page social="5">Wonderful!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} will pay you.&lt;BR&gt;&lt;BR&gt;Help out again next time!</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="11" villagerId="3001">
+         
+        <Page social="0">Craft some astrosilex and return to me. Watch out for snakes!&lt;BR&gt;&lt;BR&gt;Just kidding. There are no snakes in Velika. Had you going, though.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="12" prevId="10" villagerId="3001">
+         
+        <Page social="5">Thanks, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} has payment for you.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="13" villagerId="3001">
+         
+        <Page social="0">Make some marleather and bring it here.&lt;BR&gt;&lt;BR&gt;Many thanks.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="14" prevId="12" villagerId="3001">
+         
+        <Page social="5">You've outdone yourself. Thanks a million!&lt;BR&gt;&lt;BR&gt;I hope {@LinkCreature:63#3002#Taratia} is paying you what you're worth.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="15" villagerId="3001">
+         
+        <Page social="0">Make shetlacloth and deliver it to me.&lt;BR&gt;&lt;BR&gt;Thanks, &lt;PCNAME&gt;. We don't deserve you!</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="16" prevId="14" villagerId="3002">
+         
+        <Page social="4">{@LinkCreature:63#3001#Barian} tells me that he's pleased with your work. In fact, everyone in the Hands of Velika appreciates your service.&lt;BR&gt;&lt;BR&gt;Funny, no one ever tells me how good I am at sending you to see people.&lt;BR&gt;&lt;BR&gt;Ah, well. See you around.</Page>
+    
+    </Text>
+</QuestDialog>

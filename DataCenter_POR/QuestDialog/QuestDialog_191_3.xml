@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="191" id="3" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="191" id="100" prevId="0" villagerId="2103">
+         
+        <Page social="0">Paesyn tentou expiar a captura de Zolyn, mas acabou precisando ser resgatado. Você o acalmou e ajudou a levar os suprimentos para o Tempest Outpost.</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="2" prevId="0" villagerId="2103">
+         
+        <Page social="4">Paesyn foi em frente. A bola de pelo louca ficava dizendo: "A culpa é minha. A culpa é toda minha."&lt;NEXTPAGEBUTTON&gt;"Para onde ele foi?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Ele pegou suas chaves inglesas e atravessou o vale, sem se importar com os dentes de sabre. Talvez ele tenha ido proteger as carroças de suprimentos.&lt;BR&gt;&lt;BR&gt;Cuidado com ele. É um ótimo engenheiro, mas não é um grande lutador.</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="3" prevId="2" villagerId="2131">
+         
+        <Page social="4">&lt;PCNAME&gt;! Eu queria salvá-la. Eu queria proteger Zolyn, mas falhei.&lt;BR&gt;&lt;BR&gt;Meu coração está tão pesado. Não sou um herói. Apenas gosto de mexer com coisas mecânicas. É minha culpa que ela tenha sido capturada.&lt;NEXTPAGEBUTTON&gt;"Não, não é."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Sim, é verdade. Ela precisava de um herói, não de um amigo.&lt;BR&gt;&lt;BR&gt;Mas aposto que podemos encontrá-la juntos. Você é forte e eu sou corajoso, pelo menos um pouco.&lt;BR&gt;&lt;BR&gt;Vamos colocar essas carroças em movimento e depois encontrar Zolyn.</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="4" villagerId="3">
+         
+        <Page social="0">(Há várias peças mecânicas em seu interior. Parecem que caberiam em um dirigível).</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="5" prevId="3" villagerId="2134">
+         
+        <Page social="4">Obrigado por nos trazer os suprimentos. Nossos dirigíveis foram paralisados e estamos perdendo terreno para os arquidevas.&lt;BR&gt;&lt;BR&gt;Agora, estamos prontos.</Page>
+    
+    </Text>
+</QuestDialog>

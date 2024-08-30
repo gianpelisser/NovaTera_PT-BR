@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="16" id="24" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="216" id="100" prevId="0" villagerId="1012">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="216" id="2" prevId="0" villagerId="1012">
+         
+        <Page social="4">É evidente que os vampiros estão por trás da morte de Jadan - não há outra criatura que saia por aí drenando sangue. Hábito nojento.&lt;BR&gt;&lt;BR&gt;Por sorte, meu avô me ensinou algo muito importante há muito tempo - eles não suportam &lt;font color='#660000'&gt;galicho&lt;/font&gt;. Ele também me ensinou a criar uma poção que amplifica seu cheiro - e acredite em mim, ninguém iria querer, a não ser por isso.&lt;BR&gt;&lt;BR&gt;Se você puder me conseguir essa erva, posso fazer uma poção nojenta, mas útil.</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="3" prevId="2" villagerId="1012">
+         
+        <Page social="4">Exce-whoa! O cheiro é ainda pior do que eu me lembrava.&lt;BR&gt;&lt;BR&gt;Bem, então é melhor ir direto ao assunto.</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="4" villagerId="1012">
+         
+        <Page social="0">Sem essa erva, não há como impedir que os vampiros façam com todos nós o que fizeram com Jadan.&lt;BR&gt;&lt;BR&gt;Recomendo que você se mexa.</Page>
+    
+    </Text>
+</QuestDialog>

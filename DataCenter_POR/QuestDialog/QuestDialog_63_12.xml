@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="63" voiceTypeId="0">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1600">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1600">
+        <Page social="4">Olá! Você quer me ajudar de novo?! Que legal! Além disso, desta vez há duas runas. A primeira é a runa de Dagas e, é claro, descobri que criatura conseguiu devorá-la. É o demônio supervisor das Catacumbas de Macellarius, Demokraxus. Ou a bondade o atingiu na cabeça ou o equilíbrio da luz e da escuridão em sua alma está bagunçado, mas o fato de ele ter o poder da luz é inegável. Alguns dos feitiços de luz nele não funcionam mais, o que cria muitos problemas... Com relação à segunda runa, não há muitas informações, mas sua localização aproximada é em algum lugar do Sabex Arsenal. Então, você quer me ajudar novamente?</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1600">
+        <Page social="4">Muito obrigado, muito obrigado! Você me ajudou a concluir uma missão importante que afetará o destino de toda a Arborea!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="1600">
+        <Page social="0">Tudo o que resta é se preparar para o ritual, e o assassino de Deus não poderá retornar!</Page>
+    </Text>
+</QuestDialog>

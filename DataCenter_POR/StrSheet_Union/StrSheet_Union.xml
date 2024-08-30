@@ -1,0 +1,240 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StrSheet_Union xmlns="https://vezel.dev/novadrop/dc/StrSheet_Union" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Union StrSheet_Union.xsd">
+    <String id="1" string="Free Traders Collective" />
+    <String id="2" string="União Iluminada" />
+    <String id="3" string="Ordem de ferro" />
+    <String id="11" string="Uma organização que usa o noctênio como um meio de prosperidade financeira." />
+    <String id="12" string="." />
+    <String id="13" string="Uma organização que estuda o noctênio para fins acadêmicos." />
+    <String id="14" string="A União Iluminada emprega uma influência diplomática superior." />
+    <String id="15" string="Uma organização que usa o noctênio para obter força sobre-humana." />
+    <String id="16" string="O Iron Order oferece vantagens físicas superiores." />
+    <String id="400" string="líder" />
+    <String id="300" string="Comandante" />
+    <String id="301" string="Comandante Adjunto" />
+    <String id="302" string="Comandante de assalto" />
+    <String id="303" string="Comandante da Defesa" />
+    <String id="200" string="Membro da Aliança" />
+    <String id="100" string="Cadete da Aliança" />
+    <String id="1000" string="Etapas" />
+    <String id="1001" string="Etapa 1" />
+    <String id="1002" string="Etapa 2" />
+    <String id="1003" string="Etapa 3" />
+    <String id="1004" string="Etapa 4" />
+    <String id="1101" string="Líder de {UnionName}: {CharName} [{GuildName}]." />
+    <String id="1102" string="Líder de {UnionName}: Torneio eleitoral" />
+    <String id="1103" string="Termo do líder: {Data}" />
+    <String id="1104" string="Período de Registro de Candidato líder: {Data}" />
+    <String id="1105" string="Competição de extratores: {State}" />
+    <String id="1106" string="Guarda da Aliança: {State}" />
+    <String id="1107" string="Executor: {State}" />
+    <String id="1120" string="Em andamento" />
+    <String id="1121" string="Fechado" />
+    <String id="1122" string="Vigilância em andamento" />
+    <String id="1123" string="Em combate" />
+    <String id="1124" string="Seguro" />
+    <String id="1125" string="Morto" />
+    <String id="1126" string="Em perigo" />
+    <String id="1127" string="Não aderiu" />
+    <String id="1128" string="Os participantes competem para controlar os extratores de noctênio nos territórios da aliança." />
+    <String id="1130" string="Informações sobre minha posição" />
+    <String id="1131" string="Área do farol de infiltração" />
+    <String id="1132" string="Início do conflito da aliança: {Data}" />
+    <String id="10001" string="Acesso a Vault: Aberto" />
+    <String id="10002" string="Acesso a Vault: Fechado" />
+    <String id="20001" string="Alocar loja de especialidades" />
+    <String id="20002" string="Aumento de EXP do líder" />
+    <String id="20003" string="Reforço PvP do líder" />
+    <String id="20004" string="Fortitude do líder" />
+    <String id="20005" string="Alteração da taxa de imposto" />
+    <String id="20006" string="Cobrar impostos" />
+    <String id="20007" string="Instalar farol de infiltração" />
+    <String id="20008" string="Fabricação de bombas de choque" />
+    <String id="20009" string="Fabricação de bombas de minas terrestres" />
+    <String id="20010" string="Fabricação de bombas lentas" />
+    <String id="20011" string="Fabricação de bombas-relógio" />
+    <String id="20012" string="Fabricação de granadas de flash" />
+    <String id="20013" string="Convocar guarda" />
+    <String id="20014" string="Summon Wooden Fence (cerca de madeira)" />
+    <String id="20015" string="Invocar arma" />
+    <String id="20016" string="Grito de comando" />
+    <String id="20017" string="Proteção do comandante" />
+    <String id="20018" string="Asas do comandante" />
+    <String id="20019" string="Bênção do comandante" />
+    <String id="20020" string="Upgrade Enchanter" />
+    <String id="470301" string="Condições de associação à aliança" />
+    <String id="470302" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;2 ou mais companheiros de guilda&lt;/font&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470303" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;2 ou mais companheiros de guilda&lt;/font&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470304" string="&lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;Custo em ouro:&lt;/font&gt; &lt;FONT color='#ffb033'&gt;1000&lt;/font&gt; &lt;img src='Gold_smalltoken'&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470305" string="&lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;Custo em ouro:&lt;/font&gt; &lt;FONT color='#ffb033'&gt;1000&lt;/font&gt; &lt;img src='Gold_smalltoken'&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470306" string="&lt;img src='icon_notice'&gt; &lt;FONT SIZE='18'&gt; Para participar da aliança, você deve atender a todos os requisitos. &lt;/font&gt;" />
+    <String id="470307" string="Participe do Free Traders Collective" />
+    <String id="470308" string="Junte-se à Enlightened Union" />
+    <String id="470309" string="Junte-se ao Iron Order" />
+    <String id="470311" string="Sair da Aliança" />
+    <String id="470312" string="Você deixará a aliança e se tornará um membro não pertencente à aliança.&lt;br&gt;Todos os membros da guilda se tornam membros não pertencentes à aliança e não podem receber nenhum benefício de nenhuma aliança. Eles podem voltar a participar de alianças em {Hour} hora(s) e {Min} minuto(s)." />
+    <String id="470313" string="Sair" />
+    <String id="470314" string="Cancelar" />
+    <String id="470315" string="Requisitos do candidato a líder" />
+    <String id="470316" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;30 ou mais companheiros de guilda&lt;/font&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470317" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;30 ou mais companheiros de guilda&lt;/font&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470318" string="&lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;Custo em ouro:&lt;/font&gt; &lt;FONT color='#ffb033'&gt;1000&lt;/font&gt; &lt;img src='Gold_smalltoken'&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470319" string="&lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;Custo em ouro:&lt;/font&gt; &lt;FONT color='#ffb033'&gt;1000&lt;/font&gt; &lt;img src='Gold_smalltoken'&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470320" string="&lt;img src='icon_notice'&gt; &lt;FONT SIZE='18'&gt; Para se inscrever como candidato a líder, você deve atender a todos os requisitos. &lt;/font&gt;" />
+    <String id="470321" string="Registre-se como candidato a líder" />
+    <String id="470322" string="Lojas especializadas abertas" />
+    <String id="470323" string="Alocar lojas especializadas em todas as aldeias governadas por alianças.  Os pontos de política da aliança serão deduzidos a cada hora. Se você não tiver pontos de política de aliança suficientes, a alocação será automaticamente cancelada." />
+    <String id="470324" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;Alocar pontos de política da aliança necessários para a loja de especialidades: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470325" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;Alocar pontos de política da aliança necessários para a loja de especialidades: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470326" string="Alocar loja de especialidades" />
+    <String id="470327" string="Cancelar loja especializada" />
+    <String id="470328" string=" &lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;Cancelar loja de especialidades Pontos de política da aliança necessários: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470329" string=" &lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;Cancelar loja de especialidades Pontos de política da aliança necessários: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470330" string="Upgrade Enchanter" />
+    <String id="470331" string="Aumenta a taxa de sucesso do encantador do salão da aliança por 1 hora." />
+    <String id="470332" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;Silver Enchanter Pontos de política da aliança necessários: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470333" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;Silver Enchanter Pontos de política da aliança necessários: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470334" string=" &lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;Gold Enchanter Pontos de política da aliança necessários: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470335" string=" &lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;Gold Enchanter (Encantador de ouro) Pontos de política da aliança necessários: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470336" string="Encantador de prata" />
+    <String id="470337" string="Encantador de ouro" />
+    <String id="470338" string="Enchanter de bronze" />
+    <String id="470339" string=" &lt;img src='number3' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;Bronze Enchanter Pontos de política da aliança necessários: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470340" string=" &lt;img src='number3' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;Bronze Enchanter Pontos de política da aliança necessários: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470341" string="Usar os poderes do líder" />
+    <String id="470342" string="&lt;FONT SIZE='24' color='#cccccc'&gt;{SkillName} &lt;FONT SIZE='18' color='#cccccc'&gt;{SkillDesc}    &lt;FONT SIZE='18' color='#80e71c'&gt;Pontos necessários:{Point}    &lt;FONT SIZE='24' color='#ff0000'&gt;{SkillName} serão usados.  &lt;FONT SIZE='18' color='#80e71c'&gt;Pontos de política da aliança disponíveis:{Current} Saldo de pontos de política da aliança após usar os pontos necessários:{Next}" />
+    <String id="470343" string="OK" />
+    <String id="470344" string="Cancelar" />
+    <String id="470380" string="Você pode recolher o imposto novamente em {CoolTime} hora(s)." />
+    <String id="470400" string="Pontos de política pessoal" />
+    <String id="470401" string="Pontos de política da aliança" />
+    <String id="470402" string="Pontos de política pessoal de consumo" />
+    <String id="470403" string="Recompensa de bônus (Aliança)" />
+    <String id="470501" string="Mantenha sua vantagem por 30 segundos e sua defesa será bem-sucedida." />
+    <String id="470502" string="Agora você deve defender sua aliança." />
+    <String id="470503" string="Tenha cuidado - agora você pode ser invadido a qualquer momento." />
+    <String id="470504" string="Executor do Free Traders Collective" />
+    <String id="470505" string="Executor do sindicato esclarecido" />
+    <String id="470506" string="Executor de ordens de ferro" />
+    <String id="470507" string="Corda de teste 07" />
+    <String id="470508" string="Cadeia de caracteres de teste 08" />
+    <String id="470509" string="Cadeia de caracteres de teste 09" />
+    <String id="470510" string="Corda de teste 10" />
+    <String id="470511" string="Cadeia de caracteres de teste 11" />
+    <String id="470512" string="Corda de teste 12" />
+    <String id="470513" string="Cadeia de caracteres de teste 13" />
+    <String id="470514" string="Cadeia de caracteres de teste 14" />
+    <String id="470515" string="Corda de teste 15" />
+    <String id="470516" string="Cadeia de caracteres de teste 16" />
+    <String id="470517" string="Corda de teste 17" />
+    <String id="470518" string="Corda de teste 18" />
+    <String id="470519" string="Corda de teste 19" />
+    <String id="470520" string="Cadeia de caracteres de teste 20" />
+    <String id="470521" string="Você entrou em uma aliança." />
+    <String id="470522" string="Você deixou uma aliança." />
+    <String id="470523" string="Uma nova temporada de alianças começou." />
+    <String id="470524" string="A aliança tem um novo líder." />
+    <String id="470525" string="Agora você é um comandante!" />
+    <String id="470526" string="Bem-vindo ao escalão!" />
+    <String id="470527" string="Foi concedido a você um tempo para entrar no cofre da aliança." />
+    <String id="470528" string="Você pode entrar no cofre da aliança." />
+    <String id="470529" string="Não é mais possível acessar o cofre da aliança." />
+    <String id="470530" string="Você pode registrar um candidato a líder da aliança." />
+    <String id="470531" string="A competição pelos extratores de noctênio já começou." />
+    <String id="470532" string="A competição pelos extratores de noctênio terminou." />
+    <String id="470533" string="Não há extratores de noctênio suficientes no território da aliança." />
+    <String id="470534" string="O território de sua aliança está sendo invadido." />
+    <String id="470535" string="O posto da sua aliança está em perigo." />
+    <String id="470536" string="O Executor está sendo atacado." />
+    <String id="470537" string="O executor morreu. Os recursos do líder não estão disponíveis." />
+    <String id="470538" string="O executor faleceu." />
+    <String id="470539" string="Um guarda da aliança morreu." />
+    <String id="470540" string="Você sente o efeito da Fortitude do líder." />
+    <String id="470541" string="Você sente o efeito do aumento de XP do líder." />
+    <String id="470542" string="Você sente o efeito do reforço de PvP do líder." />
+    <String id="470543" string="Foram fornecidos pontos de política pessoal." />
+    <String id="470544" string="Foram fornecidos fundos de atividades da Alliance." />
+    <String id="470545" string="Você recolheu todos os impostos cobrados pela aliança." />
+    <String id="470546" string="O líder da aliança morreu." />
+    <String id="470547" string="Você derrotou o líder da aliança." />
+    <String id="470548" string="Você se tornou o líder da aliança." />
+    <String id="470549" string="Local de onde o extrator de noctênio foi roubado" />
+    <String id="470550" string="Seu extrator de noctênios foi desativado." />
+    <String id="470551" string="Fundos de atividades da Alliance fornecidos" />
+    <String id="470552" string="Aliança" />
+    <String id="470553" string="Saldo do imposto cobrado" />
+    <String id="470554" string="Entregar o imposto restante após o término da temporada." />
+    <String id="470555" string="Você adquiriu uma chave extratora." />
+    <String id="470601" string="Uma batalha começou no posto." />
+    <String id="470602" string="O ataque da aliança inimiga já começou." />
+    <String id="470603" string="Uma batalha está ocorrendo entre diferentes alianças." />
+    <String id="470604" string="Outra aliança participará do ataque." />
+    <String id="470605" string="Outra aliança participará do ataque." />
+    <String id="470606" string="Participe da batalha entre diferentes alianças que está ocorrendo no posto." />
+    <String id="470607" string="Ataque a aliança inimiga com sucesso e pegue parte do dinheiro de seus impostos." />
+    <String id="470608" string="Você venceu a missão de defesa." />
+    <String id="470609" string="Risco de invasão - Reduz o efeito de escudo do executor de sua aliança por 1 hora." />
+    <String id="470610" string="Risco de invasão - Reduz o efeito de escudo do executor de sua aliança por 1 hora." />
+    <String id="470611" string="Você expulsou a aliança inimiga invasora e foi bem-sucedido na defesa." />
+    <String id="470701" string="Em 5 minutos, o PvP será ativado em todos os territórios da aliança." />
+    <String id="470702" string="Todos os membros da aliança inimiga no território serão movidos à força para a área de batalha em 1 minuto." />
+    <String id="470703" string="A batalha está prestes a começar no território da aliança." />
+    <String id="470704" string="Nas próximas 2 horas, o PvP será possível em todas as áreas do território da aliança." />
+    <String id="470705" string="Em 5 minutos, o PvP será desativado em todos os territórios da aliança." />
+    <String id="470706" string="Em um minuto, todos os membros da aliança inimiga no território serão movidos à força para a área de batalha." />
+    <String id="470707" string="No momento, o PvP está desativado nos territórios da aliança." />
+    <String id="470708" string="Nas próximas 2 horas, o PvP será impossível em todas as áreas do território da aliança." />
+    <String id="470712" string="5" />
+    <String id="470713" string="4" />
+    <String id="470714" string="3" />
+    <String id="470715" string="2" />
+    <String id="470716" string="1" />
+    <String id="470717" string="Todos os membros da aliança inimiga serão movidos à força para a área de batalha." />
+    <String id="470718" string="Devido ao excesso de PvP, o ganho de pontos será limitado a partir de agora." />
+    <String id="470719" string="Devido ao excesso de PvP, o ganho de pontos será severamente limitado." />
+    <String id="470720" string="Devido ao excesso de PvP, o ganho de pontos será extremamente limitado." />
+    <String id="470800" string="Nossa aliança está atacando o executor da Free Traders Collective." />
+    <String id="470801" string="Nossa aliança está atacando o executor da União Iluminada." />
+    <String id="470802" string="Nossa aliança está atacando o executor da Ordem de Ferro." />
+    <String id="470901" string="A Salvalith dos comerciantes livres foi destruída." />
+    <String id="470902" string="União Iluminada Salvalith destruída." />
+    <String id="470903" string="Ordem de Ferro de Salvalith destruída." />
+    <String id="470904" string="O Salvalith é quase destruído. O escudo que protege o Forte Tulufan cai." />
+    <String id="470905" string="O Salvalith é quase destruído. O escudo que protege o Forte Elenea cai." />
+    <String id="470906" string="O Salvalith é quase destruído. O escudo que protege o Forte Dragonfall cai." />
+    <String id="470907" string="Ai do Coletivo de Comerciantes Livres! O Executor Adiar está morto!" />
+    <String id="470908" string="Ai da União Iluminada! O executor Derene está morto!" />
+    <String id="470909" string="Ai da Ordem de Ferro! O executor Frateko está morto!" />
+    <String id="470910" string="O conflito da aliança começa em 5 minutos." />
+    <String id="470911" string="O conflito da aliança começa em 1 minuto." />
+    <String id="470912" string="O conflito da aliança começa em 10 segundos." />
+    <String id="470913" string="O conflito da aliança já começou." />
+    <String id="470914" string="O conflito de alianças termina em 5 minutos." />
+    <String id="470915" string="O conflito de alianças termina em 1 minuto." />
+    <String id="470916" string="O conflito de alianças termina em 10 segundos." />
+    <String id="470917" string="O conflito da aliança terminou." />
+    <String id="470918" string="A aura do executor ao redor do forte inimigo desapareceu." />
+    <String id="470919" string="Você conseguiu {killCount} mortes ou assistências consecutivas." />
+    <String id="470920" string="{killerName} está devastando o campo de batalha!" />
+    <String id="470921" string="{killerName} está dominando o campo de batalha!" />
+    <String id="470937" string="{killerName} não pode ser interrompido!" />
+    <String id="470938" string="{killerName} venceu o conflito da aliança!" />
+    <String id="470939" string="{killerName} é imbatível!" />
+    <String id="480001" string="Posição de assalto de Salvalith" />
+    <String id="470922" string="Os comerciantes livres de Salvalith estão sendo atacados." />
+    <String id="470923" string="A União Iluminada de Salvalith está sendo atacada." />
+    <String id="470924" string="A Ordem de Ferro de Salvalith está sendo atacada." />
+    <String id="470925" string="O conflito da aliança começa em 5 minutos." />
+    <String id="470926" string="O conflito da aliança começa em 1 minuto." />
+    <String id="470927" string="O conflito da aliança começa em 10 segundos." />
+    <String id="470928" string="O conflito da aliança já começou." />
+    <String id="470929" string="O conflito de alianças termina em 5 minutos." />
+    <String id="470930" string="O conflito de alianças termina em 1 minuto." />
+    <String id="470931" string="O conflito de alianças termina em 10 segundos." />
+    <String id="470932" string="O conflito da aliança terminou." />
+    <String id="470933" string="O conflito da aliança começa em 10 minutos." />
+    <String id="470934" string="O conflito da aliança começa em 30 minutos." />
+    <String id="470935" string="O conflito da aliança começa em 60 minutos." />
+    <String id="470936" string="O conflito de alianças termina em 10 minutos." />
+    <String id="470405" string="Pontos" />
+</StrSheet_Union>

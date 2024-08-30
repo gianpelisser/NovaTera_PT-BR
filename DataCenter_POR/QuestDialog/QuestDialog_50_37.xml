@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="50" id="37" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="250" id="100" prevId="0" villagerId="1004">
+         
+        <Page social="0">Caça a monstros comedores de ferro</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="2" prevId="0" villagerId="1004">
+         
+        <Page social="4">Você conhece o {@LinkCreature:249#1013}, certo? &lt;BR&gt;&lt;BR&gt;Ele foi estudar o {@Rgn:50008}. Sozinho.&lt;NEXTPAGEBUTTON&gt;"Isso é perigoso?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Sim. As spodas zariik perto do {@Rgn:50008} poderiam despedaçá-lo. Ele não é um soldado. Ele não é um soldado. &lt;BR&gt;&lt;BR&gt;Se você conseguir mantê-lo vivo, ficarei em dívida com você.</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="3" prevId="2" villagerId="1002">
+         
+        <Page social="6">Que divertido! Eu estava me perguntando como sairia daqui vivo e, de repente, você aparece! &lt;BR&gt;&lt;BR&gt;Você tem uma facilidade notável para intervenções fortuitas.</Page>
+    
+    </Text>
+</QuestDialog>

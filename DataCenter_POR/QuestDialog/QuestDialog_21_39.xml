@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="21" id="39" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="221" id="100" prevId="0" villagerId="1036">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="221" id="2" prevId="0" villagerId="1036">
+         
+        <Page social="4">O capitão Liska quer mais dados, o que significa mais pesquisas.&lt;BR&gt;&lt;BR&gt;Preciso das pedras de attar de {@LinkCreature:21#3#vicious orisks}. Traga-as para mim e eu farei o que puder.</Page>
+    
+    </Text>
+    <Text huntingZoneId="221" id="3" prevId="2" villagerId="1036">
+         
+        <Page social="4">Sua natureza capaz e disposta é uma verdadeira bênção para todos nós. Fique com isso e meus agradecimentos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="221" id="4" villagerId="1036">
+         
+        <Page social="0">Odeio ter que me impor a você, mas Liska insiste e não há mais ninguém que possa fazer isso. Por favor, eu lhe peço, apresse-se.</Page>
+    
+    </Text>
+</QuestDialog>

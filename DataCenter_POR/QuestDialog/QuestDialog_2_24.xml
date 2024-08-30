@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="2" id="24" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="202" id="100" prevId="0" villagerId="1031">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="202" id="2" prevId="0" villagerId="1031">
+         
+        <Page social="4">Na verdade, superamos um pouco o nosso churrasco, &lt;PCNAME&gt;. Temos carne extra e ela será desperdiçada, a menos que a salguemos.&lt;NEXTPAGEBUTTON&gt;"Para dar gosto?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Não, para preservar a carne contra a deterioração. Nada supera o churrasco fresco e saboroso, é claro. A carne se desprende do osso e você fica com o suco nos dedos e...&lt;BR&gt;&lt;BR&gt;...Onde eu estava? Oh! Preservando as sobras de carne. Verus está com o equipamento de salga. Você pode levar o resto da carne para ele?</Page>
+    
+    </Text>
+    <Text huntingZoneId="202" id="3" prevId="2" villagerId="1004">
+         
+        <Page social="4">Comida extra? É um bom problema para se ter, eu acho. Claro, posso ajudá-lo a começar.&lt;BR&gt;&lt;BR&gt;Aqui está um barril vazio e um pouco de sal. Comece a trabalhar! &lt;BR&gt;&lt;BR&gt;Depois de salgar a carne, entregue-a a &lt;b&gt;Einna&lt;/b&gt; - ela é uma das líderes dos refugiados. Ela a distribuirá conforme necessário.</Page>
+    
+    </Text>
+    <Text huntingZoneId="202" id="4" prevId="3" villagerId="1043">
+         
+        <Page social="4">Primeiro você nos deu um banquete e agora nos protegeu contra a fome. Afinal, estávamos certos ao nos refugiarmos em Lumbertown.&lt;BR&gt;&lt;BR&gt;Em nome de todos nós, obrigado, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="202" id="5" villagerId="1043">
+         
+        <Page social="0">Você preservou a carne extra! Obrigado, &lt;PCNAME&gt;!</Page>
+    
+    </Text>
+</QuestDialog>

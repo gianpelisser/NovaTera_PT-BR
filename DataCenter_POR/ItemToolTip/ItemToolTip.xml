@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ItemToolTip xmlns="https://vezel.dev/novadrop/dc/ItemToolTip" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/ItemToolTip ItemToolTip.xsd">
+    <Class>
+        <Name displayText="Warrior" eng="WARRIOR" />
+        <Name displayText="Lancer" eng="LANCER" />
+        <Name displayText="Slayer" eng="SLAYER" />
+        <Name displayText="Berserker" eng="BERSERKER" />
+        <Name displayText="Reaper" eng="SOULLESS" />
+        <Name displayText="Sorcerer" eng="SORCERER" />
+        <Name displayText="Archer" eng="ARCHER" />
+        <Name displayText="Priest" eng="PRIEST" />
+        <Name displayText="Mystic" eng="ELEMENTALIST" />
+    </Class>
+    <EnchantableParts>
+        <Name displayText="@ui:102067" eng="WEAPON" />
+        <Name displayText="@ui:102069" eng="BODY" />
+        <Name displayText="@ui:102070" eng="LEG" />
+        <Name displayText="@ui:102071" eng="ARM" />
+    </EnchantableParts>
+    <Gender>
+        <Name displayText="Masculino" eng="male" />
+        <Name displayText="Feminino" eng="female" />
+    </Gender>
+    <Grade>
+        <Name displayText="Comum" eng="0" />
+        <Name displayText="Incomum" eng="1" />
+        <Name displayText="Raro" eng="2" />
+        <Name displayText="Superior" eng="3" />
+        <Name displayText="Lendário" eng="9" />
+    </Grade>
+    <ItemCategory>
+        <Name displayText="Couro" eng="leather" />
+        <Name displayText="Essência" eng="alchemy" />
+        <Name displayText="Minério" eng="metal" />
+        <Name displayText="Alquímico" eng="alchemyMaterial" />
+        <Name displayText="Fibra" eng="fiber" />
+        <Name displayText="Runa de Armamento" eng="weaponMaterial" />
+        <Name displayText="Componente de Armamento" eng="weaponComponent" />
+        <Name displayText="Runa de Armadura" eng="armorMaterial" />
+        <Name displayText="Componente de Armadura" eng="armorComponent" />
+        <Name displayText="Reagente para Artesanato" eng="generalMaterial" />
+        <Name displayText="Design" eng="recipe" />
+        <Name displayText="Lição de Extração" eng="extractRecipe" />
+        <Name displayText="Suprimentos Arcanos" eng="magical" />
+        <Name displayText="Suprimentos de Combate" eng="combat" />
+        <Name displayText="Cristal de Aprimoramento" eng="custormaize" />
+        <Name displayText="Espadas Gêmeas" eng="dual" />
+        <Name displayText="Lança" eng="lance" />
+        <Name displayText="Espadão" eng="twohand" />
+        <Name displayText="Machado" eng="axe" />
+        <Name displayText="Foice" eng="chain" />
+        <Name displayText="Disco" eng="circle" />
+        <Name displayText="Arco" eng="bow" />
+        <Name displayText="Bastão" eng="staff" />
+        <Name displayText="Cetro" eng="rod" />
+        <Name displayText="Armadura de Malha" eng="bodyMail" />
+        <Name displayText="Manoplas" eng="handMail" />
+        <Name displayText="Grevas" eng="feetMail" />
+        <Name displayText="Couraça" eng="bodyLeather" />
+        <Name displayText="Luvas" eng="handLeather" />
+        <Name displayText="Botas" eng="feetLeather" />
+        <Name displayText="Tunica" eng="bodyRobe" />
+        <Name displayText="Mangas" eng="handRobe" />
+        <Name displayText="Sapatos" eng="feetRobe" />
+        <Name displayText="Ovo de Pet" eng="petEgg" />
+        <Name displayText="Loja de suprimentos" eng="petAdult" />
+        <Name displayText="Treinamento de Pet" eng="petOrb" />
+        <Name displayText="Diversos" eng="etc" />
+        <Name displayText="Item de Missão" eng="quest" />
+        <Name displayText="Anel" eng="ring" />
+        <Name displayText="Brinco" eng="earring" />
+        <Name displayText="Manual de treinamento" eng="skillbook" />
+        <Name displayText="Medalha" eng="medal" />
+        <Name displayText="Glyph" eng="crest" />
+        <Name displayText="Pontos" eng="crestPoint" />
+        <Name displayText="Colar" eng="necklace" />
+        <Name displayText="Roupa Íntima" eng="underware" />
+        <Name displayText="Documento" eng="document" />
+        <Name displayText="Runa de Boss" eng="keyItem" />
+        <Name displayText="Item de Personalização" eng="service" />
+        <Name displayText="Amuleto" eng="charm" />
+        <Name displayText="Corante" eng="dyeItem" />
+        <Name displayText="Material de corante" eng="dyeRaw" />
+        <Name displayText="Kit de corante" eng="dyeRecipe" />
+        <Name displayText="Mercadoria sombria" eng="pkitem" />
+        <Name displayText="Ficha" eng="token" />
+        <Name displayText="Ficha de Campo de Batalha" eng="order" />
+        <Name displayText="Gravura" eng="enchantScroll" />
+        <Name displayText="Broche" eng="brooch" />
+        <Name displayText="{EnchantableParts} Material de Encantamento" eng="enchantComponent" />
+    </ItemCategory>
+    <Race>
+        <Name displayText="Humano" eng="human" />
+        <Name displayText="Castanic" eng="castanic" />
+        <Name displayText="Aman" eng="aman" />
+        <Name displayText="High Elf" eng="highelf" />
+        <Name displayText="Baraka" eng="Baraka" />
+        <Name displayText="Popori" eng="popori" />
+        <Name displayText="Elin" eng="elin" />
+    </Race>
+</ItemToolTip>

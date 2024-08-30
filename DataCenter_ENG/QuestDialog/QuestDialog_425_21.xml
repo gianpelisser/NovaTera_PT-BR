@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="425" id="21" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="425" id="100" prevId="0" villagerId="3021">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="425" id="2" prevId="0" villagerId="3021">
+         
+        <Page social="1">You are the dawn's horizon, ever sought by the sun. Or so it seems. You must overcome the trials of Balder’s Temple to prove yourself worthy of the sun.&lt;BR&gt;&lt;BR&gt;The first trial is to open the labyrinth's locked gate.&lt;BR&gt;&lt;BR&gt;No key is required. Instead, you must prove your strength by defeating {@LinkCreature:425#1000$$Kakun}, the ruler of the outer gardens!</Page>
+    
+    </Text>
+    <Text huntingZoneId="425" id="3" prevId="2" villagerId="3022">
+         
+        <Page social="1">The sun itself shines on you and your victory.&lt;BR&gt;&lt;BR&gt;Your next trial awaits. Find your way through the labyrinth and consult the {@Creature:425#3024#repository of wisdom} on the other side.</Page>
+    
+    </Text>
+</QuestDialog>

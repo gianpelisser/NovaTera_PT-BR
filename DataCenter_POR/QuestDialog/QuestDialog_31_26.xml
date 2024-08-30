@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="31" id="26" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="231" id="100" prevId="0" villagerId="1017">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="231" id="2" prevId="0" villagerId="1017">
+         
+        <Page social="4">Seria bom dar a essas pessoas que trabalham duro um pouco de luxo por toda a sua ajuda, mas estamos reduzidos a rações e pão duro.&lt;BR&gt;&lt;BR&gt;Sei que Halwyn tem explorado os naufrágios. Você se importaria de perguntar a ela se encontrou algo melhor por lá?</Page>
+    
+    </Text>
+    <Text huntingZoneId="231" id="3" prevId="2" villagerId="1010">
+         
+        <Page social="4">Por sorte, sim! &lt;BR&gt;&lt;BR&gt;Bem, isso quer dizer que, sim, encontramos um belo estoque de vinho a bordo. Mas antes que pudéssemos recuperá-lo, fomos invadidos por monstros mortos-vivos.&lt;BR&gt;&lt;BR&gt;Olha, eu não sou covarde, mas não vou encarar aqueles bastardos gula afogados por um pouco de vinho... não importa o quão delicioso, chique e bem balanceado...&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, você poderia conseguir o vinho, certo? Para Dyfed e seus voluntários, quero dizer.</Page>
+    
+    </Text>
+    <Text huntingZoneId="231" id="4" prevId="3" villagerId="1036">
+         
+        <Page social="4">(O barril está vazio, assim como as garrafas de vinho. Os rótulos dizem: "Uma ração por oficial". Talvez os oficiais gula afogados tenham garrafas cheias com eles...)</Page>
+    
+    </Text>
+    <Text huntingZoneId="231" id="5" prevId="4" villagerId="1010">
+         
+        <Page social="4">Maravilhoso... Quero dizer, vou levar isso diretamente para Dyfed e os voluntários. Eles ficarão realmente satisfeitos com a surpresa.&lt;BR&gt;&lt;BR&gt;Aqui, pegue isso por seus problemas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="231" id="6" villagerId="1010">
+         
+        <Page social="0">Não se preocupe. Tenho certeza de que conseguirá arrancar o vinho das mãos desses marinheiros gula.</Page>
+    
+    </Text>
+</QuestDialog>

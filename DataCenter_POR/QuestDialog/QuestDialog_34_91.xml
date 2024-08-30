@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="34" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="83" id="100" prevId="0" villagerId="1004">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="83" id="2" prevId="0" villagerId="1004">
+         
+        <Page social="0">Predadores regionais ameaçam o comércio de fragmentos eldritch e tudo o que construímos.&lt;BR&gt;&lt;BR&gt;Eliminar {@LinkCreature:34#100#maligos icestalkers}, {@LinkCreature:34#200#caiman slaves}, e {@LinkCreature:34#300#Junaidar thieves}, {@LinkCreature:34#310#bandits}, {@LinkCreature:34#400#scourges}, e {@LinkCreature:34#410#raiders}.&lt;BR&gt;&lt;BR&gt;Relacione-se com Dena quando a missão estiver concluída. Tomem o campo!</Page>
+    
+    </Text>
+    <Text huntingZoneId="83" id="3" prevId="2" villagerId="1010">
+         
+        <Page social="4">Agradecemos seu trabalho árduo e sacrifício.</Page>
+    
+    </Text>
+    <Text huntingZoneId="83" id="4" villagerId="1010">
+         
+        <Page social="0">Você tem suas ordens, soldado. Cumpra-as.</Page>
+    
+    </Text>
+</QuestDialog>

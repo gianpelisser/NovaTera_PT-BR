@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="702" id="4" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="219" id="100" prevId="0" villagerId="7001">
+         
+        <Page social="0">Você foi ao rancho comunitário construído pela Liberated Free Brotherhood e aprendeu a coletar produtos do rancho e a jogar o jogo Pigling Rodeo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="2" prevId="0" villagerId="7001">
+         
+        <Page social="4">Ei, &lt;PCNAME&gt;, você é um fã de comida? Você deve ser, se veio até aqui por causa do lótus do céu.&lt;BR&gt;&lt;BR&gt;Você deveria ir ao rancho lá embaixo. Eles têm os produtos mais frescos, para serem usados nas melhores receitas.&lt;BR&gt;&lt;BR&gt;Procure por Karadus. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Ok.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="3" prevId="2" villagerId="1004">
+         
+        <Page social="4">Bem-vindo, forasteiro. Veio para o festival, certo? &lt;BR&gt;&lt;BR&gt;Este é um rancho comunitário, trabalhado e compartilhado por todos os Freeholders. Nós cuidamos do gado e deixamos Lein e sua família cuidando da produção.&lt;BR&gt;&lt;BR&gt;Você conheceu Tagun? Ele é um pastor. Ele foge o tempo todo, mas tem um bom coração e sabe tudo o que há para saber sobre carne de cordeiro. Se você quiser o melhor cordeiro para uma receita, vá até ele. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Obrigado.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="4" prevId="3" villagerId="7002">
+         
+        <Page social="4">Está procurando um bom cordeiro? &lt;BR&gt;&lt;BR&gt;Eu também, na verdade... Apenas fechei os olhos por um segundo e eles fugiram. Ajude-me a pastorear as ovelhas e eu lhe darei um bom cordeiro. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Ok.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="702" id="5" villagerId="4">
+         
+        <Page social="0">Baah-aah! Baaaaaaaa-aah!</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="6" prevId="4" villagerId="7002">
+         
+        <Page social="4">Alguma chance de estar pensando em mudar de carreira, &lt;PCNAME&gt;? Você daria um bom pastor.&lt;BR&gt;&lt;BR&gt;Não precisa decidir agora. Aqui: aquela carne de cordeiro que lhe prometi. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Que outros ingredientes posso conseguir?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Vá ver Filton em sua fazenda de gado leiteiro, se estiver interessado em carne ou leite.</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="7" prevId="6" villagerId="7003">
+         
+        <Page social="4">Bem-vindo, amigo. Acho que nunca o vi por aqui antes. Subchefe? Ou está apenas de visita para o festival? &lt;BR&gt;&lt;BR&gt;Bem, você perdeu a temporada de matança, mas eu tenho bastante leite fresco.&lt;BR&gt;&lt;BR&gt;É claro que a temporada de matança nunca termina, com aquelas hienas por perto. Você acha que pode afugentá-las para mim? &lt;NEXTPAGEBUTTON&gt;&amp;quot;Acho que sim.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="8" prevId="7" villagerId="7003">
+         
+        <Page social="4">Uau, isso foi rápido! &lt;BR&gt;&lt;BR&gt;Agora o leite comum parece uma recompensa ruim. Vejamos: Você está procurando ingredientes para receitas, certo? Trichi é o seu homem. Ele pode ajudá-lo a conseguir os ingredientes realmente especiais de que você precisa. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Obrigado.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="9" prevId="8" villagerId="7004">
+         
+        <Page social="4">Filton o enviou, hein? &lt;BR&gt;&lt;BR&gt;Já experimentou ovos de struthio? Melhor do que ovos de galinha, em qualquer dia.&lt;BR&gt;&lt;BR&gt;Tome quantos quiser, mas, por favor, leve um para Tippani para mim. Ela me pediu um, mas tenho estado muito ocupado para ir até lá! Desde já, obrigado! &lt;NEXTPAGEBUTTON&gt;&amp;quot;Ok.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="10" prevId="9" villagerId="7005">
+         
+        <Page social="4">Trichi! Você está atrasada, e eu não gosto disso! É um mau começo!&lt;BR&gt;&lt;BR&gt;Espere... você não é Trichi! Onde está Trichi?&lt;BR&gt;&lt;BR&gt;Uh, espere. O que eu quis dizer foi: Bem-vindo ao rodeio de porcos! Quer tentar sua sorte? &lt;NEXTPAGEBUTTON&gt;&amp;quot;Estou aqui apenas para entregar este ovo.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Trichi o enviou para entregar o ovo que eu pedi! Ele é muito gentil. Por favor, diga a ele que eu disse &amp;quot;obrigado.&amp;quot;&lt;BR&gt;&lt;BR&gt;Espere, não vá ainda! Você tem que experimentar o rodeio de porcos! O prêmio é uma deliciosa carne de porco - a melhor dos Freeholds! Tem certeza de que não quer tentar? &lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;&amp;quot;Como você joga?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Agora eu tenho seu interesse! Bem, é duas vezes mais divertido do que qualquer jogo antigo de Kick-Bale, isso eu garanto! &lt;BR&gt;&lt;BR&gt;Se você conseguir manter o controle dos porquinhos até o tempo acabar, você ganha! Basta atirar um pouco de fogo fantasma neles e eles o seguirão. Mas cuidado com o robô pastor de porcos! Ele tentará roubar seus porquinhos de você.&lt;BR&gt;&lt;BR&gt;Experimente - você pegará o jeito!</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="11" villagerId="7005">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="219" id="12" prevId="10" villagerId="7005">
+         
+        <Page social="4">Nada mal, nada mal. E aqui está o seu prêmio: carne de porco! A melhor da região de Freeholds! &lt;NEXTPAGEBUTTON&gt;&amp;quot;Como você a cozinha?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Melsa, da Lein's Farm, é conhecida por suas receitas de leitão.&lt;BR&gt;&lt;BR&gt;Eu sei como curar a carne de leitão com fumaça, mas Melsa é a melhor quando se trata de cozinhá-la. Diga a ela que eu disse isso e talvez ela compartilhe a receita com você.</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="13" prevId="12" villagerId="7000">
+         
+        <Page social="4">Bem-vindo de volta, &lt;PCNAME&gt;! Encontrou alguma coisa divertida para fazer? &lt;BR&gt;&lt;BR&gt;Oh, vejo que você pegou um pouco da carne de leitão curada de Tippani.&lt;BR&gt;&lt;BR&gt;Não é ruim assim, mas é um desperdício não cozinhá-la adequadamente. Para sua sorte, eu tenho uma receita - a melhor das terras livres! Aqui está: Você precisará de um pouco de sal. Agora vá para a fogueira. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Ok.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="14" prevId="13" villagerId="7000">
+         
+        <Page social="4">Uau, esse cheiro é muito bom! A cor também é boa e sai do osso na medida certa. É de dar água na boca! Se importa se eu provar? &lt;BR&gt;&lt;BR&gt;Mmm, está perfeito! Ótimo trabalho, &lt;PCNAME&gt;! Você já experimentou? &lt;NEXTPAGEBUTTON&gt;&amp;quot;Eu gostaria de dar uma mordida.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Você tem alguns talentos ocultos, não é mesmo? Muitos aspirantes a chefs cozinham o pigling no carvão - ou não o cozinham o suficiente e acabam fazendo o "traço do banheiro externo"...&lt;BR&gt;&lt;BR&gt;Uh, de qualquer forma...aqui. Esta é a receita do Kaiator BBQ. Acho que você pode fazer isso. Se fizer, guarde um pouco para mim!</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="15" villagerId="7000">
+         
+        <Page social="0">Não se esqueça, &lt;PCNAME&gt;: Basta seguir a receita que lhe dei, e você ficará bem.</Page>
+    
+    </Text>
+</QuestDialog>

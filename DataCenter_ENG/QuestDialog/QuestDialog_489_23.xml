@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="489" id="23" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="489" id="100" prevId="0" villagerId="1016">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="489" id="2" prevId="0" villagerId="1016">
+         
+        <Page social="4">Ever since I was a kid, my parents told me, "All those books will be the death of you!" Not exactly sophisticated, my family.&lt;BR&gt;&lt;BR&gt;But they're right. A book will kill me, and you're going to help.&lt;BR&gt;&lt;BR&gt;Atel Akaad has something called the "Book of the Abyss." To read it is to lose your soul. But if I can get to the end, we can learn a lot about what this whole conspiracy is about.&lt;BR&gt;&lt;BR&gt;I know the risks. There's a war going on! What's one life?</Page>
+    
+    </Text>
+    <Text huntingZoneId="489" id="3" prevId="2" villagerId="1016">
+         
+        <Page social="4">I can feel the power inside.&lt;BR&gt;&lt;BR&gt;I'm going to read it...but slowly. The further I get, the more we'll learn.</Page>
+    
+    </Text>
+    <Text huntingZoneId="489" id="4" villagerId="1016">
+         
+        <Page social="0">Bring me the book!</Page>
+    
+    </Text>
+</QuestDialog>

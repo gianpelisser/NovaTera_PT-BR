@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="22" id="32" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="222" id="100" prevId="0" villagerId="1011">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="222" id="2" prevId="0" villagerId="1011">
+         
+        <Page social="5">We hired a troop of harlequins for the festival, but that blew up in our faces!&lt;BR&gt;&lt;BR&gt;The jesters are mad and violent. They're allied with the lunatic witches and repulsing our efforts. Scour the third floor and kill the {@LinkCreature:22#16#mad vampiric jesters}.&lt;BR&gt;&lt;BR&gt;Don't grieve overmuch for them. After the blood of so many children is spilled, what does the blood of fools matter?</Page>
+    
+    </Text>
+    <Text huntingZoneId="222" id="3" prevId="2" villagerId="1011">
+         
+        <Page social="5">You've done well for us. The jesters are surprisingly formidable.&lt;BR&gt;&lt;BR&gt;No time to dawdle. There's more work to do.</Page>
+    
+    </Text>
+</QuestDialog>

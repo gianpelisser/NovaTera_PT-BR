@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StrSheet_Charm xmlns="https://vezel.dev/novadrop/dc/StrSheet_Charm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Charm StrSheet_Charm.xsd">
+    <String id="50100" string="Estresse" tooltip="O excesso de combate diminuiu seu poder de ataque. Você precisa descansar." />
+    <String id="50200" string="Fadiga" tooltip="A fadiga diminuiu seu HP máximo e MP máximo. Você precisa descansar." />
+    <String id="50300" string="Vitalidade" tooltip="Você se sente descansado e energizado. Seu HP máximo e MP máximo são aumentados." />
+    <String id="51100" string="Amuleto de Poder Menor" tooltip="Quando você estiver em combate, esse talismã queimado aumentará seu poder." />
+    <String id="51110" string="Amuleto de poder menor" tooltip="Quando você estiver em combate, esse talismã queimado aumentará seu poder." />
+    <String id="51120" string="Amuleto de Poder Maior" tooltip="Quando você estiver em combate, esse talismã queimado aumentará seu poder." />
+    <String id="51130" string="Amuleto de Poder Maior" tooltip="Quando você estiver em combate, esse talismã queimado aumentará seu poder." />
+    <String id="51140" string="Amuleto do Poder de Balder" tooltip="Quando você estiver em combate, esse talismã queimado aumentará seu poder." />
+    <String id="51200" string="Amuleto de Keen Menor" tooltip="Quando estiver em combate, esse talismã queimado aumentará sua chance de crítico." />
+    <String id="51210" string="Amuleto de Keen menor" tooltip="Quando estiver em combate, esse talismã queimado aumentará sua chance de crítico." />
+    <String id="51220" string="Amuleto Major Keen" tooltip="Quando estiver em combate, esse talismã queimado aumentará sua chance de crítico." />
+    <String id="51230" string="Encanto aguçado maior" tooltip="Quando estiver em combate, esse talismã queimado aumentará sua chance de crítico." />
+    <String id="51300" string="Amuleto de Velocidade Menor" tooltip="Quando estiver em combate, esse talismã queimado aumentará sua velocidade básica de ataque." />
+    <String id="51310" string="Amuleto de Velocidade Menor" tooltip="Quando estiver em combate, esse talismã queimado aumentará sua velocidade básica de ataque." />
+    <String id="51320" string="Amuleto de Velocidade Maior" tooltip="Quando estiver em combate, esse talismã queimado aumentará sua velocidade básica de ataque." />
+    <String id="51330" string="Amuleto de Velocidade Maior" tooltip="Quando estiver em combate, esse talismã queimado aumentará sua velocidade básica de ataque." />
+    <String id="51400" string="Amuleto de força menor" tooltip="Quando você estiver em combate, esse talismã queimado o ajudará a derrubar seus inimigos com mais frequência." />
+    <String id="51410" string="Amuleto de força menor" tooltip="Quando você estiver em combate, esse talismã queimado o ajudará a derrubar seus inimigos com mais frequência." />
+    <String id="51420" string="Amuleto de Força Maior" tooltip="Quando você estiver em combate, esse talismã queimado o ajudará a derrubar seus inimigos com mais frequência." />
+    <String id="51430" string="Amuleto de força maior" tooltip="Quando você estiver em combate, esse talismã queimado o ajudará a derrubar seus inimigos com mais frequência." />
+    <String id="52100" string="Amuleto duradouro menor" tooltip="Quando você estiver em combate, esse talismã queimado aumentará sua resistência." />
+    <String id="52110" string="Amuleto duradouro menor" tooltip="Quando você estiver em combate, esse talismã queimado aumentará sua resistência." />
+    <String id="52120" string="Amuleto Major Enduring" tooltip="Quando você estiver em combate, esse talismã queimado aumentará sua resistência." />
+    <String id="52130" string="Amuleto duradouro Maior" tooltip="Quando você estiver em combate, esse talismã queimado aumentará sua resistência." />
+    <String id="52140" string="Amuleto duradouro de Balder" tooltip="Quando você estiver em combate, esse talismã queimado aumentará sua resistência." />
+    <String id="52200" string="Amuleto Inabalável Menor" tooltip="Quando você estiver em combate, esse talismã queimado aumentará sua resistência a críticos." />
+    <String id="52210" string="Amuleto Inabalável Menor" tooltip="Quando você estiver em combate, esse talismã queimado aumentará sua resistência a críticos." />
+    <String id="52220" string="Amuleto Major Unyielding" tooltip="Quando você estiver em combate, esse talismã queimado aumentará sua resistência a críticos." />
+    <String id="52230" string="Amuleto Inabalável Maior" tooltip="Quando você estiver em combate, esse talismã queimado aumentará sua resistência a críticos." />
+    <String id="52300" string="Amuleto de menor rigidez" tooltip="Quando estiver em combate, esse talismã queimado aumentará seu equilíbrio." />
+    <String id="52310" string="Amuleto rígido menor" tooltip="Quando estiver em combate, esse talismã queimado aumentará seu equilíbrio." />
+    <String id="52320" string="Amuleto rígido principal" tooltip="Quando estiver em combate, esse talismã queimado aumentará seu equilíbrio." />
+    <String id="52330" string="Amuleto rígido maior" tooltip="Quando estiver em combate, esse talismã queimado aumentará seu equilíbrio." />
+    <String id="52400" string="Amuleto menos robusto" tooltip="Quando estiver em combate, esse talismã queimado aumentará sua resistência a efeitos enfraquecedores." />
+    <String id="52410" string="Amuleto robusto menor" tooltip="Quando estiver em combate, esse talismã queimado aumentará sua resistência a efeitos enfraquecedores." />
+    <String id="52420" string="Amuleto Major Robust" tooltip="Quando estiver em combate, esse talismã queimado aumentará sua resistência a efeitos enfraquecedores." />
+    <String id="52430" string="Amuleto Robusto Maior" tooltip="Quando estiver em combate, esse talismã queimado aumentará sua resistência a efeitos enfraquecedores." />
+    <String id="52500" string="Amuleto de Caduceu Menor" tooltip="Quando você estiver em combate, esse talismã queimado aumentará sua resistência a danos periódicos." />
+    <String id="52510" string="Amuleto de Caduceu Menor" tooltip="Quando você estiver em combate, esse talismã queimado aumentará sua resistência a danos periódicos." />
+    <String id="52520" string="Amuleto de Caduceu Maior" tooltip="Quando você estiver em combate, esse talismã queimado aumentará sua resistência a danos periódicos." />
+    <String id="52530" string="Amuleto do Caduceu Maior" tooltip="Quando você estiver em combate, esse talismã queimado aumentará sua resistência a danos periódicos." />
+    <String id="52600" string="Amuleto de Tenacidade Menor" tooltip="Quando você estiver em combate, esse talismã queimado aumentará sua resistência ao atordoamento." />
+    <String id="52610" string="Amuleto de Tenacidade Menor" tooltip="Quando você estiver em combate, esse talismã queimado aumentará sua resistência ao atordoamento." />
+    <String id="52620" string="Amuleto de Tenacidade Maior" tooltip="Quando você estiver em combate, esse talismã queimado aumentará sua resistência ao atordoamento." />
+    <String id="52630" string="Amuleto de maior tenacidade" tooltip="Quando você estiver em combate, esse talismã queimado aumentará sua resistência ao atordoamento." />
+    <String id="52700" string="Amuleto de Reversão Menor" tooltip="Quando você estiver em combate, esse talismã queimado transferirá uma parte do dano que você receber para o atacante." />
+    <String id="52710" string="Amuleto Reverso Menor" tooltip="Quando você estiver em combate, esse talismã queimado transferirá uma parte do dano que você receber para o atacante." />
+    <String id="52720" string="Amuleto maior invertido" tooltip="Quando você estiver em combate, esse talismã queimado transferirá uma parte do dano que você receber para o atacante." />
+    <String id="52730" string="Amuleto Reverso Maior" tooltip="Quando você estiver em combate, esse talismã queimado transferirá uma parte do dano que você receber para o atacante." />
+    <String id="53100" string="Amuleto Implacável Menor" tooltip="Quando você estiver em combate, esse talismã queimado aumentará seu HP máximo." />
+    <String id="53110" string="Amuleto Implacável Menor" tooltip="Quando você estiver em combate, esse talismã queimado aumentará seu HP máximo." />
+    <String id="53120" string="Amuleto Major Relentless" tooltip="Quando você estiver em combate, esse talismã queimado aumentará seu HP máximo." />
+    <String id="53130" string="Amuleto Implacável Maior" tooltip="Quando você estiver em combate, esse talismã queimado aumentará seu HP máximo." />
+    <String id="53200" string="Amuleto de astúcia menor" tooltip="Quando você estiver em combate, esse talismã queimado aumentará seu MP máximo." />
+    <String id="53210" string="Amuleto de astúcia menor" tooltip="Quando você estiver em combate, esse talismã queimado aumentará seu MP máximo." />
+    <String id="53220" string="Amuleto maior de astúcia" tooltip="Quando você estiver em combate, esse talismã queimado aumentará seu MP máximo." />
+    <String id="53230" string="Amuleto de Astúcia Maior" tooltip="Quando você estiver em combate, esse talismã queimado aumentará seu MP máximo." />
+    <String id="53300" string="Amuleto menos vigoroso" tooltip="Quando você estiver em combate, esse talismã queimado aumentará sua regeneração de HP." />
+    <String id="53310" string="Amuleto Vigoroso Menor" tooltip="Quando você estiver em combate, esse talismã queimado aumentará sua regeneração de HP." />
+    <String id="53320" string="Amuleto Major Vigorous" tooltip="Quando você estiver em combate, esse talismã queimado aumentará sua regeneração de HP." />
+    <String id="53330" string="Amuleto Vigoroso Maior" tooltip="Quando você estiver em combate, esse talismã queimado aumentará sua regeneração de HP." />
+    <String id="53400" string="Amuleto de Infusão Menor" tooltip="Quando você estiver em combate, esse talismã queimado aumentará sua regeneração de MP." />
+    <String id="53410" string="Amuleto com infusão menor" tooltip="Quando você estiver em combate, esse talismã queimado aumentará sua regeneração de MP." />
+    <String id="53420" string="Amuleto Major Infused" tooltip="Quando você estiver em combate, esse talismã queimado aumentará sua regeneração de MP." />
+    <String id="53430" string="Amuleto Infundido Maior" tooltip="Quando você estiver em combate, esse talismã queimado aumentará sua regeneração de MP." />
+    <String id="53440" string="Amuleto infundido de Balder" tooltip="Quando você estiver em combate, esse talismã queimado aumentará sua regeneração de MP." />
+    <String id="53500" string="Amuleto da Rapidez Menor" tooltip="Quando você estiver em combate, esse talismã queimado aumentará sua velocidade de movimento." />
+    <String id="53510" string="Amuleto Rápido Menor" tooltip="Quando você estiver em combate, esse talismã queimado aumentará sua velocidade de movimento." />
+    <String id="53520" string="Amuleto Major Swift" tooltip="Quando você estiver em combate, esse talismã queimado aumentará sua velocidade de movimento." />
+    <String id="53530" string="Amuleto Veloz Maior" tooltip="Quando você estiver em combate, esse talismã queimado aumentará sua velocidade de movimento." />
+</StrSheet_Charm>

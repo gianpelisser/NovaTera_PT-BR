@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="93" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="71" id="100" prevId="0" villagerId="1603">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="71" id="2" prevId="0" villagerId="1603">
+         
+        <Page social="1">We've established a bounty on arkais. Something about their feathers, I believe.&lt;BR&gt;&lt;BR&gt;Kill all the {@LinkCreature:30#220#teal} and {@LinkCreature:30#210#crimson arkais} you can find in {@Rgn:30001$$Balder's Refuge}.&lt;BR&gt;&lt;BR&gt;Aneilon is administering the bounty payments.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="3" prevId="2" villagerId="1091">
+         
+        <Page social="1">Dead arkais means feathers for Allemantheia.&lt;BR&gt;&lt;BR&gt;Great job!</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="4" villagerId="1091">
+         
+        <Page social="0">Listen for the squawks. That's how you know arkais are near.</Page>
+    
+    </Text>
+</QuestDialog>

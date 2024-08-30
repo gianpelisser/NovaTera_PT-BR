@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="489" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="489" id="100" prevId="0" villagerId="1013">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="489" id="2" prevId="0" villagerId="1013">
+         
+        <Page social="0">Mission Orders&lt;BR&gt;&lt;BR&gt;Drive out the dark beings from Cultists' Refuge.&lt;BR&gt;&lt;BR&gt;Kill all {@LinkCreature:489#3603#mercenary berserkers}, {@LinkCreature:489#3604#mercenary mystics}, {@LinkCreature:489#3605#mercenary reavers}, {@LinkCreature:489#3606#mercenary archers}, {@LinkCreature:489#3701#mercenary lancers}, {@LinkCreature:489#3702#mercenary sorcerers}, and {@LinkCreature:489#3703#mercenary slayers}.&lt;BR&gt;&lt;BR&gt;Report to Raubelak when mission is complete.</Page>
+    
+    </Text>
+    <Text huntingZoneId="489" id="3" prevId="2" villagerId="1013">
+         
+        <Page social="5">Great job. Please continue to help the federation eradicate the cultists.</Page>
+    
+    </Text>
+    <Text huntingZoneId="489" id="4" villagerId="1013">
+         
+        <Page social="0">We will not retreat until the forces of darkness are completely eradicated.</Page>
+    
+    </Text>
+</QuestDialog>

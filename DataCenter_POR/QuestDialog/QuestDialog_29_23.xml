@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="29" id="23" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="229" id="100" prevId="0" villagerId="1018">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="229" id="2" prevId="0" villagerId="1018">
+         
+        <Page social="5">Fui atacado por uma tropa de aracnídeos ontem. Lutei para escapar, mas perdi o brasão de couro que meu pai me deu.&lt;BR&gt;&lt;BR&gt;Ele tem um enorme valor sentimental e eu daria tudo para recuperá-lo. Você poderia tentar recuperá-lo dos {@LinkCreature:29#2021#leafcutter arachnens}? Mesmo que não consiga, a morte deles será um conforto.</Page>
+    
+    </Text>
+    <Text huntingZoneId="229" id="3" prevId="2" villagerId="1018">
+         
+        <Page social="5">Ei, você encontrou o brasão? Não? Que pena.&lt;BR&gt;&lt;BR&gt;Mesmo assim, com aqueles aracnídeos mortos, eu mesmo posso ir procurá-lo. Obrigado por sua ajuda, &lt;PCNAME&gt;. As famílias são importantes e não seria bom decepcionar a minha.</Page>
+    
+    </Text>
+</QuestDialog>

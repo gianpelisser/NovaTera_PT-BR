@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="34" id="30" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="234" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="234" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="4">Nosso pedido de reforços de Allemantheia está sendo ignorado ou atrasado. De qualquer forma, não podemos permitir que os wendigos reúnam suas forças e nos ataquem em massa.&lt;BR&gt;&lt;BR&gt;Tire alguns dos {@LinkCreature:34#600#wendigo crushers}, {@LinkCreature:34#700#battlemasters} e {@LinkCreature:34#500#frostweavers} ou {@LinkCreature:34#800#icewalker arachnens} para manter os wendigos afastados. O que for necessário.</Page>
+    
+    </Text>
+    <Text huntingZoneId="234" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="4">Temos um alívio, graças a você.&lt;BR&gt;&lt;BR&gt;Vocês têm minha gratidão.</Page>
+    
+    </Text>
+</QuestDialog>

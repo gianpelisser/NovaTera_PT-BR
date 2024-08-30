@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="17" id="22" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="67" id="100" prevId="0" villagerId="1009">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="67" id="2" prevId="0" villagerId="1009">
+         
+        <Page social="4">O Intendente Kenton, do Posto Avançado de Embattled, na Ravina de Paraanon, está preocupado com os suprimentos atrasados. Fazemos negócios locais por meio do banqueiro da cidade, Puni. Sempre foi confiável. Você pode acompanhar isso? Aposto que é um problema de papelada.</Page>
+    
+    </Text>
+    <Text huntingZoneId="67" id="3" prevId="2" villagerId="1005">
+         
+        <Page social="4">Kenton? Por que ele está reclamando? Enviei seus suprimentos há dois dias, até mesmo a cerveja de mel que ele gosta! O comboio já voltou em segurança. Tenho toda a papelada e as assinaturas.&lt;BR&gt;&lt;BR&gt;Eu gosto do Kenton, mas ele deveria ter cuidado com quem delega.&lt;NEXTPAGEBUTTON&gt;"Papelada, você disse?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="5">Sim, deixe-me desenterrá-lo para você.&lt;BR&gt;&lt;BR&gt;Aqui. Esse é o recibo assinado.&lt;BR&gt;&lt;BR&gt;Kenton é um bom sujeito. Não gosto que ele pense que isso é culpa minha. Você pode mostrar a ele esses registros? &lt;BR&gt;&lt;BR&gt;E diga a ele que vou conseguir um adiantamento para o próximo pedido.</Page>
+    
+    </Text>
+    <Text huntingZoneId="217" id="4" prevId="3" villagerId="1007">
+         
+        <Page social="4">Não é culpa dele? Deixe-me ver esses papéis.&lt;BR&gt;&lt;BR&gt;Espere, de quem é essa assinatura? O carimbo é de um intendente, então está certo, mas-&lt;BR&gt;&lt;BR&gt;As unhas sujas de Ishara! Se os homens pelos quais sou responsável estão morrendo de fome porque um idiota perdeu duas semanas de comida, vou comer um idiota assado antes que a semana acabe. Você é minha testemunha.&lt;BR&gt;&lt;BR&gt;Bem, agora... onde poderíamos ter perdido um caixote claramente rotulado com duas semanas de comida?</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="47" id="23" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="247" id="100" prevId="0" villagerId="1014">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="247" id="2" prevId="0" villagerId="1014">
+         
+        <Page social="4">The argons are gone, but they left a few things behind. Such as nagas—namely {@Creature:47#4001#argonomorph dagonite crusaders}. Having fewer of them would make our restoration smoother.&lt;BR&gt;&lt;BR&gt;And look for faeries. We haven't seen any recently.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="3" prevId="2" villagerId="1014">
+         
+        <Page social="4">Well, if there are faeries out there, they'll be safer with fewer nagas roaming around. Thank you.</Page>
+    
+    </Text>
+</QuestDialog>

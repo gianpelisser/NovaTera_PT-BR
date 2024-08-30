@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="601" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="77" id="100" prevId="0" villagerId="3001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="77" id="2" prevId="0" villagerId="3001">
+         
+        <Page social="4">Em um esforço para reduzir ao mínimo as surpresas com argons, instalamos sensores para nos alertar. Infelizmente, eles não testaram os dispositivos antes de enviá-los para uma zona de guerra.&lt;BR&gt;&lt;BR&gt;Precisamos de alguém fortemente armado para localizar os dispositivos e conduzir, uh, reparos de campo.&lt;BR&gt;&lt;BR&gt;Você parece qualificado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="77" id="3" prevId="2" villagerId="3001">
+         
+        <Page social="4">Eles estão funcionando muito bem. Muito obrigado, &lt;PCNAME&gt;. Ninguém gosta de surpresas com argons.&lt;BR&gt;&lt;BR&gt;É melhor voltarmos às nossas pesquisas. Mistérios para resolver e tudo o mais.</Page>
+    
+    </Text>
+</QuestDialog>

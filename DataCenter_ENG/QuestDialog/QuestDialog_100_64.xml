@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="100" id="64" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">Hello, friend!&lt;BR&gt;&lt;BR&gt;Etchings are the future of upgrading equipment! Want to learn more? Come find &lt;font color = '#2478FF'&gt;Kundra&lt;/font&gt; in the Chamber of Artisans in Kaiator.</Page>
+    
+    </Text>
+    <Text huntingZoneId="84" id="3" prevId="2" villagerId="1606">
+         
+        <Page social="0">Only the exceptionally experienced can etch. Coming to me is a good start: I can improve your skills quickly. So, are you ready to learn?</Page>
+    
+    </Text>
+</QuestDialog>

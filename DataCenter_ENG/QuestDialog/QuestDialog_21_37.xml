@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="21" id="37" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="221" id="100" prevId="0" villagerId="1037">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="221" id="2" prevId="0" villagerId="1037">
+         
+        <Page social="4">The {@LinkCreature:21#19#crag cullars} and {@LinkCreature:21#20#crag hopper tentacullars} are moving closer and threatening the village.&lt;BR&gt;&lt;BR&gt;I don't have soldiers to spare, so I'd like you to kill these vermin and collect the &lt;font color='#660000'&gt;cullar sap&lt;/font&gt;. It has considerable medicinal qualities.</Page>
+    
+    </Text>
+    <Text huntingZoneId="221" id="3" prevId="2" villagerId="1037">
+         
+        <Page social="4">I appreciate your willingness to jump into the fray, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Those cullars won't bother us for now and the sap will help our wounded.</Page>
+    
+    </Text>
+    <Text huntingZoneId="221" id="4" villagerId="1037">
+         
+        <Page social="0">We could really use that sap, &lt;PCNAME&gt;. Those critters shouldn't pose a danger to you.</Page>
+    
+    </Text>
+</QuestDialog>

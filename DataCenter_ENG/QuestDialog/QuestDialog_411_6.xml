@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="411" id="6" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="411" id="100" prevId="0" villagerId="5001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="411" id="2" prevId="0" villagerId="5001">
+         
+        <Page social="0">To imbue your gear with more power, I need riftsteel. Your best bet to obtain riftmetal from powerful beings near the Great Rift—beings like Risalke and Banyakas. Bring me riftmetal, and I'll turn them into riftsteel.</Page>
+    
+    </Text>
+    <Text huntingZoneId="411" id="3" prevId="2" villagerId="5001">
+         
+        <Page social="4">This riftsteel will help you imbue your battle gear with more power.</Page>
+    
+    </Text>
+    <Text huntingZoneId="411" id="4" villagerId="5001">
+         
+        <Page social="0">Doing so is not easy, but &lt;PCNAME&gt;, I have faith in you.</Page>
+    
+    </Text>
+</QuestDialog>

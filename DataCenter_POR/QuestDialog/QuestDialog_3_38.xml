@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="3" id="38" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="203" id="100" prevId="0" villagerId="1011">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="203" id="2" prevId="0" villagerId="1011">
+         
+        <Page social="4">Os devas roubaram nossos suprimentos várias vezes. Está na hora de uma pequena vingança.&lt;BR&gt;&lt;BR&gt;Recolha alguns dos suprimentos e, se tiver que matar alguns devas para chegar até eles, tanto melhor.</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="3" prevId="2" villagerId="1011">
+         
+        <Page social="4">Que bom! Isso é tão maravilhoso.&lt;BR&gt;&lt;BR&gt;(Droyan acena com a cabeça em sinal de aprovação.)&lt;BR&gt;&lt;BR&gt;Esses canalhas também precisam saber como é. Vocês não têm ideia de como foi difícil para o povo de Crescentia.</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="4" villagerId="1011">
+         
+        <Page social="0">Veja, não é roubo. É libertador. Eles roubaram comida de nossas famílias. Só estou pedindo que a peguem de volta.</Page>
+    
+    </Text>
+</QuestDialog>

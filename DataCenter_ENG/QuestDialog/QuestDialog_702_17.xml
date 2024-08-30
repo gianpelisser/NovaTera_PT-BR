@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="702" id="17" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="205" id="100" prevId="0" villagerId="2002">
+         
+        <Page social="0">You gathered flowers for Pond Faire.</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="2" prevId="0" villagerId="2002">
+         
+        <Page social="4">Need more flowers to bring tuwangis!&lt;NEXTPAGEBUTTON&gt;I’ll help.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="3" prevId="2" villagerId="2002">
+         
+        <Page social="4">Pretty flowers! Good! More tuwangis come.&lt;NEXTPAGEBUTTON&gt;Hand over the flowers.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="4" villagerId="2002">
+         
+        <Page social="0">Need flowers.</Page>
+    
+    </Text>
+</QuestDialog>

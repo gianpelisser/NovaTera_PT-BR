@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="209" id="1030" voiceTypeId="0">
+    <Text id="1" endSocial="0">
+         
+        <Page social="0">(This teleportal will transport you to &lt;font color='#0000FF'&gt;Kutmaschuk's Hideout&lt;/font&gt;.)</Page>
+    
+    </Text>
+    <Text id="2" endSocial="0">
+         
+        <Page social="0">(Use the teleportal to reach Kutmaschuk's Hideout.)&lt;TEXTBUTTON&gt;Enter Kutmaschuk's Hideout.&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Take Kutmaschuk down!&lt;/EVENTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</VillagerDialog>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="57" id="21" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="80" id="100" prevId="0" villagerId="1016">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="80" id="2" prevId="0" villagerId="1016">
+         
+        <Page social="4">O prefeito Baraz precisa de reforços! A situação não está clara, portanto, tome cuidado. Lembre-se, a segurança de Dragonfall é primordial.&lt;BR&gt;&lt;BR&gt;Vá até Dakonan Overwatch e o ajude. Entre em campo!</Page>
+    
+    </Text>
+    <Text huntingZoneId="256" id="3" prevId="2" villagerId="1006">
+         
+        <Page social="4">Eu preciso de ajuda, mas para Amena Quatla, não para a Overwatch.&lt;BR&gt;&lt;BR&gt;Khulil pediu por alguém que eu pudesse dispensar. Não tenho ninguém, então mandei uma mensagem para Dragonfall.&lt;BR&gt;&lt;BR&gt;Os sikandaris estão por trás dos desaparecimentos - eles estão sacrificando nosso povo para despertar Sikander. Vá para o acampamento Crimson Hammer e ajude Khulil!</Page>
+    
+    </Text>
+    <Text huntingZoneId="257" id="4" prevId="3" villagerId="1006">
+         
+        <Page social="4">O Baraz enviou você? Ótimo! Aceitarei toda a ajuda que puder obter. É hora de nos esforçarmos e levar a luta até os sikandaris!</Page>
+    
+    </Text>
+</QuestDialog>

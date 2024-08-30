@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="63" voiceTypeId="0">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1600">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1600">
+        <Page social="4">Olá! Já está cansado de minhas tarefas chatas? E-he-he-he-he-he. Já tenho um novo relatório da equipe de batedores, que diz algo sobre a atividade no Refúgio dos Cultistas. Outra runa deve estar localizada lá, mas provavelmente não está mais em sua totalidade... Runa de Turisaz, como é chamada. Não consigo me lembrar com certeza, mas acho que ela contém o poder de algum deus antigo e poderoso. Seu nome, no entanto, me escapou da mente. Bem, isso não importa, na verdade, o que importa é o seu poder! Espero que não tenha perdido as habilidades e a experiência de suas aventuras anteriores. Não sei quantas runas encontraremos, mas é uma oportunidade que não deve ser desperdiçada. Verifique o refúgio; se o reconhecimento foi correto, a Runa de Turisaz está lá.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1600">
+         <Page social="4">Ah, hein! Você já está de volta? Como foi? Estou vendo que foi ótimo. Exatamente como eu queria, obrigado! Você pode receber sua recompensa.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="1600">
+        <Page social="0">Uma runa novamente, e no Refúgio dos Cultistas, entre todos os lugares? Como ela foi parar lá...</Page>
+    </Text>
+</QuestDialog>

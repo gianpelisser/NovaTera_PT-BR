@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="42" id="25" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="242" id="100" prevId="0" villagerId="1009">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="242" id="2" prevId="0" villagerId="1009">
+         
+        <Page social="5">Você está indo para o Templo de Dagon, certo? Fique atento a qualquer adderfungus. Odrun, no primeiro nível, os utiliza para fazer antídotos contra o veneno das nagas. Os cogumelos crescem por todo o templo.&lt;BR&gt;&lt;BR&gt;Obrigado, &lt;PCNAME&gt;. Odrun ficará feliz em conseguir mais cogumelos. E você estará salvando vidas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="3" prevId="2" villagerId="1037">
+         
+        <Page social="5">Isso fará com que o antídoto seja bastante abundante.&lt;BR&gt;&lt;BR&gt;Estou feliz por você ter vindo aqui, &lt;PCNAME&gt;. São poucos os que realmente entendem a importância do meu trabalho.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="4" villagerId="1037">
+         
+        <Page social="0">Espero que encontre um pouco de adderfungus logo - estamos ficando perigosamente sem antídoto para o veneno de naga.</Page>
+    
+    </Text>
+</QuestDialog>

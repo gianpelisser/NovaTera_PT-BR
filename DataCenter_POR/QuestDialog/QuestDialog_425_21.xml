@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="425" id="21" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="425" id="100" prevId="0" villagerId="3021">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="425" id="2" prevId="0" villagerId="3021">
+         
+        <Page social="1">Você é o horizonte do amanhecer, sempre procurado pelo sol. Pelo menos é o que parece. Você deve superar as provações do Templo de Balder para provar que é digno do sol.&lt;BR&gt;&lt;BR&gt;A primeira prova é abrir o portão trancado do labirinto.&lt;BR&gt;&lt;BR&gt;Não é necessária nenhuma chave. Em vez disso, você deve provar sua força derrotando {@LinkCreature:425#1000$$Kakun}, o governante dos jardins externos!</Page>
+    
+    </Text>
+    <Text huntingZoneId="425" id="3" prevId="2" villagerId="3022">
+         
+        <Page social="1">O próprio sol brilha sobre você e sua vitória.&lt;BR&gt;&lt;BR&gt;Sua próxima prova o aguarda. Encontre seu caminho através do labirinto e consulte o {@Creature:425#3024#repositório de sabedoria} do outro lado.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="35" id="36" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="235" id="100" prevId="0" villagerId="1014">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="235" id="2" prevId="0" villagerId="1014">
+         
+        <Page social="6">Our last retreat was rushed, to say the least. We left many fallen friends on that battlefield. And now the dracoloths are sniffing about.&lt;BR&gt;&lt;BR&gt;If you can help us bring in the corpses, at least we can bury them.</Page>
+    
+    </Text>
+    <Text huntingZoneId="235" id="3" prevId="2" villagerId="1014">
+         
+        <Page social="8">Thank you.&lt;BR&gt;&lt;BR&gt;Our friends have returned to the Dream.</Page>
+    
+    </Text>
+    <Text huntingZoneId="235" id="4" villagerId="1014">
+         
+        <Page social="0">Don't leave them for the dracoloths!</Page>
+    
+    </Text>
+</QuestDialog>

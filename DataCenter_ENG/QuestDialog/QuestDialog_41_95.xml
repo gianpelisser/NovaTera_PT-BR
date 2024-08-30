@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="41" id="95" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="75" id="100" prevId="0" villagerId="1024">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="75" id="2" prevId="0" villagerId="1024">
+         
+        <Page social="0">We need to secure both ends of Feral Valley, so I'm sending you.&lt;BR&gt;&lt;BR&gt;Hunt down {@LinkCreature:41#1001#valley hunter arachnens}, {@LinkCreature:41#1002#noralk kamaras}, and {@LinkCreature:41#1003#sable sabertooths} at both approaches to Feral Valley.&lt;BR&gt;&lt;BR&gt;Report to Jeulile at Feral Valley Station when your mission's complete.</Page>
+    
+    </Text>
+    <Text huntingZoneId="241" id="3" prevId="2" villagerId="1005">
+         
+        <Page social="4">With fighters like you around, this place is getting considerably less dangerous.</Page>
+    
+    </Text>
+    <Text huntingZoneId="241" id="4" villagerId="1005">
+         
+        <Page social="0">The federation is willing to reward the elimination of {@LinkCreature:41#1001#valley hunter arachnens}, {@LinkCreature:41#1002#noralk kamaras}, and {@LinkCreature:41#1003#sable sabertooths} at both ends of Feral Valley. Bring back proof of their deaths, of course.</Page>
+    
+    </Text>
+</QuestDialog>

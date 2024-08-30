@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="16" id="36" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="216" id="100" prevId="0" villagerId="1023">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="216" id="2" prevId="0" villagerId="1023">
+         
+        <Page social="4">Há um boato antigo que fala de uma poção usada para controlar a sede de sangue de um vampiro. Não há como saber com certeza se isso não passa de mitos e lendas, a não ser tentando.&lt;BR&gt;&lt;BR&gt;Mesmo que tenhamos sucesso, no entanto, corremos o risco de matá-los em vez de reprimi-los.&lt;BR&gt;&lt;BR&gt;Precisarei da &lt;font color='#660000'&gt;flor de khamala&lt;/font&gt;, que cresce nos Campos Abandonados, onde vivem os vampiros.</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="3" prevId="2" villagerId="1023">
+         
+        <Page social="4">Muito bom. Parece ser exatamente o que eu preciso.&lt;BR&gt;&lt;BR&gt;Hmm? Ah, sim, eu encontrei a receita. Se me der um segundo...</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="4" villagerId="1023">
+         
+        <Page social="0">A flor é muito fácil de encontrar.&lt;BR&gt;&lt;BR&gt;Você quer ajudar ou não?</Page>
+    
+    </Text>
+</QuestDialog>

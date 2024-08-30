@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="29" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="228" id="100" prevId="0" villagerId="1012">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="228" id="2" prevId="0" villagerId="1012">
+         
+        <Page social="5">O pior não é morrer, é morrer de peste. Você não pode ser ressuscitado. A maior ameaça vem daqueles {@LinkCreature:28#2021#plagued cullars} e {@LinkCreature:28#2031#plagued tentacullars}. Se você pudesse matar um monte deles, seria uma grande vantagem para o resto de nós.</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="3" prevId="2" villagerId="1012">
+         
+        <Page social="5">Você foi bem-sucedido? Não vejo nenhuma linha cinza ao redor de seus olhos ou ichor escorrendo de suas orelhas.&lt;BR&gt;&lt;BR&gt;Presumivelmente, isso significa que você está a salvo.&lt;BR&gt;&lt;BR&gt;De qualquer forma, aceite sua recompensa e meus agradecimentos.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="11" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="62" id="100" prevId="0" villagerId="1019">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="62" id="2" prevId="0" villagerId="1019">
+         
+        <Page social="0">Your orders are to curb the Red Lash pirates and beasts along the Jagged Coast in front of the Pirate Grotto.&lt;BR&gt;&lt;BR&gt;Aim for {@LinkCreature:11#4001#Red Lash crushers}, {@LinkCreature:11#4002#rovers}, and {@LinkCreature:11#4003#freebooters}, as well as {@LinkCreature:11#4004#spiketail kamaras}.&lt;BR&gt;&lt;BR&gt;Report to Rexana when mission is complete.</Page>
+    
+    </Text>
+    <Text huntingZoneId="211" id="3" prevId="2" villagerId="1006">
+         
+        <Page social="4">Well done, &lt;PCNAME&gt;. Keep up the good work.&lt;BR&gt;&lt;BR&gt;Victory for Valkyon!</Page>
+    
+    </Text>
+    <Text huntingZoneId="211" id="4" villagerId="1006">
+         
+        <Page social="0">The federation will reward you if you bring back tokens.</Page>
+    
+    </Text>
+</QuestDialog>

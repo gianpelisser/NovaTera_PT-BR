@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="26" id="32" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="226" id="100" prevId="0" villagerId="1110">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="226" id="2" prevId="0" villagerId="1110">
+         
+        <Page social="5">Os Guardiões da Floresta se esforçam para preservar a natureza e seu equilíbrio. Ocasionalmente, isso significa destruir, e não apenas proteger.&lt;BR&gt;&lt;BR&gt;Preciso que você mate vários {@LinkCreature:26#2004#mossy teraliths}. Esses antigos guardiões não conseguem mais se lembrar de seus propósitos, eles são simplesmente violentos e irracionais. Eles ameaçam mais do que protegem. Pedimos que você os mate.</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="3" prevId="2" villagerId="1110">
+         
+        <Page social="5">Gratidão, &lt;PCNAME&gt;. Uma tarefa difícil, mas bem conduzida.</Page>
+    
+    </Text>
+</QuestDialog>

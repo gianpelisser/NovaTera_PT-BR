@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="17" id="36" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="217" id="100" prevId="0" villagerId="1023">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="217" id="2" prevId="0" villagerId="1023">
+         
+        <Page social="5">Tenho um trabalho para você, soldado. Estamos perdendo suprimentos para os cultistas de Heavens Fall. Cada bocado que eles comem os fortalece e nos enfraquece! Preciso que você recupere tudo o que puder das {@LinkCreature:17#300551#colheitadeiras de cabeça de barril} a leste daqui. É desagradável, mas temos que deter esses gafanhotos para sobreviver!</Page>
+    
+    </Text>
+    <Text huntingZoneId="217" id="3" prevId="2" villagerId="1023">
+         
+        <Page social="5">Muito bem, soldado. Não se esqueça desta lição: inimigos famintos são inimigos desesperados, e o desespero causa erros. Basta manter a pressão.</Page>
+    
+    </Text>
+    <Text huntingZoneId="217" id="4" villagerId="1023">
+         
+        <Page social="0">Sei que não é agradável, mas cada cultista que você mata é uma vitória dupla para nós. Acabou a conversa.</Page>
+    
+    </Text>
+</QuestDialog>

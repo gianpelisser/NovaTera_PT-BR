@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="84" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="64" id="100" prevId="0" villagerId="1049">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="64" id="2" prevId="0" villagerId="1049">
+         
+        <Page social="4">Lutar é um trabalho árduo, e até mesmo o combatente mais mortal pode ficar fraco por causa da exaustão. Um companheiro exausto é inútil! &lt;BR&gt;&lt;BR&gt;Se você lutar sem se recarregar periodicamente em uma fogueira, sua &lt;B&gt;Stamina&lt;/B&gt; piora. E quanto pior for sua Stamina, menor será seu HP e MP máximos.&lt;BR&gt;&lt;BR&gt;Você pode verificar sua Stamina passando o cursor sobre o &lt;B&gt;ícone em forma de coração&lt;/B&gt; próximo ao topo da tela. Entendeu? &lt;NEXTPAGEBUTTON&gt;"Continue..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Acabei de colocar uma &lt;font color='#660000'&gt;fogueira de acampamento&lt;/font&gt; em sua bolsa. Clique com o botão direito do mouse para usá-la e depois fique por perto para recarregar.&lt;BR&gt;&lt;BR&gt;&lt;font color='#660000'&gt;Fique na fogueira até que sua Stamina atinja 120%&lt;/font&gt;, depois fale comigo novamente e eu explicarei mais.</Page>
+    
+    </Text>
+    <Text huntingZoneId="64" id="3" prevId="2" villagerId="1049">
+         
+        <Page social="4">Se você continuar lutando sem recarregar em uma fogueira, sua &lt;font color='#660000'&gt;Stamina&lt;/font&gt; piorará. E quanto pior for sua Stamina, menor será seu HP e MP máximos.&lt;BR&gt;&lt;BR&gt;Você pode verificar sua Stamina colocando o cursor sobre o ícone em forma de coração&lt;/font&gt; na parte superior da tela. Quando a porcentagem ficar baixa, é hora de recarregar.</Page>
+    
+    </Text>
+</QuestDialog>

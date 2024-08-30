@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="15" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="213" id="100" prevId="0" villagerId="1026">
+         
+        <Page social="0">Você matou guardiões de runas na tentativa de decifrar o que os demônios estão tramando no Desfiladeiro Envenenado, mas sem sucesso.&lt;BR&gt;&lt;BR&gt;Sersine, no entanto, ordenou que você matasse o executor demoníaco, Kugai. Você recuperou um códice do cadáver dele, que pode revelar mais sobre as forças das trevas na Island of Dawn.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="2" prevId="0" villagerId="1026">
+         
+        <Page social="4">Os demônios estão envolvidos? Você está brincando. Leander precisou de uma pesquisa para dizer isso? &lt;BR&gt;&lt;BR&gt;De qualquer forma, tenho uma missão para você. {@LinkCreature:13#8#Runekeepers} os guardiões das runas estão esculpindo runas em qualquer superfície plana que possam encontrar. Derrote os demônios e traga-me as runas.&lt;BR&gt;&lt;BR&gt;Talvez descubramos o que eles estão procurando.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="3" prevId="2" villagerId="1026">
+         
+        <Page social="4">Que pena. Essas runas não significam nada para mim. Essa verde parece algo com tentáculos em seu rosto.&lt;BR&gt;&lt;BR&gt;Oh, bem. Os guardiões de runas são demônios. Ainda vale a pena matá-los.&lt;BR&gt;&lt;BR&gt;Sersine está agitada com alguma coisa - ou tão agitada quanto um High Elf fica. Fale com ela e faça o que puder. E é melhor você levar as runas junto.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="4" villagerId="1026">
+         
+        <Page social="0">Como dizem meus amigos amani, eles não vão se esfaquear! Volte para lá e mate alguns guardiões de runas. Quero ver o que eles estão escrevendo!</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="5" prevId="3" villagerId="1025">
+         
+        <Page social="4">Embora as runas não levassem a lugar algum, a próxima tarefa talvez leve.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:13#1004#Kugai} vagueia pela estrada, impondo a paz entre os demônios e dando ordens.&lt;BR&gt;&lt;BR&gt;Ele deve ser morto. A morte do executor mais poderoso pode fazer com que os demônios comecem a lutar entre si.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="6" prevId="5" villagerId="1025">
+         
+        <Page social="4">Kugai estava carregando isso? Eu me pergunto por quê. Infelizmente, demônios não são a minha especialidade.&lt;BR&gt;&lt;BR&gt;É certamente difícil de ler; talvez Leander ou Adria possam traduzir melhor.&lt;BR&gt;&lt;BR&gt;Mas, espere... aqui está algo que eu reconheço, pelo menos!</Page>
+         
+        <Page social="4">De acordo com esse códice, Kugai foi enviado para patrulhar as estradas por um demônio chamado Karascha. Eu me lembro dele! Ele comandou as forças demoníacas que derrotaram a primeira expedição.&lt;BR&gt;&lt;BR&gt;Parece que ele foi ferido na luta, no entanto, e está se escondendo não muito longe daqui enquanto se recupera. Isso explicaria porque há tantos demônios nessa área! &lt;BR&gt;&lt;BR&gt;Se Karascha for eliminado, isso deve quebrar o moral deles e talvez possamos finalmente terminar a missão que viemos fazer aqui!</Page>
+    
+    </Text>
+</QuestDialog>

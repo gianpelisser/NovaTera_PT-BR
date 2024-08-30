@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="172" id="11" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="172" id="100" prevId="0" villagerId="1006">
+         
+        <Page social="0">Resgate o Magistrado Madadt com os Anons e chegue ao Campo de Refugiados Parthian.</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="2" prevId="0" villagerId="1006">
+         
+        <Page social="4">Os guwangis são um de nossos muitos inimigos. Eles atacam meu povo, arrastando-os de volta para sua aldeia.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Eu poderia resgatar Madat."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Você venceu os aracnídeos. Talvez você possa massacrar os guwangis também.&lt;BR&gt;&lt;BR&gt;Eu vou reunir os Khiria enquanto você localiza Madat.&lt;BR&gt;&lt;BR&gt;Nós o resgataremos juntos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="3" prevId="2" villagerId="1012">
+         
+        <Page social="4">"A ascensão de uma estrela significa que outra deve se estabelecer... Estou mais do que feliz em ir, pois essa nova estrela mudará tudo. Mjusu Kraal."</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="4" prevId="3" villagerId="1013">
+         
+        <Page social="0">Há algo entalhado embaixo da caixa: Madadt.</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="5" prevId="4" villagerId="1014">
+         
+        <Page social="0">Não, por favor! Por favor, não me mate! &lt;NEXTPAGEBUTTON&gt;"Você viu um homem velho com um chapéu engraçado?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Sim, sim! O chapéu com orelhas compridas. Eu o vi há pouco tempo.&lt;BR&gt;&lt;BR&gt;Se ele for forte o suficiente, os guwangis o escravizarão. Se não for, bem, eles comerão qualquer coisa.</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="6" prevId="5" villagerId="1107">
+         
+        <Page social="0">Por que demorou tanto? O destino não é mais o que costumava ser.&lt;BR&gt;&lt;BR&gt;Vamos sair daqui!</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="7" prevId="6" villagerId="1106">
+         
+        <Page social="0">Muito bem, sulista. Talvez eu tenha sido imprudente ao julgá-lo.&lt;BR&gt;&lt;BR&gt;Os Khiria têm um esconderijo na caverna que fica no alto da colina atrás de mim.&lt;BR&gt;&lt;BR&gt;Encontre-se comigo lá. Os guwangis vão querer se vingar por hoje.</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="8" prevId="7" villagerId="1206">
+         
+        <Page social="4">Bem-vindo ao nosso refúgio.&lt;BR&gt;&lt;BR&gt;Este lugar não é como sua casa, mas é seguro o suficiente. Suas forças podem se juntar a nós pelo teletransporte e seus feridos podem se recuperar aqui.</Page>
+    
+    </Text>
+</QuestDialog>

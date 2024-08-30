@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="28" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="230" id="100" prevId="0" villagerId="1005">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="230" id="2" prevId="0" villagerId="1005">
+         
+        <Page social="1">&lt;PCNAME&gt;! Can I ask you a favor? I need someone tough and fast.&lt;NEXTPAGEBUTTON&gt;"Why? What's happening?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">I need reports from our field teams.&lt;BR&gt;&lt;BR&gt;None of them are far away, but when they send runners back here, they usually arrive half-dead and smelling of sloth. No, really.&lt;BR&gt;&lt;BR&gt;Can you stop by each team in the course of your other work?</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="3" prevId="2" villagerId="1085">
+         
+        <Page social="1">Anyone who would run that route is either brave or foolish.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="4" prevId="2" villagerId="1086">
+         
+        <Page social="1">I was going to turn this report in myself, but I'm deeply grateful I don't have to, friend.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="5" prevId="2" villagerId="1087">
+         
+        <Page social="1">{@LinkCreature:230#1005$$Naisas} is running us ragged.&lt;BR&gt;&lt;BR&gt;I think he wants to get out of the field and back to town. Personally, I enjoy field work!</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="6" prevId="2" villagerId="1088">
+         
+        <Page social="1">Careful of that edge! Here's my report. Tell {@LinkCreature:230#1005$$Naisas} the towers are amazing!</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="7" prevId="3" villagerId="1005">
+         
+        <Page social="1">Superb work, and quickly done.&lt;BR&gt;&lt;BR&gt;Furthermore, you have fewer sloth bites than the usual messenger.</Page>
+    
+    </Text>
+</QuestDialog>

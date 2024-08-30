@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="46" id="93" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="77" id="100" prevId="0" villagerId="1011">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="77" id="2" prevId="0" villagerId="1011">
+         
+        <Page social="4">Ossugões. Eles infestam os níveis superiores e precisamos limpar essas torres! Elimine {@LinkCreature:46#401#argonomorph ossugon warlords}, {@LinkCreature:46#402#argonomorph nightmare fiends} e {@LinkCreature:46#403#argonomorph iskaragards}.&lt;BR&gt;&lt;BR&gt;Relate para {@Creature:246#1032} em {@Rgn:46017} assim que tiver concluído essa tarefa simples, mas perigosa.</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="3" prevId="2" villagerId="1032">
+         
+        <Page social="5">Continue com o bom trabalho, soldado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="4" villagerId="1032">
+         
+        <Page social="0">Nossa lista de alvos consiste em {@LinkCreature:46#401#argonomorph ossugon warlords}, {@LinkCreature:46#402#argonomorph nightmare fiends} e {@LinkCreature:46#403#argonomorph iskaragards}. Recompensas significativas para um sucesso significativo.</Page>
+    
+    </Text>
+</QuestDialog>

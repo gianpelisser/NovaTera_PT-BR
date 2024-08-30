@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="29" id="31" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="229" id="100" prevId="0" villagerId="1026">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="229" id="2" prevId="0" villagerId="1026">
+         
+        <Page social="5">Hi! Do you have a minute? My friend is very sick. Super sick. So ill. I can brew up a cure quickly, but I need kamara blood to do it. I'm not a soldier, so I ask you.&lt;BR&gt;&lt;BR&gt;Bring the blood from {@LinkCreature:29#3011#thorntail kamaras} and {@LinkCreature:29#3012#elder thorntails} and I can save him.&lt;BR&gt;&lt;BR&gt;Go slay now.</Page>
+    
+    </Text>
+    <Text huntingZoneId="229" id="3" prevId="2" villagerId="1026">
+         
+        <Page social="5">Gosh. That's a lot of blood. Hope none of it's yours. Bad for cure.&lt;BR&gt;&lt;BR&gt;I'll get brewing and fix my friend up. Thanks!</Page>
+    
+    </Text>
+    <Text huntingZoneId="229" id="4" villagerId="1026">
+         
+        <Page social="0">They're just kamaras. It's not like they can hurt you. Me, they can kill, but you're a soldier. Kill quickly.</Page>
+    
+    </Text>
+</QuestDialog>

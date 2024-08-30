@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="29" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="252" id="100" prevId="0" villagerId="1029">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="252" id="2" prevId="0" villagerId="1029">
+         
+        <Page social="4">This weather alone is harsh enough, but now we're dealing with an increasing number of vengeful wraiths and bonded bone imps from Thulsa's army.&lt;BR&gt;&lt;BR&gt;Their shrieks are sending the villagers into a panic, and that's never good for any of us. &lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, bring me the crystals that keep them moving. And shrieking.</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="3" prevId="2" villagerId="1029">
+         
+        <Page social="4">Good job! &lt;BR&gt;&lt;BR&gt;Now our villagers can sleep at night. &lt;BR&gt;&lt;BR&gt;It's all because of you, &lt;PCNAME&gt;. Thanks!</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="4" villagerId="1029">
+         
+        <Page social="0">Those crystals keep the wraiths and their imps animated. Grab the crystals, destroy the undead. It's that simple.</Page>
+    
+    </Text>
+</QuestDialog>

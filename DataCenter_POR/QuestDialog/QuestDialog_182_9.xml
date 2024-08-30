@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="182" id="9" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">A evidência recuperada é supostamente muito importante para os Buscadores de Highwatch.&lt;BR&gt;&lt;BR&gt;O Alto Buscador Janiam lhe dará permissão para entrar em Highwatch se você mostrar a ele esta peça.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="1">Dougal está em ação agora. Vamos discutir essa questão com Madadt.&lt;NEXTPAGEBUTTON&gt;"Claro."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="3" prevId="2" villagerId="2107">
+         
+        <Page social="1">Parece que você foi bem-sucedido em sua missão, &lt;PCNAME&gt;. Você está indo para a Highwatch agora? &lt;NEXTPAGEBUTTON&gt;"Sim, estou."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Então não perca tempo. Você deve partir imediatamente.&lt;NEXTPAGEBUTTON&gt;"Não me sinto bem deixando todos vocês aqui."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Não podemos mover todo o acampamento por essa estrada sem sofrer grandes perdas - não sem reforços. "Nem todas as estradas devem ser trilhadas, nem todos os exércitos devem ser engajados, nem todo território deve ser disputado."&lt;BR&gt;&lt;BR&gt;Você deve providenciar os reforços que nos tirarão dessa armadilha que criamos para nós mesmos.&lt;NEXTPAGEBUTTON&gt;"Farei isso."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="4" prevId="3" villagerId="2012">
+         
+        <Page social="1">Saudação, forasteiro. Sou o Sentinela Durom, comandante deste contingente de Buscadores. Suponho que você seja um dos estrangeiros que chegaram ao vale. Que propósito o traz até mim? &lt;NEXTPAGEBUTTON&gt;"Renish me enviou. Preciso chegar a Highwatch."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Por sorte, fui recentemente autorizado pelo Alto Seeker Janiam a organizar a evacuação dos combatentes da resistência para a cidade. Quando eles começarem a subir a estrada para Highwatch, usaremos nosso mecanismo de cerco para abrir caminho.&lt;NEXTPAGEBUTTON&gt;"Devo informar meus amigos?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Vou avisar Renish para preparar o acampamento para a partida.&lt;BR&gt;&lt;BR&gt;Entretanto, você deve falar com Karlam, perto da barricada Parthian. Ele poderá guiá-lo até o nosso próximo posto avançado - de onde você poderá chegar a Highwatch com relativa segurança.&lt;NEXTPAGEBUTTON&gt;"Obrigado."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="5" prevId="4" villagerId="2063">
+         
+        <Page social="1">Esforce-se para evitar chamar a atenção, estrangeiro. As linhas partas estão a uma curta distância.&lt;BR&gt;&lt;BR&gt;Tem alguma mensagem para mim? &lt;NEXTPAGEBUTTON&gt;"Durom disse que você poderia me fazer passar...?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Não compartilho da confiança de Durom a esse respeito. Como pode ver, as forças partas controlam completamente essa seção da estrada.&lt;BR&gt;&lt;BR&gt;Posso recomendar que fale novamente com o Sentinela Durom e sugira que ele revise sua avaliação?</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="6" prevId="5" villagerId="2012">
+         
+        <Page social="1">Eu não esperava conhecê-lo novamente neste momento. Há algo errado? &lt;NEXTPAGEBUTTON&gt;"A estrada está bloqueada."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Hmm. Então você tem uma escolha a fazer. Há uma rota alternativa que tanto nós quanto o inimigo evitamos, devido à concentração excepcionalmente alta de Grizzlies do Vale e do ocasional Mugato do Vale. Ela é paralela à estrada e sai logo após as linhas inimigas.&lt;BR&gt;&lt;BR&gt;Vocês podem passar por essa passagem e, de fato, se quiserem reduzir o número de feras, seria muito mais seguro enviar os refugiados do acampamento por essa rota, quando eles chegarem.&lt;NEXTPAGEBUTTON&gt;"Ok."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="7" prevId="6" villagerId="2049">
+         
+        <Page social="1">Felicitações, forasteiro. Eu sou o Seeker Tercad. Pude observar sua aproximação e devo dizer que admiro sua habilidade e bravura.&lt;BR&gt;&lt;BR&gt;O que é tão urgente que você está disposto a abrir caminho em meio a uma hoste de feras selvagens para chegar à nossa posição em apuros?</Page>
+         
+        <Page social="1">O Alto Seeker está supervisionando nossas operações mais acima na colina.&lt;BR&gt;&lt;BR&gt;Continue para o leste ao longo da estrada e você não poderá deixar de encontrá-lo.&lt;NEXTPAGEBUTTON&gt;"Obrigado - e boa sorte aqui."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</QuestDialog>

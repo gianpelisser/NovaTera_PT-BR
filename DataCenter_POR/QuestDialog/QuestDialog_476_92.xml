@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="476" id="92" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="253" id="100" prevId="0" villagerId="1002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="253" id="2" prevId="0" villagerId="1002">
+         
+        <Page social="5">Além dos palhaços cruéis de Killian, seus mestres de banda e músicos precisam ser silenciados. Mate esse bando indesejável e confisque seus instrumentos de tortura.&lt;BR&gt;&lt;BR&gt;O sucesso da federação depende da morte da divindade maligna. Entendido, &lt;PCNAME&gt;?</Page>
+    
+    </Text>
+    <Text huntingZoneId="253" id="3" prevId="2" villagerId="1002">
+         
+        <Page social="5">O &lt;PCCLASS:lcase&gt; conseguiu!</Page>
+    
+    </Text>
+    <Text huntingZoneId="253" id="4" villagerId="1002">
+         
+        <Page social="0">Derrote os mestres de banda e músicos de Killian no Labyrinth of Terror. A federação precisa de &lt;PCNAME&gt; agora mais do que nunca.</Page>
+    
+    </Text>
+</QuestDialog>

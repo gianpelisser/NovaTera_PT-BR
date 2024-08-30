@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="15" id="26" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="215" id="100" prevId="0" villagerId="1003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="215" id="2" prevId="0" villagerId="1003">
+         
+        <Page social="5">A importância estratégica deste acampamento aumentou quando aqueles enormes {@LinkCreature:15#15#fimbrilisks} se mudaram para as ruínas ao norte daqui.&lt;BR&gt;&lt;BR&gt;Se formos invadidos, Pora Elinu estará em grave perigo.&lt;BR&gt;&lt;BR&gt;Devemos eliminar a ameaça. Você poderia reunir um grupo e cuidar disso, &lt;PCNAME&gt;?</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="3" prevId="2" villagerId="1003">
+         
+        <Page social="5">Que coragem. A federação está segura em suas mãos. Aceite esta humilde recompensa por um trabalho bem feito.</Page>
+    
+    </Text>
+</QuestDialog>

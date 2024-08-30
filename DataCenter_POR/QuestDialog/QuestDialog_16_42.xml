@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="16" id="42" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="216" id="100" prevId="0" villagerId="1012">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="216" id="2" prevId="0" villagerId="1012">
+         
+        <Page social="4">Por que nos contentarmos com os vampiros quando poderíamos estar nos divertindo tanto quanto com os {@LinkCreature:16#2203#anões violentos}? Eles têm atacado qualquer um que se aproxime das Planícies Retorcidas.&lt;BR&gt;&lt;BR&gt;Sei que os vampiros são o que está na mente de todos, mas os anões também estão representando uma grande ameaça para Popolion. Tentem dar um jeito de acabar com eles.</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="3" prevId="2" villagerId="1012">
+         
+        <Page social="5">Obrigado, &lt;PCNAME&gt;. Os aldeões talvez nunca percebam que estão mais seguros, mas agradeço o trabalho que você fez aqui.</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="4" villagerId="1012">
+         
+        <Page social="0">Se não enviarmos nenhuma força para lidar com os anões, não precisaremos nos preocupar se os vampiros estão chegando ou não, porque estaremos mortos.</Page>
+    
+    </Text>
+</QuestDialog>

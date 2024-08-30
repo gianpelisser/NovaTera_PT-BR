@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="17" id="30" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="217" id="100" prevId="0" villagerId="1022">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="217" id="2" prevId="0" villagerId="1022">
+         
+        <Page social="5">Bem-vindo à luta, soldado! Você já conhece o velho Cafnil? Ele já tentou matá-lo? Fique conosco, você se sairá bem.&lt;BR&gt;&lt;BR&gt;Nosso negócio é interromper o suprimento de alimentos do culto. Olhe para o norte. Aquela grande fazenda coletiva? Um bando de lunáticos exaustos trabalha nela enquanto lunáticos bem descansados os conduzem.&lt;BR&gt;&lt;BR&gt;Então vamos matar os bem descansados! Acabar com todos os {@LinkCreature:17#103#Supervisor de Heavens Fall} e seus {@LinkCreature:17#102#trabalhadores}. Hmm. Pegue também todas as ferramentas agrícolas que encontrar!</Page>
+    
+    </Text>
+    <Text huntingZoneId="217" id="3" prevId="2" villagerId="1022">
+         
+        <Page social="5">Conseguiu? E quantos? Oooh, aposto que agora eles estão furiosos! Bom trabalho.&lt;BR&gt;&lt;BR&gt;Não vá a lugar nenhum, garoto - temos mais estragos a fazer!</Page>
+    
+    </Text>
+    <Text huntingZoneId="217" id="4" villagerId="1022">
+         
+        <Page social="0">Cave aqueles {@LinkCreature:17#103#Supervisores de Heavens Fall} para seus equipamentos agrícolas. Se algum {@LinkCreature:17#102#trabalhador} lhe causar problemas, mate-o também.</Page>
+    
+    </Text>
+</QuestDialog>

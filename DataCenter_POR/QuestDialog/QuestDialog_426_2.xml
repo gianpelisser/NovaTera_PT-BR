@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="426" id="2" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="426" id="100" prevId="0" villagerId="2003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="426" id="2" prevId="0" villagerId="2003">
+         
+        <Page social="0">(Você encontra um relatório de batedor no cadáver. Se outros batedores vieram para Argon Corpus, eles podem ter relatórios semelhantes).</Page>
+    
+    </Text>
+    <Text huntingZoneId="426" id="3" prevId="2" villagerId="2004">
+         
+        <Page social="0">(Você encontra um relatório de reconhecimento no cadáver).</Page>
+    
+    </Text>
+    <Text huntingZoneId="426" id="4" prevId="3" villagerId="2006">
+         
+        <Page social="0">(Você encontra um relatório de reconhecimento no cadáver).</Page>
+    
+    </Text>
+    <Text huntingZoneId="426" id="5" prevId="4" villagerId="2005">
+         
+        <Page social="0">(Você encontra um relatório de batedor. Ao contrário dos outros batedores, este morreu em posição fetal, como se estivesse tentando proteger o relatório).</Page>
+    
+    </Text>
+    <Text huntingZoneId="76" id="6" prevId="5" villagerId="1020">
+         
+        <Page social="4">O que é isso? Um relatório escrito pelos guardas florestais que enviamos... oh, não. Eles não estão voltando, estão? &lt;NEXTPAGEBUTTON&gt;"Os argons usavam gritos como armas."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Essa é a essência do que os matou? Arrepiante.&lt;BR&gt;&lt;BR&gt;Isso pode ser útil para nós, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Talvez possamos usar essa essência para desenvolver uma contramedida. Ou talvez até mesmo usá-la como uma arma algum dia.</Page>
+    
+    </Text>
+    <Text huntingZoneId="76" id="7" villagerId="1020">
+         
+        <Page social="0" />
+    
+    </Text>
+</QuestDialog>

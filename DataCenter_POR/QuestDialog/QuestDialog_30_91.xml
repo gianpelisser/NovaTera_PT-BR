@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="71" id="100" prevId="0" villagerId="1603">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="71" id="2" prevId="0" villagerId="1603">
+         
+        <Page social="1">Temos muitas preguiças no {@Rgn:30001$$Refúgio do Balder} e elas estão tornando nossas vidas miseráveis. Sim, é verdade.&lt;BR&gt;&lt;BR&gt;Extermine as {@LinkCreature:30#100#preguiças nervosas}, as {@LinkCreature:30#110#preguiças assassinas} e as {@LinkCreature:30#120#preguiças lânguidas}.&lt;BR&gt;&lt;BR&gt;Relate a Raciba para receber uma indenização.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="3" prevId="2" villagerId="1089">
+         
+        <Page social="1">Você é praticamente uma desgraça para as preguiças, não é? &lt;BR&gt;&lt;BR&gt;Grande trabalho.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="4" villagerId="1089">
+         
+        <Page social="0">Sério, &lt;PCCLASS:lcase&gt;. Eles são preguiças.</Page>
+    
+    </Text>
+</QuestDialog>

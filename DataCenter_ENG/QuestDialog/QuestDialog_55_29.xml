@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="55" id="29" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="255" id="100" prevId="0" villagerId="1010">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="255" id="2" prevId="0" villagerId="1010">
+         
+        <Page social="4">We've hurt the orcans, but they're not backing off. They're not this brave normally.&lt;BR&gt;&lt;BR&gt;Perhaps the unseelie trinkets allow the fey to compel their allies.&lt;BR&gt;&lt;BR&gt;Find their leader, Tarlok, and put him down. Maybe the shock of his death will send the message we need.</Page>
+    
+    </Text>
+    <Text huntingZoneId="255" id="3" prevId="2" villagerId="1010">
+         
+        <Page social="4">This strange...whatever it is...simply reeks of the unseelie. They, like all faeries, have subtle, but powerful magic.&lt;BR&gt;&lt;BR&gt;Tarlok's death might just be enough to dissuade the orcans in the future.&lt;BR&gt;&lt;BR&gt;Well done!</Page>
+    
+    </Text>
+    <Text huntingZoneId="255" id="4" villagerId="1010">
+         
+        <Page social="0">Follow the river to the southwest. Tarlok rarely leaves his camp.</Page>
+    
+    </Text>
+</QuestDialog>

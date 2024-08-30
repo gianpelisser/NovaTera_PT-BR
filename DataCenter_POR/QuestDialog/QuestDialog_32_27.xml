@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="32" id="27" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="232" id="100" prevId="0" villagerId="1004">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="232" id="2" prevId="0" villagerId="1004">
+         
+        <Page social="4">Como posso pensar em guerra quando meu coração só pensa em Nashwa?&lt;BR&gt;&lt;BR&gt;Eu me lançaria de cabeça na batalha para conquistar seu interesse, mas ela está distraída demais com nossa falta de armas para perceber qualquer coisa.&lt;BR&gt;&lt;BR&gt;Ouvi dizer que Acarum arma seus recrutas invadindo acampamentos de mercenários. Você poderia fazer isso por nós? &lt;BR&gt;&lt;BR&gt;Não temos soldados de sobra para tal missão, mas se você atacar os acampamentos, os {@LinkCreature:32#8#Destruidores da Companhia de Caçadores} devem ter armas suficientes para nossos recrutas. Então Nashwa estará livre para pensar em outras coisas... como eu!</Page>
+    
+    </Text>
+    <Text huntingZoneId="232" id="3" prevId="2" villagerId="1004">
+         
+        <Page social="4">Isso é excelente. Se eu levar isso para Nashwa, serei seu herói! &lt;BR&gt;&lt;BR&gt;Aqui está um símbolo de minha gratidão. Compre algo bonito para usar em nosso casamento!</Page>
+    
+    </Text>
+    <Text huntingZoneId="232" id="4" villagerId="1004">
+         
+        <Page social="0">Os campos de mercenários na Gloomy Tundra são o melhor lugar para encontrar armas. Você só precisa matar os {@LinkCreature:32#8#Stalker Company destroyers}.</Page>
+    
+    </Text>
+    <Text huntingZoneId="232" id="5" prevId="3" villagerId="1005">
+         
+        <Page social="4">Que tipo de tolo ele pensa que eu sou? Khasib acabou de me trazer uma pilha de armas como se fossem um buquê de flores. O que ele achou que eu faria? &lt;BR&gt;&lt;BR&gt;Estamos no meio de uma guerra e ele está agindo como um colegial. Acho que o decepcionei com muita delicadeza. Da próxima vez, não serei tão paciente.</Page>
+    
+    </Text>
+</QuestDialog>

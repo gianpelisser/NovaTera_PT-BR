@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="32" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="73" id="100" prevId="0" villagerId="1009">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="73" id="2" prevId="0" villagerId="1009">
+         
+        <Page social="0">Those Sihran ragers have seized Mount Tyrannas and are harrying our supply chain.&lt;BR&gt;&lt;BR&gt;I need you to take out Sihran {@LinkCreature:32#1#fighters} and {@LinkCreature:32#3#berserkers}, and those {@LinkCreature:32#2#tuwangi hornheads} to slow them down.&lt;BR&gt;&lt;BR&gt;Let Kamese know if you're successful.</Page>
+    
+    </Text>
+    <Text huntingZoneId="232" id="3" prevId="2" villagerId="1030">
+         
+        <Page social="4">Well done! We'll send in soldiers to finish up the rest.</Page>
+    
+    </Text>
+    <Text huntingZoneId="232" id="4" villagerId="1030">
+         
+        <Page social="0">I'll need proof for reward.</Page>
+    
+    </Text>
+</QuestDialog>

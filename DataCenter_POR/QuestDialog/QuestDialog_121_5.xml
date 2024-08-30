@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="121" id="5" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="121" id="100" prevId="0" villagerId="220020">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="121" id="2" prevId="0" villagerId="220020">
+         
+        <Page social="1">Precisamos coletar o máximo possível de energia do noctênio. Algumas das pesquisas que estamos obtendo sugerem que há alguns materiais importantes que podemos extrair dela.&lt;BR&gt;&lt;BR&gt;Se conseguirmos o suficiente, poderemos coletá-la e reaproveitá-la, provavelmente em defesas. Traga-me o máximo de energia de noctênio arúnico dos fluxos de noctênio que puder.</Page>
+    
+    </Text>
+    <Text huntingZoneId="121" id="3" prevId="2" villagerId="220020">
+         
+        <Page social="0">Fantástico. Muito obrigado. Vou encaminhá-los aos nossos pesquisadores.</Page>
+    
+    </Text>
+    <Text huntingZoneId="121" id="4" villagerId="220020">
+         
+        <Page social="0">Para o coletivo!</Page>
+    
+    </Text>
+</QuestDialog>

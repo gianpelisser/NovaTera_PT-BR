@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="5" id="39" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="205" id="100" prevId="0" villagerId="1012">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="205" id="2" prevId="0" villagerId="1012">
+         
+        <Page social="5">Pangari está absolutamente certo -{@LinkCreature:5#19#Moong} é definitivamente o problema número um. Temos que eliminá-lo se quisermos chegar a algum lugar com os outros tuwangis.&lt;BR&gt;&lt;BR&gt;Tenho apenas um punhado de soldados aqui, no entanto, e preciso deles exatamente onde estão.&lt;BR&gt;&lt;BR&gt;Sei que você já trabalhou muito para esse esforço, mas se pudesse ajudar um pouco mais, ficaríamos muito gratos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="3" prevId="2" villagerId="1012">
+         
+        <Page social="5">Oh, ele finalmente está morto. Essa é uma ótima notícia. Talvez agora os tuwangis consigam reunir suas tribos mais uma vez! &lt;BR&gt;&lt;BR&gt;Então talvez seja mais fácil convencê-los quando se trata de reduzir esse pântano problemático.</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="4" villagerId="1012">
+         
+        <Page social="0">Você ainda não foi embora? Por favor, vá ou me diga que não vai, para que eu possa encontrar outra pessoa. Isso precisa ser feito hoje.</Page>
+    
+    </Text>
+</QuestDialog>

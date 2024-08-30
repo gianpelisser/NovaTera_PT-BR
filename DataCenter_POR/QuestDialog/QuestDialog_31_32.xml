@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="31" id="32" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="231" id="100" prevId="0" villagerId="1025">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="231" id="2" prevId="0" villagerId="1025">
+         
+        <Page social="4">Vasculho os continentes em busca de tesouros raros, vasculhando ruínas e naufrágios em busca do que o tempo esqueceu.&lt;BR&gt;&lt;BR&gt;Pelas suas roupas surradas, posso dizer que você não caçou muitos tesouros. Você está com sorte! Posso lhe ensinar como fazer isso! &lt;NEXTPAGEBUTTON&gt;"Vamos ouvir."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Os naufrágios de gula já foram navios mercantes, mas até mesmo os mercantes têm seus segredos. Entre no navio e procure por qualquer coisa que esteja fora do lugar.&lt;BR&gt;&lt;BR&gt;Apenas encontre o navio, depois encontre o tesouro! Nunca teria pensado nisso, não é?</Page>
+    
+    </Text>
+    <Text huntingZoneId="231" id="3" prevId="2" villagerId="1032">
+         
+        <Page social="4">(Esse baú é diferente dos outros.)&lt;NEXTPAGEBUTTON&gt;"Tesouro!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">(Ela está trancada. Talvez um dos {@LinkCreature:31#14#drowned gula bosuns} tenha a chave.)&lt;NEXTPAGEBUTTON&gt;"Vamos lá, baú do tesouro."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="231" id="4" prevId="3" villagerId="1025">
+         
+        <Page social="4">Veja! Eu lhe disse. Por isso, eu deveria receber pelo menos... dois terços do tesouro, eu acho. Sim, isso parece justo! &lt;BR&gt;&lt;BR&gt;Vamos abri-lo!</Page>
+    
+    </Text>
+    <Text huntingZoneId="231" id="5" villagerId="1025">
+         
+        <Page social="0">Busque e você encontrará. Terminei de falar!</Page>
+    
+    </Text>
+    <Text huntingZoneId="231" id="6" prevId="4" villagerId="1025">
+         
+        <Page social="4">Huh. É... um mapa.&lt;BR&gt;&lt;BR&gt; Quero dizer, veja! Um mapa do tesouro, sem dúvida! Sim, tenho certeza de que é um mapa do tesouro.&lt;NEXTPAGEBUTTON&gt;"Aonde ele leva?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Isso... não é trabalho para um explorador genial como eu. Isso é trabalho de decifrador de códigos.&lt;BR&gt;&lt;BR&gt;Veja? Parece apenas uma algaravia até que você consiga decifrá-la.&lt;BR&gt;&lt;BR&gt;Leve-a para Yasper na Guarnição de Beacon Point. Ele é ótimo nesse tipo de coisa, pois é um explorador júnior para mim.</Page>
+    
+    </Text>
+    <Text huntingZoneId="231" id="7" prevId="6" villagerId="1027">
+         
+        <Page social="4">Um mapa codificado? Deixe-me ver.&lt;BR&gt;&lt;BR&gt;Onde você conseguiu isso? Não é um mapa do tesouro. É uma obra de arte. &lt;NEXTPAGEBUTTON&gt;"É o quê?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Quero dizer, é antigo e parece um mapa, mas esse "código" é uma escrita gula. É para ser decorativo.&lt;BR&gt;&lt;BR&gt;Pode valer um pouco a pena por ser tão antigo, mas apenas para o colecionador certo. Eu o comprarei de você, se estiver vendendo. O que você acha?</Page>
+    
+    </Text>
+</QuestDialog>

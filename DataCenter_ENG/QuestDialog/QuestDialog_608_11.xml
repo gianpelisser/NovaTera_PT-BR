@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="608" id="11" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="4">[This is a summons from the Jax Trust in Cutthroat Harbor.&lt;BR&gt;&lt;BR&gt;Complete this quest to unlock daily quests from the Jax Trust.]</Page>
+    
+    </Text>
+    <Text huntingZoneId="62" id="3" prevId="2" villagerId="1701">
+         
+        <Page social="4">I'm Jax, master of the Jax Trust.&lt;BR&gt;&lt;BR&gt;I've heard you've been very helpful for our business, so I wanted to thank you in person.&lt;BR&gt;&lt;BR&gt;I treat my business like a family, and now you're officially a "friend of the family."&lt;BR&gt;&lt;BR&gt;When we profit, all of Cutthroat Harbor profits. I look forward to many great things from you.</Page>
+    
+    </Text>
+</QuestDialog>

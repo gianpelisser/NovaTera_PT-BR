@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="49" id="43" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="76" id="100" prevId="0" villagerId="1024">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="76" id="2" prevId="0" villagerId="1024">
+         
+        <Page social="4">Os argonss cometeram um erro quando não pressionaram seu ataque a Kanstria.&lt;BR&gt;&lt;BR&gt;Vá lá e mate os brutos kalash fora da cidade.</Page>
+    
+    </Text>
+    <Text huntingZoneId="76" id="3" prevId="2" villagerId="1024">
+         
+        <Page social="6">É bom ter um soldado como você por perto. Posso confiar em sua capacidade de executar ordens.&lt;BR&gt;&lt;BR&gt;Heck, se eu tivesse dez soldados como você, nós governaríamos esta província.</Page>
+    
+    </Text>
+</QuestDialog>

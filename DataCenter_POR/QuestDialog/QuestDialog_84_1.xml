@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="84" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">A todos os soldados da Federação Valkyon:&lt;BR&gt;&lt;BR&gt;Nestes tempos sombrios, vimos nossa grandeza e nossas falhas. Conhecemos as alegrias da vitória e a amargura da derrota.&lt;BR&gt;&lt;BR&gt;Estamos exaustos. Vimos nossos companheiros e amigos morrendo no campo de batalha. Sentimo-nos desamparados e sem esperança, mas nos levantamos na primeira oportunidade.&lt;BR&gt;&lt;BR&gt;Vocês lutaram bem e com dedicação. Vocês mostraram ao mundo o poder da Federação Valkyon.&lt;BR&gt;&lt;BR&gt;Mas a batalha ainda não está ganha. Juntem-se a mim, irmãos e irmãs! Juntos, mudaremos a história e mandaremos nossos inimigos de volta ao mundo dos sonhos! &lt;BR&gt;&lt;BR&gt;Estou esperando por vocês em Kaiator, com um presente.&lt;BR&gt;&lt;BR&gt;-Tamur</Page>
+    
+    </Text>
+    <Text huntingZoneId="84" id="3" prevId="2" villagerId="1088">
+         
+        <Page social="8">Bem-vindo, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Tamur está esperando por você. Dirija-se ao centro de comando.</Page>
+    
+    </Text>
+    <Text huntingZoneId="528" id="4" prevId="3" villagerId="5005">
+         
+        <Page social="4">Kaiator, como sempre, lhe dá as boas-vindas, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Não vou retê-lo por mais tempo. Ukenul tem algo que vai lhe interessar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="528" id="5" prevId="4" villagerId="5011">
+         
+        <Page social="4">Preparei um conjunto único de equipamentos para um soldado de seu nível. Pelo menos, assim espero.&lt;BR&gt;&lt;BR&gt;Se não gostar, por favor, minta e diga que está ótimo.</Page>
+    
+    </Text>
+</QuestDialog>

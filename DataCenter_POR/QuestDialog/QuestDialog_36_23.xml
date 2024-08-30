@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="36" id="23" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="236" id="100" prevId="0" villagerId="1009">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="236" id="2" prevId="0" villagerId="1009">
+         
+        <Page social="12">Ouvi dizer que os Tenebrara atacaram a carruagem de suprimentos.&lt;BR&gt;&lt;BR&gt;Isso é terrível, mas parece ter acontecido do nada. Não consigo pensar no que poderíamos ter feito recentemente para enfurecê-los.&lt;BR&gt;&lt;BR&gt;Em todo caso, ainda precisamos desses suprimentos. Preciso que você os encontre e os traga de volta para nós.</Page>
+    
+    </Text>
+    <Text huntingZoneId="236" id="3" prevId="2" villagerId="1009">
+         
+        <Page social="8">Ah, que bom! Vamos começar a distribuí-los imediatamente, conforme necessário.&lt;BR&gt;&lt;BR&gt;Você ajudou muito aqui, &lt;PCNAME&gt;. Muito obrigado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="236" id="4" villagerId="1009">
+         
+        <Page social="0">Você se perdeu? Você está indo para o Outlaws' Nest.</Page>
+    
+    </Text>
+</QuestDialog>

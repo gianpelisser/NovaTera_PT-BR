@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="7" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="60" id="100" prevId="0" villagerId="1013">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="60" id="2" prevId="0" villagerId="1013">
+         
+        <Page social="0">Aqueles malditos Red Fangs estão nos pressionando demais. Sou bonita demais para lutar, por isso estou enviando você.&lt;BR&gt;&lt;BR&gt;Caça os orcs {@LinkCreature:7#5#Red Fangs} e os {@LinkCreature:7#6#fighters}.&lt;BR&gt;&lt;BR&gt;Apresentem-se a Kieran no Casidhe's Stand quando sua missão estiver concluída.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="3" prevId="2" villagerId="1006">
+         
+        <Page social="5">Muito bem feito. Se eu sobreviver a este lugar, vou simplesmente impressionar as mulheres com minha boa aparência.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="4" villagerId="1006">
+         
+        <Page social="0">Parece que você ainda não completou sua missão.</Page>
+    
+    </Text>
+</QuestDialog>

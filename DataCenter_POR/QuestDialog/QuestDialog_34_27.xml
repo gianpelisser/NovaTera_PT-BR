@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="34" id="27" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="234" id="100" prevId="0" villagerId="1005">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="234" id="2" prevId="0" villagerId="1005">
+         
+        <Page social="4">Há um estudioso amani, Madyar, que está tentando acabar com a mineração. Algo sobre perturbar o equilíbrio da região.&lt;BR&gt;&lt;BR&gt;De qualquer forma, o tolo partiu sozinho para o Santuário de Azurice. Naturalmente, não ouvimos falar dele desde então.&lt;BR&gt;&lt;BR&gt;Eu não me importaria, mas ele tem coragem e isso conta muito. Você acha que pode encontrá-lo?</Page>
+    
+    </Text>
+    <Text huntingZoneId="234" id="3" prevId="2" villagerId="1009">
+         
+        <Page social="4">Mmm... definitivamente uma mudança palpável nas energias polares por aqui. Definitivamente palpável. Oh, ho! Quem é você? &lt;NEXTPAGEBUTTON&gt;"Eu estava procurando por você."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Bah, eu não estou correndo perigo. Fui emboscado antes, mas Uchamba e Krrevaas salvaram minha vida! &lt;BR&gt;&lt;BR&gt;Pensando bem, você conseguiu chegar até aqui sem um exército para apoiá-lo. Talvez você seja exatamente o que precisamos. Você pode ser exatamente o que precisamos. Há uma chance de fazer as pazes com os wendigos, mas precisamos de sua ajuda.&lt;BR&gt;&lt;BR&gt;Fale com Uchamba e ouça sua história.</Page>
+    
+    </Text>
+    <Text huntingZoneId="234" id="4" prevId="3" villagerId="1010">
+         
+        <Page social="4">Eu Uchamba, este Krrevaas.&lt;BR&gt;&lt;BR&gt;Nós salvamos Madyar, mas Kaijas é mais forte. Me machucou muito. Preciso de uma pedra mágica, você chama o fragmento azul.&lt;BR&gt;&lt;BR&gt;Pesquise a área nordeste, encontre a pedra mágica. Trazer de volta.</Page>
+    
+    </Text>
+    <Text huntingZoneId="234" id="5" prevId="4" villagerId="1010">
+         
+        <Page social="4">Kuohoh! Obrigado!&lt;BR&gt;&lt;BR&gt;Estou me sentindo muito melhor agora. Madyar diz a verdade. A Federação não é toda má.&lt;BR&gt;&lt;BR&gt;Mudanças estão chegando ao Frost Reach. As pedras mágicas quase desapareceram - os humanos consomem muitas. Wendigos precisam delas para sobreviver.&lt;BR&gt;&lt;BR&gt;O laço mágico, o santuário, pode fazer o suficiente para ambos se nós compartilharmos. Nada de ganância. Compartilhem.</Page>
+    
+    </Text>
+    <Text huntingZoneId="234" id="6" villagerId="1010">
+         
+        <Page social="0">Deve ter pedra mágica azul. Madyar diz que você as chama de fragmentos azuis. Olhe para a extremidade nordeste.</Page>
+    
+    </Text>
+</QuestDialog>

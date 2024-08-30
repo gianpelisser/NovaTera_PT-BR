@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="19" id="26" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="219" id="100" prevId="0" villagerId="1019">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="219" id="2" prevId="0" villagerId="1019">
+         
+        <Page social="4">Para um caminho bem trilhado, esse trecho da estrada é um pouco perigoso.&lt;BR&gt;&lt;BR&gt;Se eu pudesse construir cercas ao longo do caminho, isso diminuiria a velocidade da maioria dos predadores.&lt;BR&gt;&lt;BR&gt;Os lenhadores locais cortaram algumas árvores para mim, mas preciso de alguém para buscar a madeira. Você pode me ajudar?</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="3" prevId="2" villagerId="1019">
+         
+        <Page social="4">Obrigado, isso é exatamente o que eu preciso. Vou começar a construir essas cercas logo cedo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="4" villagerId="1019">
+         
+        <Page social="0">Parte meu coração ver o mestre tão abatido. As amoras silvestres farão com que ele se sinta muito melhor. Tenho certeza disso!</Page>
+    
+    </Text>
+</QuestDialog>

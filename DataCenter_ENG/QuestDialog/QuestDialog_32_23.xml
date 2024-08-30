@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="32" id="23" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="232" id="100" prevId="0" villagerId="1031">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="232" id="2" prevId="0" villagerId="1031">
+         
+        <Page social="4">Someone's supplying Kaidun's army in secret. We can't let them recover from our attacks.&lt;BR&gt;&lt;BR&gt;I need you to steal those supplies and haul them back here. If anyone's going to benefit from Westonia's bounty, it should be us!</Page>
+    
+    </Text>
+    <Text huntingZoneId="232" id="3" prevId="2" villagerId="1031">
+         
+        <Page social="4">Good job! Now we don't have to worry about rations for a while.</Page>
+    
+    </Text>
+    <Text huntingZoneId="232" id="4" villagerId="1031">
+         
+        <Page social="0">The supplies are probably distributed around the buildings at Daunting Pass.</Page>
+    
+    </Text>
+</QuestDialog>

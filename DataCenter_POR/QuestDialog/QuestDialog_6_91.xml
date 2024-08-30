@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="6" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="206" id="100" prevId="0" villagerId="1020">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="206" id="2" prevId="0" villagerId="1020">
+         
+        <Page social="0">A tribo Gutrend está causando estragos nas ruínas de Colchester. Você deve acabar com isso.&lt;BR&gt;&lt;BR&gt;Mate os {@LinkCreature:6#1062#Gutrend pillagers} e os {@LinkCreature:6#1061#brigands} em Colchester.&lt;BR&gt;&lt;BR&gt;Relate a Dakona ao norte do Rancho Echo quando sua missão estiver concluída.</Page>
+    
+    </Text>
+    <Text huntingZoneId="206" id="3" prevId="2" villagerId="1020">
+         
+        <Page social="5">Excelente trabalho. A federação agradece seus esforços!</Page>
+    
+    </Text>
+    <Text huntingZoneId="206" id="4" villagerId="1020">
+         
+        <Page social="0">Eu gostaria muito de recompensá-lo. Infelizmente, você tem que fazer algo útil primeiro.&lt;BR&gt;&lt;BR&gt;Volte quando tiver feito isso.</Page>
+    
+    </Text>
+</QuestDialog>

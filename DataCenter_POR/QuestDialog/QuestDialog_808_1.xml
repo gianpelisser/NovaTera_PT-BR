@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="808" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="182" id="100" prevId="0" villagerId="4001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="182" id="2" prevId="0" villagerId="4001">
+         
+        <Page social="0">A magia de sangue não é a única arma que os arquidevas usam. Eles têm um arsenal de armas escondido em algum lugar próximo. Os batedores estão vasculhando a área, mas preciso que você procure perto do campo de provas dos demokrons. Meu povo não vai se aproximar daquele lugar! &lt;BR&gt;&lt;BR&gt;Encontre o arsenal e determine o que há lá dentro.&lt;NEXTPAGEBUTTON&gt;"Diga-me onde você quer que eu vá."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Vá para o oeste, passando pelas fontes termais, há um rio que termina em uma cachoeira. Você verá as monstruosidades lá. É provável que o arsenal esteja perto do campo de treinamento.&lt;NEXTPAGEBUTTON&gt;"Estou nisso."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="3" prevId="2" villagerId="4001">
+         
+        <Page social="0">&lt;PCNAME&gt;, você encontrou o arsenal, derrotou o guarda e os monstros que estavam lá dentro? Incrível! &lt;BR&gt;&lt;BR&gt;Pergunto-me sobre o que seria aquela coisa estranha de pedra...</Page>
+    
+    </Text>
+</QuestDialog>

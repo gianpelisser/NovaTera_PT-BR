@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="181" id="13" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="181" id="100" prevId="0" villagerId="3004">
+         
+        <Page social="0">&lt;PCNAME&gt; falou com um goblin e um baraka sobre as atividades dos arquidemônios em Ex Prima.</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="2" prevId="0" villagerId="3004">
+         
+        <Page social="4">Precisamos reunir informações sobre as atividades dos arquidevas, mas os Seekers não serão muito úteis. Vamos procurar outro.&lt;BR&gt;&lt;BR&gt;Há um goblin, Jagreg, que pode ser encontrado a leste do Posto Baaldaz. Pergunte a ele se viu algum arquidevo por aí.&lt;NEXTPAGEBUTTON&gt;"Vou falar com ele."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="3" prevId="2" villagerId="1011">
+         
+        <Page social="4">Fique longe das árvores de dinheiro de Jagreg, &lt;PCRACE:lcase&gt;!&lt;BR&gt;&lt;BR&gt;Jagreg as viu primeiro! Isso faz delas a fruta pecúnia de Jagreg!&lt;NEXTPAGEBUTTON&gt;"Hmm. Posso obtê-las para você... por um preço."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">...troca? Tudo bem.&lt;BR&gt;&lt;BR&gt;Jagreg concorda! Pegue-os agora! &lt;NEXTPAGEBUTTON&gt;"Ok, espere aqui."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="4" prevId="3" villagerId="1011">
+         
+        <Page social="4">Hah! Jagreg está rico! &lt;BR&gt;&lt;BR&gt;Bom trabalho, &lt;PCRACE:lcase&gt;. Agora, o que você quer saber? &lt;NEXTPAGEBUTTON&gt;"O que os arquidevas estão fazendo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Arquidevas? &lt;PCRACE&gt; morre logo, pensa Jagreg.&lt;BR&gt;&lt;BR&gt;Arquidevas desenterrando o passado. Não sei por quê.&lt;NEXTPAGEBUTTON&gt;"Você sabe onde?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Kamun.&lt;BR&gt;&lt;BR&gt;Kamun sabe onde. Kamun observa os arquidevas. Estudos. Kamun também morrerá em breve, pensa Jagreg.&lt;BR&gt;&lt;BR&gt;Pergunte a Kamun.&lt;NEXTPAGEBUTTON&gt;"Aproveite sua fruta pecúnia, Jagreg."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="5" prevId="4" villagerId="1010">
+         
+        <Page social="4">Os arquidevas têm vários acampamentos nessa região. Qualquer um deles poderia ser o local de seu aparato de Barreira contra Tempestades.&lt;NEXTPAGEBUTTON&gt;"Qual deles é o mais provável?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Uma excelente pergunta!&lt;BR&gt;&lt;BR&gt;A melhor maneira de encontrar uma resposta precisa é interrogar um ou dois arquidevos - mas eles são notoriamente desonestos. Só consegui obter informações precisas por meio da aplicação criteriosa de agulhas da verdade.&lt;NEXTPAGEBUTTON&gt;"Alguma chance de você ter uma reserva?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Infelizmente, meu estoque está esgotado. Eu estava agora mesmo me preparando para montar uma expedição para coletar mais componentes - mas, se você quiser realizar essa tarefa, eu estaria disposto a fazer uma para você.&lt;BR&gt;&lt;BR&gt;Simplesmente adquira algumas escamas brilhantes dos chupathingies próximos.&lt;NEXTPAGEBUTTON&gt;"Tudo bem."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="6" prevId="5" villagerId="1010">
+         
+        <Page social="4">Você conseguiu obter as balanças brilhantes? &lt;NEXTPAGEBUTTON&gt;"Tudo em um dia de trabalho."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="7" villagerId="1010">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="181" id="8" prevId="6" villagerId="1010">
+         
+        <Page social="4">Você se saiu bem. Agora me dê um momento... e... pronto! &lt;BR&gt;&lt;BR&gt;Que esta agulha da verdade lhe sirva bem.&lt;NEXTPAGEBUTTON&gt;"Obrigado, Kamun."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</QuestDialog>

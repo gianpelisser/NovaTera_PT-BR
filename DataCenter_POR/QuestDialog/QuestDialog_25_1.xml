@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="25" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">Apesar da morte de Samael, e contra todas as expectativas, os Scions of Lok conseguiram se reagrupar. Em sua primeira ação, eles planejavam ressuscitar Samael e reivindicar a magia dos antigos gigantes para se vingar da Federação.&lt;BR&gt;&lt;BR&gt;Os Scions of Lok acordaram os gigantes e os interrogaram para descobrir a localização da magia que procuravam. Você resgatou os gigantes e impediu que a magia deles caísse nas mãos dos Scions.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">Ordens da Missão&lt;BR&gt;&lt;BR&gt;Retornar a Velika imediatamente. Há novos relatos perturbadores de atividade Scion. Isso deve ser tratado imediatamente.&lt;BR&gt;&lt;BR&gt;Seir</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="1102">
+         
+        <Page social="4">Não temos certeza do que está acontecendo, mas os Scions de Lok foram vistos reunidos na Catedral Negra. Elleon está levando uma pequena força-tarefa para lá e pediu para chamá-lo pessoalmente.&lt;BR&gt;&lt;BR&gt;Se toda a extensão da conspiração dos Scion fosse conhecida, ela abalaria a Federação Valkyon até o âmago. Fale com Elleon e ajude-o a conter essa bagunça.&lt;BR&gt;&lt;BR&gt;Dispensado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="4" prevId="3" villagerId="1168">
+         
+        <Page social="4">Um aliado de confiança é mais valioso do que uma companhia inteira de soldados. É bom vê-lo novamente. Seir explicou a situação? &lt;NEXTPAGEBUTTON&gt;"Os descendentes de Lok estão causando problemas?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Mais do que nunca! Os Scions de Lok se comprometeram a derrubar Velika para vingar a morte de Samael - e o status de Lok de continuar sem vida.&lt;BR&gt;&lt;BR&gt;Os rangers de Jelena avistaram vários Scions em Val Aureum, especificamente ao redor das Ruínas Colossais. Elsine, uma prima querida, precisa desesperadamente de um soldado magistral.&lt;BR&gt;&lt;BR&gt;No entanto, estamos enviando você. Hah!</Page>
+    
+    </Text>
+    <Text huntingZoneId="66" id="5" prevId="4" villagerId="1023">
+         
+        <Page social="4">Elleon fala muito bem de você. Estamos gratos por contar com sua ajuda nesta missão.&lt;BR&gt;&lt;BR&gt;Vi os Scions of Lok vasculhando as relíquias nas Ruínas Colossais. Não podemos permitir que eles coloquem as mãos em algo que possa lhes trazer mais poder. Por favor, explique a situação ao Primus Baruch. Juntos, talvez possamos detê-los.</Page>
+    
+    </Text>
+    <Text huntingZoneId="66" id="6" prevId="5" villagerId="1001">
+         
+        <Page social="4">Descendentes de Lok? É exatamente disso que precisamos! Acabei de convencer Turrek de que a federação é um trunfo contra os kulkari. Agora, ele vai pensar que atraímos os Herdeiros de Lok para Tulufan.&lt;BR&gt;&lt;BR&gt;Por sorte, você está aqui. Não é seguro para Elsine continuar nas ruínas, mas eu preciso de mais informações sobre o que está acontecendo lá fora.&lt;BR&gt;&lt;BR&gt;O Tribuno Kardelen está monitorando a situação agora mesmo no Campo Marrakeen. Veja o que você pode fazer por ele!</Page>
+    
+    </Text>
+    <Text huntingZoneId="218" id="7" prevId="6" villagerId="1003">
+         
+        <Page social="4">Bem-vindo, &lt;PCNAME&gt;. Eu adoraria ajudá-lo com sua crise, mas nem você nem eu obteremos qualquer informação se não pudermos nos aproximar.&lt;BR&gt;&lt;BR&gt;A tribo do Fogo do Deserto se tornou violenta - realmente violenta - então uma abordagem direta não é sábia! Poderemos matar muitos deles, mas eles matarão muitos de nós no processo.&lt;BR&gt;&lt;BR&gt;Algo definitivamente os agitou e eu adoraria saber o que é. Veja se você consegue fazer com que o Fogo do Deserto {@LinkCreature:18#8#destroyers}, {@LinkCreature:18#3#ragers} e {@LinkCreature:18#9#prophets} falem. Se eles não estiverem com vontade de falar, pensaremos em outra coisa.</Page>
+    
+    </Text>
+    <Text huntingZoneId="218" id="8" prevId="7" villagerId="1003">
+         
+        <Page social="4">Segredos? Poder? Parece que eles estão envolvidos em algo grande.&lt;BR&gt;&lt;BR&gt;Esses nomes... Ynorr? Surtr? Worlkir? Parecem gigantes. &lt;BR&gt;&lt;BR&gt;Precisamos de um especialista para isso. Dinian construiu uma carreira sobre a história dos gigantes. Pergunte a ele.</Page>
+    
+    </Text>
+    <Text huntingZoneId="218" id="9" prevId="8" villagerId="1001">
+         
+        <Page social="4">Esses são os nomes de gigantes lendários.&lt;BR&gt;&lt;BR&gt;Quando os deuses guerrearam contra o império dos gigantes, esses três construíram uma arma poderosa e a selaram, por precaução. Em seguida, eles se selaram para manter a localização da arma em segredo.&lt;BR&gt;&lt;BR&gt;Se eles estão falando deles...&lt;BR&gt;&lt;BR&gt;Oh não! Os Scions devem ter encontrado os gigantes e estão tentando recuperar a arma. Temos que informar Mirak imediatamente.</Page>
+    
+    </Text>
+    <Text huntingZoneId="218" id="10" prevId="9" villagerId="1022">
+         
+        <Page social="4">É hora de obter mais informações, e acho que os líderes Scion podem ter exatamente o que precisamos. Adarak e Jerexis devem ter planos ou ordens ou algo assim.&lt;BR&gt;&lt;BR&gt;Por sorte, eles foram avistados recentemente a oeste. Vá. Veja se você consegue encontrar {@LinkCreature:18#107#Adarak} e {@LinkCreature:18#108#Jerexis} e converse um pouco com eles.</Page>
+    
+    </Text>
+    <Text huntingZoneId="218" id="11" prevId="10" villagerId="1022">
+         
+        <Page social="4">De acordo com isso, os Scions of Lok encontraram os gigantes adormecidos. Depois de acordá-los, eles os amarraram a uma pedra agonal e os torturaram para obter informações. Os gigantes ainda devem estar vivos! &lt;BR&gt;&lt;BR&gt;Localize Nema e informe-a. Temos que encontrar uma maneira de salvá-los. Temos que encontrar uma maneira de salvá-los.</Page>
+    
+    </Text>
+    <Text huntingZoneId="218" id="12" villagerId="1022">
+         
+        <Page social="0">Como eles a encontraram? Como podemos impedi-los?</Page>
+    
+    </Text>
+    <Text huntingZoneId="218" id="13" prevId="11" villagerId="1007">
+         
+        <Page social="4">Estamos tentando localizar o Cofre da Glória - as ruínas onde os gigantes dormem - há algum tempo, mas parece que os Scions of Lok nos venceram. O {@LinkCreature:218#1501#teleportal} no centro do Templo de Tithus é provavelmente a entrada para o Cofre da Glória.&lt;BR&gt;&lt;BR&gt;Vocês terão que entrar, eliminar os Scions de Lok e destruir a pedra agonal.&lt;BR&gt;&lt;BR&gt;Boa sorte.</Page>
+    
+    </Text>
+    <Text huntingZoneId="218" id="14" prevId="13" villagerId="1501">
+         
+        <Page social="4">(Entre no Vault of Glory e salve os gigantes).</Page>
+    
+    </Text>
+    <Text huntingZoneId="422" id="15" prevId="14" villagerId="1003">
+         
+        <Page social="4">Os Scions of Lok roubaram um tomo que detalha as defesas em torno de nossas armas. Você deve destruir esse tomo antes que eles usem os artefatos. É poder demais para os mortais.</Page>
+    
+    </Text>
+    <Text huntingZoneId="422" id="16" prevId="14" villagerId="1007">
+         
+        <Page social="4">Nossa magia era incomparável. Desafiamos os deuses - e quase vencemos.&lt;BR&gt;&lt;BR&gt;No entanto, nosso orgulho nos fez correr, e os deuses se uniram contra nós. Eles eliminaram a maior parte de nossa espécie do mundo em um dia de fogo.&lt;BR&gt;&lt;BR&gt;Se os Scions cumprirem seus planos sombrios, isso pode muito bem acontecer novamente.</Page>
+    
+    </Text>
+    <Text huntingZoneId="422" id="17" prevId="14" villagerId="1005">
+         
+        <Page social="4">Os Scions of Lok obtiveram as informações sobre nossa magia. Nós resistimos o máximo que pudemos, mas foi demais. Eles nos deixaram amarrados e com dores excruciantes como punição.&lt;BR&gt;&lt;BR&gt;Vocês devem recuperar o tomo que eles procuram. Somente quando ele for destruído é que estaremos a salvo de suas maquinações.</Page>
+    
+    </Text>
+    <Text huntingZoneId="218" id="18" prevId="15" villagerId="1022">
+         
+        <Page social="4">Os Scions of Lok já acordaram os gigantes adormecidos? Então, chegamos tarde demais.</Page>
+    
+    </Text>
+</QuestDialog>

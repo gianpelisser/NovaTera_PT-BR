@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="21" id="43" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="221" id="100" prevId="0" villagerId="1029">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="221" id="2" prevId="0" villagerId="1029">
+         
+        <Page social="4">Você sabia que {@LinkCreature:21#1#vicious dusky basilisks} são cobertos com as escamas mais grossas e leves? Se você pudesse me trazer algumas, eu poderia equipar nossos soldados com uma armadura melhor. Isso salvaria muitas vidas! &lt;BR&gt;&lt;BR&gt;Sujeito a isso?</Page>
+    
+    </Text>
+    <Text huntingZoneId="221" id="3" prevId="2" villagerId="1029">
+         
+        <Page social="6">As histórias que eu ouvi não eram mais bobagens. Você é realmente um lutador e tanto! &lt;BR&gt;&lt;BR&gt;Obrigado pelas balanças. Farei bom uso delas!</Page>
+    
+    </Text>
+    <Text huntingZoneId="221" id="4" villagerId="1029">
+         
+        <Page social="0">Isso não é fácil, mas eu não pediria se não fosse necessário.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="215" id="1009" voiceTypeId="165">
+    <Text huntingZoneId="215" id="1" endSocial="14" prevId="0" villagerId="1009">
+         
+        <Page social="4">We've not enough soldiers stationed here. Glad to have your help. More glad if you can get the federation to send more soldiers.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="99" endSocial="14" prevId="0" villagerId="1009">
+         
+        <Page social="4" />
+    
+    </Text>
+</VillagerDialog>

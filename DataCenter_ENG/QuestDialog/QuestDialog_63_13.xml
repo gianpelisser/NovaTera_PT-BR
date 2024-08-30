@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1600">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1600">
+        <Page social="4">Greetings, traveler!! My name is Byako. I am one of the pleiades of the Great Goddess Elinu. I have been sent here on an important mission, the details of which I cannot reveal to you, at least for now. I need exceptionally strong fighters, and so I propose a small test. If you succeed, we will work with you again. I have some unconfirmed rumors, but I'm quite busy, to check them myself ... According to them, the shards of the powerful Uruz rune have been found in the Bastion of Lok. Rumors also tell that it makes the mana almost inexhaustible, thus, it will help us in the battle against the Gods ... ... uhm ... I mean, against ... how are they called, hmmm, oh, Argons! Argons, yeah! Bring me some of those shards. It'll be the perfect proof that we can do business with you!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1600">
+        <Page social="4">Wow, I didn't expect to see you again. So the rumors are true?! That's very amazing and terrifying at the same time ... Let's not talk about bad things, take your reward and wait for further news, if you are interested of course!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="1600">
+        <Page social="0">Who the hell is this God-killer?!</Page>
+    </Text>
+</QuestDialog>

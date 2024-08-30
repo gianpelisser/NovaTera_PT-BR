@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="40" id="43" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="240" id="100" prevId="0" villagerId="1004">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="240" id="2" prevId="0" villagerId="1004">
+         
+        <Page social="4">Você viu os {@LinkCreature:40#33#mineradores de zompori} que trabalham para a Legião de Thulsa? O que aconteceu com eles? Acha que o minério que eles estão escavando pode estar afetando os mineiros? &lt;BR&gt;&lt;BR&gt;Você está disposto a me ajudar a descobrir? Talvez você tenha que matar alguns deles para encontrar amostras do minério.</Page>
+    
+    </Text>
+    <Text huntingZoneId="240" id="3" prevId="2" villagerId="1004">
+         
+        <Page social="4">Vou entregá-los aos especialistas da Mysterium para que os analisem. Cá entre nós, não quero lidar com eles por mais tempo do que o necessário.</Page>
+    
+    </Text>
+    <Text huntingZoneId="240" id="4" villagerId="1004">
+         
+        <Page social="0">Sou apenas um centurião, mas posso somar dois e dois e obter minas e pedras mágicas. Você já encontrou algum desses minerais?</Page>
+    
+    </Text>
+</QuestDialog>

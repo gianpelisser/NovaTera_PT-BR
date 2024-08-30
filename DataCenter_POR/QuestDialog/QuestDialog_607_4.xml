@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="607" id="4" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="72" id="100" prevId="0" villagerId="1703">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="72" id="2" prevId="0" villagerId="1703">
+         
+        <Page social="4">Lethaniel em Elenea também é membro do nosso Instituto de Teoria Unificada, e ele precisa de papel mágico também.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, você está mais bem equipado para uma viagem do que eu. Eu tenho minha pesquisa, você sabe.</Page>
+    
+    </Text>
+    <Text huntingZoneId="74" id="3" prevId="2" villagerId="1019">
+         
+        <Page social="4">Ah, resmas de papel mágico! Eu não fazia ideia de que você trabalhava no Unified Theory Institute, &lt;PCNAME&gt;. Eles o estão mantendo ocupado, acredito?</Page>
+    
+    </Text>
+</QuestDialog>

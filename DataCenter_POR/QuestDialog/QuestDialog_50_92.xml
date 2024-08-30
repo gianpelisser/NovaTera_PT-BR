@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="50" id="92" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="76" id="100" prevId="0" villagerId="1033">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="76" id="2" prevId="0" villagerId="1033">
+         
+        <Page social="5">Precisamos ferir os colossos de argons, especialmente aqueles envolvidos na coleta de fragmentos de iteris.&lt;BR&gt;&lt;BR&gt;Mata os colhedores de suulvir e os guardiões de arzakaar em {@Rgn:50001}.&lt;BR&gt;&lt;BR&gt;Apresente-se a {@LinkCreature:250#1009} em {@Rgn:50003} quando terminar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="3" prevId="2" villagerId="1009">
+         
+        <Page social="5">A vitória está garantida com soldados como você do nosso lado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="4" villagerId="1009">
+         
+        <Page social="0">Você não atingiu os objetivos da missão. Continue tentando.</Page>
+    
+    </Text>
+</QuestDialog>

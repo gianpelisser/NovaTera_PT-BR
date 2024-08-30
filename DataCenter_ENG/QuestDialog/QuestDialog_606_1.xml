@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="606" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="1022" id="100" prevId="0" villagerId="1002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="1022" id="2" prevId="0" villagerId="1002">
+         
+        <Page social="4">If we're going to stop the nexus attacks, we must learn what makes them possible. We've seen small boxes—teinocrons—carried by the intruders.&lt;BR&gt;&lt;BR&gt;Kill nexus creatures and recover their teinocrons. We must have answers and those represent our best chance.</Page>
+    
+    </Text>
+    <Text huntingZoneId="1022" id="3" prevId="2" villagerId="1002">
+         
+        <Page social="4">Oh, these will do. Yes, indeed.&lt;BR&gt;&lt;BR&gt;Please accept my thanks. You're a credit to the Valkyon Federation, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="1022" id="4" villagerId="1002">
+         
+        <Page social="0">We must learn the true function of the nexus teinocrons. Please recover some for us.</Page>
+    
+    </Text>
+</QuestDialog>

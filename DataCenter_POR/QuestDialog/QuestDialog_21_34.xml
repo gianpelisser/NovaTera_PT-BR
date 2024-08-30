@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="21" id="34" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="221" id="100" prevId="0" villagerId="1021">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="221" id="2" prevId="0" villagerId="1021">
+         
+        <Page social="4">Aprendemos muito, mas ainda há mais a ser descoberto. Precisamos levar nossas descobertas atuais para &lt;font color='#660000'&gt;Daien&lt;/font&gt; no &lt;font color='#660000'&gt;Posto Avançado de Barrens&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;Diga a ele que eu o enviei. Isso deve melhorar o humor dele.</Page>
+    
+    </Text>
+    <Text huntingZoneId="221" id="3" prevId="2" villagerId="1036">
+         
+        <Page social="4">Aresk também não encontrou os tesouros antigos? &lt;BR&gt;&lt;BR&gt;Tanto sangue derramado para tão pouco ganho. Talvez devêssemos mudar nosso foco.&lt;BR&gt;&lt;BR&gt;Eu vou elaborar um plano. Sou bom nisso.</Page>
+    
+    </Text>
+</QuestDialog>

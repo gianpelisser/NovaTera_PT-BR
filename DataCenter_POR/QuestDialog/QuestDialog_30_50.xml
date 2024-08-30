@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="50" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="230" id="100" prevId="0" villagerId="1047">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="230" id="2" prevId="0" villagerId="1047">
+         
+        <Page social="1">Você reuniu notícias que devemos compartilhar com as gerações futuras. Felizmente, temos um meio de fazer isso: os {@LinkCreature:230#1058#Repositórios de Langsyne}.&lt;BR&gt;&lt;BR&gt;Vá até o {@Rgn:30015$$Archive Stronghold} e fale em voz alta com todos os Repositórios de Langsyne que encontrar. Eles registrarão suas palavras.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="3" prevId="2" villagerId="1058">
+         
+        <Page social="1">(As palavras aparecem no repositório: A deusa Elinu escondeu os popori e elin do resto do mundo por séculos e, em seguida, colocou-os perto de Pora Elinu e desapareceu. Os elin e popori foram rápidos em se juntar à Federação Valkyon e lutar contra os argons).</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="4" prevId="2" villagerId="1059">
+         
+        <Page social="1">(As palavras aparecem no repositório: Os elfos tinham um poderoso império, que foi devastado quando eles perderam o controle da Flor da Vida. Somente a criação de um artefato vivo chamado Núcleo salvou o continente inteiro da destruição. De certa forma humilhados pela quase destruição, os elfos superiores se juntaram à Federação Valkyon por necessidade quando os argonss se aproximaram de Allemantheia).</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="5" prevId="2" villagerId="1060">
+         
+        <Page social="1">(As palavras aparecem no repositório: No {@LinkCreature:226#1102$$cenotáfio} da {@Rgn:26001$$Bacia da Bênção}, o nome de &lt;PCNAME&gt; está inscrito. Esse destemido &lt;PCCLASS:lcase&gt; matou os deuses Akasha, Killian e Thulsa, fazendo com que mortais e deuses tremessem.)&lt;NEXTPAGEBUTTON&gt;"Eu não esperava por isso."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Mais palavras aparecem no repositório: &lt;PCNAME&gt; também derrotou a forma corrompida do deus Sikander, Kelsaik, mas essa vitória foi um tanto incompleta, porque...)&lt;BR&gt;&lt;BR&gt;(As palavras se apagam nesse momento.)</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="6" prevId="2" villagerId="1061">
+         
+        <Page social="1">(As palavras aparecem no repositório: O Arquivo Inferior era originalmente o local onde os gigantes adoravam o deus do sol, Balder, e o deus do conhecimento, Oriyn. Os gigantes pacíficos que buscavam conhecimento aqui acabaram se tornando os baraka. Apenas alguns baraka permanecem aqui. Muitos se mudaram para Allemantheia e talvez alguns ainda vivam em Balderon, uma cidade baraka no norte de Arun, agora bloqueada magicamente pelos devas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="7" prevId="3" villagerId="1047">
+         
+        <Page social="1">Você está em uma posição invejável, &lt;PCNAME&gt;. Você fez história e ajudou a registrá-la.&lt;BR&gt;&lt;BR&gt;Talvez nos séculos vindouros, um futuro você esteja aqui e contemple o que um único mortal pode realizar, se tiver talento, motivação e sabedoria suficientes.</Page>
+    
+    </Text>
+</QuestDialog>

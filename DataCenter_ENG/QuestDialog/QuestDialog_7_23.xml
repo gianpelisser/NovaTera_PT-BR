@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="7" id="23" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="207" id="100" prevId="0" villagerId="1007">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="207" id="2" prevId="0" villagerId="1007">
+         
+        <Page social="5">We can't sleep because of these bloody orcans. I'm sick of it! Drustan says we hold our position, but I need some sleep or I'll get bitchy.&lt;BR&gt;&lt;BR&gt;Their encampments are to the west. Snatch some of their rations and bring them back here. When they get hungry, they'll start fighting over the food, and that's time they're not fighting us!</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="3" prevId="2" villagerId="1007">
+         
+        <Page social="5">Great work! I wish I could see their faces when they start running out of food.&lt;BR&gt;&lt;BR&gt;Blast and damnation! That's food? Ugh. The reek is worse than a slaughterhouse. I'd eat it but I'd never get it near my mouth. We'll just burn it instead.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="4" villagerId="1007">
+         
+        <Page social="0">Let those cursed orcans snap and snarl at each other for awhile. Fetch me their food sacks and we'll see who laughs last!</Page>
+    
+    </Text>
+</QuestDialog>

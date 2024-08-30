@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="701" id="3" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="230" id="100" prevId="0" villagerId="7001">
+         
+        <Page social="0">Você ajudou o Clã Consos com o templo ao reacender as Chamas do Sacrifício, da Honra e da Misericórdia.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="2" prevId="0" villagerId="7001">
+         
+        <Page social="0">Sob o nome de Balder! Sou Modan.&lt;BR&gt;&lt;BR&gt;É meu dever manter as Chamas de Balder, para que todos os que visitam o templo possam refletir sobre sua nobreza.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, gostaria de se encarregar de meus deveres por um curto período de tempo? &lt;NEXTPAGEBUTTON&gt;&amp;quot;Seria uma honra.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Visite cada uma das três chamas, uma de cada vez. Certifique-se de que elas estejam queimando e que não lhes falte combustível.&lt;BR&gt;&lt;BR&gt;Passe o tempo que quiser em cada chama; pense no que o sacrifício, a honra e a misericórdia de Balder significam para você. Quando você tiver visto cada uma das três chamas, volte para mim aqui.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="3" prevId="2" villagerId="8101">
+         
+        <Page social="4">A Chama do Sacrifício está ardendo intensamente.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="4" prevId="2" villagerId="8102">
+         
+        <Page social="4">A Chama da Honra está queimando adequadamente.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="5" prevId="2" villagerId="8103">
+         
+        <Page social="4">A Chama da Misericórdia está ardendo calorosamente.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="6" prevId="3" villagerId="7001">
+         
+        <Page social="4">Obrigado por seu trabalho. Acredito que agora você se sinta mais próximo de Balder?&lt;BR&gt;&lt;BR&gt;Ah, quase me esqueci. Por favor, aceite estas pequenas lembranças do agradecimento do Clã Consos.</Page>
+    
+    </Text>
+</QuestDialog>

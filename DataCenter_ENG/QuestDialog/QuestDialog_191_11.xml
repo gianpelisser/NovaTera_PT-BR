@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="191" id="11" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="821" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0">Rhodos and &lt;PCNAME&gt; pursued Dakuryon into the tunnels beneath Trellum Consurgo. The Seekers of Highwatch broke down the archdevan seal &lt;PCNAME&gt; captured to give them a fighting chance against Dakuryon's magic.</Page>
+    
+    </Text>
+    <Text huntingZoneId="821" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="4">Hurry! Dakuryon mustn't escape!&lt;NEXTPAGEBUTTON&gt;"Where did he go?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">I saw him flee to the lower levels.&lt;BR&gt;&lt;BR&gt;Quickly now!</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="3" prevId="2" villagerId="2125">
+         
+        <Page social="4">Come! There's no time to waste!</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="4" prevId="3" villagerId="2130">
+         
+        <Page social="4">Like the rat he is, Dakuryon scurries into a tunnel. How fitting!</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="5" prevId="4" villagerId="2129">
+         
+        <Page social="4">We deconstructed the archdevan seal you captured. There's little time to test it, but it should help you in your fight against Dakuyron.&lt;BR&gt;&lt;BR&gt;Please, save the High Elder.</Page>
+    
+    </Text>
+</QuestDialog>

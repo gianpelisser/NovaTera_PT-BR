@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="27" id="25" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="227" id="100" prevId="0" villagerId="1006">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="227" id="2" prevId="0" villagerId="1006">
+         
+        <Page social="5">Se você acha que está pronto para um desafio maior, siga para o norte até a Liberation Station. É lá que estão algumas das lutas mais difíceis.&lt;BR&gt;&lt;BR&gt;Encontre {@LinkCreature:227#1008#Velnen}. Ele sempre tem espaço para um "herói de verdade".</Page>
+    
+    </Text>
+    <Text huntingZoneId="227" id="3" prevId="2" villagerId="1008">
+         
+        <Page social="5">Não se preocupe muito com Ellahne. Ela é um pouco exagerada e, por causa disso, se irrita com as pessoas.&lt;BR&gt;&lt;BR&gt;Por outro lado, esta é a parte mais difícil da luta e muitas vezes enfrentamos os melhores de Thulsa. Com certeza precisaríamos de um soldado como você.</Page>
+    
+    </Text>
+</QuestDialog>

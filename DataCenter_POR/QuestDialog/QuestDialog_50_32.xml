@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="50" id="32" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="250" id="100" prevId="0" villagerId="1012">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="250" id="2" prevId="0" villagerId="1012">
+         
+        <Page social="4">(Essa mulher castânica morreu nas mãos dos argonautas.)&lt;BR&gt;&lt;BR&gt;(Você vê um pedaço de pergaminho na mão dela.)</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="3" prevId="2" villagerId="1012">
+         
+        <Page social="6">Não há muito tempo... Estou ficando frio, entorpecido. Quem encontrar isso, por favor, conte a Hekasha sobre meu destino.&lt;BR&gt;&lt;BR&gt;Meu querido amigo e colega - gostaria que tivéssemos mais tempo para debater os mistérios da vida. Não me arrependo do meu caminho... mas sentirei sua falta.&lt;BR&gt;&lt;BR&gt;Linkia de Kanstria</Page>
+    
+    </Text>
+    <Text huntingZoneId="76" id="4" prevId="3" villagerId="1016">
+         
+        <Page social="6">{@Creature:76#1011} está morto? Eu... eu não acredito nisso. Ela sempre voltava - era isso que ela fazia! &lt;BR&gt;&lt;BR&gt;Blast e condenação. Ela sofreu? &lt;NEXTPAGEBUTTON&gt;"Acho que não."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Isso já é alguma coisa, pelo menos. Seus estudos nos deram informações valiosas sobre os argons e sua tecnologia.&lt;BR&gt;&lt;BR&gt;Por favor, leve o diário dela. Acho que ela gostaria que você ficasse com ele. Vocês me parecem almas gêmeas.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="46" id="73" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="4">Mission Orders&lt;BR&gt;&lt;BR&gt;Ossugons are running rampant throughout the upper levels! Eliminate {@LinkCreature:46#401#argonomorph ossugon warlords}, {@LinkCreature:46#402#argonomorph nightmare fiends}, and {@LinkCreature:46#403#argonomorph iskaragards}. Report to the nearest coordinator when mission is complete.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="3" prevId="2" villagerId="0">
+         
+        <Page social="5">You've earned the thanks of the federation. Your guild is an inspiration to all!</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="4" villagerId="0">
+         
+        <Page social="0">It looks like you haven't completed your mission yet.</Page>
+    
+    </Text>
+</QuestDialog>

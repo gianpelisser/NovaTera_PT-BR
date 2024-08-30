@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="40" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="75" id="100" prevId="0" villagerId="1024">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="75" id="2" prevId="0" villagerId="1024">
+         
+        <Page social="0">Got a big one for you! Thulsa's using mutants to harry our forces.&lt;BR&gt;&lt;BR&gt;Engage {@LinkCreature:40#23#guardian aberrations}, {@LinkCreature:40#19#mutant polykinds}, {@LinkCreature:40#15#mutant workers}, {@LinkCreature:40#28#Turakius}, and {@LinkCreature:40#30#mutant tribladers} from the Blighted Village.&lt;BR&gt;&lt;BR&gt;Report to Tirlotta near Blighted Village when you're done killing.</Page>
+    
+    </Text>
+    <Text huntingZoneId="240" id="3" prevId="2" villagerId="1007">
+         
+        <Page social="4">Excellent work. Culling our foes will make reclamation efforts proceed with greater safety.</Page>
+    
+    </Text>
+    <Text huntingZoneId="240" id="4" villagerId="1007">
+         
+        <Page social="0">There are still too many aberrations and mutants around the Blighted Village. Proceed with your mission.</Page>
+    
+    </Text>
+</QuestDialog>

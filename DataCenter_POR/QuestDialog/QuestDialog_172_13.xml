@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="172" id="13" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="172" id="100" prevId="0" villagerId="1200">
+         
+        <Page social="0">Uma tentativa de consertar o motor do Intrepid falhou, mas a missão continua.</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="2" prevId="0" villagerId="1200">
+         
+        <Page social="0">Encontrei uma peça do conjunto do motor da Intrepid. Não tenho certeza, mas talvez possamos consertá-lo.&lt;BR&gt;&lt;BR&gt;Você me ajudaria a encontrar as peças? &lt;BR&gt;&lt;BR&gt;Oh, e cuidado! Há muitos pássaros furiosos por aqui.</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="3" prevId="2" villagerId="1200">
+         
+        <Page social="4">Agora, vamos encontrar o motor.&lt;BR&gt;&lt;BR&gt;Você precisará lutar contra esses Parthians, mas eu não tenho medo. Você vai se sair bem!</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="4" villagerId="1200">
+         
+        <Page social="0">Não. Ainda não é seguro.</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="5" prevId="3" villagerId="1401">
+         
+        <Page social="4">Não sou engenheiro, mas parece recuperável.&lt;BR&gt;&lt;BR&gt;O que você acha? &lt;NEXTPAGEBUTTON&gt;"Infelizmente não."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Então vamos deixar este acampamento imundo.&lt;BR&gt;&lt;BR&gt;Além desses lobos da selva, Rhodos estaria esperando por nós. Eu os verei lá. Fiquem seguros!</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="6" prevId="5" villagerId="1406">
+         
+        <Page social="4">Fico feliz em vê-lo novamente.&lt;BR&gt;Como está aquela coisa enorme que você usava para vir aqui?&lt;NEXTPAGEBUTTON&gt;"Danificada sem conserto."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">É uma pena. Esse dispositivo poderia ter nos dado uma vantagem na batalha.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="7" id="26" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="207" id="100" prevId="0" villagerId="1005">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="207" id="2" prevId="0" villagerId="1005">
+         
+        <Page social="5">Os orcs e os kumases tornaram a chegada ao Sanctum Mysterium muito complicada. A remessa de suprimentos deles vem de nós e, como você sabe, acabamos de receber a nossa.&lt;BR&gt;&lt;BR&gt;Eu vou juntar o que pudermos dispensar para eles, mas vai demorar alguns dias.&lt;BR&gt;&lt;BR&gt;Você pode falar com {@LinkCreature:207#1001#Mattin} no Sanctum Mysterium? Diga a ele que não nos esquecemos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="5">Suprimentos e boas notícias são bastante escassos. A situação de Heroth é invejável, mas a nossa pode rapidamente se tornar insustentável.&lt;BR&gt;&lt;BR&gt;Sua mensagem foi anotada. Bom dia.</Page>
+    
+    </Text>
+</QuestDialog>

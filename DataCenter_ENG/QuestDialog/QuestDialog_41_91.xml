@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="41" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="75" id="100" prevId="0" villagerId="1024">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="75" id="2" prevId="0" villagerId="1024">
+         
+        <Page social="0">We've lost a large shipment of gold crests recently, and I suspect the Black Claws are behind it. Could be beasties, though, so check them, too.&lt;BR&gt;&lt;BR&gt;Kill {@LinkCreature:41#3002#lurching cullars}, {@LinkCreature:41#3003#rapacious cullars}, and {@LinkCreature:41#2004#Black Claw fighters} and {@LinkCreature:41#2005#raiders} in northern Feral Valley.&lt;BR&gt;&lt;BR&gt;You can deliver the crests to Jeulile at Feral Valley Station.</Page>
+    
+    </Text>
+    <Text huntingZoneId="241" id="3" prevId="2" villagerId="1005">
+         
+        <Page social="4">We're safer now, and you recovered the seed wealth we'll need to transform this region. Thank you, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="241" id="4" villagerId="1005">
+         
+        <Page social="0">We need those crests, &lt;PCNAME&gt;. It takes more than hopes to build a future.</Page>
+    
+    </Text>
+</QuestDialog>

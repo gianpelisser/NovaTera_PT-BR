@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="20" id="21" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="65" id="100" prevId="0" villagerId="1003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="65" id="2" prevId="0" villagerId="1003">
+         
+        <Page social="4">Você pode encontrar meu irmão? Ele saiu há alguns dias para buscar alguns materiais para a loja, mas não o vi mais. Seu nome é Pattek.&lt;BR&gt;&lt;BR&gt;Mais e mais aldeões estão sendo sequestrados, e eu só...&lt;BR&gt;&lt;BR&gt;Pode ir procurá-lo para mim?</Page>
+    
+    </Text>
+    <Text huntingZoneId="65" id="3" prevId="2" villagerId="1024">
+         
+        <Page social="0">(Uma caixa antiga tem "Pattek" inscrito nela. As pegadas ao redor da caixa levam às minas de Tenebrous).</Page>
+    
+    </Text>
+    <Text huntingZoneId="220" id="4" prevId="3" villagerId="1002">
+         
+        <Page social="0">Não posso... não há informações suficientes. Não sei o que aconteceu.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="63" voiceTypeId="0">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1600">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1600">
+         
+        <Page social="4">Olá! Nós nos comunicamos com muita frequência, posso conversar com você de uma forma mais familiar? Obrigado! Se você soubesse em que lugares terríveis essas malditas runas se encontram! O Temple of Balder é o último lugar em Arborea onde eu gostaria de ir... Mas, infelizmente, terei de ir... O guardião da relíquia Aurikardis tornou-se recentemente mais amargurado e incrivelmente forte! A runa Odal deve ser a fonte de seu poder, tenho 100% de certeza! Você pode me ajudar mais uma vez? Não é nem mesmo conveniente pedir mais, estou tão envergonhado da minha covardia...</Page>
+    
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1600">
+         
+        <Page social="4">Você me salvou novamente! Eu gostaria de lhe agradecer mais do que conversamos, mas com o que tenho... Não tenho permissão para desperdiçar moedas em grandes quantidades ...</Page>
+    
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="1600">
+         
+        <Page social="0">A runa Odal é uma runa sangrenta. Não quero tomá-la em minhas mãos, dado o perigo que ela traz...</Page>
+    
+    </Text>
+</QuestDialog>

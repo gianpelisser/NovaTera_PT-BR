@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="5" id="30" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="205" id="100" prevId="0" villagerId="1006">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="205" id="2" prevId="0" villagerId="1006">
+         
+        <Page social="5">Eles roubaram tudo. Tudo mesmo. Quando saíram, estavam remexendo em minha mercadoria e tirando vários dos adereços de cabeça. Aposto que você poderia pegá-los com os próprios {@LinkCreature:5#3#Tuwangi Workers}.&lt;BR&gt;&lt;BR&gt;Você acha que poderia pegá-los enquanto estiver procurando a bolsa?</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="3" prevId="2" villagerId="1006">
+         
+        <Page social="9">Oh, magnífico! Elas valem muito - eu teria tido dificuldade para comer por um tempo se você não as tivesse recuperado.&lt;BR&gt;&lt;BR&gt;Muito obrigado por sua ajuda.</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="4" villagerId="1006">
+         
+        <Page social="0">Por favor, pegue os acessórios de cabeça. Eles são o meu sustento. Não sei de onde virá minha próxima refeição se eu não os tiver.</Page>
+    
+    </Text>
+</QuestDialog>

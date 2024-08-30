@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="84" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="64" id="100" prevId="0" villagerId="1049">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="64" id="2" prevId="0" villagerId="1049">
+         
+        <Page social="4">Fighting is hard work, and even the deadliest combatant can be made weak through exhaustion. An exhausted comrade is a useless one!&lt;BR&gt;&lt;BR&gt;If you fight without periodically recharging at a campfire, your &lt;B&gt;Stamina&lt;/B&gt; worsens. And the worse your Stamina, the lower your maximum HP and MP.&lt;BR&gt;&lt;BR&gt;You can check your Stamina by hovering your cursor over the &lt;B&gt;heart-shaped icon&lt;/B&gt; near the top of the screen. Understood? &lt;NEXTPAGEBUTTON&gt;"Go on..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">I just put a &lt;font color='#660000'&gt;campfire&lt;/font&gt; in your bag. Right-click to use it, then stand nearby to recharge.&lt;BR&gt;&lt;BR&gt;&lt;font color='#660000'&gt;Stay at the fire until your Stamina reaches 120%&lt;/font&gt;, then talk to me again, and I'll explain more.</Page>
+    
+    </Text>
+    <Text huntingZoneId="64" id="3" prevId="2" villagerId="1049">
+         
+        <Page social="4">If you keep fighting without recharging at a campfire, your &lt;font color='#660000'&gt;Stamina&lt;/font&gt; worsens. And the worse your Stamina, the lower your maximum HP and MP.&lt;BR&gt;&lt;BR&gt;You can check your Stamina by putting your cursor over the &lt;font color='#660000'&gt;heart-shaped icon&lt;/font&gt; near the top of the screen. When the percentage gets low, it's time to recharge.</Page>
+    
+    </Text>
+</QuestDialog>

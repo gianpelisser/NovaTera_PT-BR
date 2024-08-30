@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="11" id="38" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="211" id="100" prevId="0" villagerId="1031">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="211" id="2" prevId="0" villagerId="1031">
+         
+        <Page social="4">Bem, seria mais fácil encontrar essa "pedra mágica" se soubéssemos mais sobre ela. E ela provavelmente chegou aqui em um navio, certo? &lt;BR&gt;&lt;BR&gt;Todos os navios da frota do Red Lash têm um diário de bordo. E quando os navios estão atracados, os {@LinkCreature:11#2001#companheiros de Red Lash} e seus subordinados, os {@LinkCreature:11#2005#perfuradores de Red Lash}, carregam os diários de bordo.&lt;BR&gt;&lt;BR&gt;Vamos nos desfazer dos diários de bordo e fazer uma pequena pesquisa.</Page>
+    
+    </Text>
+    <Text huntingZoneId="211" id="3" prevId="2" villagerId="1031">
+         
+        <Page social="4">Vejamos... "Pedra-vírgula-mágica..." Aqui está! &lt;BR&gt;&lt;BR&gt;Chegou aqui há cerca de um ano. É realmente grande - a única carga dessa viagem. E em todas as outras colunas, está escrito apenas "Dementalith. Veja o Capitão."&lt;BR&gt;&lt;BR&gt;Eu estava esperando por mais, francamente.</Page>
+    
+    </Text>
+    <Text huntingZoneId="211" id="4" villagerId="1031">
+         
+        <Page social="0">Esses diários de bordo são a chave. Eles nos dirão que tipo de pedra mágica devemos procurar. Obtenha os {@LinkCreature:11#2001#Companheiros do Red Lash} e os {@LinkCreature:11#2005#Furadores do Red Lash}.</Page>
+    
+    </Text>
+</QuestDialog>

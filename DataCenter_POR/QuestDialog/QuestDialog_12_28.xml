@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="12" id="28" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="62" id="100" prevId="0" villagerId="1018">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="62" id="2" prevId="0" villagerId="1018">
+         
+        <Page social="5">Saudações, &lt;PCNAME&gt;. Tenho uma missão especial para alguém com seus talentos.&lt;BR&gt;&lt;BR&gt;A Ilha de Mistmoor, a leste daqui... há relatos de piratas em terra. Não há muitas informações, e você sabe o que os chefes fazem quando não conseguem pensar em uma boa ideia? Eles nos enviam! &lt;BR&gt;&lt;BR&gt;Há uma força expedicionária da Espada de Kaia na ilha neste momento. Junte-se a eles e lide com esses corsários.</Page>
+    
+    </Text>
+    <Text huntingZoneId="212" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="4">Se você é de Cutthroat Harbor, isso deve significar que eles têm soldados de sobra. Sorte deles, eu acho.&lt;BR&gt;&lt;BR&gt;Bem, não vamos mandá-lo embora. É bom ter outro &lt;PCCLASS:lcase&gt; a bordo.</Page>
+    
+    </Text>
+</QuestDialog>

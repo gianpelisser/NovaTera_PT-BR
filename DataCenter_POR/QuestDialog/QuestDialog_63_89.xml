@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="63" id="89" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">[Agenda misteriosa]&lt;BR&gt;&lt;BR&gt;Se você quer viver sua vida de acordo com suas próprias regras, e não obedecer a fracos, {@LinkCreature:63#1260} espera por você em Velika.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="1260">
+         
+        <Page social="0">Vejo que você já tem algumas lutas em seu currículo.&lt;BR&gt;&lt;BR&gt;Se você tem a imprudência e a coragem de atacar quem quiser, quando quiser, fale com um homem chamado {@LinkCreature:63#1172} perto da Escola da Legião.&lt;BR&gt;&lt;BR&gt;Ele lhe dirá o que fazer em seguida.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="4" prevId="3" villagerId="1172">
+         
+        <Page social="0">As organizações de aplicação da lei e da ordem foram criadas por ovelhas para controlar os lobos. As ovelhas estão felizes com suas vidas. E você? &lt;NEXTPAGEBUTTON&gt;"E eu definitivamente não sou uma delas.".&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Então, agarre sua sorte pela cauda, meu amigo. Você pode usar a força se for necessário.&lt;BR&gt;&lt;BR&gt;Depois de ler a &lt;font color='#FF0000'&gt;Declaração do Fora da Lei&lt;/font&gt;, você pode escolher seu próprio caminho para o poder.&lt;BR&gt;&lt;BR&gt;Você estará fora da lei, lembre-se. Você pode atacar as pessoas, mas elas também podem atacar você. Os deuses protegem os verdadeiramente fracos, mas por que você se incomodaria com os fracos? &lt;NEXTPAGEBUTTON&gt;"Eu adoro desafios reais".&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Tenha cuidado, meu amigo, quanto mais você matar, maior a chance de irritar os deuses. A notoriedade se espalha rapidamente.&lt;BR&gt;&lt;BR&gt;Um sacrifício insignificante em troca de liberdade, na minha opinião.&lt;BR&gt;&lt;BR&gt;A escolha é sua...</Page>
+    
+    </Text>
+</QuestDialog>

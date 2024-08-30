@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="3" id="28" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="59" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="59" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="4">(Corann, parecendo realmente perturbado.)&lt;BR&gt;&lt;BR&gt;Uhm... Sobre Ohdi.... Acho que Ohdi passou a gostar muito de ossos de mortos-vivos enquanto estava hospedado lá. Ele não olhava para a comida que eu lhe dava.&lt;BR&gt;&lt;BR&gt;Então... eu estava pensando se você poderia me conseguir o máximo de ossos {@LinkCreature:3#16#Fallen Defenders} que puder. Tenho medo de que Ohdi saia de casa novamente se eu não conseguir esses ossos. E se ele desaparecer de novo, acho que não vou aguentar.... Por favor, me ajude.</Page>
+    
+    </Text>
+    <Text huntingZoneId="59" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="4">Em vida, eles nos serviram bem. Espero que encontrem uma nova paz na morte.&lt;BR&gt;&lt;BR&gt;Obrigado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="59" id="4" villagerId="1001">
+         
+        <Page social="0">Não estou pedindo que faça uma viagem especial. Você certamente enfrentará mortos-vivos mais do que o suficiente em seu tempo em Oblivion Woods.</Page>
+    
+    </Text>
+</QuestDialog>

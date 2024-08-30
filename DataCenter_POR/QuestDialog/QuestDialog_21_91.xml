@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="21" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="65" id="100" prevId="0" villagerId="1012">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="65" id="2" prevId="0" villagerId="1012">
+         
+        <Page social="0">&lt;BR&gt;&lt;BR&gt;Vamos matar {@LinkCreature:21#9#Crag Stalker ragers}, {@LinkCreature:21#10#crushers} e {@LinkCreature:21#5#prophets} e trazer seus braceletes para Nanarin nas Relíquias do Pilar de Pedra quando terminar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="221" id="3" prevId="2" villagerId="1048">
+         
+        <Page social="4">Bom trabalho ao silenciar a clamorosa tribo Crag Stalker. Sem eles, os kulkaris não têm mais ninguém para instigar a violência.</Page>
+    
+    </Text>
+    <Text huntingZoneId="221" id="4" villagerId="1048">
+         
+        <Page social="0">Sinto muito, mas você ainda não terminou sua missão.</Page>
+    
+    </Text>
+</QuestDialog>

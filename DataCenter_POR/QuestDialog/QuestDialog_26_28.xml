@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="26" id="28" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="226" id="100" prevId="0" villagerId="1009">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="226" id="2" prevId="0" villagerId="1009">
+         
+        <Page social="5">&lt;PCCLASS&gt;! Gostaria de falar com você por um momento.&lt;BR&gt;&lt;BR&gt;Preciso de alguém para realizar uma tarefa. Meus próprios deveres me mantêm preso ao meu diretor ou eu mesmo cuidaria disso. Você, por outro lado, está livre para agir.&lt;BR&gt;&lt;BR&gt;Caça e mate os {@LinkCreature:26#1003#ebon weavers}. Seja qual for o objetivo deles, impedi-lo beneficia a todos nós.</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="3" prevId="2" villagerId="1009">
+         
+        <Page social="5">Sou grato por sua assistência rápida e eficiente. É exatamente o tipo de ajuda de que eu precisava.&lt;BR&gt;&lt;BR&gt;Paramos por aqui, mas talvez eu possa retribuir esse favor no futuro.</Page>
+    
+    </Text>
+</QuestDialog>

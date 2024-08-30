@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="22" id="33" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="222" id="100" prevId="0" villagerId="1023">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="222" id="2" prevId="0" villagerId="1023">
+         
+        <Page social="5">Vi vários {@LinkCreature:22#18#aristocratas vampiros} perambulando pelos corredores. Eles não foram convidados para o festival e não posso deixar de me perguntar se tiveram algum papel nesse desastre! &lt;BR&gt;&lt;BR&gt;Os vampiros têm se mostrado perigosos recentemente. Não corra riscos e elimine-os.</Page>
+    
+    </Text>
+    <Text huntingZoneId="222" id="3" prevId="2" villagerId="1023">
+         
+        <Page social="5">Os Bruxos de Vadoma terão uma grande dívida com você quando isso terminar.&lt;BR&gt;&lt;BR&gt;Nossa tradição enfatiza nossa força coletiva, não a dependência de estranhos.&lt;BR&gt;&lt;BR&gt;Quando eles estiverem em seu juízo perfeito novamente, talvez repensemos essa postura.</Page>
+    
+    </Text>
+</QuestDialog>

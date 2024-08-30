@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="56" id="22" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="256" id="100" prevId="0" villagerId="1016">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="256" id="2" prevId="0" villagerId="1016">
+         
+        <Page social="4">Please! Oh, by all the gods! My wife was right behind me!&lt;BR&gt;&lt;BR&gt;The kulkari, th-they burned our farm. Two nights we've been running and hiding.&lt;BR&gt;&lt;BR&gt;We were almost here when the destroyers—&lt;BR&gt;&lt;BR&gt;I know she's alive! It was just minutes ago!&lt;BR&gt;&lt;BR&gt;Kill the destroyers! Get her back! Please, she's all I have!</Page>
+    
+    </Text>
+    <Text huntingZoneId="256" id="3" prevId="2" villagerId="1016">
+         
+        <Page social="4">Veora?&lt;BR&gt;&lt;BR&gt;Where is she?! You have to have found her! It's only been a few minutes!&lt;BR&gt;&lt;BR&gt;Can't you go back? She must be there, she must be!&lt;BR&gt;&lt;BR&gt;Veora!!!!</Page>
+    
+    </Text>
+</QuestDialog>

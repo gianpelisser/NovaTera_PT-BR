@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="10" id="38" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="210" id="100" prevId="0" villagerId="1106">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="210" id="2" prevId="0" villagerId="1106">
+         
+        <Page social="4">Aposto que todo mundo deste lado de Castanica tem lhe pedido para caçar predadores fora de controle, não é? Como o exército se foi e a maioria dos civis fugiu, eles estão correndo desenfreados.&lt;BR&gt;&lt;BR&gt;Distante de mim querer quebrar a sequência. No momento, {@LinkCreature:10#21#ebon sabertooths} são o inimigo público número um.&lt;BR&gt;&lt;BR&gt;Você sabe como é, &lt;PCCLASS:lcase&gt;. Vamos a isso!</Page>
+    
+    </Text>
+    <Text huntingZoneId="210" id="3" prevId="2" villagerId="1106">
+         
+        <Page social="4">Já de volta? Você tem praticado, isso é certo. Quase sinto pena dos dentes de sabre.&lt;BR&gt;&lt;BR&gt;Ou será que o plural é "dentes de sabre"? Nunca consigo me lembrar.</Page>
+    
+    </Text>
+</QuestDialog>

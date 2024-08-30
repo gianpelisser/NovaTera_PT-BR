@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="36" id="92" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="74" id="100" prevId="0" villagerId="1008">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="74" id="2" prevId="0" villagerId="1008">
+         
+        <Page social="5">Did you know that people love talking to me? Sometimes they show up for orders and we just talk and talk for hours! There must be something about me that people like to talk to for a really long time! I must be super interesting! Hey, do you like—&lt;BR&gt;&lt;BR&gt;What? Oh! Of course I've got orders for you, silly.&lt;BR&gt;&lt;BR&gt;You need to go hunt {@LinkCreature:36#11#vale hunter arachnens}. Super simple!&lt;BR&gt;&lt;BR&gt;You'll want to report to Naluria in Tor Exsul when you're done.</Page>
+    
+    </Text>
+    <Text huntingZoneId="236" id="3" prevId="2" villagerId="1007">
+         
+        <Page social="5">Great job. I'm sure Valkyon will highly value your hard work.</Page>
+    
+    </Text>
+    <Text huntingZoneId="236" id="4" villagerId="1007">
+         
+        <Page social="0">I know it isn't easy, but I can't give you anything until you complete the mission.</Page>
+    
+    </Text>
+</QuestDialog>

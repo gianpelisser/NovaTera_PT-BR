@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="49" id="35" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="49" id="100" prevId="0" villagerId="1006">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="49" id="2" prevId="0" villagerId="1006">
+         
+        <Page social="4">My friend, I wish to investigate the Casian Tree, but the path isn't safe. Might I prevail upon your combat skill to help me reach my destination?&lt;NEXTPAGEBUTTON&gt;"Of course."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Splendid. It's northwest of here. Let me know when you're ready to depart.</Page>
+    
+    </Text>
+    <Text huntingZoneId="49" id="3" villagerId="35">
+         
+        <Page social="0">Shall we?</Page>
+    
+    </Text>
+    <Text huntingZoneId="249" id="4" prevId="2" villagerId="1001">
+         
+        <Page social="6">Breathtaking, isn't it? Oh, and look—a small shrine.&lt;BR&gt;&lt;BR&gt;I suspect this investigation will prove most stimulating.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="39" id="33" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="239" id="100" prevId="0" villagerId="1015">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="239" id="2" prevId="0" villagerId="1015">
+         
+        <Page social="4">Did you know there's no known antidote for the bite of the {@LinkCreature:39#160#dreadfang arachnen}? I've just received orders to get venom samples—the federation wants to put some researchers on the task.&lt;BR&gt;&lt;BR&gt;I want you on this job, so if you're willing, bring me back some fangs. Should be plenty of venom in there.</Page>
+    
+    </Text>
+    <Text huntingZoneId="239" id="3" prevId="2" villagerId="1015">
+         
+        <Page social="4">Well done. I'll get these off to the federation scholars right away.&lt;BR&gt;&lt;BR&gt;This is a victory for all of us.</Page>
+    
+    </Text>
+    <Text huntingZoneId="239" id="4" villagerId="1015">
+         
+        <Page social="0">Every time one of those {@LinkCreature:39#160#dreadfang arachnens} bites one of our people, they die.&lt;BR&gt;&lt;BR&gt;There's not a lot of time to waste.</Page>
+    
+    </Text>
+</QuestDialog>

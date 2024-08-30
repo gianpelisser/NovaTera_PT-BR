@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="12" id="95" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="62" id="100" prevId="0" villagerId="1019">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="62" id="2" prevId="0" villagerId="1019">
+         
+        <Page social="0">We need to thin out the ranks of our enemies.&lt;BR&gt;&lt;BR&gt;Kill the {@LinkCreature:12#17#Red Lash marauders} around the slaver markets of Mistmoor Island.&lt;BR&gt;&lt;BR&gt;When you're finished, report to Taniel at Vindicator Outpost.</Page>
+    
+    </Text>
+    <Text huntingZoneId="212" id="3" prevId="2" villagerId="1005">
+         
+        <Page social="4">Keep up the good work, &lt;PCCLASS:lcase&gt;. For the federation!</Page>
+    
+    </Text>
+    <Text huntingZoneId="212" id="4" villagerId="1005">
+         
+        <Page social="0">Your targets are {@LinkCreature:12#17#Red Lash marauders}.&lt;BR&gt;&lt;BR&gt;I'm sorry, but you have not neutralized enough enemies to complete this mission.</Page>
+    
+    </Text>
+</QuestDialog>

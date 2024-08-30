@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="84" id="2" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">&lt;PCNAME&gt;! Mysterium's agent Legia has something to tell you in the camp of Saleron's Scholars. Go see her at your first opportunity.</Page>
+    
+    </Text>
+    <Text huntingZoneId="237" id="3" prevId="2" villagerId="1029">
+         
+        <Page social="4">The agent greets you, &lt;PCNAME&gt;, and delivers a message from the god Saleron himself.&lt;BR&gt;&lt;BR&gt;Recently, Salron has let us know that he wanted to see you, &lt;PCNAME&gt;. We don't know what the God plans to discuss with &lt;PCNAME&gt;. However, when a god calls a mortal by name, it is highly discouraged to ignore such a request.</Page>
+    
+    </Text>
+    <Text huntingZoneId="237" id="4" prevId="3" villagerId="1102">
+         
+        <Page social="4">Ah, &lt;PCNAME&gt;, of whose courage and nobility even I have heard. It seems my message has reached you?&lt;BR&gt;&lt;BR&gt;I called you here to give you a kind of gift. Don't think of it as a reward. Just know that one day, when I rise from this cold prison, I will need strong allies.&lt;BR&gt;&lt;BR&gt;In my opinion, you have a good chance of living up to that point.&lt;BR&gt;&lt;BR&gt;If one day the Valkyon Federation will rule the world, I will need an agent I can trust.</Page>
+    
+    </Text>
+</QuestDialog>

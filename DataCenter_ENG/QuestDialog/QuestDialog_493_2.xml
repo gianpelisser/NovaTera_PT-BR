@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="493" id="2" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">After a titanic battle, you slew Akasha, ending her threat to Allemantheia.&lt;BR&gt;&lt;BR&gt;Thulsa still plots and wages war against the mortal races, and the argons are still coming, but thanks to your efforts, the Valkyon Federation is ready to rise to any challenge!</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="5">Allemantheia will never be safe until Akasha lies dead.&lt;BR&gt;&lt;BR&gt;Get to Akasha's Hall and slay the goddess!</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="3" prevId="2" villagerId="1101">
+         
+        <Page social="5">Incredible, &lt;PCNAME&gt;! All the cross-continent chasing...all the near misses...they all weakened her just enough that you could deliver some mortal justice!&lt;BR&gt;&lt;BR&gt;Thulsa's still out there somewhere, scheming in the shadows and the argons keep marching on Kaiator, but those are problems for another day.&lt;BR&gt;&lt;BR&gt;Savor this moment, &lt;PCNAME&gt;. Your skill and courage changed the course of history. Our shared battles are perhaps the greatest honor my career has afforded.&lt;BR&gt;&lt;BR&gt;For Valkyon!</Page>
+    
+    </Text>
+</QuestDialog>

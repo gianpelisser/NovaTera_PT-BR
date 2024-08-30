@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="4" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="230" id="100" prevId="0" villagerId="1047">
+         
+        <Page social="0">Consos Chief {@Creature:230#1047$$Nandu} welcomed you as the long-awaited fulfillment of Balder's prophecy. He gave you the key to Balder's Temple, but warned you that your trials were just beginning.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="2" prevId="0" villagerId="1047">
+         
+        <Page social="1">"The Sun shall await two... Through might and wisdom, they will awaken a long-lost hope." Greetings, &lt;PCNAME&gt;. I've waited a long while to see you.&lt;BR&gt;&lt;BR&gt;My parents pushed me into the archive vaults when the god Balder died. His magic preserved us to serve his refuge and temple.&lt;BR&gt;&lt;BR&gt;Only the children survived that day.&lt;NEXTPAGEBUTTON&gt;"You saw Balder?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">I was a child, so my memories are vague. I remember he was often sad, but beautiful.&lt;BR&gt;&lt;BR&gt;I was too young to visit the temple, but I knew the ceremonies. You've earned this key.&lt;BR&gt;&lt;BR&gt;When you are ready, go see {@LinkCreature:230#1074$$Botak}. He'll show you the entrance. Good luck.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="3" prevId="2" villagerId="1074">
+         
+        <Page social="1">The key! At last.&lt;BR&gt;&lt;BR&gt;The temple entrance is in the grotto behind me. Inside the temple, you will face its {@LinkCreature:425#8005#guardian}.&lt;BR&gt;&lt;BR&gt;I don't know anything more—I'm sorry.</Page>
+    
+    </Text>
+</QuestDialog>

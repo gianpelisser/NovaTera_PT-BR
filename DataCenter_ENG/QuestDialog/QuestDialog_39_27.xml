@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="39" id="27" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="239" id="100" prevId="0" villagerId="1024">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="239" id="2" prevId="0" villagerId="1024">
+         
+        <Page social="4">It's the {@LinkCreature:39#110#guardian ovoliths} that really make me shudder. Can you hear them? I can. Even when I'm asleep.&lt;BR&gt;&lt;BR&gt;I can't go out there and kill them, but I'd reward the one who would.&lt;BR&gt;&lt;BR&gt;Bring me their hearts so I know they're dead.</Page>
+    
+    </Text>
+    <Text huntingZoneId="239" id="3" prevId="2" villagerId="1024">
+         
+        <Page social="4">Every heart means one fewer of them.&lt;BR&gt;&lt;BR&gt;Maybe I'll be able to dream of something else now. Take this in thanks.</Page>
+    
+    </Text>
+    <Text huntingZoneId="239" id="4" villagerId="1024">
+         
+        <Page social="0">Have you killed the {@LinkCreature:39#110#guardian ovoliths}? Do any still live?</Page>
+    
+    </Text>
+</QuestDialog>

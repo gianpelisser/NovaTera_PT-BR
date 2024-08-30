@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="54" id="21" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="79" id="100" prevId="0" villagerId="1041">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="79" id="2" prevId="0" villagerId="1041">
+         
+        <Page social="4">Você é da federação? Você ajudará as mandrágoras? Você ajudará os fey?&lt;BR&gt;&lt;BR&gt;Você pode falar com Pedicel?&lt;BR&gt;&lt;BR&gt;Você pode salvar Seeliewood?</Page>
+    
+    </Text>
+    <Text huntingZoneId="79" id="3" prevId="2" villagerId="1042">
+         
+        <Page social="5">Você é corajoso? Você é forte? &lt;BR&gt;&lt;BR&gt;A deusa Isren não encarregou os fey de proteger a natureza contra a corrupção? &lt;BR&gt;&lt;BR&gt;Onde estão nossos aliados da federação quando os fey precisam de ajuda? &lt;BR&gt;&lt;BR&gt;Você pegará este pergaminho e se juntará à luta em Seeliewood?</Page>
+    
+    </Text>
+    <Text huntingZoneId="81" id="4" prevId="3" villagerId="1028">
+         
+        <Page social="4">Você já viu um lugar tão bonito? Você não gostaria de ajudar a preservá-lo?</Page>
+    
+    </Text>
+</QuestDialog>

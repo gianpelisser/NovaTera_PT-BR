@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="191" id="8" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="191" id="100" prevId="0" villagerId="2124">
+         
+        <Page social="0">&lt;PCNAME&gt; atravessou o Infernal Span e destruiu os canhões de cerco que protegiam Trellum Consurgo. Depois de varrer os defensores da Guarda da Fúria, &lt;PCNAME&gt; juntou-se a Rhodos para pressionar o ataque.</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="2" prevId="0" villagerId="2124">
+         
+        <Page social="4">Não podemos tomar a fortaleza a menos que silenciemos as armas no topo da muralha. Para fazer isso, precisamos chegar até eles, mas o fogo cruzado deles esmagará qualquer ataque.&lt;BR&gt;&lt;BR&gt;Se o seu povo mágico não pode salvar os demokons, eles podem nos proteger?</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="3" prevId="2" villagerId="2126">
+         
+        <Page social="4">Essa bebida deve protegê-lo contra o pior da explosão. Não será perfeito, é claro, mas você deve sobreviver.&lt;BR&gt;&lt;BR&gt;Mas tente não perder tempo depois de beber.</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="4" prevId="3" villagerId="2127">
+         
+        <Page social="4">&lt;PCNAME&gt;, lá embaixo! &lt;BR&gt;&lt;BR&gt;Os arquideuses não percebem que entramos! Agora é a nossa chance de pegá-los desprevenidos!</Page>
+    
+    </Text>
+    <Text huntingZoneId="191" id="5" prevId="4" villagerId="2118">
+         
+        <Page social="4">Nossas perdas não foram tão pesadas quanto eu temia. Muito bem. &lt;BR&gt;&lt;BR&gt;Estão prontos para acabar com isso?</Page>
+    
+    </Text>
+</QuestDialog>

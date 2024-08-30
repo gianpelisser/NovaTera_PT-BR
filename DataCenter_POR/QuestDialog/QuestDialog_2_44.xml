@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="2" id="44" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="202" id="100" prevId="0" villagerId="1032">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="202" id="2" prevId="0" villagerId="1032">
+         
+        <Page social="4">Volos decidiu enviar Himir para a cidade de Lumbertown como emissário das fadas.&lt;BR&gt;&lt;BR&gt;Isso é uma boa notícia, exceto por uma coisa - Himir é uma boa embaixadora, mas um péssimo soldado, e as fadas rebeldes estão fadadas a emboscá-la pelo caminho.&lt;BR&gt;&lt;BR&gt;Himir tem alguns preparativos a fazer, então posso poupar seu tempo e enviá-lo à frente para o Caminho da Floresta. Ela estará segura o suficiente em seu caminho até lá.</Page>
+    
+    </Text>
+    <Text huntingZoneId="2" id="3" villagerId="44">
+         
+        <Page social="0">Fique atento, amigo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="490" id="4" prevId="2" villagerId="1003">
+         
+        <Page social="4">Graças aos deuses, vocês chegaram bem! &lt;BR&gt;&lt;BR&gt;Tenho certeza de que Himir será uma ótima emissária. Ela estará segura aqui sob nossa proteção.&lt;BR&gt;&lt;BR&gt;Você fez um trabalho maravilhoso aqui hoje, &lt;PCNAME&gt;. Fale comigo quando estiver pronto para voltar ao Lago das Fadas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="202" id="5" prevId="4" villagerId="1032">
+         
+        <Page social="4">Himir está a salvo! Pelo nome de Isren, isso é uma boa notícia! &lt;BR&gt;&lt;BR&gt;Tenho certeza de que as negociações levarão tempo. Muito sangue foi derramado por todos os lados.&lt;BR&gt;&lt;BR&gt;Mas se você já se perguntou se poderia fazer alguma diferença aqui... não se pergunte mais, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+</QuestDialog>

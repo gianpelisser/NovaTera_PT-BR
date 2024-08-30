@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="56" id="31" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="256" id="100" prevId="0" villagerId="1008">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="256" id="2" prevId="0" villagerId="1008">
+         
+        <Page social="4">Não me importa o que esses cabeças de galinha querem. Nenhum objetivo vale isso.&lt;BR&gt;&lt;BR&gt;Não quero apenas que eles sejam detidos. Quero que sejam punidos!&lt;BR&gt;&lt;BR&gt;Quero que torçam o pescoço de todos os mekonari que encontrarem entre aqui e o Campo Umbra. Não é pior do que o que eles fizeram conosco!</Page>
+    
+    </Text>
+    <Text huntingZoneId="256" id="3" prevId="2" villagerId="1010">
+         
+        <Page social="4">Bem, é bom que você tenha reduzido a força de combate deles, mas parece que Denmar está vindo sem solda. É uma pena. Ele era um ótimo oficial.&lt;BR&gt;&lt;BR&gt;Este lugar, e o que Killian está fazendo com os mekonaris? Isso está afetando a todos nós.</Page>
+    
+    </Text>
+</QuestDialog>

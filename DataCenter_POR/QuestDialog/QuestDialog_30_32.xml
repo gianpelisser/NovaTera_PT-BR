@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="32" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="230" id="100" prevId="0" villagerId="1016">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="230" id="2" prevId="0" villagerId="1016">
+         
+        <Page social="1">Veja! A mortalha de amortecimento!&lt;BR&gt;&lt;BR&gt;O risco de eletrocussão aumenta significativamente quando a vítima está molhada. É aí que entra a mortalha. Ela o deixa seco... e seguro! &lt;BR&gt;&lt;BR&gt;Suas fibras superfinas são tecidas a partir dos pelos das preguiças. Uma contagem de fios incrivelmente alta, graças à minha tecelagem arcana.&lt;BR&gt;&lt;BR&gt;Devo exibi-la para meus clientes, certo? &lt;BR&gt;&lt;BR&gt;Você pode levar a mortalha para o {@LinkCreature:230#1017#mineiro itinerante novato}? Mostre a ele seu esplendor e receba seus elogios - para mim.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="3" prevId="2" villagerId="1017">
+         
+        <Page social="1">O quê? {@LinkCreature:230#1016$$Leshoff} disse que eu iria querer isso?&lt;BR&gt;&lt;BR&gt;Olha, eu posso, de vez em quando, lidar com, hum, "conexões mercantis autônomas" com Allemantheia, mas Leshoff é louco!&lt;BR&gt;&lt;BR&gt;Você entendeu, certo? Ele está no meio do nada fazendo toalhas - ah, desculpe, "mortalhas" - com pele de preguiça. Você não pode me dizer que isso é sensato.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="4" villagerId="1017">
+         
+        <Page social="0">Essa é uma história e tanto. Eles me alertaram sobre Leshoff. Mas não tenho certeza se "louco" é uma descrição forte o suficiente.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="5" prevId="3" villagerId="1016">
+         
+        <Page social="1">Você contou a eles sobre a mortalha de amortecimento e eles ousaram questionar minha sanidade? &lt;BR&gt;&lt;BR&gt;Somos almas gêmeas, você e eu. Destinados à grandeza, mas incompreendidos pelas massas não lavadas.&lt;BR&gt;&lt;BR&gt;Por falar em não lavadas, eu deveria tomar um banho logo e testar essa mortalha em campo! Para a ciência!</Page>
+    
+    </Text>
+</QuestDialog>

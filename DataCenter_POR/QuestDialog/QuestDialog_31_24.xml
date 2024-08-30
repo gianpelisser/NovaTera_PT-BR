@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="31" id="24" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="231" id="100" prevId="0" villagerId="1018">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="231" id="2" prevId="0" villagerId="1018">
+         
+        <Page social="4">Mansur está reconstruindo muitas das casas que a tempestade destruiu, mas, como você pode ver, as árvores não crescem tão bem por aqui.&lt;BR&gt;&lt;BR&gt;Ele precisa de ajuda para coletar madeira utilizável das construções danificadas.&lt;NEXTPAGEBUTTON&gt;"Eu posso fazer isso."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Você pode encontrar muita madeira não utilizada e sucata ao redor da casa abandonada perto de Frost Wastes. Ela ainda deve estar sólida se você simplesmente derrubar o gelo.&lt;BR&gt;&lt;BR&gt;Espero que haja o suficiente para Mansur terminar seu trabalho - todos nós gostaríamos que nossas vidas voltassem ao normal.</Page>
+    
+    </Text>
+    <Text huntingZoneId="231" id="3" prevId="2" villagerId="1016">
+         
+        <Page social="4">Você tem minha madeira? &lt;BR&gt;&lt;BR&gt;Bah! O gelo atravessa todo o caminho. Teremos sorte se metade dela aguentar. Assim como todos os outros pedaços de madeira deste lugar.&lt;BR&gt;&lt;BR&gt;Bem, não desperdice, não queira. Sorte que eu sou o melhor carpinteiro de Westonia.</Page>
+    
+    </Text>
+    <Text huntingZoneId="231" id="4" villagerId="1016">
+         
+        <Page social="0">Você recebeu minha madeira?</Page>
+    
+    </Text>
+</QuestDialog>

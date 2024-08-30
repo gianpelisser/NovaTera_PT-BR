@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="46" id="24" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="246" id="100" prevId="0" villagerId="1024">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="246" id="2" prevId="0" villagerId="1024">
+         
+        <Page social="4">Os argons estavam fazendo algum tipo de pesquisa botânica aqui. Não sabemos no que eles estavam trabalhando, mas sabemos de uma coisa: eles eram grandes.&lt;BR&gt;&lt;BR&gt;Também encontramos alguns recipientes semelhantes a frascos. Tragam-me o que estiver dentro deles, mas cuidado com os argonss grandes.</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="3" prevId="2" villagerId="1024">
+         
+        <Page social="4">Esse conteúdo confirma que os argons estavam fazendo pesquisa botânica aqui.&lt;BR&gt;&lt;BR&gt;Se eu conseguir duplicar a metodologia deles, talvez possamos descobrir o que os argons estavam tentando fazer.&lt;BR&gt;Próxima parada para você: a câmara Hexheart. Fale com Beranie.</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="4" villagerId="1024">
+         
+        <Page social="0">Os kulkaris argonomorfos tentarão impedi-lo. Obviamente, eles são muito mais mortais do que os kulkaris comuns, mas não desista! Pegue essas amostras de plantas!</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="5" prevId="3" villagerId="1026">
+         
+        <Page social="4">Você veio aqui a pedido de {@Creature:246#1024$$Platanok}? Estou surpreso que ele tenha soldados de sobra. No entanto, posso usar sua ajuda.</Page>
+    
+    </Text>
+</QuestDialog>

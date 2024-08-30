@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="45" id="26" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="245" id="100" prevId="0" villagerId="1013">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="245" id="2" prevId="0" villagerId="1013">
+         
+        <Page social="4">Temos aqui uma oportunidade única de saber o que faz os argonss funcionarem. Há outra bolha, e mais daquelas {@Creature:45#7003#spires}, no pântano a noroeste. Dê uma olhada nelas e traga alguns fragmentos. Vou compará-los com os outros.&lt;BR&gt;&lt;BR&gt;Se você vir o líder argonomorfo tuwangi enquanto estiver lá, acabe com ele.</Page>
+    
+    </Text>
+    <Text huntingZoneId="245" id="3" prevId="2" villagerId="1013">
+         
+        <Page social="5">Obrigado a você. Tudo correu bem? &lt;NEXTPAGEBUTTON&gt;"Um tuwangi me chamou de intruso."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Intruso, hein? &lt;BR&gt;&lt;BR&gt;Então, talvez as torres sejam um alarme de algum tipo. A federação poderia usar algo assim.&lt;BR&gt;&lt;BR&gt;Os tuwangis estão protegendo as torres. Espero que matar o líder faça com que os outros se dispersem para que possamos investigar mais.</Page>
+    
+    </Text>
+    <Text huntingZoneId="245" id="4" villagerId="1013">
+         
+        <Page social="0">Preciso de pedaços dessas torres de controle do pântano do noroeste.</Page>
+    
+    </Text>
+</QuestDialog>

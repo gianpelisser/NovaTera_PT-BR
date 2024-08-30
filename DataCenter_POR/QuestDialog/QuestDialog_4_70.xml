@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="70" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="4">Ordens da missão&lt;BR&gt;&lt;BR&gt;As Terras Altas de Brimstone estão repletas de inimigos e predadores.&lt;BR&gt;&lt;BR&gt;Destrua qualquer {@LinkCreature:4#1031#sooty sporewalkers}, {@LinkCreature:4#1032#smoldering ghilliedhus}, {@LinkCreature:4#1041#ashstalker wolves}, {@LinkCreature:4#1051#golens de guerra devanos}, {@LinkCreature:4#1052#protetores devanos caídos}, {@LinkCreature:4#1061#cavaleiros das trevas devanos} e {@LinkCreature:4#1062#infantaria devana em ascensão}.&lt;BR&gt;&lt;BR&gt;Apresentar a Keinie no Posto Avançado do Caldeirão quando a missão estiver concluída.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="3" prevId="2" villagerId="0">
+         
+        <Page social="4">Você recebeu os agradecimentos da federação. Sua guilda é uma inspiração para todos!</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="4" villagerId="0">
+         
+        <Page social="0">Parece que você ainda não completou sua missão.</Page>
+    
+    </Text>
+</QuestDialog>

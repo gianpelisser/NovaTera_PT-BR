@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="25" id="35" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="225" id="100" prevId="0" villagerId="1027">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="225" id="2" prevId="0" villagerId="1027">
+         
+        <Page social="4">Tenho uma missão altamente confidencial para você. Preciso que você encontre uma pessoa: Jacobi.&lt;NEXTPAGEBUTTON&gt;"Onde posso encontrá-lo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Está vendo o canal do lado de fora? Há uma passagem secreta ao lado dele. Ele está se escondendo lá. Seja discreto.</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="3" prevId="2" villagerId="1028">
+         
+        <Page social="4">Rendalf o enviou? Você deve estar aqui para ajudar na minha investigação. Eu estava esperando por alguém.</Page>
+    
+    </Text>
+</QuestDialog>

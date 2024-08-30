@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="16" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="67" id="100" prevId="0" villagerId="1015">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="67" id="2" prevId="0" villagerId="1015">
+         
+        <Page social="0">I'll keep it simple. Eliminate the vampirs in Forsaken Fields.&lt;BR&gt;&lt;BR&gt;Kill {@LinkCreature:16#2301#blood maids} and {@LinkCreature:16#2302#blood lords}.&lt;BR&gt;&lt;BR&gt;Report to Leola when your mission is complete.</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="3" prevId="2" villagerId="1007">
+         
+        <Page social="5">Good work. Very good!&lt;BR&gt;&lt;BR&gt;Take this.</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="4" villagerId="1007">
+         
+        <Page social="0">No fangs? No payment.</Page>
+    
+    </Text>
+</QuestDialog>

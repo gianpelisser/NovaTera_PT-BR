@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="471" id="92" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="471" id="100" prevId="0" villagerId="1011">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="471" id="2" prevId="0" villagerId="1011">
+         
+        <Page social="0">Ordens da missão&lt;BR&gt;&lt;BR&gt;Eliminar os seres purgatórios na Tumba do Necromante.&lt;BR&gt;&lt;BR&gt;Destrua os {@LinkCreature:471#3#ebonheart inquisitors}, {@LinkCreature:471#7#eldritch blood knights}, {@LinkCreature:471#900#vengeful shades}, {@LinkCreature:471#1#relentless disc reapers} e {@LinkCreature:471#901#sawtooth reapers}.&lt;BR&gt;&lt;BR&gt;Relate a Valona quando a missão estiver concluída.</Page>
+    
+    </Text>
+    <Text huntingZoneId="471" id="3" prevId="2" villagerId="1011">
+         
+        <Page social="5">Excelente trabalho. Por favor, continue nos ajudando a erradicar totalmente esses monstros horrendos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="471" id="4" villagerId="1011">
+         
+        <Page social="0">A Tumba do Necromante deve ser completamente subjugada. Isso significa você, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+</QuestDialog>

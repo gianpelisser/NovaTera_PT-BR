@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="26" id="31" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="226" id="100" prevId="0" villagerId="1011">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="226" id="2" prevId="0" villagerId="1011">
+         
+        <Page social="5">Ancient guardians bar the way of progress. Their task is noble but time hasn't been kind to them. They damage the very thing they were charged to protect.&lt;BR&gt;&lt;BR&gt;If we're to understand and harness the Fountain of Shara, the {@LinkCreature:26#3001#soulkeepers} and {@LinkCreature:26#3002#hallowed sentinels} must be destroyed. This task falls to you.</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="3" prevId="2" villagerId="1011">
+         
+        <Page social="5">Don't grieve their loss. They weren't sentient in the least, merely loyal to their orders.&lt;BR&gt;&lt;BR&gt;Perhaps now we can understand the extraordinary properties of the fountain—and perhaps turn them to our own needs.</Page>
+    
+    </Text>
+</QuestDialog>

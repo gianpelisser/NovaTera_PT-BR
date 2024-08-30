@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="29" id="30" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="229" id="100" prevId="0" villagerId="1008">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="229" id="2" prevId="0" villagerId="1008">
+         
+        <Page social="5">Um grupo de humanóides estranhos foi visto recentemente. Não se sabe ao certo seu envolvimento com os assuntos daqui, mas eles são definitivamente hostis.&lt;BR&gt;&lt;BR&gt;Devemos conhecer seus objetivos e mestres. Derrote os {@LinkCreature:29#4011#Lokian battleragers}, os {@LinkCreature:29#4012#Lokian warpriests}, os {@LinkCreature:29#4021#Lokian deathreapers} e os {@LinkCreature:29#4022#Lokian warmages} e traga de volta quaisquer pistas que possam identificar para quem eles estão trabalhando.</Page>
+    
+    </Text>
+    <Text huntingZoneId="229" id="3" prevId="2" villagerId="1008">
+         
+        <Page social="5">Esse dispositivo não é familiar. Os lokianos podem ter trabalhado para si mesmos, mas isso parece improvável. Enviarei relatórios e desenhos para os Justicars e os Vanguards. Talvez eles tenham se deparado com ele em seu mundo sombrio.&lt;BR&gt;&lt;BR&gt;Sua execução foi impecável, &lt;PCNAME&gt;. Muito bem feito.</Page>
+    
+    </Text>
+    <Text huntingZoneId="229" id="4" villagerId="1008">
+         
+        <Page social="0">Certamente há alguma pista sobre sua origem ou seus empregadores. Os lokianos são frequentemente vendidos a quem paga mais. Alguém pagou bem para usá-los contra nós. Devemos descobrir quem foi.</Page>
+    
+    </Text>
+</QuestDialog>

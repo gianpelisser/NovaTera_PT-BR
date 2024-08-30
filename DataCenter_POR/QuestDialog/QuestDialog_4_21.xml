@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="21" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="61" id="100" prevId="0" villagerId="1016">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="61" id="2" prevId="0" villagerId="1016">
+         
+        <Page social="4">Horrores mortos-vivos tomaram as minas de Fyrmount. &lt;BR&gt;&lt;BR&gt;Essas minas fornecem importante material de guerra para a federação. Vá até o Posto Avançado de Cauldron e veja se você pode ajudar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="4">É sempre bom ver os reforços de Castanica.&lt;BR&gt;&lt;BR&gt;Fale com Keinie. Ela tem uma cabeça melhor para organizar do que eu. Sou mais do tipo de garota que "quebra as coisas".</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="4" prevId="3" villagerId="1002">
+         
+        <Page social="4">Se você consegue matar mortos-vivos - sim, eu sei, eles já estão mortos, tanto faz - então posso colocá-lo para trabalhar.&lt;BR&gt;&lt;BR&gt;Nome? &lt;PCNAME&gt;? Como se escreve isso? &lt;BR&gt;&lt;BR&gt;Tenho. Agora, torne-se útil!</Page>
+    
+    </Text>
+</QuestDialog>

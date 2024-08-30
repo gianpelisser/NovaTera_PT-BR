@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="15" id="22" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="215" id="100" prevId="0" villagerId="1023">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="215" id="2" prevId="0" villagerId="1023">
+         
+        <Page social="5">Oh, Adru é mais divertido do que um orcano em chamas.&lt;BR&gt;&lt;BR&gt;Mas ele tem razão - há {@LinkCreature:15#14#algo dentuço} por aí... entrou sorrateiramente no acampamento e deu uma mordida em Tetrask.&lt;BR&gt;&lt;BR&gt;É preciso muito para me abalar, mas eles se moveram... errado.&lt;BR&gt;&lt;BR&gt;Eu sou tudo o que há entre essas coisas e o ensopado de erudito! Gostaria de dissuadi-los um pouco?</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="3" prevId="2" villagerId="1023">
+         
+        <Page social="5">Bom trabalho. Você é quase bom o suficiente para ser um membro da guarda do reino. Continue com seu bom trabalho!</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="4" villagerId="1023">
+         
+        <Page social="0">Você matou aquelas {@LinkCreature:15#14#coisas dentuças e escorregadias}?</Page>
+    
+    </Text>
+</QuestDialog>

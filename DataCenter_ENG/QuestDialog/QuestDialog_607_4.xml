@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="607" id="4" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="72" id="100" prevId="0" villagerId="1703">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="72" id="2" prevId="0" villagerId="1703">
+         
+        <Page social="4">Lethaniel in Elenea is also a member of our Unified Theory Institute, and he needs magic paper, too.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, you're better equipped for a journey than I am. I have my research, you know.</Page>
+    
+    </Text>
+    <Text huntingZoneId="74" id="3" prevId="2" villagerId="1019">
+         
+        <Page social="4">Ah, reams of magic paper! I had no idea you worked with the Unified Theory Institute, &lt;PCNAME&gt;. They're keeping you busy, I trust?</Page>
+    
+    </Text>
+</QuestDialog>

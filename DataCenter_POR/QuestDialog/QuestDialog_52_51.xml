@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="51" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="252" id="100" prevId="0" villagerId="1042">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="252" id="2" prevId="0" villagerId="1042">
+         
+        <Page social="4">Muitos de nossos colegas morreram durante o ataque de Thulsa, e não houve tempo suficiente para levar os corpos dos mortos conosco. A única coisa que pude fazer foi reunir os chifres de nossos companheiros mortos em túmulos de chifres.&lt;BR&gt;&lt;BR&gt;Agora desejo devolver os chifres de meus amigos às suas famílias. Retire os chifres da sepultura e traga-os para mim.</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="3" prevId="2" villagerId="1042">
+         
+        <Page social="4">Obrigado. Finalmente, os chifres voltarão para o lugar a que pertencem.&lt;BR&gt;&lt;BR&gt;Kebal, Duka e todos vocês... Assim que recuperarmos o solo sagrado, eu mesmo levarei seus chifres para as criptas de suas famílias. Isso eu juro.</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="4" villagerId="1042">
+         
+        <Page social="0">Quero devolver os chifres de meus amigos para suas famílias.</Page>
+    
+    </Text>
+</QuestDialog>

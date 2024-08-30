@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="54" id="38" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="254" id="100" prevId="0" villagerId="1037">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="254" id="2" prevId="0" villagerId="1037">
+         
+        <Page social="4">Precisamos levar alguém para dentro do jardim e impedir que os argons consigam pegar o Everbloom! &lt;BR&gt;&lt;BR&gt;Fale rapidamente com Doran, no entanto - o Mysterium tem algo que, segundo eles, vai ajudá-lo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="254" id="3" prevId="2" villagerId="1010">
+         
+        <Page social="4">&lt;PCNAME&gt;, o Mysterium está muito interessado em saber como os argons penetraram no jardim de Isren.&lt;BR&gt;&lt;BR&gt;Pegue este dispositivo de monitoramento e leve-o com você para dentro. Ele dará aos pesquisadores daqui informações sobre os argons que você encontrar.&lt;BR&gt;&lt;BR&gt;Dessa forma, se tivermos que enviar outra equipe...&lt;BR&gt;&lt;BR&gt;Oh! Tenho certeza de que você se sairá bem.</Page>
+    
+    </Text>
+    <Text huntingZoneId="254" id="4" prevId="3" villagerId="1037">
+         
+        <Page social="4">Você está pronto? A entrada está à frente, à esquerda.&lt;BR&gt;&lt;BR&gt;Se você conseguir acompanhar, eu o guiarei até lá. Tente não se perder.</Page>
+    
+    </Text>
+    <Text huntingZoneId="254" id="5" prevId="4" villagerId="1039">
+         
+        <Page social="4">Você conseguiu! Este teletransporte e sua chave o levarão para dentro do jardim.&lt;BR&gt;&lt;BR&gt;Posso ver que o caminho está livre para você logo após a entrada, mas os problemas estão logo depois disso.&lt;BR&gt;&lt;BR&gt;Estamos contando com você, &lt;PCCLASS:lcase&gt;. Encontre e destrua o que quer que os argonss tenham enviado para lá.</Page>
+    
+    </Text>
+    <Text huntingZoneId="254" id="6" prevId="5" villagerId="1037">
+         
+        <Page social="4">Doran e eu estávamos monitorando você, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Estou tão aliviado em saber que o jardim e o Everbloom estão a salvo.&lt;BR&gt;&lt;BR&gt;Sabe quem mais ficará animado com essa notícia? Tanseril em Scythera Fae. Vá lhe contar!</Page>
+    
+    </Text>
+    <Text huntingZoneId="81" id="7" prevId="6" villagerId="1028">
+         
+        <Page social="4">Você salvou não apenas um memorial sagrado para nossa deusa, mas a fonte da magia feérica.&lt;BR&gt;&lt;BR&gt;Não consigo nem imaginar o que teria acontecido a Seeliewood, ou a Shara, se você não tivesse detido os argons. Você consegue imaginar? &lt;BR&gt;&lt;BR&gt;Esperemos que nunca tenhamos que descobrir.</Page>
+    
+    </Text>
+</QuestDialog>

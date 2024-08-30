@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="603" id="6" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="76" id="100" prevId="0" villagerId="3001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="76" id="2" prevId="0" villagerId="3001">
+         
+        <Page social="4">Recebi um pedido de sua presença na {@Rgn:50003$$Helkir Grotto}.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:250#3002#Sunkuvil} diz que os observadores prismáticos estão se aglomerando novamente.</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="3" prevId="2" villagerId="3002">
+         
+        <Page social="4">Obrigado por ter vindo, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Os {@LinkCreature:50#9#prismar watchers} devem estar surgindo. Eles estão invadindo uma área à qual meus protegidos da federação precisam ter acesso. Quer registrar alguns?</Page>
+    
+    </Text>
+    <Text huntingZoneId="250" id="4" prevId="2" villagerId="3002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="250" id="5" prevId="2" villagerId="3002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="250" id="6" prevId="2" villagerId="3002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="250" id="7" prevId="2" villagerId="3002">
+         
+        <Page social="4">Acho que os argons trouxeram aqueles observadores para cá só para nos frustrar.&lt;BR&gt;&lt;BR&gt;Obrigado por tê-los afastado.</Page>
+    
+    </Text>
+</QuestDialog>

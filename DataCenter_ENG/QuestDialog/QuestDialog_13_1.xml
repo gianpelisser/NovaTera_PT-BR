@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="213" id="100" prevId="0" villagerId="1105">
+         
+        <Page social="0">The Valkyon Federation has mostly pulled out of the Island of Dawn, but a few unlucky folks are left behind, trying to clean up what little mess remains. They asked if you'd help them so they could speed up their exit, and you accepted.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="2" prevId="0" villagerId="1105">
+         
+        <Page social="4">I don't know why they sent you here. Honestly, it might have been a joke. That's what this place is now.&lt;BR&gt;&lt;BR&gt;You may as well check in with Legate &lt;font color='#660000'&gt;Lam&lt;/font&gt; now that you're here, though. You can help us wrap up.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="3" prevId="2" villagerId="1014">
+         
+        <Page social="4">Well, now that you're here, we may as well put you to work. We could use some help getting this place cleared out.&lt;BR&gt;&lt;BR&gt;I could have told you from the start that the federation wasn't going to be able to hold it together. All that unity crap was just talk.&lt;BR&gt;&lt;BR&gt;You ready to help us get out of here?</Page>
+    
+    </Text>
+</QuestDialog>

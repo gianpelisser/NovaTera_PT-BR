@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="49" id="22" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="76" id="100" prevId="0" villagerId="1016">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="76" id="2" prevId="0" villagerId="1016">
+         
+        <Page social="4">Ei! Tem um minuto? Eu gostaria de conversar com você.</Page>
+    
+    </Text>
+    <Text huntingZoneId="76" id="3" prevId="2" villagerId="1016">
+         
+        <Page social="4">Obrigado. Muitos soldados não dão a mínima para os civis. Eu só quero saber o que está acontecendo.&lt;NEXTPAGEBUTTON&gt;"Como posso ajudar?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Quando os argonss nos atingiram, tememos por Kaiator. Eles a saquearam? &lt;NEXTPAGEBUTTON&gt;"Não, Kaiator ainda está de pé."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Que alívio. Sem acesso ao Kaiator, nunca sobreviveríamos. Não recebemos nenhuma remessa de suprimentos há semanas. Estamos aguentando, mas os aldeões temem uma morte dolorosa por inanição."&lt;NEXTPAGEBUTTON&gt;"Vamos fazer com que os voos de suprimentos voltem a circular."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Obrigado. Os malditos argons não apreciam a necessidade de refeições regulares e uísque de fogo.&lt;BR&gt;&lt;BR&gt;No entanto, eles definitivamente estão armazenando alguma coisa. Vimos os grandes argonss transportando essas... coisas brilhantes... para a Espiral de Cyasma.&lt;NEXTPAGEBUTTON&gt;"O que há nessa Espiral?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Ninguém sabe, mas ouvi Celtan mencionar que o cyasma é como sangue de argons e alimento - tudo em um só.&lt;NEXTPAGEBUTTON&gt;"Já suspeitávamos disso."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Não somos covardes, mas não podemos ferir os argons. A maioria de nós é simples artesãos ou comerciantes.&lt;BR&gt;&lt;BR&gt;Não somos páreo para esses argonss vermelhos - nem para a rainha deles.&lt;NEXTPAGEBUTTON&gt;"Você disse rainha?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Sim. Ceidos a chamou de "Shandra Manaya". Não sei de onde ele ouviu isso.&lt;BR&gt;&lt;BR&gt;A única coisa que sei é que começamos a ver esses argonss vermelhos - e eles são muito mais fortes do que os azuis. Se você lutar com eles, tome cuidado.</Page>
+    
+    </Text>
+</QuestDialog>

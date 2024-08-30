@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="55" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">Elleon relatou seu progresso na busca por Thulsa. Fraya disse que Thulsa fugiu para o norte de Shara e queria que você trabalhasse com as forças de Kaiator para derrotá-lo. O comandante Tamur concordou prontamente, mas a situação mudou rapidamente. O comandante Tamur, governador militar temporário de Kaiator, concordou prontamente, mas a situação mudou rapidamente. O General Kanmur apareceu em Kaiator crucificado e com os chifres cortados por um dos lacaios de Killian. Tamur ficou muito triste e jurou vingança.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">[Ordem de missão]&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;,&lt;BR&gt;&lt;BR&gt;Retornar a Allemantheia o mais rápido possível. Elleon enviou notícias de uma enorme hoste de mortos-vivos se movendo para o norte de Shara.&lt;BR&gt;&lt;BR&gt;Isso poderia facilmente ser obra de Thulsa.&lt;BR&gt;&lt;BR&gt;Precisamos de alguém que tenha lutado contra Thulsa para investigar. Mais detalhes em sua chegada.&lt;BR&gt;&lt;BR&gt;-Allemantheia Comandante Fraya</Page>
+    
+    </Text>
+    <Text huntingZoneId="518" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="4">Somos gratos, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Elleon relatou que um exército de mortos-vivos está chegando ao norte de Shara. Os agentes do Mysterium na região confirmaram o fato e acrescentaram que a assinatura de energia do exército corresponde à de Thulsa.&lt;NEXTPAGEBUTTON&gt;"Thulsa foi para o norte?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Aparentemente, sua derrota em Essênia não foi suficiente para fazê-lo sair correndo.&lt;BR&gt;&lt;BR&gt;Shara do Norte é vital demais para deixar Thulsa sem oposição. Kaiator já está enfrentando os argons - eles não podem lutar em duas frentes.&lt;BR&gt;&lt;BR&gt;Temos que deter Thulsa e precisamos de sua ajuda.&lt;NEXTPAGEBUTTON&gt;"Às suas ordens!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Sabíamos que podíamos contar com você.&lt;BR&gt;&lt;BR&gt;Coordene com as forças em Kaiator. O Comandante Tamur está no comando até que o General Kanmur retorne, então fale com ele.&lt;BR&gt;&lt;BR&gt;Oh! E &lt;PCNAME&gt;-não deixe Thulsa escapar desta vez. Mande-o de volta para o Sonho!</Page>
+    
+    </Text>
+    <Text huntingZoneId="84" id="4" prevId="3" villagerId="1150">
+         
+        <Page social="4">Bem-vindo ao moedor de carne! &lt;BR&gt;&lt;BR&gt;Você é o &lt;PCNAME&gt;? Ouvi falar muito de você! Vai levar a luta até Thulsa, hein? &lt;NEXTPAGEBUTTON&gt;"Esse é o plano."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Siga-me! Vou lhe dar um rápido passeio por Kaiator.&lt;BR&gt;&lt;BR&gt;(Siga Tamur para dentro da cidade.)</Page>
+    
+    </Text>
+    <Text huntingZoneId="84" id="5" prevId="4" villagerId="1184">
+         
+        <Page social="1">O assassinato do General Kanmur é um grande choque para todos nós. Se não for bem conduzido, pode acabar com o moral de todos.&lt;BR&gt;&lt;BR&gt;Encontre Ragnar e Garuk! Faça com que eles me encontrem no quartel-general. Direi a Karima para lhes dar acesso. Rápido, agora!</Page>
+    
+    </Text>
+    <Text huntingZoneId="84" id="6" prevId="5" villagerId="1151">
+         
+        <Page social="4">O quê? Assassinado?&lt;BR&gt;&lt;BR&gt;Eu não posso acreditar que Kanmur está morto - e seus chifres! Seus chifres se foram! Imperdoável! &lt;NEXTPAGEBUTTON&gt;"Sinto muito por dar essas notícias."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Esse insulto não pode ser tolerado. Vou me apresentar ao quartel-general. Precisamos nos vingar!</Page>
+    
+    </Text>
+    <Text huntingZoneId="84" id="7" prevId="6" villagerId="1152">
+         
+        <Page social="4">Fale rápido, &lt;PCCLASS:lcase&gt;!&lt;BR&gt;&lt;BR&gt;Kanmur está morto? E seus chifres foram levados? Pelos deuses, isso está indo longe demais! &lt;BR&gt;&lt;BR&gt;Sim, sim - temos que nos reagrupar. Vou para o quartel-general imediatamente! Obrigado por me encontrar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="84" id="8" prevId="7" villagerId="1153">
+         
+        <Page social="4">Ninguém pode passar sem permissão. Desculpe.&lt;BR&gt;&lt;BR&gt;Oh, espere - você é o &lt;PCNAME&gt;. O Comandante Tamur disse que você viria.&lt;BR&gt;&lt;BR&gt;Perdoe-me. O senhor é esperado dentro de casa.&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;Localização: &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=3#-6244.4409,3616.4551,4475.9458&amp;type=1&amp;name=Office trespassing"&gt;Kaiator Office&lt;/A&gt;&lt;/font&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="410" id="9" prevId="8" villagerId="5005">
+         
+        <Page social="4">Irmãos e irmãs, sofremos uma grande perda. Meu pai, o General Kanmur, está morto.&lt;BR&gt;&lt;BR&gt;Pior ainda, seus chifres se foram - um insulto imperdoável.&lt;BR&gt;&lt;BR&gt;Mesmo assim, estamos em guerra e ela não pode esperar - nem mesmo por meu pai.&lt;NEXTPAGEBUTTON&gt;"Quais são suas ordens?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Ao profanar o corpo de meu pai, eles insultaram toda a nossa raça! &lt;BR&gt;&lt;BR&gt;Eles nos querem enfurecidos e eu os quero aterrorizados! &lt;BR&gt;&lt;BR&gt;Caçaremos quem quer que tenha feito isso e infligiremos tanta dor que ela ecoará pelo próprio Sonho!</Page>
+    
+    </Text>
+    <Text huntingZoneId="410" id="10" prevId="9" villagerId="5005">
+         
+        <Page social="4">Killian! Seu tolo covarde! Não pode se esconder de mim! &lt;BR&gt;&lt;BR&gt;Mobilize nossas forças imediatamente! Todos os que não estiverem engajados com os argons devem agora mirar em Killian!&lt;BR&gt;&lt;BR&gt;Eu arrancarei sua cabeça e a colocarei em uma lança ao lado do túmulo de meu pai!&lt;NEXTPAGEBUTTON&gt;"Killian não é a verdadeira ameaça..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Como você pode dizer isso? Você viu o que eles fizeram! &lt;BR&gt;&lt;BR&gt;Não se trata apenas de um insulto a mim, &lt;PCNAME&gt;, mas ao povo amani. Isso não pode ficar sem resposta.&lt;BR&gt;&lt;BR&gt;Thulsa não é uma ameaça para nós, mas Killian tolamente lançou o desafio e não vamos recuar!&lt;NEXTPAGEBUTTON&gt;"Mas Thulsa..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">K-Kaia!&lt;BR&gt;&lt;BR&gt;Atenção! A Donzela do Escudo está diante de nós!</Page>
+    
+    </Text>
+    <Text huntingZoneId="410" id="11" prevId="10" villagerId="5009">
+         
+        <Page social="4">Eu o saúdo, &lt;PCNAME&gt;. Suas façanhas e valor são conhecidos por mim.&lt;BR&gt;&lt;BR&gt;A morte de Kanmur é trágica, para Tamur e todos os amani, mas é uma provocação, não uma ameaça. Tamur e seu exército não devem perseguir Killian. Seu orgulho teimoso enfraquecerá Kaiator quando menos pudermos nos dar a esse luxo.&lt;BR&gt;&lt;BR&gt;Vocês vieram para deter Thulsa. Ajude-me e eu o ajudarei.&lt;BR&gt;&lt;BR&gt;Aceita minha proposta?&lt;NEXTPAGEBUTTON&gt;"Claro, Shieldmaiden."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Obrigado, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;Os esforços de Thulsa estão concentrados em Sylvanoth, especificamente em Amena Quatla, onde repousa o deus Sikander.&lt;BR&gt;&lt;BR&gt;Sikander é um deus poderoso, mas não deve ser despertado prematuramente.&lt;BR&gt;&lt;BR&gt;Eu ordenei que Kanmur falasse com Isrenia, que vigia Sikander da Floresta Darkquaver.&lt;BR&gt;&lt;BR&gt;Killian matou Kanmur, o que significa que Killian e Thulsa estão trabalhando juntos. Isso me assusta. Sou um soldado, não um estrategista como Thulsa.&lt;NEXTPAGEBUTTON&gt;"O que devo fazer?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Vá para Dragonfall. Se eles mataram Kanmur, Isrenia está em perigo.&lt;BR&gt;&lt;BR&gt;O centurião Thaqib era o melhor amigo de Kanmur. Encontrem-no imediatamente! Ele pode ser nosso último elo com Isrenia.</Page>
+    
+    </Text>
+</QuestDialog>

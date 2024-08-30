@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="42" id="37" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="242" id="100" prevId="0" villagerId="1035">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="242" id="2" prevId="0" villagerId="1035">
+         
+        <Page social="5">Então agora você está assumindo a conspiração naga e mekonari. Estou impressionado.&lt;BR&gt;&lt;BR&gt;Eu tenho pensado muito nisso, &lt;PCNAME&gt;, e acho que as {@LinkCreature:42#1100#nickar enchantresses} podem fazer parte disso. Se você encontrar alguma coisa enquanto estiver ocupado matando coisas, avise o Vries.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="3" prevId="2" villagerId="1042">
+         
+        <Page social="4">Uma tradução? Certamente....&lt;BR&gt;&lt;BR&gt;"Ressuscite nosso senhor Dagon...." Não é de surpreender que. "...oferendas de sangue...sacrifício...fonte de poder arcano...."&lt;BR&gt;&lt;BR&gt;Por Karas, será que eles poderiam mesmo fazer isso? &lt;BR&gt;&lt;BR&gt;Vá até Darim - ele é um bom pensador, e nosso melhor estrategista. Diga a ele o que está escrito aqui. Ele elaborará um plano.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="4" villagerId="1042">
+         
+        <Page social="0">Você já enfrentou as {@LinkCreature:42#1100#nickar enchantresses}? Você tem alguma coisa?</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="5" prevId="3" villagerId="1035">
+         
+        <Page social="5">Dagon. Querida Kaia...!&lt;BR&gt;&lt;BR&gt;As nagas já são ruins o suficiente, mas se elas trouxessem Dagon de volta, não haveria lugar para se esconder. Todas as cidades da região seriam cinzas.&lt;BR&gt;&lt;BR&gt;E nós, também.</Page>
+    
+    </Text>
+</QuestDialog>

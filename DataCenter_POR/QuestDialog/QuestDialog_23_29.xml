@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="23" id="29" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="223" id="100" prevId="0" villagerId="1037">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="223" id="2" prevId="0" villagerId="1037">
+         
+        <Page social="5">Infelizmente, o reino não é totalmente unido. Há alguns poporis, como os {@LinkCreature:23#20#elin witches} que usam seu poder para si mesmos, não para a natureza.&lt;BR&gt;&lt;BR&gt;Eles atacaram nossas aldeias recentemente. Você será a nossa retribuição.</Page>
+    
+    </Text>
+    <Text huntingZoneId="223" id="3" prevId="2" villagerId="1037">
+         
+        <Page social="5">Graças a você, esses bandidos estão muito enfraquecidos. Isso nos ajudará muito. Obrigado, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+</QuestDialog>

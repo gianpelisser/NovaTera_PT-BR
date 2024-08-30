@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="19" id="31" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="219" id="100" prevId="0" villagerId="1020">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="219" id="2" prevId="0" villagerId="1020">
+         
+        <Page social="4">Recebi um relatório da Tashaberia. Aparentemente, algo suspeito está acontecendo. Não tenho certeza; o relatório que recebi estava muito desarticulado.&lt;BR&gt;&lt;BR&gt;Já enviei um investigador chamado Elsta - encontre-o perto do acampamento da Irmandade Livre. Ele já deve ter mais informações.</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="3" prevId="2" villagerId="1016">
+         
+        <Page social="4">Oh, Cardis o enviou também? &lt;BR&gt;&lt;BR&gt;Tudo bem, o que descobri até agora é que os {@linkcreature:19#4002#Lokian cleavers} e {@linkcreature:19#4004#Lokian swordlords} são poderosos lutadores de elite. E também que eu não sou forte o suficiente para lutar contra eles.&lt;BR&gt;&lt;BR&gt;Então... você provavelmente deveria fazer isso. Você precisará coletar as armas deles para que possamos enviá-las para Velika para serem examinadas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="4" prevId="3" villagerId="1016">
+         
+        <Page social="4">Excelente trabalho! Vou enviá-los para Velika imediatamente - junto com uma nota sobre seus serviços diferenciados, é claro.&lt;BR&gt;&lt;BR&gt;Por favor, tome isso como um sinal de nossa apreciação.</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="5" villagerId="1016">
+         
+        <Page social="0">Precisamos dessas armas. Se elas contiverem alguma pista, serão valiosas.</Page>
+    
+    </Text>
+</QuestDialog>

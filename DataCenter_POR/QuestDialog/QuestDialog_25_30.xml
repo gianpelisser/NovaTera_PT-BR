@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="25" id="30" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="225" id="100" prevId="0" villagerId="1027">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="225" id="2" prevId="0" villagerId="1027">
+         
+        <Page social="4">Temos sorte que Akia e Terkasia não estão mais dando ordens aos chefes guerreiros ossugon - tudo graças a você. Os {@LinkCreature:25#2011#ossugon warchiefs} serão mais fáceis de dividir e eliminar sem seus líderes.&lt;BR&gt;&lt;BR&gt;Certifique-se de trazer de volta os crânios deles para que não possam ressuscitar. Sem os generais, seus exércitos vão se dispersar com certeza.&lt;BR&gt;&lt;BR&gt;Esta é uma missão crítica, &lt;PCNAME&gt;. Não consigo pensar em ninguém melhor para enfrentar os generais. Nosso futuro está em seus ombros.</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="3" prevId="2" villagerId="1027">
+         
+        <Page social="4">É assim que se faz! Sem os generais, os remanescentes do exército não se atrevem a prosseguir com seus planos de ataque! Você salvou o dia!</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="4" villagerId="1027">
+         
+        <Page social="0">Corra! Mate os {@LinkCreature:25#2011#ossugon warchiefs} antes que o exército deles ataque!</Page>
+    
+    </Text>
+</QuestDialog>

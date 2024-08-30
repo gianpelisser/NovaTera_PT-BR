@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="11" id="44" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="211" id="100" prevId="0" villagerId="1018">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="211" id="2" prevId="0" villagerId="1018">
+         
+        <Page social="0">Aposto que essa pedra mágica está bem perto de {@LinkCreature:11#5003#Orless}, o capitão dos Cílios Vermelhos.&lt;BR&gt;&lt;BR&gt;Mas ele não vai desistir sem lutar. Você parece ter muita luta, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Desça as escadas do norte e você chegará à cabana que Orless chama de lar. Tire algumas respostas dele!</Page>
+    
+    </Text>
+    <Text huntingZoneId="211" id="3" prevId="2" villagerId="1018">
+         
+        <Page social="4">Bem, as palavras no mapa estão em código. E matemática não era exatamente a minha melhor matéria no reformatório.&lt;BR&gt;&lt;BR&gt;Leve isso para Ilaria, na Costa dos Grilhões. Ela tem uma cabeça para números, e uma figura para...&lt;BR&gt;&lt;BR&gt;Não importa. Longa história.</Page>
+    
+    </Text>
+    <Text huntingZoneId="211" id="4" villagerId="1018">
+         
+        <Page social="0">{@LinkCreature:11#5003#Orless} é a chave. Você não quer ter a chave?</Page>
+    
+    </Text>
+    <Text huntingZoneId="211" id="5" prevId="3" villagerId="1005">
+         
+        <Page social="4">O destino sorri para você, &lt;PCNAME&gt;. Alguma notícia da gruta? &lt;BR&gt;&lt;BR&gt;O quê? Um dementalith? E bombas? Os titãs nos preservam! &lt;BR&gt;&lt;BR&gt;Deixe-me dar uma olhada no mapa que você tem. Eles são piratas. Qual é a qualidade do código deles? &lt;NEXTPAGEBUTTON&gt;"Aqui está."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Vamos ver... primeiro, interno, externo, último... entendi! Você não vai gostar disso, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Este mapa é uma rota terrestre de emergência para sair da gruta. Os piratas levaram a dementalith por terra... para o norte.&lt;BR&gt;&lt;BR&gt;Pior... ela é rotulada como a "pedra da insanidade".</Page>
+    
+    </Text>
+</QuestDialog>

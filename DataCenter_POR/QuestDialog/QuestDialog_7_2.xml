@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="7" id="2" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="207" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0">O Mysterium procurou sua ajuda para frustrar a pesquisa que os Scions of Lok estavam realizando. Você encontrou referências a uma fonte antiga, mas impediu o líder dos Scions, Tezluar, antes que eles pudessem concluir o que estavam fazendo. Infelizmente, os Scions reagiram com força e lançaram um ataque maciço ao Sanctum Mysterium. Você protegeu Mattin quando ele usou escudos mágicos e salvou o santuário.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="4">Estamos em uma corrida com os Herdeiros de Lok para descobrir os segredos antigos dos Vestígios de Cardovek. Infelizmente, eles estão em vantagem sobre nós.&lt;BR&gt;&lt;BR&gt;As Colinas Celestiais eram importantes para muitos dos deuses, e os Scions podem muito bem estar procurando por algo relacionado. Certamente as onfaloses nas planícies são de origem divina.&lt;BR&gt;&lt;BR&gt;Vá ver Padraig, um de nossos estudiosos perto dos remanescentes.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="3" prevId="2" villagerId="1044">
+         
+        <Page social="4">Sim, eles estão tramando algo, mas não tenho certeza do quê. Eles têm alguns documentos, mas estão todos codificados - e divididos em partes.&lt;BR&gt;&lt;BR&gt;Se você pudesse juntar um documento inteiro, eu talvez conseguisse entender. Os {@LinkCreature:7#14#Feiticeiros de Lokian} são sua melhor aposta para encontrar uma cópia completa das páginas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="4" prevId="3" villagerId="1044">
+         
+        <Page social="4">Que se dane tudo! &lt;BR&gt;&lt;BR&gt;Os documentos são bons, mas estão em código. Eu vi os {@LinkCreature:7#13#Lokian berserkers} lendo os criptogramas - então eles devem ter alguma forma de decodificá-los.&lt;BR&gt;&lt;BR&gt;Encontre um berserker e veja se ele tem algo que possamos usar para decifrar o texto. Precisamos saber o que eles estão tramando.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="5" prevId="4" villagerId="1044">
+         
+        <Page social="4">Você tem tudo? &lt;BR&gt;&lt;BR&gt;Todos os criptogramas e um dispositivo de descriptografia? Não podemos aprender nada sem eles.&lt;BR&gt;&lt;BR&gt;Você descriptografou as mensagens?</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="6" prevId="4" villagerId="1044">
+         
+        <Page social="0">Você a perdeu? &lt;BR&gt;&lt;BR&gt;E agora o que vou fazer? Oh! Espere um minuto, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="7" prevId="4" villagerId="1044">
+         
+        <Page social="0">Vamos lá, eu quero ver a mensagem descriptografada INTEIRA.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="8" prevId="5" villagerId="1044">
+         
+        <Page social="4">Alguém me deu isso há algum tempo, mas eu não percebi na época...&lt;BR&gt;&lt;BR&gt;Você deve ser o &lt;PCClass:lcase&gt; mais sortudo que já conheci. Esse é o decodificador que você perdeu? Aqui! Pegue-o e comece a decodificar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="9" prevId="5" villagerId="1044">
+         
+        <Page social="4">Aquela naga flamejante {@LinkCreature:7#102#Tezluar}! Ele está por trás disso! Ele está procurando por alguma fonte - parece que Akasha estava atrás dela uma vez.&lt;BR&gt;&lt;BR&gt;Eles não têm a menor ideia de onde ela está agora e, com uma pequena ajuda sua, eles nunca a encontrarão.&lt;BR&gt;&lt;BR&gt;Mate Tezluar e dê a esses tolos Scion um verdadeiro revés.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="10" villagerId="1044">
+         
+        <Page social="0">Os {@LinkCreature:7#13#Lokian berserkers} devem ter alguma maneira de ler os criptogramas. Eles não têm cérebro suficiente para fazer isso sozinhos!</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="11" prevId="9" villagerId="1044">
+         
+        <Page social="4">Muito bem, meu amigo! Volte logo para Mattin e dê as boas notícias!</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="12" prevId="11" villagerId="1001">
+         
+        <Page social="4">Os Scions of Lok parecem estar sofrendo com a derrota. Eles estão se reunindo para um ataque. Nosso escudo pode repeli-los - se conseguirmos erguê-lo a tempo.&lt;BR&gt;&lt;BR&gt;Mantenham nossos inimigos afastados até que as defesas estejam ativas!</Page>
+    
+    </Text>
+    <Text huntingZoneId="419" id="13" prevId="12" villagerId="99">
+         
+        <Page social="4">A coragem e a habilidade protegeram os segredos e o conhecimento que descobrimos. Por isso, somos muito gratos.&lt;BR&gt;&lt;BR&gt;As Colinas Celestiais têm muitos segredos, alguns que ainda não estamos prontos para descobrir, e outros, talvez, que nunca foram destinados a nós conhecermos. Juntos, nós os mantivemos seguros.&lt;BR&gt;&lt;BR&gt;Vamos com nossos agradecimentos.</Page>
+    
+    </Text>
+</QuestDialog>

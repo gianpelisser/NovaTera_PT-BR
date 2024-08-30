@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="7" id="23" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="207" id="100" prevId="0" villagerId="1007">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="207" id="2" prevId="0" villagerId="1007">
+         
+        <Page social="5">Não conseguimos dormir por causa desses malditos orcs. Estou cansado disso! Drustan diz que devemos manter nossa posição, mas eu preciso dormir um pouco ou ficarei irritado.&lt;BR&gt;&lt;BR&gt;Os acampamentos deles estão a oeste. Pegue algumas de suas rações e traga-as de volta para cá. Quando eles ficarem com fome, começarão a brigar pela comida, e é nessa hora que não estarão brigando conosco!</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="3" prevId="2" villagerId="1007">
+         
+        <Page social="5">Excelente trabalho! Eu gostaria de poder ver a cara deles quando começarem a ficar sem comida.&lt;BR&gt;&lt;BR&gt;Blast e damnation! Isso é comida? Ugh. O cheiro é pior do que o de um matadouro. Eu comeria isso, mas nunca chegaria perto de minha boca. Em vez disso, vamos queimá-lo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="4" villagerId="1007">
+         
+        <Page social="0">Deixe que esses malditos orcans se irritem e rosnem uns para os outros por um tempo. Traga-me os sacos de comida deles e veremos quem ri por último!</Page>
+    
+    </Text>
+</QuestDialog>

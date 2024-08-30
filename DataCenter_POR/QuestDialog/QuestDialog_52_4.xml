@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="4" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="79" id="100" prevId="0" villagerId="1102">
+         
+        <Page social="0">Você entrou na Ebon Tower e derrotou Thulsa, que fugiu, deixando um rastro de sangue atrás de si. Kelsaik não estava em lugar algum. ....</Page>
+    
+    </Text>
+    <Text huntingZoneId="79" id="2" prevId="0" villagerId="1102">
+         
+        <Page social="0">Eu sabia que meu totem de purificação seria útil! É bom contra todo tipo de coisa... inclusive o veneno de Kelsaik, se for o caso. Você já lutou com Kelsaik antes, portanto, saberia melhor do que eu.&lt;BR&gt;&lt;BR&gt;Se você fizer várias incursões na Torre de Ébano, pegue um totem de purificação antes de ir. Traga os materiais, e eu farei o resto.</Page>
+    
+    </Text>
+    <Text huntingZoneId="251" id="3" prevId="2" villagerId="1033">
+         
+        <Page social="1">O teletransporte na Torre de Ébano não funcionará, não importa o que você faça. Há apenas uma chave que funciona, e ela é...&lt;BR&gt;&lt;BR&gt;...a gema de Killian? Você a tem? E você vai entrar? &lt;BR&gt;&lt;BR&gt;Aqui está o que sabemos; não é muito. Há cinco níveis na torre, e tudo é tóxico, graças a Thulsa. Não se esqueça de usar o totem de purificação.</Page>
+    
+    </Text>
+    <Text huntingZoneId="251" id="4" prevId="3" villagerId="1501">
+         
+        <Page social="1">Você ativou o teletransporte usando a gema de Killian. Um portal para a Ebon Tower está se abrindo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="251" id="5" villagerId="1501">
+         
+        <Page social="0">É hora de usar a joia de Killian.</Page>
+    
+    </Text>
+    <Text huntingZoneId="251" id="6" prevId="4" villagerId="1501">
+         
+        <Page social="1">Você investigou o teleportal na Torre de Ébano. Vestígios da magia de Thulsa o sustentam e ele vibra em ressonância com outro teleportal próximo... ali!</Page>
+    
+    </Text>
+</QuestDialog>

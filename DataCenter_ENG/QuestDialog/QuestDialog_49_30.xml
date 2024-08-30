@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="49" id="30" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="76" id="100" prevId="0" villagerId="1018">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="76" id="2" prevId="0" villagerId="1018">
+         
+        <Page social="4">When we lost our flight platform, we constructed a series of improvised transport devices. Without those, we'd never risk leaving Kanstria.&lt;NEXTPAGEBUTTON&gt;"How do they work?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Honestly, they're not all that different from teleportals. We lacked the raw magical power to build a full-on teleportal network, so we created these teleport platforms. We use iteris shards to power them, and those aren't too hard to mine.&lt;BR&gt;&lt;BR&gt;Head out and acquire an iteris shard. I hope you're proficient at mining.&lt;NEXTPAGEBUTTON&gt;"I've cracked a few rocks in my time."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Excellent. I'll meet you at the {@LinkCreature:249#1101}.&lt;BR&gt;&lt;BR&gt;Good luck!</Page>
+    
+    </Text>
+    <Text huntingZoneId="249" id="3" prevId="2" villagerId="1017">
+         
+        <Page social="6">Good. You found it.&lt;BR&gt;&lt;BR&gt;South of here is the {@Rgn:49002}. The argons use them to siphon energy from the fields. You'll need to mine iteris shards from {@Collection:149} before you can use the platform.&lt;BR&gt;&lt;BR&gt;Come find me again once you have an iteris shard.</Page>
+    
+    </Text>
+    <Text huntingZoneId="249" id="4" prevId="3" villagerId="1017">
+         
+        <Page social="4">Now, use the shard to activate the teleport platform.&lt;BR&gt;&lt;BR&gt;I'll see you in Kanstria.</Page>
+    
+    </Text>
+    <Text huntingZoneId="249" id="5" villagerId="1017">
+         
+        <Page social="0">It's not easy to mine for shards, but keep at it. You'll get it.</Page>
+    
+    </Text>
+    <Text huntingZoneId="76" id="6" prevId="4" villagerId="1018">
+         
+        <Page social="6">Well done!&lt;BR&gt;&lt;BR&gt;The teleport platforms help us outmaneuver the argons. Pretty clever, don't you think?</Page>
+    
+    </Text>
+</QuestDialog>

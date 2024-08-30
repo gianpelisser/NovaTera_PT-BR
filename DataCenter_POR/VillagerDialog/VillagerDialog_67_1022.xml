@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="67" id="1022">
+    <Text huntingZoneId="67" id="1" endSocial="14" prevId="0" villagerId="1022">
+         
+        <Page social="4">I would be happy to teleport you anywhere you wish to go! It's fun, really! Just remember that I can only send you to camps that you've already visited.&lt;BR&gt;&lt;BR&gt;So, where to?</Page>
+    
+    </Text>
+    <Text id="3" endSocial="0">
+         
+        <Page social="0">I just received a signal that the supply carriage is under attack. Please talk to me again when you're ready and I'll teleport you to the place immediately. &lt;TEXTBUTTON&gt;Protect the Supply Carriage&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Teleport to the Attack Site&lt;/EVENTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</VillagerDialog>

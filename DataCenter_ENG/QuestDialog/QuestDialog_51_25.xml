@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="51" id="25" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="251" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="251" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="4">The closest draelkar pylon is in Wendigo's Howl. Thulsa's got some Sihranar lackeys guarding it.&lt;BR&gt;&lt;BR&gt;Slit those traitors' throats, or torch them—whatever it is you do to kill people—then destroy the pylon.&lt;BR&gt;&lt;BR&gt;Quickly now! Thulsa waits for no &lt;PCCLASS:lcase&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="251" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="4">Interesting. The wendigos are still aggressive, but they seem confused. I bet they don't know who to fight at this point.&lt;BR&gt;&lt;BR&gt;Excellent. That's progress we can take advantage of. Fine work!</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="605" id="10" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="63" id="100" prevId="0" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="2" prevId="0" villagerId="3003">
+         
+        <Page social="4">Tenho um trabalho para você! &lt;NEXTPAGEBUTTON&gt;"Ah, é?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Bem, {@LinkCreature:63#3002#Taratia} tem um trabalho para você. Mas eu dei a ela o trabalho que ela vai dar a você, então, de certa forma, eu tenho um trabalho para você.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="3002">
+         
+        <Page social="4">&lt;PCNAME&gt;, tenho um trabalho para você! Bem, tecnicamente, Elthienne tem um trabalho para você, porque ela me dá meus trabalhos. Mas acho que você já sabia disso.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="4" prevId="2" villagerId="3002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="5" prevId="2" villagerId="3002">
+         
+        <Page social="4" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="6" prevId="2" villagerId="1098">
+         
+        <Page social="5">{@LinkCreature:63#3002#Taratia} fala muito bem de você. Posso ver por quê.&lt;BR&gt;&lt;BR&gt;Obrigado, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="7" villagerId="1098">
+         
+        <Page social="0">Você teve sorte com a essência do raio?</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="8" prevId="6" villagerId="1098">
+         
+        <Page social="5">Por favor, diga a {@LinkCreature:63#3002#Taratia} Eu agradeço por isso.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="9" villagerId="1098">
+         
+        <Page social="0">Você teve sorte com o minério xermetal?</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="10" prevId="8" villagerId="3002">
+         
+        <Page social="4">Obrigado, &lt;PCNAME&gt;. Até amanhã.</Page>
+    
+    </Text>
+</QuestDialog>

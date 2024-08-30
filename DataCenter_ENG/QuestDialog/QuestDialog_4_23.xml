@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="23" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="204" id="100" prevId="0" villagerId="1110">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="204" id="2" prevId="0" villagerId="1110">
+         
+        <Page social="4">It's the howling that drives me crazy—the howling of the dead soldiers.&lt;BR&gt;&lt;BR&gt;We actually had a popori mystic come through here a few weeks ago, telling us some mumbo-jumbo about how "distillations of the killers" would return the anguished souls to the Dream. And more importantly, shut them up!&lt;BR&gt;&lt;BR&gt;Kridan and I got most of the "distallations" the popori wanted, but we're missing one.&lt;NEXTPAGEBUTTON&gt;"What's missing?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">The essence of the {@LinkCreature:4#1021#sulphurous groknar}. That's a bit much for Kridan and me.&lt;BR&gt;&lt;BR&gt;Bring me essence of their fire, and we can shut up all those howling ghosts.</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="3" prevId="2" villagerId="1110">
+         
+        <Page social="4">Thanks, &lt;PCNAME&gt;. Now we can restore our comrades' souls to the Dream.&lt;BR&gt;&lt;BR&gt;And shut them up so we can get some sleep!</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="4" villagerId="1110">
+         
+        <Page social="0">Don't just do it for us, &lt;PCNAME&gt;. Do it for those poor tormented souls, howling because they cannot return to the Dream.</Page>
+    
+    </Text>
+</QuestDialog>

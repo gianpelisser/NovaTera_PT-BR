@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="33" id="38" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="233" id="100" prevId="0" villagerId="1014">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="233" id="2" prevId="0" villagerId="1014">
+         
+        <Page social="4">I actually feel sorry for the {@LinkCreature:33#66#rotting prisoners}.&lt;BR&gt;&lt;BR&gt;It's clear that they're shambling through the corridors here against their will.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, can you put them out of their misery and return their souls to the titans' Dream?</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="3" prevId="2" villagerId="1014">
+         
+        <Page social="4">You've given them the peace of the Dream, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Maybe someday we'll kill Thulsa—and he'll descend into nightmare.</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="4" villagerId="1014">
+         
+        <Page social="0">{@LinkCreature:33#66#Rotting prisoners} are below us in this horrible place, &lt;PCNAME&gt;. Put them out of their misery.</Page>
+    
+    </Text>
+</QuestDialog>

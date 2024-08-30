@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="38" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="74" id="100" prevId="0" villagerId="1036">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="74" id="2" prevId="0" villagerId="1036">
+         
+        <Page social="5">Essa lista parece nunca diminuir. Deixe-me dar-lhes um grupo inteiro - isso me fará sentir que estou progredindo.&lt;BR&gt;&lt;BR&gt;Aqui estamos nós - vá caçar {@LinkCreature:38#1#sentinel officers}, {@LinkCreature:38#2#lurking rockcrawlers}, {@LinkCreature:38#44#ruinswalker demons}, {@LinkCreature:38#15#arbosk enchanters}, {@LinkCreature:38#16#deskera imps} e {@LinkCreature:38#30#ruins hyenas}.&lt;BR&gt;&lt;BR&gt;Isso deve mantê-lo ocupado.&lt;BR&gt;&lt;BR&gt;Relate com Deiana no Roostcliff Quarter, no Sienna Canyon, quando terminar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="238" id="3" prevId="2" villagerId="1007">
+         
+        <Page social="5">Bom trabalho. Aqui está sua recompensa.&lt;BR&gt;&lt;BR&gt;Continue com o bom trabalho!</Page>
+    
+    </Text>
+    <Text huntingZoneId="238" id="4" villagerId="1007">
+         
+        <Page social="0">Você não completou sua missão.</Page>
+    
+    </Text>
+</QuestDialog>

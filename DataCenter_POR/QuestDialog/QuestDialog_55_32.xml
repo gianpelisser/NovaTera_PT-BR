@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="55" id="32" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="255" id="100" prevId="0" villagerId="1027">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="255" id="2" prevId="0" villagerId="1027">
+         
+        <Page social="4">Precisamos ocupar as Skyleaves e impedir que as forças de Thulsa protejam a Floresta Darkquaver.&lt;BR&gt;&lt;BR&gt;Encontre Ebna - ela foi à frente para explorar a área. Ajude-a como puder. Andem rápido. O tempo não é nosso aliado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="255" id="3" prevId="2" villagerId="1015">
+         
+        <Page social="4">Oh, eu já vi coisas muito boas. Os ksharans emboscaram um oficial amani e seus guardas.&lt;BR&gt;&lt;BR&gt;Eu preciso relatar isso, mas os ksharans são muito numerosos. Você acha que pode enfrentar os arqueiros e ceifadores de sombras ksharanos? &lt;BR&gt;&lt;BR&gt;Traga-me alguma prova de suas mortes. Precisaremos de provas quando pedirmos reforços.</Page>
+    
+    </Text>
+    <Text huntingZoneId="255" id="4" prevId="3" villagerId="1015">
+         
+        <Page social="4">Se eu fosse a Thulsa, faria de sua morte uma prioridade máxima. Você fez um ótimo trabalho. Vou avisar meus superiores - e mostrar-lhes esses amuletos.&lt;BR&gt;&lt;BR&gt;Pela federação!</Page>
+    
+    </Text>
+    <Text huntingZoneId="255" id="5" villagerId="1015">
+         
+        <Page social="0">Mate todos os ksharans que quiser, mas me dê provas. Ninguém nunca acredita na palavra de um olheiro.</Page>
+    
+    </Text>
+</QuestDialog>

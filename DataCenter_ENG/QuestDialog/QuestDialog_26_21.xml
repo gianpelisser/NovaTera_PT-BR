@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="26" id="21" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="69" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="69" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="5">The village is sadly quiet today. Usually, our best storyteller spins fantastic tales, but no one can find him anywhere.&lt;BR&gt;&lt;BR&gt;Have you heard of Porun? If he's run off, perhaps something's wrong. The town would be grateful if you'd look for him.&lt;BR&gt;&lt;BR&gt;Sometimes, he heads to Crossroads Camp. You might look there.</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="3" prevId="2" villagerId="1026">
+         
+        <Page social="5">Nature's song is strong here. They say all life emerged from Blessing Basin and if you're very quiet, you can almost hear Shara dreaming.&lt;BR&gt;&lt;BR&gt;Of course, in town, it doesn't matter if you're quiet. Those damned tourists are everywhere. I'm trying to solve a mystery but the dangers in these woods are mightier than my quill.&lt;NEXTPAGEBUTTON&gt;"Can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="5">If I could just understand this region more, I feel certain my muse would return. I found an old tombstone once. It had a message on it, but I didn't take the time to read it.&lt;BR&gt;&lt;BR&gt;If you were to find that message, then follow it until you learn the secret, it might unlock the inspiration I need.&lt;BR&gt;&lt;BR&gt;Speak with {@LinkCreature:226#1006#Narden}. He'll know where the tombstone is.</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="4" prevId="3" villagerId="1006">
+         
+        <Page social="5">Porun's unable to tell a tale? A pity. So what do you seek?&lt;BR&gt;&lt;BR&gt;Ah, I believe he's describing the {@LinkCreature:226#1018#Forest Keeper's Tombstone}. I don't know that he'll gain much from it, however. You're welcome to see for yourself.</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="5" prevId="4" villagerId="1018">
+         
+        <Page social="5">(A careful inscription reads "Truth only reveals itself when one gives up all preconceived ideas.")</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="6" prevId="5" villagerId="1026">
+         
+        <Page social="5">Did you find it? What did it say? Oh, my tail is tingling!&lt;BR&gt;&lt;BR&gt;Interesting! That stone stood for years until you made the trip to see it. That's tragic and beautiful, all at once. I think I feel a tale coming on!&lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;. You've relit the fire in my soul. I'll put that fire back into words.</Page>
+    
+    </Text>
+</QuestDialog>

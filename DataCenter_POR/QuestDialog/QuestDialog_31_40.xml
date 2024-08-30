@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="31" id="40" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="231" id="100" prevId="0" villagerId="1042">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="231" id="2" prevId="0" villagerId="1042">
+         
+        <Page social="4">Isso não está em minha descrição de trabalho! Estou aqui para medir os níveis de mana, não para me envolver com {@LinkCreature:31#25#onyx hydraths}!&lt;BR&gt;&lt;BR&gt;É por isso que estou fazendo minha pesquisa aqui em cima, em vez de ir até o Maelstrom, mas terei que ir até lá mais cedo ou mais tarde.&lt;BR&gt;&lt;BR&gt;Suponho que você não possa cuidar de alguns deles para mim? E depois de matá-los, você poderia coletar o almíscar das hidras? Outros monstros fogem ao sentir o cheiro de uma hidrata, então isso deve me proteger de algo pior.</Page>
+    
+    </Text>
+    <Text huntingZoneId="231" id="3" prevId="2" villagerId="1042">
+         
+        <Page social="4">Obrigado! Esse almíscar será muito útil! Pronto ou não, Maelstrom, aqui vou eu!</Page>
+    
+    </Text>
+    <Text huntingZoneId="231" id="4" villagerId="1042">
+         
+        <Page social="0">Por favor, tenha cuidado. Mas também tome cuidado com os {@LinkCreature:31#25#onyx hydraths}!</Page>
+    
+    </Text>
+</QuestDialog>

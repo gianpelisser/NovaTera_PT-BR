@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="473" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="251" id="100" prevId="0" villagerId="1033">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="251" id="2" prevId="0" villagerId="1033">
+         
+        <Page social="4">A Torre de Ébano ainda está repleta de tropas da Legião de Sangue.&lt;BR&gt;&lt;BR&gt;Mate todos os dreadreapers, cleavers, snipers e darkweavers de Ksharan, bem como magisters das trevas e sacerdotes eldritch que você encontrar e capture os Eternal Hearts que os ressuscitam quando morrem. Apresente-se a Traveron na entrada da Ebon Tower quando a missão estiver concluída.</Page>
+    
+    </Text>
+    <Text huntingZoneId="251" id="3" prevId="2" villagerId="1033">
+         
+        <Page social="4">Excelente.&lt;BR&gt;&lt;BR&gt;Thulsa criou um número incrível dessas tropas. O lado bom é que descobrimos alguns usos excelentes para o poder desses corações. Continuem enviando!</Page>
+    
+    </Text>
+    <Text huntingZoneId="251" id="4" villagerId="1033">
+         
+        <Page social="0">Matem os membros da Legião de Sangue e tragam seus corações.&lt;BR&gt;&lt;BR&gt;Thulsa não poderá trazer sua Legião de volta sem eles, e nós os usaremos para obter poder. Cruel? Talvez. Não deveriam ter vendido suas almas em troca de poder, não é mesmo?</Page>
+    
+    </Text>
+</QuestDialog>

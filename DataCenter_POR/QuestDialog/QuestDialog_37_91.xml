@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="37" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="74" id="100" prevId="0" villagerId="1007">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="74" id="2" prevId="0" villagerId="1007">
+         
+        <Page social="5">Vamos continuar. Coisas para fazer.&lt;BR&gt;&lt;BR&gt;Vá lá fora e cace alguns {@LinkCreature:37#160#prion njalvars} e {@LinkCreature:37#170#helgevars}, e alguns {@LinkCreature:37#180#tuwangi conscripts} e {@LinkCreature:37#190#bombers}.&lt;BR&gt;&lt;BR&gt;Acabem com isso e falem com Helani quando terminarem.</Page>
+    
+    </Text>
+    <Text huntingZoneId="237" id="3" prevId="2" villagerId="1007">
+         
+        <Page social="5">Ótimo trabalho. Aqui está sua recompensa.</Page>
+    
+    </Text>
+    <Text huntingZoneId="237" id="4" villagerId="1007">
+         
+        <Page social="0">Você ainda não concluiu sua missão.</Page>
+    
+    </Text>
+</QuestDialog>

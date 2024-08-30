@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="9" id="2" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="212" id="100" prevId="0" villagerId="1035">
+         
+        <Page social="0">Jelena said that Samael's spies had infiltrated Cutthroat Harbor and must be killed before they could report back to him.&lt;BR&gt;&lt;BR&gt;With the help of soldiers from the Kaia's Sword regiment, you identified who Samael's Justicars were and eliminated them.</Page>
+    
+    </Text>
+    <Text huntingZoneId="212" id="2" prevId="0" villagerId="1035">
+         
+        <Page social="4">Samael still has Justicars in Cutthroat Harbor. They cannot be allowed to report to him! I've bribed {@LinkCreature:62#1010#locals} to identify his operatives. Get an update from each of them, and track down these traitorous dogs.</Page>
+    
+    </Text>
+    <Text huntingZoneId="62" id="3" prevId="2" villagerId="1010">
+         
+        <Page social="4">Well met, &lt;PCNAME&gt;. I took the liberty of noting my suspicions about specific sailors in this report. I believe {@LinkCreature:62#1020#Korvin} did the same.&lt;BR&gt;&lt;BR&gt;Use those reports to unmask your enemies, but be cautious. These are handpicked officers—not keeners.</Page>
+    
+    </Text>
+    <Text huntingZoneId="62" id="4" prevId="3" villagerId="1020">
+         
+        <Page social="4">Of course I have a report for you, &lt;PCNAME&gt;. Here's the summary.&lt;BR&gt;&lt;BR&gt;Most of Samael's spies are pretending to be sailors. You'll find full descriptions of each of them—in disguise, of course—in my report.&lt;BR&gt;&lt;BR&gt;Oh! I also ordered {@LinkCreature:62#1021#Caton} to prepare a similar report for you.</Page>
+    
+    </Text>
+    <Text huntingZoneId="62" id="5" prevId="4" villagerId="1021">
+         
+        <Page social="4">I did the best I could, &lt;PCNAME&gt;, but it's hard. After a while, every sailor starts to look kinda suspicious. After all, they're sailors, right?&lt;BR&gt;&lt;BR&gt;Read my report; you'll see what I mean. And good fortune! Don't let them get away!</Page>
+    
+    </Text>
+    <Text huntingZoneId="62" id="6" prevId="5" villagerId="1035">
+         
+        <Page social="0">Did you learn the whereabouts of Samael's spies? Great. Now it's time to get rid of them.&lt;BR&gt;&lt;BR&gt;Head to their suspected location and use this veritas flask on any sailor who looks suspicious. Their true identity will be revealed.&lt;BR&gt;&lt;BR&gt;&lt;FONT COLOR='#0080FF'&gt;&lt;A href="markmap:loc=1#48613.1797,72658.1406,156.1176&amp;type=1&amp;name=Suspicious Sailor"&gt;The spy reported by Kinias.&lt;/A&gt;&lt;/FONT&gt;&lt;BR&gt;&lt;BR&gt;&lt;FONT COLOR='#0080FF'&gt;&lt;A href="markmap:loc=1#49415.6602,70954.7734,39.1763&amp;type=1&amp;name=Suspicious Sailor"&gt;The spy reported by Korvin.&lt;/A&gt;&lt;/FONT&gt;&lt;BR&gt;&lt;BR&gt;&lt;FONT COLOR='#0080FF'&gt;&lt;A href="markmap:loc=1#53594.9648,72101.0859,76.8862&amp;type=1&amp;name=Suspicious Sailor"&gt;The spy reported by Caton.&lt;/A&gt;&lt;/FONT&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="62" id="7" prevId="6" villagerId="1035">
+         
+        <Page social="9">Deftly handled. With those Justicars out of the way, we can uncover the true connection between the Scions of Lok and Samael.&lt;BR&gt;&lt;BR&gt;Whatever it is, it won't be good for the federation.&lt;BR&gt;&lt;BR&gt;Time is short. Samael is blind to the situation, but we must move quickly before he can react.</Page>
+    
+    </Text>
+</QuestDialog>

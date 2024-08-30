@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="31" id="39" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="231" id="100" prevId="0" villagerId="1021">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="231" id="2" prevId="0" villagerId="1021">
+         
+        <Page social="9">Fiquei sem água, então derreti um pouco de neve e bebi. Agora meu estômago está me matando!&lt;BR&gt;&lt;BR&gt;Eu mal consigo ficar de pé, quanto mais trabalhar. Ouvi dizer que as flores de gelo são uma boa cura para dores de estômago, mas não posso sair para caçar plantas.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, se você vir alguma, pode pegar algumas para mim? Elas são muito pequenas e crescem ao longo do caminho em direção ao Maelstrom.</Page>
+    
+    </Text>
+    <Text huntingZoneId="231" id="3" prevId="2" villagerId="1021">
+         
+        <Page social="4">Oh, muito obrigado! Eu estava tão infeliz. Mal posso esperar para fazer um chá com essas flores de gelo finas e ver se isso ajuda.</Page>
+    
+    </Text>
+    <Text huntingZoneId="231" id="4" villagerId="1021">
+         
+        <Page social="0">Parece que há um dragão furioso em meu estômago.</Page>
+    
+    </Text>
+</QuestDialog>

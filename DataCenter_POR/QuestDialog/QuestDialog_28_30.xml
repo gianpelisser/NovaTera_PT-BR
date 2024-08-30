@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="30" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="228" id="100" prevId="0" villagerId="1011">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="228" id="2" prevId="0" villagerId="1011">
+         
+        <Page social="5">Esses malditos ovos da morte continuam tentando me comer no café da manhã! &lt;BR&gt;&lt;BR&gt;Preciso fazer algumas medições, mas não posso porque os {@LinkCreature:28#2041#volitos contaminados} se aglomeram toda vez que começo.&lt;BR&gt;&lt;BR&gt;Você poderia reunir alguns amigos e fazer o seu pior?</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="3" prevId="2" villagerId="1011">
+         
+        <Page social="5">Não há nada de ruim em você, &lt;PCNAME&gt;! Agora posso terminar aqui e voltar para a estação.&lt;BR&gt;&lt;BR&gt;Obrigado.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="26" id="31" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="226" id="100" prevId="0" villagerId="1011">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="226" id="2" prevId="0" villagerId="1011">
+         
+        <Page social="5">Antigos guardiões bloqueiam o caminho do progresso. Sua tarefa é nobre, mas o tempo não tem sido gentil com eles. Se quisermos entender e aproveitar a Fonte de Shara, os {@LinkCreature:26#3001#guardiões da alma} e as {@LinkCreature:26#3002#sentinelas sagradas} devem ser destruídos. Essa tarefa cabe a você.</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="3" prevId="2" villagerId="1011">
+         
+        <Page social="5">Não lamente a perda deles. Eles não eram nem um pouco sencientes, apenas leais às suas ordens.&lt;BR&gt;&lt;BR&gt;Talvez agora possamos entender as propriedades extraordinárias da fonte - e talvez transformá-las em nossas próprias necessidades.</Page>
+    
+    </Text>
+</QuestDialog>

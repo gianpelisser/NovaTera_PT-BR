@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="121" id="11" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="121" id="100" prevId="0" villagerId="220037">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="121" id="2" prevId="0" villagerId="220037">
+         
+        <Page social="0">My friend, I'm sending some scouts into Free Trader territory, but I need you to create a distraction. The collective has a number of noctenium extractors in the area. Disable a few of those—removing the extractor keys should suffice—and they will be too busy investigating to notice my scouts.&lt;BR&gt;&lt;BR&gt;I'll reward you for each extractor key you bring back to me.</Page>
+    
+    </Text>
+    <Text huntingZoneId="121" id="3" prevId="2" villagerId="220037">
+         
+        <Page social="0">&lt;PCNAME&gt;! Not everyone could complete a mission like that, so far into enemy territory. The Enlightened Union is honored to have you among its ranks, friend!&lt;BR&gt;&lt;BR&gt;Today, you truly earned the title &amp;quot;hero.&amp;quot;</Page>
+    
+    </Text>
+    <Text huntingZoneId="121" id="4" villagerId="220037">
+         
+        <Page social="0">May the Enlightened Union prevail!</Page>
+    
+    </Text>
+</QuestDialog>

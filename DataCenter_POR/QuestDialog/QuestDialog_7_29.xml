@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="7" id="29" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="207" id="100" prevId="0" villagerId="1005">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="207" id="2" prevId="0" villagerId="1005">
+         
+        <Page social="5">Conte com o Mysterium para exigir apoio militar - e depois ignore nosso conselho. Eu os avisei que os kumases são perigosos demais para serem estudados de perto, mas eles simplesmente não vão ouvir.&lt;BR&gt;&lt;BR&gt;Especificamente, Siria não vai. Ela é ambiciosa e corajosa, mas de que adianta isso se ela estiver morta? Você acha que pode apoiá-la? Acho que você é exatamente o que ela precisa.&lt;BR&gt;&lt;BR&gt;Tenho um bilhete para {@LinkCreature:207#1009#Siria}. Cuide para que ela o receba, está bem?</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="3" prevId="2" villagerId="1009">
+         
+        <Page social="5">Sim, sim, eu ouvi muito bem o aviso de Heroth. Minha pesquisa não será resolvida na segurança de um acampamento. Tenho que sair a campo se quiser deixar minha marca! &lt;BR&gt;&lt;BR&gt;Então, obrigado por passar a nota dele. Agora, tenho trabalho a fazer.</Page>
+    
+    </Text>
+</QuestDialog>

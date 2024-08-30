@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="9" id="93" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="62" id="100" prevId="0" villagerId="1019">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="62" id="2" prevId="0" villagerId="1019">
+         
+        <Page social="0">Lets see...giant demons...giant eyes...yep, this one's right up your alley.&lt;BR&gt;&lt;BR&gt;You're after the {@LinkCreature:9#1400#Azarel's juggernauts} and {@LinkCreature:9#1410#labyrinthine stalkers}.&lt;BR&gt;&lt;BR&gt;Bring their eyes...don't give me that look, I just dish 'em out...bring their eyes to Noleta.</Page>
+    
+    </Text>
+    <Text huntingZoneId="209" id="3" prevId="2" villagerId="1006">
+         
+        <Page social="4">When the gulas see their precious monsters with their eyes ripped out, maybe they'll "see" that we aren't kidding around out here, eh?</Page>
+    
+    </Text>
+    <Text huntingZoneId="209" id="4" villagerId="1006">
+         
+        <Page social="0">The labyrinth is a dangerous place, but you look like you can handle it.&lt;BR&gt;&lt;BR&gt;You CAN handle it, right?</Page>
+    
+    </Text>
+</QuestDialog>

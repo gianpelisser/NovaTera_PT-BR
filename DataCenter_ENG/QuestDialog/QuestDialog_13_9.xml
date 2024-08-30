@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="9" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="213" id="100" prevId="0" villagerId="1007">
+         
+        <Page social="0">At Chione's request, you fought Acharak and his minions and recovered a simple-looking feather that practically burned with arcane energy.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="2" prevId="0" villagerId="1007">
+         
+        <Page social="4">My airship went down because of these orcans. The worst of them, though, is {@linkcreature:13#1002#Acharak}.&lt;BR&gt;&lt;BR&gt;He took over the entire Tainted Gorge Garrison! I think he has a powerful talisman.&lt;BR&gt;&lt;BR&gt;Kill him and take it, then bring it to Edan. He'll know what we can do with it.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="3" prevId="2" villagerId="1134">
+         
+        <Page social="4">This token is so small, so simple, yet it hurts just to hold it. Such power!&lt;BR&gt;&lt;BR&gt;This is no orcan talisman. Someone imbued this with tremendous magic.&lt;BR&gt;&lt;BR&gt;Well done, &lt;PCNAME&gt;. Thank you.</Page>
+    
+    </Text>
+</QuestDialog>

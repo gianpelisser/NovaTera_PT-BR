@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="6" id="41" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="206" id="100" prevId="0" villagerId="1022">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="206" id="2" prevId="0" villagerId="1022">
+         
+        <Page social="5">{Os Gutrends estão esperando dentro dos portões da base. Se quisermos entrar lá e queimar os Gutrends, precisaremos que os que estão no portão já sejam pilhas de cinzas.&lt;BR&gt;&lt;BR&gt;Vá até lá e se livre deles para que tudo fique mais fácil.</Page>
+    
+    </Text>
+    <Text huntingZoneId="206" id="3" prevId="2" villagerId="1022">
+         
+        <Page social="5">Sim! Agora podemos planejar o ataque. Vai ser incrível a rapidez com que conseguiremos passar por eles sem aqueles guardas no portão.</Page>
+    
+    </Text>
+</QuestDialog>

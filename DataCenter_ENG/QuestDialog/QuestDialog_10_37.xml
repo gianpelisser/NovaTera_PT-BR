@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="10" id="37" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="210" id="100" prevId="0" villagerId="1107">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="210" id="2" prevId="0" villagerId="1107">
+         
+        <Page social="4">Did you know I used to be a woodcutter? Yep. Loved working in the woods...until the day I tangled with a {@LinkCreature:10#5#thickbark ghilliedhu}. After that, it's been soldiering and big-game hunting for me. It's safer!&lt;BR&gt;&lt;BR&gt;I wouldn't mind getting my hands on some ghilliedhu roots, though. Think you can get some?</Page>
+    
+    </Text>
+    <Text huntingZoneId="210" id="3" prevId="2" villagerId="1107">
+         
+        <Page social="4">That's a lot of roots! So here's a lot of reward!</Page>
+    
+    </Text>
+    <Text huntingZoneId="210" id="4" villagerId="1107">
+         
+        <Page social="0">Look, you've got to cut them down. You can't just wait for them to fall of their own accord.</Page>
+    
+    </Text>
+</QuestDialog>

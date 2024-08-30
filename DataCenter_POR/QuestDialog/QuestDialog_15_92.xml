@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="15" id="92" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="67" id="100" prevId="0" villagerId="1015">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="67" id="2" prevId="0" villagerId="1015">
+         
+        <Page social="0">Ordens da missão&lt;BR&gt;&lt;BR&gt;Recolher {@LinkCreature:15#15#Fimbrilisks} no Knoll of Screams.&lt;BR&gt;&lt;BR&gt;Representar-se ao Centurião Amallen, no Campo Retribuição, quando a missão estiver concluída.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="3" prevId="2" villagerId="1010">
+         
+        <Page social="5">A federação pode pagar esse prêmio, portanto, aceite-o.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="4" villagerId="1010">
+         
+        <Page social="0">Há uma recompensa pelas escamas de {@LinkCreature:15#15#Fimbrilisk}, lembra-se?</Page>
+    
+    </Text>
+</QuestDialog>

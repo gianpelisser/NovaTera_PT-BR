@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StrSheet_Npc xmlns="https://vezel.dev/novadrop/dc/StrSheet_Npc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Npc StrSheet_Npc.xsd">
+    <String id="1" string="Dialog" />
+    <String id="2" string="Quest" />
+    <String id="3" string="Shop" />
+    <String id="4" string="Bank" />
+    <String id="5" string="Create Guild" />
+    <String id="6" string="Learn Skills" />
+    <String id="7" string="Available Quests" />
+    <String id="8" string="Parcel Post" />
+    <String id="9" string="View Brokerage" />
+    <String id="11" string="Refine Items" />
+    <String id="12" string="Take a Flight" />
+    <String id="13" string="Applicant Registration" />
+    <String id="14" string="Policy" />
+    <String id="15" string="Taxation" />
+    <String id="16" string="Open Incubator" />
+    <String id="17" string="Equip Pet" />
+    <String id="18" string="Crafting" />
+    <String id="19" string="Teleport" />
+    <String id="20" string="Manage Guild Hall" />
+    <String id="21" string="View Battle Group List" />
+    <String id="22" string="Taxation" />
+    <String id="23" string="Teleport" />
+    <String id="24" string="Exchange Medals" />
+    <String id="25" string="Guild Leveling" />
+    <String id="26" string="Accept Stalwart Aura" />
+    <String id="27" string="Restore Stamina" />
+    <String id="28" string="View Brokerage" />
+    <String id="29" string="Reset Points" />
+    <String id="30" string="Expand Inventory" />
+    <String id="31" string="Guild Emblem" />
+    <String id="32" string="Mission List Complete" />
+    <String id="33" string="Remodel Equipment" />
+    <String id="34" string="Restore Equipment Appearance" />
+    <String id="35" string="Guild Bank" />
+    <String id="36" string="Policy Points" />
+    <String id="37" string="Heal HP" />
+    <String id="38" string="Recover MP" />
+    <String id="39" string="Restore HP and MP" />
+    <String id="40" string="Restore HP, MP, and Stamina" />
+    <String id="41" string="Teleport" />
+    <String id="43" string="Policy point shop" />
+    <String id="44" string="Remove flag" />
+    <String id="45" string="Alliance Information" />
+    <String id="46" string="Join Free Traders Collective" />
+    <String id="47" string="Join Enlightened Union " />
+    <String id="48" string="Join Iron Order" />
+    <String id="49" string="Leave Alliance" />
+    <String id="50" string="Organize Alliance" />
+    <String id="51" string="Register as Exarch Candidate" />
+    <String id="52" string="Allocate Specialty Store" />
+    <String id="53" string="Exarch Powers" />
+    <String id="54" string="Issue Policy Points" />
+    <String id="55" string="Issue Activity Funds" />
+    <String id="56" string="Try Enchantment" />
+    <String id="57" string="Collect Taxes" />
+    <String id="58" string="Adjust Chances of Enchanter" />
+    <String id="59" string="Ride Off Into the Sunset" />
+    <String id="60" string="Battleground Point Shop" />
+    <String id="61" string="Instance Matching" />
+    <String id="62" string="Adjust Enchantment Advantage" />
+    <String id="63" string="Monster Wager" />
+    <String id="64" string="Write a Message" />
+    <String id="66" string="Awakening" />
+    <String id="67" string="Return to nearby town" />
+    <String id="68" string="Awakened Enchantment" />
+    <String id="100" string="Buy Crystals" />
+    <String id="110" string="Buy Crystals" />
+    <String id="120" string="GvG Goods" />
+    <String id="130" string="Shop for Pets" />
+    <String id="140" string="Redeem Cupra Ensiforms" />
+    <String id="141" string="Shop" />
+    <String id="142" string="Shop" />
+    <String id="143" string="Exchange Wintera Token" />
+    <String id="151" string="Claim Support Rewards" />
+    <String id="152" string="Claim Progress Rewards" />
+    <String id="153" string="Claim Dedication Rewards" />
+    <String id="154" string="Claim Frontlines Rewards" />
+    <String id="160" string="Buy General Goods" />
+    <String id="161" string="Buy General Goods" />
+    <String id="170" string="Claim Guild Rewards" />
+    <String id="180" string="Weaponcrafting Materials" />
+    <String id="181" string="Armorcrafting Materials" />
+    <String id="182" string="Armorcrafting Materials" />
+    <String id="183" string="Armorcrafting Materials" />
+    <String id="184" string="Etching Materials" />
+    <String id="185" string="Alchemy Materials" />
+    <String id="190" string="Weapon Designs" />
+    <String id="191" string="Armor Designs" />
+    <String id="192" string="Armor Designs" />
+    <String id="193" string="Armor Designs" />
+    <String id="194" string="Weapon Designs" />
+    <String id="195" string="Alchemy Formulas" />
+    <String id="196" string="Etching Designs" />
+    <String id="210" string="Buy Armor" />
+    <String id="211" string="Buy Weapons" />
+    <String id="221" string="Support Token Melee Weapons" />
+    <String id="222" string="Progress Token Melee Weapons" />
+    <String id="223" string="Dedication Token Melee Weapons" />
+    <String id="224" string="Frontlines Token Melee Weapons" />
+    <String id="231" string="Support Token Foci" />
+    <String id="232" string="Progress Token Foci" />
+    <String id="233" string="Dedication Token Foci" />
+    <String id="234" string="Frontlines Token Foci" />
+    <String id="240" string="Dye Supply Shop" />
+    <String id="250" string="Specialty Store" />
+    <String id="260" string="Equipment Templates" />
+    <String id="270" string="Redeem Oxbow Badges" />
+    <String id="271" string="Redeem Trial Badges" />
+    <String id="272" string="Redeem Necrotic Badges" />
+    <String id="273" string="Redeem Duality Badges" />
+    <String id="274" string="Redeem Eldritch Badges" />
+    <String id="275" string="Redeem Training Badges" />
+    <String id="276" string="Exchange Shattered Shandra Fragment" />
+    <String id="277" string="Exchange Complete Shandra Fragment" />
+    <String id="280" string="Redeem Challenge Receipt" />
+    <String id="281" string="Redeem Minea's Gift" />
+    <String id="282" string="Redeem Tonka's Gift" />
+    <String id="283" string="Redeem Treeshark's Gift" />
+    <String id="286" string="Luxurious Fashions" />
+    <String id="287" string="Elegant Fashions" />
+    <String id="288" string="Stylish Fashions" />
+    <String id="289" string="Fantastic Fashions" />
+    <String id="290" string="Feedstock Exchange" />
+    <String id="291" string="Goldfinger Tokens" />
+    <String id="292" string="Fashion Coupon Shop" />
+    <String id="293" string="Exchange Gold Medals" />
+    <String id="294" string="Exchange Gold Letters" />
+    <String id="295" string="White Day Shop" />
+    <String id="296" string="Black Day Shop" />
+    <String id="297" string="Attendance Stamp Exchange Shop" />
+    <String id="298" string="Golden Letter II Exchange Shop" />
+    <String id="299" string="Mileage Coupon Shop" />
+    <String id="300" string="Specialty Shop" />
+    <String id="302" string="Black Fighter Exchange Shop" />
+    <String id="303" string="Blue Fighter Exchange Shop" />
+    <String id="304" string="Red Fighter Exchange Shop" />
+    <String id="305" string="Goldfinger Tokens" />
+    <String id="306" string="Gold Letter Trading Shop" />
+    <String id="310" string="Exchange Practicum Badge" />
+    <String id="311" string="Exchange Dire Badge" />
+    <String id="312" string="Exchange Dire Badge" />
+    <String id="315" string="Spend Federation Bills" />
+    <String id="316" string="Shop" />
+    <String id="317" string="Shop" />
+    <String id="318" string="Shop" />
+    <String id="319" string="Shop" />
+    <String id="320" string="Shop" />
+    <String id="321" string="Shop" />
+    <String id="322" string="Shop" />
+    <String id="323" string="Shop" />
+    <String id="324" string="Shop" />
+    <String id="325" string="Shop" />
+    <String id="326" string="Shop" />
+    <String id="327" string="Shop" />
+    <String id="328" string="Exchange {@RawItem:45312}" />
+    <String id="329" string="Exchange Downy Hair" />
+    <String id="330" string="Exchange Arkai Feather" />
+    <String id="331" string="Redeem Halloween Candy" />
+    <String id="332" string="Halloween Skill Book" />
+    <String id="333" string="Halloween Box" />
+	<String id="335" string="Spend Forge Flame Tokens" />
+	
+	<!--Весенний ивент-->
+	<String id="337" string="Gifts of Spring" />
+	<String id="337001" string="Gifts of Spring" />
+	
+	<String id="338" string="Perth Runes" />
+	<String id="338001" string="Perth Runes" />
+	
+	<String id="339" string="Laguz Runes" />
+	<String id="339001" string="Laguz Runes" />
+	
+	<String id="340" string="Costume from Wonderholme" />
+	<String id="340001" string="Costume from Wonderholme" />
+	
+	<String id="341" string="Equipment from Wonderholme" />
+	<String id="341001" string="Equipment from Wonderholme" />
+	
+	<String id="342" string="Exchange of solar stamps" />
+	<String id="342001" string="Exchange of solar stamps" />
+	
+	<String id="343" string="Conqueror's Token of Crucible" />
+	<String id="343001" string="Conqueror's Token of Crucible" />
+	
+	<String id="344" string="Token of the brave war" />
+	<String id="344001" string="Token of the brave war" />
+	
+	<String id="399" string="Summer Token" />
+	<String id="399001" string="Summer Token" />
+	
+	<String id="400" string="Bloody Token" />
+	<String id="400001" string="Bloody Token" />
+	
+    <String id="510" string="Spend Silver Talents" />
+    <String id="511" string="Spend Gold Talents" />
+    <String id="512" string="Spend Gold Talents" />
+    <String id="513" string="Shop" />
+    <String id="514" string="Shop" />
+    <String id="515" string="Shop" />
+    <String id="600" string="Peddler's Shop" />
+    <String id="609" string="Valkyon Scout Supply" />
+    <String id="1001" string="Previous" />
+    <String id="1002" string="Next" />
+    <String id="1003" string="Cancel" />
+    <String id="1201" string="General Goods" />
+    <String id="1301" string="Pets" />
+    <String id="1302" string="Pet Training" />
+    <String id="1401" string="Weapons" />
+    <String id="1402" string="Armor" />
+    <String id="1403" string="Accessories" />
+    <String id="1404" string="Supplies" />
+    <String id="1411" string="Crafting Design I" />
+    <String id="1412" string="Crafting Materials" />
+    <String id="1413" string="General Goods" />
+    <String id="1414" string="Crafting Materials (Old)" />
+    <String id="1421" string="Crafting Design I" />
+    <String id="1422" string="Supplies" />
+    <String id="1423" string="Crafting Design III" />
+    <String id="1424" string="Crafting Materials" />
+    <String id="1431" string="Consumables" />
+    <String id="1432" string="Costume" />
+    <String id="1433" string="Accessory" />
+    <String id="1511" string="Weapons" />
+    <String id="1512" string="Armor" />
+    <String id="1521" string="Weapons" />
+    <String id="1522" string="Armor" />
+    <String id="1531" string="Weapons" />
+    <String id="1532" string="Armor" />
+    <String id="1541" string="Weapons" />
+    <String id="1542" string="Armor" />
+    <String id="1601" string="General Goods" />
+    <String id="1602" string="Combat" />
+    <String id="1603" string="Extraction Lessons" />
+    <String id="1604" string="Scrolls" />
+    <String id="1701" string="Combat" />
+    <String id="1801" string="Refining Kits" />
+    <String id="1802" string="Weapon Kits" />
+    <String id="1811" string="Refining Kits" />
+    <String id="1812" string="Armor Kits" />
+    <String id="1821" string="Refining Kits" />
+    <String id="1822" string="Armor Kits" />
+    <String id="1831" string="Refining Kits" />
+    <String id="1832" string="Armor Kits" />
+    <String id="1841" string="Refining Kits" />
+    <String id="1842" string="Extra" />
+    <String id="1851" string="Refining Kits" />
+    <String id="1852" string="Kits &amp; Catalysts" />
+    <String id="1853" string="Refining Kits" />
+    <String id="1854" string="Etching Kits" />
+    <String id="1855" string="Misc" />
+    <String id="1900" string="Materials" />
+    <String id="1901" string="Melee Weapons" />
+    <String id="1902" string="Magic Weapons" />
+    <String id="1903" string="Artisan" />
+    <String id="1905" string="Materials" />
+    <String id="1906" string="Artisan" />
+    <String id="1907" string="Artisan" />
+    <String id="1910" string="Materials" />
+    <String id="1911" string="Chest Armor" />
+    <String id="1912" string="Gloves/Shoes" />
+    <String id="1913" string="Artisan" />
+    <String id="1941" string="Discs" />
+    <String id="1942" string="Bows" />
+    <String id="1943" string="Staves" />
+    <String id="1944" string="Scepters" />
+    <String id="1951" string="Materials" />
+    <String id="1952" string="Potions" />
+    <String id="1953" string="Scrolls" />
+    <String id="1954" string="Artisan" />
+    <String id="2001" string="Glyphs" />
+    <String id="2002" string="Glyphs" />
+    <String id="2003" string="Glyphs" />
+    <String id="2004" string="Glyphs" />
+    <String id="2005" string="Glyphs" />
+    <String id="2006" string="Glyphs" />
+    <String id="2007" string="Glyphs" />
+    <String id="2008" string="Glyphs" />
+    <String id="2101" string="Metal Armor" />
+    <String id="2102" string="Leather Armor" />
+    <String id="2103" string="Cloth Armor" />
+    <String id="2111" string="Melee Weapons" />
+    <String id="2112" string="Foci" />
+    <String id="2211" string="Twin Swords" />
+    <String id="2212" string="Lances" />
+    <String id="2213" string="Greatswords" />
+    <String id="2214" string="Axes" />
+    <String id="2221" string="Twin Swords" />
+    <String id="2222" string="Lances" />
+    <String id="2223" string="Greatswords" />
+    <String id="2224" string="Axes" />
+    <String id="2231" string="Twin Swords" />
+    <String id="2232" string="Lances" />
+    <String id="2233" string="Greatswords" />
+    <String id="2234" string="Axes" />
+    <String id="2241" string="Twin Swords" />
+    <String id="2242" string="Lances" />
+    <String id="2243" string="Greatswords" />
+    <String id="2244" string="Axes" />
+    <String id="2311" string="Discs" />
+    <String id="2312" string="Bows" />
+    <String id="2313" string="Staves" />
+    <String id="2314" string="Scepters" />
+    <String id="2321" string="Discs" />
+    <String id="2322" string="Bows" />
+    <String id="2323" string="Staves" />
+    <String id="2324" string="Scepters" />
+    <String id="2331" string="Discs" />
+    <String id="2332" string="Bows" />
+    <String id="2333" string="Staves" />
+    <String id="2334" string="Scepters" />
+    <String id="2341" string="Discs" />
+    <String id="2342" string="Bows" />
+    <String id="2343" string="Staves" />
+    <String id="2344" string="Scepters" />
+    <String id="2401" string="Empty Vials" />
+    <String id="2402" string="Dye Kits" />
+    <String id="2501" string="Combat Supplies" />
+    <String id="2502" string="Arcane Supplies" />
+    <String id="2503" string="Weapon crystals" />
+    <String id="2504" string="Armor crystals" />
+    <String id="2505" string="Teleport Scroll" />
+    <String id="2601" string="Weapon" />
+    <String id="2602" string="Metal Armor" />
+    <String id="2603" string="Leather Armor" />
+    <String id="2604" string="Cloth Armor" />
+    <String id="2721" string="Equipment" />
+    <String id="2731" string="Equipment" />
+    <String id="2741" string="Equipment" />
+    <String id="2751" string="Equipment" />
+    <String id="2801" string="Costume" />
+    <String id="2811" string="Equipment" />
+    <String id="2821" string="Equipment" />
+    <String id="2831" string="Equipment" />
+    <String id="2861" string="Leather" />
+    <String id="2862" string="Metal" />
+    <String id="2863" string="Cloth" />
+    <String id="2864" string="&lt;font color='#80e71c'&gt;Left-click&lt;/font&gt; fashions to &lt;font color='#80e71c'&gt;try them on&lt;/font&gt;." />
+    <String id="2871" string="Leather" />
+    <String id="2872" string="Metal" />
+    <String id="2873" string="Cloth" />
+    <String id="2874" string="&lt;font color='#80e71c'&gt;Left-click&lt;/font&gt; fashions to &lt;font color='#80e71c'&gt;try them on&lt;/font&gt;." />
+    <String id="2880" string="Special" />
+    <String id="2881" string="Leather" />
+    <String id="2882" string="Metal" />
+    <String id="2883" string="Cloth" />
+    <String id="2884" string="&lt;font color='#80e71c'&gt;Left-click&lt;/font&gt; fashions to &lt;font color='#80e71c'&gt;try them on&lt;/font&gt;." />
+    <String id="2890" string="Special" />
+    <String id="2891" string="Leather" />
+    <String id="2892" string="Metal" />
+    <String id="2893" string="Cloth" />
+    <String id="2894" string="&lt;font color='#80e71c'&gt;Left-click&lt;/font&gt; fashions to &lt;font color='#80e71c'&gt;try them on&lt;/font&gt;." />
+    <String id="2900" string="Merchandise" />
+    <String id="2901" string="Superior Weapons" />
+    <String id="2902" string="Superior Armor" />
+    <String id="2903" string="Rare Weapons" />
+    <String id="2904" string="Rare Armor" />
+    <String id="2910" string="Sealed Chest" />
+    <String id="2911" string="Warrior" />
+    <String id="2912" string="Lancer" />
+    <String id="2913" string="Slayer" />
+    <String id="2914" string="Berserker" />
+    <String id="2915" string="Sorcerer" />
+    <String id="2916" string="Archer" />
+    <String id="2917" string="Priest" />
+    <String id="2918" string="Mystic" />
+    <String id="2919" string="Feedstock" />
+    <String id="2931" string="Costumes" />
+    <String id="2932" string="Weapons" />
+    <String id="2933" string="Goldfinger Specials" />
+    <String id="2934" string="Consumables" />
+    <String id="2935" string="Exchange List" />
+    <String id="2936" string="Exchange List" />
+    <String id="2937" string="Exchange List" />
+    <String id="2938" string="Goldfinger Scrolls" />
+    <String id="2939" string="Exchange List" />
+    <String id="2940" string="Love Token Exchange" />
+    <String id="2944" string="Token Exchange" />
+    <String id="2949" string="" />
+    <String id="3000" string="Grab It Now" />
+    <String id="3001" string="Dress Up" />
+    <String id="3002" string="Cool Stuff" />
+    <String id="3003" string="Exclusives" />
+    <String id="3010" string="Rare Finds" />
+    <String id="3013" string="Crystals" />
+    <String id="3014" string="Invalesco Goods" />
+    <String id="3015" string="Rare Finds" />
+    <String id="3018" string="Crystals" />
+    <String id="3019" string="Shariar Goods" />
+    <String id="3020" string="Rare Finds" />
+    <String id="3023" string="Crystals" />
+    <String id="3024" string="Valsekyr Goods" />
+    <String id="3025" string="Rare Finds" />
+    <String id="3028" string="Crystals" />
+    <String id="3029" string="Hyderad Goods" />
+    <String id="3030" string="Crystals" />
+    <String id="3031" string="Hands of Velika Goods" />
+    <String id="3032" string="Neutral" />
+    <String id="3033" string="Favorable" />
+    <String id="3034" string="Friendly" />
+    <String id="3035" string="Trusted/Revered" />
+    <String id="3036" string="Weapons" />
+    <String id="3037" string="Armor" />
+    <String id="3038" string="Rare Finds" />
+    <String id="3039" string="General Goods" />
+    <String id="3040" string="General Goods" />
+    <String id="3041" string="General Goods" />
+    <String id="3042" string="Brooches" />
+    <String id="3043" string="Belts" />
+    <String id="3044" string="Trusted" />
+    <String id="3045" string="Revered" />
+    <String id="3046" string="Faction Gear" />
+    <String id="3047" string="Abnegate Set" />
+    <String id="3048" string="Moloch Set" />
+    <String id="3050" string="Armor" />
+    <String id="3051" string="Armor" />
+    <String id="3052" string="Revered" />
+    <String id="6090" string="Valkyon Scout Crystal" />
+    <String id="6091" string="Equipment" />
+    <String id="6092" string="Superior Glyph" />
+    <String id="6093" string="Special" />
+    <String id="6094" string="Costumes" />
+    <String id="6095" string="Weapons" />
+    <String id="6096" string="Armor" />
+    <String id="6097" string="Accessories" />
+    <String id="6098" string="Special" />
+    <String id="7000" string="Splash Cannon Mini-Game" />
+    <String id="7001" string="Blind Melon Bash Mini-Game" />
+    <String id="7002" string="Whack-a-Snake Mini-Game" />
+    <String id="7003" string="Splash Cannon Mini-Game" />
+    <String id="7005" string="[Mini Game] Kick-Bale" />
+    <String id="7006" string="[Mini Game] Pigling Rodeo" />
+    <String id="7007" string="Drum Away Mini-Game" />
+    <String id="9121" string="Raid Products" />
+    <String id="9122" string="Infusers" />
+    <String id="9123" string="Weapon Fusion Recipes" />
+    <String id="9124" string="Armor Fusion Recipes" />
+    <String id="9125" string="Officers Only" />
+    <String id="9126" string="Officers Only" />
+    <String id="9127" string="Officers Only" />
+    <String id="9128" string="Officers Only" />
+    <String id="9129" string="Officers Only" />
+    <String id="9130" string="Officers Only" />
+    <String id="9131" string="Officers Only" />
+    <String id="9132" string="Officers Only" />
+    <String id="9133" string="Officers Only" />
+    <String id="9134" string="Officers Only" />
+    <String id="9135" string="Officers Only" />
+    <String id="9136" string="Officers Only" />
+    <String id="9137" string="Officers Only" />
+    <String id="9138" string="Officers Only" />
+    <String id="9139" string="Officers Only" />
+    <String id="10001" string="Weapon" />
+    <String id="10002" string="Armor" />
+    <String id="16058" string="Buy General Goods" />
+    <String id="16059" string="Buy General Goods" />
+    <String id="16060" string="Buy General Goods" />
+    <String id="16061" string="Buy General Goods" />
+    <String id="16062" string="Buy General Goods" />
+    <String id="16063" string="Buy General Goods" />
+    <String id="16064" string="Buy General Goods" />
+    <String id="16065" string="Buy General Goods" />
+    <String id="16066" string="Buy General Goods" />
+    <String id="16067" string="Buy General Goods" />
+    <String id="16068" string="Buy General Goods" />
+    <String id="16069" string="Buy General Goods" />
+    <String id="16070" string="Buy General Goods" />
+    <String id="16071" string="Buy General Goods" />
+    <String id="16072" string="Buy General Goods" />
+    <String id="16073" string="Buy General Goods" />
+    <String id="16074" string="Buy General Goods" />
+    <String id="16075" string="Buy General Goods" />
+    <String id="16076" string="Buy General Goods" />
+    <String id="16077" string="Buy General Goods" />
+    <String id="16078" string="Buy General Goods" />
+    <String id="16079" string="Buy General Goods" />
+    <String id="16080" string="Buy General Goods" />
+    <String id="16081" string="Buy General Goods" />
+    <String id="16083" string="Buy General Goods" />
+    <String id="16084" string="Buy General Goods" />
+    <String id="16085" string="Buy General Goods" />
+    <String id="16086" string="Buy General Goods" />
+    <String id="16087" string="Merchant" />
+    <String id="29201" string="Style Weapon" />
+    <String id="29202" string="Style Armor" />
+    <String id="29203" string="Dye Tool" />
+    <String id="29204" string="Exclusively for Reapers" />
+    <String id="29205" string="Exclusively for Reapers" />
+    <String id="40000" string="Equipment List" />
+    <String id="40001" string="Weapons" />
+    <String id="40002" string="Armor" />
+    <String id="40003" string="Accessories" />
+    <String id="40004" string="General Goods" />
+    <String id="40005" string="Crystals" />
+    <String id="40006" string="General Goods" />
+    <String id="60901" string="Lancer Glyphs" />
+    <String id="60902" string="Warrior Glyphs" />
+    <String id="60903" string="Slayer Glyphs" />
+    <String id="60904" string="Berserker Glyphs" />
+    <String id="60905" string="Archer Glyphs" />
+    <String id="60906" string="Sorcerer Glyphs" />
+    <String id="60907" string="Priest Glyphs" />
+    <String id="60908" string="Mystic Glyphs" />
+    <String id="60909" string="Reaper Glyphs" />
+    <String id="70001" string="Dessert Necessities" />
+    <String id="70002" string="Toy Kits" />
+    <String id="70003" string="Party Favors" />
+    <String id="70004" string="Exchange Molten Tokens" />
+    <String id="70005" string="Weapons" />
+    <String id="70006" string="Armors" />
+    <String id="70007" string="Rubra Tokens" />
+    <String id="70008" string="Arcta Tokens" />
+    <String id="70010" string="Exchange Cyasma Tokens" />
+    <String id="70011" string="Weapons" />
+    <String id="70012" string="Armors" />
+    <String id="70013" string="Bamarama Tickets" />
+    <String id="70014" string="Rootstock Merchant" />
+    <String id="70015" string="Rootstock Recipes" />
+    <String id="70016" string="Cooking Ingredients" />
+    <String id="70017" string="Pond Faire Merchant" />
+    <String id="70018" string="Teleport Scrolls" />
+    <String id="70019" string="Exchange Rubra Tokens" />
+    <String id="70020" string="Weapons" />
+    <String id="70021" string="Armor" />
+    <String id="70022" string="Exchange Arcta Tokens" />
+    <String id="70023" string="Weapons" />
+    <String id="70024" string="Armor" />
+    <String id="70025" string="Accessories" />
+    <String id="70026" string="Accessories" />
+    <String id="70311" string="Merchant" />
+    <String id="80000" string="Exclusive" />
+    <String id="80001" string="Groceries" />
+    <String id="80002" string="Groceries" />
+    <String id="609011" string="Uncommon" />
+    <String id="609012" string="Uncommon" />
+    <String id="703110" string="General Goods" />
+    <String id="703111" string="Combat" />
+    <String id="703112" string="Extracting" />
+    <String id="703113" string="Teleport Scrolls" />
+    <String id="912100" string="Quartermaster Shop" />
+    <String id="912200" string="Officers' Shop" />
+    <String id="912300" string="Officers' Shop" />
+    <String id="912400" string="Officers' Shop" />
+    <String id="912500" string="Noctenium Society Reputation Goods" />
+    <String id="964610" string="Ambition Equipment" />
+    <String id="964611" string="Weapons" />
+    <String id="964612" string="Armor" />
+    <String id="1022327" string="Shop" />
+    <String id="9122001" string="Officers' Shop" />
+    <String id="9122002" string="Officers' Shop" />
+    <String id="9122003" string="Officers' Shop" />
+    <String id="9122004" string="Officers' Shop" />
+    <String id="9123001" string="Officers' Shop" />
+    <String id="9123002" string="Officers' Shop" />
+    <String id="9123003" string="Officers' Shop" />
+    <String id="9123004" string="Officers' Shop" />
+    <String id="9124001" string="Officers' Shop" />
+    <String id="9124002" string="Officers' Shop" />
+    <String id="9124003" string="Officers' Shop" />
+    <String id="9124004" string="Officers' Shop" />
+    <String id="9125001" string="Combat Supplies" />
+    <String id="9125002" string="Misc." />
+    <String id="9125003" string="Crystals" />
+    <String id="9999001" string="Time Travelers Shop" />
+    <String id="9999002" string="Enchanted Chest" />
+    <String id="41150171" string="Awaken equipment." />
+    <String id="41150172" string="Enchant awakened equipment." />
+	<String id="9095335" string="Jewelry" />
+</StrSheet_Npc>

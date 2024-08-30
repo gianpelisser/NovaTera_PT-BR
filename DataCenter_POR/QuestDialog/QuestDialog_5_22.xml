@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="5" id="22" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="59" id="100" prevId="0" villagerId="1099">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="59" id="2" prevId="0" villagerId="1099">
+         
+        <Page social="5">Não tenha medo. Batooni não está aqui para matar você. Eu amo a paz. Você me ajudaria? &lt;BR&gt;&lt;BR&gt;Há um lugar chamado Tuwangi Mire ao sul daqui. Os tuwangis estavam vivendo pacificamente lá. Mas os tuwangis martelo de pedra enganaram os tuwangis para que se voltassem contra os humanos.&lt;BR&gt;&lt;BR&gt;Eu o levarei a um lugar chamado Marshlands. Posso levá-lo até lá em um piscar de olhos, e você poderá se encontrar com {@LinkCreature:205#1017#Rathe}. Diga a ele que você está lá para ajudar os tuwangis.</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="3" prevId="2" villagerId="1017">
+         
+        <Page social="5">Um tuwangi montado em um sapo enorme lhe enviou? Oh, céus, de novo não...&lt;BR&gt;&lt;BR&gt;Pode ser uma questão urgente para eles, mas dez pessoas por semana vêm aqui por causa dele.&lt;BR&gt;&lt;BR&gt;Quem se importa se as tribos tuwangi se revoltam umas contra as outras? Aquelas coisinhas que parecem sapos agem como se fossem o centro do mundo, mas tudo o que fazem é andar em bando e tocar tambores.&lt;BR&gt;&lt;BR&gt;Bem, você está aqui, então eu agradeceria se você ajudasse aqui no acampamento. É melhor do que olhar para a "paisagem" - um pântano encharcado e coberto de lama.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="10" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="213" id="100" prevId="0" villagerId="1008">
+         
+        <Page social="0">Leander instruiu Jehan a escrever um relatório para a Base da Torre sobre a corrupção demoníaca. Você entregou o relatório à Tribuna Adria e ao Conselheiro Teil.&lt;BR&gt;&lt;BR&gt;Adria e Teil, preocupados com a gravidade da situação, começaram a fazer planos para lidar com os demônios.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="2" prevId="0" villagerId="1008">
+         
+        <Page social="4">Jehan gosta de escrever relatórios, o que serve tanto para mim quanto para a Adria. Ele já tem um pronto. Leve o relatório para Adria.&lt;BR&gt;&lt;BR&gt;Saiba que Leander de Allemantheia o considera um amigo, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="3" prevId="2" villagerId="1130">
+         
+        <Page social="4">É claro que Leander deve ser respeitado em todos os aspectos, mas ele certamente não gosta de papelada. A menos que seja algo para uma revista acadêmica. Publicar ou perecer, você sabe.&lt;BR&gt;&lt;BR&gt;Agora, que relatório era esse? &lt;NEXTPAGEBUTTON&gt;"Aquele com a corrupção demoníaca."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Ah, sim. Esse... certo.&lt;BR&gt;&lt;BR&gt;Leia-o com boa saúde. Há trabalho a ser feito.</Page>
+    
+    </Text>
+    <Text huntingZoneId="64" id="4" prevId="3" villagerId="1001">
+         
+        <Page social="4">Não tenho motivos para duvidar das conclusões de Leander, especialmente à luz do que sofremos.&lt;BR&gt;&lt;BR&gt;Leve este relatório ao &lt;font color='#660000'&gt;Conselheiro Teil&lt;/font&gt; imediatamente. Ele está subindo as escadas. &lt;BR&gt;&lt;BR&gt;Ele deve entender o que estamos enfrentando.</Page>
+    
+    </Text>
+    <Text huntingZoneId="64" id="5" prevId="4" villagerId="1009">
+         
+        <Page social="4">O desfiladeiro contaminado, hein? Isso não é surpreendente. Tudo nessa área me enche de pavor. Você foi de grande ajuda com isso, &lt;PCNAME&gt;. Muito bem.&lt;BR&gt;&lt;BR&gt;Volte para Adria com meus agradecimentos. Ela receberá suas próximas ordens.</Page>
+    
+    </Text>
+</QuestDialog>

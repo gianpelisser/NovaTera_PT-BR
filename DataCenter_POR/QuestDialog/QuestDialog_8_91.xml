@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="8" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="61" id="100" prevId="0" villagerId="1013">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="61" id="2" prevId="0" villagerId="1013">
+         
+        <Page social="4">Ordens da missão&lt;BR&gt;&lt;BR&gt;Eliminar as {@LinkCreature:8#1011#hulking sentries}, {@LinkCreature:8#1021#cromos prowlers} e {@LinkCreature:8#1031#Caprin imps}.&lt;BR&gt;&lt;BR&gt;Relatar a Narisa na base de infiltração de gula quando a missão estiver concluída.</Page>
+    
+    </Text>
+    <Text huntingZoneId="208" id="3" prevId="2" villagerId="1003">
+         
+        <Page social="4">Pronto, pronto, pronto! Outra ordem de missão da qual podemos simplesmente lavar as mãos! &lt;BR&gt;&lt;BR&gt;Por favor, aceite isso como sua contribuição para a causa!</Page>
+    
+    </Text>
+    <Text huntingZoneId="208" id="4" villagerId="1003">
+         
+        <Page social="0">Hmm? Não, não, não. Você executa as ordens e depois eu lhe dou a recompensa. É assim que funciona.&lt;BR&gt;&lt;BR&gt;Você deve ser novo. Sem ressentimentos. Apenas vá para lá.</Page>
+    
+    </Text>
+</QuestDialog>

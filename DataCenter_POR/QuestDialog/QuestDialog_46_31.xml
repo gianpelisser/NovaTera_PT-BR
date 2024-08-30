@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="46" id="31" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="246" id="100" prevId="0" villagerId="1035">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="246" id="2" prevId="0" villagerId="1035">
+         
+        <Page social="4">Na parte mais profunda da Raga Shadi há argonss, é claro. Mas o que me fascina são os demônios do pesadelo argonomorfos. Achamos que o sangue deles reage de alguma forma aos mortais que sonham. Em outras palavras, eles ficam mais fortes sempre que dormimos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="3" prevId="2" villagerId="1035">
+         
+        <Page social="4">Não deixe o sangue entrar em contato com você. O sangue contaminado pelo pesadelo pode levá-lo à loucura se for exposto a uma quantidade suficiente dele.&lt;BR&gt;&lt;BR&gt;Você conhece as torres, certo? Já esteve na Soulsurge Chamber, a leste? Bem, esse é seu próximo destino.</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="4" villagerId="1035">
+         
+        <Page social="0">O sangue de {@Creature:46#402#argonomorph nightmare fiends} reage aos sonhos dos mortais. Precisamos descobrir como.</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="5" prevId="3" villagerId="1036">
+         
+        <Page social="4">Flinton o enviou rapidamente. Ou você é muito eficiente, ou... não, deve ser isso. Você é simplesmente bom no que faz.</Page>
+    
+    </Text>
+</QuestDialog>

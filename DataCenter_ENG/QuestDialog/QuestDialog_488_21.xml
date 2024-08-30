@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="488" id="21" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="216" id="100" prevId="0" villagerId="1011">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="216" id="2" prevId="0" villagerId="1011">
+         
+        <Page social="5">Have you heard about the traitor, Kagaron? He sold us out to Atel Akaad!&lt;BR&gt;&lt;BR&gt;But he didn't seem too happy when the vampirs dragged him into Sinestral Manor. I guess treason doesn't pay, eh &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;We should make sure that the federation delivers final judgment on him, not the vampirs. Poetic justice, you might say.</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="3" prevId="2" villagerId="1011">
+         
+        <Page social="5">Kagaron got what he deserved. Well, he deserved worse, I suppose.&lt;BR&gt;&lt;BR&gt;he didn't get away with it...er...&lt;BR&gt;&lt;BR&gt;Not for long, anyway!</Page>
+    
+    </Text>
+</QuestDialog>

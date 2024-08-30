@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="49" id="38" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="249" id="100" prevId="0" villagerId="1004">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="249" id="2" prevId="0" villagerId="1004">
+         
+        <Page social="4">(Esse altar parece bem desgastado.)&lt;BR&gt;&lt;BR&gt;(Você vê o contorno tênue de uma árvore e um sigilo desconhecido).</Page>
+    
+    </Text>
+    <Text huntingZoneId="249" id="3" prevId="2" villagerId="1002">
+         
+        <Page social="6">Enfrentamos o tempo, os elementos, as raças mortais e agora essas abominações horríveis. Elas nos machucam e tentam nos distorcer. Obrigado por nos proteger de seus ataques.&lt;BR&gt;&lt;BR&gt;Se você tiver alguns fragmentos de iteris, use-os perto do {@Rgn:49005}.&lt;BR&gt;&lt;BR&gt;Você não se arrependerá!</Page>
+    
+    </Text>
+    <Text huntingZoneId="249" id="4" prevId="3" villagerId="1002">
+         
+        <Page social="6">Agora você está ligado à Árvore de Casian.&lt;BR&gt;&lt;BR&gt;Graças ao poder do fragmento, toda vez que você passar por aqui, compartilharemos nossa força com você.&lt;BR&gt;&lt;BR&gt;Despedida. Nós lhe desejamos sucesso em sua batalha contra os horrores azuis.</Page>
+    
+    </Text>
+</QuestDialog>

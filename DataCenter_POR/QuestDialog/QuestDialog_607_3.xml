@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="607" id="3" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="72" id="100" prevId="0" villagerId="1703">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="72" id="2" prevId="0" villagerId="1703">
+         
+        <Page social="4">Você é o novo &lt;PCCLASS:lcase&gt;, hein? &lt;BR&gt;&lt;BR&gt;Bom, preciso de sua ajuda. Fiquei sem materiais para fazer papel mágico, que usamos para registrar observações quando nossas mãos estão ocupadas demais para escrever.&lt;BR&gt;&lt;BR&gt;Para fazer mais papel, precisamos de madeira de banha. E nós a obtemos - sim, da maneira mais difícil - dos guardiões da floresta e dos xamãs da Montanha Bluefirst.&lt;BR&gt;&lt;BR&gt;Vão, vão, vão! Preciso de madeira de banha imediatamente!</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="3" prevId="2" villagerId="1703">
+         
+        <Page social="4">Mais rápido do que eu pensava, &lt;PCCLASS:lcase&gt;. Estou impressionado.&lt;BR&gt;&lt;BR&gt;Sempre precisaremos de papel mágico e, portanto, sempre precisaremos de madeira de banha. Tenha isso em mente quando nos visitar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="4" villagerId="1703">
+         
+        <Page social="0">Sem o papel mágico, minha - quero dizer, "nossa" - genialidade não será registrada! Pegue um imediatamente.</Page>
+    
+    </Text>
+</QuestDialog>

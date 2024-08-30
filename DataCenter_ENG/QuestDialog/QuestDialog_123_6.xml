@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="123" id="6" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="123" id="100" prevId="0" villagerId="220020">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="123" id="2" prevId="0" villagerId="220020">
+         
+        <Page social="0">We've discovered one unique item in the area—crystalline noctenium. This may be exactly what I need to break through and unlock the power of noctenium.&lt;BR&gt;&lt;BR&gt;You'll have to break off shards from the {@linkcreature:123#501#crystalline noctenium}—and by break off, I mean strike it with all the power your &lt;PCCLass:lcase&gt;'s weapon can muster.</Page>
+    
+    </Text>
+    <Text huntingZoneId="123" id="3" prevId="2" villagerId="220020">
+         
+        <Page social="4">Excellent. I trust the task wasn't too hard?</Page>
+    
+    </Text>
+    <Text huntingZoneId="123" id="4" villagerId="220020">
+         
+        <Page social="0">My research is imperative for the continuous success of the Iron Order.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="702" id="12" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="205" id="100" prevId="0" villagerId="2000">
+         
+        <Page social="0">You helped the tuwangis and joined in the Pond Faire.</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="2" prevId="0" villagerId="2000">
+         
+        <Page social="4">Pond Faire is a ceremony for tuwangis turning seven years old. The tuwangi rituals are surprisingly complicated for such a simple species!&lt;BR&gt;&lt;BR&gt;Speak to the shaman, Haroso. Perhaps he'll let you observe the young tuwangis, or even join in. &lt;NEXTPAGEBUTTON&gt;Okay.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="3" prevId="2" villagerId="2001">
+         
+        <Page social="4">Young tuwangi have fear. Hiding now. Must find. Must make brave! &lt;NEXTPAGEBUTTON&gt;How can I help?&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Haroso give drum.&lt;BR&gt;Bang, bang drum! Hit drum to make tuwangi brave.&lt;BR&gt;&lt;BR&gt;Find tuwangi! Bang drum. Make brave.</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="4" prevId="3" villagerId="2006">
+         
+        <Page social="4">So...scary.</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="5" prevId="4" villagerId="2001">
+         
+        <Page social="4">Thank you! You work hard. We feast!&lt;BR&gt;&lt;BR&gt;Big feast for your work! &lt;NEXTPAGEBUTTON&gt;I didn’t do that much.&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">You bring feast! Bring dragon meat! All tuwangis feast! Dragon meat best!</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="6" prevId="5" villagerId="2001">
+         
+        <Page social="4">Dragon meat!</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="7" villagerId="2001">
+         
+        <Page social="0">Dragon meat!</Page>
+    
+    </Text>
+</QuestDialog>

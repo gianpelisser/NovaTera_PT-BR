@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="22" id="36" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="222" id="100" prevId="0" villagerId="1027">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="222" id="2" prevId="0" villagerId="1027">
+         
+        <Page social="5">Aparentemente, nossos inimigos incluem os Scions of Lok. Você já lutou contra eles antes, não foi? &lt;BR&gt;&lt;BR&gt;Os {@LinkCreature:22#30#cardeais das trevas} treinaram os {@LinkCreature:22#29#volitivos diminutos} para servi-los e eles protegeram as catacumbas. Apenas mate todos eles.</Page>
+    
+    </Text>
+    <Text huntingZoneId="222" id="3" prevId="2" villagerId="1027">
+         
+        <Page social="5">Os cultistas nunca enfrentarão a chamada justiça da federação. Quando recuperarmos a Academia Eldritch, reuniremos nossas forças e infligiremos tamanho sofrimento a eles que desejarão que Shakan os tenha despedaçado. Normalmente não fico tão furioso.</Page>
+    
+    </Text>
+</QuestDialog>

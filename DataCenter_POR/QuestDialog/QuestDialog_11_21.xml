@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="11" id="21" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="62" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="62" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="4">Costumava ser tão simples: Os piratas perseguem os comerciantes, e a marinha persegue os piratas. Aventura em alto mar por toda parte.&lt;BR&gt;&lt;BR&gt;Depois vieram os nagas e exterminaram todos os piratas, e o mar ficou vermelho de sangue. Não há código de piratas, nem lei do mar, nem nada.&lt;BR&gt;&lt;BR&gt;O pior são os sequestros. Não há resgate nem nada - acho que os nagas simplesmente comem seus prisioneiros. Então, temos muitos órfãos por aí, como Govan. Poderia se certificar de que o rapaz está bem? Não o vejo há algum tempo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="62" id="3" prevId="2" villagerId="1006">
+         
+        <Page social="4">Procurando por Govan? Eu o vi indo para o oeste há pouco tempo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="62" id="4" prevId="3" villagerId="1016">
+         
+        <Page social="13">Deixe-me adivinhar. Sião mandou você me levar para casa, certo? Bem, eu não vou! &lt;BR&gt;&lt;BR&gt;Pelo menos não até que os nagas paguem pelo que aconteceu com minha mãe... com sangue! Dizem que sou jovem demais para lutar, mas sou velho demais para ficar sentado na aldeia sem fazer nada.&lt;NEXTPAGEBUTTON&gt;"Você não pode fazer isso sozinho..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="13">Não, não posso... mas você pode, aposto! &lt;BR&gt;&lt;BR&gt;Pois, você também estaria ajudando os soldados daqui. Apenas vingue minha mãe daqueles piratas do Red Lash.</Page>
+    
+    </Text>
+    <Text huntingZoneId="211" id="5" prevId="4" villagerId="1005">
+         
+        <Page social="4">Essa é uma promessa e tanto que você fez... Como você viu, o chicote vermelho deixa apenas dor em seu rastro.&lt;BR&gt;&lt;BR&gt;Certifique-se de manter a promessa que fez àquele garotinho, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Talvez você evite o próximo grupo de órfãos por aqui.</Page>
+    
+    </Text>
+</QuestDialog>

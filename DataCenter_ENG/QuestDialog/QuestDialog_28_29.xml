@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="29" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="228" id="100" prevId="0" villagerId="1012">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="228" id="2" prevId="0" villagerId="1012">
+         
+        <Page social="5">The worst thing isn't dying, it's dying of the plague. You can't be resurrected. You just rise up as one of those horrid wraiths.&lt;BR&gt;&lt;BR&gt;The biggest threat comes from those {@LinkCreature:28#2021#plagued cullars} and {@LinkCreature:28#2031#plagued tentacullars}. If you could kill a bunch, that would be a real boon to the rest of us.</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="3" prevId="2" villagerId="1012">
+         
+        <Page social="5">You were successful? I don't see any gray lines around your eyes or ichor oozing from your ears.&lt;BR&gt;&lt;BR&gt;Presumably that means you're safe.&lt;BR&gt;&lt;BR&gt;By all means, please take your reward and my thanks.</Page>
+    
+    </Text>
+</QuestDialog>

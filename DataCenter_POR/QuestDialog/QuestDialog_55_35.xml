@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="55" id="35" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="255" id="100" prevId="0" villagerId="1026">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="255" id="2" prevId="0" villagerId="1026">
+         
+        <Page social="4">Você tem que deter os arcanáticos mekonari e seus lacaios urisk.&lt;BR&gt;&lt;BR&gt;Estes desgraçados emplumados estão matando nosso povo sem pausa. Vocês precisam fazer o mesmo aqui. &lt;BR&gt;&lt;BR&gt;Caçam-nos e mandem-nos de volta para o Sonho.</Page>
+    
+    </Text>
+    <Text huntingZoneId="255" id="3" prevId="2" villagerId="1026">
+         
+        <Page social="4">Você conseguiu isso dos mekonaris? Muito bem.&lt;BR&gt;&lt;BR&gt;Seja o que for que eles estejam tramando, espero que cheguemos a tempo de detê-los.</Page>
+    
+    </Text>
+    <Text huntingZoneId="255" id="4" villagerId="1026">
+         
+        <Page social="0">Os mekonaris e seus lacaios devem ser eliminados. Não volte até que tenha concluído sua missão.</Page>
+    
+    </Text>
+</QuestDialog>

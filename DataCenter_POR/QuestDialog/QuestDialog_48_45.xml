@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="48" id="45" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="248" id="100" prevId="0" villagerId="1031">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="248" id="2" prevId="0" villagerId="1031">
+         
+        <Page social="4">A única coisa boa sobre essas enormes máquinas de argons é que elas não são sensíveis. Se tirarem seus controladores, elas se tornarão inúteis e não farão absolutamente nada.&lt;NEXTPAGEBUTTON&gt;"Sinto uma missão."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Três fatores terríveis controlam o navashad - aquela monstruosidade gigante com tentáculos. Mate-os e recupere o mecanismo de controle.&lt;BR&gt;&lt;BR&gt;Eu vou preparar as tropas que puder. Com sorte, poderemos pegar os argons de surpresa.</Page>
+    
+    </Text>
+    <Text huntingZoneId="248" id="3" prevId="2" villagerId="1012">
+         
+        <Page social="6">A navashad está dormente? Sim! &lt;BR&gt;&lt;BR&gt;Isso é o que estávamos precisando. A navashad derruba nossos transportes do céu e esmaga nossos motores de cerco. Você nos ajudou imensamente.&lt;BR&gt;&lt;BR&gt;Eu levarei o controle aos nossos melhores cientistas. Desvendaremos seus mistérios.</Page>
+    
+    </Text>
+</QuestDialog>

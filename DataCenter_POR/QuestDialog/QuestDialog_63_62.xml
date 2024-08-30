@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="63" id="62" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">[Ordem de Recall] &lt;BR&gt;&lt;BR&gt;{@Rgn:63009} está fornecendo cavalos de guerra a soldados experientes. Todos os soldados que receberem esta mensagem devem retornar a {@Rgn:63009}.&lt;BR&gt;&lt;BR&gt;Consul {@LinkCreature:63#1160}</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="1160">
+         
+        <Page social="0">Bem-vindo de volta, &lt;PCNAME&gt;. Achamos que não é certo deixar um soldado experiente como você continuar andando por aí a pé.&lt;BR&gt;&lt;BR&gt;Fornecer àqueles que servem à Federação Valkyon os suprimentos de que precisam é o mínimo que podemos fazer. Espere aqui. Tomarei as providências necessárias para que você receba seu cavalo de guerra.</Page>
+    
+    </Text>
+    <Text huntingZoneId="60" id="4" prevId="3" villagerId="1909">
+         
+        <Page social="0">Você é o &lt;PCNAME&gt; mencionado por {@Creature:63#1160}? Preparei um presente para você, aqui no estábulo. Você pode escolher entre Brownie, o cavalo baio castrado; Ash, o dapple Arcadian; ou Grey, o Velikan gray. Todos são de boas raças e o atenderão bem.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="3" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="213" id="100" prevId="0" villagerId="1115">
+         
+        <Page social="0">Nivek asked you to protect the island's piglings by killing Vekas, the Wicked Tree.&lt;BR&gt;&lt;BR&gt;It was your toughest fight yet, but you prevailed and destroyed the rampant ghilliedhu.&lt;BR&gt;&lt;BR&gt;Nivek was grateful to you and gave you his new boots in thanks.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="2" prevId="0" villagerId="1115">
+         
+        <Page social="4">It's tough keeping morale up here. After the massacre, the survivors held on—but barely. I've been doing my part by cooking up piglings—chops, bacon, roasts, and the like.&lt;BR&gt;&lt;BR&gt;This crazed ghilliedhu, Vekas, keeps killing all the piglings, though! This post is miserable enough, but living without meat? No soldier should have to endure that.&lt;BR&gt;&lt;BR&gt;Kill Vekas and I'll use him to smoke the best rashers of bacon this side of Kaiator!</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="3" prevId="2" villagerId="1115">
+         
+        <Page social="4">Well fought, &lt;PCCLASS:lcase&gt;. It might not seem like much, but armies depend on their stomachs for more than just traveling.&lt;BR&gt;&lt;BR&gt;Here—take this as my thanks!</Page>
+    
+    </Text>
+</QuestDialog>

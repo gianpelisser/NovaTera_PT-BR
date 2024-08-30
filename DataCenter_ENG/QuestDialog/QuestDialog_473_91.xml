@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="473" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="251" id="100" prevId="0" villagerId="1033">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="251" id="2" prevId="0" villagerId="1033">
+         
+        <Page social="4">The Ebon Tower is still brimming with Blood Legion troops.&lt;BR&gt;&lt;BR&gt;Kill all Ksharan dreadreapers, cleavers, snipers, and darkweavers, as well as dark magisters and eldritch priests you find and capture the Eternal Hearts that resurrect them when they die. Report to Traveron at the entrance to Ebon Tower when mission is complete.</Page>
+    
+    </Text>
+    <Text huntingZoneId="251" id="3" prevId="2" villagerId="1033">
+         
+        <Page social="4">Excellent.&lt;BR&gt;&lt;BR&gt;Thulsa created an amazing number of these troops. The bright side is, we've found some great uses for the power of these hearts. Keep them coming!</Page>
+    
+    </Text>
+    <Text huntingZoneId="251" id="4" villagerId="1033">
+         
+        <Page social="0">Kill Blood Legion members and bring their hearts.&lt;BR&gt;&lt;BR&gt;Thulsa can't bring his Legion back without them, and we'll use them for power. Cruel? Maybe. Shouldn't have sold their souls for power, should they?</Page>
+    
+    </Text>
+</QuestDialog>

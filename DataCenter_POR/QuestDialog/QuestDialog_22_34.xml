@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="22" id="34" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="222" id="100" prevId="0" villagerId="1027">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="222" id="2" prevId="0" villagerId="1027">
+         
+        <Page social="5">As bruxas tomaram conta dos Laboratórios Malefic e estão preparando um caldo. Elas usarão as poções para contaminar todo o castelo.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, por favor, cace minhas irmãs {@LinkCreature:22#19#bruxas de vadoma} e {@LinkCreature:22#20#guias das sombras} antes que seja tarde demais.&lt;BR&gt;&lt;BR&gt;Se isso não for impedido, poderá ameaçar todo o reino.</Page>
+    
+    </Text>
+    <Text huntingZoneId="222" id="3" prevId="2" villagerId="1027">
+         
+        <Page social="5">Bom trabalho, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Então esses caldeirões estão no centro dessa tragédia? Mas quem está por trás deles? &lt;BR&gt;&lt;BR&gt;Eu odeio mistérios.</Page>
+    
+    </Text>
+</QuestDialog>

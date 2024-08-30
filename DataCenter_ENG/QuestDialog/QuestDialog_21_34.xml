@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="21" id="34" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="221" id="100" prevId="0" villagerId="1021">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="221" id="2" prevId="0" villagerId="1021">
+         
+        <Page social="4">We've learned a lot, but there's still more to uncover. We need to get our current findings to &lt;font color='#660000'&gt;Daien&lt;/font&gt; at the &lt;font color='#660000'&gt;Barrens Outpost&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;Let him know I sent you. That should improve his mood.</Page>
+    
+    </Text>
+    <Text huntingZoneId="221" id="3" prevId="2" villagerId="1036">
+         
+        <Page social="4">Aresk hasn't found the ancient treasures either?&lt;BR&gt;&lt;BR&gt;So much blood spilled for so little gain. Perhaps we should shift our focus.&lt;BR&gt;&lt;BR&gt;I'll devise a plan. I'm good at those.</Page>
+    
+    </Text>
+</QuestDialog>

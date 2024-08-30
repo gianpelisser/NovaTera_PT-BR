@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="216" id="1025" voiceTypeId="128">
+    <Text huntingZoneId="216" id="1" endSocial="14" prevId="0" villagerId="1025">
+         
+        <Page social="4">I have nothing to offer you but luck.</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="2" endSocial="5" prevId="0" villagerId="1025">
+         
+        <Page social="0">Let me know when you're ready to go to the Sinestral Manor.&lt;TEXTBUTTON&gt;Manor's Owners&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Go to Sinestral Manor.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</VillagerDialog>

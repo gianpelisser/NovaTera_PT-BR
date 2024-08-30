@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="32" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="252" id="100" prevId="0" villagerId="1037">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="252" id="2" prevId="0" villagerId="1037">
+         
+        <Page social="4">&lt;PCNAME&gt;. Glad you're here. Let me brief you on our situation. &lt;BR&gt;&lt;BR&gt;We're surrounded by Thulsa's cavalry. &lt;BR&gt;&lt;BR&gt;Fortunately for us, they're not yet fully equipped for an attack, which means we have the perfect chance to eliminate the dragoons and their leader, Selvereth.&lt;BR&gt;&lt;BR&gt;I don't need to tell you the rest....</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="3" prevId="2" villagerId="1037">
+         
+        <Page social="4">You're as brave as I'd heard! If we had more &lt;PCCLASS:lcase&gt;s like you, this war would be over pretty quickly!</Page>
+    
+    </Text>
+</QuestDialog>

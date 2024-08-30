@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="48" id="37" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="248" id="100" prevId="0" villagerId="1022">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="248" id="2" prevId="0" villagerId="1022">
+         
+        <Page social="4">Em um esforço para garantir rotas de suprimentos e mover unidades militares sem a interferência do argons, empregamos engenheiros castanhos para abrir um túnel em Granarkus.&lt;BR&gt;&lt;BR&gt;Eu o teletransportarei para {@LinkCreature:249#1015} quando estiver pronto. Dê-lhe essas ordens e ajude-o como puder. Vamos voltar à luta.</Page>
+    
+    </Text>
+    <Text huntingZoneId="249" id="3" prevId="2" villagerId="1015">
+         
+        <Page social="4">Acabamos de explodir a última rocha há algumas horas.&lt;BR&gt;&lt;BR&gt;Os argonss dificultaram a execução de missões regulares de suprimento e socorro, especialmente para entrar e sair de Kanstria.&lt;NEXTPAGEBUTTON&gt;"O que é isso? Uma cidade?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Kanstria? Sim. Muitos castanicos se estabeleceram lá. Eu ouvi um elin chamá-la de "Pequena Castanica".&lt;BR&gt;&lt;BR&gt;Infelizmente, os argons interromperam a plataforma de voo, então eles ficaram presos lá. Quero que você leve essa pedra de voo para o mestre de voo deles. Isso fará com que eles voltem a voar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="76" id="4" prevId="3" villagerId="1006">
+         
+        <Page social="6">Oh, uma nova pedra de voo! Maravilhoso! &lt;BR&gt;&lt;BR&gt;Agora podemos retomar nossos vôos para Kaiator ou para a fortaleza de Zulfikar. Por favor, aceite meus agradecimentos.</Page>
+    
+    </Text>
+</QuestDialog>

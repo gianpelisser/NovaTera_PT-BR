@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="42" id="38" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="242" id="100" prevId="0" villagerId="1036">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="242" id="2" prevId="0" villagerId="1036">
+         
+        <Page social="4">Muito bem, este é o meu plano. Se houvesse menos {@LinkCreature:42#1100#guardiões naga}, seria muito mais fácil chegar aos líderes naga.&lt;BR&gt;&lt;BR&gt;Eu não prometi que seria um plano grande e complicado, prometi? Apenas confie em mim. Livre-se de todos os que puder e elimine quem quer que eles estejam protegendo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="3" prevId="2" villagerId="1036">
+         
+        <Page social="5">Obrigado, &lt;PCNAME&gt;. Sei que não deve ter sido fácil.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="4" villagerId="1036">
+         
+        <Page social="0">Apenas mate-os um de cada vez, &lt;PCNAME&gt;. O que é ruim para {@LinkCreature:42#1100#naga guardians} é bom para nós.</Page>
+    
+    </Text>
+</QuestDialog>

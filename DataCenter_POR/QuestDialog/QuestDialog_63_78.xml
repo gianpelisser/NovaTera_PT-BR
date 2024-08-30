@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="63" id="78" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">Caro &lt;PCNAME&gt;,&lt;BR&gt;&lt;BR&gt;Vim à sua terra para buscar ajuda para minha espécie no Campo de Neve de Wintera.&lt;BR&gt;&lt;BR&gt;Por favor, venha até {@linkcreature:63#9004#me} para que eu possa defender meu caso pessoalmente. Mas corra! O inverno não dura para sempre.&lt;BR&gt;&lt;BR&gt;Mensageiro de Wintera</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="9004">
+         
+        <Page social="0">&lt;PCNAME&gt;, você veio! Eu estava preocupado... mas isso não importa. Tem um momento para uma história? &lt;NEXTPAGEBUTTON&gt;"Estou ouvindo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Nossa terra natal, o Campo de Neve de Wintera, é dividida em áreas vermelhas, azuis e amarelas. Tudo é governado pelo mais sábio de nós, o Velho Inverno.&lt;BR&gt;&lt;BR&gt;Ou era, até que apareceu um trapaceiro disfarçado de Velho Inverno, e agora não sabemos dizer qual é o verdadeiro!&lt;BR&gt;&lt;BR&gt;Os acampamentos vermelho e azul acreditam que o seu Velho Inverno é o verdadeiro. (Em nosso povo, o amarelo é a cor da neutralidade. Nós, amarelos, não brigamos.)&lt;NEXTPAGEBUTTON&gt;"Onde é que eu entro?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="4" prevId="3" villagerId="9004">
+         
+        <Page social="0">Nós, os amarelos, estamos cansados de estar no meio dessa loucura.&lt;BR&gt;&lt;BR&gt;Não conseguimos convencer os vermelhos e os azuis a pararem de brigar, mas pelo menos os convencemos a fazer uma luta de bolas de neve. Uma boa luta de bolas de neve, em sua maior parte não letal. Nosso plano - e admito que ele é um tanto esboçado - é que o verdadeiro Old Man Winter certamente prevaleceria em uma luta de bolas de neve. Eles não o chamam de "Winter" à toa! &lt;NEXTPAGEBUTTON&gt;"Ainda não estou vendo o ângulo do 'eu'."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Abra a interface de correspondência de campos de batalha e selecione o campo de batalha "Winter Event". Isso o enviará para o campo de neve de Wintera.&lt;BR&gt;&lt;BR&gt;Jogue algumas bolas de neve, vença uma batalha, depois volte e me diga se foi o vermelho ou o azul que saiu vitorioso.&lt;BR&gt;&lt;BR&gt;Lembre-se, é uma luta de bolas de neve, não uma luta de verdade. Somente certas habilidades funcionam no campo de neve. &lt;font color='FF0000'&gt;As bolas de neve&lt;/font&gt; causam pouco dano, mas podem ser lançadas rapidamente porque o tempo de recarga é curto. &lt;font color='FF0000'&gt;As bolas de neve sujas&lt;/font&gt; causam mais dano, obviamente. E as &lt;font color='FF0000'&gt;bolas de neve gigantes&lt;/font&gt; podem atacar vários alvos.&lt;BR&gt;&lt;BR&gt;Mais uma coisa: as &lt;font color='FF00FF00'&gt;bolas de fogo&lt;/font&gt; cancelam os efeitos nocivos nos membros da sua equipe e restauram o HP deles. Procure-as em caixas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="5" prevId="4" villagerId="9004">
+         
+        <Page social="1">Obrigado, &lt;PCNAME&gt;! Estou adicionando seus resultados à minha contagem e, em breve, saberemos de quem é o verdadeiro Old Man Winter.&lt;BR&gt;&lt;BR&gt;E, por favor, aceite este pequeno símbolo de minha gratidão.</Page>
+    
+    </Text>
+</QuestDialog>

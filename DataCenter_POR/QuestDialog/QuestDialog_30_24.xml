@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="24" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="71" id="100" prevId="0" villagerId="1102">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="71" id="2" prevId="0" villagerId="1102">
+         
+        <Page social="1">Uma grande praga assola este vale. Ninguém sabe de onde ela veio. Ela se reproduz de forma incontrolável e destrói tudo o que toca. Seu nome é "preguiça". Não, é verdade.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:30#100#Preguiças nervosas} agora nos isolaram do Acampamento Luz do Sol do Centurião {@LinkCreature:230#1010$$Erdis}. Essa é a gota d'água.&lt;BR&gt;&lt;BR&gt;Abata essas {@LinkCreature:30#100#preguiças}-até a última!</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="3" prevId="2" villagerId="1010">
+         
+        <Page social="1">Que surpresa agradável! Quantas daquelas {@LinkCreature:30#100#preguiças nervosas} você matou para chegar até aqui? &lt;BR&gt;&lt;BR&gt;Os números não importam, mas a minha gratidão sim. Pegue essa recompensa e eu farei com que meu coordenador lhe pague sempre que você matar mais preguiças.</Page>
+    
+    </Text>
+</QuestDialog>

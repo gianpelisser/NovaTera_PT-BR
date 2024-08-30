@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1600">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1600">
+        <Page social="4">Heya! Tired of my boring errands yet? E-he-he-he-he. I already have a new report from the scout team, it says something about activity in the Cultists Refuge. Another rune should be located there, but it's probably not in its entirety anymore ... Rune of Turisaz, as it's called. Cannot remember for sure, but I think it contains the power of some powerful, ancient God. His name, however, had slipped my mind. Well, it doesn't really matter, in fact, the thing that matters is its power! I hope you did not lose the skills and experience from your previous adventures? I don't know how many runes we'll find, but it's an opportunity that should not be passed up. Check the refuge; if the scouting was right, Rune of Turisaz is there.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1600">
+         <Page social="4">Ah, huh! You're already back? How did it go? I can see it went great. Just like I wanted, thank you! You can have your reward.</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="1600">
+        <Page social="0">A rune again, and in Cultists Refuge of all places? How did it end up there ...</Page>
+    </Text>
+</QuestDialog>

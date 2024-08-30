@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="19" id="93" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="65" id="100" prevId="0" villagerId="1012">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="65" id="2" prevId="0" villagerId="1012">
+         
+        <Page social="0">Também precisarei... aqui está. Meu Deus, essa é uma lista e tanto que eles esperam de você. Talvez você queira fazer anotações. Pronto?&lt;BR&gt;&lt;BR&gt;Eles querem que você mate Lokian {@LinkCreature:19#4000#ragers}, {@LinkCreature:19#4001#rippers}, {@LinkCreature:19#4002#cleavers}, {@LinkCreature:19#4003#gutreavers}, {@LinkCreature:19#4004#swordlords}, {@LinkCreature:19#4005#bloodletters}, {@LinkCreature:19#4006#bloodweavers}, {@LinkCreature:19#4007#eboncallers} e {@LinkCreature:19#4008#dark mages}.&lt;BR&gt;&lt;BR&gt;Uau! Só de ler isso, já fiquei sem fôlego! De qualquer forma, fale com Karadus quando terminar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="3" prevId="2" villagerId="1020">
+         
+        <Page social="4">Excelente trabalho. Tome isso como recompensa por seu trabalho.</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="4" villagerId="1020">
+         
+        <Page social="0">O tempo está passando. Eu me certificarei de que você seja recompensado quando terminar a tarefa em questão.</Page>
+    
+    </Text>
+</QuestDialog>

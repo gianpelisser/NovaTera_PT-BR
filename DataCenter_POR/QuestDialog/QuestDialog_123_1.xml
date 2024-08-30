@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="123" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="123" id="100" prevId="0" villagerId="220021">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="123" id="2" prevId="0" villagerId="220021">
+         
+        <Page social="1">O Noctênio afeta a todos nós - as árvores, a ordem, as feras gigantes.&lt;BR&gt;&lt;BR&gt;Nossos pesquisadores me dizem que a única maneira de garantir a segurança da ordem é reduzir a quantidade de basiliscos, fangspawns e fimbriliscos aqui.&lt;BR&gt;&lt;BR&gt;&lt;font color='#660000'&gt;Somos uma aliança e estamos juntos nessa! Se os membros de nível 65 ajudarem os membros de nível mais baixo da aliança nessa tarefa, eles receberão essa recompensa bônus!&lt;/font&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="123" id="3" prevId="2" villagerId="220021">
+         
+        <Page social="0">&lt;PCNAME&gt;, a ordem se fortalece, graças à sua ajuda. &lt;BR&gt;Para a Ordem de Ferro!</Page>
+    
+    </Text>
+</QuestDialog>

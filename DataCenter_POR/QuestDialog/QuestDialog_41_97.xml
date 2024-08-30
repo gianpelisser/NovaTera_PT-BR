@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="41" id="97" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="75" id="100" prevId="0" villagerId="1024">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="75" id="2" prevId="0" villagerId="1024">
+         
+        <Page social="0">Os Garras Negras atacaram duas de nossas equipes de trabalho ontem. Estou enviando você para dar uma lição neles.&lt;BR&gt;&lt;BR&gt;Mate os {@LinkCreature:41#3004#Trituradores de Garras Negras} e os {@LinkCreature:41#3005#raiders} na parte sul do Vale Feral.&lt;BR&gt;&lt;BR&gt;Apresente-se a Keltaria no Emissary Point quando terminar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="241" id="3" prevId="2" villagerId="1007">
+         
+        <Page social="4">Você ganhou esta recompensa, &lt;PCNAME&gt;. Aproveite-a.</Page>
+    
+    </Text>
+    <Text huntingZoneId="241" id="4" villagerId="1007">
+         
+        <Page social="0">A tribo Chifre de Sangue é um espinho no lado da federação e uma dor no meu traseiro. Ajudaria muito se você matasse os {@LinkCreature:41#3004#Black Claw crushers} e os {@LinkCreature:41#3005#raiders} sempre que puder. Traga algo que mostre que você os matou e eu lhe darei um pouco de ouro da federação em troca de seu trabalho.</Page>
+    
+    </Text>
+</QuestDialog>

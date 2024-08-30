@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="63" voiceTypeId="0">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1600">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1600">
+         
+        <Page social="4">Olá novamente! Já estamos tão próximos de você, como verdadeiros amigos, hee! Muito bem, vamos ao que interessa. Finalmente descobrimos algo que se assemelha ao poder da Runa Fehu. Um aventureiro visitou recentemente o Sky Garden de Saleron. Então, ele estava falando sobre a luta com a garra de Saleron Valtrissir para seus companheiros, e eu ouvi por um instante. Isso é algo surpreendente, já que o aventureiro, que está longe de ser um novato, não conseguiu lidar com o monstro. O que me deixou interessado? O experiente guerreiro nunca atingiu seu oponente, como se Valtrissir fosse sustentado por alguma força externa! Parece um golpe de sorte para mim, não acha? Ajude a explorar o Jardim! Se encontrar algo, não se esqueça de trazer para mim! Você sabe que não ficarei em débito!</Page>
+    
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1600">
+         
+        <Page social="4">Você encontrou alguma coisa?! Woohoo! Eu tinha certeza de que não estava enganado! Você não faz ideia de como isso me deixou feliz! Ah, desculpe, quase me esqueci de recompensá-lo!</Page>
+    
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="1600">
+         
+        <Page social="0">Algumas pistas sobre outra Runa... Em breve, Sra. Elinu...</Page>
+    
+    </Text>
+</QuestDialog>

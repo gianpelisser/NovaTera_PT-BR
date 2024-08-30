@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="602" id="13" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="78" id="100" prevId="0" villagerId="3007">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="78" id="2" prevId="0" villagerId="3007">
+         
+        <Page social="4">Como soldado, você entende que não deixamos nossos mortos para trás. Todos os esforços devem ser feitos para recuperar os mortos ou, pelo menos, seus efeitos.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:418#2001#Baruster} tem uma missão como essa nas {@Rgn:9018001$$Argon Catacombs} e pediu que você fosse pessoalmente.</Page>
+    
+    </Text>
+    <Text huntingZoneId="418" id="3" prevId="2" villagerId="2001">
+         
+        <Page social="4">Todos os membros de pleno direito dos Shariar levam um anel para a batalha. É um símbolo, nada mais, mas devolvê-lo às famílias dos mortos pode lhes trazer um pouco de paz.&lt;BR&gt;&lt;BR&gt;Procure nas catacumbas os Shariar mortos e recupere seus anéis para mim, &lt;PCNAME&gt;. De um soldado para outro?</Page>
+    
+    </Text>
+    <Text huntingZoneId="418" id="4" prevId="2" villagerId="2001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="418" id="5" prevId="2" villagerId="2001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="418" id="6" prevId="2" villagerId="2001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="418" id="7" prevId="2" villagerId="2001">
+         
+        <Page social="4">Excelente. Espero que suas famílias apreciem seus esforços por nossos honrados mortos.&lt;BR&gt;&lt;BR&gt;Certamente que sim.&lt;BR&gt;&lt;BR&gt;Por favor, leve os anéis para Agrakh na Fortaleza Zulfikar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="418" id="8" villagerId="2001">
+         
+        <Page social="0">Eu sei que você preferiria estar chutando bundas e pegando números de série, mas a forma como honramos nossos mortos é pelo menos tão importante quanto a forma como protegemos os vivos.&lt;BR&gt;&lt;BR&gt;É o que nos separa dos argons. Por favor, tragam de volta esses anéis.</Page>
+    
+    </Text>
+    <Text huntingZoneId="418" id="9" prevId="7" villagerId="2001">
+         
+        <Page social="4">Excelente. Espero que suas famílias apreciem seus esforços por nossos honrados mortos.&lt;BR&gt;&lt;BR&gt;Certamente que sim.&lt;BR&gt;&lt;BR&gt;Por favor, leve os anéis para Agrakh na Fortaleza Zulfikar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="418" id="10" villagerId="2001">
+         
+        <Page social="0">Eu sei que você preferiria estar chutando bundas e pegando números de série, mas a forma como honramos nossos mortos é pelo menos tão importante quanto a forma como protegemos os vivos.&lt;BR&gt;&lt;BR&gt;É o que nos separa dos argons. Por favor, tragam de volta esses anéis.</Page>
+    
+    </Text>
+    <Text huntingZoneId="418" id="11" prevId="9" villagerId="2001">
+         
+        <Page social="4">Excelente. Espero que suas famílias apreciem seus esforços por nossos honrados mortos.&lt;BR&gt;&lt;BR&gt;Certamente que sim.&lt;BR&gt;&lt;BR&gt;Por favor, leve os anéis para Agrakh na Fortaleza Zulfikar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="418" id="12" villagerId="2001">
+         
+        <Page social="0">Eu sei que você preferiria estar chutando bundas e pegando números de série, mas a forma como honramos nossos mortos é pelo menos tão importante quanto a forma como protegemos os vivos.&lt;BR&gt;&lt;BR&gt;É o que nos separa dos argons. Por favor, tragam de volta esses anéis.</Page>
+    
+    </Text>
+    <Text huntingZoneId="78" id="13" prevId="11" villagerId="3007">
+         
+        <Page social="4">Os Shariar são gratos por sua ajuda, &lt;PCNAME&gt;. Quando esta guerra finalmente terminar e registrarmos os feitos dos combatentes, seu nome estará em um lugar de honra.</Page>
+    
+    </Text>
+    <Text huntingZoneId="78" id="14" prevId="13" villagerId="3007">
+         
+        <Page social="4">Os Shariar são gratos por sua ajuda, &lt;PCNAME&gt;. Quando esta guerra finalmente terminar e registrarmos os feitos dos combatentes, seu nome estará em um lugar de honra.</Page>
+    
+    </Text>
+    <Text huntingZoneId="78" id="15" prevId="14" villagerId="3007">
+         
+        <Page social="4">Os Shariar são gratos por sua ajuda, &lt;PCNAME&gt;. Quando esta guerra finalmente terminar e registrarmos os feitos dos combatentes, seu nome estará em um lugar de honra.</Page>
+    
+    </Text>
+</QuestDialog>

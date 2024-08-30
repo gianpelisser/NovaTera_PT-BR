@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="87" id="2" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="87" id="100" prevId="0" villagerId="1000">
+         
+        <Page social="0">&lt;img src='img://__Quest_Mission.870201'/&gt;&lt;BR&gt;Você conheceu Miayn e Larni para provar suas habilidades, depois conheceu Rida, a Princesa de Elin.</Page>
+    
+    </Text>
+    <Text huntingZoneId="87" id="2" prevId="0" villagerId="1000">
+         
+        <Page social="4">&lt;img src='img://__Quest_Mission.870201'/&gt;&lt;BR&gt;Como você já percebeu, esta é uma região perigosa. Apenas os fortes duram mais de um dia.&lt;BR&gt;&lt;BR&gt;Mas ouvi dizer que você é um tipo de mercenário especial, recrutado pessoalmente pela própria Rida. E me disseram que você empunha uma arma especial. Um par de foices, creio eu? Vou lhe dizer uma coisa: mostre-me que você pode realmente usar essas coisas e eu acreditarei que você pode ser útil para nós. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Eu posso fazer isso.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Disseram-me que um verdadeiro especialista em lâminas pode cortar vários inimigos em um só movimento.&lt;BR&gt;&lt;BR&gt;Vá até aqueles bonecos de treinamento e mostre-me o Double Shear.&lt;BR&gt;&lt;BR&gt;Depois que você demonstrar o Double Shear, eu me sentirei mais confiante em recomendá-lo a Larni para aprovação final.</Page>
+    
+    </Text>
+    <Text huntingZoneId="87" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="4">O administrador Miayn me avisou de sua chegada e o recomendou muito bem. Portanto, você está dentro. Bem-vindo à Guarda de Honra!&lt;BR&gt;&lt;BR&gt;Agora você precisa saber o que fazemos aqui. Antes de... bem... tudo isso, nós protegíamos a Princesa Rida e passamos nosso tempo durante a Guerra de Argon adquirindo e escoltando suprimentos.&lt;BR&gt;&lt;BR&gt;Na rota de volta a Pora Elinu com suprimentos, fomos atacados por invasores orcs. Não tivemos escolha a não ser fugir e perdemos muitos soldados no processo.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Você fez o seu melhor.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Obrigado por dizer isso. Mas nossos deveres mudaram. Agora, guardamos os refugiados do Lago das Lágrimas e aguardamos a ordem para voltar a Pora Elinu.&lt;BR&gt;&lt;BR&gt;Miayn diz que você foi recrutado pessoalmente por Rida, por sua habilidade com essas foices. Então, mostre-me.&lt;BR&gt;&lt;BR&gt;Ataque um desses bonecos com seu Golpe Sombrio.&lt;BR&gt;&lt;BR&gt;Depois de demonstrar o Golpe Sombrio I, você pode se apresentar à Princesa Rida nos aposentos da Princesa para receber sua missão.</Page>
+    
+    </Text>
+    <Text huntingZoneId="87" id="4" prevId="3" villagerId="1022">
+         
+        <Page social="4">Você deve ser o mercenário de que Larni estava falando...&lt;BR&gt;&lt;BR&gt;Sei que há muitos rumores sobre quem você é, e como eu pessoalmente o recrutei...mas deixe que acreditem no que quiserem. Nós dois sabemos de onde você veio... e por que está aqui.&lt;BR&gt;&lt;BR&gt;Então vamos colocar suas habilidades em prática. A área entre aqui e Pora Elinu está repleta de orcs, e nós perdemos todo o contato com Pora Elinu. Por favor, encontre uma maneira de expulsar os orcs e nos levar de volta a Pora Elinu.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Farei o meu melhor.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Obrigado!&lt;BR&gt;&lt;BR&gt;Fale com Tuaha sobre quaisquer suprimentos que você possa precisar. Basta mostrar a ele o que você é capaz de fazer, e ele lhe dará o que você precisa.&lt;BR&gt;&lt;BR&gt;E lembre-se: Estamos contando com você!</Page>
+    
+    </Text>
+    <Text huntingZoneId="87" id="5" prevId="4" villagerId="1003">
+         
+        <Page social="4">Os suprimentos são limitados! Tudo o que está aqui foi recuperado da floresta por soldados de suprimentos que arriscaram suas vidas. Não sabemos quando ou se receberemos mais suprimentos.&lt;BR&gt;&lt;BR&gt;Não me importa quem o enviou. Se eu deixar que você pegue os suprimentos que quiser, e depois você sair por aí e for morto, alguém que realmente precisa deles terá que ficar sem! &lt;BR&gt;&lt;BR&gt;Mas prove para mim que você pode se controlar, e eu lhe darei o que você precisa - nem mais, nem menos. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Eu entendo.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Está bem... &lt;BR&gt;&lt;BR&gt;Pronto. Vá até um daqueles bonecos e me mostre sua Barragem Espiral.&lt;BR&gt;&lt;BR&gt;Se conseguir fazer isso, saberei que não estou apenas jogando fora suprimentos valiosos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="87" id="6" prevId="5" villagerId="1003">
+         
+        <Page social="4">Eu, uh. Bem. Sim, acho que você é perfeitamente capaz de se defender.&lt;BR&gt;&lt;BR&gt;Aqui, pegue estas. São as melhores que eu tenho. Não as desperdice.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="20" id="27" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="220" id="100" prevId="0" villagerId="1010">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="220" id="2" prevId="0" villagerId="1010">
+         
+        <Page social="4">É improvável que haja outros sobreviventes, mas, por favor, fique de olho enquanto estiver nas minas.&lt;BR&gt;&lt;BR&gt;Não posso voltar. Eu simplesmente... não posso. Mas eu nunca me perdoaria se ninguém sequer procurasse por sinais de vida.&lt;BR&gt;&lt;BR&gt;Meu pobre irmão. Ele era tão jovem.... Deveria ter sido eu.</Page>
+    
+    </Text>
+    <Text huntingZoneId="220" id="3" prevId="2" villagerId="1016">
+         
+        <Page social="0">(Um pingente está pendurado no pescoço desse cadáver mutilado. A inscrição "Pattek" está no verso. Você o coloca em seu bolso).</Page>
+    
+    </Text>
+    <Text huntingZoneId="220" id="4" prevId="3" villagerId="1006">
+         
+        <Page social="4">Eles estão todos mortos? É exatamente como eu temia.&lt;BR&gt;&lt;BR&gt;Eles estavam vivos apenas algumas horas atrás....&lt;BR&gt;&lt;BR&gt;Oh, esse pingente. Eu conheço esse pingente. Pertenceu a Pattek.&lt;BR&gt;&lt;BR&gt;Aqui, eu... eu me encarregarei pessoalmente de que sua família o receba.</Page>
+    
+    </Text>
+</QuestDialog>

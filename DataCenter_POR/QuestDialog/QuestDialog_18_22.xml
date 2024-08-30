@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="18" id="22" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="218" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="218" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="4">Este lugar já foi o centro do império dos gigantes. Está arruinado agora, é claro, mas... já foi tão grande.&lt;BR&gt;&lt;BR&gt;É tão emocionante estar entre tanta história! Estou aqui estudando a cidade antiga - ou estava antes da chegada dos kulkaris.&lt;BR&gt;&lt;BR&gt;Assim que eles forem embora, porém... voltarei para lá.&lt;NEXTPAGEBUTTON&gt;"Posso ajudar nesse meio tempo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Bem, não posso voltar à minha pesquisa a menos que eu explore fora do acampamento. Se você estiver disposto a enfrentar isso, poderia investigar as relíquias dos gigantes em Mags Kurata, ao norte, e em Mags Kuchanaru, a oeste.&lt;BR&gt;&lt;BR&gt;Qualquer fragmento com algo que se pareça com escrita seria maravilhoso.</Page>
+    
+    </Text>
+    <Text huntingZoneId="218" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="4">É incrível como os gigantes eram capazes de fazer coisas tão belas e delicadas. Você sempre os imagina como desajeitados e desastrados.&lt;BR&gt;&lt;BR&gt;Obrigado, &lt;PCNAME&gt;. Com isso, podemos aprender mais sobre a área e ganhar vantagem sobre nosso inimigo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="218" id="4" villagerId="1001">
+         
+        <Page social="0">Suas mãos estão vazias. Você ainda não saiu?</Page>
+    
+    </Text>
+</QuestDialog>

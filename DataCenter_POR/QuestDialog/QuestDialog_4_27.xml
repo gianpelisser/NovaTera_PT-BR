@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="27" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="204" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="204" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="4">Esses mortos-vivos estão por toda parte. Não sei se eles vieram do norte, se estão trabalhando para os argons ou o quê.&lt;BR&gt;&lt;BR&gt;Mas uma coisa eu sei: Quero que eles desapareçam! &lt;BR&gt;&lt;BR&gt;Comece com os {@LinkCreature:4#1061#devan dark knights} e a {@LinkCreature:4#1062#risen devan infantry}. Reúna suas fichas também. Estou coletando-os.</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="4">Isso é uma coisa a menos com que se preocupar, &lt;PCNAME&gt;. Continue lutando o bom combate.</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="4" villagerId="1001">
+         
+        <Page social="0">Vamos lá, eles não são tão resistentes. São apenas ossos... e armaduras... e armas horríveis. Apenas vá matá-los!</Page>
+    
+    </Text>
+</QuestDialog>

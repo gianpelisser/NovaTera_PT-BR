@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="41" id="34" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="241" id="100" prevId="0" villagerId="1007">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="241" id="2" prevId="0" villagerId="1007">
+         
+        <Page social="4">This liquor not only makes the Black Claw tribe more violent, it makes them stronger. I think the besharan merchants are using the Black Claw tribe orcans as weapons against the federation. Karba needs to know about this.</Page>
+    
+    </Text>
+    <Text huntingZoneId="241" id="3" prevId="2" villagerId="1021">
+         
+        <Page social="0">They drank some sort of liquor to give them power? They do not deserve to be called warriors! Hunt down the {@LinkCreature:41#3004#Black Claw crushers} and {@LinkCreature:41#3005#Black Claw ragers} and take their warrior tokens, so all the tribes will know how they let themselves be used as tools of the besharan merchants!</Page>
+    
+    </Text>
+    <Text huntingZoneId="241" id="4" prevId="3" villagerId="1021">
+         
+        <Page social="0">Death was too good for them. When I show the other tribes these tokens and tell them of the Black Claw tribe's shame, they will know the truth of it.</Page>
+    
+    </Text>
+    <Text huntingZoneId="241" id="5" villagerId="1021">
+         
+        <Page social="0">The Black Claw tribe do not deserve to wear the tokens of warriors. Help me to shame them in the eyes of all orcans.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="54" id="94" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="81" id="100" prevId="0" villagerId="1012">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="81" id="2" prevId="0" villagerId="1012">
+         
+        <Page social="5">Mission Orders&lt;BR&gt;&lt;BR&gt;Lithikumases don't belong in Faeglen. It upsets the fae when they squash the nice-looking shrubbery.&lt;BR&gt;&lt;BR&gt;Bring down {@LinkCreature:54#260#feytouched lithikumases} in western Faeglen.&lt;BR&gt;&lt;BR&gt;Upon mission completion, report to Lashada of Arcanum Outpost.</Page>
+    
+    </Text>
+    <Text huntingZoneId="254" id="3" prevId="2" villagerId="1009">
+         
+        <Page social="5">A difficult mission to be sure. Congratulations for completing it successfully. Now Seeliewood can return to its former glory.</Page>
+    
+    </Text>
+    <Text huntingZoneId="254" id="4" villagerId="1009">
+         
+        <Page social="0">Feytouched lithikumases are extremely dangerous. Please be careful.&lt;BR&gt;&lt;BR&gt;Once you've completed your mission, see me for a reward.</Page>
+    
+    </Text>
+</QuestDialog>

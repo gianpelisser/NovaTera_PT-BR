@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="32" id="22" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="73" id="100" prevId="0" villagerId="1011">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="73" id="2" prevId="0" villagerId="1011">
+         
+        <Page social="4">Meu marido morreu protegendo Acarum. Os {@LinkCreature:32#3#Sihran berserkers} cortaram suas mãos e o deixaram sangrar até a morte.&lt;BR&gt;&lt;BR&gt;Seu espírito me assombra, implorando que eu lhe faça justiça. Eu sei o que ele quer, mas não posso fazer isso, e todos na vila pensam que estou louco e não querem ajudar.&lt;BR&gt;&lt;BR&gt;É um pedido tão simples - basta matar os {@LinkCreature:32#3#Sihran berserkers}, cortar suas mãos e oferecê-las ao espírito de Batuk no Monte Tyrannas.&lt;BR&gt;&lt;BR&gt;Aqui, você pode precisar deste saco.</Page>
+    
+    </Text>
+    <Text huntingZoneId="232" id="3" prevId="2" villagerId="1006">
+         
+        <Page social="4">(O caminho para a sepultura está bem desgastado pelos pés dos viajantes. Você coloca o saco de mãos em um lugar já manchado de sangue. O que está acontecendo aqui?)</Page>
+    
+    </Text>
+    <Text huntingZoneId="232" id="4" villagerId="1006">
+         
+        <Page social="0">Batuk morreu em Daunting Pass.&lt;BR&gt;&lt;BR&gt;Mata os {@LinkCreature:32#3#Sihran berserkers} que o assassinaram e os {@LinkCreature:32#1$$fighters} e tome suas mãos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="232" id="5" prevId="3" villagerId="1019">
+         
+        <Page social="4">Você também acreditou nela, não foi? Ela não tem sido a mesma desde que Batuk morreu. Assombrada.&lt;BR&gt;&lt;BR&gt;Ela continua mandando pessoas atrás de mãos. Pelo menos são as mãos de Sihran... e não as de qualquer outra pessoa.&lt;BR&gt;&lt;BR&gt;Podemos manter isso entre nós? Obrigado.</Page>
+    
+    </Text>
+</QuestDialog>

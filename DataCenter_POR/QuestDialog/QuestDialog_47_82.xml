@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="47" id="82" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="4">Ordens de Operação do Quartel General da Federação Valkyon Eliminar {@LinkCreature:47#2001}&lt;BR&gt;&lt;BR&gt;Detalhes da Missão: a {@Rgn:47003$$Bridgehead} na {@Rgn:47001$$Tirkai Forest}. &lt;BR&gt;&lt;BR&gt;Alvo da Operação: {@LinkCreature:47#2001$$argonomorph caprin imp}, {@LinkCreature:47#2002$$argonomorph faerie} e {@LinkCreature:47#2003$$argonomorph gula}.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="3" prevId="2" villagerId="0">
+         
+        <Page social="5">Você recebeu os agradecimentos da federação. Sua guilda é uma inspiração para todos!</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="4" villagerId="0">
+         
+        <Page social="0">Parece que você ainda não completou sua missão.</Page>
+    
+    </Text>
+</QuestDialog>

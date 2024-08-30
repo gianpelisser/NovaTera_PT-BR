@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="32" id="30" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="232" id="100" prevId="0" villagerId="1003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="232" id="2" prevId="0" villagerId="1003">
+         
+        <Page social="4">Como se não bastasse o exército de Kaidun, agora ele tem os mercenários da Stalker Company lutando por ele.&lt;BR&gt;&lt;BR&gt;Os {@LinkCreature:32#9#Atiradores da Stalker Company} têm flechas com uma terrível maldição que as torna muito mais mortais. Se pudéssemos estudar as flechas, talvez pudéssemos nos defender melhor contra elas.&lt;BR&gt;&lt;BR&gt;Se você matar algum arqueiro, traria de volta as flechas dele?</Page>
+    
+    </Text>
+    <Text huntingZoneId="232" id="3" prevId="2" villagerId="1003">
+         
+        <Page social="4">Excelente trabalho. Agora podemos encontrar uma maneira de neutralizar a maldição. Deve haver uma maneira....</Page>
+    
+    </Text>
+    <Text huntingZoneId="232" id="4" villagerId="1003">
+         
+        <Page social="0">As flechas disparadas pelos atiradores da {@LinkCreature:32#9#Stalker Company} no acampamento dos mercenários estão marcadas com uma maldição especial.&lt;BR&gt;&lt;BR&gt;Por favor, traga-me essas flechas.</Page>
+    
+    </Text>
+</QuestDialog>

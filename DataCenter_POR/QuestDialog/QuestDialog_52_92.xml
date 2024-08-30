@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="92" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="79" id="100" prevId="0" villagerId="1027">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="79" id="2" prevId="0" villagerId="1027">
+         
+        <Page social="5">Thulsa tem a Base de Incêndio Audacity completamente cercada.&lt;BR&gt;&lt;BR&gt;Limpe os {@LinkCreature:52#2006#Dragões da Legião Maldita}, {@LinkCreature:52#6002#Destruidores de Thulsan} e {@LinkCreature:52#1002#Polividentes mortos-vivos} para dar espaço de manobra às nossas tropas.&lt;BR&gt;&lt;BR&gt;Relate a Farida na Base de Incêndio Audacity quando a missão estiver concluída.</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="3" prevId="2" villagerId="1004">
+         
+        <Page social="5">Bom trabalho, embora você não tenha deixado muitos para mim!&lt;BR&gt;&lt;BR&gt;Agora, aqui está sua recompensa.</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="4" villagerId="1004">
+         
+        <Page social="0">Preciso que aqueles {@LinkCreature:52#2006#Cursed Legion dragoons} e {@LinkCreature:52#6002#Thulsan destroyers} saiam do meu campo.</Page>
+    
+    </Text>
+</QuestDialog>

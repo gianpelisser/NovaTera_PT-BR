@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="42" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="242" id="100" prevId="0" villagerId="1033">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="242" id="2" prevId="0" villagerId="1033">
+         
+        <Page social="4">Estamos montando uma incursão nas áreas ocupadas do templo.&lt;BR&gt;&lt;BR&gt;Enfrente os sobreviventes naga que estão guardando o primeiro andar do templo, incluindo {@LinkCreature:42#100#escravosbesharan}, {@LinkCreature:42#1300#espadas-selvagens} e {@LinkCreature:42#400#smugglers}, {@LinkCreature:42#500#vigilant chikas}, {@LinkCreature:42#600#skeletal watchers} e {@LinkCreature:42#710#cruel bone imps}.&lt;BR&gt;&lt;BR&gt;Apresentem-se a Glasrinne em Frontera quando terminarem.</Page>
+    
+    </Text>
+    <Text huntingZoneId="75" id="3" prevId="2" villagerId="1016">
+         
+        <Page social="5">Você ainda é necessário aqui, &lt;PCNAME&gt;. Há muito que você pode fazer.</Page>
+    
+    </Text>
+    <Text huntingZoneId="75" id="4" villagerId="1016">
+         
+        <Page social="0">Não é uma tarefa fácil, mas contamos com você.</Page>
+    
+    </Text>
+</QuestDialog>

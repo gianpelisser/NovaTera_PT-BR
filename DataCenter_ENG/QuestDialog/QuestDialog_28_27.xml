@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="27" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="228" id="100" prevId="0" villagerId="1005">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="228" id="2" prevId="0" villagerId="1005">
+         
+        <Page social="5">Anarie wants your assistance at Camp Zakai. Apparently, word of your work is spreading.&lt;BR&gt;&lt;BR&gt;On your way, see if you can kill some more {@LinkCreature:28#2011#smokepaw timberwolves}. They're getting out of hand again.</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="5">Thank you for meeting me. Your work has received much praise and I have need of a soldier like you.&lt;BR&gt;&lt;BR&gt;My last team was destroyed and the Mysterium nearly banished me from their ranks. It took everything I had to secure a second chance. With your help, I won't squander this opportunity.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="22" id="27" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="222" id="100" prevId="0" villagerId="1005">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="222" id="2" prevId="0" villagerId="1005">
+         
+        <Page social="5">Os níveis mais baixos da academia abrigam os Laboratórios Maléficos e as Catacumbas da Rainha-Feiticeira.&lt;BR&gt;&lt;BR&gt;Usei minha magia para fazer a Cristalocação lá embaixo e vi que estava repleto de demônios. É lá que precisamos de sua força.&lt;BR&gt;&lt;BR&gt;Vá para os níveis inferiores e encontre {@LinkCreature:222#1023#Chalyn}. Ela saberá o que fazer em seguida.</Page>
+    
+    </Text>
+    <Text huntingZoneId="222" id="3" prevId="2" villagerId="1023">
+         
+        <Page social="5">Como vai a batalha pelos níveis superiores? Melhor do que aqui embaixo, eu espero.&lt;BR&gt;&lt;BR&gt;Estamos até o pescoço com demônios, &lt;PCNAME&gt;. Nossos problemas parecem um pouco sutis para a sua laia, mas os demônios são os mercenários mais populares para aqueles que buscam um caminho rápido para o poder. Seja qual for a trama deles, vamos acabar com ela.</Page>
+    
+    </Text>
+</QuestDialog>

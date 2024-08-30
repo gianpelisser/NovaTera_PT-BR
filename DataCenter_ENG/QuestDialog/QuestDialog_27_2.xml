@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="27" id="2" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="518" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0">Thulsa's forces threatened towers in Essenia that the federation uses to block the argon advance. You went to Essenia to restore the magic shields that kept each tower safe.&lt;BR&gt;&lt;BR&gt;You went to an enemy-controlled tower and stopped Thulsa's forces, but they had already sabotaged the shield.</Page>
+    
+    </Text>
+    <Text huntingZoneId="518" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="0">Our towers in Essenia were our best defense against the advance of the argons, but Thulsa's forces captured them. Who knows what Thulsa plans to do with the towers?&lt;BR&gt;&lt;BR&gt;According to the Mysterium, the shields went down right before Thulsa's forces arrived. If Thulsa learns how to reactivate those shields, he'll be protected and we'll lose those towers for good!&lt;BR&gt;&lt;BR&gt;Go to Tria and talk to Raeren for your marching orders.</Page>
+    
+    </Text>
+    <Text huntingZoneId="70" id="3" prevId="2" villagerId="1013">
+         
+        <Page social="4">Reinforcements? Splendid. I don't suppose you brought a battalion of runicars with you? No? Pity.&lt;BR&gt;&lt;BR&gt;Thulsa's forces are barricaded in a fortress festooned with mystic wards and arcane protections.&lt;BR&gt;&lt;BR&gt;Rorise, here, designed the fortress. She can tell you how it all works.</Page>
+    
+    </Text>
+    <Text huntingZoneId="70" id="4" prevId="3" villagerId="1026">
+         
+        <Page social="4">The fortress wards are meant to be powered by the Core, but we've shut them down. Thulsa's forces have no such power source—only the dark god himself. That is their strength...and perhaps their weakness.&lt;BR&gt;&lt;BR&gt;Lubdock commanded the arcanists in the first wave. He's at Castra Mysterium in Silent Hills, trying to figure a way past the shield for our troops.</Page>
+    
+    </Text>
+    <Text huntingZoneId="227" id="5" prevId="4" villagerId="1027">
+         
+        <Page social="4">If Thulsa's powering the fortress shields, they'll be looking for a way to turn on the Core shields. If that happens, the infiltrators I sent in will die.&lt;BR&gt;&lt;BR&gt;If you get to Liberation Station quickly enough, Velnen might be able to stop the infiltrators before they reach the fortress.&lt;BR&gt;&lt;BR&gt;Be careful—the route between here and Serenity Valley is crawling with {@LinkCreature:27#2#ancient bladegolems}.</Page>
+    
+    </Text>
+    <Text huntingZoneId="227" id="6" prevId="5" villagerId="1008">
+         
+        <Page social="4">We'd gladly stop them, but they've already left. They're halfway to the fortress by now, no doubt.&lt;BR&gt;&lt;BR&gt;We don't want them dying over a miscommunication. If you can slaughter your way through the {@LinkCreature:27#3#ancient speargolems} to reach the team, you might just save them!</Page>
+    
+    </Text>
+    <Text huntingZoneId="227" id="7" prevId="6" villagerId="1023">
+         
+        <Page social="5">Forewarned is forearmed, and we still have a job to do. We can still keep Thulsa from controlling the Core crux.&lt;BR&gt;&lt;BR&gt;My team will launch a diversionary strike. You sneak into the northeastern corner of the fortress and find the Core crux.&lt;NEXTPAGEBUTTON&gt;"Where do I find it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">The Core crux is inside a large {@LinkCreature:227#1028#shield stone}. Activate that and unlock the crux. If we have that, we'll weaken their defenses considerably and increase our own knowledge at the same time.&lt;BR&gt;&lt;BR&gt;In the Mysterium, we call that synergy of purpose.</Page>
+    
+    </Text>
+    <Text huntingZoneId="227" id="8" prevId="7" villagerId="1031">
+         
+        <Page social="4">(Shards litter the floor. Thulsa's forces clearly didn't want you to recover the Core crux. Hunt {@LinkCreature:27#6#merciless iskaragards} and {@LinkCreature:27#7#savage iskaragards} to see whether they have any salvagable components.)</Page>
+    
+    </Text>
+    <Text huntingZoneId="227" id="9" prevId="8" villagerId="1023">
+         
+        <Page social="4">Well done. With the Core crux in our possession, Thulsa must work even harder to maintain the shield. The fight isn't over, but at least we've got a chance now.&lt;BR&gt;&lt;BR&gt;Take the crux to Raeren in Tria. It's out of our hands now, and much higher than our paygrades.</Page>
+    
+    </Text>
+    <Text huntingZoneId="227" id="10" villagerId="1023">
+         
+        <Page social="0">The Core crux is the biggest barrier we faced. With it in our hands, Thulsa's legions will be vulnerable.</Page>
+    
+    </Text>
+    <Text huntingZoneId="70" id="11" prevId="9" villagerId="1013">
+         
+        <Page social="4">A remarkable device. No doubt the sages in Allemantheia will wet their robes with excitement.&lt;BR&gt;&lt;BR&gt;As for you, you saved a lot of lives today, and gave us the opening we needed. You're a good soldier, &lt;PCNAME&gt;. We're fortunate to have you.</Page>
+    
+    </Text>
+</QuestDialog>

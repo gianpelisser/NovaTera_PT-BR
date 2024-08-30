@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="121" id="11" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="121" id="100" prevId="0" villagerId="220037">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="121" id="2" prevId="0" villagerId="220037">
+         
+        <Page social="0">Meu amigo, estou enviando alguns batedores para o território do Free Trader, mas preciso que você crie uma distração. O coletivo tem vários extratores de noctênio na área. Desative alguns deles - remover as chaves do extrator deve ser suficiente - e eles estarão ocupados demais investigando para perceber meus batedores.&lt;BR&gt;&lt;BR&gt;Eu o recompensarei por cada chave de extrator que você me trouxer.</Page>
+    
+    </Text>
+    <Text huntingZoneId="121" id="3" prevId="2" villagerId="220037">
+         
+        <Page social="0">&lt;PCNAME&gt;! Nem todo mundo conseguiria completar uma missão como essa, tão longe em território inimigo. A União Iluminada está honrada em tê-lo entre suas fileiras, amigo!&lt;BR&gt;&lt;BR&gt;Hoje, você realmente mereceu o título de &amp;quot;herói.&amp;quot;</Page>
+    
+    </Text>
+    <Text huntingZoneId="121" id="4" villagerId="220037">
+         
+        <Page social="0">Que a União Iluminada prevaleça!</Page>
+    
+    </Text>
+</QuestDialog>

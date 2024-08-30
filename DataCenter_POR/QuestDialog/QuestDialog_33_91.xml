@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="33" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="73" id="100" prevId="0" villagerId="1009">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="73" id="2" prevId="0" villagerId="1009">
+         
+        <Page social="0">Este lugar está cheio de fantasmas e mortos-vivos! Todos os espíritos dos nobres e seus servos que morreram quando a magia de Thulsa tomou conta do lugar vagam pelos níveis superiores, atacando qualquer um que se aproxime.&lt;BR&gt;&lt;BR&gt;Por mais que eu tenha pena deles, não posso permitir que matem meus soldados.&lt;BR&gt;&lt;BR&gt;Envie as {@LinkCreature:33#3#nobres vampiros}, {@LinkCreature:33#53#nobres vampiros amaldiçoados}, {@LinkCreature:33#4# cavalheiros vampiros}, {@LinkCreature:33#54# cavalheiros vampiros amaldiçoados}, {@LinkCreature:33#5#jesters amaldiçoados}, {@LinkCreature:33#55#jesters infernais}, {@LinkCreature:33#6#malevolent wraiths} e {@LinkCreature:33#7#eldritch defenders} para sua recompensa final.</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="3" prevId="2" villagerId="1002">
+         
+        <Page social="4">Os fantasmas podem ter desaparecido, mas nenhum de nós esquecerá suas tristes mortes.</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="4" villagerId="1002">
+         
+        <Page social="0">Ninguém gosta de sair quando os fantasmas estão perambulando por perto.</Page>
+    
+    </Text>
+</QuestDialog>

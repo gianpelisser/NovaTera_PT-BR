@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="46" id="33" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="246" id="100" prevId="0" villagerId="1034">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="246" id="2" prevId="0" villagerId="1034">
+         
+        <Page social="4">Estou pesquisando exclusivamente o salão central, pois ele parece ser o núcleo das torres. Como em todas as outras câmaras, há algo quebrado ou deixado para trás. No nosso caso, são aquelas máquinas ali.</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="3" prevId="2" villagerId="1034">
+         
+        <Page social="5">Esse componente se parece com as entranhas de nossos teleportadores.&lt;BR&gt;&lt;BR&gt;Que será que os argons estavam teletransportando?</Page>
+    
+    </Text>
+    <Text huntingZoneId="246" id="4" villagerId="1034">
+         
+        <Page social="0">Se você conseguir recuperar algo útil de uma máquina, provavelmente poderei descobrir o que ela faz.</Page>
+    
+    </Text>
+</QuestDialog>

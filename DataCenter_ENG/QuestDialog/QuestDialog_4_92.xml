@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="92" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="61" id="100" prevId="0" villagerId="1016">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="61" id="2" prevId="0" villagerId="1016">
+         
+        <Page social="4">We're taking heavy casualties from those monstrosities in the Blazing Vale.&lt;BR&gt;&lt;BR&gt;I need you to destroy the {@LinkCreature:4#1011#fangspawns} and {@LinkCreature:4#1021#sulphurous groknars}.&lt;BR&gt;&lt;BR&gt;Report to Keinie at Cauldron Outpost when mission is complete.</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="3" prevId="2" villagerId="1002">
+         
+        <Page social="4">The best part of my job is rewarding completed mission orders. Good on ya!</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="4" villagerId="1002">
+         
+        <Page social="0">Oh good, another completed...wait, it seems that you haven't quite finished this.&lt;BR&gt;&lt;BR&gt;Come by when you're done and I'll have something ready for you.</Page>
+    
+    </Text>
+</QuestDialog>

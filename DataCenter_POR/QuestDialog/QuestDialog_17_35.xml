@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="17" id="35" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="217" id="100" prevId="0" villagerId="1011">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="217" id="2" prevId="0" villagerId="1011">
+         
+        <Page social="5">Minha terra ficava a leste daqui. Eu estava nos campos quando o culto veio para nos expulsar. Eles mataram meu irmão mais velho e o penduraram em um espantalho!&lt;BR&gt;&lt;BR&gt;Eu quero vingança! Estou neste acampamento há uma semana, mas ninguém me ajuda.&lt;BR&gt;&lt;BR&gt;Amigo, você vai matar {@LinkCreature:17#301201#Capitães da Queda dos Céus} e {@LinkCreature:17#101#partidários}? Eles precisam sangrar pelo que fizeram!</Page>
+    
+    </Text>
+    <Text huntingZoneId="217" id="3" prevId="2" villagerId="1011">
+         
+        <Page social="5">Sim, sim! Finalmente, algum pagamento! Posso sentir o cheiro do sangue manchando o chão. Isso foi por você, Firla! Sangue por sangue! Aqui, soldado. Que a natureza sorria para você.</Page>
+    
+    </Text>
+</QuestDialog>

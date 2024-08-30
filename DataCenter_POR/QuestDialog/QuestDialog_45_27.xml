@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="45" id="27" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="245" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="245" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="4">{&lt;BR&gt;&lt;BR&gt;Infelizmente, você terá que passar por {@LinkCreature:45#3001#argonomorph Lokian archers} para chegar perto. Informe a Lahiah se... quero dizer, quando... você chegar lá.</Page>
+    
+    </Text>
+    <Text huntingZoneId="245" id="3" prevId="2" villagerId="1005">
+         
+        <Page social="4">Fico feliz em vê-lo, &lt;PCCLASS:lcase&gt;, mas não somos nós que precisamos de sua ajuda. Fique por perto e eu o informarei.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="63" id="38" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="63" id="100" prevId="0" villagerId="3006">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="2" prevId="0" villagerId="3006">
+         
+        <Page social="5">Naturalmente, para montar uma fera tão majestosa é preciso uma sela especial. Não se pode simplesmente colocar algo feito para um mero cavalo em cima de um leopardo.&lt;BR&gt;&lt;BR&gt;Ela precisará ser feita sob medida para se ajustar ao seu traseiro. Sugiro não economizar nos materiais.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="3006">
+         
+        <Page social="5">Excelente escolha! O couro noruk macio é o material certo para uma sela dessa qualidade.&lt;BR&gt;&lt;BR&gt;Agora, deixe-me fazer um esboço de sua garupa, algumas medidas... perfeito! Vou mandar fazer isso imediatamente.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="4" villagerId="3006">
+         
+        <Page social="0">Confie em mim. Se a fera não se sentir confortável, você não se sentirá confortável.</Page>
+    
+    </Text>
+</QuestDialog>

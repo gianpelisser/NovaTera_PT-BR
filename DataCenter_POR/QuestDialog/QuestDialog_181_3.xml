@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="181" id="3" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">Dentro do Salão do Conhecimento, enquanto buscava uma forma de pedir reforços a Velika, &lt;PCNAME&gt; encontrou Halran, o sábio da Highwatch, que estava esperando por &lt;PCNAME&gt;.&lt;BR&gt;&lt;PCNAME&gt; tentou comungar com a Arcana de Mystel, uma relíquia que dá resposta apenas àqueles que buscam seu caminho voluntariamente, e teve uma visão de arquidevas e da Barreira da Tormenta.&lt;BR&gt;Halran previu que &lt;PCNAME&gt; será o herói dos barakas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="183" id="3" prevId="2" villagerId="1003">
+         
+        <Page social="4">Como eu disse, o Salão do Conhecimento não está aberto a todos... normalmente.&lt;BR&gt;&lt;BR&gt;Mas eu ouvi Omeros falar em seu nome, &lt;PCNAME&gt;, e acredito que seja sábio permitir seu acesso.&lt;BR&gt;&lt;BR&gt;Uma vez lá dentro, você deve procurar Halran. Ele talvez possa ajudá-lo.&lt;NEXTPAGEBUTTON&gt;"Eu o farei. Obrigado."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Muito bem. Eu o enviarei diretamente para o local onde Halran o espera.&lt;NEXTPAGEBUTTON&gt;"Estou pronto."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="183" id="4" prevId="3" villagerId="1018">
+         
+        <Page social="4">Halran me disse para esperar uma visita.&lt;BR&gt;&lt;BR&gt;Você é o &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"Sou."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Muito bem. Permita-me guiá-lo.&lt;BR&gt;&lt;BR&gt;Para fora desta sala há uma escada. No topo da escada, você verá a Arcana de Mystel, e Halran estará lá esperando por você.&lt;BR&gt;&lt;BR&gt;Se fizer a gentileza, por favor, recolha todos os livros que encontrar na escada.&lt;NEXTPAGEBUTTON&gt;"Não se preocupe."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="183" id="5" prevId="4" villagerId="2037">
+         
+        <Page social="4">["Na Era das Lendas havia gigantes, que escravizaram os amani e conquistaram vastas porções de Arun e Shara. Então veio o fogo de Yurian e o Sacrifício de Balder. Em meio às cinzas, Balder retirou dos gigantes tudo o que os tornava filhos de Tithus, deixando apenas o que os tornava filhos de Oriyn."]&lt;NEXTPAGEBUTTON&gt;(Coletar O Livro dos Sábios.)&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="183" id="6" prevId="5" villagerId="2038">
+         
+        <Page social="4">[Em uma página que detalha os eventos da Guerra Divina, o antigo sábio rabiscou:&lt;BR&gt;&lt;BR&gt;"A Barreira da Tormenta é anterior à Fenda? Não há menção a ela no Livro dos Sábios. A Fenda segue o curso da Barreira. Causa? Efeito? Coincidência?"]&lt;NEXTPAGEBUTTON&gt;(Colete O Livro dos Sábios.)&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="183" id="7" prevId="6" villagerId="2039">
+         
+        <Page social="4">[A nota colocada no livro diz: &lt;BR&gt;&lt;BR&gt;"Lakan"&lt;BR&gt;&lt;BR&gt;"Castanics to Devas to Archdevas"&lt;BR&gt;&lt;BR&gt;"BLOOD MAGIC"&lt;NEXTPAGEBUTTON&gt;(Colete O Livro do Sábio.)&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="183" id="8" prevId="7" villagerId="2113">
+         
+        <Page social="4">[Em uma página que detalha os tipos de devas, alguém escreveu: &lt;BR&gt;&lt;BR&gt;"Os efeitos da magia de sangue parecem sobreviver à morte e até mesmo se transmitir através das gerações. A magia de sangue pode ser usada para desfazer a magia de sangue, mas, sem décadas de prática - noção que é abominável -, qualquer tentativa de desfazer uma transformação seria como apagar uma cicatriz infligindo feridas adicionais ao redor dela."]&lt;NEXTPAGEBUTTON&gt;(Colete O Livro da Astúcia.)&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="183" id="9" prevId="8" villagerId="1019">
+         
+        <Page social="4">Olá, &lt;PCNAME&gt;. Sim, eu sei quem você é.&lt;BR&gt;&lt;BR&gt;Obrigado por recolher os livros que deixei na escada. Espero que você os leia. Afinal, essa era a minha intenção; não costumo deixar volumes tão valiosos espalhados por aí.&lt;NEXTPAGEBUTTON&gt;"Eu li - as partes importantes, pelo menos."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Excelente. Agora você está preparado para encontrar as respostas que procura, nos Arcanos de Mystel. Ela está esperando por você há muito tempo.&lt;NEXTPAGEBUTTON&gt;"Eu conheci Mystel; ela nunca mencionou isso."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Mystel sabe que uma profecia sem resolução aparente é um fardo para as mentes mortais. Até mesmo uma única profecia, com uma conclusão de curto prazo, é um teste para a sanidade de uma pessoa. Imagine o quão mais enlouquecedor seria ter total conhecimento prévio - mas sem compreensão, muito menos a capacidade de desempenhar seu papel nos eventos futuros.&lt;BR&gt;&lt;BR&gt;De todos aqueles que conheci, apenas Verikam e eu tivemos a coragem mental de receber mais do que um punhado de profecias dos Arcanos de Mystel de uma só vez.&lt;BR&gt;&lt;BR&gt;Mas parece que seu destino é tentar fazer isso. Você está preparado para comungar com ela? &lt;NEXTPAGEBUTTON&gt;"Estou."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="183" id="10" villagerId="1019">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="183" id="11" prevId="9" villagerId="1010">
+         
+        <Page social="4">Archdeva. Decepção. Mudança. Ocultação.&lt;BR&gt;&lt;BR&gt;Barreira da Tempestade. Pedra da Relatividade. Reforço. Reunificação.&lt;BR&gt;&lt;BR&gt;Expansão. Crescimento. Mudança.&lt;BR&gt;&lt;BR&gt;Magia de sangue. Tortura. Perda. Tragédia.&lt;NEXTPAGEBUTTON&gt;"Eu... entendo. Acho que sim."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="183" id="12" prevId="11" villagerId="1019">
+         
+        <Page social="4">Profecias dos arquideuses, da Barreira da Tormenta e da magia do sangue? E mais um além disso?&lt;BR&gt;&lt;BR&gt;Mystel claramente o vê como vital para muitos dos principais eventos do mundo - além daqueles dos quais você já participou!&lt;BR&gt;&lt;BR&gt;Claramente, você estava destinado a vir para cá, para a Highwatch, e ajudar os barakas a combater Dakuryon - embora, dadas as referências à tragédia e à perda, eu não invejo seu lugar nos livros de história.&lt;NEXTPAGEBUTTON&gt;"É... muita coisa para assimilar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Peço desculpas, &lt;PCNAME&gt;. Você já suportou tanto para vir até aqui, e agora eu coloquei esse fardo sobre você. Você deve estar cansado e tem muito em que pensar.&lt;BR&gt;&lt;BR&gt;Se nada mais, lembre-se disso: Mystel escolheu você. Claramente, você está equipado para ver esses eventos até suas resoluções. Na verdade, você pode ter sido escolhido porque está em uma posição única para resolver cada uma das profecias em conjunto.&lt;NEXTPAGEBUTTON&gt;"Não seria a primeira vez."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="183" id="13" prevId="12" villagerId="1002">
+         
+        <Page social="4">Onde você deseja começar a jornada que Mystel preparou para você? &lt;NEXTPAGEBUTTON&gt;"A Pedra da Relatividade. Precisamos de reforços."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Uma escolha sábia, eu acho.&lt;BR&gt;&lt;BR&gt;Sugiro que fale com meu amigo Hagand, chefe do Laboratório de Pesquisas Arqueológicas. Ele viajou por toda a terra, buscando relíquias raras. Ele terá conselhos úteis.&lt;BR&gt;&lt;BR&gt;E, por favor, aceite isto como meu humilde sinal de gratidão. Ele pode lhe ajudar.&lt;NEXTPAGEBUTTON&gt;"Hagand. Entendi. E obrigado."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="12" id="41" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="212" id="100" prevId="0" villagerId="1005">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="212" id="2" prevId="0" villagerId="1005">
+         
+        <Page social="4">The pirates are guarding a slaver pier on behalf of the Kazuur Syndicate. Thanks to you, &lt;PCNAME&gt;, the gulas can't use their own guards anymore.&lt;BR&gt;&lt;BR&gt;Doesn't matter who's guarding that pier, though. We've got to keep ships from docking there.&lt;BR&gt;&lt;BR&gt;That means eliminating the {@LinkCreature:12#13#Red Lash clawriders}. No captain dealing with slavers will dock at an unguarded pier, so the Kazuur Syndicate can't move their slaves.</Page>
+    
+    </Text>
+    <Text huntingZoneId="212" id="3" prevId="2" villagerId="1005">
+         
+        <Page social="4">You're the slave trade's worst nightmare, &lt;PCNAME&gt;. The gods smile on your dedication to justice!</Page>
+    
+    </Text>
+</QuestDialog>

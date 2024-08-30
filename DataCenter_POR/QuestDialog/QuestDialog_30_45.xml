@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="45" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="230" id="100" prevId="0" villagerId="1036">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="230" id="2" prevId="0" villagerId="1036">
+         
+        <Page social="1">Eu me deparei com um folclore enquanto pesquisava sobre os arkai. Supostamente, os ovos de arkai podem conceder juventude eterna a um poderoso feiticeiro.&lt;BR&gt;&lt;BR&gt;Imagine a estima que ganharíamos se déssemos alguns para Oshar!&lt;NEXTPAGEBUTTON&gt;"Sinto uma tarefa para mim..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Você está aprendendo a antecipar as necessidades de Oshar, &lt;PCNAME&gt;. Isso é bom.&lt;BR&gt;&lt;BR&gt;Vá ao redor de {@LinkCreature:30#1000#Arkai Perch$$Arkaina} e colete ovos.&lt;BR&gt;&lt;BR&gt;Tenha cuidado. Se o {@LinkCreature:30#220#teal arkai} encontrar você roubando seus ovos, ele atacará.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="3" prevId="2" villagerId="1036">
+         
+        <Page social="1">Esses são os ovos? &lt;BR&gt;&lt;BR&gt;Eles não são tão grandes quanto eu pensava. Parecem bastante comuns, na verdade.&lt;BR&gt;&lt;BR&gt;Devo alimentar um deles com uma preguiça ou algo assim primeiro? E se eu fizer isso, terei criado um rei da preguiça imortal?</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="4" villagerId="1036">
+         
+        <Page social="0">Não é tanto que eu queira os ovos, veja bem. Oshar os quer, e todos nós somos apenas servos de Oshar.</Page>
+    
+    </Text>
+</QuestDialog>

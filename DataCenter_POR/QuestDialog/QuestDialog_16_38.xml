@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="16" id="38" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="216" id="100" prevId="0" villagerId="1023">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="216" id="2" prevId="0" villagerId="1023">
+         
+        <Page social="4">Ouvi dizer que, no final daquela &lt;font color='#660000'&gt;Cerimônia de Bênção&lt;/font&gt;, {@LinkCreature:16#2305#magos de sangue} saíram dos níveis subterrâneos do castelo.&lt;BR&gt;&lt;BR&gt;E supostamente... supostamente eles têm &lt;font color='#660000'&gt;pedras de sangue&lt;/font&gt;. São fontes de energia que deveriam estar em nossas mãos, não nas deles.</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="3" prevId="2" villagerId="1023">
+         
+        <Page social="4">Basta olhar para o tamanho dessa pedra... Inúmeras vidas... sacrificadas por essa pedra...&lt;BR&gt;&lt;BR&gt;A Pedra de Sangue é uma relíquia horrenda de vampiros malignos do passado. Como o nome sugere, a pedra é essencialmente sangue solidificado - uma poderosa arma mágica empunhada por vampiros de uma época passada.&lt;BR&gt;&lt;BR&gt;Não posso explicar o que os magos do sangue estavam fazendo com essa pedra, mas é importante que descubramos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="4" villagerId="1023">
+         
+        <Page social="0">Se eles tiverem acessado a Pedra de Sangue... Não quero nem imaginar.</Page>
+    
+    </Text>
+</QuestDialog>

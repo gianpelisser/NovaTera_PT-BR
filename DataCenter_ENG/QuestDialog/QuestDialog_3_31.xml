@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="3" id="31" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="59" id="100" prevId="0" villagerId="1012">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="59" id="2" prevId="0" villagerId="1012">
+         
+        <Page social="4">My colleague, Neria, has misplaced her assistant, Timuron. He went into the cemetery to collect his own samples. Smart lad, and brave. He's overdue though, and I worry he's in over his head. Could you look for him? I'm sure she's worried about the lad.</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="3" prevId="2" villagerId="1014">
+         
+        <Page social="4">Esedran sent you? Velik be praised!&lt;BR&gt;&lt;BR&gt;I've been testing various compounds on remnants of the dead I could get my hands on. Neria can probably glean more from this than you or I could.&lt;BR&gt;&lt;BR&gt;Would you mind taking it to her? I'm going to stay here and see if I can find out anything else.</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="4" prevId="3" villagerId="1021">
+         
+        <Page social="4">Thank you for bringing this to me, &lt;PCNAME&gt;, but thank you more for letting me know Timuron's all right.&lt;BR&gt;&lt;BR&gt;Now, stand back—I'm going to try science.</Page>
+    
+    </Text>
+</QuestDialog>

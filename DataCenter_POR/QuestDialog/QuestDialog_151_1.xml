@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="151" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">Uma mensagem o envia à Island of Dawn para perguntar sobre a pesquisa de noctênio do Mysterium.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">[Ordem da Federação]&lt;BR&gt;&lt;BR&gt;Pesquisadores da Mysterium foram enviados à Ilha da Aurora para pesquisar uma nova substância que eles chamam de noctenium. Essa substância deve ser a salvação da federação.&lt;BR&gt;&lt;BR&gt;Compile um relatório sobre o noctenium e suas pesquisas. Comece com Adria na Ilha da Aurora.</Page>
+    
+    </Text>
+    <Text huntingZoneId="64" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="4">Não posso ajudar muito. Com a infraestrutura da federação desmoronando, é preciso todo o meu esforço para manter as coisas funcionando aqui na ilha.&lt;BR&gt;&lt;BR&gt;Não se preocupe, porém. O {@linkcreature:213#1150#Todoro} lhe contará tudo sobre o noctênio e lhe mostrará o pequeno local secreto de pesquisa deles.</Page>
+    
+    </Text>
+</QuestDialog>

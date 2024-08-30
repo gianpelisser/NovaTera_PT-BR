@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="22" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="68" id="100" prevId="0" villagerId="1007">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="68" id="2" prevId="0" villagerId="1007">
+         
+        <Page social="5">As coisas ainda não estão estáveis na Academia Eldritch. Portanto, você deve matar alguns {@LinkCreature:22#10#aprendizes seniores} e coletar suas fitas como prova de morte.&lt;BR&gt;&lt;BR&gt;Relate a Feyth quando sua missão estiver concluída.</Page>
+    
+    </Text>
+    <Text huntingZoneId="222" id="3" prevId="2" villagerId="1024">
+         
+        <Page social="5">É o que é. Tinha que ser feito. Tinha que ser feito.&lt;BR&gt;&lt;BR&gt;Pelo menos você tinha as habilidades.</Page>
+    
+    </Text>
+    <Text huntingZoneId="222" id="4" villagerId="1024">
+         
+        <Page social="0">Se você não consegue derrotar alguns aprendizes seniores, por que eu deveria lhe dar alguma coisa?</Page>
+    
+    </Text>
+</QuestDialog>

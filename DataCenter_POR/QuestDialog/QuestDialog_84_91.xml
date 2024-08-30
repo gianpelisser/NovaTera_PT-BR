@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="84" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="6">Qualquer um pode guiar um punhado de soldados à vitória. Você pode levar um esquadrão a novos patamares de glória? &lt;BR&gt;&lt;BR&gt;Enfrente mais inimigos e acenda os caldeirões do Desfiladeiro de Fraywind!</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="3" prevId="2" villagerId="0">
+         
+        <Page social="6">Esplêndido! Sua vitória é um mérito seu e de toda a federação!</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="4" villagerId="0">
+         
+        <Page social="0">Sem vitória, não há prêmio! Não seja um entusiasta!</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="29" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="230" id="100" prevId="0" villagerId="1005">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="230" id="2" prevId="0" villagerId="1005">
+         
+        <Page social="1">Tenho outro projeto, se você estiver interessado. Este mapa do {@Rgn:30001#refúgio} foi feito há muito tempo pelo clã de {@Creature:230#1007$$Lashinuk}, os Consos.&lt;BR&gt;&lt;BR&gt;Este {@Rgn:30007#pavilhão} costumava servir a um exército de golems.&lt;NEXTPAGEBUTTON&gt;"E daí?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Portanto, os {@LinkCreature:30#180#conservadores de latão} contêm instruções em seus núcleos sobre como manter o refúgio. Infelizmente, seus sistemas de auto-reparo estão entrando em colapso.&lt;BR&gt;&lt;BR&gt;Se quisermos substituir os golems, precisamos saber o que eles sabem.&lt;BR&gt;&lt;BR&gt;Recolha alguns núcleos de {@LinkCreature:30#180$$ conservadores de latão} para eu decodificar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="3" prevId="2" villagerId="1005">
+         
+        <Page social="1">Que lindo! Núcleos de conservadores ativos! &lt;BR&gt;&lt;BR&gt;Se você passar pelo Campo Sagacidade, convide Sestena para se juntar a mim e examiná-los.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="4" villagerId="1005">
+         
+        <Page social="0">Esses núcleos, se os obtivermos intactos, farão avançar muito nossos esforços para preservar e reparar o refúgio.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="5" prevId="3" villagerId="1019">
+         
+        <Page social="1">Naisas tem um núcleo de trabalho? Vários? &lt;BR&gt;&lt;BR&gt;Oh, meu Deus. Que descoberta incrível para nós, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+</QuestDialog>

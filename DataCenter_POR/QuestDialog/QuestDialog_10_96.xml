@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="10" id="96" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="61" id="100" prevId="0" villagerId="1012">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="61" id="2" prevId="0" villagerId="1012">
+         
+        <Page social="4">Ordens da missão&lt;BR&gt;&lt;BR&gt;Eliminar {@LinkCreature:10#17#naga clawmasters} na Selva de Adderkin.&lt;BR&gt;&lt;BR&gt;Representar-se a Libine na Coastal Overwatch quando a missão estiver concluída.</Page>
+    
+    </Text>
+    <Text huntingZoneId="210" id="3" prevId="2" villagerId="1004">
+         
+        <Page social="4">Você realmente arrancou as unhas deles, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="210" id="4" villagerId="1004">
+         
+        <Page social="0">Não deixe que as garras o incomodem, &lt;PCNAME&gt;. Continue andando e você ficará bem.</Page>
+    
+    </Text>
+</QuestDialog>

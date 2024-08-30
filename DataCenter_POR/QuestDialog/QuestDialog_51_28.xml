@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="51" id="28" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="251" id="100" prevId="0" villagerId="1032">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="251" id="2" prevId="0" villagerId="1032">
+         
+        <Page social="4">Balrug terá que cuidar dos aprendizes sozinho por alguns dias. Não posso voltar, ainda não. Estou com pouco dinheiro e preciso trazer um grande carregamento de volta para a cidade.&lt;NEXTPAGEBUTTON&gt;"Talvez eu possa ajudar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="5">Eu não estava pedindo caridade! Eu só estou - que droga! &lt;BR&gt;&lt;BR&gt;Olha, minha filha está doente - muito doente. Os curandeiros dizem que ela sobreviverá se conseguir um remédio especial do Mysterium, mas é muito caro. Se eu conseguir trazer um número suficiente de peles finas, poderei pagar. Se você quer mesmo ajudar, vá atrás dos dentes-de-sabre. Preciso de peles perfeitas e imaculadas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="251" id="3" prevId="2" villagerId="1032">
+         
+        <Page social="4">Não estou acostumado a agradecer. Eu tento fazer meu próprio caminho no mundo, mas essas peles terão um bom preço e eu posso conseguir o remédio de minha filha.&lt;BR&gt;&lt;BR&gt;Estou em dívida com você, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="251" id="4" villagerId="1032">
+         
+        <Page social="0">O remédio da minha filha é caro. Por favor, mate aqueles dentes-de-sabre e me traga suas peles.</Page>
+    
+    </Text>
+</QuestDialog>

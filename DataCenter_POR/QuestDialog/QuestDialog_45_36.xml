@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="45" id="36" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="245" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="245" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="4">O Vale do Ceifador está infestado de argonomorfos {@LinkCreature:45#2003#frogmasters} e {@Creature:45#2002#toads} que os argonss deixaram para trás.</Page>
+    
+    </Text>
+    <Text huntingZoneId="245" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="4">Você fez um favor a todos nós, &lt;PCNAME&gt;. Não vamos nos esquecer.</Page>
+    
+    </Text>
+</QuestDialog>

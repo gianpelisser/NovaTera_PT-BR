@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="6" id="22" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="206" id="100" prevId="0" villagerId="1011">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="206" id="2" prevId="0" villagerId="1011">
+         
+        <Page social="5">Nossas armas estão danificadas por lidar com os Gutrends dia após dia. Precisamos consertá-las desesperadamente, mas não temos os recursos necessários.&lt;BR&gt;&lt;BR&gt;Tenho tantas outras coisas para consertar que não posso simplesmente sair para encontrar o &lt;font color='#660000'&gt;minério de krymetal&lt;/font&gt; de que precisamos - mas se você não tiver nenhum assunto urgente, talvez possa coletar algum para mim?</Page>
+    
+    </Text>
+    <Text huntingZoneId="206" id="3" prevId="2" villagerId="1011">
+         
+        <Page social="5">Excelente! Isso é exatamente o que eu preciso para fazer os reparos! Muito obrigado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="206" id="4" villagerId="1011">
+         
+        <Page social="0">Por favor, sem esse minério, nossos soldados não podem lutar!</Page>
+    
+    </Text>
+</QuestDialog>

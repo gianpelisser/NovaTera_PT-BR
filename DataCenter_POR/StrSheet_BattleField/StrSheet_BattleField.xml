@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StrSheet_BattleField xmlns="https://vezel.dev/novadrop/dc/StrSheet_BattleField" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_BattleField StrSheet_BattleField.xsd">
+    <String id="1" string="Em batalha." />
+    <String id="2" string="Entrando..." />
+    <String id="3" string="Aguardando..." />
+    <String id="4" string="Comandante" />
+    <String id="5" string="Local da ressurreição" />
+    <String id="6" string="Habilidade com meteoros" />
+    <String id="7" string="Coordenador de recompensas da Valkyon" />
+    <String id="8" string="Recompensa baseada no valor do campo de batalha" />
+    <String id="9" string="Eu o elogio em nome da Federação Valkyon por suas vitórias em campo!" />
+    <String id="10" string="Base Targony" />
+    <String id="11" string="PvPvE na base de Targony" />
+    <String id="20" string="Fraywind Canyon" />
+    <String id="21" string="[Normal] Participe sozinho ou com um grupo de até 5 membros. Você será agrupado com outros para completar um ataque de 15 jogadores. Marque pontos derrotando oponentes, monstros e controlando Pyres. As Pyres geram pontos enquanto queimam a cor azul. O primeiro time a atingir a meta de pontuação vence." />
+    <String id="22" string="Pyre Central (1)" />
+    <String id="23" string="Pyre do Sul (2)" />
+    <String id="24" string="Pyre do Norte (3)" />
+    <String id="25" string="Sua base" />
+    <String id="26" string="Base do inimigo" />
+    <String id="27" string="Fraywind Canyon (grupo pré-fabricado para 5 jogadores)" />
+    <String id="28" string="Marque pontos derrotando oponentes, monstros e controlando Pyres. As Pyres geram pontos enquanto queimam azul. O primeiro grupo a atingir a meta de pontuação vence." />
+    <String id="29" string="Fraywind Canyon-Equalizado" />
+    <String id="290" string="[Equalized] Não avança nas missões! Os jogadores entram na batalha usando equipamentos PvP equalizados superiores. Você pode personalizar o equipamento e as joias com cristais. Marque pontos derrotando oponentes, monstros e controlando Pyres. O primeiro time a atingir a meta de pontuação vence." />
+    <String id="30" string="Skyring dos Campeões (Não classificado)" />
+    <String id="31" string="Entre na fila como uma equipe para enfrentar outras equipes. Sua classificação pessoal no Champions' Skyring se aplica tanto às partidas em equipe quanto às individuais." />
+    <String id="32" string="Skyring dos Campeões (Classificação: Equipe)" />
+    <String id="38" string="Skyring dos Campeões (Classificação: Solo)" />
+    <String id="39" string="Faça fila para enfrentar outros solos. O equipamento de todos os jogadores será igualado enquanto estiverem no Champions' Skyring. Sua classificação pessoal no Champions' Skyring se aplica a partidas solo e em equipe." />
+    <String id="100" string="Todos" />
+    <String id="101" string="Meu servidor" />
+    <String id="40" string="Fortaleza dos Corsários" />
+    <String id="41" string="Duas rodadas - uma como atacante e outra como defensor. O objetivo é destruir a pedra de ancoragem mais rapidamente e protegê-la por mais tempo. A duração máxima de uma rodada é de 15 minutos. A rodada termina quando a equipe atacante destrói a pedra de ancoragem." />
+    <String id="42" string="Local da ressurreição" />
+    <String id="43" string="Corsair's Stronghold (raide pré-fabricada para 20 jogadores)" />
+    <String id="44" string="[RAID] Não avança nas missões! Participe de seu próprio raid de 20 jogadores. Duas rodadas - uma como atacantes e outra como defensores. O objetivo é destruir a pedra-âncora mais rapidamente e protegê-la por mais tempo. A duração máxima de uma rodada é de 15 minutos. A rodada termina quando a equipe atacante destrói a pedra-âncora." />
+    <String id="45" string="Pyre do Norte" />
+    <String id="46" string="Pyre do Sul" />
+    <String id="50" string="Kumasylum" />
+    <String id="51" string="Uma equipe de jogadores da federação luta contra um trio de jogadores da kumas. Os jogadores da federação devem encontrar e devolver três pedaços de balas de kumas dentro do limite de tempo. Os jogadores da kumas devem impedi-los de chegar a uma doca de carga com o doce de pedra." />
+    <String id="52" string="Local da ressurreição" />
+    <String id="53" string="Doces de rocha" />
+    <String id="54" string="Trio Kumas" />
+    <String id="55" string="Equipe da Federação" />
+    <String id="90" string="Wintera Snowfield" />
+    <String id="91" string="Disponível somente durante o Wintera!  Você vence a rodada quando toda a equipe adversária estiver morta. Vença duas das três rodadas para ganhar a batalha." />
+    <String id="92" string="[Campo de batalha sazonal] 
+
+  As habilidades normais dos personagens não podem ser usadas no campo de neve de Wintera. Todos os personagens têm o mesmo HP, independentemente do nível. (A recuperação de HP pode variar dependendo do nível do personagem.)
+ Reúna as bolas de neve espalhadas pelo campo de neve. Use-as para causar dano a seus oponentes, abrir baús de gelo para mais ataques e abrir caixas de aquecimento para defesas." />
+    <String id="110" string="Monkeydrome (Nível 50)" />
+    <String id="111" string="Dispute com outra equipe para derrotar monstros. Ganhe pontos para comprar habilidades para fortalecer seus companheiros de equipe ou enfraquecer seus adversários." />
+    <String id="112" string="Monkeydrome (Nv. 40-49, Equalizado)" />
+    <String id="201" string="Bônus de ataque" />
+    <String id="202" string="Restaurar HP" />
+    <String id="203" string="Aumentar a velocidade de ataque" />
+    <String id="204" string="Aumentar a taxa de crítico" />
+    <String id="205" string="Debilitação da defesa do oponente" />
+    <String id="206" string="Debilitação da velocidade de movimento do oponente" />
+    <String id="207" string="Debuff Resistência a Knockdown do oponente" />
+    <String id="208" string="Debilitação do ataque do oponente" />
+    <String id="209" string="Invocar Kobold I" />
+    <String id="210" string="Invocar Kobold II" />
+    <String id="211" string="Invocar Kobold III" />
+    <String id="212" string="Invocar Kobold IV" />
+    <String id="213" string="Invocar Kobold V" />
+    <String id="214" string="Invocar Naga I" />
+    <String id="215" string="Invocar Naga II" />
+    <String id="216" string="Invocar Naga III" />
+    <String id="217" string="Invocar Naga IV" />
+    <String id="218" string="Invocar Naga V" />
+    <String id="219" string="Buff de HP dos monstros" />
+    <String id="220" string="Bônus de ataque dos monstros" />
+    <String id="221" string="Life Leech" />
+    <String id="222" string="Onda de atordoamento" />
+    <String id="301" string="O ataque do aliado alvo aumenta em 15%." />
+    <String id="302" string="O aliado alvo recupera 8% do HP máximo a cada 10 segundos." />
+    <String id="303" string="A velocidade de ataque do aliado alvo aumenta em 15%." />
+    <String id="304" string="A taxa de críticos do aliado alvo aumenta em 50%." />
+    <String id="305" string="Diminui a defesa do oponente em 15%." />
+    <String id="306" string="Diminui a velocidade de movimento do oponente em 20%." />
+    <String id="307" string="Diminui a imunidade do oponente a knockdown em 20%." />
+    <String id="308" string="Diminui o ataque do oponente em 15%." />
+    <String id="309" string="Convoca lacaios velozes para atacar os adversários. Os lacaios aparecem 60 segundos após o início da rodada e desaparecem após 12 segundos. Para cada lacaio que desaparece dessa forma, a equipe adversária perde 100 pontos." />
+    <String id="310" string="Convoca lacaios velozes para atacar os adversários. Os lacaios aparecem 120 segundos após o início da rodada e desaparecem após 12 segundos. Para cada lacaio que desaparece dessa forma, a equipe adversária perde 100 pontos." />
+    <String id="311" string="Convoca lacaios velozes para atacar os adversários. Os lacaios aparecem 180 segundos após o início da rodada e desaparecem após 12 segundos. Para cada lacaio que desaparece dessa forma, a equipe adversária perde 100 pontos." />
+    <String id="312" string="Convoca lacaios velozes para atacar os adversários. Os lacaios aparecem 240 segundos após o início da rodada e desaparecem após 12 segundos. Para cada lacaio que desaparece dessa forma, a equipe adversária perde 100 pontos." />
+    <String id="313" string="Convoca lacaios velozes para atacar os adversários. Os lacaios aparecem 300 segundos após o início da rodada e desaparecem após 12 segundos. Para cada lacaio que desaparece dessa forma, a equipe adversária perde 100 pontos." />
+    <String id="314" string="Convoca lacaios poderosos para atacar os adversários. Os lacaios aparecem 60 segundos após o início da rodada e desaparecem após 12 segundos. Para cada lacaio que desaparece dessa forma, a equipe adversária perde 100 pontos." />
+    <String id="315" string="Convoca lacaios poderosos para atacar os adversários. Os lacaios aparecem 120 segundos após o início da rodada e desaparecem após 12 segundos. Para cada lacaio que desaparece dessa forma, a equipe adversária perde 100 pontos." />
+    <String id="316" string="Convoca lacaios poderosos para atacar os adversários. Os lacaios aparecem 180 segundos após o início da rodada e desaparecem após 12 segundos. Para cada lacaio que desaparece dessa forma, a equipe adversária perde 100 pontos." />
+    <String id="317" string="Convoca lacaios poderosos para atacar os adversários. Os lacaios aparecem 240 segundos após o início da rodada e desaparecem após 12 segundos. Para cada lacaio que desaparece dessa forma, a equipe adversária perde 100 pontos." />
+    <String id="318" string="Convoca lacaios poderosos para atacar os adversários. Os lacaios aparecem 300 segundos após o início da rodada e desaparecem após 12 segundos. Para cada lacaio que desaparece dessa forma, a equipe adversária perde 100 pontos." />
+    <String id="319" string="Aumenta em 25% o HP máximo de todos os monstros gerados no anel do oponente." />
+    <String id="320" string="Aumenta o ataque de todos os monstros gerados no anel do oponente em 30%." />
+    <String id="321" string="Diminui o HP dos oponentes em 10% do máximo a cada 5 segundos." />
+    <String id="322" string="Atordoa os oponentes a cada 15 segundos." />
+    <String id="401" string="Bônus de aliado" />
+    <String id="402" string="Debilitações do oponente" />
+    <String id="403" string="Invocar lacaios" />
+	<!--37-->
+	<String id="410" string="Skyring dos Campeões (Classificação: Equipe)" />
+	<String id="411" string="Disponível: Ter 19:00-00:00, Sex 19:00-00:00, Sáb 12:00-15:00, Dom 21:00-00:00. Entre na fila como uma equipe para enfrentar outras equipes. Sua classificação pessoal no Champions' Skyring se aplica tanto às partidas em equipe quanto às individuais." />
+	<!--26-->
+	<String id="510" string="Fraywind Canyon" />
+    <String id="511" string="Disponível: Qua 19:00-23:00, Sáb 15:00-00:00, Dom 14:00-19:00. [Normal] Participe sozinho ou com um grupo de até 5 membros. Você será agrupado com outras pessoas para completar um ataque de 15 jogadores. Marque pontos derrotando oponentes, monstros e controlando Pyres. As Pyres geram pontos enquanto queimam a cor azul. O primeiro time a atingir a meta de pontuação vence." />
+    <!--11-->
+	<String id="610" string="Corsair's Stronghold (grupo pré-fabricado para 5 jogadores)" />
+    <String id="611" string="Disponível: Ter 20:00-23:00, Qui 20:00-23:00, Sáb 13:00-16:00. [Party] Não avança nas missões! Participe com seu próprio grupo de 5 jogadores. Duas rodadas - uma como atacante e outra como defensor. O objetivo é destruir a pedra de ancoragem mais rapidamente e protegê-la por mais tempo. A duração máxima de uma rodada é de 15 minutos. A rodada termina quando a equipe atacante destrói a pedra de ancoragem." />
+    <!--30-->
+	<String id="710" string="Fraywind Canyon" />
+    <String id="711" string="[Normal] Participe sozinho ou com um grupo de até 5 membros. Você será agrupado com outros para formar uma raid de 15 jogadores. Marque pontos derrotando oponentes, monstros e controlando Pyres. Pyres geram pontos enquanto queimam na cor azul. O primeiro lado a alcançar a pontuação alvo, vence." />
+</StrSheet_BattleField>

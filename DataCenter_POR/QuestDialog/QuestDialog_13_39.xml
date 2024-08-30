@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="39" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="213" id="100" prevId="0" villagerId="1025">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="213" id="2" prevId="0" villagerId="1025">
+         
+        <Page social="4">A observação cuidadosa do desfiladeiro revela os demônios que controlam diretamente os espíritos. Que descoberta! &lt;BR&gt;&lt;BR&gt;De acordo com os batedores, os kariagons possuem grilhões mágicos com eles. Esses grilhões precisam ser examinados.&lt;BR&gt;&lt;BR&gt;Por favor, recupere os grilhões dos {@LinkCreature:13#6#kariagons} e dos {@LinkCreature:13#300942#terron thralls}. Eles aparecem principalmente no sudoeste de Tainted Gorge.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="3" prevId="2" villagerId="1025">
+         
+        <Page social="4">As estradas já estão mais seguras. O que quer que os descendentes estivessem fazendo com os espíritos escravizados sofre com o seu sucesso. Mas mais do que apenas essa vitória é necessário para nosso objetivo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="4" villagerId="1025">
+         
+        <Page social="0">Os grilhões são a chave. Nenhuma amarração simples deve escravizar os espíritos tão completamente. Mate tantos {@LinkCreature:13#6#kariagons} quantos forem necessários para obtê-los.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="26" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="228" id="100" prevId="0" villagerId="1016">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="228" id="2" prevId="0" villagerId="1016">
+         
+        <Page social="5">East of here, the spirits are vicious and aggressive. The {@LinkCreature:28#1041#corrupted mycanars} and {@LinkCreature:28#1031#tumbling sporewalkers} used to watch over these woods.&lt;BR&gt;&lt;BR&gt;The corruption drove them mad and now they kill anything they think is intruding. You'd have our gratitude if you could cull their ranks.</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="3" prevId="2" villagerId="1016">
+         
+        <Page social="5">My people aren't cowards, but they're not soldiers either.&lt;BR&gt;&lt;BR&gt;Your service aids us all. Thank you.</Page>
+    
+    </Text>
+</QuestDialog>

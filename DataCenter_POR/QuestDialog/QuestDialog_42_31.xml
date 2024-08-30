@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="42" id="31" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="242" id="100" prevId="0" villagerId="1016">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="242" id="2" prevId="0" villagerId="1016">
+         
+        <Page social="5">O escudo de defesa está enfraquecendo. Sem ele, não haverá lugar seguro no templo. Ao sul daqui, perto da Câmara das Almas Perdidas, há fragmentos eldritch que funcionarão para energizá-lo, eu acho.&lt;BR&gt;&lt;BR&gt;Mas não há tempo a perder. Se não conseguirmos manter essa coisa ligada, os nagas e seus amigos estarão em cima de nós.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="3" prevId="2" villagerId="1016">
+         
+        <Page social="5">Graças aos deuses, você está de volta! Agora estaremos seguros.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="4" villagerId="1016">
+         
+        <Page social="0">Se você não encontrar esses fragmentos para alimentar o escudo, estaremos todos mortos.&lt;BR&gt;&lt;BR&gt;Não fique aí parado!</Page>
+    
+    </Text>
+</QuestDialog>

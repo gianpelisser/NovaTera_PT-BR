@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="3" id="29" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="4">Ordens de Missão&lt;BR&gt;&lt;BR&gt;São necessários reforços para missões de reconhecimento e infiltração.&lt;BR&gt;&lt;BR&gt;Apresentar-se ao Centurião Hendry no Posto Avançado da Vanguarda na Floresta do Esquecimento.</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="3" prevId="2" villagerId="1007">
+         
+        <Page social="4">Prazer em conhecê-lo, &lt;PCNAME&gt;. Estamos fazendo o melhor que podemos para levar a luta até os devas, mas sempre podemos usar outro soldado.&lt;BR&gt;&lt;BR&gt;Recupere e recupere sua resistência, depois vou colocá-lo para trabalhar.</Page>
+    
+    </Text>
+</QuestDialog>

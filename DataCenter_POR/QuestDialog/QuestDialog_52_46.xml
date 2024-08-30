@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="46" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="79" id="100" prevId="0" villagerId="1102">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="79" id="2" prevId="0" villagerId="1102">
+         
+        <Page social="5">É preciso muita coragem para lutar contra Killian, o deus do terror.&lt;BR&gt;&lt;BR&gt;O medo é o pior inimigo de todos, você sabe. Ele o envenena por dentro. A única maneira de superar o medo é expondo-se a ele.&lt;BR&gt;&lt;BR&gt;Você precisa de um traço de terror, a essência de uma experiência extremamente assustadora.&lt;NEXTPAGEBUTTON&gt;"Como é isso?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="5">Parece um pouco diferente para cada um. Esse é o ponto, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;A maneira mais fácil de obter um traço de terror é extraí-lo de um cadáver que viu sua morte chegar... e a temeu. Pelo menos uma vez, acho que devemos nos alegrar com o fato de este lugar estar cheio de mortos-vivos, não é? &lt;BR&gt;&lt;BR&gt;Traga-me Vestígios de Medo, e eu prepararei uma poção de vontade para você.</Page>
+    
+    </Text>
+    <Text huntingZoneId="79" id="3" prevId="2" villagerId="1102">
+         
+        <Page social="5">Bom, isso é o suficiente.&lt;BR&gt;&lt;BR&gt;Eu vou formular uma poção da vontade para você. Isso não foi tão assustador, foi?</Page>
+    
+    </Text>
+    <Text huntingZoneId="79" id="4" villagerId="1102">
+         
+        <Page social="0">Você pode encontrar vestígios de terror dos mortos-vivos por aqui.&lt;BR&gt;&lt;BR&gt;Se você me trouxer vestígios de terror suficientes, posso formular uma poção da vontade para você.</Page>
+    
+    </Text>
+</QuestDialog>

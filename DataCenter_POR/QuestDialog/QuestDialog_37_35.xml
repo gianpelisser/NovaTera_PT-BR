@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="37" id="35" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="237" id="100" prevId="0" villagerId="1032">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="237" id="2" prevId="0" villagerId="1032">
+         
+        <Page social="6">Consegui chegar inteiro até aqui, mas voltar para Elenea não será tão fácil com aqueles cães infernais errantes por perto.&lt;BR&gt;&lt;BR&gt;Eu os tenho observado, no entanto, e notei que eles não se aproximam de um tipo específico de flor de cheiro ruim.&lt;BR&gt;&lt;BR&gt;Parece repeli-los. Você poderia me encontrar algumas dessas flores para que eu possa manter esses cães longe de mim?</Page>
+    
+    </Text>
+    <Text huntingZoneId="237" id="3" prevId="2" villagerId="1032">
+         
+        <Page social="8">Eles têm um cheiro horrível, não é mesmo? &lt;BR&gt;&lt;BR&gt;Isso deve ser suficiente para me levar em segurança de volta a Elenea. Muito obrigado!</Page>
+    
+    </Text>
+    <Text huntingZoneId="237" id="4" villagerId="1032">
+         
+        <Page social="0">Isso não me garantirá um retorno seguro a Elenea.&lt;BR&gt;&lt;BR&gt;Por favor, encontre-me mais.</Page>
+    
+    </Text>
+</QuestDialog>

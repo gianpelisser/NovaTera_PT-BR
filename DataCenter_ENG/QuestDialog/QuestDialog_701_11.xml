@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="701" id="11" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="230" id="100" prevId="0" villagerId="7000">
+         
+        <Page social="0">Wielding the power of the Consos Clan clerics, you interrupted the Banquet of Blood.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="2" prevId="0" villagerId="7000">
+         
+        <Page social="0">I am told that you helped repel a small vampir incursion into the temple. The timing of this is...troubling.&lt;BR&gt;&lt;BR&gt;The Festival of the Sun is aimed at rejuvenating the temple, so that the sun remains strong—but vampirs cannot bear Balder's light. If they are attempting to interfere with the temple's annual cleansing, it could mean that they are attempting to weaken the light of the sun... &lt;NEXTPAGEBUTTON&gt;&amp;quot;What can I do to help?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Nahad told me that you drove vampirs away from the temple without much difficulty, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;You can disrupt their activities and allow the Consos Clan to complete our rituals. &lt;NEXTPAGEBUTTON&gt;&amp;quot;You can count on me.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Please speak to Harun. He is our best battle cleric, and he is in charge of eliminating vampirs. &lt;NEXTPAGEBUTTON&gt;&amp;quot;I'm on my way.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="3" prevId="2" villagerId="7002">
+         
+        <Page social="4">&lt;PCNAME&gt;? Keep your voice down. Thank you for coming. Renmi told me you could help.&lt;BR&gt;&lt;BR&gt;We must hurry—the vampirs' Banquet of Blood is already under way. Are you ready? &lt;NEXTPAGEBUTTON&gt;&amp;quot;I'm ready.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Very well, and may Balder watch over us both.&lt;BR&gt;&lt;BR&gt;I can temporarily bestow upon you Balder's gifts and imbue you with the power of a battle priest, but you must use this power on vampirs only. &lt;NEXTPAGEBUTTON&gt;&amp;quot;I promise.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">I admire your devotion, &lt;PCNAME&gt;. &lt;NEXTPAGEBUTTON&gt;&amp;quot;What's next?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="452" id="4" prevId="3" villagerId="7002">
+         
+        <Page social="4">Please listen carefully now, and I will explain how your these gifts work. &lt;NEXTPAGEBUTTON&gt;&amp;quot;I'm listening.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Balder gives three protective gifts which offer some protection from vampirs.&lt;BR&gt;&lt;BR&gt;&amp;quot;Fear&amp;quot; makes vampirs run away.&lt;BR&gt;&lt;BR&gt;&amp;quot;Stun&amp;quot; immobilizes vampirs temporarily.&lt;BR&gt;&lt;BR&gt;&amp;quot;Quake&amp;quot; makes all vampirs around you fall to the ground.&amp;quot; &lt;NEXTPAGEBUTTON&gt;&amp;quot;I understand.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">There are also gifts which are highly effective in slaying vampirs.&lt;BR&gt;&lt;BR&gt;&amp;quot;Mutate&amp;quot; turns a vampir into a boar, which can be to your advantage.&lt;BR&gt;&lt;BR&gt;&amp;quot;Light&amp;quot; burns all vampirs around you with Balder's light. It may be your most effective weapon against them.&lt;BR&gt;&lt;BR&gt;Lastly, &amp;quot;Punish&amp;quot; kills one vampir outright. &lt;NEXTPAGEBUTTON&gt;Nod.&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Once inside, you need to prevent the vampirs from calling upon more ghosts, find a way into the Ceremonial Room, and then destroy their unholy altar.&lt;BR&gt;&lt;BR&gt;It's time. By the name of Balder, let's end this abomination!</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="5" prevId="4" villagerId="7002">
+         
+        <Page social="4">You have done a noble task today, &lt;PCNAME&gt;. The Consos Clan will remember you for generations to come.&lt;BR&gt;&lt;BR&gt;Please take this token of our esteem, and know that you will always have friends here.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="123" id="9" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="123" id="100" prevId="0" villagerId="9001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="123" id="2" prevId="0" villagerId="9001">
+         
+        <Page social="1">Essa tarefa é simples, mas não é fácil.&lt;BR&gt;&lt;BR&gt;Tome uma equipe e penetre profundamente no território da União Iluminada. Após a invasão do Tor, você encontrará uma zona de risco cheia de feras gigantes. O sindicato livresco não consegue lidar com elas. Se você matar uma de cada, eles entenderão como somos mais fortes.</Page>
+    
+    </Text>
+    <Text huntingZoneId="123" id="3" prevId="2" villagerId="9001">
+         
+        <Page social="0">Bem-sucedido? É claro que sim.&lt;BR&gt;&lt;BR&gt;É bom ver a Ordem de Ferro cheia de &lt;PCClass:lcase&gt;s como você.&lt;BR&gt;&lt;BR&gt;Agora sobre essa recompensa.</Page>
+    
+    </Text>
+</QuestDialog>

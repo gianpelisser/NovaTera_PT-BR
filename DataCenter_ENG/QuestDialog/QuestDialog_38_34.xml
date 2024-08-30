@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="38" id="34" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="238" id="100" prevId="0" villagerId="1013">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="238" id="2" prevId="0" villagerId="1013">
+         
+        <Page social="6">This region is only now beginning to come to life after the Day of Fire. Many creatures are nearly out of danger of extinction.&lt;BR&gt;&lt;BR&gt;Unfortunately, that is not the case for the struthios. There are too few of them, and too many hyenas. Perhaps &lt;PCNAME&gt; would care to redress the balance in favor of the struthios?&lt;BR&gt;&lt;BR&gt;You'll find them southwest of here. And be forewarned—they're every bit as deadly as the hyenas who hunt them.</Page>
+    
+    </Text>
+    <Text huntingZoneId="238" id="3" prevId="2" villagerId="1013">
+         
+        <Page social="6">We appreciate &lt;PCNAME&gt;'s actions on behalf of nature's balance.</Page>
+    
+    </Text>
+</QuestDialog>

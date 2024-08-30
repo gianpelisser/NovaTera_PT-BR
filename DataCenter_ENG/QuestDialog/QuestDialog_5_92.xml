@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="5" id="92" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="60" id="100" prevId="0" villagerId="1014">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="60" id="2" prevId="0" villagerId="1014">
+         
+        <Page social="0">The tuwangis are unacceptably irritating and rebellious.&lt;BR&gt;&lt;BR&gt;You must kill the {@LinkCreature:5#1#tuwangi overseers}, {@LinkCreature:5#2#helpers}, and {@LinkCreature:5#3#workers} in Babok Hollow.&lt;BR&gt;&lt;BR&gt;Report to Gara in the Marshlands when your mission is complete.</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="3" prevId="2" villagerId="1010">
+         
+        <Page social="5">Excellent! I love seeing these numbers go up and up!</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="4" villagerId="1010">
+         
+        <Page social="0">You know this is where you turn things in, yes? Not to pick things up?&lt;BR&gt;&lt;BR&gt;No, no reason. I was just making conversation.</Page>
+    
+    </Text>
+</QuestDialog>

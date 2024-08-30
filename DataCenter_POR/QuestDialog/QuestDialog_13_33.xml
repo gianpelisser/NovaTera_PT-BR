@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="33" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="213" id="100" prevId="0" villagerId="1130">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="213" id="2" prevId="0" villagerId="1130">
+         
+        <Page social="4">O {@LinkCreature:13#300911#Cromos} é uma criatura fascinante. Um espírito guardião modelado a partir de um animal real que adapta o equipamento recolhido em uma armadura funcional.&lt;BR&gt;&lt;BR&gt;Eles também comem praticamente qualquer coisa, inclusive medidores destinados a outras criaturas. Os dados recuperados a partir deles seriam um projeto fascinante. Sua próxima tarefa é conseguir alguns.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="3" prevId="2" villagerId="1130">
+         
+        <Page social="4">Como esperado. Esses medidores registram uma energia fascinante... semelhante a algo... não é correto especular. Leander, filho de Karas, ou Eria, filha de Elinu, são os pesquisadores sênior. Eles devem saber.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="4" villagerId="1130">
+         
+        <Page social="0">O uivo duplo do {@LinkCreature:13#300911#cromos} assusta? Não dê atenção a isso - mantenha-se concentrado na tarefa que tem em mãos.&lt;BR&gt;&lt;BR&gt;Elleon nunca se esquivou do perigo, embora haja quem afirme que essa foi sua ruína. Se a recuperação dos &lt;b&gt;medidores de potência&lt;/b&gt; fosse sua tarefa, sem dúvida ela já teria sido concluída.&lt;BR&gt;&lt;BR&gt;Talvez outra rodada de reuniões seja necessária.</Page>
+    
+    </Text>
+</QuestDialog>

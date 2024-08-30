@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="172" id="5" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="823" id="100" prevId="0" villagerId="1005">
+         
+        <Page social="0">As refeições de bordo deixam a desejar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="823" id="2" prevId="0" villagerId="1005">
+         
+        <Page social="4">Actol ainda não conseguiu se mexer no mar... er, nas pernas de ar.&lt;BR&gt;&lt;BR&gt;Meu beliche fica abaixo do dele, então quero que ele esteja saudável antes desta noite.&lt;BR&gt;&lt;BR&gt;Você poderia verificar com os outros se há remédios ou uísque de fogo?</Page>
+    
+    </Text>
+    <Text huntingZoneId="823" id="3" prevId="2" villagerId="3004">
+         
+        <Page social="4">Enjoo no ar? Claro. Poucas pessoas têm estômago para voar. Eu, por outro lado, já voei duas vezes.&lt;BR&gt;&lt;BR&gt;Tente um pouco de gengibre essênio. Provavelmente há algum nos armários dos pés.</Page>
+    
+    </Text>
+    <Text huntingZoneId="823" id="4" prevId="3" villagerId="1006">
+         
+        <Page social="4">Oh, louvado seja Velik, diabos - louvado seja Kaia, Seren e Akasha também. Meu estômago está muito melhor. Obrigado.&lt;BR&gt;&lt;BR&gt;Você poderia perguntar a Bobbie se</Page>
+    
+    </Text>
+    <Text huntingZoneId="823" id="5" villagerId="1006">
+         
+        <Page social="0">Não tem gengibre? Continue procurando.</Page>
+    
+    </Text>
+    <Text huntingZoneId="823" id="6" prevId="4" villagerId="3007">
+         
+        <Page social="4">Ah, claro que sim. Sou o rei da comida reconfortante.&lt;BR&gt;&lt;BR&gt;A propósito, você quer experimentar a la carte? &lt;BR&gt;&lt;BR&gt;Vamos lá, não seja tímido. Aprendi com o chef mais proeminente de Arborea.</Page>
+    
+    </Text>
+    <Text huntingZoneId="823" id="7" prevId="6" villagerId="1007">
+         
+        <Page social="4">(O cheiro lembra cebolas e argonss).</Page>
+    
+    </Text>
+    <Text huntingZoneId="823" id="8" prevId="7" villagerId="3007">
+         
+        <Page social="4">O quê? Você está louco. Esse prato tem um sabor incrível! &lt;BR&gt;&lt;BR&gt;Aqui, experimente um.</Page>
+    
+    </Text>
+    <Text huntingZoneId="823" id="9" prevId="8" villagerId="1008">
+         
+        <Page social="4">Parece e cheira menos suspeito.</Page>
+    
+    </Text>
+    <Text huntingZoneId="823" id="10" prevId="9" villagerId="3007">
+         
+        <Page social="4">Estou lhe dizendo, esse foi um simpósio de sabores! Feche a porta da frente, eu sou incrível! &lt;BR&gt;&lt;BR&gt;Eu deveria competir para ser o Chef Arun!</Page>
+    
+    </Text>
+</QuestDialog>

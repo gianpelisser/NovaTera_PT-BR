@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="22" id="31" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="222" id="100" prevId="0" villagerId="1011">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="222" id="2" prevId="0" villagerId="1011">
+         
+        <Page social="5">Os dormitórios do terceiro andar estão infestados de estudantes lunáticos.&lt;BR&gt;&lt;BR&gt;Os piores são os {@LinkCreature:22#14#acólitos de Vadoma}! Se você não os detiver, nunca conseguirá se estabelecer no andar.&lt;BR&gt;&lt;BR&gt;Tudo está ficando tão escuro.</Page>
+    
+    </Text>
+    <Text huntingZoneId="222" id="3" prevId="2" villagerId="1011">
+         
+        <Page social="5">A julgar por sua aparência, eles lutaram muito.&lt;BR&gt;&lt;BR&gt;Sabe, há uma parte de mim que está realmente orgulhosa de suas realizações.&lt;BR&gt;&lt;BR&gt;Espero me lembrar disso quando finalmente colocar seus corpos para descansar.</Page>
+    
+    </Text>
+</QuestDialog>

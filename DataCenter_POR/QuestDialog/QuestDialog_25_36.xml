@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="25" id="36" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="225" id="100" prevId="0" villagerId="1027">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="225" id="2" prevId="0" villagerId="1027">
+         
+        <Page social="4">Não temos notícias da equipe de Elleon. Ele é famoso por não manter contato, mas Runha não é nada disso.&lt;BR&gt;&lt;BR&gt;Doron conhece bem Runha. Veja se ele tem alguma informação.</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="3" prevId="2" villagerId="1017">
+         
+        <Page social="0">Runha? Eu a enviei para dar apoio mágico à força de Elleon.&lt;BR&gt;&lt;BR&gt;Acredito que o destino deles era a Grande Capela.</Page>
+    
+    </Text>
+    <Text huntingZoneId="225" id="4" prevId="3" villagerId="1023">
+         
+        <Page social="4">Tivemos pouco tempo para relatórios de status. Os Scions destruíram o teletransporte para impedir a perseguição.&lt;BR&gt;&lt;BR&gt;Nós ficamos para trás para enviar reforços.</Page>
+    
+    </Text>
+</QuestDialog>

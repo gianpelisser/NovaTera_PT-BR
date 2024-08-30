@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="809" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="809" id="100" prevId="0" villagerId="301">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="809" id="2" prevId="0" villagerId="301">
+         
+        <Page social="0">Os arquidevas realizam atos indescritíveis aqui. Acredito que essa seja a fonte dos demokrons.&lt;BR&gt;&lt;BR&gt;Devemos pôr um fim a esse pesadelo. Destrua a instalação e mate seus habitantes.&lt;BR&gt;&lt;BR&gt;Não poupe ninguém para que eles não retomem seu trabalho imundo em outro lugar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="809" id="3" prevId="2" villagerId="301">
+         
+        <Page social="0">Seu valor garantirá que enfrentemos menos abominações como os demokrons. Qualquer chance de poupar nossos soldados de tais horrores vale a pena.&lt;BR&gt;&lt;BR&gt;Obrigado, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"Pela Federação!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="40" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="204" id="100" prevId="0" villagerId="1109">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="204" id="2" prevId="0" villagerId="1109">
+         
+        <Page social="4">Nós ferimos os shurianos, mas ainda não terminamos por aqui.&lt;BR&gt;&lt;BR&gt;Ainda há os {@LinkCreature:4#3031#tyraks} - pode haver mais de um - à espreita perto do santuário de Bahaar. Faça o que você faz de melhor, &lt;PCNAME&gt;!</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="3" prevId="2" villagerId="1109">
+         
+        <Page social="4">Você tem muita energia, &lt;PCNAME&gt;. E está fazendo bom uso dela!</Page>
+    
+    </Text>
+</QuestDialog>

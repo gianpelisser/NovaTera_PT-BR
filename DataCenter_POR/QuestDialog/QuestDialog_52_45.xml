@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="45" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="252" id="100" prevId="0" villagerId="1044">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="252" id="2" prevId="0" villagerId="1044">
+         
+        <Page social="4">Desculpe-me por ter zombado de você, &lt;PCNAME&gt;. Você é realmente um poderoso &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;Pedido de desculpas aceito? Ótimo! Você poderia ajudar meu amigo Tarut? Ele está precisando muito de &lt;PCCLASS:lcase&gt;s corajosos como você.</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="3" prevId="2" villagerId="1034">
+         
+        <Page social="4">Você está fora de si ao entrar nas mandíbulas da morte. Você não viu todos os cadáveres e esqueletos? &lt;BR&gt;&lt;BR&gt;Bem, eu aceito de bom grado qualquer ajuda, especialmente se for de Krok.&lt;BR&gt;&lt;BR&gt;Bem-vindos a um lugar sagrado para todo aman que pensa corretamente!</Page>
+    
+    </Text>
+</QuestDialog>

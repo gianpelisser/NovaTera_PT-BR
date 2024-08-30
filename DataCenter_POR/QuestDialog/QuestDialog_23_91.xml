@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="23" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="68" id="100" prevId="0" villagerId="1007">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="68" id="2" prevId="0" villagerId="1007">
+         
+        <Page social="5">Os {@LinkCreature:23#15#mooncrest noruks} estão pastando demais no Lago das Lágrimas. Precisamos de suas peles, portanto, esse é um casamento feliz entre desejo e missão.&lt;BR&gt;&lt;BR&gt;Mate os noruks e leve suas peles para Lorsha quando terminar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="223" id="3" prevId="2" villagerId="1011">
+         
+        <Page social="5">Essas peles serão ótimas armaduras. Meus agradecimentos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="223" id="4" villagerId="1011">
+         
+        <Page social="0">Mate os {@LinkCreature:23#15#mooncrest noruks} e traga-me suas peles.</Page>
+    
+    </Text>
+</QuestDialog>

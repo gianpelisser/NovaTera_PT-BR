@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="15" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">O General Samael o enviou a Popolion para investigar alguns rumores. A agressão descontrolada assolava a paisagem e aberrações bizarras atacavam os habitantes locais.&lt;BR&gt;&lt;BR&gt;Vocês encontraram uma dupla de estudiosos baraka, Bedoram e Brohua, que investigaram a origem do problema. Bedoram atribuiu o problema a uma relíquia conhecida como dementalith, mas o advertiu de que tal dispositivo é um investimento enorme e que o perigo era maior do que parecia à primeira vista.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">Ordens da Missão&lt;BR&gt;&lt;BR&gt;Apresentar-se ao General Samael imediatamente. Todas as outras ordens foram canceladas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="1137">
+         
+        <Page social="4">Estamos mantendo o silêncio, mas Poporia está com problemas e o Cônsul Dougal ordenou que eu mandasse alguém investigar.&lt;BR&gt;&lt;BR&gt;Vá para Popolion e investigue a origem desse distúrbio, mas não corra riscos. Seja qual for o problema, ele não deve se espalhar para Val Aureum ou outras províncias. Você me entendeu? &lt;BR&gt;&lt;BR&gt;Se parar essa ameaça significa queimar Popolion até o chão, então é isso que você fará.</Page>
+    
+    </Text>
+    <Text huntingZoneId="67" id="4" prevId="3" villagerId="1007">
+         
+        <Page social="4">Você é o agente da Federação? Nem um pouco cedo demais! As más notícias? Problemas em toda parte fora de Popolion. É uma doença? Uma maldição? Fala-se em magia de sangue de vampiro, mas ninguém sabe de nada.&lt;BR&gt;&lt;BR&gt;As boas notícias? Não são muitas. Dois estudiosos de Baraka têm se aventurado pela floresta em busca de respostas, mas lá fora é perigoso. Encontre {@LinkCreature:215#1019#Brohua} no acampamento a sudoeste daqui e veja o que você pode fazer para ajudar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="5" prevId="4" villagerId="1019">
+         
+        <Page social="4">Finalmente, ajuda externa! Se nada mais, é reconfortante falar com alguém são! Sou o assistente de Bedoram e estou à sua disposição. Ainda não há muito o que relatar, embora tenhamos concluído que isso é menos uma praga ou maldição do que uma... emanação? É difícil dizer. O que sabemos é que, quanto mais tempo você fica, mais ela o afeta.&lt;BR&gt;&lt;BR&gt;Ela afetou meus colegas, embora eu ache que eles ainda não se deram conta disso.&lt;NEXTPAGEBUTTON&gt;"Onde está Bedoram?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Ele está transferindo nosso equipamento para um novo acampamento a noroeste daqui. Estamos mapeando o campo de força do - ah, não vou aborrecê-lo. &lt;BR&gt;&lt;BR&gt;Estou mais preocupado com todas as {@LinkCreature:15#6#construções perturbadas} próximas ao nosso acampamento. Eu os vi massacrando viajantes, mas o Prefeito Paka está retendo suas tropas. Ele está convencido de que estamos prestes a ser invadidos por fazendeiros.&lt;BR&gt;&lt;BR&gt;Você poderia lidar com eles?</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="6" prevId="5" villagerId="1019">
+         
+        <Page social="4">Sou grato a você.&lt;BR&gt;&lt;BR&gt;Assim que eu arrumar as coisas aqui, voltarei para Popolion.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, você poderia verificar com Bedoram? Ele pode precisar de ajuda. Ele foi para o norte, então provavelmente passou pelo Camp Retribution. Vá até lá e pergunte ao Centurião {@LinkCreature:215#1010$$Amallen} se ele sabe do paradeiro de Bedoram.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="7" prevId="6" villagerId="1010">
+         
+        <Page social="4">O que é isso? Você está procurando por {@LinkCreature:215#1027$$Bedoram}?&lt;BR&gt;&lt;BR&gt;Ele parou brevemente a caminho do Acampamento Redenção para pegar seu equipamento da caravana.&lt;BR&gt;&lt;BR&gt;Vá encontrá-lo. Nossas vidas podem depender do resultado de sua pesquisa.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="8" prevId="7" villagerId="1027">
+         
+        <Page social="4">A caravana está atrasada há muito tempo. O que devo fazer? &lt;BR&gt;&lt;BR&gt;Sem meus instrumentos, não posso isolar a origem dos problemas. Será que Paka realmente enviou o-&lt;BR&gt;&lt;BR&gt;Espere, o que foi isso? Um sinal de socorro! A caravana está com problemas! Vocês precisam ajudá-los! Rápido! Eu vou {@LinkCreature:215#1027#teletransportar você}.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="9" prevId="8" villagerId="1027">
+         
+        <Page social="4">Graças a Oriyn! Você salvou a caravana e meu equipamento.&lt;BR&gt;&lt;BR&gt;Agora, preciso fazer leituras de força de campo e compará-las com nossos dados anteriores. Ah, e vou precisar de resíduos químicos frescos! &lt;BR&gt;&lt;BR&gt;Você poderia coletar as amostras químicas de que preciso? O campo causa mudanças físicas com o tempo. Preciso ver o sangue dos {@LinkCreature:15#14#demônios do sangue}.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="10" prevId="9" villagerId="1027">
+         
+        <Page social="4">Excelente! &lt;BR&gt;&lt;BR&gt;Estou quase terminando de inserir os novos dados. Assim que eu adicionar esse sangue, o analisador determinará o desvio em suas amostras e as comparará.&lt;BR&gt;&lt;BR&gt;Se eu estiver certo, elas serão as mesmas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="11" villagerId="1027">
+         
+        <Page social="0">Eu ainda preciso desse sangue, &lt;PCNAME&gt;. Aqueles {@LinkCreature:15#14#demônios do sangue} são a chave.&lt;BR&gt;&lt;BR&gt;Pedi o mínimo necessário para meus testes!</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="12" prevId="10" villagerId="1027">
+         
+        <Page social="4">Felizmente, não se trata de uma praga, nem de uma maldição primordial. É... oh, não! &lt;BR&gt;&lt;BR&gt;Magia de sangue - e uma poderosa magia de sangue. Seria necessário um grande grupo de arcanistas para conseguir esse efeito, ou possivelmente um artefato.&lt;NEXTPAGEBUTTON&gt;"Que tipo de artefato?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Boa pergunta! &lt;BR&gt;&lt;BR&gt;Já vi efeitos semelhantes antes, mas os dementaliths estavam sempre envolvidos. Sim. Eles são poderosos o suficiente para causar isso.&lt;BR&gt;&lt;BR&gt;Mas vou lhe dizer uma coisa. Quem quer que tenha implantado tal dispositivo deve ter uma agenda, e ser implacável o suficiente para pagar qualquer preço pelo sucesso.&lt;BR&gt;&lt;BR&gt;Pela luz de Oriyn, que bagunça.</Page>
+    
+    </Text>
+</QuestDialog>

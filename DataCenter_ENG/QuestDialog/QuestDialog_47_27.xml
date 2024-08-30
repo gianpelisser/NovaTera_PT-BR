@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="47" id="27" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="247" id="100" prevId="0" villagerId="1013">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="247" id="2" prevId="0" villagerId="1013">
+         
+        <Page social="4">Have you noticed how disturbed the argons' creatures are by the faerie saplings? I think faerie magic is poisonous to them in some way. Do you suppose that's why the argons tried to destroy Seeliewood?&lt;BR&gt;&lt;BR&gt;I'm really afraid the {@LinkCreature:47#2003#contaminated gulas} are going to uproot them. Maybe you'd like to uproot the gulas first. Then check in with Rozaline at {@Rgn:47007$$Blightroar Research Station}.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="3" prevId="2" villagerId="1004">
+         
+        <Page social="4">Fewer gulas means more trees. good job, &lt;PCNAME&gt;. Stick around and we'll put you to work right enough.</Page>
+    
+    </Text>
+</QuestDialog>

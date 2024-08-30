@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="601" id="4" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="77" id="100" prevId="0" villagerId="3001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="77" id="2" prevId="0" villagerId="3001">
+         
+        <Page social="4">One of our research objectives is to determine the purpose of the massive metallic mushrooms throughout Tirkai Forest.&lt;BR&gt;&lt;BR&gt;We set our finest field researchers to the task. I'd like an update on their progress. I need you to brave the road and collect their reports for me.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="3" prevId="2" villagerId="3509">
+         
+        <Page social="4">Ah, apologies, &lt;PCNAME&gt;. A colleague borrowed my notes.  Should be nearby, though.&lt;BR&gt;&lt;BR&gt;Let me mark that on your map....</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="4" prevId="2" villagerId="3509">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="247" id="5" prevId="2" villagerId="3509">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="247" id="6" prevId="2" villagerId="3506">
+         
+        <Page social="4">Yes, that Report was indispensable to our inquiries.&lt;BR&gt;&lt;BR&gt;We've finished with it, but we've written an addendum that clarifies matters. If I can recall who has that....</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="7" prevId="6" villagerId="3503">
+         
+        <Page social="4">Yes, indeed. The Tirkai Ecology Report proved most useful for our inquiries.&lt;BR&gt;&lt;BR&gt;We no longer need it, but have written an addendum. It would be prudent to include it. It's at this station, here.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="8" prevId="7" villagerId="3510">
+         
+        <Page social="4">True, true, my addendum is quite illuminating, but I no longer possess it.&lt;BR&gt;&lt;BR&gt;One of our field teams took it. Let me mark your map.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="9" prevId="7" villagerId="3510">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="247" id="10" prevId="7" villagerId="3510">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="247" id="11" prevId="7" villagerId="3505">
+         
+        <Page social="4">The contamination addendum? Absolutely.&lt;BR&gt;&lt;BR&gt;We made a copy for our use. The director is welcome to the original.&lt;BR&gt;&lt;BR&gt;Take it with our thanks.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="12" prevId="11" villagerId="3504">
+         
+        <Page social="4">The contamination addendum? Absolutely.&lt;BR&gt;&lt;BR&gt;We made a copy for our use. The director is welcome to the original.&lt;BR&gt;&lt;BR&gt;Take it with our thanks.</Page>
+    
+    </Text>
+    <Text huntingZoneId="77" id="13" prevId="12" villagerId="3001">
+         
+        <Page social="4">Excellent work, &lt;PCNAME&gt;. I trust the journey wasn't too dangerous?&lt;BR&gt;&lt;BR&gt;Once we understand why the argons changed Val Tirkai, we might identify a need to exploit or a vulnerability to target.&lt;BR&gt;&lt;BR&gt;The Invalesco thanks you.</Page>
+    
+    </Text>
+    <Text huntingZoneId="77" id="14" villagerId="3001">
+         
+        <Page social="0">I need that research, &lt;PCNAME&gt;. Lives depend on it.</Page>
+    
+    </Text>
+</QuestDialog>

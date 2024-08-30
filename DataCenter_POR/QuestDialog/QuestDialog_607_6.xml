@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="607" id="6" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="72" id="100" prevId="0" villagerId="1704">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="72" id="2" prevId="0" villagerId="1704">
+         
+        <Page social="4">Fazemos muita mágica por aqui, mas a engenharia mecânica é a chave para um futuro de conveniência e eficiência.&lt;BR&gt;&lt;BR&gt;O Collegium Arcane tem vários livros didáticos sobre engenharia mecânica. Estude-os e depois volte. Faremos um teste.&lt;BR&gt;&lt;BR&gt;Você gosta de testes, não é?</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="3" prevId="2" villagerId="1710">
+         
+        <Page social="4">A engenharia mecânica inclui &lt;font color='#0000FF'&gt;estudos de materiais&lt;/font&gt; que explicam a solidez e a transformação dos materiais. (Detalhes omitidos.)&lt;BR&gt;&lt;BR&gt;A cinetofísica explica a &lt;font color='#0000FF'&gt;velocidade, aceleração e vibração&lt;/font&gt; causadas por forças ou movimentos externos. (Detalhes omitidos.)&lt;BR&gt;&lt;BR&gt;A &lt;font color='#0000FF'&gt;teoria da mecânica&lt;/font&gt; explica as interações entre componentes mecânicos. (Detalhes omitidos.)</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="4" prevId="3" villagerId="1704">
+         
+        <Page social="4">Você estudou muito? &lt;BR&gt;&lt;BR&gt;Então vamos fazer um teste.</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="5" prevId="3" villagerId="1704">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="72" id="6" prevId="3" villagerId="1704">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="72" id="7" prevId="3" villagerId="1704">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="72" id="8" prevId="4" villagerId="1704">
+         
+        <Page social="0">Qual é o nome da ciência que explica a solidez e a transformação dos materiais?</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="9" prevId="4" villagerId="1704">
+         
+        <Page social="0">Você está completamente equivocado.&lt;NEXTPAGEBUTTON&gt;"Mas estudar é difícil!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Muito ruim. Volte para o Collegium Arcane e estude mais.</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="10" prevId="4" villagerId="1704">
+         
+        <Page social="0">Não, a cinesiofísica explica a dinâmica causada por forças e movimentos externos.&lt;NEXTPAGEBUTTON&gt;"Eu sempre os confundo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Bem, a cura para sua confusão é voltar para o Collegium Arcane e estudar mais.</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="11" prevId="4" villagerId="1704">
+         
+        <Page social="0">Errado! Eu até lhe dei uma dica: a palavra "materiais"."&lt;NEXTPAGEBUTTON&gt;"Eu deveria ter estudado."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">De fato. Esta é a sua chance: volte para o Collegium Arcane e estude mais.</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="12" prevId="4" villagerId="1704">
+         
+        <Page social="0">Correto. Vejo que você realmente leu o livro. Hoje em dia, poucos o fazem.&lt;NEXTPAGEBUTTON&gt;"Então, estava certo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Sim, você pode ter um talento especial para a cinesiofísica.</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="13" prevId="4" villagerId="1704">
+         
+        <Page social="0">Qual é o nome da ciência que explica as interações entre os componentes mecânicos?</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="14" prevId="4" villagerId="1704">
+         
+        <Page social="0">Ciência dos móveis? Somente alguém tão burro quanto uma maçaneta responderia a isso! &lt;NEXTPAGEBUTTON&gt;"Eu deveria ter prestado atenção."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Eu lhe darei outra chance. Volte para o Collegium Arcane e estude mais.</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="15" prevId="4" villagerId="1704">
+         
+        <Page social="0">Correto novamente, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"Essas perguntas não são tão difíceis assim."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Oh, você ficaria surpreso com o número de pessoas que respiram pela boca que temos aqui.</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="16" prevId="4" villagerId="1704">
+         
+        <Page social="0">A aceleração é um tipo de movimento, sim, mas estou perguntando sobre a grande teoria que incorpora tudo.&lt;NEXTPAGEBUTTON&gt;"Isso estava no livro?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Sim, foi isso. Volte para o Collegium Arcane e estude mais.</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="17" prevId="4" villagerId="1704">
+         
+        <Page social="0">Resposta errada. E exigimos perfeição! &lt;NEXTPAGEBUTTON&gt;"Posso tentar novamente?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Como eu poderia dizer não a uma segunda chance de perfeição? De volta ao Collegium Arcane com você!</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="18" prevId="4" villagerId="1704">
+         
+        <Page social="0">Esses três elementos da cinesiofísica são causados por forças e movimentos externos. Quais são eles?</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="19" prevId="4" villagerId="1704">
+         
+        <Page social="0">Você se esqueceu da vibração, e precisa dos três.&lt;NEXTPAGEBUTTON&gt;"Estava na ponta da língua."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Então, você não precisará de muito mais estudo. Volte para o Collegium Arcane e vá para os livros!</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="20" prevId="4" villagerId="1704">
+         
+        <Page social="0">Psicocinese? Deixe-me interrompê-lo aí. Completamente errado.&lt;NEXTPAGEBUTTON&gt;"Tenho lido muito ultimamente."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Parece que não é o suficiente. Volte para o Collegium Arcane e estude mais.</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="21" prevId="4" villagerId="1704">
+         
+        <Page social="0">Talvez tenhamos um mestre entre nós!&lt;NEXTPAGEBUTTON&gt;"Será que eu entendi direito?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">De fato, você fez isso! A cinesiofísica parece lhe agradar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="22" prevId="4" villagerId="1704">
+         
+        <Page social="0">Errado! Tem certeza de que estudou? &lt;NEXTPAGEBUTTON&gt;"Bem, parecia que estava estudando."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Foi mesmo? Recupere essa sensação! Volte para o Collegium Arcane e estude mais.</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="23" prevId="18" villagerId="1704">
+         
+        <Page social="4">A engenharia mecânica é a base da teoria unificada. Estude-a com afinco se você quiser se tornar um grande teórico.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="605" id="20" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="63" id="100" prevId="0" villagerId="3002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="2" prevId="0" villagerId="3002">
+         
+        <Page social="4">Ei, &lt;PCCLASS:lcase&gt;, ou devo chamá-lo de "astuto"? Vamos fazer um acordo - você fala com {@LinkCreature:63#3003#Elthienne} e tira algumas coisas da nossa lista de "a fazer", e eu o chamarei apenas de &lt;PCNAME&gt; de agora em diante. Parece bom?</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="3003">
+         
+        <Page social="0">{O senhor foi chamado de quê? Acho que "Vossa Real Astúcia do Reino de Craftania" combina mais com você.&lt;BR&gt;&lt;BR&gt;Ainda não está satisfeito? Bem, você é difícil de agradar! &lt;BR&gt;&lt;BR&gt;Então, &lt;PCNAME&gt;-agora que a parte do dia que envolve a Mão de Velika acabou, você gostaria de criar alguns itens para {@LinkCreature:63#3001#Barian}? Ótimo!</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="4" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="5" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="6" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="7" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="8" prevId="2" villagerId="3001">
+         
+        <Page social="5">Dê uma olhada neles! São tão bem feitos! Eu não esperava nada menos da realeza artesanal.&lt;BR&gt;&lt;BR&gt;Ha! A notícia se espalha rapidamente pelas Mãos.&lt;BR&gt;&lt;BR&gt;Veja {@LinkCreature:63#3002#Taratia} para mais abusos e seu pagamento.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="9" villagerId="3001">
+         
+        <Page social="0">Faça alguns lingotes de krysteel e traga-os para mim. Isso seria imensamente útil.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="10" prevId="8" villagerId="3001">
+         
+        <Page social="5">Bom trabalho! Diga-me, você não gostaria de ser o artesão da corte das Mãos de Velika, gostaria? Não? &lt;BR&gt;&lt;BR&gt;Desculpe, a Elthienne me colocou para fazer isso. Você é bem-vindo aqui a qualquer hora.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} tem seu pagamento.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="11" villagerId="3001">
+         
+        <Page social="0">Faça um pouco de deosilex e traga seu trabalho pronto para mim.&lt;BR&gt;&lt;BR&gt;Obrigado desde já, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="12" prevId="10" villagerId="3001">
+         
+        <Page social="5">Você é muito bom.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} também é bom, mas você é... melhor. Vamos deixar isso de lado. &lt;BR&gt;&lt;BR&gt;Veja sua competição de artesanato para receber o pagamento.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="13" villagerId="3001">
+         
+        <Page social="0">Crie um pouco de couro de sal e traga-o de volta para cá, pode ser? &lt;BR&gt;&lt;BR&gt;Obrigado, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="14" prevId="12" villagerId="3001">
+         
+        <Page social="5">Muito obrigado!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} lhe pagará por esse excelente trabalho.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="15" villagerId="3001">
+         
+        <Page social="0">Faça um pouco de verdracloth e traga-o para mim.&lt;BR&gt;&lt;BR&gt;Tente não se divertir demais.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="16" prevId="14" villagerId="3002">
+         
+        <Page social="4">Nada mal, &lt;PCNAME&gt;. Nada mal.&lt;BR&gt;&lt;BR&gt;Você deve saber que as Mãos de Velika estão muito impressionadas com o seu trabalho. Volte e nos veja sempre que quiser!</Page>
+    
+    </Text>
+</QuestDialog>

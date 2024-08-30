@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="49" id="51" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="76" id="100" prevId="0" villagerId="1035">
+         
+        <Page social="0">Iron-Eating Monster Hunting</Page>
+    
+    </Text>
+    <Text huntingZoneId="76" id="2" prevId="0" villagerId="1035">
+         
+        <Page social="4">I came to Kanstria to seek help constructing the weapon for my hushang—my coming-of-age ceremony. Unfortunately, the argons arrived at the same time.&lt;NEXTPAGEBUTTON&gt;"Can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">What I really need are iteris shards. It's an unusual step to take. Most hushang weapons are ceremonial, not functional. I want mine to be different.</Page>
+    
+    </Text>
+    <Text huntingZoneId="76" id="3" prevId="2" villagerId="1035">
+         
+        <Page social="5">Whoa! I can feel the shard's power.&lt;BR&gt;&lt;BR&gt;My friend, {@LinkCreature:76#1022}, is skilled at infusing iteris shards with weaponry. I'll seek her help next.&lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="76" id="4" villagerId="1035">
+         
+        <Page social="0">Any luck finding the shards?</Page>
+    
+    </Text>
+</QuestDialog>

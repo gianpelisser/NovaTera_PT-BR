@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="43" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="204" id="100" prevId="0" villagerId="1133">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="204" id="2" prevId="0" villagerId="1133">
+         
+        <Page social="4">Uma fonte de energia... esse é o próximo passo.&lt;BR&gt;&lt;BR&gt;E que fonte de energia poderia ser melhor do que o fogo - especialmente quando se está no mesmo terreno onde Bahaar, o deus do fogo, se esconde.&lt;BR&gt;&lt;BR&gt;Minério inflamado, infundido com a essência do próprio Bahaar. É disso que precisamos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="3" prevId="2" villagerId="1133">
+         
+        <Page social="4">O puro poder do fogo... agora é nosso dever comandar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="4" villagerId="1133">
+         
+        <Page social="0">Todos os espelhos do mundo não nos ajudarão sem o minério flamelado para servir como fonte de energia.</Page>
+    
+    </Text>
+</QuestDialog>

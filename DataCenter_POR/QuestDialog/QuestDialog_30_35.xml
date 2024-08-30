@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="35" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="230" id="100" prevId="0" villagerId="1019">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="230" id="2" prevId="0" villagerId="1019">
+         
+        <Page social="1">Estamos estudando pequenas mudanças no Padrão de Balder - os glyphs e linhas que aparecem no céu durante o dia. Mas não podemos fazer um trabalho adequado a menos que possamos estudar o padrão ao mesmo tempo em lugares diferentes.&lt;BR&gt;&lt;BR&gt;Devo ter pesquisadores tanto no {@Rgn:30009$$Arquivo Superior} quanto no {@Rgn:30008$$Arquivo Inferior}, mas seus relatórios estão atrasados.&lt;BR&gt;&lt;BR&gt;Pode passar por lá e dizer a eles para se apressarem com o relatório? Verifique primeiro com {@LinkCreature:230#1026$$Meterok}. Ele está em algum lugar no arquivo superior.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="3" prevId="2" villagerId="1026">
+         
+        <Page social="1">Relatório?&lt;BR&gt;&lt;BR&gt;Não posso enviar meu relatório até ter notícias de {@LinkCreature:230#1020$$Ronush}, mas a observação dele ainda não terminou. Típico! &lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#1020$$Ronush} também tem meus dados, então você pode ir até lá e matar dois coelhos com uma cajadada só.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="4" prevId="3" villagerId="1020">
+         
+        <Page social="1">Está fazendo uma coleta para a Veteran Aid Society? Eu doei no mês passado...&lt;BR&gt;&lt;BR&gt;Sorry, my mistake. Sestena o enviou? Claro que sim. Impaciente, não é? &lt;BR&gt;&lt;BR&gt;Temos que cronometrar perfeitamente as mudanças no Padrão de Balder, mas as anotações de {@LinkCreature:230#1026$$Meterok} estão mal organizadas, o que está me atrasando.&lt;BR&gt;&lt;BR&gt;Você terá que esperar minha observação terminar. Enquanto espera, gostaria de fazer um biscate em troca de ouro?</Page>
+    
+    </Text>
+</QuestDialog>

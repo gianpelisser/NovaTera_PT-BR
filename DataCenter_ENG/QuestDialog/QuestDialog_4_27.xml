@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="27" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="204" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="204" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="4">These undead are everywhere. I don't know whether they came from the north, whether they're working for the argons, or what.&lt;BR&gt;&lt;BR&gt;But I do know this: I want them gone!&lt;BR&gt;&lt;BR&gt;Start with the {@LinkCreature:4#1061#devan dark knights} and {@LinkCreature:4#1062#risen devan infantry}. Gather their tokens, too. I'm collecting them.</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="4">That's one fewer thing to worry about, &lt;PCNAME&gt;. Keep fighting the good fight.</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="4" villagerId="1001">
+         
+        <Page social="0">C'mon, they aren't so tough. They're just bones...and armor...and hideous weapons. Just go kill them already!</Page>
+    
+    </Text>
+</QuestDialog>

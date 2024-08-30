@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="12" id="39" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="212" id="100" prevId="0" villagerId="1007">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="212" id="2" prevId="0" villagerId="1007">
+         
+        <Page social="5">The good news is we found all those missing weapons...the ones we thought were lost in transit when we got here.&lt;BR&gt;&lt;BR&gt;The bad news is we found them in crates that the pirates were transporting.&lt;BR&gt;&lt;BR&gt;And they've got more! We've got to get those weapons back before the pirates use them to spill Valkyon blood!</Page>
+    
+    </Text>
+    <Text huntingZoneId="212" id="3" prevId="2" villagerId="1007">
+         
+        <Page social="4">Lesson learned: Just because you're out in the jungle doesn't mean you don't have to worry about pilfering, petty theft, and worse.</Page>
+    
+    </Text>
+    <Text huntingZoneId="212" id="4" villagerId="1007">
+         
+        <Page social="0">You want the pirates to equip themselves with our weapons before they start stabbing us?&lt;BR&gt;&lt;BR&gt;Do you have the concept of "poetic justice" completely reversed in your mind?</Page>
+    
+    </Text>
+</QuestDialog>

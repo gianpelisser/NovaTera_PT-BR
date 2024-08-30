@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="11" id="31" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="211" id="100" prevId="0" villagerId="1026">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="211" id="2" prevId="0" villagerId="1026">
+         
+        <Page social="4">Há muito espaço de armazenamento aqui embaixo - muito para eu procurar enquanto estou me esgueirando por aí.&lt;BR&gt;&lt;BR&gt;Mas há outra maneira. Se os piratas do Red Lash tiverem algo incomum aqui embaixo, os {@LinkCreature:11#1003#veteranos do Red Lash} o terão nos manifestos que carregam consigo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="211" id="3" prevId="2" villagerId="1026">
+         
+        <Page social="4">Deixe-me dar uma olhada nelas... Sim, bombas mesmo. E muitas! &lt;BR&gt;&lt;BR&gt;Eles as estão levando do depósito para a área das docas. E há uma "pedra mágica" que faz parte do mesmo carregamento.&lt;BR&gt;&lt;BR&gt;É melhor você avisar Otus que algo grande está em andamento.</Page>
+    
+    </Text>
+    <Text huntingZoneId="211" id="4" villagerId="1026">
+         
+        <Page social="0">Obtenha os manifestos dos {@LinkCreature:11#1003#Veteranos do chicote vermelho} e chegaremos ao fundo da questão.</Page>
+    
+    </Text>
+</QuestDialog>

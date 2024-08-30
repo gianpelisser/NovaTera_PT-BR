@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="50" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="213" id="100" prevId="0" villagerId="1026">
+         
+        <Page social="0">Demons called dark raiders have started to appear in the eastern part of Tainted Gorge.&lt;BR&gt;&lt;BR&gt;These demons are servants of the evil god Lok and have not been seen above ground since Lok walked the world. Verus asked you to eliminate the dark raiders and ascertain the reason behind their sudden appearance. You find Lok's token and delivered it to Verus, who recalled a legend about Lok's return. Perhaps there's a correlation between Tainted Gorge and that legend.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="2" prevId="0" villagerId="1026">
+         
+        <Page social="4">If you want to make a difference here, you need to recognize opportunities when they come your way. To the east there's a group of creatures we need to know more about.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:13#300951#Dark raiders} rarely travel without minions, and they seem to be chummy with those wandering cultists. Find out why, and report back right away!</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="3" prevId="2" villagerId="1026">
+         
+        <Page social="4">Hmmm... This is Lok's token! What? It looks as if it was recently made.&lt;BR&gt;&lt;BR&gt;The demons that disappeared when Lok went missing have appeared again and with Lok's token... Oh, no....&lt;BR&gt;&lt;BR&gt;Does this mean that Lok has returned?&lt;NEXTPAGEBUTTON&gt;"Lok's return?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">&amp;quot;Lok will return some day. And the world will be filled with Lok's blessings...&amp;quot;&lt;BR&gt;&lt;BR&gt;It's the belief of the dark devas. I've heard that there are insane people even on the continent who believe such nonsense. Hmmm...this is strange. Well, I must first report this to Sersine. Great job.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="4" villagerId="1026">
+         
+        <Page social="0">Those {@LinkCreature:13#300951#dark raiders} won't give up their secrets easily. All the same, we need to know them. Find out if they're carrying anything suspicious—the hard way!</Page>
+    
+    </Text>
+</QuestDialog>

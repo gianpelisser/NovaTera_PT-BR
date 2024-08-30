@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="15" id="3" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="215" id="100" prevId="0" villagerId="1012">
+         
+        <Page social="0">The vampirs' involvement with the dementalith dismayed Prefect Paka. He sent you to Vale of the Fang to help Jelena discover the truth.&lt;BR&gt;&lt;BR&gt;You unearthed a deal between the vampir nobles and the cult to produce dementaliths in the Sinestral Manor. Jelena hatched a daring plan to enter the manor and halt production.</Page>
+    
+    </Text>
+    <Text huntingZoneId="215" id="2" prevId="0" villagerId="1012">
+         
+        <Page social="4">That {@LinkCreature:67#1007#Paka} fellow has been looking for you. Odd company you keep, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="67" id="3" prevId="2" villagerId="1007">
+         
+        <Page social="4">&lt;PCNAME&gt;! Thank you for coming.&lt;BR&gt;&lt;BR&gt;We and the vampirs were friends once, before this madness. But now they've threatened my town.&lt;BR&gt;&lt;BR&gt;If you went to Vale of the Fang and...reduced their numbers a bit...people would feel safer.&lt;BR&gt;&lt;BR&gt;And this time I'd reward you personally. That Bruke's proved himself a total ass!&lt;NEXTPAGEBUTTON&gt;"Let me look for another way."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Ah, but I scent another on your clothes—one who has helped us before. One who is on the run! If {@LinkCreature:216#1026#she} believes there's another way, I'll trust her.&lt;BR&gt;&lt;BR&gt;Never fear, I won't betray her.&lt;BR&gt;&lt;BR&gt;We owe her a great deal.</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="4" prevId="3" villagerId="1026">
+         
+        <Page social="4">Well met, &lt;PCNAME&gt;. Guess we both like making trouble!&lt;BR&gt;&lt;BR&gt;I was right about the vampirs. They're being used! The nobles sold their people out to the Cult. Bad news.&lt;BR&gt;&lt;BR&gt;There's one cultist in particular—{@LinkCreature:16#2406#Surdek}— always taking notes. We've got to take a look at them! I need an idea of how much blood magic they've learned, and how they're going to use it. Think you can take him?&lt;BR&gt;&lt;BR&gt;Good. Do it. I'm going to scout a way into the Sinestral Manor. A lot of vampirs are going in and out of there.</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="5" prevId="4" villagerId="1026">
+         
+        <Page social="4">Let's see his notes.&lt;BR&gt;&lt;BR&gt;This is the Sinestral Manor here...the device he describes could turn out hundreds of dementaliths.&lt;BR&gt;&lt;BR&gt;Blast and damnation! With this they could wreak havoc all over Poporia—or beyond.&lt;BR&gt;&lt;BR&gt;Okay. I found a way in, but it's a secret door slaved to royal blood. Lucky for us there's a little available! Find the {@LinkObject:216#5#countess's coffin} and the {@LinkObject:216#4#count's coffin}. They can donate to the cause.&lt;BR&gt;&lt;BR&gt;I'll meet you at the {@LinkCreature:216#1028#Sinestral Manor}. Bring plenty of blood!</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="6" villagerId="1026">
+         
+        <Page social="0">Knock off {@LinkCreature:16#2406#Surdek} and bring me his notes. We've got to discover what they're up to.</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="7" prevId="5" villagerId="1028">
+         
+        <Page social="4">You bleed those blue-bloods? Well done.&lt;BR&gt;&lt;BR&gt;I've got some bombs...and protection from that sanguine magic.&lt;BR&gt;&lt;BR&gt;First to fight, first to drink! Let's go!</Page>
+    
+    </Text>
+</QuestDialog>

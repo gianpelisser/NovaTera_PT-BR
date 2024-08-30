@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="607" id="11" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="4">This is a summons from the chief of the Unified Theory Institute in Allemantheia.&lt;BR&gt;&lt;BR&gt;Complete this quest to unlock daily quests available from the Unified Theory Institute.</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="3" prevId="2" villagerId="1701">
+         
+        <Page social="4">I'm Skeal, chief of the Unified Theory Institute.&lt;BR&gt;&lt;BR&gt;I've heard you've been very helpful with our research, so I wanted to thank you in person.&lt;BR&gt;&lt;BR&gt;Your contribution to our lab is also a contribution to the Valkyon Federation. I look forward to many great things from you.</Page>
+    
+    </Text>
+</QuestDialog>

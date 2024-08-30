@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="31" id="27" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="231" id="100" prevId="0" villagerId="1016">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="231" id="2" prevId="0" villagerId="1016">
+         
+        <Page social="4">Não tive problemas para chegar aqui, mas agora estou bloqueado! &lt;BR&gt;&lt;BR&gt;Tenho trabalhadores, materiais e ferramentas para o projeto de reconstrução, mas entre mim e eles, o caminho está cheio de {@LinkCreature:31#1#ossugon frostwalkers} e {@LinkCreature:31#4#icy skeletal minions}. Preciso de um maldito soldado da federação só para-&lt;BR&gt;&lt;BR&gt;Hey, você é um soldado da federação! O que está esperando? Limpe esses mortos-vivos para que eu possa começar a construir.</Page>
+    
+    </Text>
+    <Text huntingZoneId="231" id="3" prevId="2" villagerId="1016">
+         
+        <Page social="4">Bom trabalho, "feddie". Agora é hora de eu começar a trabalhar!</Page>
+    
+    </Text>
+</QuestDialog>

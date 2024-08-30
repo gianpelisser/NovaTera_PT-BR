@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="37" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="204" id="100" prevId="0" villagerId="1003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="204" id="2" prevId="0" villagerId="1003">
+         
+        <Page social="4">Shina precisa de ajuda na Base de Fogo Valor - fica a nordeste daqui, em Molten Reach.&lt;BR&gt;&lt;BR&gt;Não sei do que ela precisa, mas ela não pediria ajuda se a situação não fosse terrível.</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="3" prevId="2" villagerId="1005">
+         
+        <Page social="4">Se você consegue matar shurianos, podemos colocá-lo para trabalhar aqui.&lt;BR&gt;&lt;BR&gt;Vá falar com Tifane.</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="4" prevId="3" villagerId="1006">
+         
+        <Page social="4">Suspeitamos que os shurianos estejam aqui para arrancar algo das garras ardentes de Bahaar.&lt;BR&gt;&lt;BR&gt;Trata-se de alguma antiga animosidade da Guerra Divina. Os detalhes me escapam.&lt;BR&gt;&lt;BR&gt;De qualquer forma, eles são uma ameaça da qual podemos prescindir.</Page>
+    
+    </Text>
+</QuestDialog>

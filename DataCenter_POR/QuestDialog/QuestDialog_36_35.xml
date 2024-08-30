@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="36" id="35" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="236" id="100" prevId="0" villagerId="1019">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="236" id="2" prevId="0" villagerId="1019">
+         
+        <Page social="5">Os aracnídeos se reproduzem mais rápido do que podemos matá-los. Os que estão aqui em Tor Exsul parecem se alimentar de ovelhas.&lt;BR&gt;&lt;BR&gt;Vocês estão dispostos a privá-los de seu jantar? Tragam todas as ovelhas mortas que encontrarem para o Posto Avançado de Manafire, e nós as queimaremos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="236" id="3" prevId="2" villagerId="1019">
+         
+        <Page social="8">Se os aracnídeos estiverem morrendo de fome, talvez isso os faça parar de se reproduzir. Ou talvez tenhamos sorte e eles comecem a comer uns aos outros!</Page>
+    
+    </Text>
+    <Text huntingZoneId="236" id="4" villagerId="1019">
+         
+        <Page social="0">Os aracnídeos não vão sentir falta dessas poucas ovelhas. Precisaremos de mais do que isso se quisermos matar a fome desses monstros.</Page>
+    
+    </Text>
+</QuestDialog>

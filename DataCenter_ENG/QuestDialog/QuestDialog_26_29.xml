@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="26" id="29" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="226" id="100" prevId="0" villagerId="1006">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="226" id="2" prevId="0" villagerId="1006">
+         
+        <Page social="5">There may be someone who can help identify the source of the unnatural life in the basin. Find {@LinkCreature:226#1012#Vardin} and explain what we discovered with the hearts. He may be difficult to convince, so kill some {@LinkCreature:26#2006#tainted mycanars} so Vardin has something to compare them to.&lt;BR&gt;&lt;BR&gt;Go quickly. The balance must be preserved!</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="3" prevId="2" villagerId="1012">
+         
+        <Page social="5">Your story rings of the fantastic, but looking at these samples makes argument difficult.&lt;BR&gt;&lt;BR&gt;Could the relics be the source of the magic? Hard to say. Rumors of the Fountain of Shara attribute incredible powers to that relic as well. To be honest, I'd wager on the fountain before the relics.</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="4" villagerId="1012">
+         
+        <Page social="0">Your news is intriguing but without something to corroborate it, 'tis little more than a tavern tale.</Page>
+    
+    </Text>
+</QuestDialog>

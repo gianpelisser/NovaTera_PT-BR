@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="22" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="72" id="100" prevId="0" villagerId="1447">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="72" id="2" prevId="0" villagerId="1447">
+         
+        <Page social="1">Eu estava fazendo minha primeira viagem de pégaso de Allemantheia para Bastion, e, bem, a vista lá de cima era tão esplêndida... acidentes acontecem!&lt;BR&gt;&lt;BR&gt;Eu apenas me inclinei para dar uma olhada melhor. Inclinei-me um pouco demais, suponho.&lt;BR&gt;&lt;BR&gt;Eu tinha uma mochila cheia de livros valiosos, está vendo. Agora eles estão espalhados por toda parte. &lt;BR&gt;&lt;BR&gt;Você poderia me ajudar a procurá-los?</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="3" prevId="2" villagerId="1447">
+         
+        <Page social="1">Obrigado!&lt;BR&gt;&lt;BR&gt;Oh, minhas costas. Nós, baraka, somos paraquedistas bastante desajeitados.&lt;BR&gt;&lt;BR&gt;Eu vou demorar um pouco para voltar. Você poderia avisar {@LinkCreature:71#1009$$Kiril} que vou me atrasar?</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="4" villagerId="1447">
+         
+        <Page social="0">Imagine! Livros caindo do céu! Eles devem estar em algum lugar próximo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="71" id="5" prevId="3" villagerId="1009">
+         
+        <Page social="1">Sim, ficamos preocupados quando o pégaso chegou vazio.&lt;BR&gt;&lt;BR&gt;Thakun nunca havia saído do Refúgio de Balder antes.&lt;BR&gt;&lt;BR&gt;Allemantheia deve tê-lo mandado de volta sem um guia - aqueles idiotas!</Page>
+    
+    </Text>
+</QuestDialog>

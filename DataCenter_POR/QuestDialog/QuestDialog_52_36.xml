@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="36" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="252" id="100" prevId="0" villagerId="1047">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="252" id="2" prevId="0" villagerId="1047">
+         
+        <Page social="4">Os necromantes de Thulsa estão ressuscitando cadáveres e espíritos dos Campos de Neve.&lt;BR&gt;&lt;BR&gt;Esses mortos-vivos que você vê por toda parte na Planície dos Malditos? São obra dos necromantes.&lt;BR&gt;&lt;BR&gt;Exterminem esses necromantes obcecados pela morte e recolham seus dispositivos de necromancia. Eu gostaria de vê-los fazer seu trabalho maligno sem ferramentas!</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="3" prevId="2" villagerId="1047">
+         
+        <Page social="4">Você trouxe os dispositivos de necromancia? &lt;BR&gt;&lt;BR&gt;Eu os enviarei para Mysterium para pesquisa.&lt;BR&gt;&lt;BR&gt;Obrigado, &lt;PCNAME&gt;!</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="4" villagerId="1047">
+         
+        <Page social="0">Não podemos impedir que os mortos se levantem apenas derrotando os necromantes de Thulsa. &lt;BR&gt;&lt;BR&gt;É mais fácil para Thulsa treinar outro necromante do que substituir esses dispositivos de necromancia!</Page>
+    
+    </Text>
+</QuestDialog>

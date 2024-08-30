@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="51" id="23" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="251" id="100" prevId="0" villagerId="1008">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="251" id="2" prevId="0" villagerId="1008">
+         
+        <Page social="4">O chefe dos wendigos não é amigo da federação.&lt;BR&gt;&lt;BR&gt;Precisamos manter os wendigos desorganizados e fora do nosso caminho. Matem Kalmatcha. Com sorte, os wendigos que não forem dominados se distrairão com a luta para nomear um novo chefe.</Page>
+    
+    </Text>
+    <Text huntingZoneId="251" id="3" prevId="2" villagerId="1008">
+         
+        <Page social="4">Kalmatcha não tinha nobreza, ao contrário de outros wendigos de que já ouvi falar. Sua morte não é uma grande perda para a tribo deles, muito menos para a nossa.&lt;BR&gt;&lt;BR&gt;Agora podemos nos concentrar em nossos verdadeiros inimigos.</Page>
+    
+    </Text>
+</QuestDialog>

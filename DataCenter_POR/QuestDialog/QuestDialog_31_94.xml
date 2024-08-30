@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="31" id="94" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="73" id="100" prevId="0" villagerId="1009">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="73" id="2" prevId="0" villagerId="1009">
+         
+        <Page social="0">Esses {@LinkCreature:31#25#onyx hydraths} são, de fato, criaturas estranhas. Tão estranhas que o Mysterium quer dar uma olhada mais de perto. Faça algumas carcaças para eles e informe Leuwra no acampamento Coastal Overwatch.</Page>
+    
+    </Text>
+    <Text huntingZoneId="231" id="3" prevId="2" villagerId="1012">
+         
+        <Page social="4">Obrigado por sua ajuda. Os restos da hidrata de ônix serão enviados para Allemantheia para pesquisas adicionais, mas amostras extras não fariam mal.&lt;BR&gt;&lt;BR&gt;Traga-me mais hidrata de ônix e continuarei a recompensá-lo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="231" id="4" villagerId="1012">
+         
+        <Page social="0">Parece que você ainda não completou sua missão.</Page>
+    
+    </Text>
+</QuestDialog>

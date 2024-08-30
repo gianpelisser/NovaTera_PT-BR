@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="604" id="17" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="71" id="100" prevId="0" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="71" id="2" prevId="0" villagerId="3003">
+         
+        <Page social="4">Não está acontecendo muita coisa hoje.&lt;BR&gt;&lt;BR&gt;Encontre {@LinkCreature:71#3014#Arura} e veja se ele precisa de ajuda.</Page>
+    
+    </Text>
+    <Text huntingZoneId="71" id="3" prevId="2" villagerId="3014">
+         
+        <Page social="4">É sempre bom ver seu rosto.&lt;BR&gt;&lt;BR&gt;Posso usar mais algumas frutas, se estiver procurando algo para fazer.&lt;BR&gt;&lt;BR&gt;Depois de trazê-las de volta, relaxe um pouco e aproveite o sol!</Page>
+    
+    </Text>
+    <Text huntingZoneId="71" id="4" prevId="2" villagerId="3014">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="71" id="5" prevId="2" villagerId="3014">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="71" id="6" prevId="2" villagerId="3014">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="71" id="7" prevId="2" villagerId="3014">
+         
+        <Page social="4">Excelente trabalho. &lt;BR&gt;&lt;BR&gt;Agora sente-se contra esta parede e descasque um destes.</Page>
+    
+    </Text>
+</QuestDialog>

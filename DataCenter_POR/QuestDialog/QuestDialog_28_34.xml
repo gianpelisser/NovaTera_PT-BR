@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="34" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="228" id="100" prevId="0" villagerId="1015">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="228" id="2" prevId="0" villagerId="1015">
+         
+        <Page social="5">Aqui está um pequeno truque que descobrimos. Se você infundir um pouco de essência estelar no solo, ele agirá como uma barreira contra a corrupção.&lt;BR&gt;&lt;BR&gt;A essência não é particularmente rara, mas as criaturas que espreitam na floresta tornam sua coleta perigosa.&lt;BR&gt;&lt;BR&gt;Se você coletar alguma, nós lhe pagaremos com prazer.</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="3" prevId="2" villagerId="1015">
+         
+        <Page social="5">Roseira brava perfumada, essência de estrela - você é um pequeno escroque comum! &lt;BR&gt;&lt;BR&gt;Sei que você é um soldado com grandes coisas pela frente, mas espero que não se esqueça de nós, os pequenos, em sua ascensão à glória.</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="4" villagerId="1015">
+         
+        <Page social="0">Imagine como seria maravilhoso se a essência estelar fosse simplesmente engarrafada? Nós correríamos até o comerciante mais próximo e compraríamos um engradado dela!</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="42" id="29" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="242" id="100" prevId="0" villagerId="1006">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="242" id="2" prevId="0" villagerId="1006">
+         
+        <Page social="5">Relatos do segundo nível falam de seres altos e de penas negras trabalhando com os naga. Será que sou o único que está pensando em mekonari? De todas as coisas que não precisávamos....&lt;BR&gt;&lt;BR&gt;Mate um desses {@LinkCreature:42#1010#seres de penas negras} e me traga uma lembrança, está bem? Precisamos saber com certeza o que estamos enfrentando.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="3" prevId="2" villagerId="1006">
+         
+        <Page social="4">Mekonari, como eu suspeitava. Mas por que eles estão aqui? Eu gostaria de saber mais sobre eles. Eu deveria ter prestado mais atenção na academia. Volte e cace {@LinkCreature:42#1010#mekonari} até descobrir. Farei com que valha a pena, é claro.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="4" villagerId="1006">
+         
+        <Page social="0">O que os mekonari estão fazendo? Você já descobriu?</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="27" id="33" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="227" id="100" prevId="0" villagerId="1021">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="227" id="2" prevId="0" villagerId="1021">
+         
+        <Page social="5">My orders are to infiltrate the fortress and gather intel on Thulsa's legions and their conspirators. The mission is hindered by the presence of the {@LinkCreature:27#6#merciless iskaragards} and {@LinkCreature:27#7#savage iskaragards}.&lt;BR&gt;&lt;BR&gt;If you could engage them for awhile, we could proceed. You should probably kill a good number of them to draw attention fully upon yourself. Good luck!</Page>
+    
+    </Text>
+    <Text huntingZoneId="227" id="3" prevId="2" villagerId="1021">
+         
+        <Page social="5">The loss of the iskaragards has thrown the sentries into confusion. There are several weaknesses to exploit now, thanks to you.&lt;BR&gt;&lt;BR&gt;Your fight is over, but our mission's just beginning. Farewell!</Page>
+    
+    </Text>
+</QuestDialog>

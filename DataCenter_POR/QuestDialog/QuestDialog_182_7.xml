@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="182" id="7" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">Keezar prometeu restaurar a prova quebrada com sua cola especial. Foram necessários muitos ingredientes e, finalmente, a prova foi restaurada.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">Encontre Keezar que escapou da caverna.</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="3" prevId="2" villagerId="2036">
+         
+        <Page social="1">Como você já deve ter adivinhado, a cola não cresce em árvores, a menos que você esteja falando de seiva e, se você estivesse falando de seiva, eu seria louco se estivesse falando com você.&lt;NEXTPAGEBUTTON&gt;"Não estou falando de seiva!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Então você está falando de cola. Entendi.&lt;BR&gt;&lt;BR&gt;Bem, vamos precisar de cal para que essa cola funcione - do tipo mineral, não aquela coisa que você tinha no porão do cruzador do céu para evitar o escorbuto. Há muitos depósitos de cal ao redor das fontes termais aqui atrás de mim - isto é, se o seu amigo popori já não tiver pegado todos eles para seu relaxante muscular.&lt;BR&gt;&lt;BR&gt;Traga-me cal, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"Céu...? Popori...? Limão! Certo, vou pegar um pouco de limão."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="4" prevId="3" villagerId="2036">
+         
+        <Page social="1">Mas montar o pingente de volta é a parte mais fácil. Ele ainda precisa ser sintonizado com os talismãs demokron para funcionar. Precisarei que você mate arqueiros, guerreiros e cavaleiros partas para coletar talismãs misteriosos...&lt;NEXTPAGEBUTTON&gt;"Como estes?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Você já os tinha antes de vir me ver? &lt;BR&gt;&lt;BR&gt;Meu Deus! Faz tanto tempo que me esqueci de como é trabalhar com profissionais! &lt;BR&gt;&lt;BR&gt;Agora espere aí enquanto eu faço esse procedimento extremamente delicado e complicado...&lt;NEXTPAGEBUTTON&gt;"Ok."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="5" villagerId="2036">
+         
+        <Page social="0">As fontes termais estão logo atrás de mim. Coisas grandes e brancas, com coisas grandes e azuis no meio?</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="6" prevId="4" villagerId="2036">
+         
+        <Page social="1">Quanto tempo vai demorar? Eu lhe disse: Preciso de chifres de deva! &lt;BR&gt;&lt;BR&gt;Não consigo lidar com você quando está assim. Eu nem sei mais quem você é. Você não é a pessoa por quem me apaixonei. Eu realmente preciso me concentrar em minha carreira agora.&lt;BR&gt;&lt;BR&gt;Por que você não vai falar com meu assistente de produção, Dandit? Ele fica na estrada ao sul.&lt;BR&gt;&lt;BR&gt;Sim, ele o validará.&lt;NEXTPAGEBUTTON&gt;"Ok."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="7" prevId="6" villagerId="2042">
+         
+        <Page social="4">Keezar o enviou? &lt;BR&gt;&lt;BR&gt;Isso é... estranho. Ela não é o tipo de pessoa que ajuda os outros...&lt;BR&gt;&lt;BR&gt;Bem, vamos ver por que ela o enviou para mim.&lt;NEXTPAGEBUTTON&gt;"Keezar ia consertar este pingente para mim..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Hmm. Ela fez a maior parte do trabalho. A cola só precisa do Spirit's Tear.&lt;BR&gt;&lt;BR&gt;Felizmente, o Spirit's Tear não é difícil de encontrar. Os xamãs de guerra partas o carregam e, por sorte, há um grupo deles atrás de mim aqui, no alto da colina.&lt;NEXTPAGEBUTTON&gt;"Sem pegadinha? Tudo bem..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="8" prevId="7" villagerId="2042">
+         
+        <Page social="1">Muito bem feito.&lt;BR&gt;&lt;BR&gt;A mistura da cal com a Lágrima de Espírito mantém as peças do pingente unidas e concentra a magia.&lt;BR&gt;&lt;BR&gt;Não deve levar mais do que alguns segundos.&lt;NEXTPAGEBUTTON&gt;"Claro."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="9" villagerId="2042">
+         
+        <Page social="0">Sem o Spirit's Tear, a cal é apenas um mineral calcário.</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="10" prevId="8" villagerId="2042">
+         
+        <Page social="1">Você está pronto para ir.&lt;BR&gt;&lt;BR&gt;Certifique-se de ter tirado todas as peças pendentes de sua mochila e, em seguida, cole-as com a cola elétrica.&lt;NEXTPAGEBUTTON&gt;"Obrigado."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="11" prevId="10" villagerId="2042">
+         
+        <Page social="1">Deixe-me vê-lo.&lt;BR&gt;&lt;BR&gt;Sim, ele está funcionando corretamente de novo. Mas é melhor que você não tente ativá-la, a menos que queira que ela se estilhace novamente.&lt;BR&gt;&lt;BR&gt;A propósito, aquelas pessoas ali perto da plataforma de teletransporte estavam procurando por você mais cedo. São seus amigos? &lt;NEXTPAGEBUTTON&gt;"Vou dar um jeito, obrigado."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</QuestDialog>

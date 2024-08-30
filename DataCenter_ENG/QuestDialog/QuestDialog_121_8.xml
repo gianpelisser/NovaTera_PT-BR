@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="121" id="8" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="121" id="100" prevId="0" villagerId="9001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="121" id="2" prevId="0" villagerId="9001">
+         
+        <Page social="1">Everyone needs to prove themselves. We need to make sure our members are firmly on our side.&lt;BR&gt;&lt;BR&gt;Head to the Iron Order's territory and kill as many of the beasts there as you can. You're sure to get more respect when you've finished.</Page>
+    
+    </Text>
+    <Text huntingZoneId="121" id="3" prevId="2" villagerId="9001">
+         
+        <Page social="0">Good work, good work. Feel free to brag about this when you get back to the main hall.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="49" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="76" id="100" prevId="0" villagerId="1024">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="76" id="2" prevId="0" villagerId="1024">
+         
+        <Page social="5">Para manter a iniciativa, estou enviando você para abater os argons.&lt;BR&gt;&lt;BR&gt;Mata reavers kallan, protetores, defensores e brutos kalash, slashers yusul e cyanowitches e ciclopes zariik.&lt;BR&gt;&lt;BR&gt;Relate a Ayva em Kanstria quando tiver concluído a missão.</Page>
+    
+    </Text>
+    <Text huntingZoneId="76" id="3" prevId="2" villagerId="1603">
+         
+        <Page social="5">Fico feliz por termos soldados como você, &lt;PCNAME&gt;. Muito bem.</Page>
+    
+    </Text>
+    <Text huntingZoneId="76" id="4" villagerId="1603">
+         
+        <Page social="0">Você ainda não alcançou seus objetivos. Desculpe-me.</Page>
+    
+    </Text>
+</QuestDialog>

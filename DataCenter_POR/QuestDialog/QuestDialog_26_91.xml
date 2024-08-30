@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="26" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="69" id="100" prevId="0" villagerId="1016">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="69" id="2" prevId="0" villagerId="1016">
+         
+        <Page social="5">Essas criaturas imortais ameaçam o equilíbrio da Floresta Etérea. Os {@LinkCreature:26#2001#cromoses revividos}, os {@LinkCreature:26#2002#noruks revividos}, os {@LinkCreature:26#2003#ghilliedhus ressurgentes} e os {@LinkCreature:26#1003# tecelões de ebon} são os piores. Preciso reduzir o número deles.&lt;BR&gt;&lt;BR&gt;Relate a Nileen quando sua missão estiver concluída.</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="3" prevId="2" villagerId="1002">
+         
+        <Page social="5">Estamos satisfeitos com seu desempenho. O equilíbrio foi preservado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="226" id="4" villagerId="1002">
+         
+        <Page social="0">Esta é uma batalha contínua, &lt;PCNAME&gt;. Até que me digam o contrário, presuma que sempre o recompensarei por matar {@LinkCreature:26#2001#cromoses revividas}, {@LinkCreature:26#2002#noruks revividos}, {@LinkCreature:26#2003#ghilliedhus ressurgentes} e os {@LinkCreature:26#1003# tecelões de ebon}.</Page>
+    
+    </Text>
+</QuestDialog>

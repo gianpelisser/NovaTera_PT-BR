@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="6" id="5" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">Você foi enviado a Oblivion Woods para ajudar a explorar o Bastion of Lok. No entanto, você estava atrasado, e Hendry já havia enviado a equipe. Você se apressou para alcançá-los, mas encontrou os corpos mortos do grupo de exploradores - e um sobrevivente.&lt;BR&gt;&lt;BR&gt;A missão falhou, mas o explorador lhe deu suas anotações antes de jurar nunca mais voltar ao serviço. Hendry aceitou as anotações com gratidão e decidiu deixar o desertor partir em paz.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="4">Ordens da missão&lt;BR&gt;&lt;BR&gt;Tomamos a decisão de derrubar o Bastion of Lok e, com sorte, acabar com a conspiração necromântica deles.&lt;BR&gt;&lt;BR&gt;Apresentem-se ao Prefeito Daven em Lumbertown.</Page>
+    
+    </Text>
+    <Text huntingZoneId="60" id="3" prevId="2" villagerId="1014">
+         
+        <Page social="4">O relatório de Isla fala muito bem de você, &lt;PCNAME&gt;. Bom trabalho em fazer os Scions falarem tão livremente.&lt;BR&gt;&lt;BR&gt;Encontre {@LinkCreature:203#1007#Hendry} no Posto Avançado da Vanguarda. Ele está no comando da missão de reconhecimento do Bastion of Lok. Eu gostaria que você participasse dela.&lt;BR&gt;&lt;BR&gt;Para Valkyon!</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="4" prevId="3" villagerId="1007">
+         
+        <Page social="4">Estamos chegando perto. Posso sentir isso. Vamos atacar o culto com força e acabar com eles. Para isso, porém, primeiro temos que encontrar a base deles.&lt;BR&gt;&lt;BR&gt;Eu enviei um grupo de batedores, mas eles ainda não deram notícias.&lt;BR&gt;&lt;BR&gt;A rota deles passa pelo Vale Bestial. Procurem por eles, mas tenham cuidado. Não podemos alertar os Scions sobre nossos planos!</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="5" prevId="4" villagerId="1026">
+         
+        <Page social="0">(Este é um dos batedores.&lt;BR&gt;&lt;BR&gt;Vocês veem sinais de uma luta intensa).</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="6" prevId="4" villagerId="1027">
+         
+        <Page social="0">(É outro batedor.&lt;BR&gt;&lt;BR&gt;Feridas feias cobrem o cadáver).</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="7" prevId="4" villagerId="1034">
+         
+        <Page social="0">(Outro batedor morto.&lt;BR&gt;&lt;BR&gt;Sangue espalhado envolve o corpo).</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="8" prevId="5" villagerId="1033">
+         
+        <Page social="4">Não. Não! Saia daqui! Eu também não. Eu também não! &lt;NEXTPAGEBUTTON&gt;"Acalme-se. O que aconteceu?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Aqui, pegue! Estas são nossas anotações sobre o bastião. Conseguimos entrar, mas eles nos viram. Corremos, mas não rápido o suficiente.&lt;BR&gt;&lt;BR&gt;Leve as anotações de volta para Hendry. Ele que faça o que quiser. Eu não vou voltar - nunca mais!</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="9" prevId="8" villagerId="1007">
+         
+        <Page social="4">O quê? Morto? &lt;BR&gt;&lt;BR&gt;Bomba! Eu tinha certeza de que eles não dariam alarme - você certamente não deu.&lt;BR&gt;&lt;BR&gt;Quanto a Ausdan... Todo mundo tem um ponto de ruptura, &lt;PCNAME&gt;. Assim que terminarmos, eu o reportarei como morto em ação.&lt;BR&gt;&lt;BR&gt;Obrigado por levar isso adiante.</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="10" villagerId="1007">
+         
+        <Page social="0">Hmm?</Page>
+    
+    </Text>
+</QuestDialog>

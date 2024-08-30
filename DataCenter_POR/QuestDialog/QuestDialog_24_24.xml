@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="24" id="24" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="66" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="66" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="5">Recebi um relato de fumaça saindo da Aurum Road. Verifique com Fayza no portão noroeste e veja se ela pode confirmar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="66" id="3" prevId="2" villagerId="1014">
+         
+        <Page social="4">Fumaça? Quem disse fumaça? &lt;BR&gt;&lt;BR&gt;Baruch é um bom capitão, mas, cá entre nós, aprender algumas coisas sobre Val Aureum lhe faria bem. Não temos exatamente incêndios florestais.&lt;BR&gt;&lt;BR&gt;No entanto, agora que você mencionou, algo estava levantando uma nuvem de poeira naquela direção. Você poderia ir verificar com {@LinkCreature:224#1005#Veltana} no Posto de Vigilância Oeste?</Page>
+    
+    </Text>
+    <Text huntingZoneId="224" id="4" prevId="3" villagerId="1005">
+         
+        <Page social="5">Reforços! Estou muito feliz por você estar aqui. Estou pedindo apoio há muito tempo. &lt;BR&gt;&lt;BR&gt;Areia? Temos. Poeira? Temos. &lt;BR&gt;&lt;BR&gt;Olhem ao redor. São os soldados que não temos.</Page>
+    
+    </Text>
+</QuestDialog>

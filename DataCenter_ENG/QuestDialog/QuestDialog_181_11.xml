@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="181" id="11" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">While battling the Archdevan Imperial Army, &lt;PCNAME&gt; noticed that they were protecting mysterious ore carts.&lt;BR&gt;Guessing they might contain something of importance, &lt;PCNAME&gt; grabbed samples of the "devastones" inside.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">(The Parthian elites seem to be particularly protective of these ore carts. What's in them that's so valuable?)</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="3" prevId="2" villagerId="3001">
+         
+        <Page social="4">Damn, but you're a clever one, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Anyone else would've just run for it, then come back later!&lt;BR&gt;&lt;BR&gt;I'll show these stones to Hagand. Maybe he can figure out what they're for.&lt;NEXTPAGEBUTTON&gt;"My pleasure."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</QuestDialog>

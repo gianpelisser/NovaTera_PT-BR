@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="5" id="94" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="60" id="100" prevId="0" villagerId="1014">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="60" id="2" prevId="0" villagerId="1014">
+         
+        <Page social="0">Ordens da missão &lt;BR&gt;&lt;BR&gt;Aqueles malditos dentes-de-sabre estão atacando o pessoal da federação no pântano de Tuwangi e precisam ser detidos.&lt;BR&gt;&lt;BR&gt;Mate aqueles {@LinkCreature:5#13#dentes-de-sabre malditos}.&lt;BR&gt;&lt;BR&gt;Apresenta-se à Zélia na Guarnição de Tuwangi quando sua missão estiver concluída.</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="3" prevId="2" villagerId="1011">
+         
+        <Page social="5">O número de dentes-de-sabre tintos está diminuindo? Eu adoro isso! Vou marcar isso aqui no meu gráfico e incluirei no meu relatório!</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="4" villagerId="1011">
+         
+        <Page social="0">Eu me pareço com um dente de sabre para você?</Page>
+    
+    </Text>
+</QuestDialog>

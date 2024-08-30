@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="37" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">Kelsaik se alastra pela paisagem, fora do controle de qualquer pessoa. Kaia o enviou para confrontar Saleron, um deus aprisionado desde o fim da Divine War, e buscar um meio de derrotar Kelsaik. Saleron o testou em seu Sky Garden. Quando você se mostrou digno, Saleron lhe deu o primeiro dos quatro fragmentos de relíquias necessários para acabar com a ameaça de Kelsaik.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">Você deve procurar o deus Saleron, aprisionado em algum lugar abaixo do sul de Shara, mas fale com Tamur antes de sair.</Page>
+    
+    </Text>
+    <Text huntingZoneId="528" id="3" prevId="2" villagerId="5005">
+         
+        <Page social="4">Vingança contra Killian... um luxo que não posso me dar, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Killian não apenas assassinou meu pai. Ele pegou meu sonho de infância - liderar o povo amani em uma batalha - e o transformou em cinzas. Agora eu comando Kaiator, com certeza, mas nenhum filho deve ser promovido sobre o cadáver do pai.&lt;NEXTPAGEBUTTON&gt;"Os amani precisam de você, Tamur."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Sim, eles sabem. Portanto, você deve ser o instrumento de minha vingança, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Você procura uma maneira de deter Kelsaik. Killian procura uma maneira de controlar Kelsaik. Sonho que seus caminhos se cruzarão!&lt;BR&gt;&lt;BR&gt;E nesse dia, lembre-se disto: nem mesmo um deus pode impedir a justiça!&lt;NEXTPAGEBUTTON&gt;"Vingarei seu pai."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Manterei Kaiator em segurança - uma "transição ordenada de poder", como Fraya a chama.&lt;BR&gt;&lt;BR&gt;Apenas detenha Kelsaik antes que ele nos ataque... ou antes que Killian e Thulsa ponham as mãos nele.</Page>
+    
+    </Text>
+    <Text huntingZoneId="518" id="4" prevId="3" villagerId="1001">
+         
+        <Page social="4">&lt;PCNAME&gt;... uma visão bem-vinda. Um relato em primeira mão dos eventos no ovo de Sikander, por favor...&lt;BR&gt;&lt;BR&gt;...Então Thulsa tomou Killian sob sua proteção? E eles transformaram Sikander em Kelsaik?&lt;BR&gt;&lt;BR&gt;Notícias frescas, amigo. Sem dúvida, Tamur anseia por vingança, mas Kelsaik é uma ameaça maior... maior do que Killian.&lt;NEXTPAGEBUTTON&gt;"Kaia disse que Saleron pode ajudar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Talvez Saleron possa ajudar, mas sua lealdade não é clara.&lt;BR&gt;&lt;BR&gt;Os outros deuses aprisionaram Saleron no final da Guerra Divina, portanto ele não é amigo deles. Por outro lado, Killian é filho de Saleron.&lt;BR&gt;&lt;BR&gt;A única maneira de saber... é ir. O Mysterium tem vários campos de pesquisa perto de Elenea. Procure Elvar lá. Ele pode saber como chegar à prisão de Saleron.</Page>
+    
+    </Text>
+    <Text huntingZoneId="74" id="5" prevId="4" villagerId="1100">
+         
+        <Page social="4">Então, um curioso &lt;PCCLASS:lcase&gt; procura Saleron, criador dos príons, pai dos dragões, hein? &lt;BR&gt;&lt;BR&gt;A Cripta dos Malditos tem as respostas que você procura.&lt;BR&gt;&lt;BR&gt;Saiba, porém, que você está seguindo os passos dos deuses! Quando os deuses aprisionaram Saleron no final da Guerra Divina, eles fizeram com que seus filhos - Kaia, Velik, Killian e Icaruna - o observassem enquanto o cobriam de pedra.&lt;NEXTPAGEBUTTON&gt;"Kaia, Velik, Killian, Icaruna?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Como seus filhos se espalharam! &lt;BR&gt;&lt;BR&gt;Kaia e Velik adotaram raças mortais e as pastoreiam até hoje. Icaruna morreu durante a Guerra Divina... o registro histórico é impreciso sobre esse ponto. E ninguém mais viu Killian, o deus do terror, desde o fim da guerra.&lt;BR&gt;&lt;BR&gt;Saleron detesta mortais e deuses, mas é gentil com suas criações, os príons. A maior parte do que sabemos sobre Saleron vem de pesquisadores como Legia, que conversaram com eles em primeira mão.</Page>
+    
+    </Text>
+    <Text huntingZoneId="237" id="6" prevId="5" villagerId="1029">
+         
+        <Page social="1">Você sentiu aquele terremoto, certo? &lt;BR&gt;&lt;BR&gt;Eu estava preocupado que o Kelsaik estivesse em fúria, mas até agora foi só aquele tremor. O que quer que tenha acontecido, deixou os príons assustados. Eles estão ainda menos coerentes do que o normal.&lt;BR&gt;&lt;BR&gt;Talvez uma cara nova possa tirar algo útil deles, no entanto. Tente o Torsten ali. Supostamente, ele é o profeta deles.</Page>
+    
+    </Text>
+    <Text huntingZoneId="237" id="7" prevId="6" villagerId="1027">
+         
+        <Page social="1">Os próprios deuses sopraram sobre você, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;Lembro-me das palavras sagradas: "Na véspera do fim dos tempos, a dor sacode a terra. Um mero mortal caminha com leveza, caçando o prenúncio. Uma visão evoca tristeza, traição, desafio."&lt;BR&gt;&lt;BR&gt;Assim falaram meus ancestrais.</Page>
+    
+    </Text>
+    <Text huntingZoneId="237" id="8" prevId="7" villagerId="1027">
+         
+        <Page social="1">Killian, o deus do terror, deixou inúmeros servos em seu rastro, e agora nós, os poucos príons que restaram, não podemos visitar nosso mestre aprisionado.&lt;BR&gt;&lt;BR&gt;Derrote esses insolentes fomentadores do medo, e talvez Saleron o veja com bons olhos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="237" id="9" prevId="8" villagerId="1102">
+         
+        <Page social="1">Um mortal... perdoe-me se eu não apertar sua mão.&lt;BR&gt;&lt;BR&gt;Torsten o enviou - e você trouxe tributo, pelo visto. Isso é bom.&lt;BR&gt;&lt;BR&gt;Também sinto a influência de Kaia e Velik. Não estou gostando muito dos meus filhos no momento, então isso é ruim. Muito ruim.&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Kelsaik se levantou..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Eu sei, mortal. Percebi isso pelas perguntas que Killian e Icaruna fizeram enquanto me torturavam.&lt;BR&gt;&lt;BR&gt;Se eu lhe der um fragmento de relíquia, Killian simplesmente o dominará e o tomará. Uma estratégia ruim.&lt;BR&gt;&lt;BR&gt;Se você pudesse provar que pode enfrentar Killian, no entanto... hmmm. Talvez um teste? &lt;NEXTPAGEBUTTON&gt;"Disposto, pronto e capaz."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Veremos, mortal. Veremos. Se você realmente se considerar pronto, eu o enviarei a um lugar onde poucos mortais já caminharam - meu jardim no céu. Vamos ver se você consegue sobreviver à jornada....</Page>
+    
+    </Text>
+    <Text huntingZoneId="237" id="10" villagerId="1102">
+         
+        <Page social="0">Vá embora, mortal. Não é você quem eu espero.</Page>
+    
+    </Text>
+    <Text huntingZoneId="494" id="11" prevId="9" villagerId="1110">
+         
+        <Page social="1">Já que está vivo, você passou no teste do meu mestre.&lt;BR&gt;&lt;BR&gt;Tire o primeiro fragmento de relíquia dessa ardósia antiga.&lt;BR&gt;&lt;BR&gt;Quereria que Saleron pudesse estar presente quando Killian tentasse tirá-la de você. Mas, como você sabe, ele já não se locomove como antes.</Page>
+    
+    </Text>
+    <Text huntingZoneId="494" id="12" villagerId="1110">
+         
+        <Page social="0">Até o momento, eu daria a você uma nota "incompleta" nesse teste.</Page>
+    
+    </Text>
+    <Text huntingZoneId="494" id="13" prevId="11" villagerId="1113">
+         
+        <Page social="1">(O fragmento da relíquia brilha com energia divina...&lt;BR&gt;&lt;BR&gt;Energia que é rapidamente absorvida. Ela não é mais visível, mas você sente o pulsar do poder dentro dela).</Page>
+    
+    </Text>
+    <Text huntingZoneId="237" id="14" prevId="13" villagerId="1102">
+         
+        <Page social="1">Agora o poder do fragmento de relíquia está dentro de você. Considere-o meu presente.&lt;BR&gt;&lt;BR&gt;Além disso, você pode revisitar meu jardim do céu se quiser se testar mais.</Page>
+    
+    </Text>
+</QuestDialog>

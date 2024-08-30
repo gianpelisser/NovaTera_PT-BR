@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="22" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="252" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="252" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="5">Darekuur, o chamado "Matador do Riso Louco", era o líder dos bandidos. Ele era tão cruel quanto seu apelido era ridículo - até que eu cortei sua cabeça há alguns anos.&lt;BR&gt;&lt;BR&gt;Infelizmente, Thulsa recolocou a cabeça e trouxe Darekuur de volta com sua necromancia.&lt;BR&gt;&lt;BR&gt;Que tal provar sua bravura para mim? Cortar a cabeça de Darekuur não será muito difícil, e "Darekuur, o Duas Vezes Degolado" não é tão assustador.</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="4">Huh. Feio, não é? &lt;BR&gt;&lt;BR&gt;Estou feliz por ele estar morto. Ainda posso ouvir sua risada assustadora e arrepiante em meus ouvidos.&lt;BR&gt;&lt;BR&gt;Agora você e eu temos algo em comum - ambos cortamos a cabeça de Darekuur!</Page>
+    
+    </Text>
+    <Text huntingZoneId="252" id="4" villagerId="1001">
+         
+        <Page social="0">Você pode encontrar Darekuur ao sul deste Acampamento de Caçadores Isolados. &lt;BR&gt;&lt;BR&gt;Traga-me a cabeça dele, está bem? Quero ver o quanto seus miolos apodreceram desde a última vez.</Page>
+    
+    </Text>
+</QuestDialog>

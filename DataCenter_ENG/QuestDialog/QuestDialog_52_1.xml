@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">Thulsa seized the Divine Furnace because the relic fragments—supplemented with the power of the Core—are worthless without the Divine Furnace and the legendary blacksmith Muhrak. Into the Divine Furnace you went, hoping to rescue Muhrak.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">Thulsa wants the Divine Furnace for his own purposes, and his army has conquered the Plain of the Damned, home of the Divine Furnace. Even if you can't liberate the Divine Furnace, you might be able to save the legendary blacksmith, Muhrak...if he's still alive.&lt;BR&gt;&lt;BR&gt;An apprentice escaped from the Divine Furnace when Thulsa attacked, and he's in Habere now. Speak with the primus there.</Page>
+    
+    </Text>
+    <Text huntingZoneId="79" id="3" prevId="2" villagerId="1007">
+         
+        <Page social="4">How dare Thulsa desecrate this land! Kaia claims Habere as her own, and I'll fight to the death to keep any so-called "death gods" away from here!&lt;BR&gt;&lt;BR&gt;But that's not why you're here. The apprentice who escaped? Now that he's regained consciousness, sure...talk to him all you want.</Page>
+    
+    </Text>
+    <Text huntingZoneId="79" id="4" prevId="3" villagerId="1100">
+         
+        <Page social="4">Thulsa took over the Molten Chamber, which supplies heat to the main furnace. He demanded our cooperation, but Blacksmith Muhrak and his amani engineers refused.&lt;BR&gt;&lt;BR&gt;So Thulsa killed all the engineers with a wave of his hand! Like snuffing out candles...&lt;BR&gt;&lt;BR&gt;My eyes were closed after that, but I think Muhrak escaped. There was quite a commotion, anyway.&lt;BR&gt;&lt;BR&gt;They made us erect a shield around the Molten Chamber. I got the sense they'd kill us when we finished, so I made a break for it.</Page>
+    
+    </Text>
+    <Text huntingZoneId="79" id="5" prevId="4" villagerId="1007">
+         
+        <Page social="4">Dead amani? Enslaved apprentices? An outrage!&lt;BR&gt;&lt;BR&gt;But I've got good news. We've saved another straggler—a human apprentice at Habere's western gate.&lt;BR&gt;&lt;BR&gt;Find out what he knows. If the apprentice can point you toward the caravan they're using to move their prisoners around...then liberate those prisoners!</Page>
+    
+    </Text>
+    <Text huntingZoneId="52" id="6" villagerId="1">
+         
+        <Page social="0">I don't want to be a burden. I just want to warn everyone about the Divine Furnace.&lt;BR&gt;&lt;BR&gt;Thulsa is there! Thulsa, god of death!&lt;BR&gt;&lt;BR&gt;You knew that already? Oh. So much for my warning....</Page>
+    
+    </Text>
+    <Text huntingZoneId="79" id="7" prevId="5" villagerId="1101">
+         
+        <Page social="4">I'm glad someone got the word out. The amani engineers are all dead, but Muhrak, the legendary blacksmith, lives! He's hiding somewhere in the Divine Furnace, which he knows like the back of his hand.&lt;NEXTPAGEBUTTON&gt;"Time for a rescue..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">To get into the Molten Chamber, you first must break the shield around it.&lt;BR&gt;&lt;BR&gt;Yes, the shield we made. But Thulsa's slavemasters forced us to do it! And they were alert for signs of sabotage, so there's no easy way to breach it.&lt;BR&gt;&lt;BR&gt;I was able to "liberate" their plans, though. Bring this schematic to Engineer Gaicus. Maybe he can spot a flaw.</Page>
+    
+    </Text>
+    <Text huntingZoneId="79" id="8" prevId="7" villagerId="1102">
+         
+        <Page social="4">Let's see here...nicely done. A solid shield indeed.&lt;BR&gt;&lt;BR&gt;...or is it? Look at this! The arcane pathways all lead into this stone right here!&lt;BR&gt;&lt;BR&gt;Break it, and you're through! Talk about your fatal flaws—that's a horrible design.&lt;BR&gt;&lt;BR&gt;...or is it? The flaw is invisible to visual inspection, unless you're rather short...those clever poporis! They built the shield with a flaw on purpose!&lt;NEXTPAGEBUTTON&gt;"So we can destroy it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">You can absolutely destroy it. Take a look; just hit it right here. It's tough, but you look like someone with some experience in demolition jobs.&lt;BR&gt;&lt;BR&gt;And if you see Muhrak in there, tell him I've got his 20 gold coins!</Page>
+    
+    </Text>
+    <Text huntingZoneId="464" id="9" prevId="8" villagerId="5013">
+         
+        <Page social="4">Escape? Bah! Defeating Thulsa should be your purpose, &lt;PCCLASS:lcase&gt;!&lt;BR&gt;&lt;BR&gt;It'll take forever to kill every last death-loving minion, but we can certainly keep Thulsa from using my workshop.&lt;BR&gt;&lt;BR&gt;Watch my back while I destroy the control device! Good luck dealing with a runaway volcanic furnace, Thulsa! Ha ha ha!</Page>
+    
+    </Text>
+    <Text huntingZoneId="411" id="10" prevId="9" villagerId="5001">
+         
+        <Page social="1">That's the last of them...for now!&lt;BR&gt;&lt;BR&gt;All that death...consider it a downpayment on my dead apprentices, Thulsa!&lt;BR&gt;&lt;BR&gt;So you've got the relic fragments...and I just destroyed the controls for the furnace.&lt;BR&gt;&lt;BR&gt;Better that it's out of Thulsa's hands in any case. There's always a workaround. Let me mull it over in my workshop.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="24" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="66" id="100" prevId="0" villagerId="1008">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="66" id="2" prevId="0" villagerId="1008">
+         
+        <Page social="4">You can't go twenty meters without those {@LinkCreature:24#15#sandpaw hyenas} and {@LinkCreature:24#16#desertcrawler wolves} making a run at you. The villagers can't live like this, and the guards can't make their rounds. I need someone to cull the packs.</Page>
+    
+    </Text>
+    <Text huntingZoneId="66" id="3" prevId="2" villagerId="1008">
+         
+        <Page social="4">What a relief! With those scavengers out of the way, the guards can make their rounds safely.</Page>
+    
+    </Text>
+    <Text huntingZoneId="66" id="4" villagerId="1008">
+         
+        <Page social="0">How many of the hyenas and wolves have you killed? Any?</Page>
+    
+    </Text>
+</QuestDialog>

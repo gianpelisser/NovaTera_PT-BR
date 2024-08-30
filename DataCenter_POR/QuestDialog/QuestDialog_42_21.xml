@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="42" id="21" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="75" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="75" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="5">O Templo de Dagon é um teste de coragem, mas acho que você está à altura.&lt;BR&gt;&lt;BR&gt;Obtenha alguns suprimentos de {@LinkCreature:75#1002#Dyanne} e entregue-os a {@LinkCreature:242#1008#Langbau} no Acampamento Veneno.&lt;BR&gt;&lt;BR&gt;No caminho, elimine o máximo que puder daqueles malditos {@LinkCreature:42#510#cães de Dagon}. Isso tornará as coisas um pouco mais seguras para todos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="75" id="3" prevId="2" villagerId="1002">
+         
+        <Page social="5">Então, você veio buscar os suprimentos. Não se preocupe em me pagar - apenas volte vivo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="242" id="4" prevId="3" villagerId="1008">
+         
+        <Page social="5">Suprimentos! Nós realmente precisávamos disso. Nem todos os mensageiros passam pelos cães de caça. Eles comem bem.&lt;BR&gt;&lt;BR&gt;Agora vou distribuí-los e deixar que vocês façam seu trabalho. Coisas estranhas estão acontecendo com os nagas ultimamente. Tenho certeza de que você ouvirá tudo sobre isso.</Page>
+    
+    </Text>
+</QuestDialog>

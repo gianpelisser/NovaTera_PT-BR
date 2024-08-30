@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StrSheet_Masstige xmlns="https://vezel.dev/novadrop/dc/StrSheet_Masstige" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Masstige StrSheet_Masstige.xsd">
+    <String readableId="SMT_MASSTIGE_MAIN_TITLE">Arma Avatar</String>
+    <String readableId="SMT_MASSTIGE_OBTAINED_SECTION_TITLE">Arma Disponível</String>
+    <String readableId="SMT_MASSTIGE_CURRENT_SECTION_TITLE">Arma adquirida</String>
+    <String readableId="SMT_MASSTIGE_OBTAINED_ITEM_UNAVAILBLE">{CurrentTokenNum}/{TargetTokenNum}</String>
+    <String readableId="SMT_MASSTIGE_CAN_ENCHANT_N_TIMES">Você pode encantar sua nova arma {Num} vez(es).</String>
+    <String readableId="SMT_MASSTIGE_CAN_ENCHANT_N_TIMES_LONG">Você tem {Num} itens disponíveis para encantar esta arma.</String>
+    <String readableId="SMT_MASSTIGE_OPEN_ENCHANT_WINDOW">Encantar</String>
+    <String readableId="SMT_MASSTIGE_MAXIMUM_ENCHANT_COUNT_REACHED">Totalmente Encantado</String>
+    <String readableId="SMT_MASSTIGE_INSUFFICIENT_ENCHANT_MATERIALS">Você não tem material suficiente.</String>
+    <String readableId="SMT_MASSTIGE_EQUIP_OBTAINED_MASSTIGE_ITEM">Equipar</String>
+    <String readableId="SMT_MASSTIGE_EQUIP_OBTAINED_MASSTIGE_NOW">Sua arma está pronta.</String>
+    <String readableId="SMT_MASSTIGE_COLLECT_MATERIALS_FOR_ENCHANT">Para encantar seu item, colete fragmentos de armas (weapon shards) e alkahest.</String>
+    <String readableId="SMT_MASSTIGE_RECEIVE_MASSTIGE_ITEM">Adquirir Arma</String>
+    <String readableId="SMT_MASSTIGE_COLLECTING_TOKENS">Coletando.</String>
+    <String readableId="SMT_MASSTIGE_NOT_DISCOVERED_YET">Não descoberto</String>
+    <String readableId="SMT_MASSTIGE_NOT_DISCOVERED_YET_LONG">Mate monstros e pegue relíquias</String>
+    <String readableId="SMT_MASSTIGE_COLLECTING_TOKENS_LONG">Coletando {TokenName}.</String>
+    <String readableId="SMT_MASSTIGE_COLLECTING_TOKENS_FINISHED_LONG">{TokenName} Collected.</String>
+    <String readableId="SMT_MASSTIGE_GAUGE_TEXT">{CurrentTokenNum}/{TargetTokenNum}</String>
+    <String readableId="SMT_MASSTIGE_POPUP_RECEIVE_CONFIRM_TITLE">Arma Avatar</String>
+    <String readableId="SMT_MASSTIGE_POPUP_RECEIVE_CONFIRM_TEXT">Criar {MasstigeName}? Ele será equipado automaticamente se você tiver um nível alto o suficiente.</String>
+    <String readableId="SMT_MASSTIGE_POPUP_RECEIVE_CONFIRM_YES">Confirmar</String>
+    <String readableId="SMT_MASSTIGE_POPUP_RECEIVE_CONFIRM_NO">Cancelar</String>
+    <String readableId="SMT_MASSTIGE_POPUP_ENCHANT_ERROR_TITLE">Encantar</String>
+    <String readableId="SMT_MASSTIGE_POPUP_ENCHANT_ERROR_TEXT">Encantamento em processo. Tente novamente em alguns instantes.</String>
+    <String readableId="SMT_MASSTIGE_POPUP_ENCHANT_ERROR_YES">Confirmar</String>
+    <String readableId="SMT_MASSTIGE_ALERT_TOKEN_ACQUIRED_TITLE">&lt;font size='22' color='#ffffff'&gt;Pedaço de Relíquia Descoberta&lt;/font&gt;</String>
+    <String readableId="SMT_MASSTIGE_ALERT_TOKEN_ACQUIRED_TEXT">&lt;font size='20' color='#ff7200'&gt;Você descobriu uma peça de relíquia.&lt;/font&gt;</String>
+    <String readableId="SMT_MASSTIGE_ALERT_TOKEN_ACQUIRED_TEXT2">&lt;font size='20' color='{Color}'&gt;Coletando {TokenName}  ({CurrentTokenNum}/{TargetTokenNum})&lt;/font&gt;&lt;br&gt;Você pode verificar os detalhes em seu inventário (I).</String>
+    <String readableId="SMT_MASSTIGE_ALERT_TOKEN_ACQUIRED_NEEDLESSLY_TEXT2">&lt;font size='18' color='{Color}'&gt;Descoberto {TokenName}, mas você já reuniu essa relíquia.&lt;/font&gt;</String>
+    <String readableId="SMT_MASSTIGE_ALERT_TOKEN_ACQUISITION_FINISHED_TITLE">&lt;font size='22' color='#ffffff'&gt;Peça de relíquia coletada&lt;/font&gt;</String>
+    <String readableId="SMT_MASSTIGE_ALERT_TOKEN_ACQUISITION_FINISHED_TEXT">&lt;font size='24' color='#ffff00'&gt;Você coletou {TokenName}.&lt;/font&gt;</String>
+    <String readableId="SMT_MASSTIGE_ALERT_TOKEN_ACQUISITION_FINISHED_TEXT2">&lt;font size='24' color='{Color}'&gt;Parabéns!&lt;/font&gt;&lt;br&gt;Abra seu inventário (I) e receba sua nova arma.</String>
+    <String readableId="SMT_MASSTIGE_TOOLTIP">&lt;font size='20' color='#ffff00'&gt;Arma Avatar&lt;/font&gt;&lt;br&gt;&lt;br&gt;Arma Avatar são criados coletando peças de relíquias de monstros mortos nas áreas listadas abaixo.</String>
+    <String readableId="SMT_MASSTIGE_TOOLTIP_TOKEN_AVAILABLE_REGIONS">Onde encontrar as peças de relíquia que você procura:&lt;br&gt;</String>
+    <String readableId="SMT_MASSTIGE_TOOLTIP_TOKEN_AVAILABLE_REGION">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;{HzName}</String>
+    <String readableId="SMT_MASSTIGE_ITEM_TOOLTIP_TOKEN_AVAILABLE_REGIONS">&lt;font color='#ffff00'&gt;Área(s) onde você pode encontrar peças de relíquias:&lt;/font&gt;&lt;br&gt;</String>
+    <String readableId="SMT_MASSTIGE_ITEM_TOOLTIP_TOKEN_AVAILABLE_REGION">{HzName}</String>
+    <String readableId="SMT_MASSTIGE_NO_MORE_TOKENS_EXIST">[Arma Avatar Completa]&lt;br&gt;Você coletou todas as relíquias disponíveis.&lt;br&gt;&lt;br&gt;Parabéns!</String>
+    <String readableId="SMT_MASSTIGE_NO_OBTAINED_MASSTIGE_ITEM">&lt;font size='16' color='#ffffff'&gt;Arma Avatar&lt;/font&gt;&lt;br&gt;&lt;br&gt;Crie uma arma de avatar coletando peças de relíquias.</String>
+</StrSheet_Masstige>

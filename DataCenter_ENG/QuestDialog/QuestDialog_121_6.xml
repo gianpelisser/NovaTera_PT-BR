@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="121" id="6" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="121" id="100" prevId="0" villagerId="220020">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="121" id="2" prevId="0" villagerId="220020">
+         
+        <Page social="0">I have a theory! You'll need to collect some blood for me to test it. You're welcome.&lt;BR&gt;&lt;BR&gt;Hunt down the {@linkcreature:121#502#gorillas}. I think they have the best chance of carrying what I'm looking for. Bring it back just as quickly as you can!</Page>
+    
+    </Text>
+    <Text huntingZoneId="121" id="3" prevId="2" villagerId="220020">
+         
+        <Page social="4">Interesting. Thank you for bringing this. I'll look into it right away.</Page>
+    
+    </Text>
+    <Text huntingZoneId="121" id="4" villagerId="220020">
+         
+        <Page social="0">For the collective!</Page>
+    
+    </Text>
+</QuestDialog>

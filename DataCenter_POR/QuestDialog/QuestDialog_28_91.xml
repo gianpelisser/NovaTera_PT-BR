@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="70" id="100" prevId="0" villagerId="1017">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="70" id="2" prevId="0" villagerId="1017">
+         
+        <Page social="0">Criaturas invasoras ameaçam os trabalhadores de recuperação que estão lidando com a corrupção. Matar {@LinkCreature:28#2011#smokepaw timberwolves}, {@LinkCreature:28#2021#plagued cullars} e {@LinkCreature:28#2031#plagued tentacullars}.&lt;BR&gt;&lt;BR&gt;Representar a Ishmela no Campo Zakai quando a missão estiver concluída. Dispensado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="3" prevId="2" villagerId="1002">
+         
+        <Page social="5">Obrigado por seu trabalho árduo. Tudo o que pudermos fazer para minimizar o perigo para nossos funcionários é uma grande vantagem.</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="4" villagerId="1002">
+         
+        <Page social="0">Pedimos desculpas, mas sem a comprovação do óbito, os pagamentos não são autorizados.</Page>
+    
+    </Text>
+</QuestDialog>

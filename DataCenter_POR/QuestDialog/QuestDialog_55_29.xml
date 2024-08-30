@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="55" id="29" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="255" id="100" prevId="0" villagerId="1010">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="255" id="2" prevId="0" villagerId="1010">
+         
+        <Page social="4">Nós ferimos os orcs, mas eles não estão recuando. Eles não são tão corajosos normalmente.&lt;BR&gt;&lt;BR&gt;Talvez as bugigangas unseelie permitam que os fey obriguem seus aliados.&lt;BR&gt;&lt;BR&gt;Encontre o líder deles, Tarlok, e acabe com ele. Talvez o choque de sua morte envie a mensagem de que precisamos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="255" id="3" prevId="2" villagerId="1010">
+         
+        <Page social="4">Esse estranho... o que quer que seja... simplesmente cheira a unseelie. Eles, como todas as fadas, têm uma magia sutil, mas poderosa.&lt;BR&gt;&lt;BR&gt;A morte de Tarlok pode ser suficiente para dissuadir os orcs no futuro.&lt;BR&gt;&lt;BR&gt;Bem feito!</Page>
+    
+    </Text>
+    <Text huntingZoneId="255" id="4" villagerId="1010">
+         
+        <Page social="0">Siga o rio para o sudoeste. Tarlok raramente sai de seu acampamento.</Page>
+    
+    </Text>
+</QuestDialog>

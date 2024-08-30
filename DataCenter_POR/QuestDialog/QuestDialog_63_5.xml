@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="63" id="5" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="63" id="100" prevId="0" villagerId="1107">
+         
+        <Page social="0">Você se tornou um soldado oficial da federação. Você foi convocado a Velika para conhecer o Comandante Seir, o comandante das forças da Federação Valkyon.&lt;BR&gt;&lt;BR&gt;Seir ficou impressionado com você e o recebeu formalmente no serviço da federação, mas o verdadeiro impulsionador do poder militar, o Comandante Samael, não parece impressionado com você. Ele descartou suas realizações como mera sorte.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="2" prevId="0" villagerId="1107">
+         
+        <Page social="4">&lt;PCNAME&gt;, você fez um bom trabalho na Island of Dawn. O Comandante Seir está ansioso para falar com você. Vá até a sede da federação e encontre Uriela.&lt;BR&gt;&lt;BR&gt;Ela lhe indicará a direção certa. Boa sorte.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="1101">
+         
+        <Page social="4">&lt;PCNAME&gt;? Eu já ouvi esse nome, não ouvi? Ah! Sim, você é um dos recrutas que ajudaram na ilha! Tão peculiar, essa ilha....&lt;BR&gt;&lt;BR&gt;Ah, me perdoe. Estou perdendo a noção de mim mesmo. Por favor, entre. O Comandante Seir está lhe esperando.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="4" prevId="3" villagerId="1102">
+         
+        <Page social="4">&lt;PCNAME&gt;? É um prazer conhecer um jovem soldado com a sua coragem! &lt;BR&gt;&lt;BR&gt;Com a situação na província de Arcádia e a escassez de soldados tão longe da frente de argons, precisamos de mais pessoas que tomem a iniciativa. &lt;BR&gt;&lt;BR&gt;Deixe-me dar as boas-vindas a você formalmente às fileiras da Federação Valkyon!</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="5" prevId="4" villagerId="1102">
+         
+        <Page social="4">As histórias de seus atos heroicos na Island of Dawn se espalharam rapidamente, &lt;PCNAME&gt;. A federação precisa de você agora mais do que nunca. Você está pronto para novas ordens? &lt;NEXTPAGEBUTTON&gt;"Sim, senhor!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="5">Esplêndido. O Comandante Samael cuidará de sua próxima missão. Foi um prazer conhecê-lo, &lt;PCNAME&gt;. Estou ansioso para ler os relatórios de suas façanhas!</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="6" prevId="5" villagerId="1137">
+         
+        <Page social="4">Olhe, você se saiu bem - se matar um bando de porquinhos for considerado uma batalha. Por aqui, temos problemas reais que precisam de soldados reais. Temos uma rebelião em Arcádia e nenhum suprimento vindo do norte.&lt;BR&gt;&lt;BR&gt;Se você não estiver à altura, estará colocando vidas em risco. É preciso ficar de olho no panorama geral. É preciso mais do que sorte para formar um soldado.</Page>
+    
+    </Text>
+</QuestDialog>

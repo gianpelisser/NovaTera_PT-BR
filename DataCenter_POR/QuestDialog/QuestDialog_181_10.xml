@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="181" id="10" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">O efeito da poção desapareceu repentinamente no coração do território inimigo, mas &lt;PCNAME&gt; escapou rapidamente, derrotando os inimigos pelo caminho.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">(A poção de invisibilidade de Hagand perdeu o efeito! Os partas podem vê-lo - e eles não parecem felizes com isso!)</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="3" prevId="2" villagerId="3001">
+         
+        <Page social="4">Falei com Hagand e ele me disse que havia lhe dado uma poção de invisibilidade. Você não se preocupou em usá-la?&lt;BR&gt;&lt;BR&gt;Típico &lt;PCNAME&gt;! Não é à toa que todos estão sempre falando de você! &lt;BR&gt;&lt;BR&gt;Você conseguiu as Pedras da Relatividade? &lt;NEXTPAGEBUTTON&gt;"Consegui cerca de uma dúzia delas."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</QuestDialog>

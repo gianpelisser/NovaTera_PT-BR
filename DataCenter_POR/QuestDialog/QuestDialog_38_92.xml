@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="38" id="92" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="74" id="100" prevId="0" villagerId="1036">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="74" id="2" prevId="0" villagerId="1036">
+         
+        <Page social="5">Eu adoro listas, e você? A maneira como você pode pensar que está quase terminando, apenas para descobrir que há mais páginas do que você pensava? Aquece meu coração.&lt;BR&gt;&lt;BR&gt;Ok! Preciso que você vá matar alguns {@LinkCreature:38#12#gluttonous fangspawns}. Isso seria muito bom da sua parte.&lt;BR&gt;&lt;BR&gt;Venha falar com Elmaire no Posto Avançado de Craterview, no Desfiladeiro de Sienna, quando tiver feito isso.</Page>
+    
+    </Text>
+    <Text huntingZoneId="238" id="3" prevId="2" villagerId="1009">
+         
+        <Page social="5">Bom trabalho. Aqui está sua recompensa.&lt;BR&gt;&lt;BR&gt;Continue com o bom trabalho!</Page>
+    
+    </Text>
+    <Text huntingZoneId="238" id="4" villagerId="1009">
+         
+        <Page social="0">Você não completou sua missão.</Page>
+    
+    </Text>
+</QuestDialog>

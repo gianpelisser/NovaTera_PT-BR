@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="701" id="13" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="230" id="100" prevId="0" villagerId="7002">
+         
+        <Page social="0">Você forçou a entrada no Banquete de Sangue, selou o caixão do líder dos vampiros e contaminou a comida deles.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="2" prevId="0" villagerId="7002">
+         
+        <Page social="0">Resgatar os aldeões é importante, mas precisamos fazer algo que atrapalhe completamente o Banquete de Sangue: Selar o caixão do líder deles e manchar sua comida imunda. &lt;BR&gt;&lt;BR&gt;Então, &lt;PCNAME&gt;, você está pronto para outra incursão no meio dos vampiros?</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="3" prevId="2" villagerId="7002">
+         
+        <Page social="4">Mais uma vez, &lt;PCNAME&gt;, você prestou um grande serviço, pelo qual será lembrado por muito tempo.</Page>
+    
+    </Text>
+</QuestDialog>

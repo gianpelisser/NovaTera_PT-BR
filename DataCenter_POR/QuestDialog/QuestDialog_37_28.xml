@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="37" id="28" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="237" id="100" prevId="0" villagerId="1010">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="237" id="2" prevId="0" villagerId="1010">
+         
+        <Page social="17">Os servos de Killian, aracnídeos narodores, nos cercaram e, do jeito que empunham esses chicotes, é como se tivessem um suprimento infinito de lacaios.&lt;BR&gt;&lt;BR&gt;Se não atacarmos, eles vão nos dominar.&lt;BR&gt;&lt;BR&gt;Pode nos ajudar?</Page>
+    
+    </Text>
+    <Text huntingZoneId="237" id="3" prevId="2" villagerId="1010">
+         
+        <Page social="7">Você realmente não gosta de aracnídeos, não é? Dá para ver! &lt;BR&gt;&lt;BR&gt;Os chicotes são um belo toque.&lt;BR&gt;&lt;BR&gt;As bênçãos de Kaia estejam com você, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="237" id="4" villagerId="1010">
+         
+        <Page social="0">Os aracnídeos narodores ainda estão por aí, &lt;PCNAME&gt;, exercendo cada vez mais pressão contra nós!</Page>
+    
+    </Text>
+</QuestDialog>

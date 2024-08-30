@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="29" id="27" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="229" id="100" prevId="0" villagerId="1019">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="229" id="2" prevId="0" villagerId="1019">
+         
+        <Page social="5">Dói-me dizer isso, mas preciso pedir uma coisa terrível a vocês.&lt;BR&gt;&lt;BR&gt;Eu preciso dos corações de {@LinkCreature:29#2031#vinesplicer arachnens}. Normalmente, procuro não matar, mas se houver uma causa externa para o comportamento deles, é provável que ela esteja no sangue.&lt;BR&gt;&lt;BR&gt;Sejam misericordiosos e rápidos, mas, por favor, tragam-me seus corações.</Page>
+    
+    </Text>
+    <Text huntingZoneId="229" id="3" prevId="2" villagerId="1019">
+         
+        <Page social="5">Um mal necessário, eu lhe asseguro. Embora essa pesquisa leve algum tempo, não é provável que sejam necessárias mais amostras.&lt;BR&gt;&lt;BR&gt;A expansão da Federação Valkyon traz conseqüências. Nós esculpimos encostas, derrubamos florestas, infundimos o mundo com magia e poder. Sempre há conseqüências.</Page>
+    
+    </Text>
+    <Text huntingZoneId="229" id="4" villagerId="1019">
+         
+        <Page social="0">A morte dos aracnídeos é equilibrada pela preservação de outras vidas. O pedido não é ocioso. Tragam-me os corações, eu lhes peço.</Page>
+    
+    </Text>
+</QuestDialog>

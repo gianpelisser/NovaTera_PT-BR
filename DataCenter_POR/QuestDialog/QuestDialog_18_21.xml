@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="18" id="21" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="66" id="100" prevId="0" villagerId="1017">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="66" id="2" prevId="0" villagerId="1017">
+         
+        <Page social="4">Não sei o que está acontecendo. Os kulkaris e seus aliados nunca foram tão hostis antes. Quero dizer, não tenho ilusões de que tínhamos uma aliança, mas realmente.&lt;BR&gt;&lt;BR&gt;Tudo está diferente agora. Não podemos simplesmente ficar sentados e esperar que eles nos eliminem. Precisamos agir.&lt;BR&gt;&lt;BR&gt;Livre-se dos {@LinkCreature:18#1#Desert Fire thrashers} e dos {@LinkCreature:18#2#Desert Fire shamans}. Quando terminar, vá ver {@LinkCreature:218#1003#Kardelen} no Acampamento Marrakeen.</Page>
+    
+    </Text>
+    <Text huntingZoneId="218" id="3" prevId="2" villagerId="1003">
+         
+        <Page social="4">Você se livrou dos kulkaris, não foi? Fico feliz em saber disso - eu precisava de um descanso! &lt;BR&gt;&lt;BR&gt;Lembro-me de quando minha maior queixa era o tédio. Cuidado com o que você deseja, hein?</Page>
+    
+    </Text>
+</QuestDialog>

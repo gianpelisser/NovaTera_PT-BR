@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="21" id="93" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="65" id="100" prevId="0" villagerId="1012">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="65" id="2" prevId="0" villagerId="1012">
+         
+        <Page social="0">My stack is starting to wear thin here. Save some jobs for the other poor slobs, eh?&lt;BR&gt;&lt;BR&gt;All right, well {@LinkCreature:21#1#vicious dusky basilisks} and {@LinkCreature:21#2#dusky basilisks} it is, then.&lt;BR&gt;&lt;BR&gt;Talk to Gaenor in the Basilisk Crag when you're done.</Page>
+    
+    </Text>
+    <Text huntingZoneId="221" id="3" prevId="2" villagerId="1030">
+         
+        <Page social="4">Thank you for your hard work. I hope this will stop them from multiplying themselves at least for a while.</Page>
+    
+    </Text>
+    <Text huntingZoneId="221" id="4" villagerId="1030">
+         
+        <Page social="0">I'm sorry, but you haven't met your mission quota yet.</Page>
+    
+    </Text>
+</QuestDialog>

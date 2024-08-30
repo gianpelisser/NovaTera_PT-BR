@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="33" id="26" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="233" id="100" prevId="0" villagerId="1010">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="233" id="2" prevId="0" villagerId="1010">
+         
+        <Page social="0">Algo está falando comigo. Continuo ouvindo uma voz que diz: "Reúna os fragmentos das sombras" e "Ouça nossas vozes". Bem, vou provar que não estou! Mate alguns {@LinkCreature:33#6#malevolent wraiths} na Vertigo Reach, colete os fragmentos de sombra e veremos quem é o louco!</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="3" prevId="2" villagerId="1010">
+         
+        <Page social="4">Muito bem, vamos ver se isso funciona. Vou colocar isso em meus ouvidos.&lt;BR&gt;&lt;BR&gt;O que vocês querem, suas vozes malditas? Vamos ouvir.&lt;BR&gt;&lt;BR&gt;São...oh, são as vozes dos soldados desaparecidos!&lt;NEXTPAGEBUTTON&gt;"Soldados de Kaidun?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Sim! Meus camaradas amani! Maldição para Thulsa! Maldição sobre este lugar imundo! &lt;BR&gt;&lt;BR&gt;Os defensores eldritch em Anguish Heights eram realmente os soldados desaparecidos, e...não!&lt;BR&gt;&lt;BR&gt;Helehr ainda está lá em cima, tentando nos avisar...há uma maldição que permeia este lugar. Oh, meu amigo!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, você deve levar essa informação para Alssiyah!</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="4" villagerId="1010">
+         
+        <Page social="0">Não tenho certeza do que faço com os fragmentos de sombra. Colocá-los em meus ouvidos?</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="5" prevId="3" villagerId="1001">
+         
+        <Page social="4">Helehr? Ele esteve aqui todo esse tempo? Oh, Thulsa maldito, maldito seja por desonrar um guerreiro orgulhoso dessa forma.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, você deve encontrá-lo. A maldição pode ter alterado sua forma, mas ele ainda é nosso companheiro. Ajudem-no!</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="6" prevId="5" villagerId="1012">
+         
+        <Page social="0">Você ouviu minha voz! Não quero que ninguém me veja assim, mas não posso simplesmente me deitar e morrer quando meus colegas soldados estão em perigo.</Page>
+    
+    </Text>
+</QuestDialog>

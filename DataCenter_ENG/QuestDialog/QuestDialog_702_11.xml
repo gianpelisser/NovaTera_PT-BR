@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="702" id="11" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="205" id="100" prevId="0" villagerId="2000">
+         
+        <Page social="0">At Krumu's invitation, you went to Pond Faire.</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="2" prevId="0" villagerId="2000">
+         
+        <Page social="4">Pond Faire has caused some very abnormal behavior in the tuwangis here!&lt;BR&gt;&lt;BR&gt;I was sent to be an impartial observer, but perhaps you can embed yourself and learn more of the rituals they are performing.&lt;BR&gt;&lt;BR&gt;My colleagues at the Mysterium would be very interested in an up-close study of this ritualized behavior.  &lt;NEXTPAGEBUTTON&gt;Sounds intriguing.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="205" id="3" prevId="2" villagerId="2000">
+         
+        <Page social="4">Pond Faire has caused some very abnormal behavior in the tuwangis here!&lt;BR&gt;&lt;BR&gt;I was sent to be an impartial observer here, but perhaps you can can do what I can't—embed yourself and learn more of the rituals they are performing.&lt;BR&gt;&lt;BR&gt;It's all very interesting if you're into cultural anthropology...or if you just like a great big party.&lt;NEXTPAGEBUTTON&gt;Tell me where to go.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</QuestDialog>

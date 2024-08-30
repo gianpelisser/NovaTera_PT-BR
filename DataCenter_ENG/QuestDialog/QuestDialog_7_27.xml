@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="7" id="27" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="207" id="100" prevId="0" villagerId="1018">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="207" id="2" prevId="0" villagerId="1018">
+         
+        <Page social="5">Hey, there! I got "voluntold" and I need your help. The Mysterium has demanded I thin out the kumas ranks around here.&lt;BR&gt;&lt;BR&gt;Have you seen the kumases? They're huge, mean, and bloodthirsty—and those are their good qualities.&lt;BR&gt;&lt;BR&gt;Look, I can't do it. I'm a lone warrior, but if you gathered some allies, I bet you could take them down. Kill an {@LinkCreature:7#3#indolent kumas} and I'll give you the reward. Deal?</Page>
+    
+    </Text>
+    <Text huntingZoneId="207" id="3" prevId="2" villagerId="1018">
+         
+        <Page social="5">Great job. As promised, here's the reward. I hope you don't mind but I had to take credit so you could get this. I doubt they'll ask for something this big anytime soon.</Page>
+    
+    </Text>
+</QuestDialog>

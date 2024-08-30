@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="28" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="204" id="100" prevId="0" villagerId="1110">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="204" id="2" prevId="0" villagerId="1110">
+         
+        <Page social="4">Novo plano, &lt;PCNAME&gt;. Aqui está um pouco de água benta. Borrife-a nos cadáveres e isso fará com que suas almas retornem ao Sonho.&lt;BR&gt;&lt;BR&gt;Isso significa que não haverá fantasmas, nem ressurreição do túmulo... nada disso.&lt;BR&gt;&lt;BR&gt;Uma outra coisa: recolha objetos pessoais dos corpos, se puder. Sempre tentamos dar algo em troca para as famílias. Isso ajuda no processo de luto, segundo me disseram.</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="3" prevId="2" villagerId="1112">
+         
+        <Page social="0">(A água benta efervesce e borbulha quando você a derrama sobre o cadáver. O odor pútrido da morte desaparece.)&lt;NEXTPAGEBUTTON&gt;"Volte para o Sonho, amigo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">(Você tira a arma da lateral do corpo e as etiquetas do pescoço).</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="4" prevId="3" villagerId="1114">
+         
+        <Page social="0">(A água benta efervesce e borbulha quando você a derrama sobre o cadáver. O odor pútrido da morte desaparece.)&lt;NEXTPAGEBUTTON&gt;"Volte para o Sonho, amigo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">(Você tira a arma da lateral do corpo e as etiquetas do pescoço).</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="5" prevId="4" villagerId="1116">
+         
+        <Page social="0">(A água benta efervesce e borbulha quando você a derrama sobre o cadáver. O odor pútrido da morte desaparece.)&lt;NEXTPAGEBUTTON&gt;"Volte para o Sonho, amigo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">(Você tira a arma da lateral do corpo e as etiquetas do pescoço).</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="6" prevId="5" villagerId="1110">
+         
+        <Page social="4">Tudo pronto? E alguns efeitos pessoais para as famílias? &lt;BR&gt;&lt;BR&gt;Eu os enviarei imediatamente para Castanica. Obrigado, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Pela federação!</Page>
+    
+    </Text>
+</QuestDialog>

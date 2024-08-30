@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="601" id="7" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="77" id="100" prevId="0" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="77" id="2" prevId="0" villagerId="3003">
+         
+        <Page social="4">{@LinkCreature:247#3510#Toray} na {@Rgn:47007$$Blightroar Research Station} enviou um pedido de ajuda. Ele está tendo problemas para coletar amostras de pesquisa.&lt;BR&gt;&lt;BR&gt;Suas habilidades o tornam perfeito para tal tarefa!</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="3" prevId="2" villagerId="3510">
+         
+        <Page social="4">Notei uma ninhada de ovos de naga nas proximidades que estou convencido de que vieram de nagas argonomorfas. Pense nas implicações disso!&lt;BR&gt;&lt;BR&gt;Infelizmente, sem provas, tudo não passa de especulação. Preciso de amostras dos ovos, mas - argonomorfos ou não - os nagas não estão querendo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="4" prevId="2" villagerId="3510">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="247" id="5" prevId="2" villagerId="3510">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="247" id="6" prevId="2" villagerId="3510">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="247" id="7" prevId="2" villagerId="3510">
+         
+        <Page social="4">Ah, sim. Posso ver diferenças nesses fragmentos.&lt;BR&gt;&lt;BR&gt;Curioso. Como os argonss conseguiram fazer isso?</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="8" villagerId="3510">
+         
+        <Page social="0">Primeiro, preciso entender como os argonss podem afetar uma raça cristalina como os wendigos.&lt;BR&gt;&lt;BR&gt;Mate todos os wendigos contaminados que encontrar e colete seus fragmentos. Eles são a chave.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="9" prevId="7" villagerId="3510">
+         
+        <Page social="4">Fascinante. Já me perguntei que mudanças físicas ocorrem nos argonomorfos quando eles fazem a transição.&lt;BR&gt;&lt;BR&gt;Isso deve ser esclarecedor.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="10" villagerId="3510">
+         
+        <Page social="0">As mudanças nos nagas vão além da pele, no entanto.&lt;BR&gt;&lt;BR&gt;Eu gostaria de estudar algumas peles de naga afetadas pelo processo de argonomorfia.</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="11" prevId="9" villagerId="3510">
+         
+        <Page social="4">Gema de um ovo contaminado? Fascinante. Eu me pergunto se as mudanças no argons passam para as gerações posteriores....</Page>
+    
+    </Text>
+    <Text huntingZoneId="247" id="12" villagerId="3510">
+         
+        <Page social="0">Eu gostaria de estudar os ovos de naga contaminados. Esse é o primeiro exemplo de procriação de um argonomorfo.&lt;BR&gt;&lt;BR&gt;Temos que saber a ameaça que isso representa.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="3" id="43" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="203" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="203" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="4">Parlan me pediu para ajudá-lo em sua pesquisa, mas seu pedido é um pouco insano. Ele quer que eu, EU, lhe traga algumas raízes de ghilliedhu.&lt;BR&gt;&lt;BR&gt;Eu mal consigo capinar um jardim, não vou ficar cara a cara com uma árvore ambulante e rosnante. Você poderia ir ao Vale Bestial ao norte e coletar raízes de {@LinkCreature:3#3#Mossy Ghilliedhus}?</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="3" prevId="2" villagerId="1001">
+         
+        <Page social="4">Você é um salva-vidas, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Isso é exatamente o que Parlan quer. Você se importaria de levá-las para ele? Tenho algumas anotações para terminar sobre outra flora.</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="4" villagerId="1001">
+         
+        <Page social="0">Tenho quase certeza de que o Parlan só quer raízes de {@LinkCreature:3#3#Mossy Ghilliedhus}. Duvido que eu consiga enganá-lo com um substituto.</Page>
+    
+    </Text>
+    <Text huntingZoneId="203" id="5" prevId="3" villagerId="1009">
+         
+        <Page social="4">&lt;PCNAME&gt;! É bom vê-lo novamente. E você trouxe raízes de ghilliedhu? Excelente! &lt;BR&gt;&lt;BR&gt;Tudo isso faz parte da minha pesquisa sobre o elixir. É perigoso, eu sei, mas nem sempre um sacerdote ou místico está por perto para salvar os caídos. Uma poção que pudesse fazer isso seria um tesouro inestimável para a Federação Valkyon!</Page>
+    
+    </Text>
+</QuestDialog>

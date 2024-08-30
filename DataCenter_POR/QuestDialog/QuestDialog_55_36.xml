@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="55" id="36" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="255" id="100" prevId="0" villagerId="1028">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="255" id="2" prevId="0" villagerId="1028">
+         
+        <Page social="4">Os depredadores mekonari e suas urisks estão se aglomerando, provavelmente para um ataque.&lt;BR&gt;&lt;BR&gt;Somos o posto avançado mais próximo do Estado Maior de Isren. Não podemos ceder nossa posição.&lt;BR&gt;&lt;BR&gt;Vamos lá e os ataquemos primeiro. Temos que recuperar o controle do cajado!</Page>
+    
+    </Text>
+    <Text huntingZoneId="255" id="3" prevId="2" villagerId="1028">
+         
+        <Page social="4">Você tem a nossa gratidão, &lt;PCNAME&gt;. Agora podemos recuperar o cajado dos brinquedos de Thulsa.</Page>
+    
+    </Text>
+</QuestDialog>

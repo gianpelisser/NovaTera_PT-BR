@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="172" id="4" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="63" id="100" prevId="0" villagerId="1532">
+         
+        <Page social="0">Ouça o que Dougal tem a dizer sobre a missão. Dougal está determinado a levar essa missão a bom termo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="2" prevId="0" villagerId="1532">
+         
+        <Page social="4">Podemos começar a embarcar assim que os recrutas voltarem.&lt;BR&gt;&lt;BR&gt;Não devo deixar Zolyn esperando. Deixe-a saber que os suprimentos e os soldados estão prontos para partir.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="1522">
+         
+        <Page social="4">Hmph. &lt;PCNAME&gt;. Conheço sua reputação. A natureza colhe e você é a foice dela.&lt;BR&gt;&lt;BR&gt;Suponho que você não conheça Syona? Ela é uma princesa elin.&lt;NEXTPAGEBUTTON&gt;"Receio que não."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Não importa. &lt;BR&gt;&lt;BR&gt;Bem, você conseguiu que nossos suprimentos fossem arrumados e que nossas tropas se recuperassem. Isso é mais do que o resto desses tuwangis pode dizer! &lt;BR&gt;&lt;BR&gt;Aqui está o atuador da arca do céu. Dougal está esperando por ele.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="4" prevId="3" villagerId="1521">
+         
+        <Page social="4">É bom vê-lo novamente, &lt;PCNAME&gt;! Estou feliz por termos designado você para esta missão.&lt;NEXTPAGEBUTTON&gt;"Isto é para você."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">O atuador. Agora podemos finalmente partir. Excelente.&lt;BR&gt;&lt;BR&gt;Estamos indo para o norte de Arun. Acreditamos que a origem dos demokrons está lá... e um mistério mais pessoal.&lt;BR&gt;&lt;BR&gt;Falaremos mais tarde.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="5" prevId="4" villagerId="1521">
+         
+        <Page social="4">Vamos embarcar agora. Quero começar a trabalhar.&lt;BR&gt;&lt;BR&gt;Pyon o transportará para o navio quando estiver pronto.</Page>
+    
+    </Text>
+    <Text huntingZoneId="823" id="6" prevId="5" villagerId="1000">
+         
+        <Page social="4">Bem-vindo a bordo! Ela não é magnífica? Maior do que um navio de guerra à vela, capaz de transportar uma companhia completa de tropas.&lt;BR&gt;&lt;BR&gt;Não estou a par de todos os seus segredos, mas sei que muita tecnologia de argons levou às arcas celestes.</Page>
+    
+    </Text>
+    <Text huntingZoneId="172" id="7" villagerId="4">
+         
+        <Page social="0">Se estiver pronto, eu o levarei à sua cabine.</Page>
+    
+    </Text>
+    <Text huntingZoneId="823" id="8" prevId="6" villagerId="1005">
+         
+        <Page social="4">Você salvou Actol e eu, &lt;PCNAME&gt;. Obrigado.&lt;BR&gt;&lt;BR&gt;Não se preocupe, não vamos mais roubar elixires.</Page>
+    
+    </Text>
+</QuestDialog>

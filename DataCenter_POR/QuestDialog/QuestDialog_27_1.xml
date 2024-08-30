@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="27" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">Convocado para Velika, você se encontrou com o Comandante Seir e a Sacerdotisa Ciebel e foi informado sobre a crescente crise em Allemantheia.&lt;BR&gt;&lt;BR&gt;Eles o enviaram à capital dos elfos superiores para se encontrar com a Comandante Fraya, uma das maiores heroínas dos elfos superiores. Fraya explicou que uma luta pelo poder estava em andamento e ela esperava que a influência de um forasteiro estabilizasse as coisas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="5">Ordens da Missão&lt;BR&gt;&lt;BR&gt;É solicitado e exigido que você retorne a Velika para uma realocação imediata.&lt;BR&gt;&lt;BR&gt;Apresentar-se ao Comandante Seir assim que possível.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="1102">
+         
+        <Page social="5">Bem-vindo de volta, &lt;PCNAME&gt;. Já faz muito tempo. Os relatórios falam bem de você, como eu esperaria.&lt;BR&gt;&lt;BR&gt;Um pedido de assistência nos chegou de Allemantheia, de uma pessoa não menos notável do que Fraya, um de seus mais distintos comandantes.&lt;BR&gt;&lt;BR&gt;Não posso oferecer detalhes, mas seja delicado e cauteloso.&lt;BR&gt;&lt;BR&gt;Além disso, Ciebel pediu para falar com você antes de partir.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="4" prevId="3" villagerId="1167">
+         
+        <Page social="5">Você se saiu bem até agora, &lt;PCNAME&gt;. Velik deseja que você saiba que a sombra que ameaçava Velika agora paira sobre o deserto e está mais escura do que antes. Seja cauteloso em Allemantheia - esteja sempre atento ao perigo que se esconde nas sombras.</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="5" prevId="4" villagerId="1132">
+         
+        <Page social="5">Bem-vindo a Allemantheia, &lt;PCNAME&gt;. Seu voo correu bem? &lt;BR&gt;&lt;BR&gt;A Joia do Deserto agradece sua ajuda, assim como eu.&lt;BR&gt;&lt;BR&gt;Você deve estar se perguntando por que foi convocado.&lt;NEXTPAGEBUTTON&gt;"Muito."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="5">O poder em Allemantheia é compartilhado entre a federação, os anciãos e o Mysterium. É um equilíbrio delicado. Precisamos de um forasteiro, e o seu nome foi aceito pelos três grupos.&lt;BR&gt;&lt;BR&gt;O Mysterium está satisfeito com você depois do seu trabalho nas Colinas Celestiais, e seus próprios comandantes exultam com sua astúcia e coragem.&lt;NEXTPAGEBUTTON&gt;"E os anciãos?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="5">Mais aquiescente do que exultante. Ainda assim, essa é uma grande vitória. Não quero lhe dar impressões erradas ou enganá-lo.&lt;BR&gt;&lt;BR&gt;Fraya espera para falar com você. Ela não é apenas nosso maior soldado, mas uma verdadeira inspiração. Fale primeiro com {@LinkCreature:72#1103#Arshadh}.</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="6" prevId="5" villagerId="1103">
+         
+        <Page social="5">Saudações, &lt;PCNAME&gt;. Fraya está esperando por você lá dentro.</Page>
+    
+    </Text>
+    <Text huntingZoneId="518" id="7" prevId="6" villagerId="1001">
+         
+        <Page social="5">O novo amigo de Elleon finalmente chegou! Bem-vindo a Allemantheia! Obrigado por fazer a viagem.&lt;BR&gt;&lt;BR&gt;Há uma série de problemas que esta cidade enfrenta. Alguns exigem um toque hábil - um toque de forasteiro. Compartilhar o poder nesta cidade é uma espécie de dança. É intrincada, requer um timing requintado e, se alguém der um passo em falso, vai se machucar por muito tempo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="518" id="8" prevId="7" villagerId="1001">
+         
+        <Page social="5">Como alguém de fora, você tem certa liberdade para conduzir seus negócios. Ainda assim, há céticos. Seu trabalho refletirá sobre todos nós. &lt;BR&gt;&lt;BR&gt;Não que haja alguma pressão.</Page>
+    
+    </Text>
+</QuestDialog>

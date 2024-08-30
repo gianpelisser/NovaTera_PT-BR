@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="49" id="51" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="76" id="100" prevId="0" villagerId="1035">
+         
+        <Page social="0">Caça a monstros comedores de ferro</Page>
+    
+    </Text>
+    <Text huntingZoneId="76" id="2" prevId="0" villagerId="1035">
+         
+        <Page social="4">Vim para Kanstria em busca de ajuda para construir a arma para o meu hushang - minha cerimônia de maioridade. Infelizmente, os argonss chegaram ao mesmo tempo.&lt;NEXTPAGEBUTTON&gt;"Posso ajudar?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">O que eu realmente preciso são fragmentos de iteris. É um passo incomum a ser dado. A maioria das armas hushang é cerimonial, não funcional. Quero que a minha seja diferente.</Page>
+    
+    </Text>
+    <Text huntingZoneId="76" id="3" prevId="2" villagerId="1035">
+         
+        <Page social="5">Uau! Eu posso sentir o poder do fragmento.&lt;BR&gt;&lt;BR&gt;Minha amiga, {@LinkCreature:76#1022}, é hábil em infundir fragmentos de iteris em armas. Vou procurar sua ajuda em seguida.&lt;BR&gt;&lt;BR&gt;Obrigado, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="76" id="4" villagerId="1035">
+         
+        <Page social="0">Conseguiu encontrar os fragmentos?</Page>
+    
+    </Text>
+</QuestDialog>

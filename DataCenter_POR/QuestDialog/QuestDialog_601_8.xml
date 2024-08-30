@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="601" id="8" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="77" id="100" prevId="0" villagerId="3005">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="77" id="2" prevId="0" villagerId="3005">
+         
+        <Page social="4">{@LinkCreature:245#3510#Surdan} fez um pedido de apoio de campo. Naturalmente, pensamos em você.&lt;BR&gt;&lt;BR&gt;Vá para o campo Bace Tenacity e faça o que puder para ajudar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="245" id="3" prevId="2" villagerId="3510">
+         
+        <Page social="4">Ah, sim. Há tanto para estudar e tão pouco tempo.&lt;BR&gt;&lt;BR&gt;Você poderia me ajudar melhor coletando espécimes para estudo. Nada muito perigoso para um soldado como você, é claro.</Page>
+    
+    </Text>
+    <Text huntingZoneId="245" id="4" prevId="2" villagerId="3510">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="245" id="5" prevId="2" villagerId="3510">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="245" id="6" prevId="2" villagerId="3510">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="245" id="7" prevId="3" villagerId="3510">
+         
+        <Page social="4">Ah, ichor de carga de chifre. Intrigante.&lt;BR&gt;&lt;BR&gt;Detecto várias diferenças nisso - contaminação por argons, sem dúvida.</Page>
+    
+    </Text>
+    <Text huntingZoneId="245" id="8" villagerId="3510">
+         
+        <Page social="0">O Ichor de {@LinkCreature:45#2002#argonomorph horntoads} será uma excelente amostra de pesquisa.</Page>
+    
+    </Text>
+    <Text huntingZoneId="245" id="9" prevId="3" villagerId="3510">
+         
+        <Page social="4">Analisarei o sangue e tentarei encontrar a fonte da contaminação. &lt;BR&gt;&lt;BR&gt;Esperemos que consigamos alguma coisa.</Page>
+    
+    </Text>
+    <Text huntingZoneId="245" id="10" villagerId="3510">
+         
+        <Page social="0">O sangue corrompido de {@LinkCreature:45#2001#argonomorph blood fiends} seria um excelente objeto de estudo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="245" id="11" prevId="3" villagerId="3510">
+         
+        <Page social="4">Talvez consigamos desvendar alguma ligação entre as criaturas corrompidas. Obrigado a você.</Page>
+    
+    </Text>
+    <Text huntingZoneId="245" id="12" villagerId="3510">
+         
+        <Page social="0">Quero analisar a lentilha d'água que cresce perto do habitat natural dos {@LinkCreature:45#2002#argonomorph horntoads}.&lt;BR&gt;&lt;BR&gt;Pode ajudar a isolar as mudanças dos argons.</Page>
+    
+    </Text>
+</QuestDialog>

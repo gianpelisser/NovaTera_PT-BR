@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="57" id="30" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="257" id="100" prevId="0" villagerId="1014">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="257" id="2" prevId="0" villagerId="1014">
+         
+        <Page social="4">Meus irmãos mais novos nunca nos deixarão chegar perto de Sikander, nem do templo. Eles se esqueceram de sua missão, de seu dever sagrado! &lt;BR&gt;&lt;BR&gt;Vocês devem matar os defensores sikandari e enfraquecer os hereges.&lt;BR&gt;&lt;BR&gt;Tragam de volta seus brasões. Eles não merecem mais usá-los.</Page>
+    
+    </Text>
+    <Text huntingZoneId="257" id="3" prevId="2" villagerId="1014">
+         
+        <Page social="4">Lamento por meus irmãos mais novos, mas Sikander jamais aprovaria a morte de seu povo por causa dele.&lt;BR&gt;&lt;BR&gt;Não deixe que a morte deles seja em vão, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="257" id="4" villagerId="1014">
+         
+        <Page social="0">Você já lidou com os defensores?</Page>
+    
+    </Text>
+</QuestDialog>

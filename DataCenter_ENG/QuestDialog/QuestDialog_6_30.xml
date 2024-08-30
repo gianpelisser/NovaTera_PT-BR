@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="6" id="30" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="206" id="100" prevId="0" villagerId="1005">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="206" id="2" prevId="0" villagerId="1005">
+         
+        <Page social="5">As long as you're here, you may as well help out.&lt;BR&gt;&lt;BR&gt;There are too many Gutrends around here. If you knock out some of the {@LinkCreature:6#1081#Gutrend skullcrushers} at the front, it might make them fall back a bit.&lt;BR&gt;&lt;BR&gt;Good luck.</Page>
+    
+    </Text>
+    <Text huntingZoneId="206" id="3" prevId="2" villagerId="1005">
+         
+        <Page social="5">Great, thank you. That should make this a bit easier.</Page>
+    
+    </Text>
+</QuestDialog>

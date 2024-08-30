@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="33" id="29" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="233" id="100" prevId="0" villagerId="1013">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="233" id="2" prevId="0" villagerId="1013">
+         
+        <Page social="4">A Guarda Sanguinária é a unidade de elite mais importante de Thulsa. Eles protegem este lugar e, portanto, são uma séria ameaça para a guarnição da federação. Pior, eles parecem estar tramando alguma coisa ultimamente.&lt;BR&gt;&lt;BR&gt;Você pode encontrar a Guarda Sanguinária {@LinkCreature:33#10#mages}, {@LinkCreature:33#60#sorcerers} e {@LinkCreature:33#70#arcanists} perto das Catacumbas Gritantes e da Prisão da Distorção.&lt;BR&gt;&lt;BR&gt;Traga de volta qualquer informação que encontrar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="3" prevId="2" villagerId="1013">
+         
+        <Page social="4">O que você encontrou? Hmm... precisaremos estudar isso mais a fundo, mas pode responder às nossas perguntas sobre como o poder de Thulsa está apoiando a Guarda Sanguínea.&lt;BR&gt;&lt;BR&gt;Antes que eu me estenda muito sobre isso, aqui está sua recompensa!</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="4" villagerId="1013">
+         
+        <Page social="0">Você pode encontrar os Guardas Sanguinários {@LinkCreature:33#10#mages}, {@LinkCreature:33#60#sorcerers} e {@LinkCreature:33#70#arcanists} perto das Catacumbas Gritantes e da Prisão da Distorção.</Page>
+    
+    </Text>
+</QuestDialog>

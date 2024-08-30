@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="182" id="5" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="182" id="100" prevId="0" villagerId="2015">
+         
+        <Page social="0">As evidências foram encontradas no posto temporário de Archdevan, mas Cromagh as quebrou. Para restaurar a evidência quebrada, &lt;PCNAME&gt; saiu para encontrar alguém que costumava ser o maior xamã dos Parthians.</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="2" prevId="0" villagerId="2015">
+         
+        <Page social="1">Não é todo arquidevais que tem um desses talismãs - apenas os que conseguem controlar a magia negra. Acho que são os sacerdotes. Cada um deles usa um pingente que controla os talismãs.&lt;NEXTPAGEBUTTON&gt;"Tem certeza de que são os sacerdotes?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Há uma maneira fácil de ter certeza. Basta ir ao campo de treinamento na curva e matar todos os sacerdotes arquidivanos que encontrar. Se um deles tiver um pingente, então Cromagh está certo! &lt;NEXTPAGEBUTTON&gt;"Por que não pensei nisso?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Você provavelmente não é tão astuto quanto Cromagh, o Astuto.&lt;NEXTPAGEBUTTON&gt;"É verdade. Onde encontrarei os sacerdotes?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Você está com sorte! Eles estão todos na parte de trás do acampamento, atrás de uma dúzia ou mais de tropas partas, então você tem a garantia de uma boa batalha!</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="3" prevId="2" villagerId="2015">
+         
+        <Page social="4">Você ainda está vivo! Cromagh pode tê-lo subestimado.&lt;BR&gt;&lt;BR&gt;Então, você conseguiu o pingente? &lt;NEXTPAGEBUTTON&gt;"Aqui está."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="4" villagerId="2015">
+         
+        <Page social="0">Você recebeu o pingente de controle? Não? Cromagh não está surpreso - o combate pode ser assustador no início. Você só precisa tentar de novo, até encontrar coragem.&lt;BR&gt;&lt;BR&gt;E antes que você pergunte: Não, Cromagh não vai buscar o pingente para você. Você tem que aprender a fazer essas coisas por si mesmo!</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="5" prevId="3" villagerId="2015">
+         
+        <Page social="1">Uma coisa tão pequena. Que destino estranho termos de sofrer tanto por causa de uma pequena bugiganga."&lt;NEXTPAGEBUTTON&gt;"O que faremos com ela?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Um de nós - e Cromagh quer dizer Cromagh - experimenta. &lt;NEXTPAGEBUTTON&gt;"Por que tem de ser você?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Isso poderia testar os limites da resistência de um mortal, e talvez sua própria sanidade! Cromagh se sentiria mal se você tentasse e isso o transformasse em um pilar de... de... algo realmente desagradável.&lt;BR&gt;&lt;BR&gt;Além disso, Cromagh é um herói! Os heróis sempre correm todos os riscos reais! &lt;NEXTPAGEBUTTON&gt;"Tudo bem, então. Corra o risco."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="6" prevId="5" villagerId="2015">
+         
+        <Page social="1">Cromagh nunca sentiu tanta dor - como o calor de mil erupções cutâneas! Está esgotando a vontade de viver de Cromagh! &lt;BR&gt;&lt;BR&gt;Mamãe! &lt;BR&gt;&lt;BR&gt;Umm...ahem. Isso... não funcionou. E agora parece que está queimado. Bem, o importante é que Cromagh suportou esse teste de sua força indomável, e continua indomável. Eles contarão histórias de Cromagh ao redor da fogueira! &lt;NEXTPAGEBUTTON&gt;"Essa era a única que tínhamos, seu idiota!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Acalme-se, nem tudo está perdido...&lt;BR&gt;&lt;BR&gt;Cromagh tem um novo plano - um plano ainda melhor! &lt;NEXTPAGEBUTTON&gt;"Apenas me diga onde encontrar outro."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Logo abaixo da trilha, há um posto avançado onde uma mística arquidevana chamada Dyona supervisiona o treinamento dos demokrons. Se ela não tiver outro pingente, ela saberá quem tem. Mas você não pode simplesmente arrancar isso dela; Cromagh já tentou. Mas Cromagh conhece outra maneira...&lt;NEXTPAGEBUTTON&gt;"Continue."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">O Exército Imperial de Archdeva usa mensageiros e eles entregam relatórios para Dyona o tempo todo. Basta matar um mensageiro, aproximar-se de Dyona e dizer a ela que o campo de treinamento precisa de um novo pingente. Se ela não tiver um, ela lhe dirá onde conseguir um! &lt;NEXTPAGEBUTTON&gt;"Isso... realmente faz sentido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="7" prevId="6" villagerId="2041">
+         
+        <Page social="1">Ah, estou entendendo: Você é apenas uma criança. Que bom. Deveríamos estar colocando todos os escravos partas para trabalhar.&lt;BR&gt;&lt;BR&gt;Bem, você tem alguma mensagem para mim? Ou terei que rasgá-lo e ler suas entranhas? &lt;NEXTPAGEBUTTON&gt;"Minhas desculpas, senhora! Sou novo! Aqui está."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Mais rápido, da próxima vez, escravo.&lt;BR&gt;&lt;BR&gt;Que bobagem é essa? O campo de treinamento perdeu seu pingente de controle? Esses palhaços incompetentes! Tenho coisas melhores para fazer! &lt;BR&gt;&lt;BR&gt;Muito bem. Entregue esta mensagem ao xamã, Keezar.&lt;BR&gt;&lt;BR&gt;Vá para o leste daqui, e você verá uma caverna. Keezar está lá dentro. Dê a ela essa Essência de Demokron e ela lhe dará um substituto.&lt;NEXTPAGEBUTTON&gt;"Obrigado. Um... salve, Lakan?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="8" villagerId="2041">
+         
+        <Page social="0">Você não se parece com um parta. Na verdade, você parece um daqueles forasteiros! Terei prazer em ver meus Arachnen Taskmistresses o destruindo!</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="9" prevId="7" villagerId="2032">
+         
+        <Page social="1">Você não é um mensageiro. Certamente não é um arquideva, nem um parthiano, nem mesmo um khiriano. Você não é nem mesmo um baraka de Highwatch, é? Deixe-me olhar para você.&lt;BR&gt;&lt;BR&gt;Ah, estou vendo... um visitante do sul... um herói de sua espécie, em uma missão neste último cantinho do mundo para trazer paz a uma terra conturbada. Os espíritos sussurram para mim sobre seus feitos e suas necessidades...&lt;BR&gt;&lt;BR&gt;...&lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"Eu... entendo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</QuestDialog>

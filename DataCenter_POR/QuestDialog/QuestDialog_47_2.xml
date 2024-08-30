@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="47" id="2" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">{@LinkCreature:528#5005$$Tamur} disse que você precisa de alguns equipamentos para a Floresta Tirkai.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="0">Rascunho de ordens: Apresente-se ao comandante adjunto Ukenul para discutir estratégias para a guerra de argons.</Page>
+    
+    </Text>
+    <Text huntingZoneId="528" id="3" prevId="2" villagerId="5011">
+         
+        <Page social="0">Espero que isso seja útil para você.</Page>
+    
+    </Text>
+</QuestDialog>

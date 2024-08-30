@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="605" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="63" id="100" prevId="0" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="2" prevId="0" villagerId="3003">
+         
+        <Page social="4">Está aqui para ajudar? &lt;NEXTPAGEBUTTON&gt;"Claro. O que posso fazer por você?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Você pode dar uma mãozinha para {@LinkCreature:63#3002#Taratia}? Ela está tentando encontrar alguns materiais de artesanato de que precisamos desesperadamente.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="3002">
+         
+        <Page social="4">Então, {@LinkCreature:63#3003#Elthienne} enviou alguém para me ajudar, hein? Já não era sem tempo! &lt;BR&gt;&lt;BR&gt;Há dias estamos dizendo aos clientes para procurarem em outros lugares os itens que deveríamos ter em estoque.&lt;BR&gt;&lt;BR&gt;Pode me ajudar a conseguir o que preciso?</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="4" prevId="2" villagerId="3002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="5" prevId="2" villagerId="3002">
+         
+        <Page social="4" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="6" prevId="2" villagerId="3002">
+         
+        <Page social="5">Obrigado. Agora posso atender a todas as encomendas pendentes.&lt;BR&gt;&lt;BR&gt;Obrigado {@LinkCreature:63#3003#Elthienne} por tê-lo enviado para mim. Em seguida, calce-a e dê-lhe um chute nas canelas. Brincadeira!</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="7" villagerId="3002">
+         
+        <Page social="0">Preciso de fibra de verdra. Você sabe o que é isso, certo?</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="8" prevId="6" villagerId="3002">
+         
+        <Page social="5">Que bom! Coisas! &lt;BR&gt;&lt;BR&gt;Diga a {@LinkCreature:63#3003#Elthienne} que isso é uma grande ajuda.&lt;BR&gt;&lt;BR&gt;Obrigado, &lt;PCNAME&gt;!</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="9" villagerId="3002">
+         
+        <Page social="0">Você tem a mercadoria? &lt;BR&gt;&lt;BR&gt;O couro da aurora? Não estou vendo...&lt;BR&gt;&lt;BR&gt;Sério? Por que, em nome de Velik, você ainda está aqui? &lt;BR&gt;&lt;BR&gt;Você sabe o quão popular é o couro da aurora?</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="10" prevId="8" villagerId="3003">
+         
+        <Page social="4">&lt;PCNAME&gt;, você é muito prestativo. Volte e seja "muito prestativo" sempre que quiser! &lt;BR&gt;&lt;BR&gt;Sério, temos sorte de tê-lo por perto.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="19" id="25" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="219" id="100" prevId="0" villagerId="1019">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="219" id="2" prevId="0" villagerId="1019">
+         
+        <Page social="4">Depois de tudo o que tivemos de fazer para nos livrarmos das hienas, aqui estamos nós, enfrentando mais um problema: golems espantalhos.&lt;BR&gt;&lt;BR&gt;Este lugar está infestado de {@linkcreature:19#3003#reaping harvester golems} e {@linkcreature:19#3001#berserk harvester golems}! A fraqueza deles é o &lt;font color='#660000'&gt;coração de cristal&lt;/font&gt;; destrua-o e o golem se fechará para sempre.&lt;BR&gt;&lt;BR&gt;Por favor, esmague os golems e destrua seus &lt;font color='#660000'&gt;corações de cristal&lt;/font&gt;, depois traga os destroços para mim. Não posso escoltar os comerciantes até sabermos que os golems espantalhos não são mais uma ameaça.</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="3" prevId="2" villagerId="1019">
+         
+        <Page social="4">Sem seus &lt;font color='#660000'&gt;corações de cristal&lt;/font&gt;, esses golems nunca mais ameaçarão ninguém. Obrigado a você. Você salvou o dia, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="4" villagerId="1019">
+         
+        <Page social="0">Destrua os {@linkcreature:19#3003#reaping harvester golems} e {@linkcreature:19#3001#berserk harvester golems} nos Harvester Fields e colete seus &lt;font color='#660000'&gt;crystal hearts&lt;/font&gt;.</Page>
+    
+    </Text>
+</QuestDialog>

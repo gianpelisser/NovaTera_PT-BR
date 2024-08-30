@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="19" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1600">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1600">
+        <Page social="4">Hey! Are you ready for the most dangerous and unforgettable adventure of your life? Well, listen up. This time, there are three power sources at stake! Can you imagine such a thing?! I, for one, could not even think of something like this before! But they're in such places that one can't reach alone... You have your comrades-in-arms, don't you? You'll need their help more than ever. The three targets are in places named: Kezzel's Gorge, Sky Cruiser Endeavor, and The Abscess. Once you find them all, you know what you have to do next! And don't forget about comrades, not much can be done without them! Good luck!</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1600">
+        <Page social="4">Ha, I never doubted you! Once again you've proven to me your strength, resilience, and invincibility! Here's your reward!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="1600">
+        <Page social="0">I wonder how long it will take ...</Page>
+    </Text>
+</QuestDialog>

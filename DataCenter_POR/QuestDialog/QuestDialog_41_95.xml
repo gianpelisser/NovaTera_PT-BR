@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="41" id="95" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="75" id="100" prevId="0" villagerId="1024">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="75" id="2" prevId="0" villagerId="1024">
+         
+        <Page social="0">Precisamos proteger ambas as extremidades do Vale Feral, por isso estou enviando você.&lt;BR&gt;&lt;BR&gt;Caça {@LinkCreature:41#1001#valley hunter arachnens}, {@LinkCreature:41#1002#noralk kamaras} e {@LinkCreature:41#1003#sable sabertooths} em ambos os acessos ao Vale Feral.&lt;BR&gt;&lt;BR&gt;Relate a Jeulile na Estação do Vale Feral quando sua missão estiver concluída.</Page>
+    
+    </Text>
+    <Text huntingZoneId="241" id="3" prevId="2" villagerId="1005">
+         
+        <Page social="4">Com lutadores como você por perto, este lugar está ficando consideravelmente menos perigoso.</Page>
+    
+    </Text>
+    <Text huntingZoneId="241" id="4" villagerId="1005">
+         
+        <Page social="0">A federação está disposta a recompensar a eliminação de {@LinkCreature:41#1001#valley hunter arachnens}, {@LinkCreature:41#1002#noralk kamaras} e {@LinkCreature:41#1003#sable sabertooths} em ambas as extremidades do Feral Valley. Traga de volta a prova de suas mortes, é claro.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="41" id="30" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="241" id="100" prevId="0" villagerId="1019">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="241" id="2" prevId="0" villagerId="1019">
+         
+        <Page social="0">Tanto {@LinkCreature:41#2008#swamp} quanto {@LinkCreature:41#2009#mire tentacullars} vivem nas duas &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=2#-37835,67917,1178&amp;type=1&amp;name=Caves"&gt;cavernas&lt;/A&gt;&lt;/font&gt; logo ao norte daqui.&lt;BR&gt;&lt;BR&gt;Bebemos o sangue deles para nos fortalecermos e o oferecemos como presente de amizade. Kuban está indo em breve visitar os líderes tribais orcs. Seria uma ótima oferta de paz.&lt;BR&gt;&lt;BR&gt;Você pode trazer um pouco para {@LinkCreature:241#1013$$Kuban}?</Page>
+    
+    </Text>
+    <Text huntingZoneId="241" id="3" prevId="2" villagerId="1013">
+         
+        <Page social="0">Ah, o cheiro é maravilhoso. É tudo o que posso fazer para não beber tudo sozinho.&lt;BR&gt;&lt;BR&gt;Talvez apenas um gole...</Page>
+    
+    </Text>
+    <Text huntingZoneId="241" id="4" villagerId="1013">
+         
+        <Page social="0">O sangue tentacullar será um ótimo presente para as tribos que quero trazer para os caminhos da paz.</Page>
+    
+    </Text>
+</QuestDialog>

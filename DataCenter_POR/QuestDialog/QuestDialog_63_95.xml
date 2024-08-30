@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="63" id="95" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="63" id="100" prevId="0" villagerId="9004">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="2" prevId="0" villagerId="9004">
+         
+        <Page social="0">Ei! Não fique em casa durante todo o inverno! &lt;BR&gt;&lt;BR&gt;Eu sou Ambrrr, o mensageiro de Wintera. Venha encontrar {@linkcreature:63#9004#me} em Velika e eu lhe contarei o segredo mais bem guardado do inverno: a emocionante batalha de Wintera! &lt;BR&gt;Você pode aproveitar este jogo por pouco tempo enquanto durar o Wintera, então não demore!</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="9004">
+         
+        <Page social="1">Você veio! &lt;BR&gt;&lt;BR&gt;Está pronto para saber mais sobre nossa batalha de bolas de neve em Wintera?</Page>
+    
+    </Text>
+</QuestDialog>

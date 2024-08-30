@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="29" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="64" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="64" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="4">This base was the heart of our efforts here on the island. There are scattered research camps, and our soldiers down in the Tainted Gorge, but this was where the federation felt confident we were making a difference.&lt;BR&gt;&lt;BR&gt;Anyway, sorry—nostalgia. Like I said, Jorhon's got some work to be done.</Page>
+    
+    </Text>
+    <Text huntingZoneId="64" id="3" prevId="2" villagerId="1006">
+         
+        <Page social="4">Seems like the federation got our request for more people...a bit late. But still, I'm glad for the help. We're all eager to get off this island.</Page>
+    
+    </Text>
+</QuestDialog>

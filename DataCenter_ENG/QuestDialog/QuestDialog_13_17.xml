@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="17" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="64" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0">Adria and Teil thanked you for your valorous service, but said your skills are needed elsewhere.&lt;BR&gt;&lt;BR&gt;They directed you to the flight master, who put you on a pegasus and sent you on a dizzying flight to Velika, where Legate Troius personally welcomed you!</Page>
+    
+    </Text>
+    <Text huntingZoneId="64" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="4">Word is spreading about everything you've done for us here, &lt;PCNAME&gt;. And it's reaching some very well-connected ears.&lt;BR&gt;&lt;BR&gt;Report to &lt;b&gt;Councilor Teil&lt;/b&gt;, he's eager to talk to you.</Page>
+    
+    </Text>
+    <Text huntingZoneId="64" id="3" prevId="2" villagerId="1009">
+         
+        <Page social="4">In the name of the Valkyon Federation, I'd like to extend our thanks for everything you've done. Adria, Sersine, and Leander speak quite highly of you.&lt;BR&gt;&lt;BR&gt;The federation needs good soldiers elsewhere, however. With Karascha's death, we can make do here. It's time for you to go to Velika!&lt;BR&gt;&lt;BR&gt;Find Taleb at the base of the {@LinkCreature:213#1001#pegasus platform} on the eastern cliffs. He'll see to your...travel.&lt;NEXTPAGEBUTTON&gt;"Yes, sir!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="4" prevId="3" villagerId="1001">
+         
+        <Page social="4">I've been expecting you, &lt;PCNAME&gt;. Ever ridden a pegasus? Oh, of course you did...when you first arrived.&lt;BR&gt;&lt;BR&gt;Well, I promise you the experience never gets dull. It's not cheap, but exhiliration never is!&lt;BR&gt;&lt;BR&gt;Flight Master Leiyane will get you saddled up.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="5" prevId="4" villagerId="1016">
+         
+        <Page social="4">We usually use the pegasus for long distances—like back to the mainland and the capital, Velika.&lt;BR&gt;&lt;BR&gt;Just click the &lt;font color='#660000'&gt;Flight button&lt;/font&gt; and choose your destination. It's that easy! For your first trip, you can select &lt;B&gt;Velika&lt;/B&gt; as your destination.&lt;BR&gt;&lt;BR&gt;Oh, and please turn off any magical devices until you've reached your cruising altitude.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="6" prevId="5" villagerId="1097">
+         
+        <Page social="4">Welcome to Velika, City of Wheels! I don't know what you've done for the federation, but it's enough to have a legate personally waiting for you.&lt;BR&gt;&lt;BR&gt;Legate Troius is just ahead and seems most anxious to speak with you.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="7" prevId="6" villagerId="1107">
+         
+        <Page social="4">Hail, &lt;PCNAME&gt;! Commander Seir asked me to personally welcome you to Velika. We're grateful for your tremendous efforts on the Island of Dawn.&lt;BR&gt;&lt;BR&gt;It's recruits like you who will guide the Valkyon Federation to a brighter future!</Page>
+    
+    </Text>
+</QuestDialog>

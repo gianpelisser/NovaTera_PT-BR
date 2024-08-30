@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="24" id="35" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="224" id="100" prevId="0" villagerId="1014">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="224" id="2" prevId="0" villagerId="1014">
+         
+        <Page social="4">Enquanto vocês estavam ocupados com os kulkari, eu fiz um reconhecimento solo ao longo das paredes do cânion.&lt;BR&gt;&lt;BR&gt;Eu encontrei {@LinkCreature:24#19#eldritch warpers} e {@LinkCreature:24#20#blackguards}. É muita coincidência com o avanço dos kulkari. Eu vigiarei os kulkari enquanto você os elimina. Tragam de volta tudo o que encontrarem. Vamos resolver isso.</Page>
+    
+    </Text>
+    <Text huntingZoneId="224" id="3" prevId="2" villagerId="1014">
+         
+        <Page social="4">Nem uma única pista para você também? Hmph. Sei que algo está acontecendo. Teremos que continuar procurando.&lt;BR&gt;&lt;BR&gt;Descanse um pouco e não se esqueça de se manter hidratado! Se você morrer, farei com que você ressuscite só para poder lhe dar uma surra.</Page>
+    
+    </Text>
+    <Text huntingZoneId="224" id="4" villagerId="1014">
+         
+        <Page social="0">Estava esperando por um convite gravado? Vamos lá, soldado!</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="24" id="92" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="66" id="100" prevId="0" villagerId="1008">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="66" id="2" prevId="0" villagerId="1008">
+         
+        <Page social="4">Parece que os lagartos são os próximos na agenda! &lt;BR&gt;&lt;BR&gt;Mate alguns {@LinkCreature:24#5#lagarto-das-tempestades-rápidas} e dê o caso por encerrado.&lt;BR&gt;&lt;BR&gt;Deixe Elston saber quando você tiver dado conta do recado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="224" id="3" prevId="2" villagerId="1008">
+         
+        <Page social="4">Muito obrigado! Agora não precisamos mais nos preocupar em sermos comidos enquanto procuramos relíquias - quero dizer, enquanto patrulhamos a estrada!</Page>
+    
+    </Text>
+    <Text huntingZoneId="224" id="4" villagerId="1008">
+         
+        <Page social="0">Não se assuste. Sob todas essas escamas, dentes, garras e além da cauda pontiaguda, um lagarto veloz da tempestade é tão mortal quanto você.</Page>
+    
+    </Text>
+</QuestDialog>

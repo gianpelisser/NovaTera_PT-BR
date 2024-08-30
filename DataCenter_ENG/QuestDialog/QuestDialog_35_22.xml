@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="35" id="22" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="235" id="100" prevId="0" villagerId="1003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="235" id="2" prevId="0" villagerId="1003">
+         
+        <Page social="6">Thulsa invaded this region because the Croskurn Mines are rich with mana ore—the same used to power the shields of Allemantheia.&lt;BR&gt;&lt;BR&gt;We can surmise that Thulsa is planning an attack on a scale the federation may not survive.&lt;NEXTPAGEBUTTON&gt;"Can he be stopped?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="5">Those who would see our demise will see it soon enough if we lose faith.&lt;BR&gt;&lt;BR&gt;First and foremost, retrieve the mana ore gathered by the legion...before it reaches Thulsa.</Page>
+    
+    </Text>
+    <Text huntingZoneId="235" id="3" prevId="2" villagerId="1003">
+         
+        <Page social="5">Congratulations!&lt;BR&gt;&lt;BR&gt;It's safe to say you stalled Thulsa’s plan.</Page>
+    
+    </Text>
+    <Text huntingZoneId="235" id="4" villagerId="1003">
+         
+        <Page social="0">Please, get that ore before it becomes fuel for Thulsa's fury.</Page>
+    
+    </Text>
+</QuestDialog>

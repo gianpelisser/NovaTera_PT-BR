@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="19" id="32" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="219" id="100" prevId="0" villagerId="1016">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="219" id="2" prevId="0" villagerId="1016">
+         
+        <Page social="4">While you're here...you know, it would probably be best to take their leader out.&lt;BR&gt;&lt;BR&gt;His name is Sidurek, and he seems to have appeared at the same time our people starting getting sick...when they started turning...&lt;NEXTPAGEBUTTON&gt;&amp;quot;So killing him should give us another clue?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">I'm hoping, yes.&lt;BR&gt;&lt;BR&gt;{@linkcreature:19#4009#Sidurek} is probably deep inside the rebels' camp, so be careful of his guards.</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="3" prevId="2" villagerId="1016">
+         
+        <Page social="4">Is he dead? Good. That's good. Did you find any clues?&lt;BR&gt;&lt;BR&gt;A letter? Give it here.&lt;BR&gt;&lt;BR&gt;It speaks of someone named Malachai, a plan, and an item Sidurek received. Hmm.&lt;BR&gt;&lt;BR&gt;We must find out more.</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="4" villagerId="1016">
+         
+        <Page social="0">You must destroy Sidurek before things get even further out of control.</Page>
+    
+    </Text>
+</QuestDialog>

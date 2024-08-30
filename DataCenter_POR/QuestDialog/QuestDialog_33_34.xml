@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="33" id="34" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="233" id="100" prevId="0" villagerId="1014">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="233" id="2" prevId="0" villagerId="1014">
+         
+        <Page social="4">&lt;PCNAME&gt;, ouvi dizer que você não tem medo de sujar as mãos. Eu tenho um trabalho que envolve mãos sujas.&lt;BR&gt;&lt;BR&gt;Ou dedos, na verdade. E os anéis neles.&lt;BR&gt;&lt;BR&gt;Reconheci um rosto entre os mortos-vivos - um velho companheiro de exército. Não sou sentimental, mas o pai dele era joalheiro, e isso me fez pensar. Quantos mortos-vivos estarão carregando objetos de valor?</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="3" prevId="2" villagerId="1014">
+         
+        <Page social="4">Ei, essa é uma pilha e tanto! Deixe-me ver...&lt;BR&gt;&lt;BR&gt;Ei, foi essa que eu vi!&lt;BR&gt;&lt;BR&gt;Eu tenho uma companheira em casa... bem, uma companheira em potencial, pelo menos. Esse é o tipo de coisa com a qual posso selar o acordo, se é que você me entende.&lt;BR&gt;&lt;BR&gt;Não pode ser! É claro que não vou lhe dizer onde consegui isso. Meu pequeno segredo.</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="4" villagerId="1014">
+         
+        <Page social="0">Verifique o porão. Há muitos cadáveres assustadores lá embaixo.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="607" id="10" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="72" id="100" prevId="0" villagerId="1701">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="72" id="2" prevId="0" villagerId="1701">
+         
+        <Page social="4">Queremos enviar os robôs mágicos que desenvolvemos para nossos pesquisadores que trabalham em diferentes locais. Mas é uma viagem longa e as estradas às vezes são perigosas, então... pensamos em você.&lt;BR&gt;&lt;BR&gt;Preparei um controlador de invocação de robôs mágicos para você. Basta usá-lo para convocar um robô mágico para cada pesquisador no campo. E você também pode usá-lo. Nada de errado com um pouco de "teste de campo", não é? &lt;BR&gt;&lt;BR&gt;Klissa tem o controle para você. Divirta-se com os bots!</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="3" prevId="2" villagerId="1703">
+         
+        <Page social="4">Espere, você precisa do controle? &lt;BR&gt;&lt;BR&gt;Desculpe, mas eu emprestei o controle para Fitae e Zerit. Quem sabe para que eles o queriam - provavelmente algo irrelevante.&lt;BR&gt;&lt;BR&gt;Tenho certeza de que um deles o tem. Vá importuná-los!</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="4" prevId="2" villagerId="1703">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="72" id="5" prevId="2" villagerId="1703">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="72" id="6" prevId="3" villagerId="1702">
+         
+        <Page social="4">O controle de invocação do Magic Bot? Claro - aqui está.&lt;BR&gt;&lt;BR&gt;Use-o como qualquer outro item: abra seu inventário, coloque o cursor sobre o controle e clique com o botão direito do mouse.&lt;BR&gt;&lt;BR&gt;Seu destino: Veltor no Refúgio de Balder.</Page>
+    
+    </Text>
+    <Text huntingZoneId="72" id="7" prevId="3" villagerId="1704">
+         
+        <Page social="4">O controle de invocação do Magic Bot? Claro - aqui está.&lt;BR&gt;&lt;BR&gt;Use-o como qualquer outro item: abra seu inventário, coloque o cursor sobre o controle e clique com o botão direito do mouse.&lt;BR&gt;&lt;BR&gt;Seu destino: Sindel, no Refúgio de Balder.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="8" prevId="7" villagerId="1701">
+         
+        <Page social="4">O que o trouxe até aqui? &lt;BR&gt;&lt;BR&gt;Um dispositivo de bot mágico, hein? Deixe-me ver.&lt;NEXTPAGEBUTTON&gt;"Aqui está."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Parece que vai ser útil.&lt;BR&gt;&lt;BR&gt;E, cá entre nós, pode ser divertido também.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="9" villagerId="1701">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="230" id="10" prevId="8" villagerId="1702">
+         
+        <Page social="4">Um dispositivo de robô mágico... o que eles vão pensar em seguida? &lt;NEXTPAGEBUTTON&gt;"Controle-o com isto."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Tenho certeza de que descobrirei como um bot mágico pode ajudar aqui. Ainda assim, isso faz você se perguntar sobre meus colegas em Allemantheia...</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="11" villagerId="1702">
+         
+        <Page social="0" />
+    
+    </Text>
+</QuestDialog>

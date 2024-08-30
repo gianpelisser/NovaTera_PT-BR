@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="38" id="29" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="238" id="100" prevId="0" villagerId="1008">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="238" id="2" prevId="0" villagerId="1008">
+         
+        <Page social="5">Foi você quem eles enviaram de Elenea! Talvez você possa fazer algo a respeito dos príons que queimaram nosso acampamento. Fugimos para cá, mas não é mais defensável, e os príons estão à nossa porta novamente.&lt;BR&gt;&lt;BR&gt;Você nos ajudará?</Page>
+    
+    </Text>
+    <Text huntingZoneId="238" id="3" prevId="2" villagerId="1008">
+         
+        <Page social="5">Obrigado a você. Em breve estaremos escavando novamente, provavelmente bem a tempo de afastar um ou outro deus desonesto.</Page>
+    
+    </Text>
+</QuestDialog>

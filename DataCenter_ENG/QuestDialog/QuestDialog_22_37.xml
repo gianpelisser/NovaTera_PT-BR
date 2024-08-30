@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="22" id="37" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="222" id="100" prevId="0" villagerId="1026">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="222" id="2" prevId="0" villagerId="1026">
+         
+        <Page social="5">My sisters found an altar in the catacombs.&lt;BR&gt;&lt;BR&gt;Mahagi spotted it. She's hiding in the Malefic Laboratories, east of here.&lt;BR&gt;&lt;BR&gt;The {@LinkCreature:22#23#mekonari sorcerers}, {@LinkCreature:22#24#ebon imp thralls}, and {@LinkCreature:22#25#mekonari darkweavers} stand in your way. Obliterate them and find her.</Page>
+    
+    </Text>
+    <Text huntingZoneId="222" id="3" prevId="2" villagerId="1020">
+         
+        <Page social="5">I've heard a lot about you from the others.&lt;BR&gt;&lt;BR&gt;Your hands are covered with the blood of my sister witches, but this is a day all of us are so stained.&lt;BR&gt;&lt;BR&gt;Let's put an end to this.</Page>
+    
+    </Text>
+</QuestDialog>

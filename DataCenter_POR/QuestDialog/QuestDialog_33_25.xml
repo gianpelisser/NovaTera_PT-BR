@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="33" id="25" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="233" id="100" prevId="0" villagerId="1009">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="233" id="2" prevId="0" villagerId="1009">
+         
+        <Page social="0">No Hall of Maidens estão os piores horrores desse buraco do inferno. Estou falando daqueles bonecos assustadores.&lt;BR&gt;&lt;BR&gt;Os {@LinkCreature:33#1#ghost} e os {@LinkCreature:33#2#cursed moppets} podem parecer inofensivos - ou até mesmo bonitinhos - na primeira vez que você vê um, mas quando eles se aglomeram em seu companheiro e o esfolam vivo... bem, isso é muito menos bonito. Isso pode assombrá-lo pelo resto de seus dias.&lt;BR&gt;&lt;BR&gt;Você é corajoso o suficiente para matar alguns?</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="3" prevId="2" villagerId="1009">
+         
+        <Page social="0">Parece que você foi bem-sucedido!&lt;BR&gt;&lt;BR&gt;Bravos &lt;PCNAME&gt;! O-OH SWEET KAIA, HÁ UM EM SUAS COSTAS!&lt;BR&gt;&lt;BR&gt;Espere. Não. Apenas uma sombra. O erro foi meu.</Page>
+    
+    </Text>
+</QuestDialog>

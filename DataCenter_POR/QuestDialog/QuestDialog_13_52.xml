@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="52" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="64" id="100" prevId="0" villagerId="1006">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="64" id="2" prevId="0" villagerId="1006">
+         
+        <Page social="4">Você deveria passar alguns minutos conhecendo a equipe de apoio aqui na Base da Torre.&lt;BR&gt;&lt;BR&gt;Comece com &lt;b&gt;Rutgar, o mercador&lt;/b&gt;. Ele fica ao sul daqui, perto do centro da base.&lt;BR&gt;&lt;BR&gt;E cá entre nós, você tem "aprovação tácita" para ignorar qualquer coisa que aquele arrogante Helier lhe pedir. Ele é o porquinho por aqui.</Page>
+    
+    </Text>
+    <Text huntingZoneId="64" id="3" prevId="2" villagerId="1005">
+         
+        <Page social="4">Bem-vindo, recruta! Eu sou Rutgar e posso ser seu melhor amigo por aqui.&lt;BR&gt;&lt;BR&gt;Nesta ilha, há dois tipos de soldados: aqueles que reabastecem seus suprimentos comigo antes do combate... e os "mortos".</Page>
+    
+    </Text>
+    <Text huntingZoneId="64" id="4" prevId="3" villagerId="1008">
+         
+        <Page social="4">Em uma ilha como esta, o domínio da magia é fundamental. Ajudar os recrutas a atingir esse domínio - ou a atingir a adequação, de qualquer forma - traz um sorriso ao meu rosto.&lt;BR&gt;&lt;BR&gt;Qualquer pessoa que deseje receber instruções sobre magia não precisa procurar mais, mas não tenho talento para a "arte" brutal de agitar objetos afiados. Isso é responsabilidade de Gurney.&lt;NEXTPAGEBUTTON&gt;"Entendi."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Será que Elleon está realmente desaparecido de novo? Para um "herói da federação", seria de se supor que ele soubesse como deixar um bilhete.&lt;BR&gt;&lt;BR&gt;É claro, o que significa "herói da federação"?</Page>
+    
+    </Text>
+    <Text huntingZoneId="64" id="5" prevId="4" villagerId="1048">
+         
+        <Page social="4">Tanto mistério e tanta beleza nesta ilha. No entanto, tantos segredos.&lt;BR&gt;&lt;BR&gt;Talvez o maior segredo: por que os titãs esconderiam essa bela ilha?&lt;BR&gt;&lt;BR&gt;E o segundo maior segredo: por que os titãs a revelariam?&lt;NEXTPAGEBUTTON&gt;"Hmmm..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">A ilha é um presente para nós de muitas maneiras, e eu ensino os recrutas a coletar os presentes da ilha para uso posterior.&lt;BR&gt;&lt;BR&gt;Não deixe que um instrutor humilde o impeça de fazer suas rondas designadas, no entanto. O dever o chama!</Page>
+    
+    </Text>
+</QuestDialog>

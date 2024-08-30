@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="601" id="10" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="77" id="100" prevId="0" villagerId="3005">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="77" id="2" prevId="0" villagerId="3005">
+         
+        <Page social="4">Vá para {@Rgn:45001$$Thrallhold} e visite {@LinkCreature:245#3511#Volvur} em {@Rgn:45009}.&lt;BR&gt;&lt;BR&gt;Ele encontrou um obstáculo em sua investigação e solicitou alguém com suas habilidades específicas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="245" id="3" prevId="2" villagerId="3511">
+         
+        <Page social="4">Minha pesquisa se concentra na ligação entre os argons e o impacto que eles causam no mundo. É muito mais empolgante do que parece.&lt;BR&gt;&lt;BR&gt;Eu vou contar com você para coletar amostras, principalmente de coisas que possam tentar me comer.</Page>
+    
+    </Text>
+    <Text huntingZoneId="245" id="4" prevId="2" villagerId="3511">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="245" id="5" prevId="2" villagerId="3511">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="245" id="6" prevId="2" villagerId="3511">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="245" id="7" prevId="2" villagerId="3511">
+         
+        <Page social="4">Oh, estes servirão muito bem.&lt;BR&gt;&lt;BR&gt;Agradeço sua ajuda, assim como todo o Invalesco.</Page>
+    
+    </Text>
+    <Text huntingZoneId="245" id="8" villagerId="3511">
+         
+        <Page social="0">É impressionante o que se pode aprender com os dentes de uma criatura. Eu gostaria de me concentrar em {@LinkCreature:45#3004#athakela stalkers}.&lt;BR&gt;&lt;BR&gt;Caça-os e traga-me suas presas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="245" id="9" prevId="7" villagerId="3511">
+         
+        <Page social="4">Bem, isso é ao mesmo tempo fascinante e nojento.&lt;BR&gt;&lt;BR&gt;Oh, bem. Ninguém me prometeu dedos limpos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="245" id="10" villagerId="3511">
+         
+        <Page social="0">Estou curioso sobre as mudanças biológicas em {@LinkCreature:45#4002#argonomorph tuwangis}.&lt;BR&gt;&lt;BR&gt;Traga-me amostras do sangue deles para comparação.</Page>
+    
+    </Text>
+    <Text huntingZoneId="245" id="11" prevId="9" villagerId="3511">
+         
+        <Page social="4">Ah, sim. Minério de argons.&lt;BR&gt;&lt;BR&gt;Não é realmente feito de argons, é claro, mas suspeito que sua presença tenha impactado o mineral mesmo assim.</Page>
+    
+    </Text>
+    <Text huntingZoneId="245" id="12" villagerId="3511">
+         
+        <Page social="0">Gostaria de amostras de minério de argonita. É um mineral relativamente raro que a Invalesco acredita estar ligado ao trabalho que os argonss fizeram aqui.&lt;BR&gt;&lt;BR&gt;Por favor, colete algumas para mim.</Page>
+    
+    </Text>
+</QuestDialog>

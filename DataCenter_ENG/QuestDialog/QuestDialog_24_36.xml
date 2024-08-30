@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="24" id="36" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="224" id="100" prevId="0" villagerId="1002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="224" id="2" prevId="0" villagerId="1002">
+         
+        <Page social="5">The ruins are a fertile source of information about the fall of the giants' civilization, but the {@LinkCreature:24#10#greedy vulcans} prevent any studies of the area.&lt;BR&gt;&lt;BR&gt;I'm a scholar, not a warrior. Will you aid us and clear the way?</Page>
+    
+    </Text>
+    <Text huntingZoneId="224" id="3" prevId="2" villagerId="1002">
+         
+        <Page social="5">With their ranks thinned, perhaps we can make progress on the ruins. &lt;BR&gt;&lt;BR&gt;I am grateful to you.</Page>
+    
+    </Text>
+</QuestDialog>

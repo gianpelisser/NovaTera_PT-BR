@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="41" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
+         
+        <Page social="0">Os orcs de Feral Valley se dividiram em dois lados: um que deseja continuar lutando contra a federação e o outro que busca a paz. Karba, o líder do grupo de orcs a favor da paz, solicitou que você eliminasse o líder do grupo a favor da guerra. Você caiu na armadilha dos orcs belicistas e, ainda assim, conseguiu cumprir com sucesso a missão de subjugação dele. Mas quando a federação decidiu que os recursos para ajudar a facção pró-federação não poderiam ser poupados, os orcs pacíficos foram deixados por conta própria.</Page>
+    
+    </Text>
+    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
+         
+        <Page social="5">Ordens de missão&lt;BR&gt;&lt;BR&gt;Os acampamentos orcanos em guerra no Vale Feral uniram forças e atacaram a federação perto de Val Palrada. Consulte Primus Lauma para obter detalhes da missão.&lt;BR&gt;&lt;BR&gt;-Allemantheia Comandante Fraya</Page>
+    
+    </Text>
+    <Text huntingZoneId="75" id="3" prevId="2" villagerId="1007">
+         
+        <Page social="5">Essa súbita aliança orcana nos colocou em um beco sem saída. A única boa notícia é que nem todos os orcs fazem parte dela - alguns até vieram para cá em busca de asilo, se é que dá para acreditar nisso.&lt;BR&gt;&lt;BR&gt;Grunath deve ter as últimas informações sobre os orcs. Gostaria que você falasse com ele. Precisamos de mais informações para formular um plano viável.</Page>
+    
+    </Text>
+    <Text huntingZoneId="241" id="4" prevId="3" villagerId="1025">
+         
+        <Page social="5">Se quiser saber sobre os orcs, acho que os jovens orcs que se refugiaram conosco seriam uma fonte de informação melhor do que eu.&lt;BR&gt;&lt;BR&gt;O que é surpreendente é que esses jovens orcs são tão inteligentes quanto você e eu.&lt;BR&gt;&lt;BR&gt;Eu estou tão surpreso quanto qualquer um. De qualquer forma, vá até o Posto Avançado Experior e fale com Kechaku. Talvez você aprenda bastante.</Page>
+    
+    </Text>
+    <Text huntingZoneId="241" id="5" prevId="4" villagerId="1012">
+         
+        <Page social="5">Nossa tribo sabe há muito tempo que precisamos fazer as pazes com a federação, mas aqueles tolos dos Garras Negras...&lt;BR&gt;&lt;BR&gt;São os {@LinkCreature:41#301#gula executors} que estão por trás de grande parte da guerra. Se pudermos expulsá-los, os Garras Negras talvez não estejam tão ansiosos para lutar. Quando você terminar, apresente-se a {@LinkCreature:241#1022$$Paduk}.</Page>
+    
+    </Text>
+    <Text huntingZoneId="241" id="6" prevId="5" villagerId="1012">
+         
+        <Page social="5">Excelente trabalho. Confusão total entre esses belicistas. Ha, ha, ha! &lt;BR&gt;&lt;BR&gt;Mas com seu chefe ainda vivo, eles se reorganizarão em breve.&lt;BR&gt;&lt;BR&gt;O chefe deles deve morrer. É simples assim.&lt;BR&gt;&lt;BR&gt;Bem, não exatamente simples. Pegue esta flauta de invocação e vá até o covil dos tentaculares. Ele fica do lado direito quando você segue a estrada para o sul a partir daqui.&lt;BR&gt;&lt;BR&gt;Dentro do covil está &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7013#-38952.0625,63845.6445,1011.6011&amp;type=1&amp;name=Paxomnia"&gt;Paxomnia&lt;/A&gt;&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;Use a flauta de invocação para entrar em contato com nosso colaborador orcano. &lt;BR&gt;&lt;BR&gt;Ele o ajudará a se livrar do chefe.&lt;BR&gt;&lt;BR&gt;Traga a cabeça do chefe ao nosso líder, Karba, O Reverenciado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="241" id="7" prevId="6" villagerId="1026">
+         
+        <Page social="5">Você quer saber sobre o chefe? Graatush lhe contará sobre o chefe. Vá para o sul do Feral Valley e encontre {@LinkCreature:41#302#Badoask the Battlerager}. Mate-o e leve sua cabeça para Karba the Revered.</Page>
+    
+    </Text>
+    <Text huntingZoneId="241" id="8" prevId="7" villagerId="1021">
+         
+        <Page social="4">Isso não pode ser! O que você fez? Badoask não é o chefe dos criadores de guerra! Como pode ter acontecido um erro tão terrível? O que você fez? &lt;NEXTPAGEBUTTON&gt;"Gratuush disse..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Gratuush?!&lt;BR&gt;&lt;BR&gt;Gratuush é o braço direito do chefe guerreiro! Ele o enganou para que você matasse nosso grande e bom amigo Badoask.&lt;BR&gt;&lt;BR&gt;Mata o mestre dele! Mate {@LinkCreature:41#303#Vadrask}, o chefe guerreiro! &lt;BR&gt;&lt;BR&gt;Traga-me sua cabeça!</Page>
+    
+    </Text>
+    <Text huntingZoneId="241" id="9" villagerId="1021">
+         
+        <Page social="0">Não direi mais nada até ver a cabeça de {@LinkCreature:41#303#Vadrask}.</Page>
+    
+    </Text>
+    <Text huntingZoneId="241" id="10" prevId="8" villagerId="1021">
+         
+        <Page social="4">É isso: a cabeça do odiado Vadrask. Agora Gratuush e o resto dos orcs não terão coragem de atacar a federação.&lt;BR&gt;&lt;BR&gt;Ainda assim, a maioria não nos ouvirá, e ainda deseja a guerra. Eles nos vêem como covardes.&lt;BR&gt;&lt;BR&gt;A federação poderia atacar agora e vencer, mas eu espero pela paz.&lt;BR&gt;&lt;BR&gt;Por favor, leve esta carta ao Prefeito Lauma em Frontera. Eu escrevi meu desejo de paz. Talvez a federação veja a verdade disso lá.</Page>
+    
+    </Text>
+    <Text huntingZoneId="241" id="11" villagerId="1021">
+         
+        <Page social="0">Vadrask! Eu cuspi em seu nome. Você tem a cabeça dele?</Page>
+    
+    </Text>
+    <Text huntingZoneId="75" id="12" prevId="10" villagerId="1007">
+         
+        <Page social="5">O Honrado Karba quer paz.&lt;BR&gt;&lt;BR&gt;Talvez isso seja verdade, mas sua facção é uma pequena minoria de orcs. Não podemos dispensar os recursos para ajudá-los, a menos que possamos garantir que eles possam assumir o controle.&lt;NEXTPAGEBUTTON&gt;"Mas eles precisam da nossa ajuda!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Karba é eloquente, mas apenas suas palavras não convencerão o Comando Valkyon. Enviarei a carta a eles na esperança de que possam ver as vantagens de ter esses orcs do nosso lado.&lt;BR&gt;&lt;BR&gt;Não espere muito, &lt;PCNAME&gt;. Às vezes, acho que nossos altos comandantes têm medo da paz.</Page>
+    
+    </Text>
+</QuestDialog>

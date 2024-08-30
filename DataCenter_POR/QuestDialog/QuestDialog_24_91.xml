@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="24" id="91" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="66" id="100" prevId="0" villagerId="1008">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="66" id="2" prevId="0" villagerId="1008">
+         
+        <Page social="4">Você não pode andar vinte metros sem que as {@LinkCreature:24#15#sandpaw hyenas} e os {@LinkCreature:24#16#desertcrawler wolves} corram para você. Os aldeões não podem viver assim, e os guardas não podem fazer suas rondas. Preciso de alguém para eliminar as matilhas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="66" id="3" prevId="2" villagerId="1008">
+         
+        <Page social="4">Que alívio! Com esses catadores fora do caminho, os guardas podem fazer suas rondas com segurança.</Page>
+    
+    </Text>
+    <Text huntingZoneId="66" id="4" villagerId="1008">
+         
+        <Page social="0">Quantas hienas e lobos você já matou? Alguma?</Page>
+    
+    </Text>
+</QuestDialog>

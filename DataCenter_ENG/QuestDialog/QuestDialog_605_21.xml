@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="605" id="21" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="63" id="100" prevId="0" villagerId="3002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="2" prevId="0" villagerId="3002">
+         
+        <Page social="4">Would you like to do some crafting today? Please say "yes!"&lt;BR&gt;&lt;BR&gt;Wonderful! It's my day off. Not officially. Actually...I told {@LinkCreature:63#3003#Elthienne} I'm sick, so I'm sure she'll need your fine crafting skills.&lt;BR&gt;&lt;BR&gt;See? We both win!</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="3003">
+         
+        <Page social="0">Good to see you!&lt;BR&gt;&lt;BR&gt;Taratia is sick, and Barian needs a highly-skilled crafter today. Actually, I'm sure he'll be happier to work with you. And a day without Taratia bugging me is like a vacation day. Deliver your completed work to {@LinkCreature:63#3001#Barian}.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="4" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="5" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="6" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="7" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="8" prevId="2" villagerId="3001">
+         
+        <Page social="5">Fabulous work, as usual.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} will settle up with you. I hear she's feeling well enough to make payments.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="9" villagerId="3001">
+         
+        <Page social="0">Make linsteel ingots and bring them to me.&lt;BR&gt;&lt;BR&gt;Oh, by the way, are you interested in joining the Hands of Velika? Did I already ask you that? Not interested?&lt;BR&gt;&lt;BR&gt;I understand, soldier, you're very busy.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="10" prevId="8" villagerId="3001">
+         
+        <Page social="5">Thanks, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;See {@LinkCreature:63#3002#Taratia} for payment. I hear she's feeling well enough to pay bills.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="11" villagerId="3001">
+         
+        <Page social="0">Make some aerosilex and bring it to me. Should be no problem if you have the chops...and I know you do.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="12" prevId="10" villagerId="3001">
+         
+        <Page social="5">&lt;PCNAME&gt;, that was fast!&lt;BR&gt;&lt;BR&gt;Tell {@LinkCreature:63#3002#Taratia} I said you deserve a tip, especially as she's playing hooky today.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="13" villagerId="3001">
+         
+        <Page social="0">Make some boscleather and bring it to me as soon as you're finished. I need it for some armor I'm working on.&lt;BR&gt;&lt;BR&gt; Elthienne plans to send a Hands of Velika member out on a dangerous mission. We Hands make sure our members are well-protected in the field.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="14" prevId="12" villagerId="3001">
+         
+        <Page social="5">I hope you'll come back soon, &lt;PCNAME&gt;. Your work is top-notch.&lt;BR&gt;&lt;BR&gt;Oh, will you tell {@LinkCreature:63#3002#Taratia} I said she's a lying sack of hyena dung? Sure, she's sick. We can't all take a mental health day, you know.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="15" villagerId="3001">
+         
+        <Page social="0">Craft some sylvacloth and bring it to me.&lt;BR&gt;&lt;BR&gt;Thanks for all your hard work, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="16" prevId="14" villagerId="3002">
+         
+        <Page social="4">Nice work. You're giving me a run for my money, that's for sure.&lt;BR&gt;&lt;BR&gt;Guess I'd better not take too many "sick" days with you around. I'll be out of a job!</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="8" id="24" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="208" id="100" prevId="0" villagerId="1002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="208" id="2" prevId="0" villagerId="1002">
+         
+        <Page social="4">Next on the hit parade: {@LinkCreature:8#2021#caiman mercenaries} and {@LinkCreature:8#2042#guards}&lt;BR&gt;&lt;BR&gt;We're diminishing their numbers, but we're also sending a message: it's bad business to work for gulas.&lt;BR&gt;&lt;BR&gt;Wipe them out. Yank their fangs, too. I'll make a necklace.</Page>
+    
+    </Text>
+    <Text huntingZoneId="208" id="3" prevId="2" villagerId="1002">
+         
+        <Page social="4">Glad to hear they're dead. Those things give me the creeps.</Page>
+    
+    </Text>
+    <Text huntingZoneId="208" id="4" villagerId="1002">
+         
+        <Page social="0">We need to send a message. Make sure you sign it in blood.</Page>
+    
+    </Text>
+</QuestDialog>

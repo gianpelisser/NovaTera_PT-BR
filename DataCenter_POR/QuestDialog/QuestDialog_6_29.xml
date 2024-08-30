@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="6" id="29" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="206" id="100" prevId="0" villagerId="1005">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="206" id="2" prevId="0" villagerId="1005">
+         
+        <Page social="5">Quando você estava lidando com as escoltas de Gutrend, por acaso encontrou uma guarda chamada {@LinkCreature:206#1020#Dakona}? Ela está guardando o posto avançado temporário ao norte de Echo Ranch. Na verdade, é a única que está lá.&lt;BR&gt;&lt;BR&gt;Para falar a verdade, estou preocupado com ela. É difícil ser o único guarda em uma área.&lt;BR&gt;&lt;BR&gt;Você poderia dar uma olhada nela?</Page>
+    
+    </Text>
+    <Text huntingZoneId="206" id="3" prevId="2" villagerId="1020">
+         
+        <Page social="13">Lethar o enviou para ver como eu estava? É mesmo? Estúpido! &lt;BR&gt;&lt;BR&gt;Ele parece pensar que a maneira de demonstrar afeição por alguém é mostrar uma total falta de fé em suas habilidades. Sinceramente.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="181" id="4" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="183" id="100" prevId="0" villagerId="2033">
+         
+        <Page social="0">Após o incidente do Vault of Oriyn, todas as forças da Highwatch se reuniram para fazer o melhor possível para encontrar Verikam e proteger a cidade.&lt;BR&gt;&lt;BR&gt;Isso reduziu o número de soldados que lutariam contra os demokrons que invadiram Havenstone, levando &lt;PCNAME&gt;a ajudar os barakas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="183" id="2" prevId="0" villagerId="2033">
+         
+        <Page social="4">Você é aquele de quem Omeros falou! &lt;BR&gt;&lt;BR&gt;Vindo para Havenstone? Tenho um pedido a lhe fazer.&lt;BR&gt;&lt;BR&gt;Com todos procurando O Grande Ancião Verikam, nossas forças estão reduzidas e não podemos patrulhar a estrada como deveríamos.&lt;BR&gt;&lt;BR&gt;Se você conseguir matar demokrons no caminho para o Laboratório de Arqueologia, nós o recompensaremos.&lt;NEXTPAGEBUTTON&gt;"Farei o que puder."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="181" id="3" prevId="2" villagerId="1031">
+         
+        <Page social="4">Ah! Sim, você é &lt;PCNAME&gt;, o visitante do sul.&lt;BR&gt;&lt;BR&gt;Obrigado por nos ajudar.&lt;NEXTPAGEBUTTON&gt;"Espero que o que estou fazendo esteja ajudando."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</QuestDialog>

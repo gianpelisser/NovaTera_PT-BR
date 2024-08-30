@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="38" id="27" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="238" id="100" prevId="0" villagerId="1019">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="238" id="2" prevId="0" villagerId="1019">
+         
+        <Page social="5">Quando vinha do Wyvern Watch para cá, tive uma visão maravilhosa. Era um mycanar, um tipo de espírito da natureza como um ghilliedhu, e pensei ter visto uma enorme espada grande cravada em suas costas.&lt;BR&gt;&lt;BR&gt;Não fiquei para lutar com ele, é claro, mas não consigo parar de pensar naquela espada.&lt;BR&gt;&lt;BR&gt;Você já está curioso, &lt;PCNAME&gt;? Com certeza estou. Encontre-o e me traga essa espada. Ela é um pedaço da história.</Page>
+    
+    </Text>
+    <Text huntingZoneId="238" id="3" prevId="2" villagerId="1019">
+         
+        <Page social="5">Essa é a espada? Mas não é nada antiga! É um mistério, &lt;PCNAME&gt;. Talvez os gigantes ainda estejam por aí... em algum lugar. Ou talvez não.&lt;BR&gt;&lt;BR&gt;Eu adoro um mistério, e você?</Page>
+    
+    </Text>
+    <Text huntingZoneId="238" id="4" villagerId="1019">
+         
+        <Page social="0">Sim, eu sei que o mycanar é grande e resistente. Por que você acha que eu mesmo não quis lutar com ele? Mesmo assim, eu lhe pagarei bem pela espada.</Page>
+    
+    </Text>
+</QuestDialog>

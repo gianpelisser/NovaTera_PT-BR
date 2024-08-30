@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="605" id="18" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="63" id="100" prevId="0" villagerId="3002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="2" prevId="0" villagerId="3002">
+         
+        <Page social="4">Estamos com pouca comida. Tipo, muito pouca. {@LinkCreature:63#3003#Elthienne} quer que alguém vá até {@Rgn:7001#Celestial Hills} imediatamente e nos traga algumas rações.&lt;BR&gt;&lt;BR&gt;Diga a ela que você está disponível, pois claramente está. Olhe para mim, estou tremendo!</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="3003">
+         
+        <Page social="4">&lt;PCNAME&gt;, Taratia lhe disse que precisamos de alguém para ir às {@Rgn:7001#Celestial Hills} para uma boa e velha caçada? Você vai?</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="4" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="5" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="6" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="7" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="8" prevId="2" villagerId="3002">
+         
+        <Page social="5">Uau! {@LinkCreature:63#3003#Elthienne} ficará muito feliz por você ter voltado. Estamos praticamente morrendo de fome.&lt;BR&gt;&lt;BR&gt;Você não acha que isso seria possível na cidade grande, acha?</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="9" villagerId="3002">
+         
+        <Page social="0">Cace {@LinkCreature:7#1$$naga mercenários} nas {@Rgn:7001#Celestial Hills} e traga de volta um pouco de carne fresca.&lt;BR&gt;&lt;BR&gt;Vá! Rápido! Nunca senti tanta fome em toda a minha vida. Não dá para acreditar como as pessoas são gananciosas por aqui. Compartilhar não é cuidar em Velika. Não ultimamente.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="10" prevId="8" villagerId="3002">
+         
+        <Page social="5">Obrigado, &lt;PCNAME&gt;. Isso é fresco, certo? Tem um cheiro bom.&lt;BR&gt;&lt;BR&gt;Deixe {@LinkCreature:63#3003#Elthienne} saber que você voltou. Porque ela provavelmente não pode ver você. Estou sendo sarcástico.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="11" villagerId="3002">
+         
+        <Page social="0">Cace {@LinkCreature:7#3$$$indolente kumases} nas {@Rgn:7001#Celestial Hills} e traga de volta uma deliciosa gordura de kumas.&lt;BR&gt;&lt;BR&gt;É realmente muito boa. Ei, quem pede não pode escolher.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="12" prevId="10" villagerId="3002">
+         
+        <Page social="5">Mal posso esperar para fazer algo saboroso com isso. Obrigado, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} tem seu pagamento.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="13" villagerId="3002">
+         
+        <Page social="0">Cace {@LinkCreature:7#4$$torpid kumases} nas {@Rgn:7001#Celestial Hills} e traga de volta a gordura de kumas.&lt;BR&gt;&lt;BR&gt;Se não estivéssemos com tanta fome, eu poderia fazer batom com essa gordura. Você precisa tingi-la, é claro, se quiser que seus lábios realmente se destaquem. Eew, esse foi um visual estranho.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="14" prevId="12" villagerId="3002">
+         
+        <Page social="5">Obrigado, &lt;PCNAME&gt;. Isso é fresco e maravilhoso. Quer voltar para jantar? &lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} terá prazer em colocar um lugar extra na mesa para você.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="15" villagerId="3002">
+         
+        <Page social="0">Cace {@LinkCreature:7#23$$juggernaut mercenaries} em {@Rgn:7001#Celestial Hills} e traga um pouco de carne. Esse material é duro, mas dá uma carne seca decente.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="16" prevId="14" villagerId="3003">
+         
+        <Page social="4">Graças aos deuses por você, &lt;PCNAME&gt;. Viveremos para ver outro dia.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="29" id="25" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="229" id="100" prevId="0" villagerId="1006">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="229" id="2" prevId="0" villagerId="1006">
+         
+        <Page social="5">Por que não conseguimos estabilizar essa região? Se não é uma coisa, é outra! &lt;BR&gt;&lt;BR&gt;Agora nossos suprimentos não estão chegando ao posto avançado. As malditas presas estão comendo-os. Quero que vocês lutem para chegar ao leste, eliminem os {@LinkCreature:29#1051#hellmouth fangspawns} e se juntem à outra força. Verifique meu batedor ao longo do caminho.&lt;BR&gt;&lt;BR&gt;Trabalhe rapidamente e faça o que puder para reforçar a posição de Leshal.</Page>
+    
+    </Text>
+    <Text huntingZoneId="229" id="3" prevId="2" villagerId="1028">
+         
+        <Page social="5">Prazer em conhecê-lo! Fiquei de olho para o caso de Isobel ter conseguido nos enviar algum reforço. Por falar nisso, onde estão nossos suprimentos? Típico.&lt;BR&gt;&lt;BR&gt;Este destacamento está tão quadrado quanto um sanduíche de sopa. Bem, o Centurião Leshal provavelmente está ansioso para falar com você.</Page>
+    
+    </Text>
+    <Text huntingZoneId="229" id="4" prevId="3" villagerId="1008">
+         
+        <Page social="5">As intenções de Isobel são ótimas, mas sua inexperiência é um risco evidente. Ela é um ótimo soldado, mas é uma seguidora, não uma líder.&lt;BR&gt;&lt;BR&gt;Mesmo assim, lidar com esses fangspawns é uma grande ajuda. A fauna dessa região é geralmente mais agressiva do que a de outros lugares, mas ninguém sabe por quê. Talvez possamos usá-lo para desvendar o mistério.</Page>
+    
+    </Text>
+</QuestDialog>

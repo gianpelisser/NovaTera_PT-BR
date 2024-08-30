@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="40" id="44" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="240" id="100" prevId="0" villagerId="1027">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="240" id="2" prevId="0" villagerId="1027">
+         
+        <Page social="4">Por que me mandaram para cá? Eu não sou um soldado! Eles disseram para você guardar o posto de vigilância. Matem {@LinkCreature:40#4#porquinhos blindados} e {@LinkCreature:40#3#porquinhos blindados enfurecidos}, eles disseram. Eu é que vou ser morto.&lt;BR&gt;&lt;BR&gt;A menos que eu possa lhe pagar para matá-los para mim, é claro.&lt;BR&gt;&lt;BR&gt;Meu amigo {@LinkCreature:240#1026$$Grada} tem uma dívida de jogo comigo. Mate os porcos e o prêmio será seu.</Page>
+    
+    </Text>
+    <Text huntingZoneId="240" id="3" prevId="2" villagerId="1026">
+         
+        <Page social="4">Wooron o enviou? O velho canalha trapaceia nos dados, você sabe.</Page>
+    
+    </Text>
+    <Text huntingZoneId="240" id="4" villagerId="1026">
+         
+        <Page social="0">Não vou desembolsar o dinheiro de Wooron a menos que você mate aqueles {@LinkCreature:40#4#porquinhos blindados} e {@LinkCreature:40#3#porquinhos blindados enfurecidos}.</Page>
+    
+    </Text>
+</QuestDialog>

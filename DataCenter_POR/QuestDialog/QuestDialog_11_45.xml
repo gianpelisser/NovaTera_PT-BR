@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="11" id="45" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="211" id="100" prevId="0" villagerId="1018">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="211" id="2" prevId="0" villagerId="1018">
+         
+        <Page social="4">Um círculo de guarda-costas cerca Orless o tempo todo. Eles são durões: {@LinkCreature:11#1011#Pequenos oficiais do Chicote Vermelho}, {@LinkCreature:11#2008#bucaneiros} e {@LinkCreature:11#4005#observadores}.&lt;BR&gt;&lt;BR&gt;Acabe com o suprimento de guarda-costas e você tornará Orless vulnerável. E, ao mesmo tempo, você se certifica de que não haverá ninguém para assumir o controle quando Orless morrer.&lt;BR&gt;&lt;BR&gt;Traga de volta as etiquetas. Eu tenho uma ideia...</Page>
+    
+    </Text>
+    <Text huntingZoneId="211" id="3" prevId="2" villagerId="1018">
+         
+        <Page social="4">Isso é um monte de tags! Vou passá-las para os rapazes - eles vão se divertir com isso.&lt;BR&gt;&lt;BR&gt;Bem feito, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="211" id="4" villagerId="1018">
+         
+        <Page social="0">{Os oficiais subalternos do Chicote Vermelho, os Bucaneiros e os Supervisores protegem o capitão. Evite que eles façam isso... matando-os.</Page>
+    
+    </Text>
+</QuestDialog>

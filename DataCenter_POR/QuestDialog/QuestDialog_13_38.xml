@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="38" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="213" id="100" prevId="0" villagerId="1007">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="213" id="2" prevId="0" villagerId="1007">
+         
+        <Page social="4">Vou descansar um pouco. Por favor, vá primeiro e diga a {@linkcreature:213#1134$$Edan} que estou bem.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="3" prevId="2" villagerId="1134">
+         
+        <Page social="4">Que alívio! Nossas pedras de relíquia estavam esgotadas. Que sorte que temos mais.&lt;BR&gt;&lt;BR&gt;Saudações, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+</QuestDialog>

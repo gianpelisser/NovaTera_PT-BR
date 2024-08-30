@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="35" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="228" id="100" prevId="0" villagerId="1016">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="228" id="2" prevId="0" villagerId="1016">
+         
+        <Page social="5">Lok's death still echoes after all this time. The gods sure mucked things up around here. Stories describe this region as among the most beautiful in the world.&lt;BR&gt;&lt;BR&gt;Nowadays, we mostly battle the corruption and hunt for artifacts. There's a fairly hefty bounty on relics that may have divine heritage. If you find something, bring it to me first. I'll make it worth your time.</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="3" prevId="2" villagerId="1016">
+         
+        <Page social="5">There's a tangible trace of energy I've come to associate with Lok. You see, Shakan literally tore Lok to shreds when he killed him, so it's possible we'll find traces in a wide area.&lt;BR&gt;&lt;BR&gt;Who knows, perhaps we'll find his head!</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="4" villagerId="1016">
+         
+        <Page social="0">Of course, not everyone's up to this sort of research. It's tough and requires a bit of intestinal fortitude. Still, the rewards would be more than you can count—on one hand.</Page>
+    
+    </Text>
+</QuestDialog>

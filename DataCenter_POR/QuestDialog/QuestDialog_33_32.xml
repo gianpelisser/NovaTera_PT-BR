@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="33" id="32" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="233" id="100" prevId="0" villagerId="1013">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="233" id="2" prevId="0" villagerId="1013">
+         
+        <Page social="4">Eles estão tramando alguma coisa.&lt;BR&gt;&lt;BR&gt;Quem? Os {@LinkCreature:33#910#necromantes}. Não sei muito sobre eles - nós os vemos apenas de relance - mas acho que eles estão no comando.&lt;BR&gt;&lt;BR&gt;Veja se você consegue obter alguma informação... de um cadáver de necromante.</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="3" prevId="2" villagerId="1013">
+         
+        <Page social="4">Deixe-me dar uma olhada nisso.&lt;BR&gt;&lt;BR&gt;Aha! Lá diz que Thulsa construiu algum tipo de dispositivo na Prisão do Abismo - onde quer que seja - e está capturando almas mortas que deveriam estar retornando ao Sonho.&lt;BR&gt;&lt;BR&gt;Isso explica muita coisa, não é?</Page>
+    
+    </Text>
+    <Text huntingZoneId="233" id="4" villagerId="1013">
+         
+        <Page social="0">Eu adoraria ver o que há no bolso de um {@LinkCreature:33#910#necromancer}. Você não gostaria?</Page>
+    
+    </Text>
+</QuestDialog>

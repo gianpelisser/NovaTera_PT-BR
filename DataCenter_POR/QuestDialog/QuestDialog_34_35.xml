@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="34" id="35" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="234" id="100" prevId="0" villagerId="1001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="234" id="2" prevId="0" villagerId="1001">
+         
+        <Page social="4">O Acampamento Wayfarer pediu ajuda. Não posso liberar nenhum dos meus soldados para ajudá-los, mas você não está na minha lista, está? &lt;BR&gt;&lt;BR&gt;Vá até lá e ajude-os. Vá para o campo!</Page>
+    
+    </Text>
+    <Text huntingZoneId="234" id="3" prevId="2" villagerId="1003">
+         
+        <Page social="4">Este lugar miserável ainda será a minha morte.&lt;BR&gt;&lt;BR&gt;Pelo Núcleo, sinto falta das areias quentes de casa. É perigoso deixar que os pensamentos se desviem dos perigos que enfrentamos.&lt;BR&gt;&lt;BR&gt;Pedi ajuda para tornar as coisas um pouco mais seguras. Fale com Kaheure. Ela tem ordens para você.</Page>
+    
+    </Text>
+    <Text huntingZoneId="234" id="4" prevId="3" villagerId="1004">
+         
+        <Page social="4">Lucael está com frio e mal-humorado, mas este lugar não é tão ruim assim! Estamos servindo à federação e tornando o mundo um lugar melhor.&lt;BR&gt;&lt;BR&gt;É claro que seria melhor se não estivéssemos lutando para sobreviver, mas em todos os dias deve cair alguma chuva. Ou neve. Muita e muita neve.</Page>
+    
+    </Text>
+</QuestDialog>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="7" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="213" id="100" prevId="0" villagerId="1008">
+         
+        <Page social="0">Embora Leander não acreditasse que os orcs fossem capazes dos feitos mágicos necessários para corromper Demonbane, ele não estava disposto a fazer suposições.&lt;BR&gt;&lt;BR&gt;Ele o enviou para o sul, onde você falou com Kirash, que explicou sobre a presença de saqueadores mekonari - mercenários mágicos.&lt;BR&gt;&lt;BR&gt;Você entrou sorrateiramente no bivaque, matou um saqueador das trevas e escapou com um pergaminho de escrita demoníaca. Leander traduziu parte dele e descobriu a localização da mente mestra - no Desfiladeiro Envenenado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="2" prevId="0" villagerId="1008">
+         
+        <Page social="4">Os orcs têm alguma magia, mas nada do nível que estamos encontrando. Há algo mais que estamos perdendo aqui.&lt;NEXTPAGEBUTTON&gt;"Talvez os orcs tenham aliados."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Exatamente. Não um aliado qualquer, mas alguém mais do que magicamente competente. Kirash está vigiando os acampamentos orcanos. Fale com ele e descubra se ele sabe alguma coisa sobre isso.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="3" prevId="2" villagerId="1027">
+         
+        <Page social="4">Oh, estamos observando os orcs, mas eles não são o que interessa. Olhe lá fora - está vendo aquelas criaturas com cabeça de pássaro e grandes cajados?</Page>
+         
+        <Page social="4">Esses são mekonaris e a maioria deles são adeptos da magia. Sabe-se lá por que esses {@LinkCreature:13#601#dark marauders} estão trabalhando com os orcs, mas não será em nosso benefício.&lt;BR&gt;&lt;BR&gt;Devemos permanecer em nosso posto, mas nos aproximamos sorrateiramente e capturamos ou matamos um dos saqueadores. Talvez haja pistas a serem encontradas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="4" prevId="3" villagerId="1027">
+         
+        <Page social="4">Um pergaminho, não é? Intrigante. Com sorte, são os planos operacionais deles.&lt;BR&gt;&lt;BR&gt;Bah! Esse rabisco está ilegível. Deixe Leander ganhar sua reputação. Leve-o para ele, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="5" villagerId="1027">
+         
+        <Page social="0">Nós nos lembramos das histórias dos mekonaris. Enquanto seu deus dorme em um grande ovo de ouro, eles vendem suas proezas mágicas para quase qualquer um.&lt;BR&gt;&lt;BR&gt;Mercenários da pior espécie. Pah! &lt;BR&gt;&lt;BR&gt;Não é de surpreender que eles trabalhem com esses orcs. Veja o que você pode aprender com um deles!</Page>
+    
+    </Text>
+    <Text huntingZoneId="213" id="6" prevId="4" villagerId="1008">
+         
+        <Page social="4">Saqueadores? Mais como comedores de carniça. O que eles querem? Por que estão aqui? Vamos dar uma olhada mais de perto nesse pergaminho.&lt;BR&gt;&lt;BR&gt;Não é um rabisco, é uma escrita demoníaca. É difícil de traduzir, mas uma descrição é familiar. A fenda a leste - nós a chamamos de Desfiladeiro Contaminado. O mestre dos mekonaris está lá.</Page>
+    
+    </Text>
+</QuestDialog>

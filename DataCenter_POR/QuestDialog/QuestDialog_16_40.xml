@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="16" id="40" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="216" id="100" prevId="0" villagerId="1011">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="216" id="2" prevId="0" villagerId="1011">
+         
+        <Page social="4">Está vendo os ovolitos por aqui? São ruins. Muito ruins. Eles deixam meus soldados nervosos.&lt;BR&gt;&lt;BR&gt;Você já está ajudando - vá matar alguns e traga de volta os olhos deles. Isso deve animar os soldados - mostre a eles que estamos levando vantagem!</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="3" prevId="2" villagerId="1011">
+         
+        <Page social="4">Isso será muito bom. Um pequeno estímulo para a moral.&lt;BR&gt;&lt;BR&gt;Obrigado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="216" id="4" villagerId="1011">
+         
+        <Page social="0">Você já foi embora?</Page>
+    
+    </Text>
+</QuestDialog>

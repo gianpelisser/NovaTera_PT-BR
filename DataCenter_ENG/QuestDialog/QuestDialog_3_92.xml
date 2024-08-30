@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="3" id="92" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="59" id="100" prevId="0" villagerId="1009">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="59" id="2" prevId="0" villagerId="1009">
+         
+        <Page social="0">The undead in Berzerad Cemetery are restless and need to be returned to the Dream.&lt;BR&gt;&lt;BR&gt;Defeat the {@LinkCreature:3#300611#furious dragoons}, {@LinkCreature:3#301080#fallen soldiers}, and {@LinkCreature:3#16#defenders}.&lt;BR&gt;&lt;BR&gt;Report to Denine in Crescentia when mission is complete.</Page>
+    
+    </Text>
+    <Text huntingZoneId="59" id="3" prevId="2" villagerId="1015">
+         
+        <Page social="4">You've earned the thanks of the federation, &lt;PCCLASS:lcase&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="59" id="4" villagerId="1015">
+         
+        <Page social="0">It looks like you haven't completed your mission yet. Embarrassing!</Page>
+    
+    </Text>
+</QuestDialog>

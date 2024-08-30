@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="8" id="94" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="61" id="100" prevId="0" villagerId="1013">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="61" id="2" prevId="0" villagerId="1013">
+         
+        <Page social="8">Ordens da missão&lt;BR&gt;&lt;BR&gt;Eliminar os {@LinkCreature:8#4011#aberrant gulons}, {@LinkCreature:8#4021#reanimated popori}, {@LinkCreature:8#4032#caiman bonethralls}, {@LinkCreature:8#4031#cachaceiro esquelético}, {@LinkCreature:8#4041#inquisidores cruéis}, {@LinkCreature:8#4051#inquisidores vulgares}, {@LinkCreature:8#4052#imãs áuricos viciados} e {@LinkCreature:8#4061#mineradores mortais}.&lt;BR&gt;&lt;BR&gt;Apresentar-se a Rendia nas Profundezas da Caverna da Fome quando a missão estiver concluída.</Page>
+    
+    </Text>
+    <Text huntingZoneId="208" id="3" prevId="2" villagerId="1014">
+         
+        <Page social="8">Ótimo trabalho lá fora. Gosto de premiar o bom trabalho.</Page>
+    
+    </Text>
+    <Text huntingZoneId="208" id="4" villagerId="1014">
+         
+        <Page social="0">Se você quiser uma recompensa, precisará realmente fazer algo que valha a pena ser recompensado.</Page>
+    
+    </Text>
+</QuestDialog>

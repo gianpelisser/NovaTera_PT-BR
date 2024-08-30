@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="6" id="4" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="206" id="100" prevId="0" villagerId="1042">
+         
+        <Page social="0">Isla pediu que você matasse Dakarius - um líder Scion - e recuperasse qualquer pista sobre a localização da fortaleza Scion. Você matou Dakarius e recuperou alguns registros dos Scion que falam sobre o uso do teletransporte.&lt;BR&gt;&lt;BR&gt;Você usou o teletransporte e se viu no Bastião da Armadura de Lok - na Floresta do Esquecimento! Você conversou com vários cultistas e descobriu que os Scions estão estocando armas e energia. Eles acham que podem ressuscitar o próprio Lok! Você deu a informação a Isla, que a levou pessoalmente a Daven.</Page>
+    
+    </Text>
+    <Text huntingZoneId="206" id="2" prevId="0" villagerId="1042">
+         
+        <Page social="4">Conseguimos obter um pouco mais de informações. Acontece que o líder local é alguém chamado {@LinkCreature:6#7041#Dakarius}. Se você conseguir entrar lá e tirá-lo do caminho, eles ficarão desorganizados e vulneráveis.&lt;BR&gt;&lt;BR&gt;Também pode ser uma ótima chance de reunir informações sobre os Scions.&lt;NEXTPAGEBUTTON&gt;"Eu posso fazer isso."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Bom. Dakarius certamente é o responsável por isso. Depois de eliminá-lo, procure no Altar of Anguish. Se Dakarius não tiver nada de útil com ele, o altar é o próximo local lógico para encontrar os segredos deles. Estou particularmente interessado em saber onde fica a fortaleza deles.</Page>
+    
+    </Text>
+    <Text huntingZoneId="420" id="3" prevId="2" villagerId="1002">
+         
+        <Page social="0">Quem é você? Nunca o vi por aqui antes.&lt;BR&gt;&lt;BR&gt;Ah, você deve ter vindo pelo teletransporte. Aqueles idiotas da federação ainda estão se debatendo por aí? Ah! Eles não fazem ideia de que estamos no Bosque do Esquecimento.&lt;BR&gt;&lt;BR&gt;As coisas em nosso lado vão bem. Estamos estocando armas e tropas em um ritmo recorde e nossos arcanistas estão coletando energia em um ritmo sem precedentes. Talvez estejamos adiantados em relação ao cronograma!</Page>
+    
+    </Text>
+    <Text huntingZoneId="420" id="4" prevId="2" villagerId="1003">
+         
+        <Page social="0">Ei, keener! Por que você demorou tanto? A Tetra está furiosa! &lt;BR&gt;&lt;BR&gt;Você não vai querer irritá-la. Nada diz que temos que coletar vitae de outros. Seu sangue pode alimentar a magia da mesma forma....</Page>
+    
+    </Text>
+    <Text huntingZoneId="420" id="5" prevId="2" villagerId="1004">
+         
+        <Page social="0">Nossas forças se reúnem no Bastion of Lok, longe de olhares curiosos, mas logo não teremos necessidade de nos esconder.&lt;BR&gt;&lt;BR&gt;Nosso ilustre "aliado" manteve sua palavra e deixou nossos inimigos vulneráveis. Se tudo correr bem, Arcádia será a primeira província a se desestabilizar.&lt;BR&gt;&lt;BR&gt;Talvez então nossas preces sejam atendidas e Lok seja ressuscitado. Imagine a gratidão eterna de um deus!</Page>
+    
+    </Text>
+    <Text huntingZoneId="420" id="6" prevId="3" villagerId="1005">
+         
+        <Page social="4">Por que esses disfarces nojentos? Não importa. Por que há dois keeners aqui? Nunca vi sua cara de idiota antes e o outro parecia ainda mais idiota. Precisamos começar a recrutar uma classe melhor de fiéis.&lt;NEXTPAGEBUTTON&gt;"Que outro?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">O quê? Você não veio com ela? Perto do teletransporte. Ela está olhando para tudo, como se fosse um mistério para ela como tudo veio parar aqui.&lt;BR&gt;&lt;BR&gt;Leve-a para onde ela precisa estar. Não tenho tempo para bancar a babá de todos vocês! Maldição e maldição, o que eles vêem em vocês, seus tolos?</Page>
+    
+    </Text>
+    <Text huntingZoneId="420" id="7" prevId="6" villagerId="1006">
+         
+        <Page social="4">Você demorou tanto que fiquei preocupado, então o segui. Observei você passar pelo teletransporte. Este lugar é incrível. Que segredos ele guarda? &lt;NEXTPAGEBUTTON&gt;"Aqui está o que eu aprendi..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="0">Eles estão acumulando poder? Por quê? &lt;BR&gt;&lt;BR&gt;Você deve estar brincando. Com certeza eles não acham que podem ressuscitar Lok! Isso é ridículo. Seria necessária uma quantidade obscena de poder - literalmente uma quantidade divina - para fazer tal coisa.&lt;BR&gt;&lt;BR&gt;Mesmo assim, eles estão acumulando armas para alguma coisa. Certamente acham que uma luta está chegando. Temos de estar prontos. Vou relatar isso a Daven. Deseje-me sorte!</Page>
+    
+    </Text>
+</QuestDialog>

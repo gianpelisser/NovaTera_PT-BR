@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="27" id="32" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="227" id="100" prevId="0" villagerId="1023">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="227" id="2" prevId="0" villagerId="1023">
+         
+        <Page social="5">Thulsa isn't taking chances. Mysterium operatives spotted his elite troops, the Brogar Legion.&lt;BR&gt;&lt;BR&gt;Let's take a more direct approach. I want you to take them out, specifically the {@LinkCreature:27#13#Thulsan guardians}, {@LinkCreature:27#14#Thulsan conjurers}, and {@LinkCreature:27#15#Thulsan followers}. If we can drive them out, we can retake the fortress.</Page>
+    
+    </Text>
+    <Text huntingZoneId="227" id="3" prevId="2" villagerId="1023">
+         
+        <Page social="5">We're impressed with your skills. You're a genuine asset to this fight.&lt;BR&gt;&lt;BR&gt;The question is, why did Thulsa bring out his most feared legion? Was this fortress so important to his plan? So many questions yet to answer. All in due time.&lt;BR&gt;&lt;BR&gt;That is all, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+</QuestDialog>

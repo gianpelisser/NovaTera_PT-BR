@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="702" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="219" id="100" prevId="0" villagerId="7000">
+         
+        <Page social="0">A pedido de Melsa, você fez uma visita à Velik's Vigil em Freeholds.</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="2" prevId="0" villagerId="7000">
+         
+        <Page social="4">[Rootstock]&lt;BR&gt;Os Freeholds estão realizando o festival anual Rootstock, para colher os últimos vegetais de raiz e se preparar para o plantio da primavera.&lt;BR&gt;&lt;BR&gt;Além de comida e bebida frescas da fazenda, temos várias atrações fabulosas. Por favor, venha para a feira!</Page>
+    
+    </Text>
+    <Text huntingZoneId="219" id="3" prevId="2" villagerId="7000">
+         
+        <Page social="4">Que bom que você conseguiu vir, &lt;PCNAME&gt;! Obrigado por ter vindo à Fazenda do Lein.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, não sei bem do que você se lembra deste lugar, mas com sua ajuda, os Freeholds se recuperaram muito bem, e finalmente podemos realizar o Rootstock novamente!&lt;BR&gt;&lt;BR&gt;Estamos todos felizes por você ter vindo; todos aqui são muito gratos por sua ajuda.</Page>
+    
+    </Text>
+</QuestDialog>

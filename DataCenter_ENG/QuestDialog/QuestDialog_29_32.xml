@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="29" id="32" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="229" id="100" prevId="0" villagerId="1008">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="229" id="2" prevId="0" villagerId="1008">
+         
+        <Page social="5">As if our troubles weren't enough, scouts reported seeing {@LinkCreature:29#4031#forestwalker vulcans} nearby.&lt;BR&gt;&lt;BR&gt;Vulcans can cause enormous amounts of damage quickly. We cannot allow them to survive. Take whatever forces you feel necessary and eliminate the threat.</Page>
+    
+    </Text>
+    <Text huntingZoneId="229" id="3" prevId="2" villagerId="1008">
+         
+        <Page social="5">Vulcans are rarely found alone. Someone summoned them or loosed them. Isobel should be informed. A report shall be composed at once.&lt;BR&gt;&lt;BR&gt;Fear not, &lt;PCNAME&gt;. Your performance will be lauded appropriately.</Page>
+    
+    </Text>
+</QuestDialog>

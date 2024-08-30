@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="601" id="5" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="77" id="100" prevId="0" villagerId="3001">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="77" id="2" prevId="0" villagerId="3001">
+         
+        <Page social="4">Os Invalescos dedicaram recursos consideráveis para entender como os argonss remodelam o nosso mundo. Sua proeza tecnológica é ao mesmo tempo inspiradora e aterrorizante.&lt;BR&gt;&lt;BR&gt;Gostaria de saber em que ponto estamos em nossos estudos. Vá até a Base de Campo Reciprocidade e verifique com nossos pesquisadores.</Page>
+    
+    </Text>
+    <Text huntingZoneId="245" id="3" prevId="2" villagerId="3501">
+         
+        <Page social="4">Tecnologia de modelagem de argons? Claro, é isso que estamos estudando, mas eu não estou no comando. O chefe está lá em cima na escada, apreciando a vista e a ausência de ataques de argons!</Page>
+    
+    </Text>
+    <Text huntingZoneId="245" id="4" prevId="2" villagerId="3501">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="245" id="5" prevId="2" villagerId="3501">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="245" id="6" prevId="2" villagerId="3501">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="245" id="7" prevId="2" villagerId="3501">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="245" id="8" prevId="2" villagerId="3501">
+         
+        <Page social="4">Eu esqueci! Eu tinha o relatório o tempo todo.&lt;BR&gt;&lt;BR&gt;Juro que perderia meus chifres se eles não estivessem presos.</Page>
+    
+    </Text>
+    <Text huntingZoneId="245" id="9" prevId="8" villagerId="3502">
+         
+        <Page social="4">Acabei de atualizar o relatório esta manhã. Espero que ele ajude {@LinkCreature:77#3001#Nithan} em nossa missão.</Page>
+    
+    </Text>
+    <Text huntingZoneId="245" id="10" prevId="9" villagerId="3504">
+         
+        <Page social="4">As implicações desse relatório gelam meu sangue. Eu me pergunto o que {@LinkCreature:77#3001#Nithan} fará com ele.</Page>
+    
+    </Text>
+    <Text huntingZoneId="245" id="11" prevId="10" villagerId="3505">
+         
+        <Page social="4">Os argons estão remodelando nosso mundo, tornando-o menos hospitaleiro para nós e mais adequado para eles. Isso implica, até certo ponto, que nossas raças não são totalmente compatíveis.&lt;BR&gt;&lt;BR&gt;Este relatório resume nossas descobertas. Entregue-o a {@LinkCreature:77#3001#Nithan}.</Page>
+    
+    </Text>
+    <Text huntingZoneId="77" id="12" prevId="11" villagerId="3001">
+         
+        <Page social="4">Excelente. Estou ansioso para ver o que nossas mentes mais brilhantes farão com esse último problema.&lt;BR&gt;&lt;BR&gt;Obrigado por sua ajuda, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="77" id="13" villagerId="3001">
+         
+        <Page social="0">Preciso desse relatório, &lt;PCNAME&gt;. Não podemos prosseguir sem ele.</Page>
+    
+    </Text>
+</QuestDialog>

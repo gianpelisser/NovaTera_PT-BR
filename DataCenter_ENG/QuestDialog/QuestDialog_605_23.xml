@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="605" id="23" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="63" id="100" prevId="0" villagerId="3002">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="2" prevId="0" villagerId="3002">
+         
+        <Page social="4">Wow! We've sent you on a lot of boring crafting missions, but it's because your work is outstanding.&lt;BR&gt;&lt;BR&gt;Rare, high quality materials are how we support the precious cause we're all fighting for, and your support to the Hands of Velika is appreciated.&lt;BR&gt;&lt;BR&gt;Enough of me blubbering. Go talk to {@LinkCreature:63#3003#Elthienne}.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="3" prevId="2" villagerId="3003">
+         
+        <Page social="0">I hate to keep asking you, but could you craft some items for {@LinkCreature:63#3001#Barian}? Supplies are low, and we have to keep them coming in to stay in business.&lt;BR&gt;&lt;BR&gt;Without our merchant trade, there would be no Hands of Velika. Yeah. We're that important.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="4" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="5" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="6" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="7" prevId="2" villagerId="3003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="63" id="8" prevId="2" villagerId="3001">
+         
+        <Page social="5">If it isn't my favorite crafter. This looks great.&lt;BR&gt;&lt;BR&gt;See {@LinkCreature:63#3002#Taratia} for your well-deserved compensation.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="9" villagerId="3001">
+         
+        <Page social="0">Craft celesium plate and bring it to me. It's a special order for a customer I can't let down.&lt;BR&gt;&lt;BR&gt;We have to keep our customers happy, you know.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="10" prevId="8" villagerId="3001">
+         
+        <Page social="5">Thanks, &lt;PCNAME&gt;. Fine work.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} made a good call when she recruited you.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="11" villagerId="3001">
+         
+        <Page social="0">Craft cryosilex and deliver it to me as soon as you can.&lt;BR&gt;&lt;BR&gt;You're a life-saver.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="12" prevId="10" villagerId="3001">
+         
+        <Page social="5">Thank you.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} has your payment.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="13" villagerId="3001">
+         
+        <Page social="0">Craft hemeleather and bring it here quickly.&lt;BR&gt;&lt;BR&gt;But don't cut corners. I need the highest quality material you can manage.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="14" prevId="12" villagerId="3001">
+         
+        <Page social="5">Thanks, &lt;PCNAME&gt;. I wish I had a cookie to give you, to show you my gratitude.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} might have a cookie. Why don't you go ask her? Tell her I'll pay her back.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="15" villagerId="3001">
+         
+        <Page social="0">Craft toiracloth, and make haste!&lt;BR&gt;&lt;BR&gt;These customers and their special orders are going to be the death of me.</Page>
+    
+    </Text>
+    <Text huntingZoneId="63" id="16" prevId="14" villagerId="3002">
+         
+        <Page social="4">Wow, &lt;PCNAME&gt;! Not only do you work hard and produce quality materials, you're fast!&lt;BR&gt;&lt;BR&gt;Thanks.</Page>
+    
+    </Text>
+</QuestDialog>

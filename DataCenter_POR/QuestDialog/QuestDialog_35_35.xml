@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="35" id="35" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="235" id="100" prevId="0" villagerId="1013">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="235" id="2" prevId="0" villagerId="1013">
+         
+        <Page social="9">Como acabei guardando suprimentos em um acampamento? Eu deveria estar na linha de frente! &lt;BR&gt;&lt;BR&gt;Diga, você acha que poderia me ajudar? Dizem que as flores da morte têm propriedades curativas incríveis. Eu as vi aqui em Wyrmgorge.&lt;BR&gt;&lt;BR&gt;Você não gostaria de saber se os rumores são verdadeiros?</Page>
+    
+    </Text>
+    <Text huntingZoneId="235" id="3" prevId="2" villagerId="1013">
+         
+        <Page social="18">Obrigado, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Eu nunca vou me esquecer disso.</Page>
+    
+    </Text>
+    <Text huntingZoneId="235" id="4" villagerId="1013">
+         
+        <Page social="0">Essas flores da morte podem ser minha única esperança de voltar ao campo de batalha.</Page>
+    
+    </Text>
+</QuestDialog>

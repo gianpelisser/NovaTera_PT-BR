@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="182" id="1" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="182" id="100" prevId="0" villagerId="2029">
+         
+        <Page social="0">Enquanto perseguia Mihog, &lt;PCNAME&gt; descobriu que os demokrons eram, na verdade, Parthians, que foram transformados após experimentos cruéis.&lt;BR&gt;Enfurecido, o comandante Rhodos, de Khirian, jurou vingança.</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="2" prevId="0" villagerId="2029">
+         
+        <Page social="1">(Este barril é muito limpo em comparação com os barris empoeirados ao redor. E parece que alguém o moveu recentemente.)&lt;NEXTPAGEBUTTON&gt;Mover o barril&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="822" id="3" prevId="2" villagerId="2003">
+         
+        <Page social="1">Feiticeiro Arcdeva? Ela passou correndo por mim, com Zolyn e os popori logo atrás dela!&lt;NEXTPAGEBUTTON&gt;"Ok, obrigado."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="822" id="4" prevId="3" villagerId="2012">
+         
+        <Page social="1">Zolyn foi atrás dela. Se você se apressar, poderá alcançá-la e matar aquela maldita arquideva! &lt;NEXTPAGEBUTTON&gt;"E quanto a Rhodos?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="1">Eu falarei com Rhodos... para acalmá-lo. Preocupe-se com o Feiticeiro Arcdeva! &lt;NEXTPAGEBUTTON&gt;"Considere isso feito!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+    <Text huntingZoneId="182" id="5" prevId="4" villagerId="2010">
+         
+        <Page social="1">Esse palhaço excessivamente cauteloso suspeitou de uma armadilha e não me deixou passar! Agora perdemos o rastro do Feiticeiro Arcdeva.&lt;NEXTPAGEBUTTON&gt;"Não o culpe muito."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
+    </Text>
+</QuestDialog>

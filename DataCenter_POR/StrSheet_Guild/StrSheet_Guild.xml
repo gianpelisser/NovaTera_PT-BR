@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StrSheet_Guild xmlns="https://vezel.dev/novadrop/dc/StrSheet_Guild" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Guild StrSheet_Guild.xsd">
+    <String string="Sua guilda foi criada." readableId="SMT_GUILDLOG_CREATE_GUILD" />
+    <String string="Sua guilda foi dissolvida." readableId="SMT_GUILDLOG_DESTROY_GUILD" />
+    <String string="{UserName} entrou para a guilda." readableId="SMT_GUILDLOG_ADD_MEMBER" />
+    <String string="{UserName} deixou a guilda." readableId="SMT_GUILDLOG_LEAVE_GUILD" />
+    <String string="{UserName} foi expulso da guilda." readableId="SMT_GUILDLOG_BAN" />
+    <String string="A classificação {GroupName} foi adicionada." readableId="SMT_GUILDLOG_CREATE_GROUP" />
+    <String string="A classificação {GroupName} foi removida." readableId="SMT_GUILDLOG_DESTROY_GROUP" />
+    <String string="{UserName} agora é o mestre da guilda." readableId="SMT_GUILDLOG_CHANGE_CHIEF" />
+    <String string="{UserName} agora está no ranking {GroupName}." readableId="SMT_GUILDLOG_CHANGE_GROUP" />
+    <String string="{UserName} definiu a taxa de imposto da área." readableId="SMT_GUILDLOG_LORD_CALC_TAX" />
+    <String string="O nome da guilda foi alterado de [{OldName}] para [{NewName}]." readableId="SMT_GUILDLOG_CHANGE_NAME" />
+    <String string="Mestre da guilda" readableId="SMT_MASTER_GUILDGROUP_NAME" />
+    <String string="Recrutamento" readableId="SMT_MEMBER_GUILDGROUP_NAME" />
+    <String string="[{UserName}] ganhou [{Point}] pontos de competição." readableId="SMT_GUILDLOG_GAIN_LORD_ELECTION_COMPETITION_POINT" />
+    <String string="{CoolTime}" readableId="SMT_GUILDWAR_INFO_COOLTIME" />
+    <String string="{KP} point{@select:{KP}/s//s}" readableId="SMT_GUILDWAR_INFO_MEMBER_KILLPOINT" />
+    <String string="{KP} point{@select:{KP}/s//s}" readableId="SMT_GUILDWAR_INFO_MASTER_KILLPOINT" />
+    <String string="{KP} point{@select:{KP}/s//s}" readableId="SMT_GUILDWAR_INFO_WIN_KILLPOINT" />
+    <String string="Declaração GvG" readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_TITLE" />
+    <String string="Você quer começar uma batalha de guilda GvG contra {Opponent}? A batalha terá duração de {Duration}." readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_MESSAGE" />
+    <String string="Declarar" readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_DECLARE" />
+    <String string="Cancelar" readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_CANCEL" />
+    <String string="Batalha em andamento" readableId="SMT_GUILDWAR_HISTORY_ONGOING" />
+    <String string="A guilda [{Name}] venceu!" readableId="SMT_GUILDWAR_HISTORY_RESULT" />
+    <String string="A batalha foi um empate." readableId="SMT_GUILDWAR_HISTORY_DRAW" />
+    <String string="A guilda [{Name}] se rendeu." readableId="SMT_GUILDWAR_HISTORY_SURRENDER" />
+    <String string="Confirmação de rendição" readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_TITLE" />
+    <String string="Você quer se render? A batalha contra [{Opponent}] terminará e ele será declarado vencedor." readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_MESSAGE" />
+    <String string="OK" readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_DECLARE" />
+    <String string="Cancelar" readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_CANCEL" />
+    <String string="Mestre da Guilda: {Master}" readableId="SMT_GUILDWAR_MASTER" />
+    <String string="{Kp}" readableId="SMT_GUILDWAR_KILLPOINT" />
+    <String string="{Time}" readableId="SMT_GUILDWAR_REMAINING_TIME" />
+    <String string="O tempo está se esgotando." readableId="SMT_GUILDWAR_REMAINING_TIME_IMPEND" />
+    <String string="{Kp} point{@select:{KP}/s//s}" readableId="SMT_GUILDWAR_KILLPOINT2" />
+    <String string="Pacifista" readableId="SMT_GUILDSTATE_PEACEFUL" />
+    <String string="Pronto para a batalha" readableId="SMT_GUILDSTATE_NORMAL" />
+    <String string="Confirmar mudança para o estado de guilda" readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_TITLE" />
+    <String string="Alteração do estado da guilda de {OldState} para {NewState}. As guildas {NewState} não podem participar de batalhas de guildas." readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_MESSAGE_TO_PEACEFUL" />
+    <String string="Alteração do estado da guilda de {OldState} para {NewState}. Você pode participar de batalhas de guilda enquanto estiver em {NewState}." readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_MESSAGE_TO_NORMAL" />
+    <String string="Mudança" readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_OK" />
+    <String string="Cancelar" readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_CANCEL" />
+</StrSheet_Guild>

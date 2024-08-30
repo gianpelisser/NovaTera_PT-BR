@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="34" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="228" id="100" prevId="0" villagerId="1015">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="228" id="2" prevId="0" villagerId="1015">
+         
+        <Page social="5">Here's a little trick we've discovered. If you infuse the ground with a bit of star essence, it acts as a barrier against the corruption.&lt;BR&gt;&lt;BR&gt;The essence isn't particularly rare, but the creatures lurking in the woods make harvesting it dangerous.&lt;BR&gt;&lt;BR&gt;If you collect any, we'd gladly pay you for it.</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="3" prevId="2" villagerId="1015">
+         
+        <Page social="5">Fragrant rosehips, star essence—you're a regular little scrounger!&lt;BR&gt;&lt;BR&gt;I know you're a soldier with big things ahead of you, but I hope you don't forget us little folk in your rise to glory.</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="4" villagerId="1015">
+         
+        <Page social="0">Think how wonderful it'd be if star essence was simply bottled? We'd just run to the nearest merchant and buy a crate of it!</Page>
+    
+    </Text>
+</QuestDialog>

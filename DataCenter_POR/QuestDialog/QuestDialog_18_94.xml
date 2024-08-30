@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="18" id="94" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="218" id="100" prevId="0" villagerId="1003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="218" id="2" prevId="0" villagerId="1003">
+         
+        <Page social="4">As hienas por aqui ainda são... problemáticas. E eu sei que você é um solucionador de problemas, não é mesmo? &lt;BR&gt;&lt;BR&gt;Mate as {@LinkCreature:18#111#hienas sujas} e as {@LinkCreature:18#112#hienas vorazes}. Eu sei que pedi corações da última vez, mas vamos usar dentes, só para manter os espíritos na dúvida.&lt;BR&gt;&lt;BR&gt;Mas não traga os dentes para mim! Deuses, não! Entregue-os a Tirian no Acampamento Marrakeen e observe a cara dele.</Page>
+    
+    </Text>
+    <Text huntingZoneId="218" id="3" prevId="2" villagerId="1004">
+         
+        <Page social="4">Então... dentes. De hienas. Essa foi a ideia de Kardelen, certo? Números.</Page>
+    
+    </Text>
+    <Text huntingZoneId="218" id="4" villagerId="1004">
+         
+        <Page social="0">Suas mãos estão ensanguentadas, mas vazias. Volte para a rua!</Page>
+    
+    </Text>
+</QuestDialog>

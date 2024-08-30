@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="36" id="29" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="236" id="100" prevId="0" villagerId="1014">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="236" id="2" prevId="0" villagerId="1014">
+         
+        <Page social="10">Ei, você já encontrou alguém chamado Mallon? Ele é um arcanista.&lt;BR&gt;&lt;BR&gt;Ele também é meu irmão... e não é muito inteligente.&lt;BR&gt;&lt;BR&gt;Não? Está bem. Bem, se você o encontrar, pode dizer a ele que estou procurando por ele? Eu ficaria muito grato.</Page>
+    
+    </Text>
+    <Text huntingZoneId="236" id="3" prevId="2" villagerId="1015">
+         
+        <Page social="6">Hmm? Felion está procurando por mim? De novo? &lt;BR&gt;&lt;BR&gt;Ela precisa entender que só porque é mais velha não significa que sabe tudo! &lt;BR&gt;&lt;BR&gt;Na verdade, estou me escondendo aqui para que ela não me encontre e interrompa meu trabalho. Tenho um trabalho muito importante a fazer, você sabe.</Page>
+    
+    </Text>
+</QuestDialog>

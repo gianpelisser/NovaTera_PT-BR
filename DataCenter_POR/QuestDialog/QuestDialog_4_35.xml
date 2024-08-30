@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="35" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="204" id="100" prevId="0" villagerId="1003">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="204" id="2" prevId="0" villagerId="1003">
+         
+        <Page social="4">Um dos grandes mistérios do Vale Ardente: o que se passa com o {@LinkCreature:204#1117#Pilone Cruental}?&lt;BR&gt;&lt;BR&gt;Ele claramente tem um poder imenso. Se ao menos soubéssemos como aproveitá-lo...&lt;BR&gt;&lt;BR&gt;{@LinkCreature:4#7011#Marakadi} interage com o pilone o tempo todo. Aposto que ela sabe de algo - ou tem algo - relacionado à pedra.</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="3" prevId="2" villagerId="1117">
+         
+        <Page social="0">(O pilar está quente o suficiente para queimá-lo se você tocá-lo.)&lt;BR&gt;&lt;BR&gt;(Você insere a chave, e uma tábua gravada emerge de dentro da própria pedra).</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="4" villagerId="1117">
+         
+        <Page social="0">(O pilar está quente demais para ser tocado. Talvez {@LinkCreature:4#7011#Marakadi} tenha alguma forma secreta de interagir com ele).</Page>
+    
+    </Text>
+    <Text huntingZoneId="204" id="5" prevId="3" villagerId="1003">
+         
+        <Page social="7">Isso estava dentro do Pilar Cruental? Incrível! &lt;BR&gt;&lt;BR&gt;Isso está gravado com magia shuriana, mas os shurianos não se associam a demônios.&lt;BR&gt;&lt;BR&gt;Ou pelo menos, nunca o fizeram antes. É preocupante. Mas acho que a ignorância é pior, não é?</Page>
+    
+    </Text>
+</QuestDialog>

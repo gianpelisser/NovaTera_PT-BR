@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="41" id="25" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="241" id="100" prevId="0" villagerId="1011">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="241" id="2" prevId="0" villagerId="1011">
+         
+        <Page social="0">A Garra Negra nos mantém longe de nossos locais de caça habituais. Agora temos que lutar contra {@LinkCreature:41#4001#ravenous basilisks} por cada mordida que comemos. A cada dia eles matam mais caçadores.&lt;BR&gt;&lt;BR&gt;O Decurião diz que você é um grande caçador. Você se encarregará da tarefa de reduzir o número de basiliscos para nós?</Page>
+    
+    </Text>
+    <Text huntingZoneId="241" id="3" prevId="2" villagerId="1018">
+         
+        <Page social="0">Veja o tamanho da presa! Esse basilisco teria matado muitos de nós. Somos gratos, &lt;PCNAME&gt;.</Page>
+    
+    </Text>
+    <Text huntingZoneId="241" id="4" villagerId="1018">
+         
+        <Page social="0">Os {@LinkCreature:41#4001#ravenous basilisks} são um grande perigo para nós, ou não teríamos pedido sua ajuda.</Page>
+    
+    </Text>
+</QuestDialog>

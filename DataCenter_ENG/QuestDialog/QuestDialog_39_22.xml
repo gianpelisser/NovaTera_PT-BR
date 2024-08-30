@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="39" id="22" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="239" id="100" prevId="0" villagerId="1007">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="239" id="2" prevId="0" villagerId="1007">
+         
+        <Page social="4">Pay attention now. I'm only going to say this once.&lt;BR&gt;&lt;BR&gt;At the central part of the lair, you'll find {@LinkCreature:39#130#arachnen matriarchs}. They aren't the strongest creatures in here, but they have very hard shells, which we can put to good use.&lt;BR&gt;&lt;BR&gt;Collect the shells and deliver them to Paicha at Roughneck Outpost. He'll take it from there.</Page>
+    
+    </Text>
+    <Text huntingZoneId="239" id="3" prevId="2" villagerId="1010">
+         
+        <Page social="4">Arachnen shells, eh?&lt;BR&gt;&lt;BR&gt;Yes, I can use those to patch some of our heavy armor suits. Appreciate the help!</Page>
+    
+    </Text>
+    <Text huntingZoneId="239" id="4" villagerId="1010">
+         
+        <Page social="0">Got anything for me?</Page>
+    
+    </Text>
+</QuestDialog>

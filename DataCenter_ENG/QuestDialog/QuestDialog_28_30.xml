@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="30" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="228" id="100" prevId="0" villagerId="1011">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="228" id="2" prevId="0" villagerId="1011">
+         
+        <Page social="5">Those blasted death eggs keep trying to eat me for breakfast!&lt;BR&gt;&lt;BR&gt;I need to take some measurements, but I can't because {@LinkCreature:28#2041#tainted ovoliths} swarm every time I begin.&lt;BR&gt;&lt;BR&gt;Could you maybe gather up a few friends and do your worst?</Page>
+    
+    </Text>
+    <Text huntingZoneId="228" id="3" prevId="2" villagerId="1011">
+         
+        <Page social="5">There's no dross in you, &lt;PCNAME&gt;! Now I can finish up here and get back to the station.&lt;BR&gt;&lt;BR&gt;Thanks.</Page>
+    
+    </Text>
+</QuestDialog>

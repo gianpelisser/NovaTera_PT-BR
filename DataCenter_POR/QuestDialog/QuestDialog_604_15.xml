@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="604" id="15" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="71" id="100" prevId="0" villagerId="3005">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="71" id="2" prevId="0" villagerId="3005">
+         
+        <Page social="4">{@LinkCreature:230#3002#Ersilla} está sem sementes, e todos nós precisamos de... chá. Sim, chá.&lt;BR&gt;&lt;BR&gt;Se você estiver por aí, pode ajudar?</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="3" prevId="2" villagerId="3002">
+         
+        <Page social="4">É bom vê-lo!&lt;BR&gt;&lt;BR&gt;Aaah... por que você está aqui?&lt;NEXTPAGEBUTTON&gt;"Chá de Buram?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Chá? Ah, claro. Chá!&lt;BR&gt;&lt;BR&gt;Preciso de mais sementes de campânula e prímula.&lt;BR&gt;&lt;BR&gt;Nós as cultivamos para fazer um... chá... que ajuda com... aham, coisas. Vá em frente. Pegue-as para mim.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="4" prevId="3" villagerId="3013">
+         
+        <Page social="4">(O aroma da flor é hipnótico).</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="5" prevId="4" villagerId="3014">
+         
+        <Page social="4">(O cheiro dessa flor clareia sua cabeça).</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="6" prevId="5" villagerId="3015">
+         
+        <Page social="4">(A flor tem cheiro de grama logo após a chuva).</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="7" prevId="6" villagerId="3002">
+         
+        <Page social="4">Muito obrigado. Eu estava ficando sem eles.&lt;BR&gt;&lt;BR&gt;Agora posso começar a fazer cerveja.</Page>
+    
+    </Text>
+    <Text huntingZoneId="230" id="8" villagerId="3002">
+         
+        <Page social="0">Você tem minhas sementes? &lt;BR&gt;&lt;BR&gt;Eu preciso tomar meu chá!</Page>
+    
+    </Text>
+</QuestDialog>

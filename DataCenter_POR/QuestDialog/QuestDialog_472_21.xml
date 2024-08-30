@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="472" id="21" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="208" id="100" prevId="0" villagerId="1018">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="208" id="2" prevId="0" villagerId="1018">
+         
+        <Page social="4">Eu vivo apenas para uma morte justa. Os gulas... consumiram todo o resto.&lt;BR&gt;&lt;BR&gt;Amigos... comidos. Família... comidos. Toda a minha vida... devorada.&lt;BR&gt;&lt;BR&gt;Mas saiba disso, &lt;PCNAME&gt;: muitos gulas me precederão de volta ao Sonho.&lt;NEXTPAGEBUTTON&gt;"Estou com você, Kurak."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
+        <Page social="4">Há anos venho perseguindo os gulas, mas não consigo chegar ao centro de suas operações: o Labirinto Dourado.&lt;BR&gt;&lt;BR&gt;Um teleportal nas Catacumbas das Cavernas Faminto leva até lá, mas por alguma razão ele não funciona para mim!&lt;BR&gt;&lt;BR&gt;Você será um instrumento de justiça, &lt;PCCLASS:lcase&gt;?&lt;BR&gt;&lt;BR&gt;Você matará {@LinkCreature:472#4#gula deathbringers}, {@LinkCreature:472#24#reavers}, e {@LinkCreature:472#11#savages}, e {@LinkCreature:472#207#brutal gulas}? Tomem seus corações, assim como eles tomaram os meus.</Page>
+    
+    </Text>
+    <Text huntingZoneId="208" id="3" prevId="2" villagerId="1018">
+         
+        <Page social="6">Obrigado, &lt;PCNAME&gt;. Obrigado por esses corações.&lt;BR&gt;&lt;BR&gt;Se me perdoam, estou com... fome.</Page>
+    
+    </Text>
+    <Text huntingZoneId="208" id="4" villagerId="1018">
+         
+        <Page social="0">Eles morrerão diante de nosso poder justo! Eu os consumirei como eles me consumiram!</Page>
+    
+    </Text>
+</QuestDialog>

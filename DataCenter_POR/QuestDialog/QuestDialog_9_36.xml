@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="9" id="36" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="209" id="100" prevId="0" villagerId="1025">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="209" id="2" prevId="0" villagerId="1025">
+         
+        <Page social="0">(Este livro parece ser o diário do Centurião. Ele contém histórias sobre um culto maligno que está por trás das gulas e sobre como os cultistas trouxeram {@LinkCreature:9#1400#Azarel's juggernaut} e {@LinkCreature:9#1410#labyrinthine stalkers} para cá. Uma entrada em particular se destaca. Ela diz que esses monstros podem ser derrotados arrancando-se seus dentes).</Page>
+    
+    </Text>
+    <Text huntingZoneId="209" id="3" prevId="2" villagerId="1005">
+         
+        <Page social="4">&lt;PCNAME&gt;, você é incrível! Uma vez recebi um relatório sobre o monstro do labirinto, mas não tinha certeza se conseguiríamos passar por seus protetores.&lt;BR&gt;&lt;BR&gt;Obviamente, o monstro mostra o nível de ameaça que estamos enfrentando, e nosso risco dobrou desde que os cultistas estão em cooperação com os gulas.</Page>
+    
+    </Text>
+    <Text huntingZoneId="209" id="4" villagerId="1005">
+         
+        <Page social="0">Você realmente derrotou aqueles monstros gigantes?</Page>
+    
+    </Text>
+</QuestDialog>

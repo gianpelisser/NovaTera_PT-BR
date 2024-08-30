@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="42" id="95" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="242" id="100" prevId="0" villagerId="1033">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="242" id="2" prevId="0" villagerId="1033">
+         
+        <Page social="42">We've hurt the nagas, but we can't let up on the pressure.&lt;BR&gt;&lt;BR&gt;Engage naga survivors guarding the gallery on the third floor of the temple.&lt;BR&gt;&lt;BR&gt;Take down as many {@LinkCreature:42#210#Dagonite crusaders}, {@LinkCreature:42#310#naga tridentars} and {@LinkCreature:42#330#guardians}, and {@LinkCreature:42#900#mekonari shamans}, {@LinkCreature:42#910#witches}, and {@LinkCreature:42#1000#sentinels} as it takes.&lt;BR&gt;&lt;BR&gt;Report to {@LinkCreature:75#1016#Glasrinne} in Frontera when you're done swimming in blood.</Page>
+    
+    </Text>
+    <Text huntingZoneId="75" id="3" prevId="2" villagerId="1016">
+         
+        <Page social="0">The nagas are weaker, thanks to you. But there's still a lot to do, and I hope you'll stick around to help out.</Page>
+    
+    </Text>
+    <Text huntingZoneId="75" id="4" villagerId="1016">
+         
+        <Page social="0">I never said it'd be easy, but what you're doing is helping us stay alive and do what we came here to do. Don't stop now.</Page>
+    
+    </Text>
+</QuestDialog>

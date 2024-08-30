@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="56" id="25" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="256" id="100" prevId="0" villagerId="1023">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="256" id="2" prevId="0" villagerId="1023">
+         
+        <Page social="4">Há uma companhia completa, pelo menos, de devas acampados a sudeste. Os batedores de Atel Akaad - eles nos isolaram de Amena Quatla. Mate alguns deles. Procurem em seus equipamentos alguma pista sobre suas ordens.&lt;BR&gt;&lt;BR&gt;Um explorador da guilda, Casias, os está seguindo. Consulte-o sobre o que você encontrar.</Page>
+    
+    </Text>
+    <Text huntingZoneId="256" id="3" prevId="2" villagerId="1014">
+         
+        <Page social="4">Atualmente, apenas os mais corajosos percorrem essas estradas. Há negócios entre nós? Aah, os devas.&lt;BR&gt;&lt;BR&gt;Os anéis são de Killian, o que explica a reunião heterogênea de soldados aqui em Dakonan Junction. O deus do caos nunca se contenta em pintar com uma única cor quando pode usar dezenas.&lt;BR&gt;&lt;BR&gt;Mas esses são meros batedores. O que nos leva a perguntar: onde está a força principal deles? &lt;BR&gt;&lt;BR&gt;Eu direi a Keallach. Você avisa Denmar no Acampamento de Blackspring.</Page>
+    
+    </Text>
+    <Text huntingZoneId="256" id="4" villagerId="1014">
+         
+        <Page social="0">Esses devas devem carregar alguma evidência de suas ordens.&lt;BR&gt;&lt;BR&gt;Coloque os fateshapers e os reapers no leste e pegue o que encontrar em seus cadáveres.</Page>
+    
+    </Text>
+    <Text huntingZoneId="256" id="5" prevId="3" villagerId="1008">
+         
+        <Page social="4">Atel Akaad, hein? &lt;BR&gt;&lt;BR&gt;O que eles querem com essa blasfêmia que os cabeças de pena estão cometendo?</Page>
+    
+    </Text>
+</QuestDialog>

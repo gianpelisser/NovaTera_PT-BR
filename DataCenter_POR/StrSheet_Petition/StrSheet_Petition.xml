@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StrSheet_Petition xmlns="https://vezel.dev/novadrop/dc/StrSheet_Petition" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Petition StrSheet_Petition.xsd">
+    <String id="0" string="Selecione uma categoria" />
+    <String id="100" string="A equipe de operações do TERA resolve os problemas do jogo que os jogadores não conseguem resolver sozinhos. Enviamos respostas por meio de mensagens de feedback. Para um processamento mais rápido, leia atentamente as instruções ao enviar sua consulta. Não pule nenhum campo obrigatório! As consultas são tratadas na ordem em que são recebidas, com exceção de interrupções graves de serviço. Seja paciente enquanto aguarda uma resposta; faremos todo o possível para resolver seu problema rapidamente. Para obter o serviço mais rápido, use o site de Ajuda ao Cliente da TERA, com informações úteis e acesso rápido ao bate-papo com os representantes de serviço." />
+    <String id="1" string="Login/Movimento" />
+    <String id="101" string="Os problemas de login e movimentação são as principais prioridades. Para evitar esperas desnecessárias, se o seu personagem não se mover, tente usar um rolo de teletransporte ou o comando Unstuck no menu System (Sistema) antes de enviar uma petição." />
+    <String id="10" string="Crashes/Erros de login" />
+    <String id="110" string="Certos problemas externos podem causar mensagens de erro ou desligamentos inesperados. Talvez você consiga resolver seus problemas 1) Executando o TERA sem outros programas em execução. 2) Atualizando para a versão mais recente do DirectX (9.0c ou posterior). 3) Atualizando os drivers de som, placa de vídeo e chipset da placa-mãe para as versões mais recentes." />
+    <String id="1000" string="Nome do personagem" />
+    <String id="11" string="Personagens presos" />
+    <String id="111" string="Na maioria das vezes, se o seu personagem estiver preso em um ponto ou tentando se mover continuamente para o mesmo ponto inalcançável, você poderá se salvar com um pergaminho de teletransporte ou com o comando de menu System\Unstuck. Se isso não resolver o problema, entre em contato com um GM para ajudá-lo." />
+    <String id="2" string="Recuperação" />
+    <String id="102" string="Somente aprovaremos recuperações nos raros casos em que pudermos confirmar claramente, por meio do registro do jogo, que um erro do sistema destruiu o personagem ou o item. Observação: os personagens perdidos durante o processo normal de configuração do jogo são especialmente difíceis de recuperar." />
+    <String id="20" string="Observação: aprovamos apenas uma recuperação por conta a cada três meses. Qualquer solicitação adicional será recusada. No entanto, se você suspeitar que sua conta foi roubada ou acessada de forma fraudulenta, o limite de recuperação não se aplica. Entre em contato conosco imediatamente!" />
+    <String id="120" string="Os personagens de quarto nível e abaixo não podem ser recuperados quando excluídos e devem ser criados novamente. Para todos os outros personagens, estendemos um período de carência de 7 dias após a exclusão, quando você mesmo poderá recuperar o personagem. Um GM pode ajudá-lo a recuperar um personagem dentro de 30 dias após a exclusão, mas, após esse período, a exclusão é permanente. Observação: exceto em casos de fraude ou roubo, aprovamos apenas uma recuperação por conta a cada 3 meses. Qualquer outra solicitação será recusada." />
+    <String id="1001" string="Nome do personagem excluído" />
+    <String id="1002" string="Data de exclusão" />
+    <String id="21" string="Recuperação de itens" />
+    <String id="121" string="Somente recuperaremos um item se ele tiver sido perdido devido a um erro do sistema que possamos confirmar por meio dos registros do jogo. Não recuperaremos nenhum item perdido devido à ignorância das regras do jogo ou a erros por parte do jogador. Observação: exceto em casos de fraude ou roubo, aprovamos apenas uma recuperação por conta a cada 3 meses. Qualquer outra solicitação será recusada. Para obter um serviço mais rápido, use [Solicitação de e-mail]." />
+    <String id="1003" string="Item perdido" />
+    <String id="1004" string="Hora da perda do item" />
+    <String id="22" string="Outras recuperações" />
+    <String id="122" string="Para solicitações de recuperação que vão além de itens e caracteres, explique o problema com o máximo de detalhes que puder fornecer. A indicação da hora exata da perda aumenta muito nossas chances de ajudá-lo. Observação: exceto em casos de fraude ou roubo, aprovamos apenas uma recuperação por conta a cada três meses. Qualquer outra solicitação será recusada." />
+    <String id="1005" string="Hora da ocorrência" />
+    <String id="3" string="Perguntas relacionadas a jogos" />
+    <String id="103" string="Já ouviu falar do TERAPEDIA, nosso site repleto de informações sobre o TERA? Dê uma olhada no TERAPEDIA antes de enviar uma solicitação de gameplay." />
+    <String id="30" string="Ajuda com as missões" />
+    <String id="130" string="Pressionar a tecla L abre a janela de registro de missões com informações sobre missões e locais de NPCs. Consulte o Registro primeiro quando estiver preso em uma missão. Se ainda quiser fazer perguntas sobre uma missão, escreva o título da missão e descreva detalhadamente a seção em que está tendo problemas." />
+    <String id="1006" string="Título da missão" />
+    <String id="31" string="Perguntas diversas sobre jogos" />
+    <String id="131" string="Os GMs não podem divulgar nenhuma informação de jogo ou história (incluindo fórmulas ou informações estatísticas) além do que está disponível ao público em nossa página inicial ou na TERAPÉDIA." />
+    <String id="4" string="Bug" />
+    <String id="104" string="Você faz bem a todos quando relata um erro! Se encontrar um erro durante o jogo, conte-nos em detalhes o que estava fazendo quando isso aconteceu e o que exatamente deu errado. É muito mais fácil corrigirmos um erro rapidamente se nossos desenvolvedores puderem reproduzi-lo." />
+    <String id="40" string="Bugs de NPCs" />
+    <String id="140" string="Se um NPC não aparecer durante o jogo ou se um cadáver ou NPC não desaparecer quando deveria, anote o local do NPC, o nome dele e a hora em que o evento ocorreu para que possamos corrigir o problema rapidamente e fazer com que você volte a jogar." />
+    <String id="1007" string="Nome do NPC" />
+    <String id="1008" string="Localização do NPC" />
+    <String id="1009" string="Hora da ocorrência" />
+    <String id="41" string="Bugs de itens" />
+    <String id="141" string="Se você encontrar um problema de jogabilidade com um item do jogo, anote o nome do item e a hora em que o problema ocorreu para que possamos corrigi-lo rapidamente e fazer com que você volte a jogar." />
+    <String id="1010" string="Nome do item" />
+    <String id="1011" string="Hora da ocorrência" />
+    <String id="42" string="Bugs de instância/dungeon" />
+    <String id="142" string="Em caso de problemas relacionados a instâncias/dungeons, incluindo instâncias que não são reiniciadas ou a impossibilidade de entrar em uma instância, informe o nome da dungeon instanciada, o horário da ocorrência e o que você estava fazendo quando o problema ocorreu. Pedimos desculpas por qualquer inconveniente." />
+    <String id="1012" string="Nome da dungeon" />
+    <String id="1013" string="Hora da ocorrência" />
+    <String id="43" string="Bugs diversos" />
+    <String id="143" string="Se você acha que está vendo um bug que não foi publicado pelos GMs, informe-nos detalhadamente. Verificamos esses relatórios regularmente, e essa é a maneira mais rápida de resolver os problemas." />
+    <String id="1014" string="Hora da ocorrência" />
+    <String id="5" string="Jogadores desonestos" />
+    <String id="105" string="Um jogador desonesto é qualquer pessoa que tenta enganar os outros, induzi-los a cometer erros dolorosos ou que usa linguagem excessivamente vulgar. Preencha todos os campos obrigatórios ao denunciar um jogador desonesto. Analisamos minuciosamente os registros de jogabilidade do jogador e outros materiais, portanto, pode levar algum tempo para lhe fornecer um feedback. Um jogador desonesto é qualquer pessoa que tente enganar os outros, induzir os outros a cometer erros dolorosos ou que use linguagem excessivamente vulgar. Preencha todos os campos obrigatórios ao denunciar um jogador desonesto. Analisamos minuciosamente os registros de jogabilidade do jogador e outros materiais, portanto, pode levar algum tempo para lhe fornecer um feedback. Observe, no entanto, que nossos GMs não interferirão em disputas entre jogadores. Essa política nos ajuda a garantir que os GMs permaneçam justos e imparciais." />
+    <String id="50" string="Programas ilegais" />
+    <String id="150" string="Os programas ilegais arruínam o jogo para todos, por isso aplicamos rigorosamente a proibição de seu uso. Se você observar alguém usando um programa ilegal no TERA, envie o nome do personagem do jogador e a situação para que nossos GMs possam identificar e lidar com o culpado. Entenda que desejamos ser justos e, portanto, conduziremos uma investigação completa. Seja paciente; nossa investigação pode levar alguns dias para ser concluída." />
+    <String id="1015" string="Nome do personagem" />
+    <String id="1016" string="Localização" />
+    <String id="1017" string="Tempo" />
+    <String id="51" string="Fraude" />
+    <String id="151" string="Fraude no jogo é qualquer tentativa de obter itens enganando outras pessoas. Se você testemunhar uma fraude, informe imediatamente o horário da ocorrência e a situação para que possamos resolver o problema rapidamente de acordo com nossa política de operação. Esteja ciente de que muitas fraudes se devem ao descuido ou à ganância do jogador e, nesse caso, os itens perdidos não podem ser recuperados. Seja sempre cauteloso ao negociar itens." />
+    <String id="1018" string="Nome do infrator" />
+    <String id="1019" string="Item perdido" />
+    <String id="1020" string="Hora da ocorrência" />
+    <String id="52" string="Linguagem vulgar" />
+    <String id="152" string="Se você estiver incomodado com a linguagem vulgar ou ofensiva de um jogador, denuncie o fato a um GM. Resolveremos o problema de acordo com nossas políticas. Observação: se nossa investigação revelar que ambas as partes estavam usando linguagem vulgar, ambas serão penalizadas. Não responda a obscenidades! Em vez disso, denuncie a situação a um GM." />
+    <String id="1021" string="Nome do infrator" />
+    <String id="1022" string="Hora da ocorrência" />
+    <String id="53" string="Spamming" />
+    <String id="153" string="Se um jogador fizer spam na sua janela de bate-papo ou publicar anúncios comerciais, informe o horário da ocorrência e o nome do personagem do jogador. O spam é terminantemente proibido e analisaremos os registros do jogo e processaremos esses casos de acordo com nossas políticas. Nós nos esforçamos para proporcionar um ambiente de jogo agradável." />
+    <String id="1023" string="Nome do infrator" />
+    <String id="1024" string="Hora da ocorrência" />
+    <String id="54" string="Outros jogadores desonestos" />
+    <String id="154" string="Nossos GMs investigam minuciosamente todos os jogadores desonestos denunciados de acordo com nossas políticas internas. Observe, no entanto, que nossos GMs não interferirão em disputas entre jogadores. Essa política nos ajuda a garantir que os GMs permaneçam justos e imparciais." />
+    <String id="1025" string="Nome do infrator" />
+    <String id="1026" string="Hora da ocorrência" />
+    <String id="6" string="Sugestões" />
+    <String id="106" string="Tem uma ótima ideia para o jogo? Compartilhe-a nos fóruns! Estamos sempre buscando feedback útil." />
+    <String id="60" string="Sugestões" />
+    <String id="160" string="Lembre-se de que ouvimos suas sugestões e as consideramos, mesmo aquelas que não podemos incluir no jogo. Adoramos receber ideias construtivas!" />
+    <String id="7" string="Diversos" />
+    <String id="107" string="Nossa equipe de suporte está esperando por você no site de suporte e nos fóruns. Seja qual for a sua pergunta, queremos lhe dar uma resposta rápida e útil." />
+    <String id="70" string="Consultas diversas" />
+    <String id="170" string="Tem um problema complexo? Encontrou um bug irritante que é difícil de explicar? Inicie um bate-papo ao vivo com nossa equipe de suporte. Sempre teremos prazer em ajudar." />
+    <String id="12" string="cordas japonesas" />
+    <String id="112" string="cordas japonesas" />
+    <String id="23" string="cordas japonesas" />
+    <String id="123" string="cordas japonesas" />
+</StrSheet_Petition>

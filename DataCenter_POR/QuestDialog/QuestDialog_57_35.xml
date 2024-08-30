@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="57" id="35" voiceTypeId="0">
+    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
+    <Text huntingZoneId="257" id="100" prevId="0" villagerId="1017">
+         
+        <Page social="0" />
+    
+    </Text>
+    <Text huntingZoneId="257" id="2" prevId="0" villagerId="1017">
+         
+        <Page social="4">Killian deu aos argons a localização de nossos ovos. Se cooperarmos, ele diz que eles não serão feridos, mas como podemos confiar nele? &lt;BR&gt;&lt;BR&gt;Um iknephar argon chamado Kezelran vigia os ovos magicamente. Se você o matar, poderá recuperar alguns dos ovos e trazê-los de volta.&lt;BR&gt;&lt;BR&gt;Não deixe que os argons levem nossos filhotes!</Page>
+    
+    </Text>
+    <Text huntingZoneId="257" id="3" prevId="2" villagerId="1017">
+         
+        <Page social="4">Sikander o abençoe! Você salvou o futuro dos sikandaris.&lt;BR&gt;&lt;BR&gt;Sei bem que seu povo sofreu nas mãos dos hereges. Isso torna esse presente ainda mais significativo. Muito obrigado.</Page>
+    
+    </Text>
+    <Text huntingZoneId="257" id="4" villagerId="1017">
+         
+        <Page social="0">Não podemos deixar que os argonss roubem nossos ovos! Não há como prever os horrores que eles infligiriam aos nossos filhos.</Page>
+    
+    </Text>
+</QuestDialog>

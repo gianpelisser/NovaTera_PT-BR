@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="17" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1600">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1600">
+        <Page social="4">A-a-a-a-a-a-a-a-a-ah! A terrible thing has happened! The scout squad hasn't been in touch for days, I don't know what may have happened with them! It's very dangerous in the Argonian lands, especially difficult to survive an encounter with any of the lords of those lands. I told them to flee at the first opportunity if it happened, but they didn't seem to succeed! The last message I received was that they had found some kind of rune in a cave of an unknown creature... I recall that those coordinates were the Abode of Shandra Manaya. Oh, no! Hurry, they may still be alive ... </Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1600">
+        <Page social="4">Why did you come alone?! Did no one survive?! How sad ... What's that? Oh ... Judging by the glow, they're shards of the Hagalaz rune. So that thing ate my people before you got here ... Thank you for avenging my friends, take this, and leave me alone for a while ...</Page>
+    </Text>
+    <Text id="4" huntingZoneId="63" villagerId="1600">
+        <Page social="0">Afraid of being late, with hope for the best ...</Page>
+    </Text>
+</QuestDialog>
