@@ -847,7 +847,7 @@
     <String string="Tempo de Elenco" stringId="$082031" />
     <String string="Custo de MP" stringId="$082032" />
     <String string="Recarga" stringId="$082033" />
-    <String string="Dano básico" stringId="$082034" />
+    <String string="Dano Base" stringId="$082034" />
     <String string="Você não aprendeu essa habilidade." stringId="$082035" />
     <String string="Custo AP" stringId="$082036" />
     <String string="Próxima etapa:" stringId="$082037" />
@@ -998,7 +998,7 @@
     <String string="Descrição" stringId="$101037" />
     <String string="Termos do contrato" stringId="$101038" />
     <String string="Situação financeira" stringId="$101039" />
-    <String string="Dano básico" stringId="$101040" />
+    <String string="Dano Base" stringId="$101040" />
     <String string="Tier {rank}" stringId="$101041" />
     <String string="Substitui" stringId="$101042" />
     <String string="HP" stringId="$101043" />
@@ -1699,8 +1699,8 @@
     <String string="Agência" stringId="$142016" />
     <String string="Consignatário" stringId="$142017" />
     <String string="Progresso" stringId="$142018" />
-    <String string="Artesanato" stringId="$151001" />
-    <String string="Artesanato" stringId="$151002" />
+    <String string="Produção (Craft)" stringId="$151001" />
+    <String string="Produção (Craft)" stringId="$151002" />
     <String string="Materiais" stringId="$151003" />
     <String string="Extração" stringId="$151004" />
     <String string="Fechar" stringId="$151005" />
@@ -1712,7 +1712,7 @@
     <String string="Reagentes" stringId="$152005" />
     <String string="Extração" stringId="$152006" />
     <String string="Extrato" stringId="$152007" />
-    <String string="Artesanato" stringId="$153001" />
+    <String string="Produção (Craft)" stringId="$153001" />
     <String string="Ingredientes" stringId="$153002" />
     <String string="Nível " stringId="$153003" />
     <String string="Quantidade" stringId="$153004" />
@@ -1738,16 +1738,16 @@
     <String string="Você pode fazer artesanato nas oficinas das grandes cidades ou perto de uma fogueira." stringId="$153024" />
     <String string="Bônus" stringId="$153025" />
     <String string="Número para criar" stringId="$153026" />
-    <String string="Ganho de habilidade:" stringId="$153027" />
+    <String string="Ganho:" stringId="$153027" />
     <String string="Progresso" stringId="$153028" />
     <String string="Todo o progresso" stringId="$153029" />
-    <String string="Sair do teste" stringId="$153030" />
+    <String string="Desistir do Teste" stringId="$153030" />
     <String string="Fabricação de armas" stringId="$153031" />
     <String string="Fabricação de armaduras" stringId="$153032" />
     <String string="Alquimia" stringId="$153033" />
     <String string="Promoção" stringId="$153034" />
     <String string="Pontos de promoção" stringId="$153035" />
-    <String string="Artesanato" stringId="$153036" />
+    <String string="Produção (Craft)" stringId="$153036" />
     <String string="Pontos" stringId="$153037" />
     <String string="Pontos ganhos" stringId="$153038" />
     <String string="Total ganho" stringId="$153039" />
@@ -1764,7 +1764,7 @@
     <String string="Materiais" stringId="$153050" />
     <String string="Aditivo opcional" stringId="$153051" />
     <String string="Habilidade necessária:" stringId="$153052" />
-    <String string="Ganho de habilidade:" stringId="$153053" />
+    <String string="Ganho:" stringId="$153053" />
     <String string="Prêmio crítico:" stringId="$153054" />
     <String string="Disponível" stringId="$153055" />
     <String string="Em andamento" stringId="$153056" />
@@ -2476,8 +2476,8 @@
     <String string="Para baixo" stringId="$231182" />
     <String string="Direita" stringId="$231183" />
     <String string="Esquerda" stringId="$231184" />
-    <String string="Zoom da câmera do NPC" stringId="$231185" />
-    <String string="Coleta de zoom da câmera" stringId="$231186" />
+    <String string="Zoom da câmera no NPC" stringId="$231185" />
+    <String string="Zoom de câmera na coleta" stringId="$231186" />
     <String string="Ajustar a resolução da textura" stringId="$231187" />
     <String string="Movimento do mouse (Xbox)" stringId="$231188" />
     <String string="Mouse ScrollUp(Xbox)" stringId="$231189" />
@@ -2506,7 +2506,7 @@
     <String string="Gamepad_RightStick_Down" stringId="$231212" />
     <String string="Gamepad_RightStick_Left" stringId="$231213" />
     <String string="Gamepad_RightStick_Right" stringId="$231214" />
-    <String string="Exibir dicas curtas" stringId="$231215" />
+    <String string="Exibir pequenas dicas" stringId="$231215" />
     <String string="Ver ajuda" stringId="$231216" />
     <String string="Configurações de ajuda" stringId="$231217" />
     <String string="Social" stringId="$231218" />
@@ -2588,8 +2588,8 @@
     <String string="Avisos do líder" stringId="$231294" />
     <String string="Avisos do Noctenium Extractor" stringId="$231295" />
     <String string="Aparência do conjunto" stringId="$231296" />
-    <String string="Traje de show face" stringId="$231297" />
-    <String string="Use um penteado para cima" stringId="$231298" />
+    <String string="Sempre mostrar fantasia de rosto" stringId="$231297" />
+    <String string="Sempre ficar com o cabelo amarrado" stringId="$231298" />
     <String string="Exibir sua HP" stringId="$231299" />
     <String string="Limite máximo de alcance da câmera" stringId="$231300" />
     <String string="AP" stringId="$235000" />
@@ -2846,7 +2846,7 @@
     <String string="&lt;FONT SIZE='18' COLOR='#35DBFF'&gt;Crie, anuncie e monitore&lt;/FONT&gt; uma batalha com vários jogadores no menu &lt;FONT SIZE='18' COLOR='#FDFD02'&gt;Social&lt;/FONT&gt; selecionando &lt;FONT SIZE='18' COLOR='#FDFD02'&gt;Deathmatch&lt;/FONT&gt;. Participe de um deathmatch anunciado clicando com o botão direito do mouse no promotor do duelo e selecionando &quot;Join deathmatch&quot;." stringId="$261026" />
     <String string="Resistência e descanso" stringId="$261027" />
     <String string="A resistência e o HP diminuem quando você recebe dano. Fique perto de uma &lt;FONT SIZE='18' COLOR='#35DBFF'&gt;fogueira&lt;/FONT&gt; para se recuperar." stringId="$261028" />
-    <String string="Artesanato" stringId="$261029" />
+    <String string="Produção (Craft)" stringId="$261029" />
     <String string="As peças e os equipamentos são fabricados nas cidades. &lt;FONT SIZE='18' COLOR='#FDFD02'&gt;Para fabricar, fale com um NPC de fabricação em uma oficina da cidade.&lt;/FONT&gt;" stringId="$261030" />
     <String string="Extração" stringId="$261031" />
     <String string="&lt;FONT SIZE='18' COLOR='#35DBFF'&gt;Os materiais podem ser extraídos de alguns equipamentos.&lt;/FONT&gt; Abra a janela de extração no menu &lt;FONT SIZE='18' COLOR='#FDFD02'&gt;Activities&lt;/FONT&gt; e selecione &lt;FONT SIZE='18' COLOR='#FDFD02'&gt;Craft/Extract&lt;/FONT&gt;." stringId="$261032" />
@@ -4030,7 +4030,7 @@
     <String string="Tempo de Elenco" stringId="$590003" />
     <String string="Custo de MP" stringId="$590004" />
     <String string="Recarga (Cooldown)" stringId="$590005" />
-    <String string="Dano básico" stringId="$590006" />
+    <String string="Dano Base" stringId="$590006" />
     <String string="Requisitos" stringId="$590007" />
     <String string="AP" stringId="$590008" />
     <String string="LV" stringId="$590009" />

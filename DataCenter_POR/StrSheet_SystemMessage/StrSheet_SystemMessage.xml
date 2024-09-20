@@ -444,7 +444,7 @@
     <String string="Confirmação" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_CANCELSTORE_MSGBOX_TITLE" displayChat="false" />
     <String string="Retornar ao teste" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_CANCEL_ARTISAN_UPGRADE_POPUP_BT_NO" displayChat="false" />
     <String string="Confirmar" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_CANCEL_ARTISAN_UPGRADE_POPUP_BT_YES" displayChat="false" />
-    <String string="Confirme que deseja sair do teste. Quando você sair, todo o seu progresso no teste será perdido." delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_CANCEL_ARTISAN_UPGRADE_POPUP_CONTEXT" displayChat="false" />
+    <String string="Confirme que deseja desistir do teste. Quando você sair, todo o seu progresso no teste será perdido." delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_CANCEL_ARTISAN_UPGRADE_POPUP_CONTEXT" displayChat="false" />
     <String string="Desistir do teste?" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_CANCEL_ARTISAN_UPGRADE_POPUP_TITLE" displayChat="false" />
     <String string="As apostas foram feitas. Você deseja removê-las?" delayTime="0" effect="-1" sound="2001" style="SMS_DEFAULT" readableId="SMT_CANCEL_BATTING_MSGBOX_MESSAGE" displayChat="false" />
     <String string="Confirmação" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_CANCEL_BATTING_MSGBOX_TITLE" displayChat="false" />
@@ -636,7 +636,7 @@
     <String string="Você precisa de um intrincado pergaminho de identificação para esse item." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_IDENTIFY_ITEM_GRADE" chatChannel="203" displayChat="false" />
     <String string="Você não pode usar o bate-papo geral enquanto estiver viajando." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_INPUT_NORMAL_CHAT_IN_HIGHWAY" chatChannel="203" displayChat="true" />
     <String string="Não é possível enviar LFG. Parte de sua mensagem não é permitida." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_CANT_INPUT_VULGARISM" chatChannel="201" displayChat="true" />
-    <String string="Nenhum personagem atende aos requisitos de elegibilidade para esse item. O item deve ser saqueado e distribuído novamente." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_PARTY_INFO" readableId="SMT_CANT_INSERT_ITEM_USER_NULL" chatChannel="204" displayChat="true" />
+    <String string="Ninguém atente aos requisitos de elegibilidade. O item deve ser pego e distribuido novamente." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_PARTY_INFO" readableId="SMT_CANT_INSERT_ITEM_USER_NULL" chatChannel="204" displayChat="true" />
     <String string="Não é possível convidar amigos com esse tipo de conta." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_INVITE_FRIEND_FREE_SERVICE" chatChannel="203" displayChat="true" />
     <String string="Não é possível adicionar amigos em um campo de batalha." delayTime="0" effect="-1" sound="2003" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_INVITE_FRIEND_IN_BATTLEFIELD" chatChannel="203" displayChat="true" />
     <String string="Não é possível adicionar membros da guilda em um campo de batalha." delayTime="0" effect="-1" sound="2003" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_INVITE_GUILD_IN_BATTLEFIELD" chatChannel="203" displayChat="true" />

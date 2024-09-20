@@ -18,56 +18,56 @@
     <Command id="38" name="sit" />
     <Command id="39" name="stand" />
     <Command id="101" name="Trade" alias="trade,tr" interactionMenuName="Trade (Negociar)" />
-    <Command id="102" name="View Profile" alias="viewprofile,profile" />
-    <Command id="104" name="Duel" alias="duel,challenge" interactionMenuName="Duelo" />
+    <Command id="102" name="Ver perfil" alias="viewprofile,profile" />
+    <Command id="104" name="Duelo" alias="duel,challenge" interactionMenuName="Duelo" />
     <Command id="105" name="Yield" alias="uncle,yield" />
-    <Command id="107" name="Location" alias="pos,position" />
-    <Command id="201" name="Invite to party" alias="invite,inv" interactionMenuName="Convidar para Grupo" />
+    <Command id="107" name="Localização" alias="pos,position" />
+    <Command id="201" name="Convidar para Grupo" alias="invite,inv" interactionMenuName="Convidar para Grupo" />
     <Command id="202" name="Drop" alias="drop,quit" />
     <Command id="203" name="Kick" alias="uninvite" interactionMenuName="Remover do Grupo" />
     <Command id="205" name="Delegate Leader" alias="leader,promote" interactionMenuName="Transferir Líder" />
     <Command id="206" name="LFG" alias="lfg,goal" />
-    <Command id="207" name="Apply to Party" alias="join,applytoparty" />
+    <Command id="207" name="Pedir para entrar no Grupo" alias="join,applytoparty" />
     <Command id="208" name="Invite all to raid" alias="inviteall,all" interactionMenuName="Convidar todos para Raid" />
-    <Command id="209" name="Grant invite power" alias="grantabilitytoinvite,assist" interactionMenuName="Conceder poder de convite" />
-    <Command id="210" name="Revoke invite power" alias="revokeabilitytoinvite,revoke" interactionMenuName="Remover poder de convite" />
-    <Command id="301" name="Quit Guild" alias="gquit,guildquit" />
-    <Command id="302" name="Kick from Guild" alias="gkick,guildkick" />
-    <Command id="303" name="Make Guild Master" alias="gmaster,guildmaster" />
-    <Command id="304" name="Apply to Guild" alias="apply" />
+    <Command id="209" name="Convidar todos para Raid" alias="grantabilitytoinvite,assist" interactionMenuName="Conceder poder de convite" />
+    <Command id="210" name="Remover poder de convite" alias="revokeabilitytoinvite,revoke" interactionMenuName="Remover poder de convite" />
+    <Command id="301" name="Sair da Guild" alias="gquit,guildquit" />
+    <Command id="302" name="Remover da Guild" alias="gkick,guildkick" />
+    <Command id="303" name="Tornar Mestre da Guild" alias="gmaster,guildmaster" />
+    <Command id="304" name="Inscreva-se na Guild" alias="apply" />
     <Command id="305" name="Disband Guild" alias="gdisband,guilddisband" />
-    <Command id="307" name="Guilds on Server" alias="glist,guildlist" />
-    <Command id="308" name="Invite to guild" alias="ginvite,guildinvite" interactionMenuName="Convidar para Guild" />
-    <Command id="310" name="Apply to Guild" alias="gapply" interactionMenuName="Apply to guild" />
-    <Command id="311" name="Praise" alias="praise,recommend" />
-    <Command id="312" name="Praise their guild" alias="guildpraise,gpraise" interactionMenuName="Elogie a Guild" />
-    <Command id="403" name="Help" alias="help,h" />
-    <Command id="451" name="Join their Deathmatch" alias="dmjoin,joindm" interactionMenuName="Junte-se ao mesmo Deathmatch" />
-    <Command id="452" name="Invite to Deathmatch" alias="dminvite" interactionMenuName="Convidar para Deathmatch" />
-    <Command id="453" name="Kick from Deathmatch" alias="dmkick" />
-    <Command id="454" name="Leave Deathmatch" alias="dmleave,dmdrop" />
-    <Command id="501" name="Friend List" alias="friendlist,social" />
+    <Command id="307" name="Guildas no Servidor" alias="glist,guildlist" />
+    <Command id="308" name="Convidar para Guild" alias="ginvite,guildinvite" interactionMenuName="Convidar para Guild" />
+    <Command id="310" name="Inscreva-se na Guild" alias="gapply" interactionMenuName="Inscreva-se na Guild" />
+    <Command id="311" name="Elogiar" alias="praise,recommend" />
+    <Command id="312" name="Elogie a Guild" alias="guildpraise,gpraise" interactionMenuName="Elogie a Guild" />
+    <Command id="403" name="Ajuda" alias="help,h" />
+    <Command id="451" name="Junte-se ao mesmo Deathmatch" alias="dmjoin,joindm" interactionMenuName="Junte-se ao mesmo Deathmatch" />
+    <Command id="452" name="Convidar para Deathmatch" alias="dminvite" interactionMenuName="Convidar para Deathmatch" />
+    <Command id="453" name="Remover da Deathmatch" alias="dmkick" />
+    <Command id="454" name="Sair da Deathmatch" alias="dmleave,dmdrop" />
+    <Command id="501" name="Lista de Amigos" alias="friendlist,social" />
     <Command id="502" name="Add as friend" alias="friend,fr" interactionMenuName="Adicionar como amigo" />
     <Command id="503" name="Block" interactionMenuName="Bloquear" />
     <Command id="504" name="Unblock" interactionMenuName="Desbloquear" />
     <Command id="701" name="Arrest" />
     <Command id="702" name="Release" />
-    <Command id="801" name="Make Channel" alias="make,makechannel" />
-    <Command id="802" name="Join Channel" alias="chat,joinchannel" />
-    <Command id="803" name="Leave Channel" alias="leave" />
-    <Command id="806" name="Change Password" alias="password,chatpassword" />
-    <Command id="807" name="Kick from Channel" alias="chatkick,ckick" />
+    <Command id="801" name="Criar Canal" alias="make,makechannel" />
+    <Command id="802" name="Entrar no Canal" alias="chat,joinchannel" />
+    <Command id="803" name="Sair do Canal" alias="leave" />
+    <Command id="806" name="Mudar Senha" alias="password,chatpassword" />
+    <Command id="807" name="Remvoer do Canal" alias="chatkick,ckick" />
     <Command id="901" name="Played" />
     <Command id="902" name="?" alias="chathelp,h" />
     <Command id="903" name="Dbtime" />
     <Command id="904" name="Servertime" />
     <Command id="1001" name="Follow" alias="follow,f" interactionMenuName="Seguir" />
-    <Command id="1002" name="Whisper" interactionMenuName="Whisper" />
+    <Command id="1002" name="Whisper" interactionMenuName="Sussurrar" />
     <Command id="1101" name="Reset" />
     <Command id="1102" name="Petition" />
     <Command id="1103" name="Inspect" alias="inspect,look" interactionMenuName="Inspect (Inspecionar)" />
     <Command id="1104" name="Select" />
-    <Command id="1105" name="Compare Achievements" alias="achievements,compare,achieves" interactionMenuName="Comparar Achievements" />
+    <Command id="1105" name="Compare Achievements" alias="achievements,compare,achieves" interactionMenuName="Comparar Conquistas" />
     <Command id="1201" name="Roll Dice" alias="rolldice,roll,dice" />
     <Command id="2001" name="Review User Info" alias="inquireuserinfo,user" interactionMenuName="Ver informações do jogador" />
     <Command id="2002" name="Pet force quit" alias="petforcequit,closestore" interactionMenuName="Forçar o PET a sair" />
@@ -77,5 +77,5 @@
     <Command id="3004" name="RP" alias="em, e" />
     <Command id="3005" name="Bug" />
     <Command id="3006" name="Gamepad" alias="controller,gamepad" />
-    <Command id="3007" name="Summon Friend" alias="summonfriend,summon" interactionMenuName="Invocar amigo" />
+    <Command id="3007" name="Invocar amigo" alias="summonfriend,summon" interactionMenuName="Invocar amigo" />
 </StrSheet_SlashCommand>

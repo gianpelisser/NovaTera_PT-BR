@@ -1773,7 +1773,7 @@ Does not stack with effects received via Instance Matching." />
     <String id="8000076" name="100% Gold Hunter Boost (1 Hour)" tooltip="Aumenta em 100% suas recompensas de ouro ao matar mobs por 1 hora." />
     <String id="8000077" name="Kaia's Dedication" tooltip="Aumenta o dano em $H_W_GOOD$value2$COLOR_END, reduz o dano recebido em $H_W_GOOD$value3$COLOR_END. Aumenta velocidade de ataque em $H_W_GOOD$value$COLOR_END." />
     
-	<String id="8000078" name="Premium effect: +100%" tooltip="Presente VIP: Bônus de Experiência: +100%, Bônus de Reputação e Valor +100%, Ouro Extra (Missões): 100%, Ouro extra (Caça): 100% enquanto estiver no status VIP. (Esse efeito substitui todos os efeitos que aumentam a quantidade de experiência adquirida)." />
+	<String id="8000078" name="Efeito Premium: +100%" tooltip="Presente VIP: Bônus de Experiência: +100%, Bônus de Reputação e Valor +100%, Ouro Extra (Missões): 100%, Ouro extra (Caça): 100% enquanto estiver no status VIP. (Esse efeito substitui todos os efeitos que aumentam a quantidade de experiência adquirida)." />
 	<String id="8000079" name="Event - EXP: +400%" tooltip="O evento está sendo realizado para aumentar a EXP. Os bônus VIP são salvos ao mesmo tempo: Bônus de reputação e valor +100%, ouro extra (missões): 100%, Extra Gold (Hunting): 100%." />
     <String id="8000080" name="Event - EXP: +300%" tooltip="O evento está sendo realizado para aumentar a EXP." />
     <String id="8000101" name="Extra Gold (Hunting): 100% (VIP)" tooltip="Presente VIP: você recebe 100% a mais de ouro ao matar monstros se for VIP. (Esse efeito substitui todos os efeitos que aumentam a quantidade de ouro recebida)." />
@@ -3045,4 +3045,5 @@ Does not stack with effects received via Instance Matching." />
 	<String id="999009502" name="The Heat of the Forge" tooltip="Faz com que você perca $H_W_BAD$value$COLOR_END do nível máximo de HP a cada $H_W_GOOD$tickInterval$COLOR_END, o efeito não pode ser removido." />
 	<String id="999009503" name="Clouding of the mind" tooltip="As teclas de movimento estão bagunçadas." />
 	<String id="999009504" name="The benefit of the discoverer" tooltip="A EXP obtida durante a caçada aumenta em $H_W_GOOD$value$COLOR_END." />
+    <String id="98000075" name="Não pode ser curado." tooltip="Não pode ser curado por um tempo." />
 </StrSheet_Abnormality>
