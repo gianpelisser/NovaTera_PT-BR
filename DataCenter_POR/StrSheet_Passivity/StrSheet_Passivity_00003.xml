@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <StrSheet_Passivity xmlns="https://vezel.dev/novadrop/dc/StrSheet_Passivity" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Passivity StrSheet_Passivity.xsd">
-    <String id="10000" name="Speed Boost" tooltip="$H_S_GOODAumenta a velocidade de movimento fora de combate.$COLOR_END$BR[Aumento de velocidade] Aumenta sua velocidade de movimento fora de combate em $value." />
-    <String id="10001" name="Speed Boost" tooltip="$H_S_GOODAumenta a velocidade de movimento fora de combate.$COLOR_END$BR[Aumento de velocidade] Aumenta sua velocidade de movimento fora de combate em $value." />
-    <String id="10002" name="Speed Boost" tooltip="$H_S_GOODAumenta a velocidade de movimento fora de combate.$COLOR_END$BR[Aumento de velocidade] Aumenta sua velocidade de movimento fora de combate em $value." />
-    <String id="11010" name="Merciless Leap" tooltip="$H_S_GOODAumenta o dano do leaping Strike.$COLOR_END$BR[Salto sem misericórdia.] Seu Leaping Strike causa 5x mais dano contra inimigos derrubados." />
-    <String id="11020" name="Staggering Riposte" tooltip="$H_S_GOODStaggering Counter ativado.$COLOR_END$BR[Resposta Desnorteante] Quando for atingido, você pode contra-atacar com Staggering Counter." />
-    <String id="12010" name="Delete_Shield Counter I" tooltip="Gain a chance to counterattack while using Stand Fast. You cannot be knocked down or stunned, and you take only half damage while using this skill." />
-    <String id="12011" name="Delete_Shield Counter II" tooltip="Gain a chance to counterattack while using Stand Fast. You cannot be knocked down or stunned, and you take only half damage while using this skill." />
-    <String id="12012" name="Delete_Shield Counter III" tooltip="Gain a chance to counterattack while using Stand Fast. You cannot be knocked down or stunned, and you take only half damage while using this skill." />
-    <String id="12013" name="Delete_Shield Counter IV" tooltip="Gain a chance to counterattack while using Stand Fast. You cannot be knocked down or stunned, and you take only half damage while using this skill." />
-    <String id="12014" name="Delete_Shield Counter V" tooltip="Gain a chance to counterattack while using Stand Fast. You cannot be knocked down or stunned, and you take only half damage while using this skill." />
-    <String id="12015" name="Delete_Shield Counter VI" tooltip="Gain a chance to counterattack while using Stand Fast. You cannot be knocked down or stunned, and you take only half damage while using this skill." />
-    <String id="12016" name="Delete_Shield Counter VII" tooltip="Gain a chance to counterattack while using Stand Fast. You cannot be knocked down or stunned, and you take only half damage while using this skill." />
-    <String id="12017" name="Delete_Shield Counter VIII" tooltip="Gain a chance to counterattack while using Stand Fast. You cannot be knocked down or stunned, and you take only half damage while using this skill." />
-    <String id="12018" name="Delete_Shield Counter IX" tooltip="Gain a chance to counterattack while using Stand Fast. You cannot be knocked down or stunned, and you take only half damage while using this skill." />
-    <String id="12019" name="Delete_Shield Counter X" tooltip="Gain a chance to counterattack while using Stand Fast. You cannot be knocked down or stunned, and you take only half damage while using this skill." />
-    <String id="12020" name="Delete_Shield Counter XI" tooltip="Gain a chance to counterattack while using Stand Fast. You cannot be knocked down or stunned, and you take only half damage while using this skill." />
-    <String id="12021" name="Delete_Shield Counter XII" tooltip="Gain a chance to counterattack while using Stand Fast. You cannot be knocked down or stunned, and you take only half damage while using this skill." />
-    <String id="12022" name="Delete_Shield Counter XIII" tooltip="Gain a chance to counterattack while using Stand Fast. You cannot be knocked down or stunned, and you take only half damage while using this skill." />
-    <String id="12023" name="Delete_Shield Counter XIV" tooltip="Gain a chance to counterattack while using Stand Fast. You cannot be knocked down or stunned, and you take only half damage while using this skill." />
-    <String id="12024" name="Hold the Line" tooltip="$H_S_GOODRestores stamina and draws more aggro.$COLOR_END$BRSuccessful Stand Fasts recovers 50 Stamina and gains 1% additional aggro. Additional aggro can stack up to 20 times, but will disappear on being successfully hit." />
+    <String id="10000" name="Speed Boost" tooltip="$H_S_GOODAumenta a velocidade de movimento fora de combate.$COLOR_END$BRAumenta sua velocidade de movimento fora de combate em $value." />
+    <String id="10001" name="Speed Boost" tooltip="$H_S_GOODAumenta a velocidade de movimento fora de combate.$COLOR_END$BRAumenta sua velocidade de movimento fora de combate em $value." />
+    <String id="10002" name="Speed Boost" tooltip="$H_S_GOODAumenta a velocidade de movimento fora de combate.$COLOR_END$BRAumenta sua velocidade de movimento fora de combate em $value." />
+    <String id="11010" name="Merciless Leap" tooltip="$H_S_GOODAumenta o dano do Leaping Strike.$COLOR_END$BRSeu Leaping Strike causa 5x mais dano contra inimigos derrubados." />
+    <String id="11020" name="Staggering Riposte" tooltip="$H_S_GOODStaggering Counter ativado.$COLOR_END$BRQuando for atingido, você pode contra-atacar com Staggering Counter." />
+    <String id="12010" name="Delete_Shield Counter I" tooltip="Ganhe uma chance de contra-ataque ao usar Stand Fast. Você não pode ser derrubado ou atordoado, e recebe apenas metade do dano enquanto usa esta habilidade." />
+    <String id="12011" name="Delete_Shield Counter II" tooltip="Ganhe uma chance de contra-ataque ao usar Stand Fast. Você não pode ser derrubado ou atordoado, e recebe apenas metade do dano enquanto usa esta habilidade." />
+    <String id="12012" name="Delete_Shield Counter III" tooltip="Ganhe uma chance de contra-ataque ao usar Stand Fast. Você não pode ser derrubado ou atordoado, e recebe apenas metade do dano enquanto usa esta habilidade." />
+    <String id="12013" name="Delete_Shield Counter IV" tooltip="Ganhe uma chance de contra-ataque ao usar Stand Fast. Você não pode ser derrubado ou atordoado, e recebe apenas metade do dano enquanto usa esta habilidade." />
+    <String id="12014" name="Delete_Shield Counter V" tooltip="Ganhe uma chance de contra-ataque ao usar Stand Fast. Você não pode ser derrubado ou atordoado, e recebe apenas metade do dano enquanto usa esta habilidade." />
+    <String id="12015" name="Delete_Shield Counter VI" tooltip="Ganhe uma chance de contra-ataque ao usar Stand Fast. Você não pode ser derrubado ou atordoado, e recebe apenas metade do dano enquanto usa esta habilidade." />
+    <String id="12016" name="Delete_Shield Counter VII" tooltip="Ganhe uma chance de contra-ataque ao usar Stand Fast. Você não pode ser derrubado ou atordoado, e recebe apenas metade do dano enquanto usa esta habilidade." />
+    <String id="12017" name="Delete_Shield Counter VIII" tooltip="Ganhe uma chance de contra-ataque ao usar Stand Fast. Você não pode ser derrubado ou atordoado, e recebe apenas metade do dano enquanto usa esta habilidade." />
+    <String id="12018" name="Delete_Shield Counter IX" tooltip="Ganhe uma chance de contra-ataque ao usar Stand Fast. Você não pode ser derrubado ou atordoado, e recebe apenas metade do dano enquanto usa esta habilidade." />
+    <String id="12019" name="Delete_Shield Counter X" tooltip="Ganhe uma chance de contra-ataque ao usar Stand Fast. Você não pode ser derrubado ou atordoado, e recebe apenas metade do dano enquanto usa esta habilidade." />
+    <String id="12020" name="Delete_Shield Counter XI" tooltip="Ganhe uma chance de contra-ataque ao usar Stand Fast. Você não pode ser derrubado ou atordoado, e recebe apenas metade do dano enquanto usa esta habilidade." />
+    <String id="12021" name="Delete_Shield Counter XII" tooltip="Ganhe uma chance de contra-ataque ao usar Stand Fast. Você não pode ser derrubado ou atordoado, e recebe apenas metade do dano enquanto usa esta habilidade." />
+    <String id="12022" name="Delete_Shield Counter XIII" tooltip="Ganhe uma chance de contra-ataque ao usar Stand Fast. Você não pode ser derrubado ou atordoado, e recebe apenas metade do dano enquanto usa esta habilidade." />
+    <String id="12023" name="Delete_Shield Counter XIV" tooltip="Ganhe uma chance de contra-ataque ao usar Stand Fast. Você não pode ser derrubado ou atordoado, e recebe apenas metade do dano enquanto usa esta habilidade." />
+    <String id="12024" name="Hold the Line" tooltip="$H_S_GOODAplica Segurar a Linha de Frente após um Bloqueio Perfeito. Ativar Stand Fast no momento de um ataque garante 50 de RE e o efeito Linha de frente.$COLOR_END$BRLinha de frente: Aumenta o aggro em 4%, aumenta o poder em 4 pontos e o fator crítico em 6 pontos. Acumula até 5 vezes. O efeito termina se você falhar em Bloquear um Ataque." />
     <String id="12030" name="Leash: Master's Leash" tooltip="$H_S_GOODMaster's Leash ativado.$COLOR_END$BRYou can follow up with the Master's Leash skill after you use Leash." />
-    <String id="13010" name="Merciless Leap" tooltip="$H_S_GOODAumenta o dano do leaping Strike.$COLOR_END$BR[Salto sem misericórdia] Seu Leaping Strike causa 5x mais dano contra inimigos derrubados." />
+    <String id="13010" name="Merciless Leap" tooltip="$H_S_GOODAumenta o dano do Leaping Strike.$COLOR_END$BRSeu Leaping Strike causa 5x mais dano contra inimigos derrubados." />
     <String id="13011" name="Icy Veins" tooltip="$H_S_GOODUsing In Cold Blood resets cooldowns.$COLOR_END$BRIn Cold Blood resets the cooldowns for Heart Thrust, Knockdown Strike, and Whirlwind." />
     <String id="13020" name="Knockdown Strike Boost" tooltip="$H_S_GOODIncreases Knockdown Strike damage.$COLOR_END$BRIncreases damage to multiple targets with Knockdown Strike." />
     <String id="13030" name="Whirlwind Intensity" tooltip="$H_S_GOODIncreases Whirlwind damage.$COLOR_END$BRIncreases damage to multiple targets with Whirlwind." />
-    <String id="14010" name="Merciless Leap" tooltip="$H_S_GOODAumenta o dano do leaping Strike.$COLOR_END$BR[.Salto sem misericórdia] Seu Leaping Strike causa 5x mais dano contra inimigos derrubados." />
+    <String id="14010" name="Merciless Leap" tooltip="$H_S_GOODAumenta o dano do Leaping Strike.$COLOR_END$BRSeu Leaping Strike causa 5x mais dano contra inimigos derrubados." />
     <String id="14020" name="Amok" tooltip="[Temporary] Berserker_Ultimate Blow I" />
     <String id="14030" name="Opportunity Knocks" tooltip="$H_S_GOODIncreases damage to monsters targeting someone else.$COLOR_END$BRDo additional damage to any monster that is currently focused on another player." />
-    <String id="14040" name="Cyclone Intensity" tooltip="$H_S_GOODIncreases Cyclone damage.$COLOR_END$BRIncreases damage to multiple targets with Cyclone." />
-    <String id="15010" name="Fireblast Intensity" tooltip="$H_S_GOODAumenta o dano do Fireblast.$COLOR_END$BR [Intensidade da Explosão de fogo] Aumenta o dano do Fireblast contra múltiplos alvos." />
-    <String id="15020" name="Flame Pillar Intensity" tooltip="$H_S_GOODAumenta o dano do Flame Pillar.$COLOR_END$BR[Intensidade do Pilar de Chamas] Aumenta o dano do Flame Pillar contra múltiplos alvos." />
+    <String id="14040" name="Cyclone Intensity" tooltip="$H_S_GOODAumenta o dano do Cyclone.$COLOR_END$BRAumenta o dano do Cyclone contra múltiplos alvos. " />
+    <String id="15010" name="Fireblast Intensity" tooltip="$H_S_GOODAumenta o dano do Fireblast.$COLOR_END$BR Aumenta o dano do Fireblast contra múltiplos alvos." />
+    <String id="15020" name="Flame Pillar Intensity" tooltip="$H_S_GOODAumenta o dano do Flame Pillar.$COLOR_END$BRAumenta o dano do Flame Pillar contra múltiplos alvos." />
     <String id="16010" name="Opportunity Knocks" tooltip="$H_S_GOODIncreases damage to monsters targeting someone else.$COLOR_END$BRDo additional damage to any monster that is currently focused on another player." />
     <String id="19100" name="Indomitable Spirit" tooltip="$H_S_GOODLessens PVP damage.$COLOR_END$BRWhen your HP is below 30%, you take $value% less damage from other players." />
     <String id="19101" name="Resilience of Body" tooltip="$H_S_GOODRegenerates HP upon resurrection.$COLOR_END$BRHeals you continuously after you're resurrected." />
@@ -51,14 +51,14 @@
     <String id="28080" />
     <String id="28081" />
     <String id="90001" name="Veil of Shadows" tooltip="$H_S_GOODRevival.$COLOR_END$BRYou do not die when you take lethal damage. Instead, you are knocked down, and enter the veil of shadows, where you immediately regain 15% of your HP. While in the veil, all damage is reduced by 50% but you cannot recover HP normally. You recover up to 30% of max HP when the effect ends. Veil of Shadows will only activate once every 10 minutes." />
-    <String id="90003" name="Vampiric Whipsaw" tooltip="$H_S_GOODRecovers HP with each hit.$COLOR_END$BRRecover 1.5% of your total HP every time you hit a target with Whipsaw." />
-    <String id="90005" name="Brutal Smite" tooltip="$H_S_GOODIncreases Smite damage against knocked-down targets.$COLOR_END$BRDoubles the damage dealt with Smite when attacking knocked-down targets." />
+    <String id="90003" name="Vampiric Whipsaw" tooltip="$H_S_GOODRecupera HP a cada golpe.$COLOR_END$BRRecupera 1,5% do seu HP total cada vez que você acerta um alvo com Whipsaw." />
+    <String id="90005" name="Brutal Smite" tooltip="$H_S_GOODAumenta o dano de Smite contra alvos derrubados.$COLOR_END$BRDobra o dano causado com Smite quando ataca alvos derrubados." />
     <String id="4000001" name="Increases attack speed" tooltip="$H_S_GOODIncreases attack speed.$COLOR_END$BRIncreases attack speed by $value." />
     <String id="4000002" name="Increases crit rate" tooltip="$H_S_GOODIncreases crit rate.$COLOR_END$BRIncreases crit rate by $value." />
     <String id="4000003" name="More Aggro" tooltip="$H_S_GOODIncreases aggro.$COLOR_END$BRYour attacks draw $value more aggro." />
     <String id="4000004" name="More Damage Against Bosses" tooltip="$H_S_GOODIncreases damage to boss monsters.$COLOR_END$BRDo $value more damage when you attack boss monsters." />
     <String id="4000005" name="Less Damage from Bosses" tooltip="$H_S_GOODReduces damage from boss monsters.$COLOR_END$BRDamage from boss monsters decreases by $value." />
-    <String id="4000006" name="Speed Boost" tooltip="$H_S_GOODAumenta a velocidade de movimento.$COLOR_END$BR[Aumento de velocidade] Aumenta sua velocidade de movimento em $value." />
+    <String id="4000006" name="Speed Boost" tooltip="$H_S_GOODAumenta a velocidade de movimento.$COLOR_END$BRAumenta sua velocidade de movimento em $value." />
     <String id="4000007" name="Increases Healing" tooltip="$H_S_GOODIncreases healing.$COLOR_END$BRIncreases healing $value." />
     <String id="4100000" name="Absorbs damage w/ Axe Block" tooltip="Absorbs up to $value damage with your defensive skill." />
     <String id="4100001" name="Absorbs damage w/ Axe Block" tooltip="Absorbs up to $value damage with your defensive skill." />
@@ -116,4 +116,5 @@
     <String id="61001800" name="Tenacious Aura" tooltip="$H_S_GOODImmunity to stun and knockdown.$COLOR_END$BRImmunity to stun and knockdown effects for allies near the assault commander. (Only activates in alliance territory during alliance conflicts.)" />
     <String id="61001900" name="Enduring Aura" tooltip="$H_S_GOODIncreases endurance.$COLOR_END$BRSignificantly increases endurance for allies near the defense commander. (Only activates in alliance territory during alliance conflicts.)" />
     <String id="61002000" name="Wholehearted Aura" tooltip="$H_S_GOODIncreases Stamina.$COLOR_END$BRContinuously increases Stamina for allies near the adjunct commander. (Only activates in alliance territory during alliance conflicts.)" />
+    <String id="98000075" name="Não pode ser curado." tooltip="Não pode ser curado por um tempo." />
 </StrSheet_Passivity>
