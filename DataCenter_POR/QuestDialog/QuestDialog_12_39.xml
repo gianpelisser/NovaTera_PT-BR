@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="12" id="39" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="12" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="212" id="100" prevId="0" villagerId="1007">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="212" id="2" prevId="0" villagerId="1007">
          
+         
         <Page social="5">A boa notícia é que encontramos todas as armas que faltavam... aquelas que pensávamos terem sido perdidas em trânsito quando chegamos aqui.&lt;BR&gt;&lt;BR&gt;A má notícia é que as encontramos em caixas que os piratas estavam transportando.&lt;BR&gt;&lt;BR&gt;E eles têm mais! Temos que recuperar essas armas antes que os piratas as usem para derramar o sangue de Valkyon!</Page>
+    
     
     </Text>
     <Text huntingZoneId="212" id="3" prevId="2" villagerId="1007">
          
+         
         <Page social="4">Lição aprendida: O fato de estar na selva não significa que você não tenha que se preocupar com furtos, pequenos furtos e coisas piores.</Page>
+    
     
     </Text>
     <Text huntingZoneId="212" id="4" villagerId="1007">
          
+         
         <Page social="0">Você quer que os piratas se equipem com nossas armas antes de começarem a nos esfaquear? &lt;BR&gt;&lt;BR&gt;Você tem o conceito de "justiça poética" completamente invertido em sua mente?</Page>
+    
     
     </Text>
 </QuestDialog>

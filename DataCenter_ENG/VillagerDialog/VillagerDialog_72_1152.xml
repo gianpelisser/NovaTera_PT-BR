@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="72" id="1152" voiceTypeId="86">
-    <Text huntingZoneId="72" id="1" endSocial="14" prevId="0" villagerId="1152">
-         
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1152" huntingZoneId="72" voiceTypeId="86" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="72" prevId="0" villagerId="1152" endSocial="14">
         <Page social="4" voiceTypeId="0">If you know your history, you'll know the castanics were sought after by the gods to create artifacts of power and wonder.&lt;BR&gt;&lt;BR&gt;Think what you could make with these!</Page>
-    
     </Text>
 </VillagerDialog>

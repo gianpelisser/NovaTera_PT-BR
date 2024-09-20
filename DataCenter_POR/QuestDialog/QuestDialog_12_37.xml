@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="12" id="37" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="12" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="212" id="100" prevId="0" villagerId="1001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="212" id="2" prevId="0" villagerId="1001">
          
+         
         <Page social="4">A Ilha de Mistmoor é, com certeza, o lugar onde os Piratas Vermelhos e os Escravagistas Mercadores Mitra fazem seus negócios.&lt;BR&gt;&lt;BR&gt;Matar os cruéis Escravagistas é essencial para acabar com seus atos de brutalidade.&lt;BR&gt;&lt;BR&gt;Por favor, elimine os {@LinkCreature:12#21#Escravagistas Mercadores Mitra} que vagam pela Ilha de Mistmoor e depois vá visitar {@LinkCreature:212#1005$$Taniel}.</Page>
+    
     
     </Text>
     <Text huntingZoneId="212" id="3" prevId="2" villagerId="1005">
          
+         
         <Page social="4">Ótimo. Você já matou muitos mercadores de escravos. Sei que não é fácil lidar com eles. Ótimo trabalho. Certifique-se de não deixar que eles o cerquem. Quando o cercarem, eles o dominarão e você não sairá vivo, mesmo que tenha nove vidas como um gato.</Page>
+    
     
     </Text>
     <Text huntingZoneId="212" id="4" villagerId="1005">
          
+         
         <Page social="0">Elimine todos eles, &lt;PCNAME&gt;. Imagine quantos escravos em potencial você está libertando com cada cadáver de escravizador.</Page>
+    
     
     </Text>
 </QuestDialog>

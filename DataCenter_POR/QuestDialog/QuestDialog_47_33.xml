@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="47" id="33" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="47" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="247" id="100" prevId="0" villagerId="1021">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="247" id="2" prevId="0" villagerId="1021">
          
+         
         <Page social="4">Ao norte, há um antigo acampamento de escoteiros. Você poderia ver se a federação deixou algum suprimento para trás quando fugiu? O que quer que esteja lá, provavelmente podemos usar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="247" id="3" prevId="2" villagerId="1021">
          
+         
         <Page social="4">Parte disso é comida comestível! Por que os argons ou qualquer uma de suas criações monstruosas já não o teriam comido? &lt;BR&gt;&lt;BR&gt;...E se as necessidades deles forem muito, muito diferentes das nossas - mais diferentes do que suspeitávamos até agora?</Page>
+    
     
     </Text>
 </QuestDialog>

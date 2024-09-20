@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="2" id="34" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="2" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="202" id="100" prevId="0" villagerId="1047">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="202" id="2" prevId="0" villagerId="1047">
          
+         
         <Page social="4">Você é definitivamente a cura para o nosso problema com os centauros, mas não há cura para a idiotice de certos madeireiros. Como &lt;b&gt;Siravon&lt;/b&gt;.&lt;BR&gt;&lt;BR&gt;Eu o enviei para consertar a ponte ao sul de Faevine Vale, e aquele idiota saiu sem suas ferramentas!&lt;BR&gt;&lt;BR&gt;Eu enviaria um de meus lenhadores, mas as estradas são perigosas... e você está aqui.&lt;BR&gt;&lt;BR&gt;Quer trazer a Siravon as ferramentas que ele deveria ter tido o tempo todo?</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="3" prevId="2" villagerId="1015">
          
+         
         <Page social="4">Obrigado, &lt;PCNAME&gt;. Juro que o Balter está de olho em mim. Esquecer as ferramentas foi culpa minha, com certeza, mas quem manda um madeireiro desarmado sozinho para consertar uma ponte? &lt;BR&gt;&lt;BR&gt;Um chefe que não gosta de mim, esse é quem.</Page>
+    
     
     </Text>
 </QuestDialog>

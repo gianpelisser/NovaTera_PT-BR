@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="49" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="49" huntingZoneId="52" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="79" id="100" prevId="0" villagerId="1056">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="79" id="2" prevId="0" villagerId="1056">
          
+         
         <Page social="5">Então você conhece o Necromancer's Orb, certo? Claro que sim. Bem, eu preciso de um fragmento dele. Não pergunte por que, eu simplesmente preciso. E estou disposto a fazer uma troca por ele.&lt;NEXTPAGEBUTTON&gt;"Disposto a trocar o quê?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="5">Ora, um pedaço do bico de Kelsaik, isso sim! Por míseros dois fragmentos de orbe do necromante. É o negócio de uma vida, é o que é. Então, volte quando tiver esses fragmentos de orbe, ouviu?</Page>
+    
     
     </Text>
     <Text huntingZoneId="79" id="3" prevId="2" villagerId="1056">
          
+         
         <Page social="5">Vejo que você tem os fragmentos da esfera. Cumpriu sua palavra, e eu também. Aqui está o que lhe prometi em troca. Você sempre poderá contar comigo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="79" id="4" villagerId="1056">
          
+         
         <Page social="0">Não há fragmentos de orbe? Nada feito.</Page>
+    
     
     </Text>
 </QuestDialog>

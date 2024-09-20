@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="41" id="96" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="96" huntingZoneId="41" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="75" id="100" prevId="0" villagerId="1024">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="75" id="2" prevId="0" villagerId="1024">
          
+         
         <Page social="0">Nossos esforços na região estão ameaçados pelos tentaculares e por esses malditos besharans. Quero que você acabe com isso imediatamente! &lt;BR&gt;&lt;BR&gt;Vá lá e cace {@LinkCreature:41#2008#pântano} e {@LinkCreature:41#2009# tentaculares de Mire}, e {@LinkCreature:41#2002#forçadores besharanos} e {@LinkCreature:41#2006#contrabandistas} perto da Arena de Sangue e do Vale Feral.&lt;BR&gt;&lt;BR&gt;Relate seu progresso para Keltaria no Ponto do Emissário. Tomem o campo!</Page>
+    
     
     </Text>
     <Text huntingZoneId="241" id="3" prevId="2" villagerId="1007">
          
+         
         <Page social="4">Você ganhou esta recompensa, &lt;PCNAME&gt;. Aproveite-a.</Page>
+    
     
     </Text>
     <Text huntingZoneId="241" id="4" villagerId="1007">
          
+         
         <Page social="0">Estamos sob muita pressão da federação para nos livrarmos do maior número possível dessas criaturas.&lt;BR&gt;&lt;BR&gt;Eles estão dispostos a pagar, é claro.</Page>
+    
     
     </Text>
 </QuestDialog>

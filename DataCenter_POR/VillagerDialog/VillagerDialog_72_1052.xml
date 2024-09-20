@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="72" id="1052" voiceTypeId="130">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1052" huntingZoneId="72" voiceTypeId="130">
     <Text huntingZoneId="72" id="1" endSocial="14" prevId="0" villagerId="1052">
          
+         
         <Page social="4">What knowledge do you seek, my friend? Are you looking to create or destroy? Or, perhaps the rarer choice, to combine?</Page>
+    
     
     </Text>
 </VillagerDialog>

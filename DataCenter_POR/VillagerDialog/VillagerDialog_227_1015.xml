@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="227" id="1015" voiceTypeId="48">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1015" huntingZoneId="227" voiceTypeId="48">
     <Text huntingZoneId="227" id="1" endSocial="14" prevId="0" villagerId="1015">
          
+         
         <Page social="4">This place is a meatgrinder. Soldiers show up, get sent out, and die. Often in the same week.&lt;BR&gt;&lt;BR&gt;If we can't keep our supply lines open, there won't be any of us left. Period.</Page>
+    
     
     </Text>
 </VillagerDialog>

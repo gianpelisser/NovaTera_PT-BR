@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="42524001" string="O teste final de Balder" />
-    <String id="42524002" string="Quebre os frascos até liberar o espelho dimensional e, em seguida, entre na Room of Relics e destrua {@LinkCreature:425#8005}.&lt;BR&gt;(Somente o modo normal avançará nas missões)." />
-    <String id="42524003" string="&quot;Esmagadora&quot;." />
-    <String id="42524004" string="Retorne ao {@LinkCreature:425#10004#espelho dimensional}.&lt;BR&gt;(Somente o modo normal avançará nas missões)." />
+    <String id="42522001" string="O segundo julgamento de Balder" />
+    <String id="42522002" string="Mate {@LinkCreature:425#3000$$Lagreah}.&lt;BR&gt;(Somente o modo normal avançará nas missões)." />
+    <String id="42522003" string="Destrua o {@LinkCreature:425#5000#golem generator}.&lt;BR&gt;(Somente o modo normal avançará nas missões.)" />
+    <String id="42522004" string="&quot;Não estou surpreso.&quot;" />
+    <String id="42522005" string="Apresente-se ao próximo {@LinkCreature:425#3025#repositório de sabedoria}.&lt;BR&gt;(Somente o modo normal avançará nas missões)." />
 </StrSheet_Quest>

@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="418" id="2001" voiceTypeId="110">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2001" huntingZoneId="418" voiceTypeId="110">
     <Text id="1" endSocial="14">
          
+         
         <Page social="4" voiceTypeId="0">Are you the fool who came to this argon-infested hellhole to die?&lt;BR&gt;&lt;BR&gt;Heh...don’t worry! Everything will happen just as Kaia wills it.</Page>
+    
     
     </Text>
 </VillagerDialog>

@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="7" id="27" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="7" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="207" id="100" prevId="0" villagerId="1018">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="207" id="2" prevId="0" villagerId="1018">
          
+         
         <Page social="5">Olá! Eu fui "voluntariado" e preciso de sua ajuda. O Mysterium exigiu que eu diminuísse as fileiras de kumas por aqui.&lt;BR&gt;&lt;BR&gt;Você já viu os kumases? Eles são enormes, malvados e sedentos de sangue - e essas são suas boas qualidades.&lt;BR&gt;&lt;BR&gt;Olha, eu não posso fazer isso. Sou um guerreiro solitário, mas se você reunisse alguns aliados, aposto que conseguiria acabar com eles. Mate um {@LinkCreature:7#3#indolente kumas} e eu lhe darei a recompensa. Combinado?</Page>
+    
     
     </Text>
     <Text huntingZoneId="207" id="3" prevId="2" villagerId="1018">
          
+         
         <Page social="5">Ótimo trabalho. Como prometido, aqui está o prêmio. Espero que você não se importe, mas tive que aceitar o crédito para que você pudesse receber isso. Duvido que eles venham a pedir algo tão grande tão cedo.</Page>
+    
     
     </Text>
 </QuestDialog>

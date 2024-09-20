@@ -69,6 +69,7 @@
     <String id="21076" name="Empowered Cascade of Stuns" tooltip="Increases skill damage by $value." skillName="Cascade of Stuns" />
     <String id="21077" name="Lingering Cascade of Stuns" tooltip="Increases effect duration by $value." skillName="Cascade of Stuns" />
     <String id="21078" name="Powerlinked Staggering Counter" tooltip="Increases damage of Cascade of Stuns by 10% for a few seconds." skillName="Staggering Counter" />
+    <String id="21079" name="Keen Scythe" tooltip="Doubles Crit Factor" skillName="Scythe" />
     <String id="21080" name="Sharpened Scythe" tooltip="Increases bonus Edge damage by 25%." skillName="Scythe" />
     <String id="21081" name="Lingering Backstab" tooltip="Increases effect duration by $value." skillName="Backstab" />
     <String id="21082" name="Swift Pounce" tooltip="Increases attack speed of Pounce by $value." skillName="Pounce" />
@@ -138,6 +139,7 @@
     <String id="22055" name="Threatening Leash" tooltip="Provides $value additional aggro." skillName="Leash" />
     <String id="22056" name="Hastened Challenging Shout" tooltip="Increases casting speed by $value." skillName="Challenging Shout" />
     <String id="22057" name="Grounded Challenging Shout" tooltip="Increases Endurance by 21 upon successful hit." skillName="Challenging Shout" />
+    <String id="22058" name="Keen Onslaught" tooltip="Doubles Crit Factor." skillName="Onslaught" />
     <String id="22059" name="Threatening Lockdown Blow" tooltip="Provides $value additional aggro." skillName="Lockdown Blow" />
     <String id="22060" name="Energetic Chained Leash" tooltip="Decreases cooldown by $value." skillName="Chained Leash" />
     <String id="22061" name="Lingering Chained Leash" tooltip="Increases effect duration by $value." skillName="Chained Leash" />
@@ -217,6 +219,7 @@
     <String id="23058" name="Keen Overpower" tooltip="Doubles Crit Factor for the next attack." skillName="Overpower" />
     <String id="23059" name="Boosted Overpower" tooltip="Adds 10% skill damage to the next attack." skillName="Overpower" />
     <String id="23060" name="Swift Startling Kick" tooltip="Increases attack speed of Startling Kick by $value." skillName="Startling Kick" />
+    <String id="23061" name="Keen Measured Slice" tooltip="Doubles Crit Factor." skillName="Measured Slice" />
     <String id="23062" name="Empowered Measured Slice" tooltip="Increases skill damage by $value." skillName="Measured Slice" />
     <String id="23063" name="Empowered Fury Strike" tooltip="Increases skill damage by $value." skillName="Fury Strike" />
     <String id="23064" name="Energetic Backstab" tooltip="Decreases cooldown by $value." skillName="Backstab" />
@@ -230,6 +233,7 @@
     <String id="23072" name="Spirited Tenacity" tooltip="$prob chance to replenish 6% of your total MP every second." skillName="Tenacity" />
     <String id="24000" name="Mindsparked Axe Block" tooltip="Replenishes 3% of MP on a successful block." skillName="Axe Block" />
     <String id="24001" name="Pumped Axe Block" tooltip="$prob chance to increase Power by 20% for 5 seconds on a successful block." skillName="Axe Block" />
+    <String id="24002" name="Carving Thunder Strike" tooltip="Doubles the chance to crit." skillName="Thunder Strike" />
     <String id="24003" name="Carving Cyclone" tooltip="Doubles the chance to crit." skillName="Cyclone" />
     <String id="24004" name="Carving Combo Attack" tooltip="Increases the chance to crit by 10%." skillName="Combo Attack" />
     <String id="24005" name="Slick Thunder Strike" tooltip="Eliminates slowed movement restriction." skillName="Thunder Strike" />
@@ -273,6 +277,7 @@
     <String id="24045" name="Slick Lethal Strike" tooltip="Eliminates slowed movement restriction." skillName="Lethal Strike" />
     <String id="24046" name="Blazing Leaping Strike" tooltip="Speeds casting of Lethal Strike by 30% for a few seconds." skillName="Leaping Strike" />
     <String id="24047" name="Blazing Staggering Strike" tooltip="Speeds charging by 30% for Thunder Strike for a few seconds." skillName="Staggering Strike" />
+    <String id="24048" name="Carving Thunder Strike" tooltip="Doubles the chance to crit." skillName="Thunder Strike" />
     <String id="24049" name="Slick Thunder Strike" tooltip="Eliminates slowed movement restriction." skillName="Thunder Strike" />
     <String id="24050" name="Swift Flatten" tooltip="Increases attack speed of Flatten by $value." skillName="Flatten" />
     <String id="24051" name="Sanative Thunder Strike" tooltip="Decreases HP consumption by $value." skillName="Thunder Strike" />
@@ -288,7 +293,9 @@
     <String id="24061" name="Spirited Tenacity" tooltip="$prob chance to replenish 6% of your total MP every second." skillName="Tenacity" />
     <String id="24062" name="Furious Retaliate" tooltip="Increases your damage as your HP decreases (up to 4 times)." skillName="Retaliate" />
     <String id="24063" name="Empowered Evasive Smash" tooltip="Increases skill damage by $value." skillName="Evasive Smash" />
+    <String id="24064" name="Carving Evasive Smash" tooltip="Doubles the chance to crit." skillName="Evasive Smash" />
     <String id="24065" name="Mindsparked Axe Block" tooltip="Restores 3% of MP on a successful block." skillName="Axe Block" />
+    <String id="24066" name="Carving Cyclone" tooltip="Doubles the chance to crit." skillName="Cyclone" />
     <String id="24067" name="Swift Thunder Strike" tooltip="Increases charging speed by $value." skillName="Thunder Strike" />
     <String id="24068" name="Persistent Staggering Strike" tooltip="$prob chance to eliminate cooldown." skillName="Staggering Strike" />
     <String id="24069" name="Energetic Unbreakable" tooltip="Decreases cooldown by $value." skillName="Unbreakable" />
@@ -351,6 +358,7 @@
     <String id="25052" name="Blazing Ice Needle" tooltip="Speeds casting of Mindblast by 40% for a few seconds." skillName="Ice Needle" />
     <String id="25053" name="Blossoming Painblast" tooltip="Increases periodic damage by $value." skillName="Painblast" />
     <String id="25054" name="Slowing Painblast" tooltip="$prob chance to decrease opponent's movement speed by 50% for 7 seconds." skillName="Painblast" />
+    <String id="25055" name="Impelling Fireblast" tooltip="$prob chance to eliminate MP cost." skillName="Fireblast" />
     <String id="25056" name="Multiplicative Flaming Barrage" tooltip="Increases number of lock-on targets by $value." skillName="Flaming Barrage" />
     <String id="25057" name="Test" tooltip="No Effect" skillName="Arcane Pulse" />
     <String id="25058" name="Persistent Magma Bomb" tooltip="$prob chance to eliminate cooldown." skillName="Magma Bomb" />
@@ -448,6 +456,7 @@
     <String id="26061" name="Persistent Arrow Volley" tooltip="$prob chance to eliminate cooldown." skillName="Arrow Volley" />
     <String id="26062" name="Regenerating Feign Death" tooltip="Heals 5% of total HP every 1 second for 8 seconds. Non combat only." skillName="Feign Death" />
     <String id="26063" name="Sanative Radiant Arrow" tooltip="Decreases HP consumption by $value." skillName="Radiant Arrow" />
+    <String id="26064" name="Keen Radiant Arrow" tooltip="Triples Crit Factor." skillName="Radiant Arrow" />
     <String id="26065" name="Fleetfooted Close Quarters" tooltip="Speeds movement by 50 for 3 seconds." skillName="Close Quarters" />
     <String id="26066" name="Lingering Close Quarters" tooltip="Increases effect duration by $value." skillName="Close Quarters" />
     <String id="26067" name="Slowing Breakaway Bolt" tooltip="$prob chance to decrease opponent's movement speed by 40% for 6 seconds." skillName="Breakaway Bolt" />
@@ -641,6 +650,7 @@
     <String id="29004" name="Restorative Double Shear" tooltip="Recovers $value of total HP on each hit." skillName="Double Shear" />
     <String id="29005" name="Powerlinked Double Shear" tooltip="Increases damage of Grim Strike by 20% for a few seconds." skillName="Double Shear" />
     <String id="29006" name="Powerful Sundering Strike" tooltip="Increases skill damage by $value." skillName="Sundering Strike" />
+    <String id="29007" name="Carving Sundering Strike" tooltip="Doubles the chance to crit." skillName="Sundering Strike" />
     <String id="29009" name="Energetic Grim Strike" tooltip="$prob chance to eliminate cooldown." skillName="Grim Strike" />
     <String id="29010" name="Blazing Grim Strike" tooltip="Speeds casting of Double Shear by 25% for a few seconds." skillName="Grim Strike" />
     <String id="29011" name="Powerful Death Spiral" tooltip="Increases skill damage by $value." skillName="Death Spiral" />
@@ -675,6 +685,7 @@
     <String id="29047" name="Powerful Whipsaw" tooltip="Increases skill damage by $value." skillName="Whipsaw" />
     <String id="29048" name="Powerlinked Death Spiral" tooltip="Increases damage of Grim Strike by 20% for a few seconds." skillName="Death Spiral" />
     <String id="29049" name="Brilliant Shadow Burst" tooltip="Reduces MP cost by $value." skillName="Shadow Burst" />
+    <String id="29050" name="Carving Grim Strike" tooltip="Doubles the chance of a critical hit." skillName="Grim Strike" />
     <String id="29051" name="Energetic Shrouded Escape" tooltip="Decreases cooldown by $value." skillName="Shrouded Escape" />
     <String id="29052" name="Lingering Shrouded Escape" tooltip="Increases effect duration by $value." skillName="Shrouded Escape" />
     <String id="30000" name="Glyph of Power" tooltip="Increases skill damage by $value" skillName="Blast" />
@@ -732,17 +743,5 @@
     <String id="30058" name="Glyph of Power" tooltip="Increases skill damage by $value." skillName="Balder's Vengeance" />
     <String id="30059" name="Glyph of Energy" tooltip="$prob chance to eliminate cooldown." skillName="Rolling Reload" />
     <String id="30060" name="Glyph of Energy" tooltip="Decreases cooldown by $value." skillName="Command: Recall" />
-	<!--NEW-->
-	<String id="30061" name="Rain of Hunter's arrows" tooltip="Increases the probability of a critical hit by 2 times in a battle against monsters" skillName="Rain of Arrows" />
-	<String id="25055" name="Impelling Fireblast" tooltip="Increases critical strike chance by 2x when fighting monsters." skillName="Fireblast" />
-	<String id="22058" name="Keen Onslaught" tooltip="Doubles Crit Factor." skillName="Onslaught" />
-	<String id="21079" name="Keen Scythe" tooltip="Doubles Crit Factor" skillName="Scythe" />
-	<String id="23061" name="Keen Measured Slice" tooltip="Doubles Crit Factor." skillName="Measured Slice" />
-	<String id="29007" name="Carving Sundering Strike" tooltip="Doubles the chance to crit." skillName="Sundering Strike" />
-	<String id="26064" name="Keen Radiant Arrow" tooltip="Triples Crit Factor." skillName="Radiant Arrow" />
-	<String id="24064" name="Carving Evasive Smash" tooltip="Doubles the chance to crit." skillName="Evasive Smash" />
-	<String id="24066" name="Carving Cyclone" tooltip="Doubles the chance to crit." skillName="Cyclone" />
-	<String id="24048" name="Carving Thunder Strike" tooltip="Doubles the chance to crit." skillName="Thunder Strike" />
-	<String id="24002" name="Carving Thunder Strike" tooltip="Doubles the chance to crit." skillName="Thunder Strike" />
-	<String id="29050" name="Carving Grim Strike" tooltip="Doubles the chance of a critical hit." skillName="Grim Strike" />
+    <String id="30061" name="Rain of Hunter's arrows" tooltip="Increases the probability of a critical hit by 2 times in a battle against monsters" skillName="Дождь стрел" />
 </StrSheet_Crest>

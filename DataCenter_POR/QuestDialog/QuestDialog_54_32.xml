@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="54" id="32" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="54" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="254" id="100" prevId="0" villagerId="1013">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="254" id="2" prevId="0" villagerId="1013">
          
+         
         <Page social="4">Os aracnídeos cobrem o Posto Avançado de Arcanum, mas não são nativos.&lt;BR&gt;&lt;BR&gt;Algumas semanas antes da chegada dos argonss, os aracnídeos apareceram na floresta, sem dúvida porque os argonss os expulsaram de seu habitat natural. Agora eles estão competindo pela mesma comida e espaço que os noruks.&lt;BR&gt;&lt;BR&gt;Mas você não quer saber de uma aula de aracnologia, quer? Vou direto ao ponto. Alguém precisa diminuir o número de aracnídeos e de noruks. Você pode ser esse alguém?</Page>
+    
     
     </Text>
     <Text huntingZoneId="254" id="3" prevId="2" villagerId="1013">
          
+         
         <Page social="4">Foi uma misericórdia o que você fez hoje, &lt;PCNAME&gt;. Ambas as espécies devem estar em melhor situação com a diminuição de seus números.</Page>
+    
     
     </Text>
 </QuestDialog>

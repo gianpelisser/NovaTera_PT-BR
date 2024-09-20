@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="68" id="1003" voiceTypeId="25">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1003" huntingZoneId="68" voiceTypeId="25">
     <Text huntingZoneId="68" id="1" endSocial="14" prevId="0" villagerId="1003">
          
+         
         <Page social="4">My family was killed in the Faerie Uprising in the Fey Forest. I left my old life behind to come here.&lt;BR&gt;&lt;BR&gt;I don't regret it. The poporis are mostly welcoming and the food is great...if you like salad.</Page>
+    
     
     </Text>
 </VillagerDialog>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="46" id="92" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="46" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="77" id="100" prevId="0" villagerId="1011">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="77" id="2" prevId="0" villagerId="1011">
          
+         
         <Page social="4">Nunca entenderei por que os sikandaris torcidos por argons estão aqui. Mas sei que queremos que eles desapareçam das profundezas inferiores. Mate {@LinkCreature:46#301#argonomorph sikandaris}, {@LinkCreature:46#302#argonomorph fiends}, {@LinkCreature:46#303#argonomorph blood fiends} e {@LinkCreature:46#304#argonomorph jalmaraks}.&lt;BR&gt;&lt;BR&gt;Relate para {@Creature:246#1027} em {@Rgn:46016} quando a missão estiver concluída.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="3" prevId="2" villagerId="1027">
          
+         
         <Page social="5">Faça esses sikandaris pagarem!</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="4" villagerId="1027">
          
+         
         <Page social="0">Elimine {@LinkCreature:46#301#argonomorph sikandaris}, {@LinkCreature:46#302#argonomorph fiends}, {@LinkCreature:46#303#argonomorph blood fiends} e {@LinkCreature:46#304#argonomorph jalmaraks}. Eu recompenso o desempenho!</Page>
+    
     
     </Text>
 </QuestDialog>

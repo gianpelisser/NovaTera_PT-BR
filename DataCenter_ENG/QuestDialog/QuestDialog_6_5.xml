@@ -1,56 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="6" id="5" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
         <Page social="0">You were sent to Oblivion Woods to help scout out the Bastion of Lok. You were late, however, and Hendry had already dispatched the team. You hurried to catch up, only to encounter the slain bodies of the scouting party—and one survivor.&lt;BR&gt;&lt;BR&gt;The mission had failed, but the scout gave you his notes before swearing never to return to service. Hendry accepted the notes gratefully and decided to let the deserter go in peace.</Page>
-    
     </Text>
-    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
-         
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
         <Page social="4">Mission Orders&lt;BR&gt;&lt;BR&gt;We've made the decision to take out the Bastion of Lok and hopefully put an end to their necromantic plot.&lt;BR&gt;&lt;BR&gt;Report to Prefect Daven in Lumbertown.</Page>
-    
     </Text>
-    <Text huntingZoneId="60" id="3" prevId="2" villagerId="1014">
-         
+    <Text id="3" huntingZoneId="60" prevId="2" villagerId="1014">
         <Page social="4">Isla's report speaks highly of you, &lt;PCNAME&gt;. Good work getting the Scions to speak so freely.&lt;BR&gt;&lt;BR&gt;Find {@LinkCreature:203#1007#Hendry} over at the Vanguard Outpost. He's in command of the mission to scout out the Bastion of Lok. I'd like you to be a part of it.&lt;BR&gt;&lt;BR&gt;For Valkyon!</Page>
-    
     </Text>
-    <Text huntingZoneId="203" id="4" prevId="3" villagerId="1007">
-         
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1007">
         <Page social="4">We're getting close. I can feel it. We'll hit the cult hard and take them down. To do that, though, we first have to find their base.&lt;BR&gt;&lt;BR&gt;I sent out a scouting party, but they've yet to report back.&lt;BR&gt;&lt;BR&gt;Their route runs through the Bestial Vale. Look for them, but be careful. We mustn't alert the Scions to our plans!</Page>
-    
     </Text>
-    <Text huntingZoneId="203" id="5" prevId="4" villagerId="1026">
-         
+    <Text id="5" huntingZoneId="203" prevId="4" villagerId="1026">
         <Page social="0">(This is one of the scouts.&lt;BR&gt;&lt;BR&gt;You see signs of an intense struggle.)</Page>
-    
     </Text>
-    <Text huntingZoneId="203" id="6" prevId="4" villagerId="1027">
-         
+    <Text id="6" huntingZoneId="203" prevId="4" villagerId="1027">
         <Page social="0">(It's another scout.&lt;BR&gt;&lt;BR&gt;Ugly wounds cover the corpse.)</Page>
-    
     </Text>
-    <Text huntingZoneId="203" id="7" prevId="4" villagerId="1034">
-         
+    <Text id="7" huntingZoneId="203" prevId="4" villagerId="1034">
         <Page social="0">(Another dead scout.&lt;BR&gt;&lt;BR&gt;Spattered blood surrounds the body.)</Page>
-    
     </Text>
-    <Text huntingZoneId="203" id="8" prevId="5" villagerId="1033">
-         
+    <Text id="8" huntingZoneId="203" prevId="5" villagerId="1033">
         <Page social="4">No. No! Get away! Not me too. Not me too!&lt;NEXTPAGEBUTTON&gt;"Calm down. What happened?"&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="4">Here, take it! These are our notes about the bastion. We made it inside, but they spotted us. We ran, but not fast enough.&lt;BR&gt;&lt;BR&gt;Take the notes back to Hendry. Let him do what he will. I'm not going back—not ever!</Page>
-    
     </Text>
-    <Text huntingZoneId="203" id="9" prevId="8" villagerId="1007">
-         
+    <Text id="9" huntingZoneId="203" prevId="8" villagerId="1007">
         <Page social="4">What? Dead?&lt;BR&gt;&lt;BR&gt;Blast! I felt certain they wouldn't raise an alarm—you certainly didn't.&lt;BR&gt;&lt;BR&gt;As for Ausdan... Everyone has a breaking point, &lt;PCNAME&gt;. Once we're finished, I'll report him as killed in action.&lt;BR&gt;&lt;BR&gt;Thanks for seeing this through.</Page>
-    
     </Text>
-    <Text huntingZoneId="203" id="10" villagerId="1007">
-         
+    <Text id="10" huntingZoneId="203" villagerId="1007">
         <Page social="0">Hmm?</Page>
-    
     </Text>
 </QuestDialog>

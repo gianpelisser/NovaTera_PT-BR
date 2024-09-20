@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="41" id="31" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="41" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="241" id="100" prevId="0" villagerId="1020">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="241" id="2" prevId="0" villagerId="1020">
          
+         
         <Page social="0">Acredito que poderíamos conquistar algumas das tribos orcs se não fossem os mercadores besharianos. &lt;BR&gt;&lt;BR&gt;Atropelar {@LinkCreature:241#1022$$Paduk} diz que eles vendem à tribo das rochas um licor ardente que os incita à violência.&lt;BR&gt;&lt;BR&gt;Atropelar {@LinkCreature:41#2006#contrabandistas besharan} e {@LinkCreature:41#2002#forçadores} ou seus jacarés {@LinkCreature:41#4010#portadores} e {@LinkCreature:41#4009#guardas} e tomar o licor deles pode ser a solução. Você está disposto?</Page>
+    
     
     </Text>
     <Text huntingZoneId="241" id="3" prevId="2" villagerId="1022">
          
+         
         <Page social="0">Os besharans não estarão tão ansiosos para envenenar as mentes dos orcs agora! Obrigado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="241" id="4" villagerId="1022">
          
+         
         <Page social="0">Não subestime os besharans - eles são pequenos, mas ferozes.</Page>
+    
     
     </Text>
 </QuestDialog>

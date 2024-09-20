@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="33" id="94" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="33" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="73" id="100" prevId="0" villagerId="1009">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="73" id="2" prevId="0" villagerId="1009">
          
+         
         <Page social="0">Fizemos tudo o que podíamos, mas os prisioneiros mantidos no terceiro nível da Cidadela do Tormento não podem ser salvos.&lt;BR&gt;&lt;BR&gt;Tudo o que podemos fazer por eles é enviar alguém para acabar com seu sofrimento antes que se transformem ainda mais.&lt;BR&gt;&lt;BR&gt;Preciso que você mate os {@LinkCreature:33#16#anguished} e {@LinkCreature:33#18#decaying minions}, e {@LinkCreature:33#66#rotting prisoners} e {@LinkCreature:33#68#slaves}.&lt;BR&gt;&lt;BR&gt;Eu não pediria se não precisasse ser feito. Avise Iorine quando tiver terminado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="233" id="3" prevId="2" villagerId="1007">
          
+         
         <Page social="4">Obrigado a você. Sei que não foi fácil.</Page>
+    
     
     </Text>
     <Text huntingZoneId="233" id="4" villagerId="1007">
          
+         
         <Page social="0">Essa não é sua missão normal, mas alguém precisa trazer misericórdia aos prisioneiros.</Page>
+    
     
     </Text>
 </QuestDialog>

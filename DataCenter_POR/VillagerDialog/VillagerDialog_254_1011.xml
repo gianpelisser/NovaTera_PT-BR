@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="254" id="1011" voiceTypeId="14">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1011" huntingZoneId="254" voiceTypeId="14">
     <Text huntingZoneId="254" id="1" endSocial="14" prevId="0" villagerId="1011">
          
+         
         <Page social="4">Be wary. The ills of the forest are dangers to us. We can't guarantee your safety.</Page>
+    
     
     </Text>
 </VillagerDialog>

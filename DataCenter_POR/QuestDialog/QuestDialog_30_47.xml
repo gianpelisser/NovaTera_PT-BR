@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="47" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="47" huntingZoneId="30" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="230" id="100" prevId="0" villagerId="1066">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="230" id="2" prevId="0" villagerId="1066">
          
+         
         <Page social="1">A iluminação é a chave para o conhecimento e, às vezes, também é a chave para a sobrevivência.&lt;BR&gt;&lt;BR&gt;As &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7015#-9951.0674,80227.3594,-1331.6602&amp;type=1&amp;name=Stone Lantern"&gt;lanternas de pedra&lt;/A&gt;&lt;/font&gt; iluminam o caminho que leva ao {@Rgn:30016$$Stronghold Camp}. Elas brilham dia e noite, mantendo afastados os habitantes mais perigosos do refúgio.&lt;BR&gt;&lt;BR&gt;Ou pelo menos eles faziam isso. As lanternas de pedra escureceram.&lt;BR&gt;&lt;BR&gt;Os reparos nas &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7015#-9951.0674,80227.3594,-1331.6602&amp;type=1&amp;name=Stone Lantern"&gt;lanternas de pedra&lt;/A&gt;&lt;/font&gt; não tornarão o Refúgio de Balder completamente seguro, mas o tornarão cada vez mais seguro.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#1048$$Linok} na {@Rgn:30015$$$Fortaleza do Arquivo} ficará muito feliz ao saber que as lanternas voltaram a brilhar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="3" prevId="2" villagerId="1048">
          
+         
         <Page social="1">Você reacendeu as lanternas de pedra? &lt;BR&gt;&lt;BR&gt;Elas guiarão os sábios para visitar o {@Rgn:30016$$Stronghold Camp} e desvendar os mistérios do arquivo.</Page>
+    
     
     </Text>
 </QuestDialog>

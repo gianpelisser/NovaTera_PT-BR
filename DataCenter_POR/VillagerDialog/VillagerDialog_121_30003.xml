@@ -1,13 +1,17 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="121" id="30003" voiceTypeId="67">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="30003" huntingZoneId="121" voiceTypeId="67">
     <Text id="1" endSocial="4">
          
+         
         <Page social="0" voiceTypeId="0">Welcome, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Take your time, and look around.</Page>
+    
     
     </Text>
     <Text id="6" endSocial="4">
          
+         
         <Page social="0" voiceTypeId="0">I don't sell to a member of other alliances!</Page>
+    
     
     </Text>
 </VillagerDialog>

@@ -1,19 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="151" id="1" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="151" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
         <Page social="0">A message sends you to the Island of Dawn to inquire about the Mysterium's research of noctenium.</Page>
-    
     </Text>
-    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
-         
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
         <Page social="0">[Federation Order]&lt;BR&gt;&lt;BR&gt;Mysterium researchers have been dispatched to the Island of Dawn to research a new substance they call noctenium. This substance must be the federation's salvation.&lt;BR&gt;&lt;BR&gt;Compile a report on noctenium and their research. Start with Adria on the Island of Dawn.</Page>
-    
     </Text>
-    <Text huntingZoneId="64" id="3" prevId="2" villagerId="1001">
-         
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1001">
         <Page social="4">I can't be much help. With the federation infrastructure crumbling, it takes all my efforts to keep things functioning here on the island.&lt;BR&gt;&lt;BR&gt;Don't worry, though. {@linkcreature:213#1150#Todoro} will tell you all about noctenium and show you around their little secret research spot.</Page>
-    
     </Text>
 </QuestDialog>

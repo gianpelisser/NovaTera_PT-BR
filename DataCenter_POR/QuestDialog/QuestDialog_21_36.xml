@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="21" id="36" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="21" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="221" id="100" prevId="0" villagerId="1036">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="221" id="2" prevId="0" villagerId="1036">
          
+         
         <Page social="4">Eu vi algo perturbador no &lt;font color='#660000'&gt;Howling Vale&lt;/font&gt;. Duas criaturas da mesma espécie lutaram entre si e o vencedor comeu a carne do perdedor.&lt;BR&gt;&lt;BR&gt;Isso não é um comportamento normal e pode valer a pena ser investigado.&lt;NEXTPAGEBUTTON&gt;"O que poderíamos fazer?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Nossa magia pode lançar luz sobre esse fenômeno. Caça os {@LinkCreature:21#4#brutal orisks} e colete amostras deles.&lt;BR&gt;&lt;BR&gt;Traga-os de volta e veremos se conseguimos descobrir o que os levou a esse comportamento tão incomum.</Page>
+    
     
     </Text>
     <Text huntingZoneId="221" id="3" prevId="2" villagerId="1036">
          
+         
         <Page social="10">Espero que isso não tenha sido muito cansativo. O deserto é vasto e perigoso.&lt;BR&gt;&lt;BR&gt;Você tem as amostras? Deixe-me vê-las. Afastem-se, agora. Isso pode ficar um pouco bagunçado.&lt;BR&gt;&lt;BR&gt;Pelos deuses! O cheiro dessas amostras quase me dominou! Preciso descansar por enquanto. É incrível. Meu nariz talvez nunca me perdoe.</Page>
+    
     
     </Text>
     <Text huntingZoneId="221" id="4" villagerId="1036">
          
+         
         <Page social="0">Eu sei que as criaturas são nojentas e cheirosas, mas sem as amostras, não posso fazer testes. É tão simples quanto isso.</Page>
+    
     
     </Text>
 </QuestDialog>

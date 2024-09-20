@@ -1,31 +1,42 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="6" id="3" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="6" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="206" id="100" prevId="0" villagerId="1021">
          
+         
         <Page social="0">Com a ameaça dos kulkari enfraquecida, a federação voltou sua atenção para um posto avançado controlado pelos Scions de Lok.&lt;BR&gt;&lt;BR&gt;Isla, que tem mantido um controle sobre os Scions, ordenou que você ferisse a guarnição local dos Scions e eliminasse seus justicars, reavers e místicos. Você fez isso e voltou para Isla, que postulou que os Scions de Lok estão reunindo poder para um propósito específico - um que permanece um mistério.</Page>
+    
     
     </Text>
     <Text huntingZoneId="206" id="2" prevId="0" villagerId="1021">
          
+         
         <Page social="4">Temos uma oficial que está controlando os Herdeiros de Lok. Essa informação certamente seria útil para ela.&lt;BR&gt;&lt;BR&gt;Relate isso a Isla no Santuário de Valselok.</Page>
+    
     
     </Text>
     <Text huntingZoneId="206" id="3" prevId="2" villagerId="1042">
          
+         
         <Page social="4">Esses Scions estão se mantendo ocupados. Eles bloquearam essa passagem por quase uma semana. Seja o que for que estejam fazendo lá dentro, não querem que os outros vejam.&lt;NEXTPAGEBUTTON&gt;"Precisamos entrar lá!"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Concordo, mas precisamos fazer mais do que coletar informações. Matem qualquer {@LinkCreature:6#3011#Scion justicars}, e {@LinkCreature:6#3031#Lokian reavers} e {@LinkCreature:6#3032#mystics}.&lt;BR&gt;&lt;BR&gt;Enfraquecer as forças deles agora só pode nos ajudar. Afinal de contas, em algum momento teremos que tirá-los dessa pequena gruta.&lt;BR&gt;&lt;BR&gt;Tomem o campo!</Page>
+    
     
     </Text>
     <Text huntingZoneId="206" id="4" villagerId="1042">
          
+         
         <Page social="0">Você conseguiu chegar ao santuário? Você diminuiu as fileiras deles?</Page>
+    
     
     </Text>
     <Text huntingZoneId="206" id="5" prevId="3" villagerId="1042">
          
+         
         <Page social="4">Este é o quarto grupo de Scions que você encontra. Se o que você me disse é verdade, eles não estão apenas cavando um lugar para si mesmos - eles estão coletando algo.&lt;BR&gt;&lt;BR&gt;Eu sou apenas um simples soldado, mas você primeiro se prepara para uma luta reunindo os recursos necessários para ela. Talvez os Scions estejam fazendo o mesmo.&lt;BR&gt;&lt;BR&gt;Talvez eles tenham planos para o poder que estão reunindo....</Page>
+    
     
     </Text>
 </QuestDialog>

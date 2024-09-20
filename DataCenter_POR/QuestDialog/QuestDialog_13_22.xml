@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="22" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="13" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="213" id="100" prevId="0" villagerId="1003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="213" id="2" prevId="0" villagerId="1003">
          
+         
         <Page social="4">Um olho perscrutador vê muitos {@LinkCreature:13#300932#ghilliedhus} entre aqui e seus deveres. Demonstre suas habilidades de combate para que possamos saber como melhor usá-lo.&lt;BR&gt;&lt;BR&gt;Observe os membros deles - é melhor bloquear ou se esquivar quando eles se lançam para baixo. Quando estiverem exaustos ou feridos, descansem aqui na fogueira ou falem com os clérigos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="3" prevId="2" villagerId="1003">
          
+         
         <Page social="4">As habilidades demonstradas hoje inspiram esperança em todos os presentes. A demonstração de &lt;PCNAME&gt; dá força aos soldados cansados, mas também gera perguntas...</Page>
+    
     
     </Text>
 </QuestDialog>

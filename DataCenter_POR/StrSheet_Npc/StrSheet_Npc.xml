@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='utf-8'?>
 <StrSheet_Npc xmlns="https://vezel.dev/novadrop/dc/StrSheet_Npc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Npc StrSheet_Npc.xsd">
     <String id="1" string="Diálogo" />
     <String id="2" string="Busca" />
@@ -65,6 +64,8 @@
     <String id="66" string="Despertar" />
     <String id="67" string="Voltar à cidade vizinha" />
     <String id="68" string="Awakened Enchantment (Encantamento Despertado)" />
+    <String id="78" string="Bandeira da Guilda" />
+    <String id="79" string="Teleporte para Sky Castle" />
     <String id="100" string="Comprar cristais" />
     <String id="110" string="Comprar cristais" />
     <String id="120" string="Bens GvG" />
@@ -138,9 +139,11 @@
     <String id="304" string="Red Fighter Exchange Shop" />
     <String id="305" string="Fichas Goldfinger" />
     <String id="306" string="Loja de comércio de letras douradas" />
+    <String id="308" string="Loja de Cupons de Milhagem Temporada 2" />
     <String id="310" string="Crachá de prática de intercâmbio" />
     <String id="311" string="Distintivo Exchange Dire" />
     <String id="312" string="Distintivo Exchange Dire" />
+    <String id="314" string="Troca de Tokens do Valkyon" />
     <String id="315" string="Gastar contas da federação" />
     <String id="316" string="Loja" />
     <String id="317" string="Loja" />
@@ -160,39 +163,45 @@
     <String id="331" string="Resgate de doces de Halloween" />
     <String id="332" string="Livro de habilidades de Halloween" />
     <String id="333" string="Caixa de Halloween" />
-	<String id="335" string="Gastar fichas Forge Flame" />
-	
-	
-	<String id="337" string="Presentes da primavera" />
-	<String id="337001" string="Presentes da primavera" />
-	
-	<String id="338" string="Runas de Perth" />
-	<String id="338001" string="Runas de Perth" />
-	
-	<String id="339" string="Runas de Laguz" />
-	<String id="339001" string="Runas de Laguz" />
-	
-	<String id="340" string="Traje da Wonderholme" />
-	<String id="340001" string="Traje da Wonderholme" />
-	
-	<String id="341" string="Equipamentos da Wonderholme" />
-	<String id="341001" string="Equipamentos da Wonderholme" />
-	
-	<String id="342" string="Troca de selos solares" />
-	<String id="342001" string="Troca de selos solares" />
-	
-	<String id="343" string="Ficha do Conquistador do Crisol" />
-	<String id="343001" string="Ficha do Conquistador do Crisol" />
-	
-	<String id="344" string="Símbolo da guerra corajosa" />
-	<String id="344001" string="Símbolo da guerra corajosa" />
-	
-	<String id="399" string="Token de campainha" />
-	<String id="399001" string="Token de campainha" />
-	
-	<String id="400" string="Ficha Sangrenta" />
-	<String id="400001" string="Ficha Sangrenta" />
-	
+    <String id="334" string="Troca de Ticket Especial" />
+    <String id="335" string="Gastar fichas Forge Flame" />
+    <String id="337" string="Presentes da primavera" />
+    <String id="338" string="Runas de Perth" />
+    <String id="339" string="Runas de Laguz" />
+    <String id="340" string="Traje da Wonderholme" />
+    <String id="341" string="Equipamentos da Wonderholme" />
+    <String id="342" string="Troca de selos solares" />
+    <String id="343" string="Ficha do Conquistador do Crisol" />
+    <String id="344" string="Símbolo da guerra corajosa" />
+    <String id="345" string="4th Anniversary Elin Coin Exchange" />
+    <String id="347" string="" />
+    <String id="348" string="" />
+    <String id="349" string="" />
+    <String id="350" string="" />
+    <String id="351" string="" />
+    <String id="352" string="" />
+    <String id="353" string="" />
+    <String id="355" string="" />
+    <String id="356" string="" />
+    <String id="359" string="Troca de Rubis de Evento" />
+    <String id="364" string="Loja do Veterano do Elleon" />
+    <String id="365" string="Troca de Itens do Festival da Lua Cheia" />
+    <String id="366" string="Troca de Itens do Evento" />
+    <String id="367" string="Troca de Tokens de Baniakas" />
+    <String id="368" string="Troca de Tokens do Evento de Outubro" />
+    <String id="369" string="Troca de Equipamento do Conquistador" />
+    <String id="370" string="Troca de Doces de Bala" />
+    <String id="371" string="Troca de Gemas Especiais do Conquistador" />
+    <String id="372" string="Troca de Gemas Especiais do Conquistador" />
+    <String id="373" string="Troca de Cristais Helkanianos" />
+    <String id="374" string="Troca de Joias do Herói Retornado" />
+    <String id="399" string="Token de campainha" />
+    <String id="400" string="Ficha Sangrenta" />
+    <String id="401" string="Reputation Exchange" />
+    <String id="402" string="Rare items" />
+    <String id="403" string="Reputation Exchange" />
+    <String id="404" string="Rare items" />
+    <String id="500" string="Fitting room" />
     <String id="510" string="Gastar talentos de prata" />
     <String id="511" string="Gastar talentos de ouro" />
     <String id="512" string="Gastar talentos de ouro" />
@@ -200,7 +209,7 @@
     <String id="514" string="Loja" />
     <String id="515" string="Loja" />
     <String id="600" string="Loja do vendedor ambulante" />
-    <String id="609" string="Suprimentos para escoteiros Valkyon" />
+    <String id="609" string="Suprimentos Vanguard" />
     <String id="1001" string="Anterior" />
     <String id="1002" string="Próximo" />
     <String id="1003" string="Cancelar" />
@@ -220,7 +229,7 @@
     <String id="1423" string="Design de Artesanato III" />
     <String id="1424" string="Materiais de artesanato" />
     <String id="1431" string="Consumíveis" />
-    <String id="1432" string="Costume" />
+    <String id="1432" string="XP Expert" />
     <String id="1433" string="Acessório" />
     <String id="1511" string="Armas" />
     <String id="1512" string="Armadura" />
@@ -376,8 +385,36 @@
     <String id="2938" string="Pergaminhos Goldfinger" />
     <String id="2939" string="Lista de intercâmbio" />
     <String id="2940" string="Troca de tokens de amor" />
+    <String id="2941" string="Costumes" />
+    <String id="2942" string="Armas" />
+    <String id="2943" string="Consumíveis" />
     <String id="2944" string="Troca de tokens" />
+    <String id="2946" string="Troca de selos de presença" />
+    <String id="2947" string="Armas do Conquistador" />
+    <String id="2948" string="Armaduras do Conquistador" />
     <String id="2949" string="" />
+    <String id="2950" string="Trocar Token de Banyakas " />
+    <String id="2951" string="Troca de Token para o evento de outubro" />
+    <String id="2952" string="Armas do Conquistador" />
+    <String id="2953" string="Armaduras do Conquistador" />
+    <String id="2954" string="Item de evento" />
+    <String id="2955" string="Troca de Gemas Especiais do Conquistador" />
+    <String id="2956" string="Troca de Gemas Especiais do Conquistador" />
+    <String id="2957" string="Troca de Gemas Especiais do Conquistador" />
+    <String id="2958" string="Troca de Eventos" />
+    <String id="2959" string="Consumíveis" />
+    <String id="2960" string="Amuletos" />
+    <String id="2961" string="Cristais" />
+    <String id="2962" string="Troca de armas de Fulminar" />
+    <String id="2963" string="Troca de armadura de Fulminar" />
+    <String id="2964" string="Troca de fogo de Tarkan" />
+    <String id="2969" string="Troca de Eventos" />
+    <String id="2977" string="Trajes Permanentes" />
+    <String id="2978" string="Trajes de 7 dias" />
+    <String id="2979" string="Acessórios Permanentes" />
+    <String id="2980" string="Acessórios de 7 dias" />
+    <String id="2987" string="Consumíveis" />
+    <String id="2988" string="Fashion (Moda)" />
     <String id="3000" string="Roupa Corpo" />
     <String id="3001" string="Roupa Cabeça e Armas" />
     <String id="3002" string="Coisas legais" />
@@ -494,6 +531,13 @@
     <String id="40004" string="Bens gerais" />
     <String id="40005" string="Cristais" />
     <String id="40006" string="Bens gerais" />
+    <String id="50009" string="Skins de armas" />
+    <String id="50010" string="Acessórios" />
+    <String id="50011" string="Acessórios (Costas)" />
+    <String id="50012" string="Trajes (Elin, Aman, Baraka)" />
+    <String id="50013" string="Trajes (Humano, High Elf)" />
+    <String id="50014" string="Trajes (Castanic, Popori)" />
+    <String id="50015" string="Características Sky Castle" />
     <String id="60901" string="Lancer Glyphs" />
     <String id="60902" string="Warrior Glyphs" />
     <String id="60903" string="Slayer Glyphs" />
@@ -503,6 +547,7 @@
     <String id="60907" string="Priest Glyphs" />
     <String id="60908" string="Mystic Glyphs" />
     <String id="60909" string="Reaper Glyphs" />
+    <String id="60910" string="Gunner Glyph" />
     <String id="70001" string="Necessidades de sobremesas" />
     <String id="70002" string="Kits de brinquedos" />
     <String id="70003" string="Lembrancinhas para festas" />
@@ -529,9 +574,52 @@
     <String id="70025" string="Acessórios" />
     <String id="70026" string="Acessórios" />
     <String id="70311" string="Mercador" />
+    <String id="70312" string="" />
+    <String id="70313" string="" />
+    <String id="70314" string="" />
+    <String id="70315" string="" />
+    <String id="70316" string="" />
+    <String id="70317" string="" />
+    <String id="70318" string="" />
     <String id="80000" string="Exclusivo" />
     <String id="80001" string="Mercearia" />
     <String id="80002" string="Mercearia" />
+    <String id="337001" string="Presentes da primavera" />
+    <String id="338001" string="Runas de Perth" />
+    <String id="339001" string="Runas de Laguz" />
+    <String id="340001" string="Traje da Wonderholme" />
+    <String id="341001" string="Equipamentos da Wonderholme" />
+    <String id="342001" string="Símbolo da guerra corajosa" />
+    <String id="343001" string="Troca de Tokens" />
+    <String id="344001" string="Troca de Tokens" />
+    <String id="399001" string="Troca de Tokens" />
+    <String id="400001" string="Troca de Tokens" />
+    <String id="401001" string="Troca de reputação" />
+    <String id="402001" string="Itens raros" />
+    <String id="403001" string="Troca de reputação" />
+    <String id="404001" string="Itens raros" />
+    <String id="500001" string="Trajes" />
+    <String id="500002" string="Acessórios" />
+    <String id="500003" string="Armas" />
+    <String id="500091" string="Skins de armas" />
+    <String id="500101" string="Acessórios" />
+    <String id="500111" string="Acessórios (Costas)" />
+    <String id="500121" string="Elin" />
+    <String id="500122" string="Amani Male" />
+    <String id="500123" string="Amani Female" />
+    <String id="500124" string="Baraka" />
+    <String id="500131" string="Human Male" />
+    <String id="500132" string="Human Female" />
+    <String id="500133" string="High Elf Male" />
+    <String id="500134" string="High Elf Female" />
+    <String id="500141" string="Castanic Male" />
+    <String id="500142" string="Castanic Female" />
+    <String id="500143" string="Popori" />
+    <String id="500151" string="Todos" />
+    <String id="500152" string="Keep" />
+    <String id="500153" string="Bailey" />
+    <String id="500154" string="Asa" />
+    <String id="500155" string="NPCs" />
     <String id="609011" string="Incomum" />
     <String id="609012" string="Incomum" />
     <String id="703110" string="Bens gerais" />
@@ -547,6 +635,7 @@
     <String id="964611" string="Armas" />
     <String id="964612" string="Armadura" />
     <String id="1022327" string="Loja" />
+    <String id="9095335" string="Joias" />
     <String id="9122001" string="Loja dos Oficiais" />
     <String id="9122002" string="Loja dos Oficiais" />
     <String id="9122003" string="Loja dos Oficiais" />
@@ -566,5 +655,4 @@
     <String id="9999002" string="Baú Encantado" />
     <String id="41150171" string="Desperte o equipamento." />
     <String id="41150172" string="Encantar equipamentos despertados." />
-	<String id="9095335" string="Joias" />
 </StrSheet_Npc>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="46" id="22" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="46" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="246" id="100" prevId="0" villagerId="1103">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="246" id="2" prevId="0" villagerId="1103">
          
+         
         <Page social="4">A primeira coisa a fazer é limpar os corredores. Não dá para fazer pesquisa com argons tentando nos argonificar a cada dez minutos.&lt;BR&gt;&lt;BR&gt;Comece com os emissores tholzak; eles dão comandos como "colher" e "exterminar" para os golems argon que patrulham os corredores.&lt;BR&gt;&lt;BR&gt;Mantenha os emissores quebrados, no entanto. Talvez os pesquisadores da câmara de Beastroar consigam encontrar um uso para eles.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="3" prevId="2" villagerId="1025">
          
+         
         <Page social="5">São muitos emissores. E aposto que os corredores também estão limpos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="4" villagerId="1025">
          
+         
         <Page social="0">Se você puder nos trazer emissores quebrados, talvez possamos desmontá-los e descobrir o que os faz funcionar. Ou não funcionam, se é que você me entende.</Page>
+    
     
     </Text>
 </QuestDialog>

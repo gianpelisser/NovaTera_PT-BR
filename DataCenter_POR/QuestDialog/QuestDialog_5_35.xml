@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="5" id="35" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="5" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="205" id="100" prevId="0" villagerId="1022">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="205" id="2" prevId="0" villagerId="1022">
          
+         
         <Page social="0">Você vai nos ajudar? &lt;BR&gt;&lt;BR&gt;Pangari é um grande mago, muito poderoso, mas sem as &lt;FONT COLOR='#660000'&gt;essências do sol&lt;/FONT&gt;, para suas poções, ele não pode fazer nada! &lt;BR&gt;&lt;BR&gt;As essências do sol podem ser encontradas por toda parte - até mesmo alguns monstros as carregam. Se você não conseguir encontrar nenhuma no campo, talvez possa comprá-las, mas elas são muito caras!</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="3" prevId="2" villagerId="1022">
          
+         
         <Page social="0">Muito bem! Feito, e rápido! Isso vai ajudar muito o Pangari.&lt;BR&gt;&lt;BR&gt;Obrigado, obrigado!</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="4" villagerId="1022">
          
+         
         <Page social="0">Ingredientes? Onde estão as essências solares? Você as coletou?</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="57" id="27" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="57" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="257" id="100" prevId="0" villagerId="1007">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="257" id="2" prevId="0" villagerId="1007">
          
+         
         <Page social="4">Os Atel Akaad reforçam suas fileiras com carregadores de sangue e magos de sangue lokianos.&lt;BR&gt;&lt;BR&gt;Não podemos nos dar ao luxo de deixá-los reunir suas forças. Acabem com eles com o máximo de rapidez!</Page>
+    
     
     </Text>
     <Text huntingZoneId="257" id="3" prevId="2" villagerId="1007">
          
+         
         <Page social="4">Sua habilidade me dá esperança. Suspeito que Killian está nos mantendo afastados porque o momento de seu esquema é delicado.&lt;BR&gt;&lt;BR&gt;Isso me diz o que precisamos fazer. Continuem batendo neles!</Page>
+    
     
     </Text>
 </QuestDialog>

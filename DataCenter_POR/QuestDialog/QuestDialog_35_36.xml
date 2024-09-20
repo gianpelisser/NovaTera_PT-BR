@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="35" id="36" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="35" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="235" id="100" prevId="0" villagerId="1014">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="235" id="2" prevId="0" villagerId="1014">
          
+         
         <Page social="6">Nossa última retirada foi apressada, para dizer o mínimo. Deixamos muitos amigos caídos naquele campo de batalha. E agora os dracolotes estão farejando.&lt;BR&gt;&lt;BR&gt;Se você puder nos ajudar a trazer os cadáveres, pelo menos poderemos enterrá-los.</Page>
+    
     
     </Text>
     <Text huntingZoneId="235" id="3" prevId="2" villagerId="1014">
          
+         
         <Page social="8">Obrigado.&lt;BR&gt;&lt;BR&gt;Nossos amigos voltaram ao Sonho.</Page>
+    
     
     </Text>
     <Text huntingZoneId="235" id="4" villagerId="1014">
          
+         
         <Page social="0">Não os deixe para os dracolotes!</Page>
+    
     
     </Text>
 </QuestDialog>

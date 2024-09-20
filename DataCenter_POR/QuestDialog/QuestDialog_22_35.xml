@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="22" id="35" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="22" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="222" id="100" prevId="0" villagerId="1023">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="222" id="2" prevId="0" villagerId="1023">
          
+         
         <Page social="5">Nas profundezas das Catacumbas da Rainha das Bruxas, {@LinkCreature:22#21#chaos guides} e seus {@LinkCreature:22#22#iskaragards} estão trabalhando contra nós.&lt;BR&gt;&lt;BR&gt;Minhas irmãs precisam ser detidas. Elas conhecem melhor nossas táticas, por isso preciso pedir que você as enfrente.</Page>
+    
     
     </Text>
     <Text huntingZoneId="222" id="3" prevId="2" villagerId="1023">
          
+         
         <Page social="5">Tudo o que peço é que, quando tivermos resolvido esse caso miserável, entendamos como isso aconteceu e quem o ordenou.&lt;BR&gt;&lt;BR&gt;O entendimento me ajudará a me curar e saber quem é o responsável dará aos bruxos sobreviventes alguém para matar. Lentamente.</Page>
+    
     
     </Text>
 </QuestDialog>

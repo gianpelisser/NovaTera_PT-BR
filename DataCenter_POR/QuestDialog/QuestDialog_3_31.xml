@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="3" id="31" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="3" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="59" id="100" prevId="0" villagerId="1012">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="59" id="2" prevId="0" villagerId="1012">
          
+         
         <Page social="4">Minha colega, Neria, perdeu seu assistente, Timuron. Ele foi ao cemitério para coletar suas próprias amostras. É um rapaz inteligente e corajoso. No entanto, ele está atrasado e temo que esteja em apuros. Você poderia procurá-lo? Tenho certeza de que ela está preocupada com o rapaz.</Page>
+    
     
     </Text>
     <Text huntingZoneId="203" id="3" prevId="2" villagerId="1014">
          
+         
         <Page social="4">Esedran o enviou? Velik seja louvado! &lt;BR&gt;&lt;BR&gt;Eu estive testando vários compostos em restos dos mortos que consegui colocar minhas mãos. Neria provavelmente pode tirar mais proveito disso do que você ou eu. &lt;BR&gt;&lt;BR&gt;Você se importaria de levar isso para ela? Eu vou ficar aqui e ver se consigo descobrir mais alguma coisa.</Page>
+    
     
     </Text>
     <Text huntingZoneId="203" id="4" prevId="3" villagerId="1021">
          
+         
         <Page social="4">Obrigado por me trazer isso, &lt;PCNAME&gt;, mas obrigado ainda mais por me informar que Timuron está bem.&lt;BR&gt;&lt;BR&gt;Agora, afaste-se - vou tentar a ciência.</Page>
+    
     
     </Text>
 </QuestDialog>

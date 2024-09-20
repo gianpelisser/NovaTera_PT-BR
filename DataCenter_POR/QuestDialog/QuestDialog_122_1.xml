@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="122" id="1" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="122" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="122" id="100" prevId="0" villagerId="220021">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="122" id="2" prevId="0" villagerId="220021">
          
+         
         <Page social="1">Amigo, a União Iluminada precisa de ajuda se quisermos obter o noctênio.&lt;BR&gt;&lt;BR&gt;Instalamos extratores de noctênio em nossas terras, mas eles são constantemente atacados por enormes feras, principalmente basiliscos. Os danos que eles causam estão nos impedindo de coletar o noctênio. Por favor, impeça que essas criaturas interfiram nos extratores! &lt;BR&gt;&lt;BR&gt;&lt;font color='#660000'&gt;Se os membros de nível 65 da União ajudassem os membros de nível inferior da União Iluminada a concluir essa tarefa, suas recompensas incluiriam este bônus.&lt;/font&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="122" id="3" prevId="2" villagerId="220021">
          
+         
         <Page social="0">Obrigado, amigo &lt;PCNAME&gt;!&lt;BR&gt;Com sua ajuda, a união certamente prevalecerá.&lt;BR&gt;Louvado seja o Sindicato Iluminado!</Page>
+    
     
     </Text>
 </QuestDialog>

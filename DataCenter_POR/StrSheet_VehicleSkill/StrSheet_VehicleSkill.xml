@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_VehicleSkill xmlns="https://vezel.dev/novadrop/dc/StrSheet_VehicleSkill" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_VehicleSkill StrSheet_VehicleSkill.xsd">
     <String huntingZoneId="48" id="1101" name="Salvo de fogo" templateId="2000" tooltip="Atire um projétil em seu alvo." />
     <String huntingZoneId="48" id="1201" name="Desmontar" templateId="2000" tooltip="Largue a arma de cerco." />
@@ -95,6 +95,8 @@
     <String huntingZoneId="750" id="1201" name="Pular" templateId="5008" tooltip="Pule do dirigível." />
     <String huntingZoneId="750" id="1101" name="Desmontagem" templateId="5009" tooltip="Preparar o dirigível para a partida. Não é possível usar essa habilidade durante o voo." />
     <String huntingZoneId="750" id="1201" name="Pular" templateId="5009" tooltip="Pule do dirigível." />
+    <String id="1101" templateId="885158" name="Fire Salvo" tooltip="Shoot a projectile at your target." huntingZoneId="885" />
+    <String id="1201" templateId="885158" name="Dismount" tooltip="Get off the cannon." huntingZoneId="885" />
     <String huntingZoneId="1023" id="1101" name="Salvo de fogo" templateId="3000007" tooltip="Atire um projétil em seu alvo." />
     <String huntingZoneId="1023" id="1201" name="Desmontar" templateId="3000007" tooltip="Saia do canhão." />
 </StrSheet_VehicleSkill>

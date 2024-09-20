@@ -1,10 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4773001" string="(Guilda) Ordem para subjugar o Blightroar" />
-    <String id="4773002" string="A subjugação contínua sempre traz paz." />
-    <String id="4773003" string="Obrigado por seu trabalho árduo." />
-    <String id="4773004" string="Ficha de subjugação do Blightroar" />
-    <String id="4773005" string="&quot;É uma honra servir.&quot;" />
-    <String id="4773006" string="Mate {@Creature:47#3001#contaminated wendigos}, {@Creature:47#3002#argonomorph wendigos} e {@Creature:47#3003#argonomorph wendigo shamans} ao redor de {@Rgn:47004$$Blightroar} e colete fichas." />
-    <String id="4773007" string="Apresente-se a Laetesha no Pathfinder Post quando a missão for concluída." />
+    <String id="4735001" string="Fúria das fadas" />
+    <String id="4735002" string="Mate as {@Creature:47#2002#argonomorph faeries} que estão interferindo no plantio de mudas de fadas." />
+    <String id="4735003" string="Não foi um trabalho fácil. Obrigado." />
+    <String id="4735004" string="Mate {@creature:47#2002#argonomorph faeries} no {@Rgn:47015$$Petrified Mushroom Field}." />
+    <String id="4735005" string="&quot;É uma honra servir.&quot;" />
+    <String id="4735006" string="Informe a {@creature:247#1018$$Lenton} em {@Rgn:47008$$Eastwatch}." />
 </StrSheet_Quest>

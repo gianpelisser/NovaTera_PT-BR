@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="5029001" string="Path of Death" />
-    <String id="5029002" string="You deal with the arzakaars. I'll deal with logistics." />
-    <String id="5029003" string="Kill the arzakaar guardians protecting the {@Rgn:50006}." />
-    <String id="5029004" string="&quot;Sounds familiar.&quot;" />
-    <String id="5029005" string="Report back to {@LinkCreature:250#1008}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="5025001" string="Bloody Harvest" />
+    <String id="5025002" string="&quot;I'm on it.&quot;" />
+    <String id="5025003" string="Find {@LinkCreature:250#1016} in the {@Rgn:50004}." />
+    <String id="5025004" string="Iteris Shard" />
+    <String id="5025005" string="Kill the suulvir harvesters in the {@Rgn:50004} and take their iteris shards." />
+    <String id="5025006" string="Report back to {@LinkCreature:250#1016}." />
+    <String id="5025007" string="&quot;You're welcome.&quot;" />
 </StrSheet_Quest>

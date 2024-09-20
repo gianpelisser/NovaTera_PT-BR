@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="56" id="24" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="56" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="256" id="100" prevId="0" villagerId="1024">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="256" id="2" prevId="0" villagerId="1024">
          
+         
         <Page social="4">Esses esquadrões de mortos-vivos de Bleakbone continuam subindo aquela estrada ao sul de nós. Tenho a sensação de que eles estão... frescos.&lt;BR&gt;&lt;BR&gt;Tome esses frascos. Os mortos-vivos liberam um fluido negro quando você os mata. Encha os frascos e traga-os de volta.</Page>
+    
     
     </Text>
     <Text huntingZoneId="256" id="3" prevId="2" villagerId="1024">
          
+         
         <Page social="4">Cheio? Cada frasco? Trabalho fantástico, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Agora, deixe-me ver...Oh, a raiva sangrenta de Velik, eu estava certo. Esses pobres coitados estavam vivos há menos de um dia.&lt;BR&gt;&lt;BR&gt;Estes são os habitantes da cidade raptados. Eles os estão enviando de volta para nós, os monstros!</Page>
+    
     
     </Text>
     <Text huntingZoneId="256" id="4" villagerId="1024">
          
+         
         <Page social="0">Esses dragões, slashers e defensores de Bleakbone estão nos isolando da cidade. Elimine-os e me ajude a rastrear suas origens, soldado!</Page>
+    
     
     </Text>
 </QuestDialog>

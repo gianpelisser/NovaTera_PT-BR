@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4843001" string="Smoldering Remains" />
-    <String id="4843002" string="Kill that nasty smoldering moloch." />
-    <String id="4843003" string="I hope it suffered. A lot." />
-    <String id="4843004" string="Hunt down and kill a smoldering moloch." />
-    <String id="4843005" string="&quot;And your reward. Thank you.&quot;" />
-    <String id="4843006" string="Report back to {@LinkCreature:248#1025}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4839001" string="Head Shots" />
+    <String id="4839002" string="{@Creature:48#14}'s no tuwangi or gula. Watch yourself." />
+    <String id="4839003" string="Outstanding!" />
+    <String id="4839004" string="Hunt down and destroy {@LinkCreature:48#14}." />
+    <String id="4839005" string="&quot;Honored to be of service.&quot;" />
+    <String id="4839006" string="Report to {@LinkCreature:248#1001}." />
 </StrSheet_Quest>

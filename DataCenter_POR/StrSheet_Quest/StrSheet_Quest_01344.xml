@@ -1,9 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4793001" string="Problemas em Blightroar" />
-    <String id="4793002" string="Estou contando com você. Todos nós contamos." />
-    <String id="4793003" string="Prova de morte: Wendigos" />
-    <String id="4793004" string="&quot;Eu cumpri meu dever.&quot;" />
-    <String id="4793005" string="Cace {@Creature:47#3001#wendigos contaminados}, {@Creature:47#3002#argononomorph wendigos} e {@Creature:47#3003#argonomorph wendigo shamans} em {@Rgn:47004$$Blightroar} e colete fichas." />
-    <String id="4793006" string="Consulte {@Creature:247#1005$$Chenace} em {@Rgn:47007$$$Blightroar Research Station} para obter sua recompensa." />
+    <String id="4783001" string="Ordem para subjugar o Blightroar" />
+    <String id="4783002" string="A subjugação contínua sempre traz paz" />
+    <String id="4783003" string="Obrigado por seu trabalho árduo" />
+    <String id="4783004" string="Ficha de subjugação do Blightroar" />
+    <String id="4783005" string="&quot;É uma honra servir.&quot;" />
+    <String id="4783006" string="Mate {@Creature:47#3001#contaminated wendigos}, {@Creature:47#3002#argonomorph wendigos} e {@Creature:47#3003#argonomorph wendigo shamans} ao redor de {@Rgn:47004$$Blightroar} e colete fichas." />
+    <String id="4783007" string="Obter recompensa do coordenador de recompensas da aldeia." />
 </StrSheet_Quest>

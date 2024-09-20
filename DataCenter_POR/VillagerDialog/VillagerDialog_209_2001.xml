@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="209" id="2001" voiceTypeId="67">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2001" huntingZoneId="209" voiceTypeId="67">
     <Text id="1" endSocial="14">
          
+         
         <Page social="4">Se precisar sair daqui, posso te transportar diretamente para o Posto Avançado dos Caçadores de Relíquias!</Page>
+    
     
     </Text>
 </VillagerDialog>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="7" id="92" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="7" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="60" id="100" prevId="0" villagerId="1013">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="60" id="2" prevId="0" villagerId="1013">
          
+         
         <Page social="0">Os Presas Vermelhas estão tentando assumir o controle, matando de fome o que restou do nosso povo nas Colinas Celestiais. Na maioria das vezes, eles estão invadindo nossa última fazenda.&lt;BR&gt;&lt;BR&gt;Caça os {@LinkCreature:7#7#Red Fang ragers} e mate-os.&lt;BR&gt;&lt;BR&gt;Apresentem-se a Heroth na Fazenda de Godric quando terminarem.</Page>
+    
     
     </Text>
     <Text huntingZoneId="207" id="3" prevId="2" villagerId="1005">
          
+         
         <Page social="5">É bom ver um soldado disposto a se esforçar em meio ao sangue e à sujeira para fazer as coisas acontecerem.</Page>
+    
     
     </Text>
     <Text huntingZoneId="207" id="4" villagerId="1005">
          
+         
         <Page social="0">Parece que você ainda não completou sua missão.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="63" id="1097" voiceTypeId="14">
-    <Text huntingZoneId="63" id="1" endSocial="14" prevId="0" villagerId="1097">
-         
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1097" huntingZoneId="63" voiceTypeId="14" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="63" prevId="0" villagerId="1097" endSocial="14">
         <Page social="4">Fine day. Welcome to Velika, the city of peace dedicated to Goddess Velika.</Page>
-    
     </Text>
 </VillagerDialog>

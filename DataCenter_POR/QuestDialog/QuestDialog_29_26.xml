@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="29" id="26" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="29" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="229" id="100" prevId="0" villagerId="1010">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="229" id="2" prevId="0" villagerId="1010">
          
+         
         <Page social="5">As sementes de tertas brotaram. Plante-as e elas crescerão rapidamente. Por favor, entregue essas sementes a {@LinkCreature:229#1019#Karsonak}. Ele está ao sul deste acampamento pesquisando mutações de aracnídeos. O Tertas certamente ajudará em seu estudo. Tenho mais sementes para germinar, mas pelo menos essas estão prontas.&lt;BR&gt;&lt;BR&gt;Leve-as para Karsonak e lembre-o de ter cuidado!</Page>
+    
     
     </Text>
     <Text huntingZoneId="229" id="3" prevId="2" villagerId="1019">
          
+         
         <Page social="5">Pela tocha de Oriyn, esses brotos serão muito úteis! Vou plantá-los imediatamente.&lt;BR&gt;&lt;BR&gt;Por essa região estar tão desequilibrada, reluto em matar meus sujeitos de pesquisa. Prefiro dosá-los e deixá-los acordar algumas horas depois.&lt;BR&gt;&lt;BR&gt;Qualquer que seja a causa raiz, há lições para aprendermos. Vamos continuar com a mente aberta.</Page>
+    
     
     </Text>
 </QuestDialog>

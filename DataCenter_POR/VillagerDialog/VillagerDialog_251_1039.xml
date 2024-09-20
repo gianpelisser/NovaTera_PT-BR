@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="251" id="1039" voiceTypeId="173">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1039" huntingZoneId="251" voiceTypeId="173">
     <Text id="1" endSocial="14">
          
+         
         <Page social="5">Be cautious out here.&lt;BR&gt;&lt;BR&gt;If I were Thulsa, I'd be learning how to attune those blasted pylons to work on federation races.</Page>
+    
     
     </Text>
 </VillagerDialog>

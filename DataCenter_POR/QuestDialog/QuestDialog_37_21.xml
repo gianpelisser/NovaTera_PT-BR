@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="37" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="37" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="74" id="100" prevId="0" villagerId="1010">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="74" id="2" prevId="0" villagerId="1010">
          
+         
         <Page social="10">Por que ele não está aqui? Eu sei que esses túneis são eternos, mas isso não significa que eu possa esperar para sempre! &lt;BR&gt;&lt;BR&gt;&lt;PCCLASS&gt;, se você não estiver ocupado, pode ir até a cripta e checar o Eudon?&lt;BR&gt;&lt;BR&gt;A história mais velha do mundo. O cara é enviado para entregar rações para os batedores na cripta, mas não volta no horário previsto.&lt;BR&gt;&lt;BR&gt;E no seu caminho, certifique-se de que algo ruim aconteça com os cães infernais que estão vagando por aí. É difícil cumprir seu dever quando os latidos intermináveis impedem um sono honesto!</Page>
+    
     
     </Text>
     <Text huntingZoneId="237" id="3" prevId="2" villagerId="1032">
          
+         
         <Page social="20">Você é de Elenea, &lt;PCCLASS:lcase&gt;?&lt;BR&gt;&lt;BR&gt;Sim, sim, eu sei que estou atrasado.&lt;BR&gt;&lt;BR&gt;É tão difícil entender por que me perdi?</Page>
+    
     
     </Text>
 </QuestDialog>

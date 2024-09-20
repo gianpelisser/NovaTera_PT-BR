@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="16" id="27" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="16" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="216" id="100" prevId="0" villagerId="1021">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="216" id="2" prevId="0" villagerId="1021">
          
+         
         <Page social="5">Eu estava colhendo ervas com meu pai e nos separamos. Então os {@LinkCreature:16#2209#gloomtusks} atacaram, então eu corri e me escondi.&lt;BR&gt;&lt;BR&gt;Meu pai deve estar muito preocupado. Você acha que poderia cuidar desses animais para mim? Só o suficiente para limpar o caminho, para que eu possa encontrar meu pai?</Page>
+    
     
     </Text>
     <Text huntingZoneId="216" id="3" prevId="2" villagerId="1021">
          
+         
         <Page social="4">Isso foi tão rápido! &lt;BR&gt;&lt;BR&gt;Eu odeio pensar que meu pai está preocupado comigo - você acha que podemos ir procurá-lo agora mesmo? Por favor?</Page>
+    
     
     </Text>
 </QuestDialog>

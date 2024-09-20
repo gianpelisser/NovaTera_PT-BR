@@ -1,16 +1,11 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="60414001" string="Bálsamo de Balder" />
-    <String id="60414002" string="Pergunte a Ruma o que ele precisa e traga as ervas para mim." />
-    <String id="60414003" string="Se você estiver doente, dê uma passada por lá." />
-    <String id="60414004" string="" />
-    <String id="60414005" string="" />
-    <String id="60414006" string="Encontre {@LinkCreature:71#3003#Ruma}." />
-    <String id="60414007" string="&quot;Deixe isso comigo.&quot;" />
-    <String id="60414008" string="&quot;De nada!&quot;" />
-    <String id="60414009" string="Reúna as plantas da sombra da lua ao redor do {@Rgn:30005$$Seren's Garden}." />
-    <String id="60414010" string="Entregue as plantas da sombra da lua para {@LinkCreature:71#3005#Buran}." />
-    <String id="60414011" string="&quot;Fico feliz em ajudar.&quot;" />
-    <String id="60414012" string="Reúna lótus ao luar ao redor do {@Rgn:30014$$Lago de Seren}." />
-    <String id="60414013" string="Entregue os lótus do luar para {@LinkCreature:71#3005#Buran}." />
+    <String id="60412001" string="Você não está na minha lista" />
+    <String id="60412002" string="Fique em segurança!" />
+    <String id="60412003" string="Como eu consegui sobreviver sem você aqui?" />
+    <String id="60412004" string="&quot;Não diga mais nada.&quot;" />
+    <String id="60412005" string="Vá até {@LinkCreature:230#3026#Lilis} perto do {@Rgn:9017001$$Sun Lighthouse}." />
+    <String id="60412006" string="Destrua o {@LinkCreature:417#2001#old keeper} no sexto andar do {@Rgn:9017001$$Sun Lighthouse}." />
+    <String id="60412007" string="&quot;Boa sorte!&quot;" />
+    <String id="60412008" string="Retorne para {@LinkCreature:230#3026#Lilis}." />
 </StrSheet_Quest>

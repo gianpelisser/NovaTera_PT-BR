@@ -1,50 +1,69 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="701" id="2" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="701" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="230" id="100" prevId="0" villagerId="7000">
          
+         
         <Page social="0">Você auxiliou o Clã Consos ajudando a concluir Balder is Temple.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="2" prevId="0" villagerId="7000">
          
+         
         <Page social="4">Permita-me oferecer a você a oportunidade de ajudar.&lt;BR&gt;&lt;BR&gt;&amp;quot;Se o templo não estiver limpo e brilhante, a luz de Balder também não estará.&amp;quot; Você já ouviu esse ditado antes? &lt;NEXTPAGEBUTTON&gt;&amp;quot;Não. O que significa?</Page>
          
+         
         <Page social="4">Esse é um ditado muito antigo e significa que o templo e o sol estão divinamente conectados. Quando o templo está sujo de poeira e lixo, a luz do sol é... enfraquecida. É complicado, e são necessários anos de treinamento clerical para compreendê-lo por completo.&lt;BR&gt;&lt;BR&gt;Parece que há poucos sacerdotes para manter o templo devidamente limpo.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, posso pedir-lhe que nos ajude a limpar o templo?</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="3" prevId="2" villagerId="7000">
          
+         
         <Page social="4">Muito obrigado. Isso significa muito para nós. Poucos dizem sim quando ficam sabendo que honrar o sacrifício de Balder envolve trabalho de verdade.&lt;BR&gt;&lt;BR&gt;Por favor, use o teleportal para entrar no templo e se apresente a Davor.</Page>
+    
     
     </Text>
     <Text huntingZoneId="451" id="4" prevId="3" villagerId="7000">
          
+         
         <Page social="4">É um prazer conhecê-lo, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Eu sou Davor e sou o responsável pelas adegas do templo.&lt;BR&gt;&lt;BR&gt;A tarefa de hoje é livrar a adega de pragas - neste caso, preguiças. Elas sobem pelas paredes para pegar a água da fonte e deixam uma bagunça terrível.&lt;BR&gt;&lt;BR&gt;Já vou avisando que essas preguiças são muito agressivas. Mas se você utilizar nosso autômato de limpeza, o PEST-B-GON 8000, isso não deverá ser muito difícil.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Como o autômato funciona?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">É muito simples. Basta ativar o controle, aqui, e o PEST-B-GON 8000 começará a segui-lo, eliminando preguiças ao longo do caminho. No entanto, ele não é muito inteligente, por isso é melhor guiar o PEST-B-GON 8000 atacando o que você quer que ele elimine.&lt;BR&gt;&lt;BR&gt;Ative o controle quando estiver pronto.</Page>
+    
     
     </Text>
     <Text huntingZoneId="451" id="5" prevId="4" villagerId="7001">
          
+         
         <Page social="4">Olá, &lt;PCNAME&gt;. Obrigado por ajudar o Clã Consos no templo hoje.&lt;BR&gt;&lt;BR&gt;Eu sou Nahad; cuido dos jardins, com a ajuda dos meus autômatos golem de jardim. Na maior parte do tempo, eles mantêm os ghilliedhus sob controle enquanto eu cuido do jardim.&lt;BR&gt;&lt;BR&gt;Apesar disso, como acontece com tantas outras coisas no templo, os autômatos são muito velhos e quebram com facilidade. Não tenho tempo para cuidar deles, eu mesmo; alguém tem pintado grafites nas paredes do templo, e eu preciso descobrir quem é.&lt;BR&gt;&lt;BR&gt;Seria muito útil para mim se você fosse capaz de consertar os golems do jardim, &lt;PCNAME&gt;. Depois, basta ajudá-los a subjugar os enormes ghilliedhus.</Page>
+    
     
     </Text>
     <Text huntingZoneId="451" id="6" prevId="5" villagerId="7002">
          
+         
         <Page social="4">Vampiros... isso realmente não deveria ser uma surpresa. Eles são enfraquecidos pelo poder do sol e, por isso, faz sentido que ataquem o templo. &lt;BR&gt;&lt;BR&gt;As pichações são apenas parte do problema. Eles nos assediam quando nos aventuramos fora do templo, e há relatos de aldeões raptados a quilômetros de distância. E agora eles estão tão ousados a ponto de entrar no próprio templo! &lt;BR&gt;&lt;BR&gt;Devo relatar isso a Renmi. Por favor, continue subindo as escadas e fale com Kodar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="451" id="7" prevId="6" villagerId="7003">
          
+         
         <Page social="4">Bem-vindo, &lt;PCNAME&gt;. Renmi me falou de você. Obrigado por ter vindo.&lt;BR&gt;&lt;BR&gt;Por favor, ajude-me a livrar o centro do templo das cobras.&lt;NEXTPAGEBUTTON&gt;&amp;quot;O que você precisa que eu faça?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">É muito simples.&lt;BR&gt;&lt;BR&gt;Karu pode explicar. Karu geralmente lida com esses vermes, mas os fey nem sempre são... confiáveis. Ainda assim, fale com ele antes de começar; ele pode ter conselhos úteis.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="8" prevId="7" villagerId="7000">
          
+         
         <Page social="4">Bem-vindo de volta, &lt;PCNAME&gt;. Espero que suas tarefas não tenham sido muito cansativas?&lt;BR&gt;&lt;BR&gt;Os clérigos me disseram que você foi muito útil. Eles dizem que esperam que você venha ajudar novamente no próximo ano.&lt;BR&gt;&lt;BR&gt;Nesse meio tempo, queríamos lhe dar algo especial, como um sinal de nossa gratidão.</Page>
+    
     
     </Text>
 </QuestDialog>

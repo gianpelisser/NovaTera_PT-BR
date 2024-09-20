@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="191" id="2129" voiceTypeId="127">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2129" huntingZoneId="191" voiceTypeId="127">
     <Text id="1" endSocial="4">
          
+         
         <Page social="4" voiceTypeId="127">&lt;PCNAME&gt;! I have something to aid you in your next battle!</Page>
+    
     
     </Text>
 </VillagerDialog>

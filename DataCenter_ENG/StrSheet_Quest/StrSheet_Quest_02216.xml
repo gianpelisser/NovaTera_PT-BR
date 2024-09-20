@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="70208001" string="[Rootstock—Daily] Ranch Management" />
-    <String id="70208002" string="&quot;I got you covered.&quot;" />
-    <String id="70208003" string="Hyena" />
-    <String id="70208004" string="Kill a hungry hyena." />
-    <String id="70208005" string="&quot;For Valkyon.&quot;" />
-    <String id="70208006" string="Talk to Filton." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="70206001" string="[Rootstock—Daily] Kick-Bale" />
+    <String id="70206002" string="&quot;I'll give it a shot.&quot;" />
+    <String id="70206003" string="Start the Kick-Bale mini-game." />
+    <String id="70206004" string="&quot;Okay, thanks.&quot;" />
+    <String id="70206005" string="Talk to Digory." />
 </StrSheet_Quest>

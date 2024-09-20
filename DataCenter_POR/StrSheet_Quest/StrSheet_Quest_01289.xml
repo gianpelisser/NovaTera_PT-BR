@@ -1,9 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4594001" string="Louco por saltos" />
-    <String id="4594002" string="Eu detesto tuwangis." />
-    <String id="4594003" string="Prova de morte: Argonomorfos" />
-    <String id="4594004" string="&quot;Pela federação!&quot;" />
-    <String id="4594005" string="Mate {@creature:45#4002#argonomorph tuwangis}, {@creature:45#4003#warfroggers} e {@creature:45#4004#wendigos} perto dos {@Rgn:45005$$Skyfields}." />
-    <String id="4594006" string="Apresente-se a {@Creature:245#1009} em {@Rgn:45009$$Camp Insanity}." />
+    <String id="4585001" string="Ordem para subjugar Draelteryx" />
+    <String id="4585002" string="Ficha de Subjugação do {@linkcreature:45#4005#Draelteryx}" />
+    <String id="4585003" string="&quot;Obrigado.&quot;" />
+    <String id="4585004" string="Mate {@linkcreature:45#4005#Draelteryx} e colete fichas" />
+    <String id="4585005" string="Reporte ao coordenador" />
 </StrSheet_Quest>

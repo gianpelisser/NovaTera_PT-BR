@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="471" id="92" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="471" id="100" prevId="0" villagerId="1011">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="471" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="471" prevId="0" villagerId="1011">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="471" id="2" prevId="0" villagerId="1011">
-         
+    <Text id="2" huntingZoneId="471" prevId="0" villagerId="1011">
         <Page social="0">Mission Orders&lt;BR&gt;&lt;BR&gt;Eliminate the purgatorial beings in the Necromancer Tomb.&lt;BR&gt;&lt;BR&gt;Destroy the {@LinkCreature:471#3#ebonheart inquisitors}, {@LinkCreature:471#7#eldritch blood knights}, {@LinkCreature:471#900#vengeful shades}, {@LinkCreature:471#1#relentless disc reapers}, and {@LinkCreature:471#901#sawtooth reapers}.&lt;BR&gt;&lt;BR&gt;Report to Valona when mission is complete.</Page>
-    
     </Text>
-    <Text huntingZoneId="471" id="3" prevId="2" villagerId="1011">
-         
+    <Text id="3" huntingZoneId="471" prevId="2" villagerId="1011">
         <Page social="5">Great job. Please continue to help us to fully eradicate these horrendous monsters.</Page>
-    
     </Text>
-    <Text huntingZoneId="471" id="4" villagerId="1011">
-         
+    <Text id="4" huntingZoneId="471" villagerId="1011">
         <Page social="0">The Necromancer Tomb must be completely subjugated. That means you, &lt;PCNAME&gt;.</Page>
-    
     </Text>
 </QuestDialog>

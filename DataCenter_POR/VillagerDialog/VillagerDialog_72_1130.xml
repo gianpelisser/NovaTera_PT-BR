@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="72" id="1130" voiceTypeId="48">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1130" huntingZoneId="72" voiceTypeId="48">
     <Text huntingZoneId="72" id="1" endSocial="14" prevId="0" villagerId="1130">
          
+         
         <Page social="4">In a sense, the Mysterium is every bit as egalitarian as the Valkyon Federation claims to be.&lt;BR&gt;&lt;BR&gt;We exclude no race from membership, though it's true the majority of our leaders are high elves.</Page>
+    
     
     </Text>
 </VillagerDialog>

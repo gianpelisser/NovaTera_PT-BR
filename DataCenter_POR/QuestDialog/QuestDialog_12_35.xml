@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="12" id="35" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="12" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="212" id="100" prevId="0" villagerId="1001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="212" id="2" prevId="0" villagerId="1001">
          
+         
         <Page social="4">Os piratas de Red Lash se mudaram em força para a Ilha Mistmoor. E eles estão passando mais tempo em terra do que gostaríamos.&lt;BR&gt;&lt;BR&gt;Os piratas eram, na verdade, mais fáceis de lidar quando tinham uma frota completa, acredite ou não.&lt;BR&gt;&lt;BR&gt;Apresentem-se no Posto Avançado do Vindicador, na costa sul da Ilha de Mistmoor. Eles o colocarão para trabalhar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="212" id="3" prevId="2" villagerId="1005">
          
+         
         <Page social="4">Munam lhe enviou? E não apenas para conseguir uma "chave inglesa para canhotos" ou uma "amostra de fumaça de fogueira"? Ou ele está distraído ou preocupado.&lt;BR&gt;&lt;BR&gt;E ele deveria estar preocupado. Os piratas do Red Lash estão por toda parte. Eles estão trabalhando com um bando de escravagistas gula chamado Sindicato Kazuur.&lt;BR&gt;&lt;BR&gt;Então, bem-vindo à Ilha Mistmoor. Venham pelas praias de areia, fiquem pelo ambiente rico em alvos.</Page>
+    
     
     </Text>
 </QuestDialog>

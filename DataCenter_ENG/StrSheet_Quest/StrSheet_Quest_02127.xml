@@ -1,16 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="60411001" string="Time to Rest" />
-    <String id="60411002" string="It's all we can do until we learn to repair them." />
-    <String id="60411003" string="We will continue their noble duty." />
-    <String id="60411004" string="" />
-    <String id="60411005" string="" />
-    <String id="60411006" string="" />
-    <String id="60411007" string="Meet {@LinkCreature:230#3025#Maun} by the {@Rgn:9017001$$Sun Lighthouse}." />
-    <String id="60411008" string="&quot;I'm on it.&quot;" />
-    <String id="60411009" string="Destroy {@LinkCreature:417#1001#old lighthouse managers} in the {@Rgn:9017001$$Sun Lighthouse}." />
-    <String id="60411010" string="Destroy {@LinkCreature:417#1002#old lighthouse guardians} in the {@Rgn:9017001$$Sun Lighthouse}." />
-    <String id="60411011" string="Destroy {@LinkCreature:417#1003#old bronze golems} in the {@Rgn:9017001$$Sun Lighthouse}." />
-    <String id="60411012" string="&quot;Glad to help.&quot;" />
-    <String id="60411013" string="Report to {@LinkCreature:230#3025#Maun}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="60409001" string="A Chance of Sun" />
+    <String id="60409002" string="The lighthouses are vital! Please hurry!" />
+    <String id="60409003" string="Hope the Mysterium can repair this one soon." />
+    <String id="60409004" string="&quot;Right away!&quot;" />
+    <String id="60409005" string="Find {@LinkCreature:230#3026#Lilis}." />
+    <String id="60409006" string="Restart the {@WorkObject:77} at the top of the {@Rgn:9017001$$Sun Lighthouse}." />
+    <String id="60409007" string="&quot;I'm glad I was!&quot;" />
+    <String id="60409008" string="Return to {@LinkCreature:230#3026#Lilis}." />
 </StrSheet_Quest>

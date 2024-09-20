@@ -1,84 +1,116 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="605" id="23" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="605" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="63" id="100" prevId="0" villagerId="3002">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="2" prevId="0" villagerId="3002">
          
+         
         <Page social="4">Uau! Nós o enviamos em muitas missões chatas de criação, mas é porque seu trabalho é excelente.&lt;BR&gt;&lt;BR&gt;Materiais raros e de alta qualidade são a forma de apoiar a preciosa causa pela qual todos nós estamos lutando, e seu apoio às Mãos de Velika é muito apreciado.&lt;BR&gt;&lt;BR&gt;Chega de eu estar chorando. Vá falar com {@LinkCreature:63#3003#Elthienne}.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="3003">
          
+         
         <Page social="0">Odeio ter que ficar pedindo, mas você poderia fabricar alguns itens para {@LinkCreature:63#3001#Barian}? Os suprimentos estão escassos e temos que mantê-los chegando para continuarmos no negócio.&lt;BR&gt;&lt;BR&gt;Sem o nosso comércio, não haveria Mãos de Velika. Sim. Somos tão importantes assim.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="4" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="5" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="6" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="7" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="8" prevId="2" villagerId="3001">
          
+         
         <Page social="5">Se não é o meu artesão favorito. Isso parece ótimo.&lt;BR&gt;&lt;BR&gt;Veja {@LinkCreature:63#3002#Taratia} para sua merecida compensação.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="9" villagerId="3001">
          
+         
         <Page social="0">Faça uma placa de césio e traga-a para mim. É um pedido especial para um cliente que não posso decepcionar.&lt;BR&gt;&lt;BR&gt;Temos que manter nossos clientes felizes, você sabe.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="10" prevId="8" villagerId="3001">
          
+         
         <Page social="5">Obrigado, &lt;PCNAME&gt;. Bom trabalho.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} fez uma boa escolha quando recrutou você.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="11" villagerId="3001">
          
+         
         <Page social="0">Crie cryosilex e entregue-o a mim assim que puder. &lt;BR&gt;&lt;BR&gt;Você é um salvador de vidas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="12" prevId="10" villagerId="3001">
          
+         
         <Page social="5">Obrigado.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} recebeu seu pagamento.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="13" villagerId="3001">
          
+         
         <Page social="0">Faça couro de bainha e traga-o aqui rapidamente.&lt;BR&gt;&lt;BR&gt;Mas não economize. Preciso do material da mais alta qualidade que você conseguir.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="14" prevId="12" villagerId="3001">
          
+         
         <Page social="5">Obrigado, &lt;PCNAME&gt;. Gostaria de ter um biscoito para lhe dar, para mostrar minha gratidão.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} talvez tenha um biscoito. Por que você não vai perguntar a ela? Diga a ela que eu lhe pagarei.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="15" villagerId="3001">
          
+         
         <Page social="0">Faça toiracloth e apresse-se! &lt;BR&gt;&lt;BR&gt;Estes clientes e seus pedidos especiais serão a minha morte.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="16" prevId="14" villagerId="3002">
          
+         
         <Page social="4">Uau, &lt;PCNAME&gt;! Você não só trabalha duro e produz materiais de qualidade, como também é rápido!&lt;BR&gt;&lt;BR&gt;Obrigado.</Page>
+    
     
     </Text>
 </QuestDialog>

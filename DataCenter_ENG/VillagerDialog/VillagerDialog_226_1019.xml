@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="226" id="1019" voiceTypeId="0">
-    <Text huntingZoneId="226" id="1" endSocial="0" prevId="0" villagerId="1019">
-         
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1019" huntingZoneId="226" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="226" prevId="0" villagerId="1019" endSocial="0">
         <Page social="0">(This way to the North Ramp.)</Page>
-    
     </Text>
 </VillagerDialog>

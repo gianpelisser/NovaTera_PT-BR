@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Party xmlns="https://vezel.dev/novadrop/dc/StrSheet_Party" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Party StrSheet_Party.xsd">
+<StrSheet_Party xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Party StrSheet_Party.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Party">
     <String string="Party" readableId="SMT_PARTY_NAME" />
     <String string="Raid" readableId="SMT_RAID_NAME" />
     <String string="Gather up to 20 players in a raid to take on more challenging goals.&lt;br&gt;Limitations apply to players in a raid:&lt;br&gt;1. No quest drops or credit for quest kills except raid quests.&lt;br&gt;2. Greatly decreased XP, reputation, and credits from kills outside raid instances." readableId="SMT_RAID_CONFIG_DESCRIPTION" />

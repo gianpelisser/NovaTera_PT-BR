@@ -1,60 +1,83 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="191" id="1" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="191" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="183" id="100" prevId="0" villagerId="1021">
          
+         
         <Page social="0">Os vanguardistas marcham para Arx Umbra, o limite do território dos arquidevas, mas enfrentam alguns problemas com os goblins.</Page>
+    
     
     </Text>
     <Text huntingZoneId="183" id="2" prevId="0" villagerId="1021">
          
+         
         <Page social="4">Pedi a suas forças que partissem para Arx Umbra, para que possamos levar a luta até os arquidevas. Nós os esmagaremos juntos! &lt;BR&gt;&lt;BR&gt;Eu me juntarei a vocês em breve. Tenho que prestar meus respeitos ao baraka.</Page>
+    
     
     </Text>
     <Text huntingZoneId="183" id="3" prevId="2" villagerId="4001">
          
+         
         <Page social="4">E? &lt;PCNAME&gt;? O que você está fazendo aqui? &lt;NEXTPAGEBUTTON&gt;"Onde estão os soldados?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Eles acabaram de sair! Pensei que você tivesse ido com eles.&lt;BR&gt;&lt;BR&gt;Meu amigo Deoric é a retaguarda deles. Procurem por ele.</Page>
+    
     
     </Text>
     <Text huntingZoneId="183" id="4" prevId="3" villagerId="4002">
          
+         
         <Page social="4">Esses demônios! &lt;NEXTPAGEBUTTON&gt;"O que aconteceu?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Alguns goblins pediram ajuda, então o idiota que dirigia a carroça de suprimentos parou. Foi então que eles nos atacaram. Levei um tiro feio no crânio.&lt;BR&gt;&lt;BR&gt;Quando acordei, a carroça havia sumido. Temos que recuperar os suprimentos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="183" id="5" prevId="4" villagerId="4023">
          
+         
         <Page social="4">(A carroça está vazia.)&lt;BR&gt;&lt;BR&gt;(Pegadas voltam a subir a encosta.)</Page>
+    
     
     </Text>
     <Text huntingZoneId="183" id="6" prevId="5" villagerId="4002">
          
+         
         <Page social="4">Não há caixotes? &lt;BR&gt;&lt;BR&gt;Devem tê-los movido enquanto eu estava inconsciente.&lt;NEXTPAGEBUTTON&gt;"Parece que eles voltaram para a estrada."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Certo. Você deve ir atrás dos suprimentos. Eu o alcançarei.</Page>
+    
     
     </Text>
     <Text huntingZoneId="183" id="7" prevId="6" villagerId="4003">
          
+         
         <Page social="4">Excelente trabalho ao recuperá-las.&lt;BR&gt;&lt;BR&gt;Eu as levarei daqui. Você alcança o resto da força.</Page>
+    
     
     </Text>
     <Text huntingZoneId="183" id="8" villagerId="4003">
          
+         
         <Page social="0">Vou enforcar esses bandidos!</Page>
+    
     
     </Text>
     <Text huntingZoneId="183" id="9" prevId="7" villagerId="4004">
          
+         
         <Page social="4">Tememos o pior quando vocês não apareceram. Ainda bem que você nos alcançou.&lt;BR&gt;&lt;BR&gt;Rhodos nos pediu para manter esta posição, mas o aguarda no Posto Avançado de Domare.&lt;BR&gt;&lt;BR&gt;Não é muito longe daqui, mas seja cauteloso. Vocês estão entrando em uma zona de perigo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="191" id="10" prevId="9" villagerId="2102">
          
+         
         <Page social="4">O que os arquidevas fizeram com esta terra? Olhe para o céu! &lt;BR&gt;&lt;BR&gt;É hora de pôr um fim à trama infernal deles. Você está comigo?</Page>
+    
     
     </Text>
 </QuestDialog>

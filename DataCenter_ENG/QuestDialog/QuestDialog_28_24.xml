@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="24" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="228" id="100" prevId="0" villagerId="1009">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="228" prevId="0" villagerId="1009">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="228" id="2" prevId="0" villagerId="1009">
-         
+    <Text id="2" huntingZoneId="228" prevId="0" villagerId="1009">
         <Page social="9">I suppose you've heard the tale of the wondrous powers of unicorn mane? I'm certain it's a popori tale, but I can't convince the others.&lt;BR&gt;&lt;BR&gt;If you brought me some manes from {@LinkCreature:28#1011#blackhoof unicorns}, I could debunk the tales once and for all! The unicorns are just along this path south. Can't miss 'em. They're the ones with horns.</Page>
-    
     </Text>
-    <Text huntingZoneId="228" id="3" prevId="2" villagerId="1009">
-         
+    <Text id="3" huntingZoneId="228" prevId="2" villagerId="1009">
         <Page social="5">That was quick! I'm sure I can use these to prove to many men that such tales are folly.&lt;BR&gt;&lt;BR&gt;And at quite a tidy profit, too.&lt;BR&gt;&lt;BR&gt;Appreciate your work, &lt;PCNAME&gt;. Those unicorns would have turned my belly into a sieve.</Page>
-    
     </Text>
-    <Text huntingZoneId="228" id="4" villagerId="1009">
-         
+    <Text id="4" huntingZoneId="228" villagerId="1009">
         <Page social="0">I swear on my mother's father's uncle's nephew's cousin's best friend's head that I have only the interests of the public at heart.&lt;BR&gt;&lt;BR&gt;Honest.</Page>
-    
     </Text>
 </QuestDialog>

@@ -1,51 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="3" id="2" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="59" id="100" prevId="0" villagerId="1009">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="59" prevId="0" villagerId="1009">
         <Page social="0">You were called upon to kill a devan warlord named Dakanius and find a young scout named Kantusa, who'd infiltrated devan territory.&lt;BR&gt;&lt;BR&gt;You found Kantusa gravely wounded. She told you the devas were working with the Scions of Lok. You ventured into Deva Silva and killed Dakanius and encountered the same group you faced in Scarwood and the Island of Dawn—though you still don't know what they're after.</Page>
-    
     </Text>
-    <Text huntingZoneId="59" id="2" prevId="0" villagerId="1009">
-         
+    <Text id="2" huntingZoneId="59" prevId="0" villagerId="1009">
         <Page social="4">I appreciate you reporting in, but you'd best make your manners with Magistrate Corann. He's as anxious for news as the rest of us.&lt;BR&gt;&lt;BR&gt;Don't worry. You won't be in town long. It's time to take the initiative, and you're going to be the edge Crescentia needs to win!</Page>
-    
     </Text>
-    <Text huntingZoneId="59" id="3" prevId="2" villagerId="1001">
-         
+    <Text id="3" huntingZoneId="59" prevId="2" villagerId="1001">
         <Page social="4">Hmph. Things in Lumbertown aren't good, but that's nothing new. Of course the devas are expanding, but why now? What would they gain from controlling the roads at this moment? What stirred them up?&lt;BR&gt;&lt;BR&gt;I'm giving Jodoc orders to deal with the devan menace, whatever the cost. Report back to him for orders, soldier.</Page>
-    
     </Text>
-    <Text huntingZoneId="59" id="4" prevId="3" villagerId="1009">
-         
+    <Text id="4" huntingZoneId="59" prevId="3" villagerId="1009">
         <Page social="4">We've heard tales of a deva called Dakanius. He might be their warlord or general, or at least aspire to such things.&lt;BR&gt;&lt;BR&gt;The vanguards in Arcadia are watching for him. Why don't you speak with Hendry, out at Vanguard Outpost, north of the crossroads. It may be that you'll have a shot at taking out Dakanius.</Page>
-    
     </Text>
-    <Text huntingZoneId="59" id="5" villagerId="1009">
-         
+    <Text id="5" huntingZoneId="59" villagerId="1009">
         <Page social="0">I hear Magistrate Corann's got information about this Dakanius. I'd like to take a look at it. Bring it by, will you?</Page>
-    
     </Text>
-    <Text huntingZoneId="203" id="6" prevId="4" villagerId="1007">
-         
+    <Text id="6" huntingZoneId="203" prevId="4" villagerId="1007">
         <Page social="4">You're talking about Kantusa. She volunteered to spy on the devas. She's Niralia's niece. Good girl.&lt;BR&gt;&lt;BR&gt;She's in disguise deep in deva territory. She was supposed to check in yesterday, but I haven't heard from her. If you're going into Deva Silva, find her. We're worried sick.</Page>
-    
     </Text>
-    <Text huntingZoneId="203" id="7" prevId="6" villagerId="1030">
-         
+    <Text id="7" huntingZoneId="203" prevId="6" villagerId="1030">
         <Page social="4">Dakanius...cooperates with...the Scions of Lok.</Page>
-    
     </Text>
-    <Text huntingZoneId="203" id="8" prevId="7" villagerId="1030">
-         
+    <Text id="8" huntingZoneId="203" prevId="7" villagerId="1030">
         <Page social="4">He must be...stopped. Seek him out...north of Deva Silva...&lt;BR&gt;&lt;BR&gt;Find {@LinkObject:32#Dakanius} and stop...him!&lt;NEXTPAGEBUTTON&gt;"Don't die on me!"&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="4">It's no use...I'm done for...&lt;BR&gt;&lt;BR&gt;Avenge me...against the Scions of Lok...</Page>
-    
     </Text>
-    <Text huntingZoneId="203" id="9" prevId="8" villagerId="1007">
-         
+    <Text id="9" huntingZoneId="203" prevId="8" villagerId="1007">
         <Page social="4">I'm glad that bastard's dead, but he wasn't worth Kantusa's life. I've never heard of these Scions of Lok, have you?&lt;BR&gt;&lt;BR&gt;Oh, really? Twice now? Remarkable. I wish we knew what they wanted—what they were after.&lt;BR&gt;&lt;BR&gt;Pity about Kantusa. She was a fine, brave girl.&lt;BR&gt;&lt;BR&gt;Please excuse me, &lt;PCNAME&gt;. I have to give Niralia the bad news.</Page>
-    
     </Text>
 </QuestDialog>

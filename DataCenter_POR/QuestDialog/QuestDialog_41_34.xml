@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="41" id="34" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="41" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="241" id="100" prevId="0" villagerId="1007">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="241" id="2" prevId="0" villagerId="1007">
          
+         
         <Page social="4">Esse licor não só torna a tribo Black Claw mais violenta, como também a torna mais forte. Acho que os comerciantes de Besharan estão usando os orcs da tribo Black Claw como armas contra a federação. Karba precisa saber disso.</Page>
+    
     
     </Text>
     <Text huntingZoneId="241" id="3" prevId="2" villagerId="1021">
          
+         
         <Page social="0">Eles beberam algum tipo de bebida alcoólica para lhes dar poder? Eles não merecem ser chamados de guerreiros! Persiga os {@LinkCreature:41#3004#Black Claw crushers} e os {@LinkCreature:41#3005#Black Claw ragers} e pegue seus tokens de guerreiro, para que todas as tribos saibam como eles se deixaram usar como ferramentas dos mercadores besharan!</Page>
+    
     
     </Text>
     <Text huntingZoneId="241" id="4" prevId="3" villagerId="1021">
          
+         
         <Page social="0">A morte era boa demais para eles. Quando eu mostrar essas fichas às outras tribos e lhes contar sobre a vergonha da tribo Garra Negra, elas saberão a verdade.</Page>
+    
     
     </Text>
     <Text huntingZoneId="241" id="5" villagerId="1021">
          
+         
         <Page social="0">A tribo Black Claw não merece usar os símbolos dos guerreiros. Ajude-me a envergonhá-los aos olhos de todos os orcs.</Page>
+    
     
     </Text>
 </QuestDialog>

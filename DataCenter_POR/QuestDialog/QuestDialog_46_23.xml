@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="46" id="23" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="46" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="246" id="100" prevId="0" villagerId="1025">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="246" id="2" prevId="0" villagerId="1025">
          
+         
         <Page social="4">Aqui em Raga Shadi, os argonss eram criaturas vivisseccionistas por algum motivo. Você sabe o que é vivissecção, certo? É como uma autópsia, só que o sujeito ainda não está morto.&lt;BR&gt;&lt;BR&gt;Por mais terrível que isso seja, queremos saber o que os argonss aprenderam. E a maneira de fazer isso é chegar aos recipientes semelhantes a frascos onde eles armazenaram alguma coisa. Algo importante.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="3" prevId="2" villagerId="1025">
          
+         
         <Page social="4">Cadáveres estranhamente mutilados, não é? Bem, é uma pista. Tenho alguns experimentos para fazer - nada sangrento, prometo - para descobrir o que os argons estavam tramando.&lt;BR&gt;&lt;BR&gt;Enquanto faço isso, vá até a Câmara Shineroot e ajude Platanok.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="4" villagerId="1025">
          
+         
         <Page social="0">Não será agradável, seja o que for que esteja nesses contêineres, &lt;PCNAME&gt;. Mas temos que saber.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="5" prevId="3" villagerId="1024">
          
+         
         <Page social="4">Espero que Alecian esteja se saindo bem...&lt;BR&gt;&lt;BR&gt;Minha pesquisa está, confesso, parada. Há alguns obstáculos a serem superados, mas talvez sua presença mude isso.&lt;BR&gt;&lt;BR&gt;Toda jornada começa em algum lugar. Vamos começar.</Page>
+    
     
     </Text>
 </QuestDialog>

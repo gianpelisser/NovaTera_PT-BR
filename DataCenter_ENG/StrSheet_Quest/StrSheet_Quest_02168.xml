@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="60702001" string="Borrowing a Book" />
-    <String id="60702002" string="Without the right reference materials, we're just guessing." />
-    <String id="60702003" string="Thank you. You have no idea how helpful this is." />
-    <String id="60702004" string="&quot;I hope this is the book!&quot;" />
-    <String id="60702005" string="Find the thaumaturgical book in Collegium Arcane." />
-    <String id="60702006" string="&quot;You'll return this, right?&quot;" />
-    <String id="60702007" string="Deliver the book to Fitae at the Unified Field Lab." />
-    <String id="60702008" string="Deliver the book to Fitae." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="60606001" string="Technological Terrors" />
+    <String id="60606002" string="I've seen the argons wielding a strange device. I want it." />
+    <String id="60606003" string="Now we'll learn the truth." />
+    <String id="60606004" string="Sunya Emitter" />
+    <String id="60606005" string="Collect sunya emitters from {@Rgn:49001$$Argonea}, {@Rgn:50001$$Granarkus}, and the {@Rgn:48001$$Khanovar Front}." />
+    <String id="60606006" string="Deliver the emitters to {@LinkCreature:1022#1002}." />
+    <String id="60606007" string="&quot;Good luck with your research.&quot;" />
 </StrSheet_Quest>

@@ -1,21 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="48" id="41" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="48" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="248" id="100" prevId="0" villagerId="1040">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="248" id="2" prevId="0" villagerId="1040">
          
+         
         <Page social="4">Ei! Você é o &lt;PCNAME&gt;! Você é praticamente uma lenda por aqui. Você derrotou Thulsa, Killian, Akasha - e Kelsaik!&lt;BR&gt;&lt;BR&gt;Olha. Posso lhe pedir um favor? &lt;NEXTPAGEBUTTON&gt;"Desculpe, não tenho uma pena."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Não, não quero um autógrafo. Estou tentando colocar esses recrutas em forma, e aposto que uma lição sua seria muito importante para eles.&lt;BR&gt;&lt;BR&gt;Use aquele {@WorkObject:60} para trazer um ceifador de sombras para lutar. Não deve ser um problema. O que você acha?</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="3" prevId="2" villagerId="1040">
          
+         
         <Page social="6">Que droga. Até eu aprendi algumas coisas com essa luta.&lt;BR&gt;&lt;BR&gt;Muito obrigado. E se você encontrar uma pena, há duas em Ellak.</Page>
+    
     
     </Text>
 </QuestDialog>

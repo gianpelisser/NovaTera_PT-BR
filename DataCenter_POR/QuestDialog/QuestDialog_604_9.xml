@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="604" id="9" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="604" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="71" id="100" prevId="0" villagerId="3002">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="71" id="2" prevId="0" villagerId="3002">
          
+         
         <Page social="4">Preciso de sua ajuda.&lt;BR&gt;&lt;BR&gt;Na verdade, duvido que alguém mais possa fazer isso.&lt;NEXTPAGEBUTTON&gt;"Por quê? O que aconteceu?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Um dos faróis ficou escuro! O Glyph de Balder espalha sua energia por todo o refúgio. Os faróis convertem parte dela em... bem, não temos certeza. Mas quando eles se apagam, as plantas e os animais morrem e as proteções desse lugar se enfraquecem.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#3026#Lilis} talvez saiba o que está acontecendo. Dê a ela toda a ajuda que precisar!</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="3" prevId="2" villagerId="3026">
          
+         
         <Page social="4">&lt;PCNAME&gt;? Ótimo! &lt;BR&gt;&lt;BR&gt;O {@WorkObject:95} que está ali deve ter emperrado.&lt;BR&gt;&lt;BR&gt;Tome o teletransporte para dentro, chegue ao topo da torre e reinicie o {@WorkObject:95}. Cuidado com os golems!</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="4" prevId="3" villagerId="3026">
          
+         
         <Page social="4">Lindo. Sim, o campo está se estabilizando.&lt;BR&gt;&lt;BR&gt;Trabalho duro, entre as escadas e os golems. Tivemos muita sorte de você estar aqui.</Page>
+    
     
     </Text>
 </QuestDialog>

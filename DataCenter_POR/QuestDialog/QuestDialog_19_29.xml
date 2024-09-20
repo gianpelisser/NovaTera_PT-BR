@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="19" id="29" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="19" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="219" id="100" prevId="0" villagerId="1017">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="219" id="2" prevId="0" villagerId="1017">
          
+         
         <Page social="4">Foi há alguns dias. Eu vi membros da Irmandade Livre simplesmente... se transformarem em monstros. Sei que parece estranho, mas eles colocaram essas pedras por todo o chão aqui.&lt;BR&gt;&lt;BR&gt;Pode dar uma olhada nelas e talvez ver para que servem?</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="3" prevId="2" villagerId="1028">
          
+         
         <Page social="4">(Quando você toca o obelisco, uma pequena pedra preta cai).</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="4" prevId="3" villagerId="1017">
          
+         
         <Page social="4">Então... é isso? É apenas uma pedra.&lt;BR&gt;&lt;BR&gt;Oh, mas... estou me sentindo meio enjoado ao segurá-la. Deve ser a energia fétida dentro dela.&lt;BR&gt;&lt;BR&gt;Eu sei como me livrar disso. Obrigado, &lt;PCNAME&gt;, pelo que você fez.</Page>
+    
     
     </Text>
 </QuestDialog>

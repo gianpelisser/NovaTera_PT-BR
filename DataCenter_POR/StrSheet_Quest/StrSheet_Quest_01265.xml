@@ -1,9 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4527001" string="Atirando do ponto mais alto" />
-    <String id="4527002" string="Desça a leste de {@Rgn:45006$$Field Base Reciprocity}. É um atalho." />
-    <String id="4527003" string="Bem-vindo ao {@Rgn:45008$$Field Base Valiance}." />
-    <String id="4527004" string="Mate {@creature:45#3001#argonomorph Lokian archers} ao redor de {@Rgn:45006$$Field Base Reciprocity}." />
-    <String id="4527005" string="&quot;Estou à sua disposição.&quot;" />
-    <String id="4527006" string="Apresente-se a {@Creature:245#1005$$Lahiah} em {@Rgn:45008$$Field Base Valiance}." />
+    <String id="4523001" string="Mantendo as runas" />
+    <String id="4523002" string="Abia ficará feliz em vê-lo." />
+    <String id="4523003" string="É preciso manter essas rotas abertas." />
+    <String id="4523004" string="Runa do guardião" />
+    <String id="4523005" string="Mate {@creature:45#1003#argonomorph runekeepers} na parte oeste da {@Rgn:45002$$Tower Approach} e colete as runas." />
+    <String id="4523006" string="Informe a Abia em {@Rgn:45007$$Field Base Tenacity}." />
+    <String id="4523007" string="&quot;Obrigado.&quot;" />
 </StrSheet_Quest>

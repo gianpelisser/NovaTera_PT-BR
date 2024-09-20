@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="27" id="32" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="27" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="227" id="100" prevId="0" villagerId="1023">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="227" id="2" prevId="0" villagerId="1023">
          
+         
         <Page social="5">Thulsa não está se arriscando. Os agentes da Mysterium avistaram suas tropas de elite, a Legião Brogar.&lt;BR&gt;&lt;BR&gt;Vamos adotar uma abordagem mais direta. Quero que você os derrote, especificamente os {@LinkCreature:27#13#guardiões thulsan}, {@LinkCreature:27#14#conjuradores thulsan} e {@LinkCreature:27#15#seguidores thulsan}. Se conseguirmos expulsá-los, poderemos retomar a fortaleza.</Page>
+    
     
     </Text>
     <Text huntingZoneId="227" id="3" prevId="2" villagerId="1023">
          
+         
         <Page social="5">Estamos impressionados com suas habilidades. Você é um verdadeiro trunfo para essa luta.&lt;BR&gt;&lt;BR&gt;A questão é: por que Thulsa trouxe sua legião mais temida? Essa fortaleza era tão importante para seu plano? São tantas perguntas a serem respondidas. Tudo no seu devido tempo.&lt;BR&gt;&lt;BR&gt;Isso é tudo, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
 </QuestDialog>

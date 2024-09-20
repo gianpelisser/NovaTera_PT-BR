@@ -1,39 +1,53 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="701" id="7" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="701" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="230" id="100" prevId="0" villagerId="7000">
          
+         
         <Page social="0">Você limpou a área central do templo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="2" prevId="0" villagerId="7000">
          
+         
         <Page social="0">Kodar precisa de ajuda no centro do templo.&lt;BR&gt;&lt;BR&gt;Por favor, entre no templo pelo teleportal e pergunte a Kodar o que você pode fazer para ajudar. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Será uma honra para mim.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="451" id="3" prevId="2" villagerId="7003">
          
+         
         <Page social="4">Bem-vindo, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Meus deveres exigem minha presença em outro lugar, mas sei que posso contar com você para cuidar das coisas aqui no centro do templo. O incenso do templo precisa ser renovado, os espelhos precisam ser limpos, os vermes estão entrando no templo e as cobras estão de volta. Por enquanto, porém, vamos nos concentrar em uma coisa: &lt;NEXTPAGEBUTTON&gt;&amp;quot;Eu cuidarei disso.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="451" id="4" prevId="2" villagerId="7003">
          
+         
         <Page social="4">Que a luz de Balder brilhe sobre você!</Page>
+    
     
     </Text>
     <Text huntingZoneId="451" id="5" prevId="2" villagerId="7003">
          
+         
         <Page social="4">Que a luz de Balder brilhe sobre você!</Page>
+    
     
     </Text>
     <Text huntingZoneId="451" id="6" prevId="2" villagerId="7003">
          
+         
         <Page social="4">Que a luz de Balder brilhe sobre você!</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="7" prevId="2" villagerId="7000">
          
+         
         <Page social="4">Na verdade, você foi enviado por Balder! &lt;BR&gt;&lt;BR&gt;Por favor, aceite este humilde símbolo de nossa gratidão.</Page>
+    
     
     </Text>
 </QuestDialog>

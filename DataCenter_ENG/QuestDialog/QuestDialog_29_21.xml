@@ -1,29 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="29" id="21" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="70" id="100" prevId="0" villagerId="1013">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="29" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="70" prevId="0" villagerId="1013">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="70" id="2" prevId="0" villagerId="1013">
-         
+    <Text id="2" huntingZoneId="70" prevId="0" villagerId="1013">
         <Page social="5">Isobel is asking for assistance in the Timeless Woods. She's not known for her patience, so haste is the best advice we can offer you.&lt;BR&gt;&lt;BR&gt;Safe journey to you.</Page>
-    
     </Text>
-    <Text huntingZoneId="229" id="3" prevId="2" villagerId="1006">
-         
+    <Text id="3" huntingZoneId="229" prevId="2" villagerId="1006">
         <Page social="5">Took them long enough to send someone! Blast! Do they think I was asking for the fun of it?&lt;BR&gt;&lt;BR&gt;We'll talk about the chain of command later. Right now I need you to get up to the northern path and get rid of the {@LinkCreature:29#1021#inky sabertooths} and {@LinkCreature:29#1031#inky sabertooth alphas} that have been blocking our supply route.&lt;BR&gt;&lt;BR&gt;Bring back the fangs. I have plans for them.</Page>
-    
     </Text>
-    <Text huntingZoneId="229" id="4" prevId="3" villagerId="1006">
-         
+    <Text id="4" huntingZoneId="229" prevId="3" villagerId="1006">
         <Page social="5">Well, late or not, it's nice to see a competent soldier. Not another brainless keener or some parchment commando.&lt;BR&gt;&lt;BR&gt;For all the beauty in this region, there's a lot of danger but my superiors just won't listen. I don't want my troops dead because we're just "watching the woods."</Page>
-    
     </Text>
-    <Text huntingZoneId="229" id="5" villagerId="1006">
-         
+    <Text id="5" huntingZoneId="229" villagerId="1006">
         <Page social="0">Hey, you've got your orders. I want that supply route cleared immediately, or I'll have your guts for garters!</Page>
-    
     </Text>
 </QuestDialog>

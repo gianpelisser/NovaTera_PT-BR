@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="702" id="3" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="702" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="219" id="100" prevId="0" villagerId="7006">
          
+         
         <Page social="0">Você ajudou Millia a trabalhar em um Almanaque do Fazendeiro.</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="2" prevId="0" villagerId="7006">
          
+         
         <Page social="4">Freeholds é famosa por seus produtos especiais. Eu gostaria de fazer um Almanaque do Fazendeiro para vender, mas estou muito ocupado.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, você poderia me ajudar com isso? Eu o creditarei como colaborador. Pense nisso. Essa ideia poderia pegar! &lt;NEXTPAGEBUTTON&gt;&amp;quot;Faça com que eu seja &amp;quot;coautor,&amp;quot; e eu estou dentro.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">É um acordo. Aqui está o que eu tenho até agora. Tente preencher as partes que faltam.&lt;BR&gt;&lt;BR&gt;A estrutura geral já está completa, então tudo o que você realmente precisa fazer é coletar algumas frutas e vegetais e desenhá-los nas páginas apropriadas.&lt;BR&gt;&lt;BR&gt;Muito obrigado!</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="3" prevId="2" villagerId="7006">
          
+         
         <Page social="4">Como está indo com o almanaque? Vamos ver o que você conseguiu até agora...&lt;BR&gt;&lt;BR&gt;Você o terminou! Isso é ótimo! Muito obrigado. &lt;PCNAME&gt;, farei com que você seja listado como coautor.&lt;BR&gt;&lt;BR&gt;Entretanto, tome: Deixe-me lhe dar isto como um símbolo de minha gratidão. Você deve achá-lo muito útil.</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="4" villagerId="7006">
          
+         
         <Page social="0">&lt;PCNAME&gt;, algum progresso no almanaque?</Page>
+    
     
     </Text>
 </QuestDialog>

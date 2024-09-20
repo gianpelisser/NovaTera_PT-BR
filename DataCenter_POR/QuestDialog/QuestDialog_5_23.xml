@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="5" id="23" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="5" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="205" id="100" prevId="0" villagerId="1001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="205" id="2" prevId="0" villagerId="1001">
          
+         
         <Page social="5">Essa pesquisa está indo muito mais devagar do que eu esperava - e certamente mais devagar do que Ackerly esperava. Esses irritantes {@LinkCreature:5#14#Muddy Sporewalkers} continuam vagando por aí, bloqueando meu caminho.&lt;BR&gt;&lt;BR&gt;Se você pudesse tirá-los do meu caminho, eu poderia realmente terminar o trabalho aqui e enviar relatórios para Ackerly.</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="5">Oh, obrigado! Vai ser muito mais fácil terminar esse levantamento sem essas pragas no caminho.&lt;BR&gt;&lt;BR&gt;Aqui está algo para compensar seu trabalho.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,29 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="29" id="24" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="229" id="100" prevId="0" villagerId="1013">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="29" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="229" prevId="0" villagerId="1013">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="229" id="2" prevId="0" villagerId="1013">
-         
+    <Text id="2" huntingZoneId="229" prevId="0" villagerId="1013">
         <Page social="5">Have you heard of tertas? It's the main ingredient in a powerful sedative, which comes in handy with creatures or people—depending on your needs, of course.&lt;BR&gt;&lt;BR&gt;It grows wild in the area north of the camp, so the animals there tend to be a bit more docile than other areas.&lt;BR&gt;&lt;BR&gt;In fact, if you brought some fruit back, I'll bet we could plant them around other areas and calm down some of those animals that are...shall we say, unduly excitable?</Page>
-    
     </Text>
-    <Text huntingZoneId="229" id="3" prevId="2" villagerId="1013">
-         
+    <Text id="3" huntingZoneId="229" prevId="2" villagerId="1013">
         <Page social="5">Well done. Let me just get the seeds from these fruit here.&lt;BR&gt;&lt;BR&gt;There we are. Now, we have to wait until the seeds sprout. Planting them too soon won't do any good, and we need the power of the spirits to get the seeds to sprout.&lt;BR&gt;&lt;BR&gt;If you take these seeds over to Erlon, he'll be able to assist you in speeding up the germination.</Page>
-    
     </Text>
-    <Text huntingZoneId="229" id="4" villagerId="1013">
-         
+    <Text id="4" huntingZoneId="229" villagerId="1013">
         <Page social="0">The soporific effects of this fruit have to be seen to be believed. Bring me some and I'll show you!</Page>
-    
     </Text>
-    <Text huntingZoneId="229" id="5" prevId="3" villagerId="1010">
-         
+    <Text id="5" huntingZoneId="229" prevId="3" villagerId="1010">
         <Page social="5">Oh, the tertas possesses remarkable calming properties. If ingested, the most aggressive creatures turn to meek forest dwellers.&lt;BR&gt;&lt;BR&gt;The process requires the aid of the spirits, however. Be patient. They'll sprout soon enough.</Page>
-    
     </Text>
 </QuestDialog>

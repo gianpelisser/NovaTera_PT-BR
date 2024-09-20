@@ -1,16 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="60201001" string="A Nightmare on My Street" />
-    <String id="60201002" string="Argons will corrupt anything, even abominations like corpsefiends." />
-    <String id="60201003" string="Those things make my horns itch." />
-    <String id="60201004" string="" />
-    <String id="60201005" string="" />
-    <String id="60201006" string="" />
-    <String id="60201007" string="Meet {@LinkCreature:78#3006} at the main gate of {@Rgn:78001$$Zulfikar Fortress}." />
-    <String id="60201008" string="&quot;I'll handle it.&quot;" />
-    <String id="60201009" string="Kill the {@LinkCreature:48#29#argonomorph corpsefiends} in front of {@Rgn:78001$$Zulfikar Fortress}." />
-    <String id="60201010" string="Kill the {@LinkCreature:48#29#argonomorph corpsefiends} in front of {@Rgn:78001$$Zulfikar Fortress}." />
-    <String id="60201011" string="Kill the {@LinkCreature:48#29#argonomorph corpsefiends} in front of {@Rgn:78001$$Zulfikar Fortress}." />
-    <String id="60201012" string="&quot;The pleasure's all mine.&quot;" />
-    <String id="60201013" string="Report back to {@LinkCreature:78#3006}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="60117001" string="Gratitude of the Invalesco" />
+    <String id="60117002" string="Nithan's looking for you." />
+    <String id="60117003" string="Please accept this with our thanks." />
+    <String id="60117004" string="&quot;You're welcome.&quot;" />
+    <String id="60117005" string="Speak with {@LinkCreature:77#3001#Nithan}." />
 </StrSheet_Quest>

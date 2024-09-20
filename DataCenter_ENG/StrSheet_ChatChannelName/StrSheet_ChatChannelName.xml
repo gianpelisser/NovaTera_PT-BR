@@ -33,7 +33,7 @@
     <Channel id="CHATTYPE_BARGAIN" name="Trade" shortcuts="t,trade" />
     <Channel id="CHATTYPE_TEAM" name="Team" shortcuts="b,team" />
     <Channel id="CHATTYPE_WHISPER" name="Whisper" shortcuts="w,whisper" />
-    <Channel id="CHATTYPE_RAID" name="Raid" shortcuts="i,ra" />
+    <Channel id="CHATTYPE_RAID" name="Raid" shortcuts="h,ra" />
     <Channel id="CHATTYPE_RAID_LEADER" name="Raid Leader" shortcuts="" />
     <Channel id="CHATTYPE_PRIVATE_1" name="Channel 1" shortcuts="1" />
     <Channel id="CHATTYPE_PRIVATE_2" name="Channel 2" shortcuts="2" />
@@ -55,7 +55,7 @@
     <Channel id="CHATTYPE_UNION_NOTICE" name="Exarch" shortcuts="x,exarch" />
     <Channel id="CHATTYPE_UNION_POST" name="Alliance Conflict" shortcuts="" />
     <Channel id="CHATTYPE_SOCIAL" name="Emote" shortcuts="" />
-    <Channel id="CHATTYPE_RP" name="RP" shortcuts="e,em" />
+    <Channel id="CHATTYPE_RP" name="RP" shortcuts="em" />
     <Channel id="CHATTYPE_MY_ATTACK" name="Attacks" />
     <Channel id="CHATTYPE_MY_CRITICAL_ATTACK" name="Critical hits" />
     <Channel id="CHATTYPE_MY_FALLING_DAMAGE" name="Falling damage " />

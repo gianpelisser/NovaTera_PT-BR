@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="48" id="42" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="48" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="248" id="100" prevId="0" villagerId="1001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="248" id="2" prevId="0" villagerId="1001">
          
+         
         <Page social="4">O grande número de guardiões gilgash vagando pela frente está desmoralizando as tropas. Quem pode culpá-los? Essas coisas são enormes e mortais.&lt;BR&gt;&lt;BR&gt;É hora de um pouco de atrito. Leve um esquadrão e mate os gilgashes.&lt;BR&gt;&lt;BR&gt;Demitido.</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="6">Passei pela fila da bagunça há pouco tempo. Eles estão falando sobre suas façanhas. Isso é um bom sinal.&lt;BR&gt;&lt;BR&gt;Eles estão rindo mais agora. Isso é um sinal ainda melhor. Obrigado.</Page>
+    
     
     </Text>
 </QuestDialog>

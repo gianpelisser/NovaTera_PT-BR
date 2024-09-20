@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="55" id="37" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="55" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="255" id="100" prevId="0" villagerId="1024">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="255" id="2" prevId="0" villagerId="1024">
          
+         
         <Page social="4">Os Jalmaraks eram fadas encarregadas de defender o Cajado de Isren. No entanto, algo mudou e eles se voltaram contra as outras criaturas feéricas.&lt;BR&gt;&lt;BR&gt;As fadas guardiãs agora são chamadas de &lt;font color='0000ff'&gt;unseelie&lt;/font&gt; e seguem Sinarl como seu regente.&lt;BR&gt;&lt;BR&gt;Para quebrar o domínio delas sobre a Floresta Darkquaver, precisamos que você destrua os destruidores de jalmarak.</Page>
+    
     
     </Text>
     <Text huntingZoneId="255" id="3" prevId="2" villagerId="1024">
          
+         
         <Page social="4">Suas mortes são uma perda para os fey, mas os jalmaraks escolheram seu destino. Graças a vocês, ainda podemos recuperar essas terras antigas.</Page>
+    
     
     </Text>
 </QuestDialog>

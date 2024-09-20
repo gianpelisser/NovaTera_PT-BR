@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="12" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="13" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="213" id="100" prevId="0" villagerId="1134">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="213" id="2" prevId="0" villagerId="1134">
          
+         
         <Page social="213">Nossa conexão com o Desfiladeiro Maculado está prejudicada por um bando de {@LinkCreature:13#300910#cromoses rastejantes} perto da entrada.&lt;BR&gt;&lt;BR&gt;Chione é a única piloto de dirigível destacada para essa seção da ilha. Até que ela seja substituída, só poderemos nos comunicar por meio de corredores.&lt;BR&gt;&lt;BR&gt;Mate os cromos e informe {@linkcreature:213#1025$$Sersine} no Posto Avançado do Desfiladeiro Maculado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="3" prevId="2" villagerId="1025">
          
+         
         <Page social="4">Que bom. Fico feliz em saber que você assegurou esta rota para nós.&lt;BR&gt;&lt;BR&gt;Ouça, não subestime esta ilha. Lembre-se de que nossas tropas estão se retirando por causa da agitação na federação. Não é porque este lugar está subitamente mais seguro.&lt;BR&gt;&lt;BR&gt;Fique atento.</Page>
+    
     
     </Text>
 </QuestDialog>

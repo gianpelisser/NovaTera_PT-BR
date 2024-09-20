@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="11" id="26" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="11" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="211" id="100" prevId="0" villagerId="1005">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="211" id="2" prevId="0" villagerId="1005">
          
+         
         <Page social="4">A princípio, pensei que fosse uma armadilha, pois o código era muito fácil de ser quebrado, mas... de qualquer forma, a ordem fala de um ataque iminente e completo dos piratas do Red Lash! &lt;BR&gt;&lt;BR&gt;O risco é maior no Vanguard Bastion. Quero que você vá até lá e os ajude, &lt;PCNAME&gt;. Se você puder fazer por eles o que fez por nós aqui, tenho certeza de que tudo sairá bem.&lt;BR&gt;&lt;BR&gt;Uma outra coisa: você terá que nadar para chegar lá.</Page>
+    
     
     </Text>
     <Text huntingZoneId="211" id="3" prevId="2" villagerId="1009">
          
+         
         <Page social="4">Então, os piratas do Red Lash estão se preparando para montar um ataque... É hora de fazermos o que viemos fazer.&lt;BR&gt;&lt;BR&gt;E por "nós", estou incluindo você. É hora de colocar sua cara de jogo.</Page>
+    
     
     </Text>
 </QuestDialog>

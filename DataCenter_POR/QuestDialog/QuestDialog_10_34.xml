@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="10" id="34" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="10" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="210" id="100" prevId="0" villagerId="1001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="210" id="2" prevId="0" villagerId="1001">
          
+         
         <Page social="0">Por mais que eu queira mantê-lo aqui, &lt;PCNAME&gt;, a Patrulha Costeira precisa mais de você.&lt;BR&gt;&lt;BR&gt;Continue seguindo a estrada para o sul, depois atravesse o canal estreito. Nesse ponto, você deve estar à vista da guarda costeira.&lt;BR&gt;&lt;BR&gt;Com certeza, sentiremos falta de &lt;PCCLASS:lcase&gt;s como você por perto.</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="3" prevId="2" villagerId="1003">
          
+         
         <Page social="0">Parece que os nagas estão tentando abrir a Tumba de Dagon e despertar seu deus-criador. Não sei o quanto você é versado em teologia, mas Dagon não é um dos deuses felpudos.&lt;BR&gt;&lt;BR&gt;Temos muito trabalho pela frente.</Page>
+    
     
     </Text>
 </QuestDialog>

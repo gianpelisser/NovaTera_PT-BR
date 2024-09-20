@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="8" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="8" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="61" id="100" prevId="0" villagerId="1013">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="61" id="2" prevId="0" villagerId="1013">
          
+         
         <Page social="4">Depois dos recentes sequestros, proibimos o tráfego normal em qualquer lugar perto das Cavernas da Fome.&lt;BR&gt;&lt;BR&gt;Mas isso só deixou os gulas mais ousados.&lt;BR&gt;&lt;BR&gt;Vamos evitar que eles fiquem muito convencidos. Mate os {@LinkCreature:8#1011#hulking sentries} e os {@LinkCreature:8#1021#cromos prowlers} no Pântano Vexatus. Isso os ensinará a temer a federação!</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="4">Esses gulas vão pensar duas vezes antes de fazer de nós uma refeição, hein?</Page>
+    
     
     </Text>
 </QuestDialog>

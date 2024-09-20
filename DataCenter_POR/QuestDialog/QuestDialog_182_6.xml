@@ -1,42 +1,58 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="182" id="6" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="182" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="182" id="100" prevId="0" villagerId="2032">
          
+         
         <Page social="0">Keezar, uma xamã khiriana, era perspicaz, mas parecia fora de si.&lt;BR&gt;Sua habilidade não era confiável, mas como ela era a última esperança de conseguir um pingente de controle de arquidevais que funcionasse, não havia outra escolha a não ser confiar nela.</Page>
+    
     
     </Text>
     <Text huntingZoneId="182" id="2" prevId="0" villagerId="2032">
          
+         
         <Page social="1">Como posso saber o quê? Quem é você? Foram os arquidevas que o enviaram? &lt;BR&gt;&lt;BR&gt;O que é isso que você tem aí? Um pingente de controle quebrado? Como você quebrou isso? Eles são feitos para serem indestrutíveis e à prova de idiotas! &lt;BR&gt;&lt;BR&gt;Oh, bem, o estrago está feito. A única maneira de consertar isso agora seria com algum tipo de cola superpoderosa. Chamo isso de "Power Glue". &lt;NEXTPAGEBUTTON&gt;"Uh, ok. Você tem essa cola?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Bem, não, &lt;PCNAME&gt;. Preciso que os arquidevas pensem que esses pingentes não podem ser consertados, uma vez quebrados - caso contrário, eles não terão mais utilidade para mim. Mas agora que a Iniciativa de Vanguarda finalmente chegou, não há necessidade de eu ficar aqui.&lt;BR&gt;&lt;BR&gt;Então, para fazer cola mágica, você precisa de chifre mágico. Digamos, do tipo que se encontra em devas. Tenho certeza de que você pode encontrar alguns deles.&lt;NEXTPAGEBUTTON&gt;"Tive uma boa ideia..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="182" id="3" prevId="2" villagerId="2032">
          
+         
         <Page social="1">Chifres lindos, lindos! "Uma projeção pontiaguda de pele na cabeça de vários animais que consiste em uma cobertura de queratina e outras proteínas em torno de um núcleo de osso vivo." Ha! Aposto que você está se perguntando como eu sabia disso, não é? &lt;NEXTPAGEBUTTON&gt;"Todo mundo aqui é louco?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="182" id="4" villagerId="2032">
          
+         
         <Page social="0">Um chifre, dois chifres, chifre vermelho, devastado pela guerra.&lt;BR&gt;&lt;BR&gt;Não é suficiente, meu amigo estrangeiro!&lt;BR&gt;&lt;BR&gt;Dois chifres, uma vez usados! Mais chifre, menos desprezo!</Page>
+    
     
     </Text>
     <Text huntingZoneId="182" id="5" prevId="3" villagerId="2032">
          
+         
         <Page social="1">Não precisa ficar irritado, &lt;PCNAME&gt;. Esperei anos neste lugar horrível só para ajudá-lo em sua busca! Mas agora que você está aqui, nós dois podemos ir embora.&lt;BR&gt;&lt;BR&gt;Vamos conversar lá fora, certo? &lt;NEXTPAGEBUTTON&gt;"Como faço para tirá-lo daqui?" &lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Clique, clique, rápido duas vezes! Essa é a pergunta errada! A pergunta certa é: como faço para tirá-lo daqui se você é tão lento? &lt;NEXTPAGEBUTTON&gt;"O quê? Não sou lento..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="182" id="6" prevId="5" villagerId="2036">
          
+         
         <Page social="1">Como você me encontrou tão cedo? Eu não vou voltar! Você não pode me obrigar! &lt;BR&gt;&lt;BR&gt;Espere... oh, você ainda é o mesmo. Qual era seu nome? Qual era sua missão? Já lhe perguntei sobre sua cor favorita? &lt;NEXTPAGEBUTTON&gt;"Preciso consertar este pingente. Lembra?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="1">Um pingente de controle quebrado? Como você quebrou isso? Eles são feitos para serem indestrutíveis e à prova de idiotas! &lt;NEXTPAGEBUTTON&gt;"Já tivemos essa conversa!"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Não posso ensinar este. Não tenho paciência.&lt;BR&gt;&lt;BR&gt;Pode ser. Cola que você quer. Cola que você terá.&lt;NEXTPAGEBUTTON&gt;"Finalmente!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
 </QuestDialog>

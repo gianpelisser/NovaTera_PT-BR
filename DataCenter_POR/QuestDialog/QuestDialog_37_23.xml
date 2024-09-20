@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="37" id="23" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="37" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="237" id="100" prevId="0" villagerId="1033">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="237" id="2" prevId="0" villagerId="1033">
          
+         
         <Page social="5">Já é ruim o suficiente não poder distinguir o dia da noite na cripta. Mas esses destruidores o impedirão de descansar. &lt;BR&gt;&lt;BR&gt;Killian os deixou para trás - algo sobre roubar o resto do poder de Saleron.&lt;BR&gt;&lt;BR&gt;E se você vir algum de nossos batedores, diga a eles para voltarem à base. Não precisamos de batedores para nos dizer que essas criptas são intermináveis e estão infestadas de inimigos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="237" id="3" prevId="2" villagerId="1026">
          
+         
         <Page social="6">Voltar ao acampamento? Por mim, tudo bem! &lt;BR&gt;&lt;BR&gt;De qualquer forma, tenho novidades a relatar: Não são apenas os asseclas de Killian que estão aqui embaixo.&lt;BR&gt;&lt;BR&gt;Os argons estão mais embaixo...e eu até já os vi aqui em cima de vez em quando.&lt;BR&gt;&lt;BR&gt;Então, sim, voltarei para a base. Sou um batedor, não um mártir.</Page>
+    
     
     </Text>
     <Text huntingZoneId="237" id="4" prevId="3" villagerId="1033">
          
+         
         <Page social="10">Isso demorou mais do que eu pensava, &lt;PCNAME&gt;. Está tudo bem? &lt;BR&gt;&lt;BR&gt;Argonas? Aqui? &lt;BR&gt;&lt;BR&gt;As coisas ficaram muito ruins, não é mesmo?</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="40" id="34" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="40" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="240" id="100" prevId="0" villagerId="1035">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="240" id="2" prevId="0" villagerId="1035">
          
+         
         <Page social="4">Primeiro, eles colocam uma grande pedra. Agora eles se reúnem ao redor dela. Ela está ligada a toda essa morte e mutação? Não posso provar nada. Talvez você tenha mais sorte, não é? &lt;BR&gt;&lt;BR&gt;Encontre provas de que os {@LinkCreature:40#13#prion eviscerators} estão envolvidos em todo esse negócio de praga e entregue-as a {@LinkCreature:240#1004$$Lashirah}.&lt;BR&gt;&lt;BR&gt;Eu sei que você faria isso de qualquer maneira, mas vou recompensá-lo da mesma forma.</Page>
+    
     
     </Text>
     <Text huntingZoneId="240" id="3" prevId="2" villagerId="1004">
          
+         
         <Page social="4">Muito bem feito. Isso responde a muitas perguntas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="240" id="4" villagerId="1004">
          
+         
         <Page social="0">Você já encontrou alguma coisa? Por que não? Vá encontrar alguns {@LinkCreature:40#13#prion eviscerators}, mate-os e examine seus corpos.</Page>
+    
     
     </Text>
 </QuestDialog>

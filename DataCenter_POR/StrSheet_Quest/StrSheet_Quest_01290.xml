@@ -1,22 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4601001" string="As Três Torres" />
-    <String id="4601002" string="&quot;Entendido.&quot;" />
-    <String id="4601003" string="[{@Rgn:46014$$Base de Pesquisa das Três Torres}] Entregue o relatório para {@LinkCreature:246#2001$$$Adeldur} nas Três Torres." />
-    <String id="4601004" string="[{@Rgn:46003$$Raga Shadi}] Destrua as estruturas de argons." />
-    <String id="4601005" string="&quot;Parece um plano.&quot;" />
-    <String id="4601006" string="[{@Rgn:46014$$Base de Pesquisa das Três Torres}] Entregue os fragmentos do edifício de argons para {@LinkCreature:246#2001$$$Adeldur}." />
-    <String id="4601007" string="&quot;Parece bom.&quot;" />
-    <String id="4601008" string="Fale com {@LinkCreature:246#2002$$Kurance}." />
-    <String id="4601009" string="Leia o registro de pessoas desaparecidas." />
-    <String id="4601010" string="Yasring está na lista!" />
-    <String id="4601011" string="&quot;Obrigado pela dica.&quot;" />
-    <String id="4601012" string="Fale com {@LinkCreature:246#2002$$Kurance} novamente." />
-    <String id="4601013" string="&quot;Acho que esse seria meu trabalho.&quot;" />
-    <String id="4601014" string="Siga as pegadas dos batedores desaparecidos e colete suas marcas." />
-    <String id="4601015" string="[{@Rgn:46005$$Three Towers Depths}: {@Rgn:46016$$Mindcrown Chamber}] Entregue as marcas dos desaparecidos para {@LinkCreature:246#2003$$$Sleitak}." />
-    <String id="4601016" string="&quot;Estou a caminho.&quot;" />
-    <String id="4601017" string="[{@Rgn:46005$$Three Towers Depths}: {@Rgn:46016$$Mindcrown Chamber}] Fale com o Capitão Escoteiro {@LinkCreature:246#2003$$$Sleitak} sobre os batedores desaparecidos." />
-    <String id="4601018" string="&quot;Eu agradeço.&quot;" />
-    <String id="4601019" string="[{@Rgn:46009$$Three Towers Spires}: {@Rgn:46013$$Exetron}] Fale com {@LinkCreature:246#2004$$$Greyden} sobre os batedores desaparecidos." />
+    <String id="4591001" string="Mantendo o terreno elevado" />
+    <String id="4591002" string="Não podemos abrir mão de nossa posição." />
+    <String id="4591003" string="Prova de morte: argons" />
+    <String id="4591004" string="&quot;Como ordenado.&quot;" />
+    <String id="4591005" string="Mate {@creature:45#1001#kelba chargers}, {@creature:45#1002#argonomorph dwarf orcans} e {@creature:45#1003#argonomorph runekeepers} ao redor da {@Rgn:45002$$Tower Approach}." />
+    <String id="4591006" string="Apresente-se a {@Creature:245#1002} em {@Rgn:45007$$Field Base Tenacity}." />
 </StrSheet_Quest>

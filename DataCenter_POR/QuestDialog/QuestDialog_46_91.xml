@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="46" id="91" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="46" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="77" id="100" prevId="0" villagerId="1011">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="77" id="2" prevId="0" villagerId="1011">
          
+         
         <Page social="4">Temos {@LinkCreature:46#201#argonomorph kulkari crushers}, {@LinkCreature:46#202#argonomorph kulkari shamans} e {@LinkCreature:46#203#argonomorph Lokian slayers} em todos os níveis superiores. Limpe-os! &lt;BR&gt;&lt;BR&gt;Quando terminar, apresente-se a {@Creature:246#1014} na {@Rgn:46014$$Base de Pesquisa das Três Torres}.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="3" prevId="2" villagerId="1014">
          
+         
         <Page social="5">Muito bem.&lt;BR&gt;&lt;BR&gt;É difícil fazer pesquisas quando os corredores não são seguros.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="4" villagerId="1014">
          
+         
         <Page social="0">Elimine {@LinkCreature:46#201#argonomorph kulkari crushers}, {@LinkCreature:46#202#argonomorph kulkari shamans} e {@LinkCreature:46#203#argonomorph Lokian slayers}. Eu recompensarei sua vitória inevitável.</Page>
+    
     
     </Text>
 </QuestDialog>

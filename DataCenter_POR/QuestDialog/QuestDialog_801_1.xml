@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="801" id="1" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="801" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="801" id="100" prevId="0" villagerId="1502">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="801" id="2" prevId="0" villagerId="1502">
          
+         
         <Page social="4">Acreditamos que os fragmentos nexulíticos nos ajudarão a entrar no Nexus Traverse e a rastrear a origem desses nexus.&lt;BR&gt;&lt;BR&gt;Mas estamos com pouca pesquisa; há muitos monstros poderosos.&lt;BR&gt;&lt;BR&gt;Pode nos ajudar? Nós realmente precisamos de sua ajuda.&lt;BR&gt;&lt;BR&gt;O soberano precisa ser investigado. Você deve reunir uma equipe de mais de 10 pessoas para isso. O soberano é um monstro realmente forte.&lt;BR&gt;&lt;BR&gt;Além disso, seja inteligente em seu uso do subproduto nexulítico. Ele pode ser muito útil.</Page>
+    
     
     </Text>
     <Text huntingZoneId="801" id="3" prevId="2" villagerId="1502">
          
+         
         <Page social="4">Oh! Muito obrigado! &lt;BR&gt;&lt;BR&gt;Aprendemos muito graças a você.</Page>
+    
     
     </Text>
     <Text huntingZoneId="801" id="4" villagerId="1502">
          
+         
         <Page social="0">Por favor, se apresse. Estamos ficando sem tempo!</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,39 +1,53 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="601" id="13" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="601" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="77" id="100" prevId="0" villagerId="3004">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="77" id="2" prevId="0" villagerId="3004">
          
+         
         <Page social="4">{@LinkCreature:246#3004#Arkant} na {@Rgn:46017$$Shadowspark Chamber} nas Três Torres pediu ajuda.&lt;BR&gt;&lt;BR&gt;As Três Torres representam nossa maior chance de desvendar os mistérios dos argons. Não podemos falhar lá.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="3" prevId="2" villagerId="3004">
          
+         
         <Page social="4">Oh, obrigado Velik! Será que podemos contar com a ajuda de um soldado! &lt;BR&gt;&lt;BR&gt;Primeiro, os {@LinkCreature:46#401#argonomorph ossugon warlords} estão perto demais para nos confortar. Argonomos mortos-vivos assustadores? Não, obrigado.&lt;BR&gt;&lt;BR&gt;Segundo, os {@LinkCreature:46#403#argonomorph iskaragards} estão interrompendo nossos esforços de pesquisa. Queremos que eles sejam destruídos.&lt;BR&gt;&lt;BR&gt;Em terceiro lugar, precisamos que os {@LinkCreature:246#3011#symbral amplifers} sejam destruídos.&lt;BR&gt;&lt;BR&gt;Todos são alvos vitais, mas as prioridades mudam. Seja flexível.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="4" prevId="2" villagerId="3004">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="246" id="5" prevId="2" villagerId="3004">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="246" id="6" prevId="2" villagerId="3004">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="246" id="7" prevId="2" villagerId="3004">
          
+         
         <Page social="4">Sua dedicação aos outros é o melhor exemplo dos valores da federação que posso imaginar.&lt;BR&gt;&lt;BR&gt;Obrigado por toda a sua ajuda, &lt;PCNAME&gt;. Não vamos nos esquecer disso.</Page>
+    
     
     </Text>
 </QuestDialog>

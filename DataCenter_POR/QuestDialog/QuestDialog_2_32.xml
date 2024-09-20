@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="2" id="32" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="2" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="202" id="100" prevId="0" villagerId="1046">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="202" id="2" prevId="0" villagerId="1046">
          
+         
         <Page social="0">Argh, minha cabeça... Estou tão frustrado com as estúpidas fadas sempre que saio para registrar. O zumbido delas me dá uma dor de cabeça que nunca passa! Tenho que fazer algo a respeito! &lt;BR&gt;&lt;BR&gt;Mas minha dor de cabeça volta sempre que estou perto dessa área. Ei, você! Livre-se dos {@LinkCreature:2#52#vigilantes de fadas} para mim e traga de volta suas asas! &lt;BR&gt;&lt;BR&gt;Não posso mais viver assim. Por favor, me ajude.</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="3" prevId="2" villagerId="1046">
          
+         
         <Page social="4">Ufa... agora posso me ouvir. Obrigado! Bem, já que você ajudou, pegue isso. Eu insisto!</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="4" villagerId="1046">
          
+         
         <Page social="0">Já estou farto desse barulho! Eu lhe peço que se livre das fadas, por favor!</Page>
+    
     
     </Text>
 </QuestDialog>

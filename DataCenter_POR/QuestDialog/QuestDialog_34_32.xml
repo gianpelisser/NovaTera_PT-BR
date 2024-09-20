@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="34" id="32" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="34" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="234" id="100" prevId="0" villagerId="1007">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="234" id="2" prevId="0" villagerId="1007">
          
+         
         <Page social="4">Estou farto desses ataques dos wendigos. Quero que você ensanguente os narizes congelados deles e derrote {@LinkCreature:34#5000#Talcas}.&lt;BR&gt;&lt;BR&gt;Ele é um dos lutadores mais poderosos. Derrotá-lo manterá os outros afastados e animará consideravelmente nossos soldados.</Page>
+    
     
     </Text>
     <Text huntingZoneId="234" id="3" prevId="2" villagerId="1007">
          
+         
         <Page social="4">Talcas está morto? Isso é melhor do que uma caneca de rum com manteiga quente! &lt;BR&gt;&lt;BR&gt;Isso deve ensinar os wendigos a irritar a Federação Valkyon!</Page>
+    
     
     </Text>
 </QuestDialog>

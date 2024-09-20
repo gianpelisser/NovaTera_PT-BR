@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="476" id="71" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="71" huntingZoneId="476" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="5">Ordens da Missão&lt;BR&gt;&lt;BR&gt;Os "músicos" de Killian torturam centenas de prisioneiros para o seu prazer.&lt;BR&gt;&lt;BR&gt;Execute os {@LinkCreature:476#2001#bandmasters} e {@LinkCreature:476#2003#musicians} de Killian em todo o Labirinto do Terror.&lt;BR&gt;&lt;BR&gt;Relate a Raneria em Habere quando a missão estiver concluída.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="3" prevId="2" villagerId="0">
          
+         
         <Page social="5">Você recebeu os agradecimentos da federação. Sua guilda é uma inspiração para todos!</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="4" villagerId="0">
          
+         
         <Page social="0">Parece que você ainda não completou sua missão.</Page>
+    
     
     </Text>
 </QuestDialog>

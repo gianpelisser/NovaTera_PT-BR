@@ -1,62 +1,87 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="182" id="3" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="182" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0">Madat sugeriu consultar os Seekers baraka para descobrir a conexão entre a Fenda do Espaço Temporal e os demokrons. No entanto, Highwatch, a cidade baraka, havia sido isolada devido ao cerco de Archdevan; o acesso não seria fácil.&lt;BR&gt;Para ganhar a confiança deles, &lt;PCNAME&gt; e seus aliados decidiram ajudar os Baraka Seekers em sua missão.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="1">Converse com Rhodos.&lt;NEXTPAGEBUTTON&gt;"Será feito."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="182" id="3" prevId="2" villagerId="2008">
          
+         
         <Page social="1">Não acredito que os arcontes estiveram espionando nosso acampamento todo esse tempo! &lt;NEXTPAGEBUTTON&gt;"Você precisa se acalmar."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Você está certo, &lt;PCNAME&gt;. O que está feito está feito, e é hora de nos concentrarmos em soluções.&lt;BR&gt;&lt;BR&gt;Os arquidevas nos cercaram, mas não estão atacando. Vou falar com meus batedores e pedir que tentem descobrir o que estão esperando.&lt;BR&gt;&lt;BR&gt;Entretanto, você deveria ver se Madat tem algum conselho. Ele não é um lutador, mas é a pessoa mais sábia que conheço.&lt;NEXTPAGEBUTTON&gt;"Ok."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="182" id="4" prevId="3" villagerId="2107">
          
+         
         <Page social="1">Hmm. "Para um inimigo cercado, você deve fornecer um meio de fuga." Os arquidevas estão literalmente de costas para uma parede, mas agem como se tivéssemos uma rota de fuga... por que isso acontece?&lt;BR&gt;&lt;BR&gt;Sim? &lt;PCNAME&gt;, não é? &lt;BR&gt;&lt;BR&gt;O que posso fazer por você? &lt;NEXTPAGEBUTTON&gt;"Rhodos disse que você poderia dar alguns conselhos."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="1">Vou lhe dar o mesmo conselho que dei a ele: Sigam para Highwatch. A estrada está quase toda livre - mas isso significa que provavelmente é uma armadilha, e não podemos empenhar nossas forças em uma retirada total por esse caminho.&lt;BR&gt;&lt;BR&gt;Então aqui está a alternativa: Enviar um mensageiro para Highwatch, pedindo reforços para romper esse cerco.&lt;NEXTPAGEBUTTON&gt;"Ok. Como chego lá?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">A Highwatch também está sob cerco, embora esteja se saindo melhor do que nós. Mas vocês são todos estranhos aqui, e os guardas não os deixarão simplesmente passar pelos portões.&lt;NEXTPAGEBUTTON&gt;"Então, como faço para entrar?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Você precisará de alguém com você, para garantir sua segurança...&lt;BR&gt;&lt;BR&gt;Ah! Sim! Os Rastreadores! Se você mostrar a eles que é confiável, eles o levarão para a cidade.&lt;BR&gt;&lt;BR&gt;Comece falando com Renish, aqui no acampamento.&lt;NEXTPAGEBUTTON&gt;"Obrigado."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="182" id="5" prevId="4" villagerId="2011">
          
+         
         <Page social="1">Ah, um dos forasteiros. O que o leva a me conhecer neste momento inesperado? &lt;NEXTPAGEBUTTON&gt;"Estou tentando entrar na Highwatch."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="1">Você não está sozinho nesse aspecto.&lt;BR&gt;&lt;BR&gt;Aliás, devo ser o portador de más notícias. Com tantos espiões arquidavanos existentes, os Buscadores assumiram a terrível responsabilidade de manter a segurança absoluta.&lt;BR&gt;&lt;BR&gt;Não haverá como contornar o cordão de isolamento, exceto...&lt;NEXTPAGEBUTTON&gt;"Exceto o quê?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Os Seekers estão atualmente envolvidos na determinação de como os arquidevais são capazes de controlar os demokrons. Se conseguirmos interromper esse controle - libertando os demokrons ou, melhor ainda, voltando-os contra seus antigos mestres -, o Exército Imperial Arquidevano perderá grande parte de seu ímpeto.&lt;BR&gt;&lt;BR&gt;Mas, até agora, nossa pesquisa não produziu muitas informações. Se você conseguir obter alguns dados, isso seria muito propício para nós dois.&lt;NEXTPAGEBUTTON&gt;"Humm... você precisa de dados? Que dados?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Os arquidevas utilizam os Parthians - uma seita secundária dos Khirianos que se tornaram traidores, na verdade - como seus combatentes de primeira linha. No entanto, os demokrons os ignoram completamente, enquanto os demokrons normalmente atacam qualquer coisa mais fraca do que eles.&lt;BR&gt;&lt;BR&gt;Confirme a razão disso e a missão dos Buscadores estará concluída. Eles retornarão à Highwatch - e você poderá acompanhá-los.&lt;NEXTPAGEBUTTON&gt;"Ok."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="182" id="6" prevId="5" villagerId="2011">
          
+         
         <Page social="1">Esses talismãs são certamente curiosos, mas a estranheza não é uma evidência conclusiva do propósito deles - ou de sua confiabilidade. Sinto muito, mas o senhor deve entender que um espião arquidevano poderia facilmente ter conseguido esses talismãs e, em seguida, inventado uma hipótese a respeito deles, especificamente com a prevaricação em mente.&lt;BR&gt;&lt;BR&gt;Sugiro que tente estabelecer uma conexão mais coerente com o fenômeno do comportamento dos demokrons. Madat talvez possa lhe oferecer alguma orientação.&lt;NEXTPAGEBUTTON&gt;"Se for preciso, tudo bem."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="182" id="7" villagerId="2011">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="182" id="8" prevId="6" villagerId="2107">
          
+         
         <Page social="1">Eu ouvi o que Renish disse a você! Aquele idiota! "Os espiões não podem ser empregados de forma útil sem uma certa sagacidade intuitiva" - o que, claramente, falta a esse Seeker em particular! "Prevaricação", de fato! &lt;NEXTPAGEBUTTON&gt;"Algum conselho, então?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="1">Claramente, Renish não cooperará até que esteja absolutamente convencido de que você não é um espião arquidavo disfarçado, então você terá que provar isso a ele.&lt;NEXTPAGEBUTTON&gt;"Como faço isso?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">"Em caso de dúvida, consulte o manual!"&lt;BR&gt;&lt;BR&gt;Claramente, os arquidevas entendem o que esses talismãs fazem, ou não os estariam distribuindo para suas tropas. Faça com que um deles explique como eles funcionam e depois compartilhe essa informação com Renish.&lt;BR&gt;&lt;BR&gt;Por sorte, acho que Rhodos tem alguma informação que vai ajudar...&lt;NEXTPAGEBUTTON&gt;Eu vejo.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
 </QuestDialog>

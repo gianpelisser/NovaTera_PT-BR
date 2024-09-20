@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="39" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="39" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="75" id="100" prevId="0" villagerId="1007">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="75" id="2" prevId="0" villagerId="1007">
          
+         
         <Page social="4">Arachne é a rainha das aranhas. Ela vive em um sistema de cavernas ao norte de Frontera chamado Arachnaea.&lt;BR&gt;&lt;BR&gt;Eu quero saber se as pessoas desaparecidas e os problemas de contaminação que estamos enfrentando por aqui têm alguma coisa a ver com ela ou com aquele lugar.&lt;BR&gt;&lt;BR&gt;Leve esses suprimentos para Tenush no acampamento de suprimentos fora do covil, depois dê uma olhada e descubra o que puder.</Page>
+    
     
     </Text>
     <Text huntingZoneId="240" id="3" prevId="2" villagerId="1038">
          
+         
         <Page social="4">Deixe-me ver isso. É só isso? Isso não é suficiente para nossas forças aqui fora. Como posso sustentar tropas sem suprimentos? &lt;BR&gt;&lt;BR&gt;O comando simplesmente não entende, que se dane! &lt;BR&gt;&lt;BR&gt;Bem, não é culpa sua, suponho. Aqui. Leve esses suprimentos para Gatsil em Wary Vigil. Diga a ele que enviarei mais quando puder.</Page>
+    
     
     </Text>
     <Text huntingZoneId="239" id="4" prevId="3" villagerId="1001">
          
+         
         <Page social="4">Isso não é nem de longe suficiente. Tenush não foi claro sobre nossas necessidades? &lt;BR&gt;&lt;BR&gt;Bem, sejamos gratos pelo que temos. Há outras unidades em pior situação.</Page>
+    
     
     </Text>
 </QuestDialog>

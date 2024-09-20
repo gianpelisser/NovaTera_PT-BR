@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="191" id="1904" voiceTypeId="0">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1904" huntingZoneId="191" voiceTypeId="0">
     <Text id="1" endSocial="0">
          
+         
         <Page social="0" voiceTypeId="0">(This is the &lt;font color='#0000FF'&gt;Western Teleport Platform&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;It can transport you to other teleportals in Arx Umbra.)&lt;/font&gt;</Page>
+    
     
     </Text>
 </VillagerDialog>

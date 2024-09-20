@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="36" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="36" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="74" id="100" prevId="0" villagerId="1008">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="74" id="2" prevId="0" villagerId="1008">
          
+         
         <Page social="10">A carruagem de suprimentos de Allemantheia já deveria estar aqui - eu realmente não sei o que pode estar impedindo isso.&lt;BR&gt;&lt;BR&gt;Poderia relatar isso ao Capitão Cerenon? Estamos com falta de pessoal e não posso deixar meu posto.&lt;BR&gt;&lt;BR&gt;O capitão deve estar nos portões da Residência do Magistrado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="74" id="3" prevId="2" villagerId="1007">
          
+         
         <Page social="6">Sim, esperávamos a carruagem há algum tempo.&lt;BR&gt;&lt;BR&gt;Você pode ir até a Runner's Watch e descobrir o que a está segurando?&lt;BR&gt;&lt;BR&gt;Oh... você deve saber que tivemos alguns problemas com rasptusk sabertooths ultimamente. Talvez você precise eliminar alguns deles para conseguir passar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="236" id="4" prevId="3" villagerId="1010">
          
+         
         <Page social="6">Você é de Elenea? &lt;BR&gt;&lt;BR&gt;Oh, a carruagem? &lt;BR&gt;&lt;BR&gt;Você provavelmente deveria falar com Tarnan sobre isso.</Page>
+    
     
     </Text>
     <Text huntingZoneId="236" id="5" prevId="4" villagerId="1004">
          
+         
         <Page social="6">A carruagem de suprimentos? &lt;BR&gt;&lt;BR&gt;Oh, meu Deus.</Page>
+    
     
     </Text>
 </QuestDialog>

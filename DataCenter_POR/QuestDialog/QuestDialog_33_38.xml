@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="33" id="38" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="33" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="233" id="100" prevId="0" villagerId="1014">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="233" id="2" prevId="0" villagerId="1014">
          
+         
         <Page social="4">Na verdade, sinto pena dos {@LinkCreature:33#66#prisioneiros apodrecidos}.&lt;BR&gt;&lt;BR&gt;É claro que eles estão andando pelos corredores aqui contra sua vontade.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, você pode acabar com o sofrimento deles e devolver suas almas ao Sonho dos Titãs?</Page>
+    
     
     </Text>
     <Text huntingZoneId="233" id="3" prevId="2" villagerId="1014">
          
+         
         <Page social="4">Você deu a eles a paz do Sonho, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Talvez um dia matemos Thulsa - e ele cairá no pesadelo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="233" id="4" villagerId="1014">
          
+         
         <Page social="0">{@LinkCreature:33#66#Rotting prisoners} estão abaixo de nós neste lugar horrível, &lt;PCNAME&gt;. Tire-os de seu sofrimento.</Page>
+    
     
     </Text>
 </QuestDialog>

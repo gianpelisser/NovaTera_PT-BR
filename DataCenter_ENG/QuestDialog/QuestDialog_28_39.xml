@@ -1,19 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="39" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="228" id="100" prevId="0" villagerId="1003">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="228" prevId="0" villagerId="1003">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="228" id="2" prevId="0" villagerId="1003">
-         
+    <Text id="2" huntingZoneId="228" prevId="0" villagerId="1003">
         <Page social="5">The Mysterium has engaged hundreds of civilians to combat the corruption in the region. Still, there aren't enough soldiers to protect them all. Your prowess suggests you may be able to battle the {@LinkCreature:28#3021#reeking orisks} without incurring unacceptable casualties.&lt;BR&gt;&lt;BR&gt;Eliminating them will allow Mysterium operatives to focus on cleansing the contamination.</Page>
-    
     </Text>
-    <Text huntingZoneId="228" id="3" prevId="2" villagerId="1003">
-         
+    <Text id="3" huntingZoneId="228" prevId="2" villagerId="1003">
         <Page social="5">An acceptable display of skill, &lt;PCNAME&gt;. Your sacrifice means that my operatives can proceed with the real work in this region.</Page>
-    
     </Text>
 </QuestDialog>

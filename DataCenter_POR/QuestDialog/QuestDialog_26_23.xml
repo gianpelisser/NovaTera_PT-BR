@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="26" id="23" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="26" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="226" id="100" prevId="0" villagerId="1007">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="226" id="2" prevId="0" villagerId="1007">
          
+         
         <Page social="5">Os kulkari ameaçam tudo o que jurei proteger. Acabar com eles provavelmente não é a solução, mas matar alguns dos principais jogadores pode ser. &lt;BR&gt;&lt;BR&gt;O que você acha de eliminar os líderes deles, {@LinkCreature:26#101#Kuru} e {@LinkCreature:26#102#Taroku}? Isso pode fazer a diferença.</Page>
+    
     
     </Text>
     <Text huntingZoneId="226" id="3" prevId="2" villagerId="1007">
          
+         
         <Page social="5">Talvez se livrar desses dois mantenha o restante em silêncio. Pode até salvar suas vidas. Podemos ter esperança, não é?</Page>
+    
     
     </Text>
     <Text huntingZoneId="226" id="4" villagerId="1007">
          
+         
         <Page social="0">Quanto mais rápido você matar esses dois e voltar para cá, mais rápido essa floresta poderá voltar ao normal. Entendeu?</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,13 +1,17 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="79" id="1049" voiceTypeId="110">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1049" huntingZoneId="79" voiceTypeId="110">
     <Text id="1" endSocial="14">
          
+         
         <Page social="4">If we die in battle, we return to the titans, to be dreamed again. As such, there is no cause to fear death.</Page>
+    
     
     </Text>
     <Text id="101" endSocial="0">
          
+         
         <Page social="0">For Kaia's glory!</Page>
+    
     
     </Text>
 </VillagerDialog>

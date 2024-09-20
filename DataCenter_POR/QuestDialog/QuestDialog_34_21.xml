@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="34" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="34" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="83" id="100" prevId="0" villagerId="1009">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="83" id="2" prevId="0" villagerId="1009">
          
+         
         <Page social="4">Explosão e maldição! Esses malditos mercenários de Junaidar não conseguem trabalhar para viver, então roubam nossos cristais!&lt;BR&gt;&lt;BR&gt;Os ataques estão piorando. Os carregamentos para Acarum estão sendo emboscados - isso tem que parar.&lt;BR&gt;&lt;BR&gt;Caça e mate {@LinkCreature:34#410#Assaltantes Junaidar}. Encontre o Pretor Nunahd em Bleakrock quando o feito estiver concluído.</Page>
+    
     
     </Text>
     <Text huntingZoneId="83" id="3" prevId="2" villagerId="1004">
          
+         
         <Page social="4">Então, você destruiu a escória da Junaidar? Bom trabalho. Precisamos de muito mais ajuda como essa.&lt;BR&gt;&lt;BR&gt;Veja, essa região é rica em fragmentos eldritch. Cristais intrigantes, extremamente úteis para escudos mágicos. Allemantheia paga caro por eles, e bem que deveria! &lt;BR&gt;&lt;BR&gt;Tenho que voltar ao trabalho. Mais uma vez, obrigado!</Page>
+    
     
     </Text>
 </QuestDialog>

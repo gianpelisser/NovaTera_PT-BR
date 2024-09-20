@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="25" id="92" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="25" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="66" id="100" prevId="0" villagerId="1008">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="66" id="2" prevId="0" villagerId="1008">
          
+         
         <Page social="0">Parece que precisamos que você vá para a Dark Cathedral - e, pelo que parece nesta lista, é melhor você nunca guardar sua arma. Talvez você queira fazer anotações.&lt;BR&gt;&lt;BR&gt;Vocês estão atrás de {@LinkCreature:25#1081#hienas sem remorso}, {@LinkCreature:25#1041#escudeiros de lâmina}, {@LinkCreature:25#1021#pelados devan}, {@LinkCreature:25#1022#skeletal wardens}, {@LinkCreature:25#1031#dread knights}, {@LinkCreature:25#1032#skeletal defenders} e {@LinkCreature:25#1051#skeletal pikemen}.&lt;BR&gt;&lt;BR&gt;Tomou conhecimento de tudo isso? Ainda bem, porque não sei se posso vomitar essa lista de novo.&lt;BR&gt;&lt;BR&gt;Vamos nos encontrar com Essunia quando você terminar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="225" id="3" prevId="2" villagerId="1015">
          
+         
         <Page social="4">Isso está mostrando a eles o que a federação pode fazer! Continuem assim!</Page>
+    
     
     </Text>
     <Text huntingZoneId="225" id="4" villagerId="1015">
          
+         
         <Page social="0" />
+    
     
     </Text>
 </QuestDialog>

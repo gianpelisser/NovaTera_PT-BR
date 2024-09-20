@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="8" id="28" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="8" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="208" id="100" prevId="0" villagerId="1033">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="208" id="2" prevId="0" villagerId="1033">
          
+         
         <Page social="4">Todos os gulas comem pessoas, mas os {@LinkCreature:8#3011#gula mutiladores} e os {@LinkCreature:8#3031#ravadores} sentem grande prazer com isso. Isso me dá arrepios.&lt;BR&gt;&lt;BR&gt;É hora da retribuição. Não basta matá-los - decapite-os! Talvez façamos uma sopa de cabeças de gula!</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="3" prevId="2" villagerId="1033">
          
+         
         <Page social="4">Explosão e maldição! Essas coisas são revoltantes.&lt;BR&gt;&lt;BR&gt;Por que eu pedi cabeças decepadas de novo? Não importa. Você entregou. Muito bem!</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="4" villagerId="1033">
          
+         
         <Page social="0">Se não pararmos esses gulas, eles vão ficar com apetite por &lt;PCNAME&gt;sopa de cabeça. Ou &lt;PCNAME&gt; fricassê. Ou &lt;PCNAME&gt;costelas. Ou &lt;PCNAME&gt;-kebabs.&lt;BR&gt;&lt;BR&gt;Espere, onde eu estava?</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="36" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="228" id="100" prevId="0" villagerId="1016">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="228" prevId="0" villagerId="1016">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="228" id="2" prevId="0" villagerId="1016">
-         
+    <Text id="2" huntingZoneId="228" prevId="0" villagerId="1016">
         <Page social="5">The Scions of Lok still believe they can resurrect their lord. They are so loyal, they'll even sacrifice their own lives for the cause.&lt;BR&gt;&lt;BR&gt;That may open up a particularly grisly branch of research to us.&lt;BR&gt;&lt;BR&gt;Search for &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7011#34177,-11670,4572&amp;type=1&amp;name=Tooltip"&gt;scion corpses&lt;/A&gt;&lt;/font&gt; and recover them. If we study them, we might further our knowledge of Lok himself. Naturally, we'll share all data with the federation.</Page>
-    
     </Text>
-    <Text huntingZoneId="228" id="3" prevId="2" villagerId="1016">
-         
+    <Text id="3" huntingZoneId="228" prevId="2" villagerId="1016">
         <Page social="12">Let's take a look at what you've found. The good news is they're definitely dead.&lt;BR&gt;&lt;BR&gt;Interesting. The bones haven't turned black, which is a precursor to the body becoming a wraith.&lt;BR&gt;&lt;BR&gt;Instead they have a strange green tint. Is this a natural phenomenon? Something magical? If we could replicate this, we might be able to prevent others from becoming wraiths!</Page>
-    
     </Text>
-    <Text huntingZoneId="228" id="4" villagerId="1016">
-         
+    <Text id="4" huntingZoneId="228" villagerId="1016">
         <Page social="0">It's a dirty job, but someone has to do it. Come on, it's not that bad. You're just retrieving some corpses.</Page>
-    
     </Text>
 </QuestDialog>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="32" id="92" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="32" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="73" id="100" prevId="0" villagerId="1009">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="73" id="2" prevId="0" villagerId="1009">
          
+         
         <Page social="0">Os defensores de Sihran cercaram o Acampamento dos Lobos do Inverno no Monte Tyrannas. Parece que não conseguimos acabar com esses bichos! &lt;BR&gt;&lt;BR&gt;Tire o maior número possível de {@LinkCreature:32#4#ragers de Sihran} e {@LinkCreature:32#6#defenders} e {@LinkCreature:32#5#tuwangi thumpers} que puder.&lt;BR&gt;&lt;BR&gt;Kamese terá sua recompensa, como sempre.</Page>
+    
     
     </Text>
     <Text huntingZoneId="232" id="3" prevId="2" villagerId="1030">
          
+         
         <Page social="4">Muito bem, &lt;PCNAME&gt;. É melhor atrasar do que desperdiçar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="232" id="4" villagerId="1030">
          
+         
         <Page social="0">Você precisa eliminar os {@LinkCreature:32#4#Sihran ragers}, os {@LinkCreature:32#6#defenders} e os {@LinkCreature:32#5#tuwangi thumpers}.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="10" id="32" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="10" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="210" id="100" prevId="0" villagerId="1113">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="210" id="2" prevId="0" villagerId="1113">
          
+         
         <Page social="4">Os {@LinkCreature:10#10#baykun warthogs} estão cortando nossas tropas em pedaços. Eles são maus, desagradáveis e duros como pregos, então mate-os, mas com cuidado - quero que você traga de volta um pouco do pelo macio das costas deles.&lt;BR&gt;&lt;BR&gt;Nós o trocaremos em Cutthroat Harbor por suprimentos muito necessários.</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="3" prevId="2" villagerId="1113">
          
+         
         <Page social="4">Isso é suficiente, &lt;PCNAME&gt;. Isso é suficiente.</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="4" villagerId="1113">
          
+         
         <Page social="0">Basta andar pelo nosso acampamento. Você os encontrará em pouco tempo.</Page>
+    
     
     </Text>
 </QuestDialog>

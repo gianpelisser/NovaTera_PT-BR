@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="42" id="24" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="42" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="242" id="100" prevId="0" villagerId="1033">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="242" id="2" prevId="0" villagerId="1033">
          
+         
         <Page social="4">O caminho para o leste está bloqueado por {@LinkCreature:42#1300#besharan sellswords}. Esses demônios não podem interferir em nosso trabalho.&lt;BR&gt;&lt;BR&gt;Mate-os e pegue seus sinetes. Pagarei muito bem por cada um deles.</Page>
+    
     
     </Text>
     <Text huntingZoneId="242" id="3" prevId="2" villagerId="1033">
          
+         
         <Page social="4">Bom trabalho. Eu sabia que você conseguiria fazer isso.</Page>
+    
     
     </Text>
     <Text huntingZoneId="242" id="4" villagerId="1033">
          
+         
         <Page social="0">Você está cuidando daqueles {@LinkCreature:42#1300#besharan sellswords}, certo? Sem sinetes, não há recompensa.</Page>
+    
     
     </Text>
 </QuestDialog>

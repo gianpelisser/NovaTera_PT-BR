@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="56" id="26" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="56" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="256" id="100" prevId="0" villagerId="1014">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="256" id="2" prevId="0" villagerId="1014">
          
+         
         <Page social="4">Pela doutrina élfica, nossos exércitos têm poucos oficiais e muitos soldados. Sem oficiais não há disciplina - um número excessivo é ineficiente.&lt;BR&gt;&lt;BR&gt;Depois de todas essas batalhas, muitos dos soldados deva estão mortos e, no entanto, seus oficiais - os vizires e ceifadores - ainda vivem.&lt;BR&gt;&lt;BR&gt;Eu me aproximo do meu ponto. Trazê-los para um acabamento élfico adequado é muito ambicioso, mas será que não podemos... igualar seus números?</Page>
+    
     
     </Text>
     <Text huntingZoneId="256" id="3" prevId="2" villagerId="1014">
          
+         
         <Page social="4">Aah, abençoada simetria. Tenho certeza de que os devas nos agradecerão por isso mais tarde.</Page>
+    
     
     </Text>
 </QuestDialog>

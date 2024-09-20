@@ -1,21 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="48" id="43" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="48" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="248" id="100" prevId="0" villagerId="1025">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="248" id="2" prevId="0" villagerId="1025">
          
+         
         <Page social="4">Nossa! Esses molochs fumegantes continuam matando meus garimpeiros. Nós nos esgueiramos, na esperança de encontrar algum minério de fyrdras, apenas para ver aqueles malditos molochs saírem do chão.&lt;NEXTPAGEBUTTON&gt;"Eu cuido dos molochs."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Isso seria fantástico. Até mesmo matar um faria diferença para nós.&lt;BR&gt;&lt;BR&gt;E se você encontrar um grande veio de fyrdras, me avise. Será nosso segredo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="3" prevId="2" villagerId="1025">
          
+         
         <Page social="6">Bom trabalho. Agora podemos coletar mais minério, fazer mais armas e matar mais argons! &lt;BR&gt;&lt;BR&gt;Você tem meus agradecimentos, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
 </QuestDialog>

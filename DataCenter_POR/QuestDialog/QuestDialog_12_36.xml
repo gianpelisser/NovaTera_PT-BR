@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="12" id="36" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="12" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="212" id="100" prevId="0" villagerId="1010">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="212" id="2" prevId="0" villagerId="1010">
          
+         
         <Page social="5">Eu sabia que seria insensato ter um garoto tão jovem em uma zona de guerra e, com certeza, ele é uma vítima.&lt;BR&gt;&lt;BR&gt;Mas ele não está morto... ainda, e é aí que você entra.&lt;BR&gt;&lt;BR&gt;Para que eu possa fazer minha magia herbal, preciso das flores de &lt;font color='#660000'&gt;hazevines&lt;/font&gt;. O garoto não sabe, mas ele tem sorte. A Hazevine é subterrânea nove meses por ano.</Page>
+    
     
     </Text>
     <Text huntingZoneId="212" id="3" prevId="2" villagerId="1010">
          
+         
         <Page social="4">Essas flores não são exatamente um segredo. Mas elas só crescem aqui, de modo que o conhecimento de seus usos medicinais é bastante obscuro.&lt;BR&gt;&lt;BR&gt;O menino despertará em breve. Seu corpo está se recuperando, e isso é o que importa.&lt;BR&gt;&lt;BR&gt;Quando ele se levantar, não deixarei de lhe contar sobre o soldado bondoso que salvou sua vida.</Page>
+    
     
     </Text>
     <Text huntingZoneId="212" id="4" villagerId="1010">
          
+         
         <Page social="0">Olha, todo mundo quer que você mate todos esses inimigos letais ou recupere artefatos que destroem mundos.&lt;BR&gt;&lt;BR&gt;Eu só estou pedindo para você... Escolha. Algumas. Flores.&lt;BR&gt;&lt;BR&gt;As crianças de hoje. Não há apreço por trabalhos leves.</Page>
+    
     
     </Text>
 </QuestDialog>

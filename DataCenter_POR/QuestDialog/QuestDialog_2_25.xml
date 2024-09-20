@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="2" id="25" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="2" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="202" id="100" prevId="0" villagerId="1004">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="202" id="2" prevId="0" villagerId="1004">
          
+         
         <Page social="4">Cuidar dos refugiados é muito bom, mas seria melhor se os transformássemos novamente em "pessoas com casas e empregos", não é? &lt;BR&gt;&lt;BR&gt;E isso significa estender nosso alcance além da Floresta Feérica para o resto da região. Vá falar com Reindal perto da Cabana de Maon. Ele está liderando o esforço para recuperar a floresta.</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="3" prevId="2" villagerId="1041">
          
+         
         <Page social="4">Maon costumava manter a paz entre nós e os fey - você sabe, as fadas, os centauros e todas as outras criaturas da floresta.&lt;BR&gt;&lt;BR&gt;Não é culpa dele, mas agora é um negócio sangrento. Alguma coisa está tornando as fadas completamente irracionais... e homicidas.&lt;BR&gt;&lt;BR&gt;De um jeito ou de outro, temos que reverter a situação. Se isso significa forjar uma nova paz com as fadas ou exterminá-las todas, eu não sei.</Page>
+    
     
     </Text>
 </QuestDialog>

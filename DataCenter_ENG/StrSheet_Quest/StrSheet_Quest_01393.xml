@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4931001" string="New and Improved" />
-    <String id="4931002" string="Five iteris shards would do nicely." />
-    <String id="4931003" string="These positively pulse with energy. I wonder why?" />
-    <String id="4931004" string="&quot;Glad I could help.&quot;" />
-    <String id="4931005" string="Mine for iteris shards around the {@Rgn:49002}." />
-    <String id="4931006" string="Deliver the shards to {@LinkCreature:76#1021}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4924001" string="Breaking News" />
+    <String id="4924002" string="Thanks for talking with me, soldier." />
+    <String id="4924003" string="&quot;I appreciate the information. Thanks.&quot;" />
+    <String id="4924004" string="Deliver the news to {@Rgn:76001}." />
 </StrSheet_Quest>

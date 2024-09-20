@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="20" id="92" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="20" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="65" id="100" prevId="0" villagerId="1012">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="65" id="2" prevId="0" villagerId="1012">
          
+         
         <Page social="0">Tenho ordens suficientes para continuar distribuindo por dias, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Em seguida, parece que eles precisam que você cuide dos {@LinkCreature:20#30114001#ossugon centurions}, {@LinkCreature:20#30114002#ossugon prefects} e {@LinkCreature:20#30114003#ossugon primuses}. Eles estarão nos Salões das Sombras, bloqueando o caminho para o nível mais baixo.&lt;BR&gt;&lt;BR&gt;Encontre-se com Pelsus quando terminar. Ele está em... vamos ver... sim, nos Salões da Escuridão.</Page>
+    
     
     </Text>
     <Text huntingZoneId="220" id="3" prevId="2" villagerId="1004">
          
+         
         <Page social="4">Bom trabalho! Adoro ver nossos soldados tão ansiosos para se mexer! &lt;BR&gt;&lt;BR&gt;Aqui está sua recompensa.</Page>
+    
     
     </Text>
     <Text huntingZoneId="220" id="4" villagerId="1004">
          
+         
         <Page social="0">Você tem negócios aqui?</Page>
+    
     
     </Text>
 </QuestDialog>

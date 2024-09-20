@@ -1,5 +1,71 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_DailyPlayGuideQuest xmlns="https://vezel.dev/novadrop/dc/StrSheet_DailyPlayGuideQuest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_DailyPlayGuideQuest StrSheet_DailyPlayGuideQuest.xsd">
+    <String id="80001001" string="Assault the Bastion of Lok!" />
+    <String id="80001100" string="&quot;[Bastion of Lok] Eliminate Murdranak.&quot;" />
+    <String id="80001101" string="&quot;Claim your reward!&quot;" />
+    <String id="80002001" string="Assault Sinestral Manor!" />
+    <String id="80002100" string="&quot;[Sinestral Manor] Eliminate Malgarios.&quot;" />
+    <String id="80002101" string="&quot;Claim your reward!&quot;" />
+    <String id="80002102" string="&quot;Claim your reward!&quot;" />
+    <String id="80002104" string="&quot;Claim your reward!&quot;" />
+    <String id="80002300" string="Malgarios" />
+    <String id="80003001" string="Assault Saravash's Den!" />
+    <String id="80003100" string="&quot;[Saravash's Den] Eliminate Saravash.&quot;" />
+    <String id="80003101" string="&quot;Claim your reward!&quot;" />
+    <String id="80003104" string="&quot;Claim your reward!&quot;" />
+    <String id="80003300" string="Saravash" />
+    <String id="80004001" string="Assault the Cultists' Refuge!" />
+    <String id="80004100" string="&quot;[Cultists' Refuge] Eliminate Bhaozurbas.&quot;" />
+    <String id="80004101" string="&quot;Claim your reward!&quot;" />
+    <String id="80005001" string="Assault the Necromancer Tomb!" />
+    <String id="80005100" string="&quot;[Necromancer Tomb] Eliminate Vedilith.&quot;" />
+    <String id="80005101" string="&quot;Claim your reward!&quot;" />
+    <String id="80006001" string="Assault the Golden Labyrinth!" />
+    <String id="80006100" string="&quot;[Golden Labyrinth] Eliminate Baracos.&quot;" />
+    <String id="80006101" string="&quot;Claim your reward!&quot;" />
+    <String id="80007001" string="Assault Akasha's Hideout!" />
+    <String id="80007100" string="&quot;[Akasha's Hideout] Eliminate Akasha. You may need the aid of your allies!&quot;" />
+    <String id="80007101" string="&quot;Claim your reward!&quot;" />
+    <String id="80008001" string="Assault Saleron's Sky Garden!" />
+    <String id="80008100" string="&quot;[Saleron's Sky Garden] Eliminate Striktryssir.&quot;" />
+    <String id="80008103" string="&quot;Claim your reward!&quot;" />
+    <String id="80008300" string="Striktryssir" />
+    <String id="80009001" string="Assault the Labyrinth of Terror!" />
+    <String id="80009100" string="&quot;[Labyrinth of Terror] Eliminate Killian.&quot;" />
+    <String id="80009101" string="&quot;Claim your reward!&quot;" />
+    <String id="81001001" string="Assault the Bastion of Lok!" />
+    <String id="81001100" string="&quot;[Bastion of Lok] Eliminate Murdranak.&quot;" />
+    <String id="81001101" string="&quot;Claim your reward!&quot;" />
+    <String id="81002001" string="Assault Sinestral Manor!" />
+    <String id="81002100" string="&quot;[Sinestral Manor] Eliminate Malgarios.&quot;" />
+    <String id="81002101" string="&quot;Claim your reward!&quot;" />
+    <String id="81002102" string="&quot;Claim your reward!&quot;" />
+    <String id="81002104" string="&quot;Claim your reward!&quot;" />
+    <String id="81002300" string="Malgarios" />
+    <String id="81003001" string="Assault Saravash's Den!" />
+    <String id="81003100" string="&quot;[Saravash's Den] Eliminate Saravash.&quot;" />
+    <String id="81003101" string="&quot;Claim your reward!&quot;" />
+    <String id="81003104" string="&quot;Claim your reward!&quot;" />
+    <String id="81003300" string="Saravash" />
+    <String id="81004001" string="Assault the Cultists' Refuge!" />
+    <String id="81004100" string="&quot;[Cultists' Refuge] Eliminate Bhaozurbas.&quot;" />
+    <String id="81004101" string="&quot;Claim your reward!&quot;" />
+    <String id="81005001" string="Assault the Necromancer Tomb!" />
+    <String id="81005100" string="&quot;[Necromancer Tomb] Eliminate Vedilith.&quot;" />
+    <String id="81005101" string="&quot;Claim your reward!&quot;" />
+    <String id="81006001" string="Assault the Golden Labyrinth!" />
+    <String id="81006100" string="&quot;[Golden Labyrinth] Eliminate Baracos.&quot;" />
+    <String id="81006101" string="&quot;Claim your reward!&quot;" />
+    <String id="81007001" string="Assault Akasha's Hideout!" />
+    <String id="81007100" string="&quot;[Akasha's Hideout] Eliminate Akasha. You may need the aid of your allies.&quot;" />
+    <String id="81007101" string="&quot;Claim your reward!&quot;" />
+    <String id="81008001" string="Assault Saleron's Sky Garden!" />
+    <String id="81008100" string="&quot;[Saleron's Sky Garden] Eliminate Striktryssir.&quot;" />
+    <String id="81008103" string="&quot;Claim your reward!&quot;" />
+    <String id="81008300" string="Striktryssir" />
+    <String id="81009001" string="Option: Assault the Labyrinth of Terror!" />
+    <String id="81009100" string="&quot;[Labyrinth of Terror] Eliminate Killian.&quot;" />
+    <String id="81009101" string="&quot;Claim your reward!&quot;" />
     <String id="99981001" string="Opção: Atacar com as bolas de canhão!" />
     <String id="99981100" string="[Fortaleza dos Corsários] Vença novamente na Fortaleza dos Corsários." />
     <String id="99981101" string="Complete a ordem da Iniciativa de Vanguarda e receba sua recompensa!" />
@@ -48,6 +114,369 @@
     <String id="99999001" string="Candidate-se a Dungeon Raiders!" />
     <String id="99999100" string="&quot;Candidate-se a Dungeon Raiders e termine sua missão com seus aliados!&quot;" />
     <String id="99999101" string="Complete a ordem da Iniciativa de Vanguarda e receba sua recompensa!" />
+    <String id="800010001" string="Assault the Ebon Tower!" />
+    <String id="800010100" string="&quot;[Ebon Tower] Eliminate Thulsa.&quot;" />
+    <String id="800010101" string="&quot;Claim your reward!&quot;" />
+    <String id="800011001" string="Assault Kelsaik's Nest!" />
+    <String id="800011100" string="&quot;[Kelsaik's Nest] Eliminate Kelsaik. You may need the aid of your allies.&quot;" />
+    <String id="800011101" string="&quot;Claim your reward!&quot;" />
+    <String id="800021001" string="Charge Through the Cannonballs!" />
+    <String id="800021100" string="&quot;[Corsairs' Stronghold] Win a match in Corsairs' Stronghold.&quot;" />
+    <String id="800021101" string="&quot;Claim your reward!&quot;" />
+    <String id="800022001" string="Take the Candy and Run!" />
+    <String id="800022100" string="&quot;[Kumasylum] Win a match in Kumasylum.&quot;" />
+    <String id="800022101" string="&quot;Claim your reward!&quot;" />
+    <String id="800023001" string="Charge Through the Cannonballs!" />
+    <String id="800023100" string="&quot;[Corsairs' Stronghold] Win a match in Corsairs' Stronghold.&quot;" />
+    <String id="800023101" string="&quot;Claim your reward!&quot;" />
+    <String id="800030001" string="Eliminate Basilisks!" />
+    <String id="800030100" string="[Oblivion Woods] Clean up Basilisk Crag." />
+    <String id="800030101" string="&quot;Claim your reward!&quot;" />
+    <String id="800030300" string="Essence of Basilisk" />
+    <String id="800031001" string="Protect Godric's Farm!" />
+    <String id="800031100" string="[Celestial Hills] Eliminate enemies in the Omphalos Plains and Cardovek Remnants." />
+    <String id="800031102" string="&quot;Claim your reward!&quot;" />
+    <String id="800031103" string="&quot;Claim your reward!&quot;" />
+    <String id="800031104" string="&quot;Claim your reward!&quot;" />
+    <String id="800031300" string="Essence of Godric's Farm monsters" />
+    <String id="800032001" string="Eliminate Juggernaut Mercenaries" />
+    <String id="800032100" string="&quot;[Celestial Hills] Eliminate juggernaut mercenaries in the Celestial Hills.&quot;" />
+    <String id="800032101" string="&quot;Claim your reward!&quot;" />
+    <String id="800032104" string="&quot;Claim your reward!&quot;" />
+    <String id="800032300" string="Essence of juggernaut mercenaries" />
+    <String id="800033001" string="Eliminate Juggernaut Mercenaries" />
+    <String id="800033100" string="&quot;[Celestial Hills] Eliminate juggernaut mercenaries in the Celestial Hills.&quot;" />
+    <String id="800033101" string="&quot;Claim your reward!&quot;" />
+    <String id="800033300" string="Essence of Juggernaut Mercenaries" />
+    <String id="800034001" string="Eliminate Fimbrilisks!" />
+    <String id="800034100" string="[Cliffs of Insanity] Eliminate fimbrilisks in the Knoll of Screams." />
+    <String id="800034101" string="&quot;Claim your reward!&quot;" />
+    <String id="800034300" string="Essence of Fimbrilisk" />
+    <String id="800035001" string="Eliminate Ovoliths!" />
+    <String id="800035100" string="[Vale of the Fang] Eliminate ovoliths in Sinestral Manor." />
+    <String id="800035103" string="&quot;Claim your reward!&quot;" />
+    <String id="800035300" string="Essence of Ovolith" />
+    <String id="800036001" string="Eliminate Dusky Basilisks!" />
+    <String id="800036100" string="[Basilisk Crag] Eliminate dusky basilisks in the Vale of Graves." />
+    <String id="800036102" string="&quot;Claim your reward!&quot;" />
+    <String id="800036300" string="Essence of Dusky Basilisk" />
+    <String id="800037001" string="Eliminate Azarel's Juggernauts!" />
+    <String id="800037100" string="[Azarel's Labyrinth] Eliminate Azarel's juggernauts on the second floor of the Labyrinth." />
+    <String id="800037102" string="&quot;Claim your reward!&quot;" />
+    <String id="800037300" string="Essence of Azarel's Juggernaut" />
+    <String id="800038001" string="Eliminate Lurking Teraliths!" />
+    <String id="800038100" string="[Lake of Tears] Clean up the Blessed Woods." />
+    <String id="800038101" string="&quot;Claim your reward!&quot;" />
+    <String id="800038300" string="Essence of Lurking Teralith" />
+    <String id="800039001" string="Eliminate Giant Gladiators!" />
+    <String id="800039100" string="[Colossal Ruins] Clean up the Arena of the Exalted." />
+    <String id="800039101" string="&quot;Claim your reward!&quot;" />
+    <String id="800039300" string="Essence of Giant Gladiator" />
+    <String id="800040001" string="Eliminate Desert Lightning Kumases!" />
+    <String id="800040100" string="[Sandwalker Refuge] Clean up the Sandwalker Refuge." />
+    <String id="800040101" string="&quot;Claim your reward!&quot;" />
+    <String id="800040300" string="Essence of Desert Lightning Kumas" />
+    <String id="800041001" string="Eliminate Patient Lithikumases!" />
+    <String id="800041100" string="[Blessing Basin] Clean up Celestus Rest." />
+    <String id="800041102" string="&quot;Claim your reward!&quot;" />
+    <String id="800041300" string="Essence of Guardian" />
+    <String id="800042001" string="Eliminate Onyx Hydraths!" />
+    <String id="800042100" string="[Tempest Reach] Clean up Icicle Bay." />
+    <String id="800042101" string="&quot;Claim your reward!&quot;" />
+    <String id="800042300" string="Essence of Onyx Hydrath" />
+    <String id="800043001" string="Eliminate Ravenous Basilisks!" />
+    <String id="800043100" string="[Feral Valley] Clean up the northern reach of Feral Valley." />
+    <String id="800043101" string="&quot;Claim your reward!&quot;" />
+    <String id="800043300" string="Essence of Ravenous Basilisk" />
+    <String id="800044001" string="Eliminate Naga Battlemasters!" />
+    <String id="800044100" string="[Serpentis Isle] Clean up Kerozen Isle." />
+    <String id="800044101" string="&quot;Claim your reward!&quot;" />
+    <String id="800044300" string="Essence of Naga Battlemaster" />
+    <String id="800045001" string="Eliminate the Naga Leviathans!" />
+    <String id="800045100" string="[Serpentis Isle] Clean up Dagon's Tomb." />
+    <String id="800045101" string="&quot;Claim your reward!&quot;" />
+    <String id="800045300" string="Essence of Naga Leviathan" />
+    <String id="800046001" string="Eliminate the Ebon Fimbrilisks!" />
+    <String id="800046100" string="[Amena Quatla] Clean up the Hatchery." />
+    <String id="800046102" string="&quot;Claim your reward!&quot;" />
+    <String id="800046300" string="Essence of Ebon Fimbrilisk" />
+    <String id="800047001" string="Eliminate the Sandlurker Lizards!" />
+    <String id="800047100" string="[Tor Exsul] Clean up the Raintree Oasis." />
+    <String id="800047101" string="&quot;Claim your reward!&quot;" />
+    <String id="800047300" string="Essence of Sandlurker Lizard" />
+    <String id="800050001" string="Mop Up Devan Remnants" />
+    <String id="800050100" string="[Oblivion Woods] Eliminate Devans in the Blood Run." />
+    <String id="800050104" string="&quot;Claim your reward!&quot;" />
+    <String id="800050105" string="&quot;Claim your reward!&quot;" />
+    <String id="800050300" string="Phantom of the Blood Run" />
+    <String id="800051001" string="Assault the Devan Hideout" />
+    <String id="800051100" string="[Oblivion Woods] Eliminate the Devans in their Blood Run hideout." />
+    <String id="800051104" string="&quot;Claim your reward!&quot;" />
+    <String id="800051105" string="&quot;Claim your reward!&quot;" />
+    <String id="800051300" string="Phantom of the Blood Run" />
+    <String id="800052001" string="A Rest For Mossy Ghilliedhus" />
+    <String id="800052100" string="[Oblivion Woods] Eliminate ghilliedhus in the Bestial Vale." />
+    <String id="800052101" string="&quot;Claim your reward!&quot;" />
+    <String id="800052300" string="Ghilliedhu's Spirit" />
+    <String id="800053001" string="Showdown with the Fighters" />
+    <String id="800053100" string="[Mistmoor Island] Eliminate the fighters at the Desolate Coast." />
+    <String id="800053102" string="&quot;Claim your reward!&quot;" />
+    <String id="800053300" string="Essence of Mistmoor Island" />
+    <String id="800054001" string="Burn Out the Desert Fire" />
+    <String id="800054100" string="[Colossal Ruins] Eliminate Kurata." />
+    <String id="800054103" string="&quot;Claim your reward!&quot;" />
+    <String id="800054300" string="Essence of the Desert Fire" />
+    <String id="800055001" string="A Rest For Tainted Mycanar" />
+    <String id="800055100" string="[Blessing Basin] Eliminate mycanars in the White Hart Run." />
+    <String id="800055101" string="&quot;Claim your reward!&quot;" />
+    <String id="800055300" string="Essence of Mycanar" />
+    <String id="800056001" string="A Rest For Corrupted Mycanars" />
+    <String id="800056100" string="[Blightwood] Eliminate mycanars in Shakan's Revenge." />
+    <String id="800056101" string="&quot;Claim your reward!&quot;" />
+    <String id="800056300" string="Essence of Mycanar" />
+    <String id="800057001" string="Sterilize the Area" />
+    <String id="800057100" string="[Quarantine Area] Exterminate infected creatures in the Quarantine Area." />
+    <String id="800057101" string="&quot;Claim your reward!&quot;" />
+    <String id="800057102" string="&quot;Claim your reward!&quot;" />
+    <String id="800057300" string="Spirit of the Infected" />
+    <String id="800058001" string="Quarantine Zone" />
+    <String id="800058100" string="&quot;[Quarantine Area] Eliminate mutant workers in the Quarantine Area!&quot;" />
+    <String id="800058101" string="&quot;Claim your reward!&quot;" />
+    <String id="800058300" string="Mutant Worker's Spirit" />
+    <String id="800059001" string="Avenge the Fallen" />
+    <String id="800059100" string="[Susurrus Woods] Eliminate devas in Dakonan Junction." />
+    <String id="800059104" string="&quot;Claim your reward!&quot;" />
+    <String id="800059300" string="Devan Essence" />
+    <String id="800060001" string="Sacrifice Plays" />
+    <String id="800060100" string="[Susurrus Woods] Eliminate runekeepers in the Nightwood." />
+    <String id="800060103" string="&quot;Claim your reward!&quot;" />
+    <String id="800060104" string="&quot;Claim your reward!&quot;" />
+    <String id="800060300" string="Essence of Sacrifice" />
+    <String id="800061001" string="Grizzly Hunt" />
+    <String id="800061100" string="[Tirkai Forest] Eliminate Tirkai Grizzlies in the Whitefrost Forest." />
+    <String id="800061101" string="&quot;Claim your reward!&quot;" />
+    <String id="800061300" string="Essence of Tirkai Grizzly" />
+    <String id="800062001" string="Eliminate the Argonomorphs!" />
+    <String id="800062100" string="[Thrallhold] Eliminate argonomorphs in the Vale of the Reaper." />
+    <String id="800062101" string="&quot;Claim your reward!&quot;" />
+    <String id="800062300" string="Argonomorph Essence" />
+    <String id="800063001" string="Clear the Twisted Plains" />
+    <String id="800063100" string="[Vale of the Fang] Eliminate creatures on the Twisted Plains." />
+    <String id="800063103" string="&quot;Claim your reward!&quot;" />
+    <String id="800063104" string="&quot;Claim your reward!&quot;" />
+    <String id="800063300" string="Essence of the Twisted Plains" />
+    <String id="800064001" string="Weaken the Lokian Force" />
+    <String id="800064100" string="[Celestial Hills] Eliminate Lok's Worshippers in the Cardovek Remnants." />
+    <String id="800064103" string="&quot;Claim your reward!&quot;" />
+    <String id="800064300" string="Lokian's Spirit" />
+    <String id="800065001" string="Eliminate the Brainwashed!" />
+    <String id="800065100" string="[Aurum Road] Eliminate brainwashed soldiers in the Shattered City." />
+    <String id="800065102" string="&quot;Claim your reward!&quot;" />
+    <String id="800065300" string="Brainwashed Soldier Essence" />
+    <String id="800066001" string="Disband the Mercenary Company" />
+    <String id="800066100" string="[Mount Tyrannas] Clear out the Bloodblade mercenary Camp." />
+    <String id="800066103" string="&quot;Claim your reward!&quot;" />
+    <String id="800066300" string="Mercenary's Spirit" />
+    <String id="800067001" string="Eliminate the Kamaras!" />
+    <String id="800067100" string="[Serpentis Isle] Eliminate Kamaras on Kerozen Isle." />
+    <String id="800067102" string="&quot;Claim your reward!&quot;" />
+    <String id="800067300" string="Essence of Kamara" />
+    <String id="800068001" string="Eliminate Prion Njalvar!" />
+    <String id="800068100" string="[Sienna Canyon] Eliminate Prion Njalvar." />
+    <String id="800068102" string="&quot;Claim your reward!&quot;" />
+    <String id="800068300" string="Essence of Prion Njalvar" />
+    <String id="800069001" string="Clear Mags Tohopka" />
+    <String id="800069100" string="&quot;[Basilisk Crag] Eliminate beasts in Mags Tohopka.&quot;" />
+    <String id="800069102" string="&quot;Claim your reward!&quot;" />
+    <String id="800069300" string="Essence of Mags Tohopka Beast" />
+    <String id="800070001" string="Noruk Hunt" />
+    <String id="800070100" string="[Lake of Tears] Hunt mooncrest noruks and gather their antlers." />
+    <String id="800070101" string="&quot;Claim your reward!&quot;" />
+    <String id="800070300" string="A Piece of White Horn" />
+    <String id="800071001" string="A Rest for the Wendigos" />
+    <String id="800071100" string="&quot;[Vale of Spires] Eliminate enthralled wendigos.&quot;" />
+    <String id="800071102" string="&quot;Claim your reward!&quot;" />
+    <String id="800071300" string="Essence of Wendigo" />
+    <String id="810010001" string="Option: Assault the Ebon Tower!" />
+    <String id="810010100" string="&quot;[Ebon Tower] Eliminate Thulsa.&quot;" />
+    <String id="810010101" string="&quot;Claim your reward!&quot;" />
+    <String id="810011001" string="Assault Kelsaik's Nest!" />
+    <String id="810011100" string="&quot;[Kelsaik's Nest] Eliminate Kelsaik. You may need the aid of your allies.&quot;" />
+    <String id="810011101" string="&quot;Claim your reward!&quot;" />
+    <String id="810021001" string="Option: Charge Through the Cannonballs!" />
+    <String id="810021100" string="&quot;[Corsairs' Stronghold] Win a match in Corsairs' Stronghold&quot;" />
+    <String id="810021101" string="&quot;Claim your reward!&quot;" />
+    <String id="810022001" string="Option: Take the Candy and Run!" />
+    <String id="810022100" string="[Kumasylum] Win a match in Kumasylum." />
+    <String id="810022101" string="&quot;Claim your reward!&quot;" />
+    <String id="810030001" string="Option: Eliminate Basilisks!" />
+    <String id="810030100" string="[Oblivion Woods] Clean up Basilisk Crag." />
+    <String id="810030101" string="&quot;Claim your reward!&quot;" />
+    <String id="810030300" string="Essence of Basilisk" />
+    <String id="810031001" string="Option: Protect Godric's Farm!" />
+    <String id="810031100" string="[Celestial Hills] Eliminate enemies in the Omphalos Plains and Cardovek Remnants." />
+    <String id="810031102" string="&quot;Claim your reward!&quot;" />
+    <String id="810031103" string="&quot;Claim your reward!&quot;" />
+    <String id="810031104" string="&quot;Claim your reward!&quot;" />
+    <String id="810031300" string="Essence of Godric's Farm monsters" />
+    <String id="810032001" string="Option: Eliminate Juggernaut Mercenaries" />
+    <String id="810032100" string="&quot;[Celestial Hills] Eliminate juggernaut mercenaries in the Celestial Hills.&quot;" />
+    <String id="810032101" string="&quot;Claim your reward!&quot;" />
+    <String id="810032104" string="&quot;Claim your reward!&quot;" />
+    <String id="810032300" string="Essence of juggernaut mercenaries" />
+    <String id="810033001" string="Option: Eliminate the Juggernaut Mercenaries" />
+    <String id="810033100" string="&quot;[Celestial Hills] Eliminate juggernaut mercenaries in the Celestial Hills.&quot;" />
+    <String id="810033101" string="&quot;Claim your reward!&quot;" />
+    <String id="810033300" string="Essence of Juggernaut Mercenaries" />
+    <String id="810034001" string="Option: Eliminate Fimbrilisks!" />
+    <String id="810034100" string="[Cliffs of Insanity] Eliminate fimbrilisks in the Knoll of Screams." />
+    <String id="810034101" string="&quot;Claim your reward!&quot;" />
+    <String id="810034300" string="Essence of Fimbrilisk" />
+    <String id="810035001" string="Option: Eliminate Ovoliths!" />
+    <String id="810035100" string="[Vale of the Fang] Eliminate ovoliths in Sinestral Manor." />
+    <String id="810035103" string="&quot;Claim your reward!&quot;" />
+    <String id="810035300" string="Essence of Ovolith" />
+    <String id="810036001" string="Option: Eliminate Dusky Basilisks!" />
+    <String id="810036100" string="[Basilisk Crag] Eliminate dusky basilisks in the Vale of Graves." />
+    <String id="810036102" string="&quot;Claim your reward!&quot;" />
+    <String id="810036300" string="Essence of Dusky Basilisk" />
+    <String id="810037001" string="Option: Eliminate Azarel's Juggernauts!" />
+    <String id="810037100" string="[Azarel's Labyrinth] Eliminate Azarel's juggernauts on the second floor of the Labyrinth." />
+    <String id="810037102" string="&quot;Claim your reward!&quot;" />
+    <String id="810037300" string="Essence of Azarel's Juggernaut" />
+    <String id="810038001" string="Option: Eliminate Lurking Teraliths!" />
+    <String id="810038100" string="[Lake of Tears] Clean up the Blessed Woods." />
+    <String id="810038101" string="&quot;Claim your reward!&quot;" />
+    <String id="810038300" string="Essence of Lurking Teralith" />
+    <String id="810039001" string="Option: Eliminate Giant Gladiators!" />
+    <String id="810039100" string="[Colossal Ruins] Clean up the Arena of the Exalted." />
+    <String id="810039101" string="&quot;Claim your reward!&quot;" />
+    <String id="810039300" string="Essence of Giant Gladiator" />
+    <String id="810040001" string="Option: Eliminate Desert Lightning Kumases!" />
+    <String id="810040100" string="[Sandwalker Refuge] Clean up Sandwalker Refuge." />
+    <String id="810040101" string="&quot;Claim your reward!&quot;" />
+    <String id="810040300" string="Essence of Desert Lightning Kumas" />
+    <String id="810041001" string="Option: Eliminate Patient Lithikumases!" />
+    <String id="810041100" string="[Blessing Basin] Clean up Celestus Rest." />
+    <String id="810041102" string="&quot;Claim your reward!&quot;" />
+    <String id="810041300" string="Essence of Guardian" />
+    <String id="810042001" string="Option: Eliminate Onyx Hydraths!" />
+    <String id="810042100" string="[Tempest Reach] Clean up Icicle Bay." />
+    <String id="810042101" string="&quot;Claim your reward!&quot;" />
+    <String id="810042300" string="Essence of Onyx Hydrath" />
+    <String id="810043001" string="Option: Eliminate Ravenous Basilisks!" />
+    <String id="810043100" string="[Feral Valley] Clean up the northern reach of Feral Valley." />
+    <String id="810043101" string="&quot;Claim your reward!&quot;" />
+    <String id="810043300" string="Essence of Ravenous Basilisk" />
+    <String id="810044001" string="Option: Eliminate Naga Battlemasters!" />
+    <String id="810044100" string="[Serpentis Isle] Clean up Kerozen Isle." />
+    <String id="810044101" string="&quot;Claim your reward!&quot;" />
+    <String id="810044300" string="Essence of Naga Battlemaster" />
+    <String id="810045001" string="Option: Eliminate the Naga Leviathans!" />
+    <String id="810045100" string="[Serpentis Isle] Clean up Dagon's Tomb." />
+    <String id="810045101" string="&quot;Claim your reward!&quot;" />
+    <String id="810045300" string="Essence of Naga Leviathan" />
+    <String id="810046001" string="Option: Eliminate the Ebon Fimbrilisks!" />
+    <String id="810046100" string="[Amena Quatla] Clean up the Hatchery." />
+    <String id="810046102" string="&quot;Claim your reward!&quot;" />
+    <String id="810046300" string="Essence of Ebon Fimbrilisk" />
+    <String id="810047001" string="Option: Eliminate the Sandlurker Lizards!" />
+    <String id="810047100" string="[Tor Exsul] Clean up the Raintree Oasis." />
+    <String id="810047101" string="&quot;Claim your reward!&quot;" />
+    <String id="810047300" string="Essence of Sandlurker Lizard" />
+    <String id="810050001" string="Option: Mop Up Devan Remnants" />
+    <String id="810050100" string="[Oblivion Woods] Eliminate Devans in the Blood Run." />
+    <String id="810050104" string="&quot;Claim your reward!&quot;" />
+    <String id="810050105" string="&quot;Claim your reward!&quot;" />
+    <String id="810050300" string="Phantom of the Blood Run" />
+    <String id="810051001" string="Option: Assault the Devan Hideout" />
+    <String id="810051100" string="[Oblivion Woods] Eliminate the Devans in their Blood Run hideout." />
+    <String id="810051104" string="&quot;Claim your reward!&quot;" />
+    <String id="810051105" string="&quot;Claim your reward!&quot;" />
+    <String id="810051300" string="Phantom of the Blood Run" />
+    <String id="810052001" string="Option: A Rest For Mossy Ghilliedhus" />
+    <String id="810052100" string="[Oblivion Woods] Eliminate ghilliedhus in the Bestial Vale." />
+    <String id="810052101" string="&quot;Claim your reward!&quot;" />
+    <String id="810052300" string="Ghilliedhu's Spirit" />
+    <String id="810053001" string="Option: Showdown With the Fighters" />
+    <String id="810053100" string="[Mistmoor Island] Eliminate the Fighters at the Desolate Coast." />
+    <String id="810053102" string="&quot;Claim your reward!&quot;" />
+    <String id="810053300" string="Essence of Mistmoor Island" />
+    <String id="810054001" string="Option: Burn Out the Desert Fire" />
+    <String id="810054100" string="[Colossal Ruins] Eliminate Kurata." />
+    <String id="810054103" string="&quot;Claim your reward!&quot;" />
+    <String id="810054300" string="Essence of the Desert Fire" />
+    <String id="810055001" string="Option: A Rest For Tainted Mycanar" />
+    <String id="810055100" string="[Blessing Basin] Eliminate mycanars in the White Hart Run." />
+    <String id="810055101" string="&quot;Claim your reward!&quot;" />
+    <String id="810055300" string="Essence of Mycanar" />
+    <String id="810056001" string="Option: A Rest For Corrupted Mycanars" />
+    <String id="810056100" string="[Blightwood] Eliminate Mycanars in the Shakan's Revenge." />
+    <String id="810056101" string="&quot;Claim your reward!&quot;" />
+    <String id="810056300" string="Essence of Mycanar" />
+    <String id="810057001" string="Option: Sterilize the Area" />
+    <String id="810057100" string="[Quarantine Area] Exterminate infected creatures in the Quarantine Area." />
+    <String id="810057101" string="&quot;Claim your reward!&quot;" />
+    <String id="810057102" string="&quot;Claim your reward!&quot;" />
+    <String id="810057300" string="Spirit of the Infected" />
+    <String id="810058001" string="Option: Quarantine Zone" />
+    <String id="810058100" string="&quot;[Quarantine Area] Eliminate mutant workers in the Quarantine Area!&quot;" />
+    <String id="810058101" string="&quot;Claim your reward!&quot;" />
+    <String id="810058300" string="Mutant Worker's Spirit" />
+    <String id="810059001" string="Option: Avenge the Fallen" />
+    <String id="810059100" string="[Susurrus Woods] Eliminate devas in Dakonan Junction." />
+    <String id="810059104" string="&quot;Claim your reward!&quot;" />
+    <String id="810059300" string="Devan Essence" />
+    <String id="810060001" string="Option: Sacrifice Plays" />
+    <String id="810060100" string="[Susurrus Woods] Eliminate runekeepers in the Nightwood." />
+    <String id="810060103" string="&quot;Claim your reward!&quot;" />
+    <String id="810060104" string="&quot;Claim your reward!&quot;" />
+    <String id="810060300" string="Essence of Sacrifice" />
+    <String id="810061001" string="Option: Grizzly Hunt" />
+    <String id="810061100" string="[Tirkai Forest] Eliminate Tirkai Grizzlies in the Whitefrost Forest." />
+    <String id="810061101" string="&quot;Claim your reward!&quot;" />
+    <String id="810061300" string="Essence of Tirkai Grizzly" />
+    <String id="810062001" string="Option: Eliminate the Argonomorphs!" />
+    <String id="810062100" string="[Thrallhold] Eliminate argonomorphs in the Vale of the Reaper." />
+    <String id="810062101" string="&quot;Claim your reward!&quot;" />
+    <String id="810062300" string="Argonomorph Essence" />
+    <String id="810063001" string="Option: Eliminate creatures on the Twisted Plains." />
+    <String id="810063100" string="[Vale of the Fang] Eliminate creatures on the Twisted Plains." />
+    <String id="810063103" string="&quot;Claim your reward!&quot;" />
+    <String id="810063104" string="&quot;Claim your reward!&quot;" />
+    <String id="810063300" string="Essence of the Twisted Plains" />
+    <String id="810064001" string="Option: Weaken the Lokian Force" />
+    <String id="810064100" string="[Celestial Hills] Eliminate Lok Worshippers in the Cardovek Remnants." />
+    <String id="810064103" string="&quot;Claim your reward!&quot;" />
+    <String id="810064300" string="Lokian's Spirit" />
+    <String id="810065001" string="Option: Eliminate the Brainwashed!" />
+    <String id="810065100" string="[Aurum Road] Eliminate brainwashed soldiers in the Shattered City." />
+    <String id="810065102" string="&quot;Claim your reward!&quot;" />
+    <String id="810065300" string="Brainwashed Soldier Essence" />
+    <String id="810066001" string="Option: Disband the Mercenary Company" />
+    <String id="810066100" string="[Mount Tyrannas] Clear out the Bloodblade mercenary Camp." />
+    <String id="810066103" string="&quot;Claim your reward!&quot;" />
+    <String id="810066300" string="Mercenary's Spirit" />
+    <String id="810067001" string="Option: Eliminate the Kamaras!" />
+    <String id="810067100" string="[Serpentis Isle] Eliminate Kamaras on Kerozen Isle." />
+    <String id="810067102" string="&quot;Claim your reward!&quot;" />
+    <String id="810067300" string="Essence of Kamara" />
+    <String id="810068001" string="Option: Eliminate Prion Njalvar!" />
+    <String id="810068100" string="[Sienna Canyon] Eliminate Prion Njalvar." />
+    <String id="810068102" string="&quot;Claim your reward!&quot;" />
+    <String id="810068300" string="Essence of Prion Njalvar" />
+    <String id="810069001" string="Option: Eliminate the Beasts of Mags Tohopka" />
+    <String id="810069100" string="&quot;[Basilisk Crag] Eliminate the beasts of Mags Tohopka.&quot;" />
+    <String id="810069102" string="&quot;Claim your reward!&quot;" />
+    <String id="810069300" string="The Soul of Mags Tohopka Beast" />
+    <String id="810070001" string="Option: Noruk Hunt" />
+    <String id="810070100" string="[Lake of Tears] Hunt mooncrest noruks and gather their antlers." />
+    <String id="810070101" string="&quot;Claim your reward!&quot;" />
+    <String id="810070300" string="A Piece of White Horn" />
+    <String id="810071001" string="Option: A Rest For the Wendigos" />
+    <String id="810071100" string="&quot;[Vale of Spires] Eliminate enthalled wendigos.&quot;" />
+    <String id="810071102" string="&quot;Claim your reward!&quot;" />
+    <String id="810071300" string="Essence of Wendigo" />
     <String id="999811001" string="Opção: Timmbbeeerrrrr!" />
     <String id="999811100" string="[Velika] Reúna mais madeiras matando ghilliedhus leafgarb e mycanars rotbough." />
     <String id="999811102" string="Complete a ordem da Iniciativa de Vanguarda e receba sua recompensa!" />
@@ -274,6 +703,12 @@
     <String id="999867001" string="Opção: Negócio de macaco" />
     <String id="999867100" string="[Monkeydrome] Vença no Monkeydrome novamente." />
     <String id="999867101" string="Complete a ordem da Iniciativa de Vanguarda e receba sua recompensa!" />
+    <String id="999868001" string="Option: Back into the Deep End" />
+    <String id="999868100" string="[Bathysmal Rise - Hard] Kill Nightmare Fulminar again." />
+    <String id="999868101" string="Claim your reward!" />
+    <String id="999869001" string="Option: Clear Sky Cruiser Endeavor" />
+    <String id="999869100" string="[Sky Cruiser Endeavor] Kill Darkan again in Sky Cruiser Endeavor." />
+    <String id="999869101" string="Claim your reward!" />
     <String id="999872001" string="Opção: Monstros do Lago" />
     <String id="999872100" string="[Spring Valley] Mate mais orisks." />
     <String id="999872101" string="Complete a ordem da Iniciativa de Vanguarda e receba sua recompensa!" />
@@ -338,6 +773,14 @@
     <String id="999887001" string="Opção: Matar Shandra Manaya" />
     <String id="999887100" string="[Núcleo de Manaya] Mate Shandra Manaya com seus aliados!" />
     <String id="999887101" string="Complete a ordem da Iniciativa de Vanguarda e receba sua recompensa!" />
+    <String id="999888001" string="Option: Taproot Shortage" />
+    <String id="999888100" string="[Harvest Festival] We are short of taproots for making lunchboxes for Tuwangis. Please collect some taproots." />
+    <String id="999888101" string="Claim your reward!" />
+    <String id="999888400" string="Taproot" />
+    <String id="999888401" string="Taproot" />
+    <String id="999889001" string="Option: Explore the Channelworks" />
+    <String id="999889100" string="[Channelworks] Gather your allies to kill Kerkion again." />
+    <String id="999889101" string="Claim your reward!" />
     <String id="999911001" string="Timmbbeeerrrrr!" />
     <String id="999911100" string="[Velika] Reúna madeiras matando ghilliedhus leafgarb e mycanars rotbough." />
     <String id="999911102" string="Complete a ordem da Iniciativa de Vanguarda e receba sua recompensa!" />
@@ -563,6 +1006,12 @@
     <String id="999967001" string="Negócio de macaco" />
     <String id="999967100" string="[Monkeydrome] Vença uma vez no Monkeydrome." />
     <String id="999967101" string="Complete a ordem da Iniciativa de Vanguarda e receba sua recompensa!" />
+    <String id="999968001" string="Poolside Service" />
+    <String id="999968100" string="[Bathysmal Rise- Hard] Kill Nightmare Fulminar, if you can." />
+    <String id="999968101" string="Claim your reward!" />
+    <String id="999969001" string="Best Feet Forward" />
+    <String id="999969100" string="[Sky Cruiser Endeavor] Find a group and show Darkan who's boss." />
+    <String id="999969101" string="Claim your reward!" />
     <String id="999972001" string="Monstros do Lago" />
     <String id="999972100" string="[Spring Valley] Matar orisks." />
     <String id="999972101" string="Complete a ordem da Iniciativa de Vanguarda e receba sua recompensa!" />
@@ -627,4 +1076,15 @@
     <String id="999987001" string="Urgente: Mate Shandra Manaya" />
     <String id="999987100" string="[Núcleo de Manaya] Mate Shandra Manaya com seus aliados!" />
     <String id="999987101" string="Complete a ordem da Iniciativa de Vanguarda e receba sua recompensa!" />
+    <String id="999988001" string="Taproot Shortage" />
+    <String id="999988100" string="[Harvest Festival] Collect taproots for tuwangi lunchboxes." />
+    <String id="999988101" string="Claim your reward!" />
+    <String id="999988400" string="Taproot" />
+    <String id="999988401" string="Taproot" />
+    <String id="999989001" string="Explore Channelworks" />
+    <String id="999989100" string="[Channelworks] Gather your allies to kill Kerkion!" />
+    <String id="999989101" string="Claim your reward!" />
+    <String id="999990001" string="Let's Have A Snowball Fight!" />
+    <String id="999990100" string="[Wintera Snowfield] Seize victory in Wintera Snowfield." />
+    <String id="999990101" string="Claim your reward!" />
 </StrSheet_DailyPlayGuideQuest>

@@ -1,33 +1,45 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="426" id="1" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="426" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="426" id="100" prevId="0" villagerId="2001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="426" id="2" prevId="0" villagerId="2001">
          
+         
         <Page social="4">Aquele estúpido do Loto! Respeito a ganância tanto quanto qualquer mercador vivo, mas ele simplesmente se precipitou nessa... nessa... seja lá o que for.&lt;BR&gt;&lt;BR&gt;Loto e eu pensamos que poderíamos garimpar objetos de valor nas bases que os argons deixaram para trás quando se retiraram. Mas os argons não estão se retirando daqui! &lt;BR&gt;&lt;BR&gt;Seguir Loto seria suicídio para mim, mas para um soldado treinado como você...&lt;BR&gt;&lt;BR&gt;Olha, eu sei que os problemas de dois mercadores não importam muito agora, mas Loto é a única família que eu tenho. Se você vir Loto, pode trazê-lo de volta em segurança?</Page>
+    
     
     </Text>
     <Text huntingZoneId="426" id="3" prevId="2" villagerId="2002">
          
+         
         <Page social="4">Quem está aí? Oh, um soldado! Deixe-me adivinhar: você é um batedor do exército da Federação. Bem, estou feliz por ter um exército em minha retaguarda, não é? &lt;BR&gt;&lt;BR&gt;Se você e seus companheiros pudessem limpar os próximos corredores, seria ótimo. Manter as engrenagens do comércio girando e tudo o mais, não é? &lt;NEXTPAGEBUTTON&gt;"Não é tão simples assim."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="4">Espere... você está sozinho? &lt;BR&gt;&lt;BR&gt;O quê? É aqui que os argons estão fazendo sua última resistência? &lt;BR&gt;&lt;BR&gt;E... a própria rainha dos argons pode estar na próxima esquina.&lt;NEXTPAGEBUTTON&gt;"Como eu disse: não é tão simples assim."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Talvez eu tenha sido... um pouco precipitado, e talvez este lugar não seja totalmente seguro para o comércio. Ainda assim, se cheguei até aqui, não pode ser uma condenação certa.&lt;BR&gt;&lt;BR&gt;Faço um acordo com você, &lt;PCCLASS:lcase&gt;. Você coleta alguns olhos dos argonss por aqui e eu volto pelo caminho por onde vim.&lt;BR&gt;&lt;BR&gt;Por que olhos de argons? Como dizer isso de forma educada... digamos que eles têm fama de ter qualidades medicinais.</Page>
+    
     
     </Text>
     <Text huntingZoneId="426" id="4" prevId="3" villagerId="2002">
          
+         
         <Page social="4">Você está de volta! E está vendo? Nós dois estamos vivos! Talvez esse "Argon Corpus" não seja tão perigoso, afinal de contas. Talvez a seguir você possa se reunir...&lt;BR&gt;&lt;BR&gt;Não, não, não me olhe assim. Nós fizemos um acordo e eu vou cumpri-lo, indo embora sem fazer barulho. Boa sorte com aquela rainha de argons! E me deseje sorte ao vender esses olhos em Kaiator!</Page>
+    
     
     </Text>
     <Text huntingZoneId="426" id="5" villagerId="2002">
          
+         
         <Page social="0">Os argonss são apenas o custo de fazer negócios. O lucro exige risco.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="40" id="94" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="40" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="75" id="100" prevId="0" villagerId="1024">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="75" id="2" prevId="0" villagerId="1024">
          
+         
         <Page social="0">Estamos nos esforçando para proteger a Aldeia Maldita.&lt;BR&gt;&lt;BR&gt;Destrua os {@LinkCreature:40#1#espantalhosberserk}, os {@LinkCreature:40#5#golems de colheitaberserk}, os {@LinkCreature:40#13#evisceradores de príons} e os {@LinkCreature:40#31#tribladadores mutados}. Precisamos verificar os níveis de contaminação, portanto, colete amostras dos mortos.&lt;BR&gt;&lt;BR&gt;Encontre Lashirah no Centro de Pesquisas da Zona de Quarentena quando terminar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="240" id="3" prevId="2" villagerId="1004">
          
+         
         <Page social="4">Haverá mais trabalho para você quando quiser, &lt;PCNAME&gt;. Nossa tarefa, receio, nunca será concluída.</Page>
+    
     
     </Text>
     <Text huntingZoneId="240" id="4" villagerId="1004">
          
+         
         <Page social="0">Você trouxe as amostras? Não posso começar sem elas.</Page>
+    
     
     </Text>
 </QuestDialog>

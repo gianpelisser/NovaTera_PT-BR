@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="123" id="8" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="123" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="123" id="100" prevId="0" villagerId="9001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="123" id="2" prevId="0" villagerId="9001">
          
+         
         <Page social="1">O Coletivo de Comerciantes Livres é um pé no saco! &lt;BR&gt;&lt;BR&gt;Os {@linkcreature:121#202#Aurum mugatos} e os {@linkcreature:121#205#badlands ghilliedhus} estão repletos de noctênio e fornecem aos comerciantes em abundância. Se matarmos suas próprias feras e nos apoderarmos desse noctênio, isso aumentará a força da Ordem de Ferro.&lt;BR&gt;&lt;BR&gt;Vá ao território dos Mercadores Livres, mate as feras e eu o recompensarei com noctênio refinado. Qualquer noctênio que você pegar deles também será seu!</Page>
+    
     
     </Text>
     <Text huntingZoneId="123" id="3" prevId="2" villagerId="9001">
          
+         
         <Page social="0">Bom trabalho. Lembre-se, sempre há mais a ser feito.&lt;BR&gt;Para a Ordem de Ferro!</Page>
+    
     
     </Text>
 </QuestDialog>

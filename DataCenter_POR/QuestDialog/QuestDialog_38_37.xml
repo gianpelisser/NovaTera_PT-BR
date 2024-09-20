@@ -1,31 +1,42 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="38" id="37" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="38" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="238" id="100" prevId="0" villagerId="1029">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="238" id="2" prevId="0" villagerId="1029">
          
+         
         <Page social="18">Quando os príons nos expulsaram de Thunder Hold, Jabel não conseguiu sair. Se Elinu for misericordiosa, ele está escondido nas ruínas, esperando por resgate. Se não...&lt;BR&gt;&lt;BR&gt;Não posso pensar nisso agora. Só preciso que alguém o encontre.</Page>
+    
     
     </Text>
     <Text huntingZoneId="238" id="3" prevId="2" villagerId="1014">
          
+         
         <Page social="5">(Jabel está morto. Suas mãos seguram um livro junto ao peito.)&lt;NEXTPAGEBUTTON&gt;Olhe para o livro.&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="5">(Está escrito em um idioma que você não reconhece).</Page>
+    
     
     </Text>
     <Text huntingZoneId="238" id="4" prevId="3" villagerId="1029">
          
+         
         <Page social="5">Se Jabel morreu por isso, é melhor que seja importante.&lt;BR&gt;&lt;BR&gt;Veja se Jerad pode traduzi-lo - ele lê uma dúzia de idiomas, pelo menos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="238" id="5" prevId="4" villagerId="1027">
          
+         
         <Page social="5">Esse é o livro que você encontrou no cadáver de Jabel? &lt;BR&gt;&lt;BR&gt;Isso foi definitivamente escrito por um príon. Dê-me um momento...</Page>
+    
     
     </Text>
 </QuestDialog>

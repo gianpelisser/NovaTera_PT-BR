@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="5" id="28" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="5" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="205" id="100" prevId="0" villagerId="1006">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="205" id="2" prevId="0" villagerId="1006">
          
+         
         <Page social="5">Posso fazer um antídoto extremamente potente, mas a maioria o acha desagradável. O gosto é tão horrível que aqueles que o bebem dizem que prefeririam morrer se fossem envenenados novamente.&lt;BR&gt;&lt;BR&gt;Seja como for, muitos acham que a reunião de ingredientes é mais angustiante do que o gosto. Espero que você esteja à altura da tarefa. Vou precisar dos olhos das garangkas que os {@LinkCreature:5#1#Tuwangi Overseers} usam. Sim, apenas os globos oculares.</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="3" prevId="2" villagerId="1006">
          
+         
         <Page social="9">Eu esperava que você me trouxesse outras maiores, mas essas servem por enquanto. Aqui, eu sei que não foi fácil.</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="4" villagerId="1006">
          
+         
         <Page social="0">Traga-me os olhos dos garangkas em que os {@LinkCreature:5#1#Tuwangi Overseers} andam. Eles não vão se deslocar até aqui.</Page>
+    
     
     </Text>
 </QuestDialog>

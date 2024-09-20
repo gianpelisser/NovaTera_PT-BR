@@ -1,12 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4624001" string="Not Just a Flower Pot" />
-    <String id="4624002" string="Please destroy the {@creature:46#7003#haxuul extractor} and get samples." />
-    <String id="4624003" string="Thank you for bringing samples from the {@creature:46#7003#haxuul extractor}." />
-    <String id="4624004" string="Plant Samples" />
-    <String id="4624005" string="Pass through the {@creature:46#202#argonomorph kulkari shaman} guarding the rooms in {@Rgn:46002$$Raga Evala} of {@Rgn:46001$$the Three Towers} and destroy the {@creature:46#7003#haxuul extractor}. Then get samples." />
-    <String id="4624006" string="Return to the {@Rgn:46020$$Shineroot Chamber} and deliver the collected plant samples to {@linkcreature:246#1024$$Platanok}." />
-    <String id="4624007" string="&quot;Got it.&quot;" />
-    <String id="4624008" string="&quot;It's an honor to serve.&quot;" />
-    <String id="4624009" string="Go meet {@creature:246#1026$$Beranie} at the {@Rgn:46015$$Hexheart Chamber}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4602001" string="Sole Survivor" />
+    <String id="4602002" string="{@Rgn:9012001$$Three Towers Spires}" />
+    <String id="4602003" string="You’ve entered the {@Rgn:9012001$$Three Towers Spires}." />
+    <String id="4602004" string="[{@Rgn:9012001$$Three Towers Spires}] Use the {@linkcreature:246#1502#teleportal} to enter the {@Rgn:9012001$$Three Towers Spires}." />
+    <String id="4602005" string="Start searching." />
+    <String id="4602006" string="Hurry up!" />
+    <String id="4602007" string="Search the tunnels with {@linkcreature:412#2001$$Greyden}." />
+    <String id="4602008" string="&quot;Be careful.&quot;" />
+    <String id="4602009" string="Talk to {@linkcreature:412#2001$$Greyden}." />
+    <String id="4602010" string="Strange Sounds" />
+    <String id="4602011" string="You hear the sounds of battle up ahead." />
+    <String id="4602012" string="Start searching." />
+    <String id="4602013" string="Kill the argons attacking {@linkcreature:412#2005$$Hasmina}." />
+    <String id="4602014" string="&quot;No soldier left behind, right?&quot;" />
+    <String id="4602015" string="Speak with {@linkcreature:412#2005$$Hasmina}." />
+    <String id="4602016" string="Kill the argon gilgash devastator." />
+    <String id="4602017" string="Destroy the argon capsules that supply energy to the {@Rgn:46001$$Three Towers}." />
+    <String id="4602018" string="&quot;Let's go.&quot;" />
+    <String id="4602019" string="Talk to {@linkcreature:412#2006$$Hasmina}." />
+    <String id="4602020" string="&quot;As ordered.&quot;" />
+    <String id="4602021" string="[{@Rgn:46014$$Three Towers Research Base}] Escape using the teleportal and tell {@linkcreature:246#2001$$Adeldur} what happened in the {@Rgn:9012001$$Three Towers Spires}." />
+    <String id="4602022" string="&quot;I'm sorry for your loss.&quot;" />
+    <String id="4602023" string="Talk to {@linkcreature:246#2008$$Hasmina}." />
+    <String id="4602024" string="&quot;I think you're right.&quot;" />
+    <String id="4602025" string="Talk to {@linkcreature:246#2008$$Hasmina}." />
 </StrSheet_Quest>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="93" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="30" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="71" id="100" prevId="0" villagerId="1603">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="71" id="2" prevId="0" villagerId="1603">
          
+         
         <Page social="1">Nós estabelecemos uma recompensa pelos arkais. Algo sobre suas penas, creio eu.&lt;BR&gt;&lt;BR&gt;Mate todos os {@LinkCreature:30#220#teal} e {@LinkCreature:30#210#crimson arkais} que você puder encontrar em {@Rgn:30001$$Balder's Refuge}.&lt;BR&gt;&lt;BR&gt;Aneilon está administrando os pagamentos da recompensa.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="3" prevId="2" villagerId="1091">
          
+         
         <Page social="1">Arkais mortos significam penas para Allemantheia.&lt;BR&gt;&lt;BR&gt;Grande trabalho!</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="4" villagerId="1091">
          
+         
         <Page social="0">Ouça os gritos. É assim que você sabe que os arkais estão por perto.</Page>
+    
     
     </Text>
 </QuestDialog>

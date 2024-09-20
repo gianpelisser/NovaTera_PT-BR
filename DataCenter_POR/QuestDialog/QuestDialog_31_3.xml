@@ -1,88 +1,123 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="31" id="3" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="31" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="233" id="100" prevId="0" villagerId="1008">
          
+         
         <Page social="0">Com a equipe de resgate, você usou o Menhir of Vitality para quebrar o escudo mágico que escondia a entrada da instalação de pesquisa secreta de Thulsa. Você soube pelos soldados de Kaidun que Kaidun sofreu mutação pela magia maligna de Thulsa. Para libertar Kaidun da terrível maldição, você o matou. Antes de morrer, Kaidun lhe disse que Thulsa havia raptado o Core e pediu que você dissesse a Fraya que a amava. Fraya agradeceu a você por ter libertado Kaidun da terrível maldição.</Page>
+    
     
     </Text>
     <Text huntingZoneId="233" id="2" prevId="0" villagerId="1008">
          
+         
         <Page social="5">Essa pedra estranha estava aqui quando chegamos. Ela mantém os mortos-vivos afastados, por isso fizemos uma base perto dela.&lt;BR&gt;&lt;BR&gt;Talvez possamos usá-la para quebrar o escudo.&lt;BR&gt;&lt;BR&gt;Verifique-a enquanto eu procuro outros métodos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="233" id="3" prevId="2" villagerId="1023">
          
+         
         <Page social="5">(Uma escrita estranha brilha na superfície da pedra, emitindo um leve calor).</Page>
+    
     
     </Text>
     <Text huntingZoneId="233" id="4" prevId="3" villagerId="1008">
          
+         
         <Page social="5">O que você fez? O escudo estava lá e depois simplesmente desapareceu! &lt;NEXTPAGEBUTTON&gt;"Bem, eu estava olhando para a pedra..."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Você terá que me contar mais tarde. Não sabemos quanto tempo temos. A &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=2#-28853,-66818,3196&amp;type=1&amp;Scout Target"&gt;entrada do centro de pesquisa&lt;/A&gt;&lt;/font&gt; provavelmente está bem atrás de onde estava aquele escudo! Estaremos logo atrás de você.</Page>
+    
     
     </Text>
     <Text huntingZoneId="471" id="5" prevId="4" villagerId="1001">
          
+         
         <Page social="5">Você consegue sentir isso? Não, é claro que não. Confie em mim, o poder necromântico nesta sala é forte.&lt;BR&gt;&lt;BR&gt;E adivinhe o que mais encontramos? Behrohz, um dos tenentes de confiança de Kaidun. Ele está em mau estado, mas deve ser capaz de responder a perguntas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="471" id="6" prevId="5" villagerId="1010">
          
+         
         <Page social="5">Kaidun descobriu que o Núcleo estava sendo confinado aqui. Mas era uma armadilha...&lt;BR&gt;&lt;BR&gt;Algo nos dominou, tomou nossas mentes. Eles capturaram Kaidun. Tentei sair e alertar Fraya... mas não consegui.&lt;NEXTPAGEBUTTON&gt;"Vamos encontrar Kaidun e os outros."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="3">Obrigado. Meu irmão mais velho {@LinkCreature:471#1002#Akkhan} está lá dentro. Diga a ele que estou a salvo e que você veio resgatá-los.&lt;BR&gt;&lt;BR&gt;Por favor, salve meus companheiros e o General Kaidun.</Page>
+    
     
     </Text>
     <Text huntingZoneId="471" id="7" prevId="6" villagerId="1002">
          
+         
         <Page social="5">Quem... quem é você? O que você quer? Behrohz? Ele está vivo? É tarde demais para mim, mas os outros... Você terá que derrotar {@LinkCreature:471#12#Trayzadius} para salvá-los.</Page>
+    
     
     </Text>
     <Text huntingZoneId="471" id="8" prevId="7" villagerId="1007">
          
+         
         <Page social="5">Obrigado! Mas... onde está Kaidun? Ele não está com você?</Page>
+    
     
     </Text>
     <Text huntingZoneId="471" id="9" prevId="7" villagerId="1008">
          
+         
         <Page social="5">Falhamos com Kaidun. Não conseguimos deter Thulsa....</Page>
+    
     
     </Text>
     <Text huntingZoneId="471" id="10" prevId="8" villagerId="1003">
          
+         
         <Page social="5">Kaidun se foi.&lt;BR&gt;&lt;BR&gt;Thulsa fez uma magia terrível nele, deformando-o e transformando-o em um monstro. Temos que libertá-lo.&lt;NEXTPAGEBUTTON&gt;"Libertá-lo como?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="5">Thulsa o aprisionou. Antes de ser transformado, Kaidun me deu isto. Ele a chamou de "chave líquida". Acho que seu propósito é quebrar o feitiço de aprisionamento. Pegue-a.&lt;BR&gt;&lt;BR&gt;Use a passagem atrás de mim e vá para a esquerda, onde o corredor cruza com outro. Mate {@LinkCreature:471#13#Dalmanak, o Glutão} e destrua o {@LinkCreature:471#93#dispositivo de necromancia}.&lt;BR&gt;&lt;BR&gt;Se essa for a única maneira de libertar a alma de Kaidun, talvez você tenha que matá-lo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="471" id="11" prevId="10" villagerId="1004">
          
+         
         <Page social="4">Obrigado a você. Não há muito tempo. Diga a Fraya que Thulsa tomou o Núcleo. Ele está a caminho de Val Palrada.&lt;NEXTPAGEBUTTON&gt;"Eu o deterei."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="4">Diga a ela que sinto muito. Não é assim que as histórias dos heróis devem terminar. Diga-lhe que eu a amava... que a amo. Sempre.&lt;NEXTPAGEBUTTON&gt;"Eu amarei."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Ela não confia em quase ninguém. Fico feliz que você esteja do lado dela.</Page>
+    
     
     </Text>
     <Text huntingZoneId="73" id="12" prevId="11" villagerId="1110">
          
+         
         <Page social="5">Eu sei que você fez tudo o que podia, mas é tão triste. Não posso suportar dizer a Fraya que ele está morto! &lt;BR&gt;&lt;BR&gt;E Thulsa tem o Núcleo! Se isso se tornar conhecido, haverá um pânico generalizado. Allemantheia cairá no caos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="518" id="13" prevId="12" villagerId="1001">
          
+         
         <Page social="5">Eu conheço essa expressão. Eu mesma a usei, toda vez que tive que dizer a alguma mãe que deixei seu filho morrer em uniforme.&lt;BR&gt;&lt;BR&gt;Não precisa me dizer. O pingente escureceu.&lt;BR&gt;&lt;BR&gt;Ele morreu facilmente?&lt;NEXTPAGEBUTTON&gt;"Ele era muito corajoso."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="4">Obrigada por salvá-lo e por me trazer suas últimas palavras.&lt;NEXTPAGEBUTTON&gt;Entregue a ela o pingente de Kaidun.&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Eu sempre soube que ele era um homem corajoso. Mais corajoso ainda por ter lutado contra aquela maldição, por tê-la enfrentado por tempo suficiente para me contar... seu perdão, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Eu resgatarei o Núcleo... e depois farei com que Thulsa pague pelo que fez.</Page>
+    
     
     </Text>
     <Text huntingZoneId="518" id="14" villagerId="1001">
          
+         
         <Page social="0">Você já encontrou Kaidun? Ele está bem?</Page>
+    
     
     </Text>
 </QuestDialog>

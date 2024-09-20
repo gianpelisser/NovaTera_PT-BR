@@ -1,27 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="1501001" string="Circle the Wagons" />
-    <String id="1501002" string="&quot;I'll leave right away.&quot;" />
-    <String id="1501003" string="Report to Commander Samael." />
-    <String id="1501004" string="&quot;Of course, I'll do what I can.&quot;" />
-    <String id="1501005" string="Report to Prefect Paka in Popolion." />
-    <String id="1501006" string="&quot;It's as good as done.&quot;" />
-    <String id="1501007" string="Look for Brohua at Camp Vigilance." />
-    <String id="1501008" string="Drive back the disturbed constructs around Camp Vigilance." />
-    <String id="1501009" string="&quot;For the federation.&quot;" />
-    <String id="1501010" string="Return to Brohua at Camp Vigilance." />
-    <String id="1501011" string="&quot;I'll make haste.&quot;" />
-    <String id="1501012" string="Go see Centurion Amallen at Camp Retribution." />
-    <String id="1501013" string="&quot;I'd better hurry!&quot;" />
-    <String id="1501014" string="Find Bedoram at Camp Redemption." />
-    <String id="1501015" string="Teleport to the wagon through {@linkcreature:215#1027$$Bedoram} and protect it." />
-    <String id="1501016" string="&quot;For the federation.&quot;" />
-    <String id="1501017" string="Return through the teleportal and report in." />
-    <String id="1501018" string="Blood Sample" />
-    <String id="1501019" string="Take blood samples from the local blood fiends." />
-    <String id="1501020" string="Rush the blood samples to Bedoram at Camp Redemption." />
-    <String id="1501021" string="&quot;Glad to help.&quot;" />
-    <String id="1501022" string="&quot;We can destroy them. I know it.&quot;" />
-    <String id="1501023" string="Get the analysis results." />
-    <String id="1501024" string="Talk to Bedoram again" />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="1385001" string="Always After Me Lucky Charms" />
+    <String id="1385002" string="Use this onslaught charm while standing next to a campfire." />
+    <String id="1385003" string="You can use up to three charms at once." />
+    <String id="1385004" string="Use an onslaught charm. To receive benefits, wait until your Stamina is 100%." />
+    <String id="1385005" string="You have successfully used the onslaught charm!" />
+    <String id="1385006" string="&quot;For the federation!&quot;" />
+    <String id="1385007" string="Successfully used charm. Talk to Milene for additional information." />
 </StrSheet_Quest>

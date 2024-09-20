@@ -1,35 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="16" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="213" id="100" prevId="0" villagerId="1025">
-         
-        <Page social="0">Karascha, the leader of the demons, threatened the safety of the expedition and the successful completion of its objectives.&lt;BR&gt;&lt;BR&gt;You entered Karascha's lair with other soldiers and killed him. Karascha's final words revealed that the demon leader's death was merely to distract you from a greater purpose, and that Karascha will return. To the delight of Leander, you also obtained a document that says Elleon still lives.</Page>
-    
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="0">The demon lord Karascha threatened the safety of the expedition, and the world.&lt;BR&gt;&lt;BR&gt;You entered Karascha's lair and killed him, but his final words suggested that his efforts were only a distraction from a greater evil. You also uncovered a document suggesting that Elleon survived an earlier encounter with Karascha, and is still alive and looking for answers.</Page>
     </Text>
-    <Text huntingZoneId="213" id="2" prevId="0" villagerId="1025">
-         
-        <Page social="4">Everything has led to this moment, &lt;PCNAME&gt;. Karascha commands the forces that defeated the first expedition, but he didn't escape unscathed.&lt;BR&gt;&lt;BR&gt;The coward hides in catacombs beneath the giant tree—if this codex is to be believed.&lt;BR&gt;&lt;BR&gt;Enter the catacombs by way of the {@LinkCreature:213#1015#teleportal} at the shrine to the northwest. Find Karascha—and end him.</Page>
-    
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="4">Everything has led to this moment, &lt;PCNAME&gt;. Karascha cannot be allowed to complete this ritual, no matter the cost. According to the document you recovered, there is a shrine northwest of this camp. Fight your way through any demons you encounter while I marshal our forces.&lt;BR&gt;&lt;BR&gt;We must face Karasha in his lair—and end him.</Page>
     </Text>
-    <Text huntingZoneId="213" id="3" prevId="2" villagerId="1025">
-         
-        <Page social="4">Even at this distance, we felt a shift in the energy of the gorge. Karascha is dead, then?&lt;NEXTPAGEBUTTON&gt;"Karascha had this missive."&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
-        <Page social="4">Another missive? Let's examine this...oh, my! We must get this to Leander at once—Leander!</Page>
-    
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1025">
+        <Page social="4">As soon as you struck the final blow, the demons retreated. We can already feel a shift in the energy of the gorge. &lt;NEXTPAGEBUTTON&gt;"Karascha said some things... "&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Oh? Leander will be here soon, perhaps he should hear this as well. And there he is!</Page>
     </Text>
-    <Text huntingZoneId="213" id="4" prevId="3" villagerId="1037">
-         
-        <Page social="4">Karascha's death sent ripples across the Island of Dawn. We shall remember his death with great satisfaction.&lt;NEXTPAGEBUTTON&gt;"We also found this."&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
-        <Page social="4">What? Another captured document to translate? Let's take a look.&lt;BR&gt;&lt;BR&gt;Hmmm, it's not written by Karascha. What's this? Could it be?&lt;NEXTPAGEBUTTON&gt;"What is it?"&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
-        <Page social="4">It says, "Elleon escaped our grasp. We've notified agents in Arun to find him and silence him once and for all."&lt;BR&gt;&lt;BR&gt;He didn't run off—he was captured! It looks like he got away, though.&lt;BR&gt;&lt;BR&gt;We'll have to tell Adria at once, &lt;PCNAME&gt;. Until we know who to trust, tell no one else.</Page>
-    
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1037">
+        <Page social="4">When Sersine, child of Karas, sent for me, I was hoping to see Elleon. Though I am glad you are safe. What news do you have of my brother?&lt;NEXTPAGEBUTTON&gt;"Here's what happened..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Hmm. One would expect Elleon to be present at such a momentous occasion. But it seems my brother is nowhere to be found. Is there anything else you can tell me? &lt;NEXTPAGEBUTTON&gt;"I did find this scroll..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">(Leander reads the scroll)&lt;BR&gt;&lt;BR&gt;An ancient script, but one known to me. It says, "Elleon escaped our grasp. We've notified agents in Arun to find and silence him once and for all."&lt;BR&gt;&lt;BR&gt;It would seem my brother's absence is not a voluntary one, and he may still be in danger. Follow me back to Tower Base, &lt;PCNAME&gt;. Adria must know of this.</Page>
     </Text>
-    <Text huntingZoneId="64" id="5" prevId="4" villagerId="1001">
-         
-        <Page social="4">Okay. So Elleon was captured. At least we know he got away—if only that could tell us where he went.&lt;BR&gt;&lt;BR&gt;Don't tell anyone about this. We don't need everyone worried sick. Just tell people he walked off—they'll believe that.</Page>
-    
+    <Text id="5" huntingZoneId="64" prevId="4" villagerId="1001">
+        <Page social="4">Okay. So Elleon was captured. At least we know he got away...&lt;BR&gt;&lt;BR&gt;Keep this to yourself for now. If Elleon's captors know you're looking for them, you could be in great danger. We'll figure out a cover story that will work for everyone.</Page>
     </Text>
 </QuestDialog>

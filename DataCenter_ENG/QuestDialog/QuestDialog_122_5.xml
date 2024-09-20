@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="122" id="5" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="122" id="100" prevId="0" villagerId="220020">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="122" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="122" prevId="0" villagerId="220020">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="122" id="2" prevId="0" villagerId="220020">
-         
+    <Text id="2" huntingZoneId="122" prevId="0" villagerId="220020">
         <Page social="1">The Enlightened Union has noticed a marked change in the energy signature of areas with heavy noctenium concentrations. This has produced a serendipitous side effect.&lt;BR&gt;&lt;BR&gt;By utilizing this energy, it appears we can make more powerful weapons.&lt;BR&gt;&lt;BR&gt;My friend, please seek out noctenium fluxes, and collect at least three samples of Arunic noctenium energy from them.</Page>
-    
     </Text>
-    <Text huntingZoneId="122" id="3" prevId="2" villagerId="220020">
-         
+    <Text id="3" huntingZoneId="122" prevId="2" villagerId="220020">
         <Page social="0">This energy is perfect for our aims. The union's researchers will be most pleased.</Page>
-    
     </Text>
-    <Text huntingZoneId="122" id="4" villagerId="220020">
-         
+    <Text id="4" huntingZoneId="122" villagerId="220020">
         <Page social="0">For the betterment of the union!</Page>
-    
     </Text>
 </QuestDialog>

@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="63" id="94" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="63" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0">Você já ouviu falar da Ilha Kumas? As pessoas que vão para lá aparentemente têm alucinações sobre serem atacadas por kumases... ou serem elas mesmas kumases.&lt;BR&gt;&lt;BR&gt;Bem, o lugar está repleto de diamantes gigantes! &lt;BR&gt;&lt;BR&gt;Obter esses diamantes deve ser tão fácil quanto tirar doce de um bebê. Você acha que está à altura do desafio? &lt;BR&gt;&lt;BR&gt;[Kumasylum pode ser acessado pelo menu Battleground Matching].</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="1256">
          
+         
         <Page social="4">Parece que escolhemos bem para o trabalho! O que é isso? Os diamantes são realmente doces? &lt;BR&gt;&lt;BR&gt;Suspiro... Bem, &lt;PCNAME&gt;, não posso dizer que você não fez o que eu pedi. Aqui está o pagamento por seu trabalho.&lt;BR&gt;&lt;BR&gt;Você acha que vale a pena voltar para verificar?</Page>
+    
     
     </Text>
 </QuestDialog>

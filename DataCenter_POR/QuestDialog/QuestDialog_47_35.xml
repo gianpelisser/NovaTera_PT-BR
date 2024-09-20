@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="47" id="35" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="47" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="247" id="100" prevId="0" villagerId="1018">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="247" id="2" prevId="0" villagerId="1018">
          
+         
         <Page social="4">A plantação de árvores na {@Rgn:47015#Spore Emitter Zone} estava indo bem até encontrarmos as fadas de argons.&lt;BR&gt;&lt;BR&gt;Sim, foi o que eu disse. {&lt;@Creature:47#2002#argon faeries}.&lt;BR&gt;&lt;BR&gt;Está ficando pior. Você precisa matá-los.</Page>
+    
     
     </Text>
     <Text huntingZoneId="247" id="3" prevId="2" villagerId="1018">
          
+         
         <Page social="4">Eu já desprezava os argonss de qualquer forma, mas se for possível odiá-los ainda mais por fazerem isso com as fadas, então eu odeio. Obrigado, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
 </QuestDialog>

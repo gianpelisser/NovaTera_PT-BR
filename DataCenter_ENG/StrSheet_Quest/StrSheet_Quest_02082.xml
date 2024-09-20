@@ -1,18 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="60111001" string="The Invalesco Strikes Back" />
-    <String id="60111002" string="The {@Rgn:46001$$Three Towers} are no place to relax. Watch your back." />
-    <String id="60111003" string="While the argons lick their wounds, we'll continue our work." />
-    <String id="60111004" string="" />
-    <String id="60111005" string="" />
-    <String id="60111006" string="" />
-    <String id="60111007" string="" />
-    <String id="60111008" string="Meet {@LinkCreature:246#3001#Hurun} at the {@Rgn:46001$$Three Towers} Research Base." />
-    <String id="60111009" string="&quot;Understood.&quot;" />
-    <String id="60111010" string="Kill the {@LinkCreature:46#201#argonomorph kulkari crushers} near the {@Rgn:46003}." />
-    <String id="60111011" string="Kill the {@LinkCreature:46#202#argonomorph kulkari shamans} near the {@Rgn:46002}." />
-    <String id="60111012" string="Kill the {@LinkCreature:46#203#argonomorph Lokian slayers} near the {@Rgn:46004}." />
-    <String id="60111013" string="Destroy the {@LinkCreature:246#3010#cyasma conduits} installed at the {@Rgn:46003}." />
-    <String id="60111014" string="&quot;Victory for Valkyon!&quot;" />
-    <String id="60111015" string="Report back to {@LinkCreature:246#3001#Hurun}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="60109001" string="Skirmishing for Science" />
+    <String id="60109002" string="Do what you can. The Invalesco appreciates your efforts." />
+    <String id="60109003" string="{@LinkCreature:77#3005#Rahen} sent me the right soldier. Thanks." />
+    <String id="60109004" string="" />
+    <String id="60109005" string="" />
+    <String id="60109006" string="" />
+    <String id="60109007" string="Report to {@LinkCreature:245#3509#Jehnsprin} at {@Rgn:45008$$Field Base Valiance}." />
+    <String id="60109008" string="&quot;I'll do what I can.&quot;" />
+    <String id="60109009" string="Kill {@LinkCreature:45#3003#kelba rippers} near {@Rgn:45008$$Field Base Valiance}." />
+    <String id="60109010" string="Kill the {@LinkCreature:45#3001#argonomorph Lokian archers} near {@Rgn:45008$$Field Base Valiance}." />
+    <String id="60109011" string="Destroy the {@LinkCreature:245#3516#jurnagg column} near {@Rgn:45008$$Field Base Valiance}." />
+    <String id="60109012" string="&quot;Just doing my part.&quot;" />
+    <String id="60109013" string="Report back to {@LinkCreature:245#3509#Jehnsprin}." />
 </StrSheet_Quest>

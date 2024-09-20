@@ -1,38 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="487" id="1" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="203" id="100" prevId="0" villagerId="1007">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="487" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1007">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="203" id="2" prevId="0" villagerId="1007">
-         
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1007">
         <Page social="4">Our scouts gave up their lives for this information.&lt;BR&gt;&lt;BR&gt;The report revealed the location of the &lt;FONT COLOR='#0080FF'&gt;&lt;A href="markmap:loc=7001#119975,25514,2814&amp;type=1&amp;name=Bastion Entrance"&gt;bastion entrance&lt;/A&gt;&lt;/FONT&gt; and gave us the name of their commander—{@LinkCreature:487#101}.&lt;BR&gt;&lt;BR&gt;Get your final briefing from {@LinkCreature:203#1006} in {@Rgn:3005}, and then get in there.</Page>
-    
     </Text>
-    <Text huntingZoneId="203" id="3" prevId="2" villagerId="1006">
-         
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1006">
         <Page social="4">Centurion {@LinkCreature:203#1007} sent you? Good.&lt;BR&gt;&lt;BR&gt;One of our scouts, {@LinkCreature:203#1033}, is in place outside the bastion. He'll point out the entrance. Once you're inside, find {@LinkCreature:487#1111}.&lt;BR&gt;&lt;BR&gt;Let's take the fight to the Scions!</Page>
-    
     </Text>
-    <Text huntingZoneId="203" id="4" prevId="3" villagerId="1033">
-         
+    <Text id="4" huntingZoneId="203" prevId="3" villagerId="1033">
         <Page social="4">Hold it right there!&lt;NEXTPAGEBUTTON&gt;"I'm on your side."&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="9">Sorry, &lt;PCCLASS:lcase&gt;. I'm in a lot of pain, but my eyes are still sharp.&lt;BR&gt;&lt;BR&gt;The entrance is over to the right from here. Take the path on my left to the cave entrance. I've seen the enemies going in and out, probably via a &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7001#119975,25514,2814&amp;type=1&amp;name=Teleportal"&gt;teleportal&lt;/A&gt;&lt;/font&gt;. Grapine's inside in disguise.&lt;BR&gt;&lt;BR&gt;Those wretches killed most of my unit—don't be gentle with them!</Page>
-    
     </Text>
-    <Text huntingZoneId="487" id="5" prevId="4" villagerId="1111">
-         
+    <Text id="5" huntingZoneId="487" prevId="4" villagerId="1111">
         <Page social="4">The Scions are amassing weapons and power. I don't know the whole plan, but Murdranak thinks he's going to govern Arcadia in the name of someone else.&lt;BR&gt;&lt;BR&gt;How did things get so bad?&lt;NEXTPAGEBUTTON&gt;"Why do they amass this power?"&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="0">I've heard too many stories to say for certain, but the most credible ones talk about a ritual—an apotheosis.&lt;BR&gt;&lt;BR&gt;Beware, &lt;PCNAME&gt;—{@LinkCreature:487#101#Murdranak} commands a {@LinkCreature:487#3006#bloodbound vulcan}.&lt;BR&gt;&lt;BR&gt;You'll need to kill the golem {@LinkCreature:487#1006#Soulcrusher} blocking the way first.</Page>
-    
     </Text>
-    <Text huntingZoneId="203" id="6" prevId="5" villagerId="1007">
-         
+    <Text id="6" huntingZoneId="203" prevId="5" villagerId="1007">
         <Page social="4">Their deaths bring me great comfort.&lt;BR&gt;&lt;BR&gt;Dismissed!</Page>
-    
     </Text>
 </QuestDialog>

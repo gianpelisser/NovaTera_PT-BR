@@ -1,10 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4571001" string="(Guilda) Ordens de supressão: argonss Menores" />
-    <String id="4571002" string="Não queremos que eles aumentem suas forças." />
-    <String id="4571003" string="Boa luta, soldado." />
-    <String id="4571004" string="Prova de morte: argonss Menores" />
-    <String id="4571005" string="&quot;Pela federação!&quot;" />
-    <String id="4571006" string="Mate {@LinkCreature:45#1001#kelba chargers}, {@LinkCreature:45#1002#argonomorph dwarf orcans} e {@LinkCreature:45#1003#argonomorph runekeepers} perto da {@Rgn:45002$$Tower Approach}." />
-    <String id="4571007" string="Apresente-se a Laetesha no Pathfinder Post." />
+    <String id="4535001" string="Fortaleza em uma montanha" />
+    <String id="4535002" string="A eliminação dos wendigos facilitará seu caminho." />
+    <String id="4535003" string="Sua ajuda foi inestimável." />
+    <String id="4535004" string="Mate {@creature:45#4004#argonomorph wendigos} nos {@Rgn:45005$$Skyfields}." />
+    <String id="4535005" string="Procure perto da {@Rgn:45012#entrada da fortaleza} e colete uma amostra da fortaleza caída." />
+    <String id="4535006" string="Fragmento da Fortaleza de argons Caída" />
+    <String id="4535007" string="Amostra de fragmento" />
+    <String id="4535008" string="Entregue a amostra para {@creature:245#1029$$Pokara} em {@Rgn:45009$$Camp Insanity}." />
+    <String id="4535009" string="&quot;Eu cuido disso.&quot;" />
+    <String id="4535010" string="&quot;Imediatamente.&quot;" />
+    <String id="4535011" string="Vá até {@Rgn:77001} e se apresente a {@Creature:77#1009$$Borskan}." />
+    <String id="4535012" string="&quot;É claro.&quot;" />
+    <String id="4535013" string="Fale com {@Creature:77#1011$$$Ellisiana}." />
 </StrSheet_Quest>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="33" id="35" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="33" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="233" id="100" prevId="0" villagerId="1008">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="233" id="2" prevId="0" villagerId="1008">
          
+         
         <Page social="4">Todos estão preocupados com os mortos-vivos aqui, mas essa é apenas a parte do problema que podemos ver.&lt;BR&gt;&lt;BR&gt;Acho que descobri como Thulsa está fazendo isso - ele está usando fantasmas invisíveis como um canal para enviar energia escura para os outros mortos-vivos.&lt;BR&gt;&lt;BR&gt;Não podemos lutar contra o que não podemos ver diretamente, mas podemos impedi-los de obter energia em primeiro lugar. Isso significa coletar aetherducts das Câmaras da Miséria Sem Fim. Isso significa você!</Page>
+    
     
     </Text>
     <Text huntingZoneId="233" id="3" prevId="2" villagerId="1008">
          
+         
         <Page social="4">Esses aetherducts não podem mais alimentar os lacaios de Thulsa.&lt;BR&gt;&lt;BR&gt;Talvez eu possa fazer bom uso desse poder. Hmm...</Page>
+    
     
     </Text>
     <Text huntingZoneId="233" id="4" villagerId="1008">
          
+         
         <Page social="0">Vá para as Chambers of Endless Misery (Câmaras de miséria sem fim). O local deve estar repleto de aetherducts.</Page>
+    
     
     </Text>
 </QuestDialog>

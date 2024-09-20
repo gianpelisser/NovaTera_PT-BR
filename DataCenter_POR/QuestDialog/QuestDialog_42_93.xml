@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="42" id="93" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="42" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="242" id="100" prevId="0" villagerId="1033">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="242" id="2" prevId="0" villagerId="1033">
          
+         
         <Page social="4">A luta continua, &lt;PCNAME&gt;. Precisamos de você! &lt;BR&gt;&lt;BR&gt;Enfrente os sobreviventes naga que guardam a Câmara das Almas Poderosas, incluindo {@LinkCreature:42#220#naga zealots}, {@LinkCreature:42#230#Dagonite templars}, {@LinkCreature:42#320#naga fighters}, {@LinkCreature:42#1010#mekonari zealots} e {@LinkCreature:42#1020#mekonari bloodletters}.&lt;BR&gt;&lt;BR&gt;Fale com {@LinkCreature:75#1016#Glasrinne} em Frontera quando sua missão estiver concluída.</Page>
+    
     
     </Text>
     <Text huntingZoneId="75" id="3" prevId="2" villagerId="1016">
          
+         
         <Page social="0">As nagas estão mais fracas, graças a vocês. Mas ainda há muito o que fazer, e espero que você fique por aqui para ajudar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="75" id="4" villagerId="1016">
          
+         
         <Page social="0">Eu nunca disse que seria fácil, mas o que você está fazendo está nos ajudando a permanecer vivos e a fazer o que viemos fazer aqui. Não pare agora.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='utf-8'?>
 <StrSheet_Passivity xmlns="https://vezel.dev/novadrop/dc/StrSheet_Passivity" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Passivity StrSheet_Passivity.xsd">
     <String id="120100" name="Absorve dano com Stand Fast" tooltip="Absorve até $value de dano com a habilidade Stand Fast." />
     <String id="120101" name="Absorve dano com Stand Fast" tooltip="Absorve até $value de dano com a habilidade Stand Fast." />
@@ -4614,6 +4613,7 @@
     <String id="317267" name="Stupefying Blow" tooltip="Blacksmith's Hammerstrike" />
     <String id="317268" name="Stupefying Blow" tooltip="Blacksmith's Hammerstrike" />
     <String id="317269" name="Stupifying Blow (Reaper)" tooltip="Blacksmith's Hammerstrike" />
+    <String id="317270" name="Stupifying Blow (Gunner)" tooltip="Blacksmith's Hammerstrike" />
     <String id="317271" name="Lightning DOT" tooltip="Thunderlash" />
     <String id="317272" name="Lightning DOT" tooltip="Thunderlash" />
     <String id="317273" name="Lightning DOT" tooltip="Thunderlash" />
@@ -4814,6 +4814,16 @@
     <String id="350807" name="T3_Reaper - Increases Skill Damage of Shadow Burst" tooltip="Increases skill damage of Shadow Burst by $value." />
     <String id="350808" name="T3_Reaper - Restores MP on Shadow Lash Strike" tooltip="Restores $value MP when Shadow Lash skill hits target." />
     <String id="350809" name="T3_Reaper - Decreases cooldown of Soul Reversal" tooltip="Decreases cooldown of Soul Reversal by $value." />
+    <String id="350900" name="Equipment_armor_randomlygiven_T3_Increases Skill Damage" tooltip="Increases skill damage of Blast by $value." />
+    <String id="350901" name="Equipment_armor_randomlygiven_T3_Cooldown Decreases" tooltip="Decreases cooldown of Bombardment by $value." />
+    <String id="350902" name="Equipment_armor_randomlygiven_T3_Skill Damage Increases" tooltip="Increases skill damage of Scattershot by $value." />
+    <String id="350903" name="Equipment_armor_randomlygiven_T3_Replenishes MP When It Hits Target" tooltip="Replenishes $value MP when Scattershot hits a target." />
+    <String id="350904" name="Equipment_armor_randomlygiven_T3_Cooldown Decreases" tooltip="Decreases cooldown of Point Blank by $value." />
+    <String id="350905" name="Equipment_armor_randomlygiven_T3_Skill Damage Increases" tooltip="Reduces Willpower cost of Burst Fire by 5." />
+    <String id="350906" name="Equipment_armor_randomlygiven_T3_Skill Damage Increases" tooltip="Increases skill damage of Arcane Barrage by $value." />
+    <String id="350907" name="Equipment_armor_randomlygiven_T3_Cooldown Decreases" tooltip="Decreases cooldown of Rocket Jump by $value." />
+    <String id="350908" name="Equipment_armor_randomlygiven_T3_Abnormality Duration Increases" tooltip="Increases duration of Arc Bomb by 20%." />
+    <String id="350909" name="Equipment_armor_randomlygiven_T3_Cooldown Decreases" tooltip="Decreases cooldown of Rolling Reload by $value." />
     <String id="410000" name="[Random] Weapon_more damage to enraged monster" tooltip="Cause $value mais dano ao atacar monstros enfurecidos (Rage)." />
     <String id="410010" name="[Random] Weapon_more damage to all" tooltip="Do $value more damage when you attack." />
     <String id="410020" name="[Random] Weapon_skill cooldown decrease" tooltip="Decreases cooldown by $value." />
@@ -4868,6 +4878,24 @@
     <String id="430040" name="[Random] Necklace_Increases crit rate" tooltip="Aumenta sua taxa de crítico em $value." />
     <String id="430050" name="[Random] Necklace_Increases healing" tooltip="Aumenta a cura em $value." />
     <String id="430060" name="[Random] Necklace_more aggro" tooltip="Seus ataques geram $value mais fator de aggro." />
+    <String id="435000" name="[Random] Necklace_Ring_Increases crit rate" tooltip="Increases Crit Rate by $value." />
+    <String id="435001" name="[Random] Necklace_Ring_Increase Crit Rate" tooltip="Increases Crit Rate by $value." />
+    <String id="435002" name="[Random] Necklace_Ring_Increase Crit Rate" tooltip="Increases Crit Rate by $value." />
+    <String id="435003" name="[Random] Necklace_Ring_Increase Crit Damage" tooltip="Increase Crit Rate by +$value." />
+    <String id="435004" name="[Random] Necklace_Ring_Increase Crit Damage" tooltip="Increase Crit Rate by +$value." />
+    <String id="435005" name="[Random] Necklace_Ring_Increase Crit Damage" tooltip="Increase Crit Rate by +$value." />
+    <String id="435006" name="[Random] Necklace_Ring_Increase Power" tooltip="Increases Power by $value." />
+    <String id="435007" name="[Random] Necklace_Ring_Increase Power" tooltip="Increases Power by $value." />
+    <String id="435008" name="[Random] Necklace_Ring_Increase Power" tooltip="Increases Power by $value." />
+    <String id="435009" name="[Random] Necklace_Ring_Increase Endurance" tooltip="Increases Endurance by $value." />
+    <String id="435010" name="[Random] Necklace_Ring_Increase Endurance" tooltip="Increases Endurance by $value." />
+    <String id="435011" name="[Random] Necklace_Ring_Increase Endurance" tooltip="Increases Endurance by $value." />
+    <String id="435012" name="[Random] Earring_Ring_Increases Crit Resist" tooltip="Increases Crit Resist by $value." />
+    <String id="435013" name="[Random] Earring_Ring_Increases Crit Resist" tooltip="Increases Crit Resist by $value." />
+    <String id="435014" name="[Random] Earring_Ring_Increases Crit Resist" tooltip="Increases Crit Resist by $value." />
+    <String id="435015" name="[Random] Earring_Ring_Restores MP every 5 seconds." tooltip="Replenishes 0.8% of total MP every 5 seconds." />
+    <String id="435016" name="[Random] Earring_Ring_Restores MP every 5 seconds." tooltip="Replenishes 0.8% of total MP every 5 seconds." />
+    <String id="435017" name="[Random] Earring_Ring_Restores MP every 5 seconds." tooltip="Replenishes 0.8% of total MP every 5 seconds." />
     <String id="440000" name="[Random] Ring_Increases weakening effects on opponents" tooltip="Increases weakening effects on opponents by $value." />
     <String id="440010" name="[Random] Ring_Increases periodic damage on opponents" tooltip="Increases periodic damage on opponents by $value." />
     <String id="440020" name="[Random] Ring_Increases stun effects on opponents" tooltip="Increases stun effects on opponents by $value." />
@@ -4875,6 +4903,20 @@
     <String id="440040" name="[Random] Ring_Increases your crit rate" tooltip="Aumenta sua taxa de crítico em $value." />
     <String id="440050" name="[Random] Ring_Restores MP every 5 seconds" tooltip="Restores 0.4% of your MP every 5 seconds." />
     <String id="440060" name="[Random] Ring_Increases healing" tooltip="Aumenta a cura em $value." />
+    <String id="445000" name="[Random] Earring_Increases Endurance" tooltip="Increases Endurance by $value." />
+    <String id="445001" name="[Random] Earring_Increases Endurance" tooltip="Increases Endurance by $value." />
+    <String id="445002" name="[Random] Earring_Increases Endurance" tooltip="Increases Endurance by $value." />
+    <String id="445003" name="[Random] Earring_Increases Crit Resist" tooltip="Increases Crit Resist by $value." />
+    <String id="445004" name="[Random] Earring_Increases Crit Resist" tooltip="Increases Crit Resist by $value." />
+    <String id="445005" name="[Random] Earring_Increases Crit Resist" tooltip="Increases Crit Resist by $value." />
+    <String id="445006" name="[Random] Earring_Raises max HP" tooltip="Raises max HP by $value." />
+    <String id="445007" name="[Random] Earring_Raises max HP" tooltip="Raises max HP by $value." />
+    <String id="445008" name="[Random] Earring_Raises max HP" tooltip="Raises max HP by $value." />
+    <String id="445009" name="[Random] Earring_Restores HP every 5 seconds." tooltip="Recovers 0.48% of max HP every 5 seconds." />
+    <String id="445010" name="[Random] Earring_Restores HP every 5 seconds." tooltip="Recovers 0.48% of max HP every 5 seconds." />
+    <String id="445011" name="[Random] Earring_Restores HP every 5 seconds." tooltip="Recovers 0.48% of max HP every 5 seconds." />
+    <String id="445012" name="[Random] Earring_Decreases duration of stun" tooltip="Decreases duration of stun effects by 10%" />
+    <String id="445013" name="[Random] Earring_Decreases poison damage" tooltip="Decreases poison damage by 15%" />
     <String id="455000" name="[Random] Earring_Resistance to weakening effects increases" tooltip="Resistance to weakening effects increases by $value." />
     <String id="455010" name="[Random] Earring_Resist to periodic damage increases" tooltip="Resist to periodic damage increases by $value." />
     <String id="455020" name="[Random] Earring_Resist to stun increases" tooltip="Resist to stun increases by $value." />
@@ -5167,6 +5209,8 @@
     <String id="526020" name="Roupa interior_Passividade não utilizada" tooltip="Aumenta a resistência a efeitos de enfraquecimento em $value." />
     <String id="526021" name="Roupa interior_Passividade não utilizada" tooltip="Aumenta a resistência a efeitos de enfraquecimento em $value." />
     <String id="526022" name="Roupa interior_Passividade não utilizada" tooltip="Aumenta a resistência a efeitos de enfraquecimento em $value." />
+    <String id="526023" name="[Fixed] innerwear_Increases Endurance (Rare)" tooltip="Increases Endurance by $value." />
+    <String id="526024" name="[Fixed] innerwear_Restores MP every 5 seconds (Rare)" tooltip="Replenishes $value MP every 5 seconds." />
     <String id="526030" name="Roupa interior_Passividade não utilizada" tooltip="Aumenta a resistência a efeitos de enfraquecimento em $value." />
     <String id="526031" name="Roupa interior_Passividade não utilizada" tooltip="Aumenta a resistência a efeitos de enfraquecimento em $value." />
     <String id="526032" name="Roupa interior_Passividade não utilizada" tooltip="Aumenta a resistência a efeitos de enfraquecimento em $value." />
@@ -5198,6 +5242,12 @@
     <String id="535054" name="[Aumento corrigido] Colar_Desenvolver mais agressividade no ataque" tooltip="Seus ataques atraem $value mais aggro." />
     <String id="535055" name="[Aumento fixo] Colar_Aumentar poder" tooltip="Aumenta Poder em $value." />
     <String id="535056" name="[Aumento fixo] Colar_Aumento de cura" tooltip="Aumenta a cura em $value." />
+    <String id="535057" name="[Fixed Increase] Necklace_Increase crit resistance" tooltip="Increases Crit Resist by $value." />
+    <String id="535058" name="[Fixed Increase] Necklace_Increase Attack Speed" tooltip="Increases Attack Speed." />
+    <String id="535059" name="[Fixed Increase] Necklace_Draw more aggro on attack" tooltip="Attacks draw $value more aggro." />
+    <String id="535060" name="[Fixed Increase] Necklace_Increase crit rate" tooltip="Increases Crit Rate by $value." />
+    <String id="535061" name="[Fixed Increase] Necklace_Increase Power" tooltip="Increases Power by $value." />
+    <String id="535062" name="[Fixed Increase] Necklace_Increase Healing" tooltip="Recovers $value HP." />
     <String id="540000" name="[Corrigido] anel_Aumenta os efeitos de enfraquecimento nos oponentes" tooltip="Aumenta os efeitos de enfraquecimento nos oponentes em $value." />
     <String id="540010" name="[Corrigido] anel_Aumenta o dano periódico nos oponentes" tooltip="Aumenta o dano periódico nos oponentes em $value." />
     <String id="540020" name="[Corrigido] anel_Aumenta os efeitos de atordoamento nos oponentes" tooltip="Aumenta os efeitos de atordoamento nos oponentes em $value." />
@@ -5233,6 +5283,14 @@
     <String id="540561" name="[Aumento fixo] Anel_Aumentar velocidade de ataque (velocidade de ataque em campo de batalha difícil)" tooltip="Aumenta a velocidade de ataque em $value." />
     <String id="540562" name="[Aumento fixo] Anel_Aumentar Poder (Critério de campo de batalha normal)" tooltip="Aumenta Poder em $value." />
     <String id="540563" name="[Aumento fixo] Anel_Aumentar Poder (crítico difícil no campo de batalha)" tooltip="Aumenta Poder em $value." />
+    <String id="540564" name="[Fixed Increase] Ring_Draw more aggro on attack" tooltip="Attacks draw $value more aggro." />
+    <String id="540565" name="[Fixed Increase] Ring_Draw more aggro on attack" tooltip="Attacks draw $value more aggro." />
+    <String id="540566" name="[Fixed Increase] Ring_Increase crit rate" tooltip="Increases Crit Rate by $value." />
+    <String id="540567" name="[Fixed Increase] Ring_Increase crit rate" tooltip="Increases Crit Rate by $value." />
+    <String id="540568" name="[Fixed Increase] Ring_Increase Power (81.25%)" tooltip="Increases Power by $value." />
+    <String id="540569" name="[Fixed Increase] Ring_Increase Power" tooltip="Increases Power by $value." />
+    <String id="540570" name="[Fixed Increase] Ring_Increases healing12" tooltip="Recovers $value HP." />
+    <String id="540571" name="[Fixed Increase] Ring_Increases healing14" tooltip="Recovers $value HP." />
     <String id="555000" name="[Corrigido] brinco_Aumenta os efeitos de enfraquecimento nos oponentes" tooltip="A resistência aos efeitos de enfraquecimento aumenta em $value." />
     <String id="555010" name="[Corrigido] brinco_Aumenta o dano periódico nos oponentes" tooltip="A resistência a danos periódicos aumenta em $value." />
     <String id="555020" name="[Corrigido] brinco_Aumenta os efeitos de atordoamento nos oponentes" tooltip="A resistência ao atordoamento aumenta em $value." />
@@ -5269,6 +5327,16 @@
     <String id="555561" name="[Aumento fixo] Brincos_Aumento da taxa de críticos (Campo de batalha difícil)" tooltip="Aumenta a chance de crítico em $value." />
     <String id="555562" name="[Aumento fixo] Brincos_Aumento da resistência a críticos (campo de batalha normal)" tooltip="Aumenta a resistência a críticos em $value." />
     <String id="555563" name="[Aumento fixo] Brincos_Aumento da resistência a críticos (Campo de batalha difícil)" tooltip="Aumenta a resistência a críticos em $value." />
+    <String id="555564" name="[Fixed Increase] Earring_Increase crit resistance" tooltip="Increases Crit Resist by $value." />
+    <String id="555565" name="[Fixed Increase] Ring_Increase crit resistance" tooltip="Increases Crit Resist by $value." />
+    <String id="555566" name="[Fixed Increase] Earring_Raise max HP" tooltip="Raises max HP by $value." />
+    <String id="555567" name="[Fixed Increase] Earring_Raise max HP" tooltip="Raises max HP by $value." />
+    <String id="555568" name="[Fixed Increase] Earring_Increase crit rate" tooltip="Increases Crit Rate by $value." />
+    <String id="555569" name="[Fixed Increase] Earring_Increase crit rate" tooltip="Increases Crit Rate by $value." />
+    <String id="555570" name="[Fixed Increase] Earring_Increase Power" tooltip="Increases Power by $value." />
+    <String id="555571" name="[Fixed Increase] Earring_Increase Power" tooltip="Increases Power by $value." />
+    <String id="555572" name="[Fixed Increase] Earring_Heals additional HP" tooltip="Increases HP recovery by $value." />
+    <String id="555573" name="[Fixed Increase] Earring_Heals additional HP" tooltip="Increases HP recovery by $value." />
     <String id="560000" name="[Corrigido] set_increase damage" tooltip="Inflige um dano extra de $value." />
     <String id="560001" name="[Corrigido] set_increase recovery" tooltip="Aumenta a cura em $value." />
     <String id="560010" name="[Corrigido] set_increase attack speed" tooltip="A velocidade de ataque aumenta em $value." />
@@ -5449,6 +5517,22 @@
     <String id="570110" name="[14 Summer Highest Equipment] Conjunto_Aumenta a resistência" tooltip="Aumenta a resistência em $value." />
     <String id="570111" name="[14 Summer Highest Equipment] Conjunto_Aumenta Poder" tooltip="Aumenta Poder em $value." />
     <String id="570112" name="[14 Summer Highest Equipment] Conjunto_Aumenta a resistência" tooltip="Aumenta a resistência em $value." />
+    <String id="570200" name="Early_15_Accessory_Draws More Aggro" tooltip="Attacks draw $value more aggro." />
+    <String id="570201" name="Early_15_Accessory_Increases Attack Speed" tooltip="Increases Attack Speed by $value." />
+    <String id="570202" name="Early_15_Accessory_Increases Endurance" tooltip="Increases Endurance by $value." />
+    <String id="570203" name="Early_15_Accessory_Draws More Agggro" tooltip="Your attacks draw $value more aggro." />
+    <String id="570204" name="Early_15_Accessory_Increases Crit Rate" tooltip="Increases Crit Rate by $value." />
+    <String id="570205" name="Early_15_Accessory_Increases Attack Speed" tooltip="Increases Attack Speed by $value." />
+    <String id="570206" name="Early_15_Accessory_Increases Endurance" tooltip="Increases Endurance by $value." />
+    <String id="570207" name="The_First_Half_of_'15_Accessory_Set_Increases Crit Rate" tooltip="Increases Power by $value." />
+    <String id="570208" name="Early_15_Accessory_Increases Power" tooltip="Increases Power by $value." />
+    <String id="570209" name="The_First_Half_of_'15_Accessory_Set_Increases Attack Speed" tooltip="Increases Endurance by $value." />
+    <String id="570210" name="Early_15_Accessory_Increases Endurance" tooltip="Increases Endurance by $value." />
+    <String id="570211" name="Early_15_Accessory_Increases Power" tooltip="Increases Power by $value." />
+    <String id="570212" name="Early_15_Accessory_Increases HP Healing" tooltip="Increases HP recovery by $value." />
+    <String id="570213" name="Early_15_Accessory_Increases Attack Speed" tooltip="Increases Attack Speed by $value." />
+    <String id="570214" name="Early_15_Accessory_Increases Endurance" tooltip="Increases Endurance by $value." />
+    <String id="570215" name="Early_15_Accessory_Increases HP Healing" tooltip="Increases HP recovery by $value." />
     <String id="1213000" name="Aumentar a velocidade de ataque" tooltip="Aumenta a velocidade de ataque em $value." />
     <String id="1213100" name="Causa mais dano PvP" tooltip="Aumenta o dano PvP causado em $value." />
     <String id="1213200" name="Causa mais dano PvP pela retaguarda" tooltip="Aumenta o dano de PvP causado pelas costas em $value." />
@@ -6043,6 +6127,15 @@
     <String id="3100000" name="hidden: equipment_armor_chest_4% menos dano do Jogador" />
     <String id="3100010" name="hidden: equipment_armor_glove_3% menos dano do Jogador" />
     <String id="3100020" name="hidden: equipment_armor_shoes_3% menos dano do Jogador" />
+    <String id="3172610" name="Golpe Estonteante" tooltip="Blacksmith's Hammer Swing: Vulnerabilidade" />
+    <String id="3172620" name="Golpe Estonteante" tooltip="Blacksmith's Hammer Swing: Vulnerabilidade" />
+    <String id="3172630" name="Golpe Estonteante" tooltip="Blacksmith's Hammer Swing: Vulnerabilidade" />
+    <String id="3172640" name="Golpe Estonteante" tooltip="Blacksmith's Hammer Swing: Vulnerabilidade" />
+    <String id="3172650" name="Golpe Estonteante" tooltip="Blacksmith's Hammer Swing: Vulnerabilidade" />
+    <String id="3172660" name="Golpe Estonteante" tooltip="Blacksmith's Hammer Swing: Vulnerabilidade" />
+    <String id="3172670" name="Golpe Estonteante" tooltip="Blacksmith's Hammer Swing: Vulnerabilidade" />
+    <String id="3172680" name="Golpe Estonteante" tooltip="Blacksmith's Hammer Swing: Vulnerabilidade" />
+    <String id="3172690" name="Golpe Estonteante (Reaper)" tooltip="Blacksmith's Hammer Swing: Vulnerabilidade" />
     <String id="4010000" name="Runas Entalhadas em armadura - Aterrado I" tooltip="Runas Entalhadas: Grounded I" />
     <String id="4010001" name="Não está em uso" tooltip="Desativar" />
     <String id="4010002" name="Armor Etching - Relentless I" tooltip="Runas Entalhadas: Relentless I" />
@@ -6166,52 +6259,53 @@
     <String id="4010220" name="Runas Entalhadas de Arma Efêmera: Threatening I" tooltip="Runas Entalhadas: Threatening I" />
     <String id="4010221" name="Runas Entalhadas de Arma Efêmera: Energetic I" tooltip="Runas Entalhadas efêmera: Energetic I" />
     <String id="4010222" name="(Invisível) - Ataque rápido I" />
-	
-	
-		
-	
     <String id="4010223" name="Aumento do dano a enfurecidos +7%" tooltip="Causa $value a mais de dano quando você ataca monstros enfurecidos." />
     <String id="4010224" name="aumento da probabilidade de acerto crítico em 12" tooltip="Aumenta sua taxa de críticos em $value." />
-	
-	
-	
-	<String id="4010225" name="Amuleto: aumento da velocidade de ataque +4" tooltip="Aumenta a velocidade de ataque em $value." />
-	<String id="4010226" name="Amuleto: aumenta a probabilidade de acerto crítico em 5" tooltip="Aumenta sua taxa de críticos em $value." />
-	<String id="4010227" name="Amuleto: aumento da força em 5" tooltip="Aumenta Poder em $value." />
-	<String id="4010228" name="Anel: aumenta a probabilidade de acerto crítico em 18" tooltip="Aumenta sua taxa de críticos em $value." />
-	<String id="4010229" name="Brinco: aumento da probabilidade de acerto crítico em 8" tooltip="Aumenta sua taxa de críticos em $value." />
+    <String id="4010225" name="Amuleto: aumento da velocidade de ataque +4" tooltip="Aumenta a velocidade de ataque em $value." />
+    <String id="4010226" name="Amuleto: aumenta a probabilidade de acerto crítico em 5" tooltip="Aumenta sua taxa de críticos em $value." />
+    <String id="4010227" name="Amuleto: aumento da força em 5" tooltip="Aumenta Poder em $value." />
+    <String id="4010228" name="Anel: aumenta a probabilidade de acerto crítico em 18" tooltip="Aumenta sua taxa de críticos em $value." />
+    <String id="4010229" name="Brinco: aumento da probabilidade de acerto crítico em 8" tooltip="Aumenta sua taxa de críticos em $value." />
     <String id="4010230" name="Aumenta a quantidade máxima de MP" tooltip="Aumenta o MP máximo em $value." />
     <String id="4010231" name="Aumenta a quantidade máxima de MP" tooltip="Aumenta o MP máximo em $value." />
-	<String id="4010232" name="Aumenta a quantidade máxima de HP" tooltip="Aumenta o HP máximo em $value." />
-
-
- 
-	
-	<String id="4010233" name="aumento do dano de acerto crítico em 0,04" tooltip="Aumenta o dano crítico em +$value." />
-	<String id="4010234" name="Aumento do dano de acerto crítico em 0,06" tooltip="Aumenta o dano crítico em +$value." />
-	<String id="4010235" name="aumento da probabilidade de acerto crítico em 3" tooltip="Aumenta sua taxa de críticos em $value." />
+    <String id="4010232" name="Aumenta a quantidade máxima de HP" tooltip="Aumenta o HP máximo em $value." />
+    <String id="4010233" name="aumento do dano de acerto crítico em 0,04" tooltip="Aumenta o dano crítico em +$value." />
+    <String id="4010234" name="Aumento do dano de acerto crítico em 0,06" tooltip="Aumenta o dano crítico em +$value." />
+    <String id="4010235" name="aumento da probabilidade de acerto crítico em 3" tooltip="Aumenta sua taxa de críticos em $value." />
     <String id="4010236" name="aumento da probabilidade de acerto crítico em 4" tooltip="Aumenta sua taxa de críticos em $value." />
     <String id="4010237" name="Aumento da força em 2" tooltip="Aumenta Poder em $value." />
     <String id="4010238" name="Aumento da força em 3" tooltip="Aumenta Poder em $value." />
-	<String id="4010239" name="redução do tempo de recarga das habilidades em 2%" tooltip="Diminui o tempo de recarga em $value." />
-	<String id="4010240" name="Aumento da resistência +3" tooltip="Aumenta a resistência em $value." />
-
-
-
-		
-	<String id="4010241" name="Aumento da resistência +2" tooltip="Aumenta a resistência em $value." />
+    <String id="4010239" name="redução do tempo de recarga das habilidades em 2%" tooltip="Diminui o tempo de recarga em $value." />
+    <String id="4010240" name="Aumento da resistência +3" tooltip="Aumenta a resistência em $value." />
+    <String id="4010241" name="Aumento da resistência +2" tooltip="Aumenta a resistência em $value." />
     <String id="4010242" name="Aumento da eficiência do tratamento +2%" tooltip="Aumenta a restauração de HP em $value." />
     <String id="4010243" name="Aumento da eficiência do tratamento +5%" tooltip="Aumenta a restauração de HP em $value." />
     <String id="4010244" name="Aumenta a quantidade máxima de HP em +2%" tooltip="Aumenta o HP máximo em $value." />
     <String id="4010245" name="Aumenta a quantidade máxima de HP em +5%" tooltip="Aumenta o HP máximo em $value." />
-	
-		
-	<String id="4010246" name="Redução da duração do atordoamento -15" tooltip="Diminui a duração dos efeitos de atordoamento em 15%" />
-	<String id="4010247" name="Causa mais dano no modo PvP +12" tooltip="Aumenta o dano PvP causado em $value." />
-	<String id="4010252" name="Causa mais dano no modo PvP +4" tooltip="Aumenta o dano PvP causado em $value." />
+    <String id="4010246" name="Redução da duração do atordoamento -15" tooltip="Diminui a duração dos efeitos de atordoamento em 15%" />
+    <String id="4010247" name="Causa mais dano no modo PvP +12" tooltip="Aumenta o dano PvP causado em $value." />
     <String id="4010248" name="Reduz o dano recebido no modo PvP -5" tooltip="Diminui o dano recebido em PvP em $value." />
     <String id="4010249" name="Aumento da resistência a impactos críticos +15" tooltip="Aumenta a resistência a críticos em $value." />
-	<String id="4010250" name="Aumento da resistência a impactos críticos +20" tooltip="Aumenta a resistência a críticos em $value." />
-	<String id="4010251" name="aumento da velocidade de ataque +3" tooltip="Aumenta a velocidade de ataque em $value." />
-	
+    <String id="4010250" name="Aumento da resistência a impactos críticos +20" tooltip="Aumenta a resistência a críticos em $value." />
+    <String id="4010251" name="aumento da velocidade de ataque +3" tooltip="Aumenta a velocidade de ataque em $value." />
+    <String id="4010252" name="Causa mais dano no modo PvP +4" tooltip="Aumenta o dano PvP causado em $value." />
+    <String id="4010253" name="Increased Critical Strike Resistance +3" tooltip="+ $value to Critical Strike Resistance." />
+    <String id="4010254" name="Increased Critical Strike Resistance +5" tooltip="+ $value to Critical Strike Resistance." />
+    <String id="4010255" name="Increased Critical Strike Resistance +7" tooltip="+ $value to Critical Strike Resistance." />
+    <String id="4010256" name="cdr per circle" tooltip="-2% to the cooldown of the &quot;Circle of Regeneration&quot; skill." />
+    <String id="4010257" name="cdr per circle" tooltip="-3% to the cooldown of the &quot;Circle of Regeneration&quot; skill." />
+    <String id="4010258" name="cdr per circle" tooltip="-4% to the cooldown of the &quot;Circle of Regeneration&quot; skill." />
+    <String id="4010259" name="cdr per minion" tooltip="-2% to the cooldown of the &quot;Minion Avenger&quot; skill." />
+    <String id="4010260" name="cdr per minion" tooltip="-3% to Minion Avenger cooldown." />
+    <String id="4010261" name="cdr per minion" tooltip="-4% to Minion Avenger cooldown." />
+    <String id="4010262" name="increased critical strike chance by 20" tooltip="+ $value to critical strike chance." />
+    <String id="4010263" name="increased critical strike damage by 0.6" tooltip="+ $value to critical strike damage." />
+    <String id="4010264" name="increased critical strike chance by 16" tooltip="+ $value to critical strike chance." />
+    <String id="4010265" name="Increased Strength by 9" tooltip="+ $value to Strength." />
+    <String id="4010266" name="Increases Max HP by 7.2%" tooltip="+ $value to Max HP." />
+    <String id="4010267" name="Increased Attack Speed by 1.5" tooltip="+ $value to Attack Speed." />
+    <String id="4010268" name="Ring:Increased Critical Strike Chance by 10" tooltip="+ $value to Critical Strike Chance." />
+    <String id="40100530" name="Created Effect: Hurricane" tooltip="Blacksmith's Hammer Slash: Shatter" />
+    <String id="40100531" name="Created Effect: Hurricane" tooltip="Blacksmith's Hammer Slash: Vulnerability" />
+    <String id="40102390" name="1% reduced skill cooldown" tooltip="+ $value to skill cooldown speed." />
 </StrSheet_Passivity>

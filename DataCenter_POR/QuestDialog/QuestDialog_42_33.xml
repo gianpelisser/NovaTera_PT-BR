@@ -1,39 +1,53 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="42" id="33" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="42" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="242" id="100" prevId="0" villagerId="1006">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="242" id="2" prevId="0" villagerId="1006">
          
+         
         <Page social="5">Mostre essas penas para {@LinkCreature:242#1034#Penucha}. Ele deve ser capaz de dizer com certeza se são mekonari.</Page>
+    
     
     </Text>
     <Text huntingZoneId="242" id="3" prevId="2" villagerId="1034">
          
+         
         <Page social="5">Sim, essas são penas de mekonari. Mas não são penas quaisquer, veja bem. São penas de ponta de asa inscritas, do tipo que são trocadas em uma cerimônia de juramento.&lt;BR&gt;&lt;BR&gt;Se você encontrou essas penas aqui, isso pode significar que os mekonari fizeram um juramento a alguém neste lugar, possivelmente os nagas que estavam carregando as penas.&lt;BR&gt;&lt;BR&gt;As perguntas perturbadoras - mas para as quais você deve encontrar as respostas - são... quem? E por quê?</Page>
+    
     
     </Text>
     <Text huntingZoneId="242" id="4" prevId="3" villagerId="1006">
          
+         
         <Page social="5">Então, agora temos o mekonaris na mistura. Ótimo. Suponho que você não esteja disposto a matar mais alguns {@LinkCreature:42#1020#mekonari bloodletters}? E alguns {@LinkCreature:42#230#Dagonite templars}? Se você encontrar alguma prova dessa aliança entre eles, informe aqui imediatamente.</Page>
+    
     
     </Text>
     <Text huntingZoneId="242" id="5" prevId="4" villagerId="1006">
          
+         
         <Page social="4">Então essa é a aliança escrita entre os nagas e os mekonaris? Esse é exatamente o tipo de evidência que estávamos esperando encontrar. Muito bem, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Diga a Darim, no terceiro nível, tudo o que discutimos aqui. Ele é muito inteligente, esse Darim.</Page>
+    
     
     </Text>
     <Text huntingZoneId="242" id="6" villagerId="1006">
          
+         
         <Page social="0">Encontrou o que estávamos procurando? Precisamos de provas de que os nagas e os mekonaris têm uma aliança.</Page>
+    
     
     </Text>
     <Text huntingZoneId="242" id="7" prevId="5" villagerId="1035">
          
+         
         <Page social="5">Mekonaris e nagas? Pior e pior. Talvez isso explique por que os nagas têm sido tão corajosos ultimamente.&lt;BR&gt;&lt;BR&gt;Dê-me um minuto para pensar sobre isso e elaborar um plano.</Page>
+    
     
     </Text>
 </QuestDialog>

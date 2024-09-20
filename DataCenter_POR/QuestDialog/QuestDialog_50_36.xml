@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="50" id="36" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="50" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="76" id="100" prevId="0" villagerId="1033">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="76" id="2" prevId="0" villagerId="1033">
          
+         
         <Page social="4">Sei que você é um &lt;PCCLASS:lcase&gt; ocupado, mas {@LinkCreature:76#1018} pediu para falar com você se tiver um momento.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:76#1036} partiu para Kaiator esta manhã. Estou muito orgulhoso da persistência dele e grato por sua generosidade.</Page>
+    
     
     </Text>
     <Text huntingZoneId="76" id="3" prevId="2" villagerId="1018">
          
+         
         <Page social="6">Quando {@LinkCreature:76#1036} veio pela primeira vez para {@Rgn:76001}, eu admirava sua determinação em ter sucesso. Se ele tivesse crescido em Castanica, sem dúvida teria tido uma cerimônia de cadinho espetacular.&lt;BR&gt;&lt;BR&gt;Como prova de meu respeito, poderia dar a {@LinkCreature:76#1036} este punho de espada?</Page>
+    
     
     </Text>
     <Text huntingZoneId="84" id="4" prevId="3" villagerId="1222">
          
+         
         <Page social="6">Estou muito nervoso. Eles vão realizar meu hushang em uma hora - um só para mim. A própria Kaia me deu uma bênção. Ela disse que eu tenho uma altitude real.&lt;BR&gt;&lt;BR&gt;Eu posso ter mais sorte? &lt;NEXTPAGEBUTTON&gt;"Dê uma olhada nisto e responda à pergunta."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="6">Uau! É incrível. Vou adicioná-la à minha espada para que eu nunca me esqueça de todos que me ajudaram a conquistar meu hushang.&lt;BR&gt;&lt;BR&gt;Obrigado, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,31 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="6" id="3" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="206" id="100" prevId="0" villagerId="1021">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1021">
         <Page social="0">With the kulkari threat blunted, the federation turned its attention to an outpost controlled by the Scions of Lok.&lt;BR&gt;&lt;BR&gt;Isla, who's kept tabs on the Scions, ordered you to hurt the local Scion garrison and take out their justicars, reavers, and mystics. You did so and returned to Isla, who postulated that the Scions of Lok are gathering power for a specific purpose—one that remains a mystery.</Page>
-    
     </Text>
-    <Text huntingZoneId="206" id="2" prevId="0" villagerId="1021">
-         
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1021">
         <Page social="4">We have an officer keeping tabs on the Scions of Lok. This information would certainly be useful to her.&lt;BR&gt;&lt;BR&gt;Report this to Isla at the Valselok Shrine.</Page>
-    
     </Text>
-    <Text huntingZoneId="206" id="3" prevId="2" villagerId="1042">
-         
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1042">
         <Page social="4">These Scions are keeping busy. They've blocked this pass for nearly a week. Whatever they're doing inside, they don't want others to see it.&lt;NEXTPAGEBUTTON&gt;"We must get in there!"&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="0">Agreed, but we need to do more than gather information. Kill any {@LinkCreature:6#3011#Scion justicars}, and {@LinkCreature:6#3031#Lokian reavers} and {@LinkCreature:6#3032#mystics}.&lt;BR&gt;&lt;BR&gt;Weakening their forces now can only help us. After all, at some point we're going to have to dig them out of this little grotto.&lt;BR&gt;&lt;BR&gt;Take the field!</Page>
-    
     </Text>
-    <Text huntingZoneId="206" id="4" villagerId="1042">
-         
+    <Text id="4" huntingZoneId="206" villagerId="1042">
         <Page social="0">Did you get through to the shrine? Did you thin out their ranks?</Page>
-    
     </Text>
-    <Text huntingZoneId="206" id="5" prevId="3" villagerId="1042">
-         
+    <Text id="5" huntingZoneId="206" prevId="3" villagerId="1042">
         <Page social="4">This is the fourth group of Scions you've come across. If what you've told me is true, they're not just carving out a place for themselves—they're collecting something.&lt;BR&gt;&lt;BR&gt;I'm just a simple soldier, but you first prepare for a fight by gathering the resources necessary for it. Perhaps the Scions are doing the same.&lt;BR&gt;&lt;BR&gt;Perhaps they have plans for the power they're gathering....</Page>
-    
     </Text>
 </QuestDialog>

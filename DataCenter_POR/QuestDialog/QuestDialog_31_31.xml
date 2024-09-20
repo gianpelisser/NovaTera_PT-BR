@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="31" id="31" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="31" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="231" id="100" prevId="0" villagerId="1044">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="231" id="2" prevId="0" villagerId="1044">
          
+         
         <Page social="4">Esses destroços eram navios mercantes gula. Deveriam estar cheios de coisas chatas, como rações, madeira e grãos. Mas encontramos um manifesto que diz que há moedas de ouro no compartimento de carga. Ouro! &lt;BR&gt;&lt;BR&gt;Eu sei que os marinheiros agora são todos monstros mortos-vivos, mas você não teria pegado as moedas antes de encalhar? Mate os {@LinkCreature:31#12#marinheiros gula afogados} e os {@LinkCreature:31#14#bosuns} e veja o que eles estão carregando nos bolsos!</Page>
+    
     
     </Text>
     <Text huntingZoneId="231" id="3" prevId="2" villagerId="1044">
          
+         
         <Page social="4">Brilhante! Não posso lhe dar todo esse ouro só por ajudar, mas vou lhe dar isso!</Page>
+    
     
     </Text>
     <Text huntingZoneId="231" id="4" villagerId="1044">
          
+         
         <Page social="0">Moedas de ouro da sorte! Moedas de ouro brilhantes! Exploradores popori ricos!</Page>
+    
     
     </Text>
 </QuestDialog>

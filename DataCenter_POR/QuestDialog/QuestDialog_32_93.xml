@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="32" id="93" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="32" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="73" id="100" prevId="0" villagerId="1009">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="73" id="2" prevId="0" villagerId="1009">
          
+         
         <Page social="0">Bah! Não dá para subir a montanha sem ser atacado por todos os lados! &lt;BR&gt;&lt;BR&gt;Quer outra missão? Derrube a Companhia Stalker {@LinkCreature:32#7#reapers}, {@LinkCreature:32#8#destroyers}, e {@LinkCreature:32#9#snipers}, e {@LinkCreature:32#12#Sihran templars}.&lt;BR&gt;&lt;BR&gt;Relate à Relinda quando terminar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="232" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="4">Suas ações farão maravilhas para o moral, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
     <Text huntingZoneId="232" id="4" villagerId="1001">
          
+         
         <Page social="0">Se você tiver mercenários mortos, eu tenho a recompensa.</Page>
+    
     
     </Text>
 </QuestDialog>

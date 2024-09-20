@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_ServantSkill xmlns="https://vezel.dev/novadrop/dc/StrSheet_ServantSkill" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_ServantSkill StrSheet_ServantSkill.xsd">
+<StrSheet_ServantSkill xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_ServantSkill StrSheet_ServantSkill.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_ServantSkill">
     <String id="1" name="Emote" tooltip="Shows emotion to you." />
     <String id="2" name="Pet Pocket" tooltip="Allows you to access a tab of special storage." />
     <String id="4" name="Auto-Loot" tooltip="Loots all items around you." />
-    <String id="8" name="Auto-Gather" tooltip="Gathers nearby ore, fiber, and essence materials to your inventory. [Your skill level determines pet's success.]" />
+    <String id="8" name="Auto-Gather" tooltip="Gathers nearby ore, fiber, and essence materials to your inventory." />
     <String id="16" name="Skill" tooltip="Gives you a buff." />
+    <String id="32" name="Auto-Collect Gold" tooltip="Collects all gold around you." />
 </StrSheet_ServantSkill>

@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="12207001" string="Test of Collective Bravery" />
-    <String id="12207002" string="Enter Free Traders Collective territory and slay huge beasts." />
-    <String id="12207003" string="&quot;It has been my honor to serve the Enlightened Union.&quot;" />
-    <String id="12207004" string="Report to {@linkcreature:122#9001#Derene}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="12206001" string="Yes, We Have No Bananas" />
+    <String id="12206002" string="Complete" />
+    <String id="12206003" string="Contaminated Banana" />
+    <String id="12206004" string="Collect contaminated bananas from a {@linkcreature:122#503#Banana Tree}." />
+    <String id="12206005" string="Deliver the contaminated bananas to {@linkcreature:122#220020#Ishala}." />
+    <String id="12206006" string="&quot;I'm sure this will be a vital component to the union's efforts.&quot;" />
 </StrSheet_Quest>

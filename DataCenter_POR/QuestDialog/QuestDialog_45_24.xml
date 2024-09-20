@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="45" id="24" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="45" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="245" id="100" prevId="0" villagerId="1021">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="245" id="2" prevId="0" villagerId="1021">
          
+         
         <Page social="4">Nossos batedores viram pedaços de postes no estilo argons em um antigo posto Valkyon a nordeste daqui. Será que isso é possível? &lt;BR&gt;&lt;BR&gt;Você terá que lutar para passar por {@LinkCreature:45#2001#argonomorph blood fiends} para descobrir, mas eu realmente preciso saber.</Page>
+    
     
     </Text>
     <Text huntingZoneId="245" id="3" prevId="2" villagerId="1021">
          
+         
         <Page social="5">Essas amostras devem contar a história. Espero que elas não me digam o que eu temo que digam.</Page>
+    
     
     </Text>
     <Text huntingZoneId="245" id="4" villagerId="1021">
          
+         
         <Page social="0">Se eu tivesse amostras desses pilares, poderia iniciar alguns testes.</Page>
+    
     
     </Text>
 </QuestDialog>

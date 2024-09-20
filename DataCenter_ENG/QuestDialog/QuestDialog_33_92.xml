@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="33" id="92" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="73" id="100" prevId="0" villagerId="1009">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1009">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="73" id="2" prevId="0" villagerId="1009">
-         
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1009">
         <Page social="0">The Blood Guards that patrol the citadel are so numerous, we can't get through the dungeons without them ambushing our soldiers. Help us clear the way.&lt;BR&gt;&lt;BR&gt;Take out {@LinkCreature:33#10#Blood Guard mages}, {@LinkCreature:33#11#berserkers}, {@LinkCreature:33#12#lancer}, {@LinkCreature:33#60#sorcerer}, {@LinkCreature:33#61#reaper}, {@LinkCreature:33#62#champion}, and {@LinkCreature:33#70#arcanists}.&lt;BR&gt;&lt;BR&gt;Let Misia, the coordinator at the Infiltrators Refuge in the catacombs, know when they can send troops out again.</Page>
-    
     </Text>
-    <Text huntingZoneId="233" id="3" prevId="2" villagerId="1005">
-         
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1005">
         <Page social="4">Your success is an inspiration to us all. Please take this reward.</Page>
-    
     </Text>
-    <Text huntingZoneId="233" id="4" villagerId="1005">
-         
+    <Text id="4" huntingZoneId="233" villagerId="1005">
         <Page social="0">The ghost guards harry us whenever we leave the base.</Page>
-    
     </Text>
 </QuestDialog>

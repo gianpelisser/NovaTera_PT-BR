@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="21" id="30" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="21" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="221" id="100" prevId="0" villagerId="1048">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="221" id="2" prevId="0" villagerId="1048">
          
+         
         <Page social="4">Parece que os Kulkari têm sua própria cadeia de comando. Aqueles {@LinkCreature:21#5#Profetas Espreitadores de Crag} e {@LinkCreature:21#30#Xamãs Espreitadores de Crag} ali são como os comandantes.&lt;BR&gt;&lt;BR&gt;Para os profetas e xamãs, bem como para os combatentes sob seu controle, os cajados que carregam são sagrados. Se tomarmos seus cajados, estaremos efetivamente eliminando seus objetos de adoração. &lt;BR&gt;&lt;BR&gt;Uma vez que sua fé comece a vacilar, sua vontade de lutar logo se seguirá.</Page>
+    
     
     </Text>
     <Text huntingZoneId="221" id="3" prevId="2" villagerId="1048">
          
+         
         <Page social="4">Dê uma olhada ali! Agitação entre os Crag Stalkers, exatamente como planejamos! Você fez um excelente trabalho.</Page>
+    
     
     </Text>
     <Text huntingZoneId="221" id="4" villagerId="1048">
          
+         
         <Page social="0">A melhor maneira de quebrar o moral deles pela metade é eliminar os próprios objetos que eles adoram. Talvez você deva se apressar.</Page>
+    
     
     </Text>
 </QuestDialog>

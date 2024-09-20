@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="5073001" string="(Guild) Suppression Orders: Disholok" />
-    <String id="5073002" string="Proof of Kill: Disholok" />
-    <String id="5073003" string="&quot;Honored to serve!&quot;" />
-    <String id="5073004" string="Kill {@LinkCreature:50#12} and collect proof of its death." />
-    <String id="5073005" string="Report to Ayva in Kanstria." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="5038001" string="A Glimmer of Hope" />
+    <String id="5038002" string="Use the tyalinth blossom on the shambling creepers in the {@Rgn:50008}." />
+    <String id="5038003" string="&quot;That's amazing!&quot;" />
+    <String id="5038004" string="Report back to {@LinkCreature:250#1002}." />
 </StrSheet_Quest>

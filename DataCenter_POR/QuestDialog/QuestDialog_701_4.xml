@@ -1,55 +1,76 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="701" id="4" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="701" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="230" id="100" prevId="0" villagerId="7101">
          
+         
         <Page social="0">Você aprendeu a fazer gelo de sarberry.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="2" prevId="0" villagerId="7101">
          
+         
         <Page social="1">Bem-vindo, &lt;PCRACE:lcase&gt;! Infelizmente, não tenho mais gelo no momento. Não estava esperando tantas pessoas no festival, e está tão quente que todos querem um gelo de amora!&lt;NEXTPAGEBUTTON&gt;&amp;quot;Certamente está quente. Eu voltarei... &lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="1">Esperem, esperem! Não vá embora! Se você me trouxer gelo e amoras do carrinho do Luman, logo ali, eu lhe mostrarei como fazer gelo de amoras - e depois você poderá me ajudar a distribuí-las! Certo.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Obrigado!&lt;BR&gt;&lt;BR&gt;Vá buscar gelo e amoras de Luman.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="3" prevId="2" villagerId="7106">
          
+         
         <Page social="4">O quê? O quê? Lilan já está sem gelo? &lt;BR&gt;&lt;BR&gt;Ela não percebe como está quente? Esse gelo tem que durar o festival inteiro!&lt;BR&gt;&lt;BR&gt;Tudo bem! Aqui! Diga a ela para não usar tanto! &lt;NEXTPAGEBUTTON&gt;&amp;quot;Eu vou...dizer isso a ela.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="4" prevId="3" villagerId="7106">
          
+         
         <Page social="4">O quê? Você ainda está aqui? &lt;BR&gt;&lt;BR&gt;Ela também precisa de amoras? &lt;BR&gt;&lt;BR&gt;Por que você não disse isso em primeiro lugar? &lt;BR&gt;&lt;BR&gt;Aqui! Sarberries! Está bem? Mais alguma coisa? Não? Ótimo! &lt;NEXTPAGEBUTTON&gt;&amp;quot;Você é muito...gentil...&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="5" prevId="4" villagerId="7101">
          
+         
         <Page social="4">Você conseguiu o gelo com o Luman? Ele não é um amor de pessoa? &lt;BR&gt;&lt;BR&gt;Agora é só colocar esse pedaço de gelo no barbeador de gelo, moê-lo e eu darei essas amoras para a minha assistente, Trilyn! &lt;NEXTPAGEBUTTON&gt;Diga ok.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="6" prevId="5" villagerId="7102">
          
+         
         <Page social="4">A Lilan lhe deu nossa receita secreta de gelo de amora? E ela disse que eu era sua assistente? E que Luman era um doce? Essa garota é completamente louca e vai me deixar louco um dia, eu sei disso...&lt;BR&gt;&lt;BR&gt;Bem, você realmente nos ajudou. Precisávamos de mais gelo e sarcófagos...&lt;BR&gt;&lt;BR&gt;Ok, vou lhe mostrar como fazer gelo de sarcófagos.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Estou ansioso por isso.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Basta colocar o gelo finamente moído e as amoras em uma tigela de vidro... adicionar o leite doce... e misturar bem! &lt;NEXTPAGEBUTTON&gt;&amp;quot;Isso parece bastante fácil.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="7" villagerId="7102">
          
+         
         <Page social="0">Coloque os ingredientes em uma tigela de vidro e misture-os bem.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="8" prevId="6" villagerId="7101">
          
+         
         <Page social="4">Obrigado, &lt;PCNAME&gt;! Você já está de volta? Que maravilha! Eu sabia que meu assistente poderia ajudá-lo! &lt;BR&gt;&lt;BR&gt;Eu deveria lhe dar uma recompensa! Eu sei! Que tal uma sobremesa de sarberry congelada? É como um gelo de sarberry, mas é uma sobremesa! &lt;NEXTPAGEBUTTON&gt;&amp;quot;Isso... é pura genialidade. Obrigado.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="9" villagerId="7101">
          
+         
         <Page social="0">Umm... sim... você está sendo servido? &lt;BR&gt;&lt;BR&gt;Oh! &lt;PCNAME&gt;, é você! Você tem algumas amoras e gelo para mim?</Page>
+    
     
     </Text>
 </QuestDialog>

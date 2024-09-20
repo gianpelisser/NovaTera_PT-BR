@@ -1,58 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="6" id="2" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="206" id="100" prevId="0" villagerId="1003">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="6" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="206" prevId="0" villagerId="1003">
         <Page social="0">After discovering devas at Mags Kulkar, you defeated Gutrend Chief Krashar and retrieved a Lok token. Now you have proof that the devas and the Scions of Lok are somehow involved with the recent Gutrend invasion.</Page>
-    
     </Text>
-    <Text huntingZoneId="206" id="2" prevId="0" villagerId="1003">
-         
+    <Text id="2" huntingZoneId="206" prevId="0" villagerId="1003">
         <Page social="4">Gutrends are not usually this aggressive—we've never had them take out an entire village before.&lt;BR&gt;&lt;BR&gt;Lisadore has been observing them in their territory. She may have some information by now if you can find her.</Page>
-    
     </Text>
-    <Text huntingZoneId="206" id="3" prevId="2" villagerId="1041">
-         
+    <Text id="3" huntingZoneId="206" prevId="2" villagerId="1041">
         <Page social="4">Sozia sent you out here, did she? Good. My scout Ethia reported that the Gutrends might have some sort of special weapons.&lt;BR&gt;&lt;BR&gt;Take out a few of the Gutrend {@LinkCreature:6#2061#sentries} and {@LinkCreature:6#2051#reapers}. Let's see if we can find anything unusual.</Page>
-    
     </Text>
-    <Text huntingZoneId="206" id="4" prevId="3" villagerId="1041">
-         
+    <Text id="4" huntingZoneId="206" prevId="3" villagerId="1041">
         <Page social="4">These look like ordinary kulkari sticks and stones to me. &lt;BR&gt;&lt;BR&gt;Ethia's scouting around Mags Kulkari, due south from here. See if you can figure out what she's on about.</Page>
-    
     </Text>
-    <Text huntingZoneId="206" id="5" villagerId="1041">
-         
+    <Text id="5" huntingZoneId="206" villagerId="1041">
         <Page social="0">Let's look at weapons from a different group this time.&lt;BR&gt;&lt;BR&gt;Bring them from the Gutrend {@LinkCreature:6#2061#sentries} and {@LinkCreature:6#2051#reapers}.</Page>
-    
     </Text>
-    <Text huntingZoneId="206" id="6" prevId="4" villagerId="1006">
-         
+    <Text id="6" huntingZoneId="206" prevId="4" villagerId="1006">
         <Page social="4">Well, if she read the reports I've been sending...&lt;BR&gt;&lt;BR&gt;What I said was, I've seen kulkari moving a lot of heavy {@LinkObject:33#crates} into Mags Kulkar. My guess is it's weapons, and not those stone things they're using now.&lt;BR&gt;&lt;BR&gt;Break open a few and bring me some proof.&lt;NEXTPAGEBUTTON&gt;"You want the weapons?"&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="4">Yes, and find {@LinkCreature:6#7031#Krashar}, the chief. He'll know where those crates are coming from.&lt;BR&gt;&lt;BR&gt;Of course, I doubt he'll tell you voluntarily...</Page>
-    
     </Text>
-    <Text huntingZoneId="206" id="7" prevId="6" villagerId="1006">
-         
+    <Text id="7" huntingZoneId="206" prevId="6" villagerId="1006">
         <Page social="4">Devas? The crates were full of devas? And Krashar's dead? Fine with me, as long as you got the information I need.&lt;NEXTPAGEBUTTON&gt;"This is what I found."&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="0">A crest? I don't know of any Gutrend crests...&lt;BR&gt;&lt;BR&gt;It's one of Lok's! The Gutrends aren't associated with Lok—or, they weren't.&lt;BR&gt;&lt;BR&gt;Hurry. Vindicator Camp needs to know that devas and Scions of Lok are involved with the Gutrends! Take this to Crevan there.</Page>
-    
     </Text>
-    <Text huntingZoneId="206" id="8" villagerId="1006">
-         
+    <Text id="8" huntingZoneId="206" villagerId="1006">
         <Page social="0">Have you found anything? We have to find out what's going on!</Page>
-    
     </Text>
-    <Text huntingZoneId="206" id="9" prevId="7" villagerId="1021">
-         
+    <Text id="9" huntingZoneId="206" prevId="7" villagerId="1021">
         <Page social="4">A crest of Lok! You found this on Krashar? That's...well, that's very odd.&lt;BR&gt;&lt;BR&gt;I'm not entirely sure what it means. But I intend to find out.</Page>
-    
     </Text>
-    <Text huntingZoneId="206" id="10" villagerId="1021">
-         
+    <Text id="10" huntingZoneId="206" villagerId="1021">
         <Page social="0">Have you found out anything about those Gutrends?</Page>
-    
     </Text>
 </QuestDialog>

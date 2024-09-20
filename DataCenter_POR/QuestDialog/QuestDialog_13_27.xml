@@ -1,34 +1,46 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="27" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="13" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="213" id="100" prevId="0" villagerId="1017">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="213" id="2" prevId="0" villagerId="1017">
          
+         
         <Page social="4">Acho que você está quase terminando aqui. Enquanto você estava lá fora, um dos mensageiros veio à sua procura.&lt;BR&gt;&lt;BR&gt;Pense no que aprendeu, considere suas ações como parte de um todo maior e tente não ser morto. Já houve... muito disso por aqui.&lt;BR&gt;&lt;BR&gt;Ramun deve estar aqui com suas ordens em apenas duas sacudidas de sua cauda, eu acho.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="3" prevId="2" villagerId="1038">
          
+         
         <Page social="4">Participe! Você aí! Você viu alguém chamado "&lt;PCNAME&gt;?"&lt;BR&gt;&lt;BR&gt;É você? Que bom, que bom. Já estou correndo demais para ir atrás de você. O Centurião Neziir quer que todas as pessoas não designadas se apresentem para um grande... "exercício de pacificação", como ele o chama. Isso é conversa de gente grande para dizer que "os espíritos guardiões estão se aglomerando e não sabemos o que fazer a respeito."&lt;BR&gt;&lt;BR&gt;Ele está descendo a estrada e subindo a colina... Provavelmente o verei lá!</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="4" prevId="3" villagerId="1004">
          
+         
         <Page social="4">Fique firme, &lt;PCNAME&gt;. Preciso que você cuide desses {@LinkCreature:13#304#noruks doentes}. Recebemos um pedido dos pesquisadores para examinar o sangue de espíritos e feras aparentemente enfraquecidos.&lt;BR&gt;&lt;BR&gt;Você é meu subordinado, portanto, agora tem ordens. Mate quantos forem necessários. Pegue apenas o soro que eles querem. Quando terminar, apresente-se ao &lt;font color='#660000'&gt;Prefeito Ashak&lt;/font&gt;.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="5" prevId="4" villagerId="1119">
          
+         
         <Page social="4">&lt;PCNAME&gt;! Seu triunfo é seu. É lamentável que mais e mais animais adoeçam diariamente. Estamos tentando minimizar a matança das formas de vida aqui na Island of Dawn, mas sacrifícios inevitáveis devem ser feitos para aumentar nossa compreensão.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="6" villagerId="1119">
          
+         
         <Page social="0">Parece que você não tem soro suficiente para minha pesquisa. Você terá que coletar mais de {@LinkCreature:13#304#noruks doentes}. &lt;BR&gt;&lt;BR&gt;Eu nunca teria pensado que Neziir atribuiria essa tarefa a um recruta inexperiente. Eu pedi o melhor, não o menor.</Page>
+    
     
     </Text>
 </QuestDialog>

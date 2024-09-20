@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="22" id="92" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="22" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="68" id="100" prevId="0" villagerId="1007">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="68" id="2" prevId="0" villagerId="1007">
          
+         
         <Page social="5">Ainda estamos tendo problemas com os acólitos de {@LinkCreature:22#14#vadoma} na academia. Gostaria que você os caçasse e recolhesse provas de sua morte.&lt;BR&gt;&lt;BR&gt;Quando terminar, apresente-se a Thara. Ela terá sua recompensa.</Page>
+    
     
     </Text>
     <Text huntingZoneId="222" id="3" prevId="2" villagerId="1011">
          
+         
         <Page social="5">Essas garotas vieram até nós para encontrar alguém que as capacitasse, que as ensinasse a lutar pelas coisas certas. Agora elas estão mortas.&lt;BR&gt;&lt;BR&gt;Eu lhe pagarei, mas não lhe agradecerei.</Page>
+    
     
     </Text>
     <Text huntingZoneId="222" id="4" villagerId="1011">
          
+         
         <Page social="0">Não é bonito, mas os acólitos de vadoma precisam ser detidos. Você terá que fazer isso.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="51" id="35" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="51" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="251" id="100" prevId="0" villagerId="1001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="251" id="2" prevId="0" villagerId="1001">
          
+         
         <Page social="4">O mapa de Ghabar indica que os postes estão saindo de Raseri Festning - essa é a fortaleza dos gigantes nessa área. Gigantes e tecnologia de argons seriam uma combinação perigosa. Muito perigosa para ser deixada de lado.&lt;BR&gt;&lt;BR&gt;Suas ordens são para se infiltrar em Raseri Festning e destruir todos os pilares!</Page>
+    
     
     </Text>
     <Text huntingZoneId="251" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="4">O Vale das Torres está muito mais seguro graças ao seu trabalho árduo. A Federação tem uma grande dívida com você! &lt;BR&gt;&lt;BR&gt;Relate a Habere e conte a eles o que conseguimos fazer aqui. Eles precisam saber que é hora de mobilizar nossas forças.</Page>
+    
     
     </Text>
     <Text huntingZoneId="79" id="4" prevId="3" villagerId="1007">
          
+         
         <Page social="4">Se Thulsa não tem controle sobre o vale, isso significa que podemos começar a trazer nossas tropas. Ele está ficando sem inimigos para se esconder! &lt;BR&gt;&lt;BR&gt;O reinado de terror de Thulsa está chegando ao fim, em grande parte graças a você!</Page>
+    
     
     </Text>
 </QuestDialog>

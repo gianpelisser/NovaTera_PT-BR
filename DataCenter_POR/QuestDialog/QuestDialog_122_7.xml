@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="122" id="7" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="122" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="122" id="100" prevId="0" villagerId="9001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="122" id="2" prevId="0" villagerId="9001">
          
+         
         <Page social="1">É muito perigoso se aventurar no território de nossos rivais, amigo &lt;PCCLASS:lcase&gt;. Portanto, não se poderia pedir uma maneira melhor de demonstrar sua coragem.&lt;BR&gt;&lt;BR&gt;Para ser visto como um verdadeiro herói na União Iluminada, entre no território dos Mercadores Livres e retorne com a prova de sua bravura. Matar um basilisco aurífero, um fimbrilisco aurífero e um peão de presas aurífero deve ser suficiente.</Page>
+    
     
     </Text>
     <Text huntingZoneId="122" id="3" prevId="2" villagerId="9001">
          
+         
         <Page social="0">Você sobreviveu, afinal de contas! &lt;BR&gt;&lt;BR&gt;Eu não estava convencido de que você poderia terminar a missão. Muitos tentaram, veja bem, mas poucos retornaram.&lt;BR&gt;&lt;BR&gt;Fico feliz em ver que você é o tipo de pessoa que consegue discernir entre um voto solene e uma ostentação tola.&lt;BR&gt;&lt;BR&gt;A União Iluminada está honrada em tê-lo entre nós, meu amigo.</Page>
+    
     
     </Text>
 </QuestDialog>

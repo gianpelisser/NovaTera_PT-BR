@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="122" id="9" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="122" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="122" id="100" prevId="0" villagerId="9001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="122" id="2" prevId="0" villagerId="9001">
          
+         
         <Page social="1">Meu amigo, não posso enfatizar o suficiente o quanto é perigoso se aventurar no território de nossos rivais. Naturalmente, porém, toda vez que digo isso, parece aos ouvintes a maneira ideal de demonstrar sua coragem: Entre no território da Ordem de Ferro e retorne com a prova de sua bravura. Matar um basilisco de Darkquaver, um fimbrilisco de Darkquaver e um fangspawn de Darkquaver deve ser suficiente.</Page>
+    
     
     </Text>
     <Text huntingZoneId="122" id="3" prevId="2" villagerId="9001">
          
+         
         <Page social="0">Vejo que você sobreviveu! Você está de parabéns.&lt;BR&gt;&lt;BR&gt;Confesso que não esperava vê-lo novamente - muito menos bem-sucedido! &lt;BR&gt;&lt;BR&gt;Estou animado em ver que você é o tipo de pessoa que sabe a distinção entre um voto solene e uma ostentação tola, meu amigo.&lt;BR&gt;&lt;BR&gt;De fato, a União Iluminada está honrada em tê-lo entre nós.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,15 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_DarkRift xmlns="https://vezel.dev/novadrop/dc/StrSheet_DarkRift" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_DarkRift StrSheet_DarkRift.xsd">
-    <String string="Nexus" readableId="SMT_DARKRIFT_QUEST_LINK_NAME" />
-    <String string="" readableId="SMT_DARKRIFT_MAP_MARKER_TOOLTIP">Nexus (phase {step})&lt;br&gt;&lt;ul&gt;&lt;li&gt;Quest Availability: {congested}&lt;/li&gt;&lt;li&gt;Population: {curOrders}/{maxOrders}&lt;/li&gt;&lt;/ul&gt;</String>
-    <String string="" readableId="SMT_DARKRIFT_MAP_MARKER_TOOLTIP_NOT_OPEN_YET">Nexus (Opens in {time@durationBrief})&lt;br&gt;&lt;ul&gt;&lt;li&gt;Quest Availability: {congested}&lt;/li&gt;&lt;li&gt;Population: {curOrders}/{maxOrders}&lt;/li&gt;&lt;/ul&gt;</String>
-    <String string="" readableId="SMT_DARKRIFT_QUIET">&lt;font color='#4a95d8'&gt;High&lt;/font&gt;</String>
-    <String string="" readableId="SMT_DARKRIFT_MILDLY_CONGESTED">&lt;font color='#ff7800'&gt;Medium&lt;/font&gt;</String>
-    <String string="" readableId="SMT_DARKRIFT_CONGESTED">&lt;font color='#ff1515'&gt;Low&lt;/font&gt;</String>
-    <String string="" readableId="SMT_DARKRIFT_FULLY_CONGESTED">&lt;font color='#c00005'&gt;Zero&lt;/font&gt;</String>
-    <String string="Nexus" readableId="SMT_DARKRIFT_SUGGEST_POPUP_TITLE" />
-    <String string="You've entered a nexus area. Do you want to join a group in progress?" readableId="SMT_DARKRIFT_SUGGEST_POPUP_MESSAGE" />
-    <String string="Yes" readableId="SMT_DARKRIFT_SUGGEST_POPUP_YES" />
-    <String string="No" readableId="SMT_DARKRIFT_SUGGEST_POPUP_NO" />
-    <String string="Enter Nexus Traverse" readableId="SMT_DARKRIFT_CALL_YOU_TITLE" />
+<StrSheet_DarkRift xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_DarkRift StrSheet_DarkRift.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_DarkRift">
+    <String string="" readableId="SMT_DARKRIFT_QUEST_LINK_NAME" />
+    <String string="" readableId="SMT_DARKRIFT_MAP_MARKER_TOOLTIP" />
+    <String string="" readableId="SMT_DARKRIFT_MAP_MARKER_TOOLTIP_NOT_OPEN_YET" />
+    <String string="" readableId="SMT_DARKRIFT_QUIET" />
+    <String string="" readableId="SMT_DARKRIFT_MILDLY_CONGESTED" />
+    <String string="" readableId="SMT_DARKRIFT_CONGESTED" />
+    <String string="" readableId="SMT_DARKRIFT_FULLY_CONGESTED" />
+    <String string="" readableId="SMT_DARKRIFT_SUGGEST_POPUP_TITLE" />
+    <String string="" readableId="SMT_DARKRIFT_SUGGEST_POPUP_MESSAGE" />
+    <String string="" readableId="SMT_DARKRIFT_SUGGEST_POPUP_YES" />
+    <String string="" readableId="SMT_DARKRIFT_SUGGEST_POPUP_NO" />
+    <String string="" readableId="SMT_DARKRIFT_CALL_YOU_TITLE" />
 </StrSheet_DarkRift>

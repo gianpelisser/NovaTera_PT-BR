@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="7" id="31" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="7" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="207" id="100" prevId="0" villagerId="1008">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="207" id="2" prevId="0" villagerId="1008">
          
+         
         <Page social="5">Esses mercenários são os menores dos nagas. Os {@LinkCreature:7#2#Naga Juggernauts} são muito piores. São extremamente resistentes e brutais de uma forma que você nem imagina.&lt;BR&gt;&lt;BR&gt;Faça o possível para abater quatro dessas monstruosidades e me traga suas cabeças. Isso deixará os sobreviventes confusos.&lt;BR&gt;&lt;BR&gt;Leve essa luta a sério. Será muito mais difícil, mas o sucesso será muito mais doce.</Page>
+    
     
     </Text>
     <Text huntingZoneId="207" id="3" prevId="2" villagerId="1008">
          
+         
         <Page social="5">Suas habilidades são inigualáveis. Eu gostaria que o Mysterium empregasse mais soldados como você.&lt;BR&gt;&lt;BR&gt;Você prestou um grande serviço a nós e um crédito para si mesmo, &lt;PCNAME&gt;. Muito obrigado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="207" id="4" villagerId="1008">
          
+         
         <Page social="0">Você já eliminou os gigantes? O sangue deles fertiliza essas colinas sagradas?</Page>
+    
     
     </Text>
 </QuestDialog>

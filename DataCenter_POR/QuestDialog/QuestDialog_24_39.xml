@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="24" id="39" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="24" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="224" id="100" prevId="0" villagerId="1024">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="224" id="2" prevId="0" villagerId="1024">
          
+         
         <Page social="4">O trabalho de Elsine requer muita mana. Não teria sido um problema se tivéssemos núcleos, mas eles são quase impossíveis de encontrar em lugares como esse.&lt;BR&gt;&lt;BR&gt;A boa notícia é que os cultistas próximos às ruínas, como os {@LinkCreature:24#17#eldritch masters} e {@LinkCreature:24#18#skullcleavers}, têm mana. É claro que a mana deles está contaminada pelo mal, mas é fácil purificá-la. Traga-me seus orbes de mana.&lt;BR&gt;&lt;BR&gt;Bem, eles não são exatamente orbes, mas corações. De qualquer forma, traga-os para mim.</Page>
+    
     
     </Text>
     <Text huntingZoneId="224" id="3" prevId="2" villagerId="1024">
          
+         
         <Page social="5">Obrigado - isso não deve ter sido agradável, mas precisava ser feito. Por favor, leve esses corações para Elsine agora.</Page>
+    
     
     </Text>
     <Text huntingZoneId="224" id="4" villagerId="1024">
          
+         
         <Page social="0">Você coletou os corações? Você ainda acha que pode fazer isso, certo?</Page>
+    
     
     </Text>
     <Text huntingZoneId="224" id="5" prevId="3" villagerId="1002">
          
+         
         <Page social="4">Permita-me expressar minha gratidão por sua diligência. Eles são exatamente o que é necessário.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="43" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="30" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="230" id="100" prevId="0" villagerId="1028">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="230" id="2" prevId="0" villagerId="1028">
          
+         
         <Page social="1">O poderoso feiticeiro Oshar tem seus próprios experimentos, é claro. Não pretendo entendê-los... ainda. &lt;BR&gt;&lt;BR&gt;Sei que ele sempre aprecia uma remessa de pó de asa dos tentaculares de chama.&lt;BR&gt;&lt;BR&gt;É claro que os tentaculares não cedem o pó de suas asas de bom grado. Espere... eu tenho uma ideia!</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="3" prevId="2" villagerId="1028">
          
+         
         <Page social="1">Você tem o pó das asas, certo? &lt;BR&gt;&lt;BR&gt;Oshar e eu o recompensaremos ricamente no dia do ajuste de contas, quando nossa escola de feitiçaria ascender e se tornar... o quê? Você quer uma recompensa mais imediata? É claro.&lt;BR&gt;&lt;BR&gt;Desculpe. Eu me empolguei um pouco.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="4" villagerId="1028">
          
+         
         <Page social="0">O grande feiticeiro Oshar diz que o pó de asa é a fonte do poder do tentacullar. Vá buscar um pouco!</Page>
+    
     
     </Text>
 </QuestDialog>

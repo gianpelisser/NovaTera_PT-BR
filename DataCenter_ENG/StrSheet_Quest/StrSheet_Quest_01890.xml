@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="12317001" string="Training the Order" />
-    <String id="12317002" string="Beast Heart" />
-    <String id="12317003" string="Train yourself on a beast in one of the vaults." />
-    <String id="12317004" string="Bring proof of your training back to the {@linkcreature:84#22008#Kazt}." />
-    <String id="12317005" string="&quot;I've faced worse tests.&quot;" />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="12316001" string="Awards Program" />
+    <String id="12316002" string="Echelon Trophy" />
+    <String id="12316003" string="Hunt a boss inside one of the listed dungeons to earn a trophy." />
+    <String id="12316004" string="Bring the trophy to the {@linkcreature:84#22002#alliance administrator}." />
+    <String id="12316005" string="&quot;For the Iron Order!&quot;" />
 </StrSheet_Quest>

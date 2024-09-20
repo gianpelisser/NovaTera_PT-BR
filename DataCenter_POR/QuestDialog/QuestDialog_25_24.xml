@@ -1,38 +1,52 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="25" id="24" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="25" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="225" id="100" prevId="0" villagerId="1016">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="225" id="2" prevId="0" villagerId="1016">
          
+         
         <Page social="4">Se encontrarmos uma algema psico-supressora mais forte, poderemos extrair dela o feitiço de controle da mente. Os {@LinkCreature:25#1032#skeletal defenders} terão os grilhões que estamos procurando.</Page>
+    
     
     </Text>
     <Text huntingZoneId="225" id="3" prevId="2" villagerId="1016">
          
+         
         <Page social="4">Você está de volta. Desculpe, chegou uma carta enquanto você estava fora.&lt;BR&gt;&lt;BR&gt;Encontrei o feitiço de extração.&lt;NEXTPAGEBUTTON&gt;"Estou com a algema."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Perfeito - se pudermos extrair o feitiço, podemos encontrar uma maneira de combatê-lo. Leve os grilhões para Deigan. Ele é o mais indicado para realizar o feitiço. E, por favor, entregue-lhe esta carta quando o vir.</Page>
+    
     
     </Text>
     <Text huntingZoneId="225" id="4" villagerId="1016">
          
+         
         <Page social="0">Extrair o feitiço do grilhão nos ajudará a criar um contrafeitiço.</Page>
+    
     
     </Text>
     <Text huntingZoneId="225" id="5" prevId="3" villagerId="1020">
          
+         
         <Page social="4">Portanto, se conseguirmos descobrir uma maneira de neutralizar esse feitiço, poderemos repelir os cultistas - não é um plano ruim! Vou começar a trabalhar.&lt;BR&gt;&lt;BR&gt;O que é essa carta? Está toda em letras garrafais... espere. Ela está assinada por Davina.&lt;NEXTPAGEBUTTON&gt;"Isso é importante?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Davina é minha prima. Ela está servindo sob o comando de Elleon. Eu me pergunto por que ela enviou uma carta ilegível. Talvez Elsine possa traduzi-la - ela conhece muitas línguas estranhas, até mesmo inventou algumas, pelo que ouvi dizer.</Page>
+    
     
     </Text>
     <Text huntingZoneId="225" id="6" prevId="5" villagerId="1022">
          
+         
         <Page social="4">Isso é inesperado. Inventei esse código para me comunicar com Elleon e Leander. Se a assinatura for verdadeira, então Elleon deve ter compartilhado o código com outras pessoas. Se Davina é prima de Deigan, então ela também deve ser irmã de Jelena. A tradução deve ser simples.&lt;BR&gt;&lt;BR&gt;"Descobrimos o porão da Catedral Negra. Estou entrando."&lt;BR&gt;&lt;BR&gt;Oh, meu Deus. Isso foi escrito antes da partida da equipe avançada. Ela entrou bem antes de sua irmã e de Elleon.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="12111001" string="A Few Key Collective Points" />
-    <String id="12111002" string="&quot;It was nothing, really.&quot;" />
-    <String id="12111003" string="Bring any extractor keys to {@linkcreature:121#220037#Dyrio}." />
-    <String id="12111004" string="" />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="12110001" string="Warning the Order" />
+    <String id="12110002" string="Kill the beasts that the Iron Order needs for noctenium research." />
+    <String id="12110003" string="&quot;Glad to help.&quot;" />
+    <String id="12110004" string="Report to {@linkcreature:121#9001#Adiar}." />
 </StrSheet_Quest>

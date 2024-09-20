@@ -1,13 +1,17 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="182" id="2005" voiceTypeId="0">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2005" huntingZoneId="182" voiceTypeId="0">
     <Text id="1" endSocial="0">
          
+         
         <Page social="1" voiceTypeId="0">Dakuryon must know that the Khirian resistance has new allies!</Page>
+    
     
     </Text>
     <Text id="101" endSocial="0">
          
+         
         <Page social="0" voiceTypeId="0">For you, my lord!</Page>
+    
     
     </Text>
 </VillagerDialog>

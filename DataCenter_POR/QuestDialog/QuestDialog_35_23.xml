@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="35" id="23" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="35" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="235" id="100" prevId="0" villagerId="1007">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="235" id="2" prevId="0" villagerId="1007">
          
+         
         <Page social="5">Os thulsanos ocupam as minas de Croskurn. Os kulkaris do Flagelo do Deserto que guardam a área ao redor estão nos eliminando um a um. O primeiro passo para retomar as minas é, bem... não estar morto. Vamos ver o que você tem. Derrube o maior número possível deles.</Page>
+    
     
     </Text>
     <Text huntingZoneId="235" id="3" prevId="2" villagerId="1007">
          
+         
         <Page social="7">Bem, serei o tio de um kulkari - você conseguiu, &lt;PCNAME&gt;! Simplesmente os aniquilou.&lt;BR&gt;&lt;BR&gt;Agora nossos mineiros podem voltar a ter alguma aparência de normalidade.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="12" id="25" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="12" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="62" id="100" prevId="0" villagerId="1025">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="62" id="2" prevId="0" villagerId="1025">
          
+         
         <Page social="5">Você está sob as ordens de Dirken, não é? Uma história provável.&lt;BR&gt;&lt;BR&gt;Com todo o respeito, poderoso &lt;PCCLASS:lcase&gt;, você não parece ser do tipo de Dirken. Suas mãos estão limpas demais.&lt;BR&gt;&lt;BR&gt;Você vai sujar suas mãos de sangue matando alguns {@LinkCreature:12#2#bay kamaras} e {@LinkCreature:12#3#arachnen stalkers}, e então conversaremos. Não importa para quem você trabalha, você deve gostar de uma praia limpa, certo?</Page>
+    
     
     </Text>
     <Text huntingZoneId="212" id="3" prevId="2" villagerId="1002">
          
+         
         <Page social="5">Você realmente limpou a praia, exatamente como eu pedi.&lt;BR&gt;&lt;BR&gt;Esse é um tipo de lealdade maluca e sem perguntas que você tem, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;Com uma atitude de "apenas seguir ordens" como essa, você provavelmente está trabalhando para Dirken. Na equipe dele, pensar por si mesmo costuma ser fatal.</Page>
+    
     
     </Text>
 </QuestDialog>

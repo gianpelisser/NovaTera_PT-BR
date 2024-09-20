@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="41" id="23" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="41" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="241" id="100" prevId="0" villagerId="1016">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="241" id="2" prevId="0" villagerId="1016">
          
+         
         <Page social="4">Os orcs de Karba são corajosos para enfrentar tantos criadores de guerra em seu povo. Eles seriam bons soldados da federação se o alto comando os aceitasse.&lt;BR&gt;&lt;BR&gt;Eles bebem sangue de cullar para se fortalecer, mas a tribo Black Claw cortou o acesso deles aos cullars que vivem nas cavernas ao sul daqui. Se você estiver perto dessas &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7013#-23163,68890,2044&amp;type=1&amp;name=Caves"&gt;cavernas&lt;/A&gt;&lt;/font&gt;, pegue um pouco de sangue de cullar para {@LinkCreature:241#1020$$Hoorik}. Eu gostaria de mostrar a esses orcs que os valorizamos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="241" id="3" prevId="2" villagerId="1019">
          
+         
         <Page social="4">Sangue de Cullar? Como o conseguiu? &lt;BR&gt;&lt;BR&gt;Deve ter arriscado sua pele! Estou muito grato.</Page>
+    
     
     </Text>
     <Text huntingZoneId="241" id="4" villagerId="1019">
          
+         
         <Page social="0">Sinto falta do sabor do sangue cullar.&lt;BR&gt;&lt;BR&gt;Não é do seu gosto, sem dúvida, mas entre meu povo ele é sagrado.</Page>
+    
     
     </Text>
 </QuestDialog>

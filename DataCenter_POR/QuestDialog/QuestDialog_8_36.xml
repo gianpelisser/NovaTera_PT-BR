@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="8" id="36" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="8" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="208" id="100" prevId="0" villagerId="1037">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="208" id="2" prevId="0" villagerId="1037">
          
+         
         <Page social="4">Os {@LinkCreature:8#4031#skeletal caimans} e os {@LinkCreature:8#4032#bonethralls} estão sempre movendo corpos por aqui.&lt;BR&gt;&lt;BR&gt;Não sei por que e não me importo. Acabem com os jacarés. Essa é uma ordem.</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="3" prevId="2" villagerId="1037">
          
+         
         <Page social="4">Aposto que eles iam transformar aqueles corpos em escravos mortos-vivos. Nesse caso, tanto os vivos quanto os mortos lhe agradecem.&lt;BR&gt;&lt;BR&gt;Bom trabalho.</Page>
+    
     
     </Text>
 </QuestDialog>

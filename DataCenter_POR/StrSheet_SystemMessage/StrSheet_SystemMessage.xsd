@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns="https://vezel.dev/novadrop/dc/StrSheet_SystemMessage" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="https://vezel.dev/novadrop/dc" elementFormDefault="qualified" targetNamespace="https://vezel.dev/novadrop/dc/StrSheet_SystemMessage" xsi:schemaLocation="https://vezel.dev/novadrop/dc ../DataCenter.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="StrSheet_SystemMessage">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="String" type="StrSheet_SystemMessage_String" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="StrSheet_SystemMessage" type="StrSheet_SystemMessage" />
+  <xs:complexType name="StrSheet_SystemMessage_String">
+    <xs:attribute name="string" type="xs:string" />
+    <xs:attribute name="effect" type="xs:int" />
+    <xs:attribute name="sound" type="xs:int" />
+    <xs:attribute name="readableId" type="xs:string" />
+    <xs:attribute name="style" type="xs:string" />
+    <xs:attribute name="delayTime" type="xs:float" />
+    <xs:attribute name="chatChannel" type="xs:string" />
+    <xs:attribute name="displayChat" type="xs:boolean" />
+  </xs:complexType>
+</xs:schema>

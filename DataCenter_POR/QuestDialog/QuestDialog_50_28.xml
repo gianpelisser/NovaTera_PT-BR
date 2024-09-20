@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="50" id="28" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="50" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="250" id="100" prevId="0" villagerId="1018">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="250" id="2" prevId="0" villagerId="1018">
          
+         
         <Page social="4">A {@LinkCreature:250#1013} está ansiosa para fazer uma pesquisa de campo, mas é muito perigoso para ela. A segurança dela, e não sua felicidade, é minha maior prioridade.&lt;BR&gt;&lt;BR&gt;Por outro lado, se você diminuísse os executores de manaathol e athakela a leste daqui, talvez ela pudesse arriscar uma viagem.&lt;BR&gt;&lt;BR&gt;O que você acha?</Page>
+    
     
     </Text>
     <Text huntingZoneId="250" id="3" prevId="2" villagerId="1018">
          
+         
         <Page social="6">Shirka soube de sua missão. Ela está me importunando para que eu a deixe explorar a região.&lt;BR&gt;&lt;BR&gt;Graças a você, talvez seja seguro o suficiente agora.</Page>
+    
     
     </Text>
 </QuestDialog>

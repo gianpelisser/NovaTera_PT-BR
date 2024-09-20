@@ -1,19 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="60512001" string="Body Parts, Part Ew" />
-    <String id="60512002" string="&quot;An adventure?&quot;" />
-    <String id="60512003" string="" />
-    <String id="60512004" string="" />
-    <String id="60512005" string="Speak to {@LinkCreature:63#3003#Elthienne}." />
-    <String id="60512006" string="&quot;Put me to work.&quot;" />
-    <String id="60512007" string="Lash Parts" />
-    <String id="60512008" string="Hunt {@LinkCreature:12#13#Red Lash clawriders} on {@Rgn:12001#Mistmoor Island} and deliver collected parts to {@LinkCreature:63#3002#Taratia} in Velika." />
-    <String id="60512009" string="" />
-    <String id="60512010" string="&quot;Until next time.&quot;" />
-    <String id="60512011" string="Lash Parts" />
-    <String id="60512012" string="Hunt {@LinkCreature:12#17#Red Lash marauders} on {@Rgn:12001#Mistmoor Island} and deliver collected parts to {@LinkCreature:63#3002#Taratia} in Velika." />
-    <String id="60512013" string="" />
-    <String id="60512014" string="&quot;Until next time.&quot;" />
-    <String id="60512015" string="&quot;But of course.&quot;" />
-    <String id="60512016" string="Return to {@LinkCreature:63#3003#Elthienne}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="60510001" string="Taratia's Job" />
+    <String id="60510002" string="&quot;Okay...&quot;" />
+    <String id="60510003" string="" />
+    <String id="60510004" string="" />
+    <String id="60510005" string="Ask {@LinkCreature:63#3002#Taratia} about the job she has for you." />
+    <String id="60510006" string="&quot;I'm on it.&quot;" />
+    <String id="60510007" string="&quot;Thanks.&quot;" />
+    <String id="60510008" string="Deliver lightning essence to the Velika crafting guide, {@LinkCreature:63#1098#Santia}." />
+    <String id="60510009" string="" />
+    <String id="60510010" string="&quot;Thanks.&quot;" />
+    <String id="60510011" string="Deliver xermetal ore to the Velika crafting guide, {@LinkCreature:63#1098#Santia}." />
+    <String id="60510012" string="" />
+    <String id="60510013" string="&quot;See you next time.&quot;" />
+    <String id="60510014" string="Return to {@LinkCreature:63#3002#Taratia}." />
 </StrSheet_Quest>

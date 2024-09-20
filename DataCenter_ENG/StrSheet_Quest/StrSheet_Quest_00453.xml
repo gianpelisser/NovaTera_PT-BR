@@ -1,17 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="1504001" string="A Manor Invasion" />
-    <String id="1504002" string="&quot;Let's do it!&quot;" />
-    <String id="1504003" string="Join Jelena in Sinestral Manor.&lt;BR&gt;(Only normal mode will advance quests.)" />
-    <String id="1504004" string="&quot;We're ready. What's the plan?&quot;" />
-    <String id="1504005" string="Talk to Jelena." />
-    <String id="1504006" string="&quot;For Popolion!&quot;" />
-    <String id="1504007" string="Meet Jelena at the ladder to the ground floor." />
-    <String id="1504008" string="Kill the duke and duchess to open the secret temple door." />
-    <String id="1504009" string="&quot;Right behind you.&quot;" />
-    <String id="1504010" string="May your strength suffice. Let's go!" />
-    <String id="1504011" string="Fight alongside Jelena to the ladder room." />
-    <String id="1504012" string="Enter the hidden temple and destroy the dementalith generator." />
-    <String id="1504013" string="&quot;Heh.&quot;" />
-    <String id="1504014" string="Use the teleportal to leave Sinestral Manor and check in with Paka." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="1390001" string="Special Delivery" />
+    <String id="1390002" string="Use your scroll and teleport to the tower." />
+    <String id="1390003" string="Teleport masters can send you back to any nearby place you've visited before." />
+    <String id="1390004" string="Use the safe haven teleport scroll and return to the Tower Base." />
+    <String id="1390005" string="You have successfully used the &lt;b&gt;safe haven teleport scroll&lt;/b&gt;!" />
+    <String id="1390006" string="&quot;Thank you. That's great.&quot;" />
+    <String id="1390007" string="Talk to Teleport Master Hermaiorni." />
+    <String id="1390008" string="Teleport back to Fili at the Tainted Gorge Outpost." />
+    <String id="1390009" string="Relic Stone" />
+    <String id="1390010" string="Teleport back to Fili at the Tainted Gorge Outpost." />
+    <String id="1390011" string="&quot;For the federation!&quot;" />
 </StrSheet_Quest>

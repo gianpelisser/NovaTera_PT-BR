@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="46" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="46" huntingZoneId="13" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="64" id="100" prevId="0" villagerId="1050">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="64" id="2" prevId="0" villagerId="1050">
          
+         
         <Page social="4">Sorcha levou alguns bonecos animados para se proteger em sua jornada de cabelos selvagens até o Desfiladeiro Contaminado, mas ela precisa de soldados de verdade. Será que você e alguns amigos poderiam ir atrás dela e mantê-la em segurança? &lt;BR&gt;&lt;BR&gt;Forme um grupo com um lanceiro ou guerreiro para tankar, um místico ou sacerdote para curar e um ou dois causadores de dano. Esse tipo de equilíbrio de grupo garante que você possa enfrentar qualquer desafio que apareça em seu caminho.&lt;BR&gt;&lt;BR&gt;O teleportal está pronto para levá-lo à localização de Sorcha. Boa sorte.</Page>
+    
     
     </Text>
     <Text huntingZoneId="437" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="4">Isso foi assustador! E... hum... me desculpe.&lt;BR&gt;&lt;BR&gt;Obrigado por me proteger. Eu não deveria ter vindo aqui sem soldados para me proteger.&lt;BR&gt;&lt;BR&gt;Porei em dia depois de fazer algumas últimas leituras. Você pode usar o &lt;B&gt;teleportal&lt;/B&gt; para voltar à &lt;B&gt;Base da Torre&lt;/B&gt;. Diga ao &lt;B&gt;Adjunto Jorhon&lt;/B&gt; que estou bem... graças a você.</Page>
+    
     
     </Text>
     <Text huntingZoneId="64" id="4" prevId="3" villagerId="1006">
          
+         
         <Page social="4">Bom trabalho no desfiladeiro, &lt;PCNAME&gt;. Obrigado por ajudá-la.&lt;BR&gt;&lt;BR&gt;Como você viu, não importa o quanto sejamos fortes como soldados, sempre lutamos melhor em grupos. Tenha isso em mente ao avançar na federação. Alguns desafios devem ser enfrentados em equipe.</Page>
+    
     
     </Text>
 </QuestDialog>

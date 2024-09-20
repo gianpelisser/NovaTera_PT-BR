@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="5" id="31" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="5" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="205" id="100" prevId="0" villagerId="1006">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="205" id="2" prevId="0" villagerId="1006">
          
+         
         <Page social="5">Oh, não! Todo esse tempo eu pensei que tinha conseguido ficar com as &lt;font color='#660000'&gt;joias brilhantes&lt;/font&gt;, mas parece que eles levaram isso também! Ela vale mais do que todo o resto! &lt;BR&gt;&lt;BR&gt;{@LinkCreature:5#18#Bauba} me pediu especificamente para pegá-la para ele - aqueles tuwangis devem tê-la roubado para levá-la a ele.&lt;BR&gt;&lt;BR&gt;Por favor, vá trazer a joia de volta ou pelo menos traga de volta o pagamento por ela!</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="3" prevId="2" villagerId="1006">
          
+         
         <Page social="7">Bem, posso lhe dizer que, a partir de agora, estou cortando meus laços com esses arruaceiros tuwangi. Obrigado por ter recuperado minhas coisas - pelo menos agora posso vendê-las em outro lugar.&lt;BR&gt;&lt;BR&gt;Aqui - não tenho muito dinheiro fluido no momento, mas aceite isto por seus esforços.</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="4" villagerId="1006">
          
+         
         <Page social="0">Sei que já pedi muito a vocês, mas, por favor. Eu realmente precisaria de ajuda.</Page>
+    
     
     </Text>
 </QuestDialog>

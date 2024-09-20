@@ -1,17 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="18109001" string="It's All Relative" />
-    <String id="18109002" string="&quot;Count on me.&quot;" />
-    <String id="18109003" string="Entrance to Diranas Quarry" />
-    <String id="18109004" string="Entered Diranas Quarry." />
-    <String id="18109005" string="Enter Diranas Quarry." />
-    <String id="18109006" string="Use Hagand's Invisibility Potion in Diranas Quarry." />
-    <String id="18109007" string="You become invisible." />
-    <String id="18109008" string="&quot;That...makes sense.&quot;" />
-    <String id="18109009" string="Collect Relativity Stones while invisible." />
-    <String id="18109010" string="Bring Relativity Stones to Guikol." />
-    <String id="18109011" string="&quot;Sigh...fine. You're the smuggler.&quot;" />
-    <String id="18109012" string="Speak with Guikol." />
-    <String id="18109013" string="&quot;This looks like the place.&quot;" />
-    <String id="18109014" string="Hide the Relativity Stones under the pile of rocks." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="18108001" string="Non Compos Mentis" />
+    <String id="18108002" string="&quot;I'll take care of it.&quot;" />
+    <String id="18108003" string="Talk to Remam." />
+    <String id="18108004" string="Collect Composure Philter." />
+    <String id="18108005" string="Check Medicine Chests for Mind Recovery Potions." />
+    <String id="18108006" string="&quot;I'm still looking.&quot;" />
+    <String id="18108007" string="Give Composure Philter to First Baraka Survivor." />
+    <String id="18108008" string="&quot;You have my word.&quot;" />
+    <String id="18108009" string="Give Composure Philter to Second Baraka Survivor." />
+    <String id="18108010" string="&quot;We're coming for you, archdeva!&quot;" />
+    <String id="18108011" string="Talk to Suspicious Soldier." />
+    <String id="18108012" string="&quot;What are friends for?&quot;" />
+    <String id="18108013" string="Inform Remam of the archdeva disguised as a Highwatch soldier." />
 </StrSheet_Quest>

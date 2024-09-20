@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="901" id="11" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="901" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0">Surah ainda acha que há uma chance de que alguns desses doces de pedra de Kumasylum sejam realmente diamantes. Algum interesse em refutar essa teoria, de uma vez por todas?</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="1256">
          
+         
         <Page social="0">Huh. Mais doces de pedra.&lt;BR&gt;&lt;BR&gt;Bem, hum... melhor sorte da próxima vez?</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,29 +1,17 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="60511001" string="Pele, ossos e garras" />
-    <String id="60511002" string="&quot;Eu adoro matar coisas&quot;." />
-    <String id="60511003" string="" />
-    <String id="60511004" string="" />
-    <String id="60511005" string="" />
-    <String id="60511006" string="" />
-    <String id="60511007" string="Fale com {@LinkCreature:63#3003#Elthienne}." />
-    <String id="60511008" string="&quot;Conte comigo.&quot;" />
-    <String id="60511009" string="Peças Naga" />
-    <String id="60511010" string="Cace {@LinkCreature:10#8#naga battlemasters} em {@Rgn:10001#Serpentis Isle} e entregue as peças coletadas para {@LinkCreature:63#3002#Taratia} em Velika." />
-    <String id="60511011" string="" />
-    <String id="60511012" string="&quot;Aqui está.&quot;" />
-    <String id="60511013" string="Peças Naga" />
-    <String id="60511014" string="Cace {@LinkCreature:10#16#naga clawriders} em {@Rgn:10001#Serpentis Isle} e entregue as partes coletadas para {@LinkCreature:63#3002#Taratia} em Velika." />
-    <String id="60511015" string="" />
-    <String id="60511016" string="&quot;Aqui está.&quot;" />
-    <String id="60511017" string="Peças Naga" />
-    <String id="60511018" string="Cace {@LinkCreature:10#17#naga clawmasters} em {@Rgn:10001#Serpentis Isle} e entregue as partes coletadas para {@LinkCreature:63#3002#Taratia} em Velika." />
-    <String id="60511019" string="" />
-    <String id="60511020" string="&quot;Aqui está.&quot;" />
-    <String id="60511021" string="Peças Naga" />
-    <String id="60511022" string="Cace {@LinkCreature:10#18#naga leviatã} em {@Rgn:10001#Serpentis Isle} e entregue as partes coletadas para {@LinkCreature:63#3002#Taratia} em Velika." />
-    <String id="60511023" string="" />
-    <String id="60511024" string="&quot;Aqui está.&quot;" />
-    <String id="60511025" string="&quot;Vejo você em breve.&quot;" />
-    <String id="60511026" string="Fale com {@LinkCreature:63#3003#Elthienne}." />
+    <String id="60509001" string="Coisas e coisas" />
+    <String id="60509002" string="&quot;Obrigado.&quot;" />
+    <String id="60509003" string="" />
+    <String id="60509004" string="" />
+    <String id="60509005" string="Fale com {@LinkCreature:63#3002#Taratia} sobre um emprego." />
+    <String id="60509006" string="&quot;Estou aqui para servir.&quot;" />
+    <String id="60509007" string="&quot;Obrigado.&quot;" />
+    <String id="60509008" string="Entregue a essência de gelo para o guia de criação de Velika, {@LinkCreature:63#1098#Santia}." />
+    <String id="60509009" string="" />
+    <String id="60509010" string="&quot;Eu tenho a mercadoria.&quot;" />
+    <String id="60509011" string="Entregue o minério de shadmetal ao guia de criação de Velika, {@LinkCreature:63#1098#Santia}." />
+    <String id="60509012" string="" />
+    <String id="60509013" string="&quot;Obrigado.&quot;" />
+    <String id="60509014" string="Retorne a {@LinkCreature:63#3002#Taratia} para receber a indenização." />
 </StrSheet_Quest>

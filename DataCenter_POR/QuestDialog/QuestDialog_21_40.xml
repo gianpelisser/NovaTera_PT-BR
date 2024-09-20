@@ -1,21 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="21" id="40" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="21" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="221" id="100" prevId="0" villagerId="1036">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="221" id="2" prevId="0" villagerId="1036">
          
+         
         <Page social="4">Meu trabalho está sendo prejudicado pela burocracia. Os basiliscos precisam ser estudados em seu habitat natural, mas não temos permissão para entrar na área!&lt;BR&gt;&lt;BR&gt;Sei muito bem os perigos que enfrentamos, mas alguém tem que correr os riscos!&lt;NEXTPAGEBUTTON&gt;"Posso ajudar?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Na verdade, sim. Vá até o &lt;font color='#660000'&gt;Desert Overwatch&lt;/font&gt; e entregue minha &lt;font color='#660000'&gt;permissão de entrada&lt;/font&gt; para &lt;font color='#660000'&gt;Rhysart&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;Com sorte, isso será suficiente para convencê-lo a nos deixar passar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="221" id="3" prevId="2" villagerId="1029">
          
+         
         <Page social="4">Poupe seu fôlego. Como expliquei na semana passada, com ou sem permissão, é muito perigoso se aventurar por aqui. O Mysterium perdeu um agente na semana passada! &lt;BR&gt;&lt;BR&gt;Sei que eles estão dispostos, mas também tenho minhas ordens.</Page>
+    
     
     </Text>
 </QuestDialog>

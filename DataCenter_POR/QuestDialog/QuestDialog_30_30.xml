@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="30" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="30" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="230" id="100" prevId="0" villagerId="1016">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="230" id="2" prevId="0" villagerId="1016">
          
+         
         <Page social="1">Hoje é seu dia de sorte, soldado. Acontece que meu mestre, o feiticeiro Oshar, está lançando um novo empreendimento.&lt;BR&gt;&lt;BR&gt;Sob sua orientação, desenvolvi uma loção capilar que rejuvenesce e dá volume aos cabelos, e até os faz crescer novamente. Preciso produzir mais um lote de teste, mas estou sem ingredientes.&lt;BR&gt;&lt;BR&gt;Mas que sorte a sua!"&lt;/NEXTPAGEBUTTON&gt;"É?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">De fato! Você pode me ajudar a criar essa loção milagrosa!&lt;BR&gt;&lt;BR&gt;Pegue alguns ghilliedhus azureroot e verifique se há colméias.&lt;BR&gt;&lt;BR&gt;Recolha o mel e colha as incríveis recompensas!</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="3" prevId="2" villagerId="1016">
          
+         
         <Page social="1">Não vou me esquecer disso, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;De fato, vou acrescentar seu nome em "Contribuidores" na receita. E aqui está um pequeno símbolo de minha gratidão.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="4" villagerId="1016">
          
+         
         <Page social="0">A conclusão da Loção Luxuosa de Leshoff está próxima.&lt;BR&gt;&lt;BR&gt;Assim que eu conseguir mel de árvore ghilliedhu suficiente, ela estará completa!</Page>
+    
     
     </Text>
 </QuestDialog>

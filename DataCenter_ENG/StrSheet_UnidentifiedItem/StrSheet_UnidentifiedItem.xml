@@ -1,27 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_UnidentifiedItem xmlns="https://vezel.dev/novadrop/dc/StrSheet_UnidentifiedItem" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_UnidentifiedItem StrSheet_UnidentifiedItem.xsd">
-    <String name="unidentified" string="Enigmatic {ItemName}" grade="0" />
-    <String name="masterpiece" string="Masterwork {ItemName}" grade="0" />
-    <String name="awakened" string="Awakening: {ItemName}" grade="0" />
-    <String name="unidentifiedmasterpiece" string="Enigmatic Masterwork {ItemName}" grade="0" />
-    <String name="unidentifiedawakened" string="Awakening: Sealed {ItemName}" grade="0" />
-    <String name="unidentifiedModifier" string="Enigmatic" grade="0" />
-    <String name="masterpieceModifier" string="Masterwork" grade="0" />
-    <String name="awakenedModifier" string="Awakening: " grade="0" />
-    <String name="unidentifiedmasterpieceModifier" string="Enigmatic Masterwork" grade="0" />
-    <String name="unidentifiedawakenedModifier" string="Awakening: Sealed" grade="0" />
-    <String name="unidentifiedKeyword" string="Enigmatic" grade="0" />
-    <String name="masterpieceKeyword" string="Masterwork" grade="0" />
-    <String name="awakenedKeyword" string="Awakening" grade="0" />
-    <String name="unidentifiedmasterpieceKeyword" string="Enigmatic Masterwork" grade="0" />
-    <String name="unidentifiedawakenedKeyword" string="Awakening: Sealed" grade="0" />
-    <String name="UnidentifiedType" string="Enigma" grade="1" />
-    <String name="UnidentifiedType" string="Intricate Enigma" grade="2" />
-    <String name="UnidentifiedType" string="Intricate Enigma" grade="3" />
-    <String name="UnidentifiedType" string="Intricate Enigma" grade="4" />
-    <String name="setItem" string="&lt;Set&gt;" grade="0" />
-    <String name="RealUnidentifiedType" string="Enigma" grade="1" />
-    <String name="RealUnidentifiedType" string="Intricate Enigma" grade="2" />
-    <String name="RealUnidentifiedType" string="Blessed Enigmatic Scroll" grade="3" />
-    <String name="RealUnidentifiedType" string="Noble Enigmatic Scroll" grade="4" />
+<StrSheet_UnidentifiedItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_UnidentifiedItem StrSheet_UnidentifiedItem.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_UnidentifiedItem">
+    <String string="Enigmatic {ItemName}" name="unidentified" grade="0" />
+    <String string="Masterwork {ItemName}" name="masterpiece" grade="0" />
+    <String string="Awakened: {ItemName}" name="awakened" grade="0" />
+    <String string="Enigmatic Masterwork {ItemName}" name="unidentifiedmasterpiece" grade="0" />
+    <String string="Awakened: Sealed {ItemName}" name="unidentifiedawakened" grade="0" />
+    <String string="Enigmatic" name="unidentifiedModifier" grade="0" />
+    <String string="Masterwork" name="masterpieceModifier" grade="0" />
+    <String string="Awakened: " name="awakenedModifier" grade="0" />
+    <String string="Enigmatic Masterwork" name="unidentifiedmasterpieceModifier" grade="0" />
+    <String string="Awakened: Sealed" name="unidentifiedawakenedModifier" grade="0" />
+    <String string="Enigmatic" name="unidentifiedKeyword" grade="0" />
+    <String string="Masterwork" name="masterpieceKeyword" grade="0" />
+    <String string="Awakened" name="awakenedKeyword" grade="0" />
+    <String string="Enigmatic Masterwork" name="unidentifiedmasterpieceKeyword" grade="0" />
+    <String string="Awakened: Sealed" name="unidentifiedawakenedKeyword" grade="0" />
+    <String string="Enigma" name="UnidentifiedType" grade="1" />
+    <String string="Intricate Enigma" name="UnidentifiedType" grade="2" />
+    <String string="Intricate Enigma" name="UnidentifiedType" grade="3" />
+    <String string="Intricate Enigma" name="UnidentifiedType" grade="4" />
+    <String string="&lt;Set&gt;" name="setItem" grade="0" />
+    <String string="Enigma" name="RealUnidentifiedType" grade="1" />
+    <String string="Intricate Enigma" name="RealUnidentifiedType" grade="2" />
+    <String string="Blessed Enigmatic Scroll" name="RealUnidentifiedType" grade="3" />
+    <String string="Noble Enigmatic Scroll" name="RealUnidentifiedType" grade="4" />
 </StrSheet_UnidentifiedItem>

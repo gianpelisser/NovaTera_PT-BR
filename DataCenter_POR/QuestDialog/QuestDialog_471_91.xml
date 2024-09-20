@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="471" id="91" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="471" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="471" id="100" prevId="0" villagerId="1011">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="471" id="2" prevId="0" villagerId="1011">
          
+         
         <Page social="0">Ordens da missão&lt;BR&gt;&lt;BR&gt;Eliminar os ksharans na Tumba do Necromante.&lt;BR&gt;&lt;BR&gt;Matar todos os {@LinkCreature:471#105#ksharan battleragers}, {@LinkCreature:471#54#ksharan magisters}, {@LinkCreature:471#55#ksharan berserkers}, {@LinkCreature:471#56#ksharan myrmidons}, {@LinkCreature:471#5#ksharan destroyers} e {@LinkCreature:471#6#ksharan defenders}.&lt;BR&gt;&lt;BR&gt;Relacione-se com Valona quando a missão estiver concluída.</Page>
+    
     
     </Text>
     <Text huntingZoneId="471" id="3" prevId="2" villagerId="1011">
          
+         
         <Page social="5">Excelente trabalho. Continuem erradicando os ksharans imundos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="471" id="4" villagerId="1011">
          
+         
         <Page social="0">Em breve, teremos o controle. Se você começar a trabalhar.</Page>
+    
     
     </Text>
 </QuestDialog>

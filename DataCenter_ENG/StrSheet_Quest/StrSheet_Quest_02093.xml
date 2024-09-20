@@ -1,26 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="60204001" string="Fighting on an Empty Stomach" />
-    <String id="60204002" string="Soldiers can't fight without food. We need those rations in the field." />
-    <String id="60204003" string="The Shariar thank you!" />
-    <String id="60204004" string="&quot;I'll get these to the fighters.&quot;" />
-    <String id="60204005" string="Meet {@LinkCreature:78#3008#Artur} at {@Rgn:78001$$Zulfikar Fortress} and collect the emergency rations." />
-    <String id="60204006" string="" />
-    <String id="60204007" string="" />
-    <String id="60204008" string="Speak with {@LinkCreature:248#3003#Vikhonul} at {@Rgn:48002$$Khanovar Citadel}." />
-    <String id="60204009" string="&quot;I won't fail you.&quot;" />
-    <String id="60204010" string="&quot;Some food to keep you in the fight!&quot;" />
-    <String id="60204011" string="Deliver the emergency rations to Dooran at {@Rgn:48006$$Carnage Vale}." />
-    <String id="60204012" string="&quot;Some food to keep you in the fight!&quot;" />
-    <String id="60204013" string="Deliver the emergency rations to Kasadana at {@Rgn:48006$$Carnage Vale}." />
-    <String id="60204014" string="&quot;Some food to keep you in the fight!&quot;" />
-    <String id="60204015" string="Deliver the emergency rations to Neiran at {@Rgn:48006$$Carnage Vale}." />
-    <String id="60204016" string="&quot;Some food to keep you in the fight!&quot;" />
-    <String id="60204017" string="Deliver the emergency rations to Vatra at {@Rgn:48006$$Carnage Vale}." />
-    <String id="60204018" string="&quot;Some food to keep you in the fight!&quot;" />
-    <String id="60204019" string="Deliver the emergency rations to {@LinkCreature:248#3010#Orveras} in {@Rgn:48003$$Peril Cavern}." />
-    <String id="60204020" string="&quot;Some food to keep you in the fight!&quot;" />
-    <String id="60204021" string="Deliver the emergency rations to Akamak in {@Rgn:48003$$Peril Cavern}." />
-    <String id="60204022" string="&quot;Glad I could help.&quot;" />
-    <String id="60204023" string="Report back to {@LinkCreature:248#3003#Vikhonul} at {@Rgn:48002$$Khanovar Citadel}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="60202001" string="Waste Not, Want Not" />
+    <String id="60202002" string="The foundry represents our best hope for victory on the Khanovar Front." />
+    <String id="60202003" string="Good work out there. Thanks." />
+    <String id="60202004" string="" />
+    <String id="60202005" string="" />
+    <String id="60202006" string="" />
+    <String id="60202007" string="" />
+    <String id="60202008" string="" />
+    <String id="60202009" string="" />
+    <String id="60202010" string="Head to the {@Rgn:48004$$Cyanocannon Foundry} and meet {@LinkCreature:248#3014#Damian}." />
+    <String id="60202011" string="&quot;I'm on it.&quot;" />
+    <String id="60202012" string="&quot;Glad I could help.&quot;" />
+    <String id="60202013" string="Collect &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=8001#53502.3750,-7259.8418,-397.1198&amp;type=1&amp;name=Argon Components&quot;&gt;argon components&lt;/A&gt;&lt;/FONT&gt; on the {@Rgn:48001$$Khanovar Front}." />
+    <String id="60202014" string="Deliver the components to {@LinkCreature:248#3014#Damian} at the {@Rgn:48004$$Cyanocannon Foundry}." />
+    <String id="60202015" string="&quot;Glad I could help.&quot;" />
+    <String id="60202016" string="Collect &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=8001#59834.8281,-2551.6060,-539.6696&amp;type=1&amp;name=Siege Weapon Components&quot;&gt;siege weapon components&lt;/A&gt;&lt;/FONT&gt; on the {@Rgn:48001$$Khanovar Front}." />
+    <String id="60202017" string="Deliver the components to {@LinkCreature:248#3014#Damian} at the {@Rgn:48004$$Cyanocannon Foundry}." />
+    <String id="60202018" string="&quot;Glad I could help.&quot;" />
+    <String id="60202019" string="Collect &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=8001#53502.3750,-7259.8418,-397.1198&amp;type=1&amp;name=Argon Components&quot;&gt;argon components&lt;/A&gt;&lt;/FONT&gt; on the {@Rgn:48001$$Khanovar Front}." />
+    <String id="60202020" string="Deliver the components to {@LinkCreature:248#3014#Damian} at the {@Rgn:48004$$Cyanocannon Foundry}." />
+    <String id="60202021" string="&quot;Glad I could help.&quot;" />
+    <String id="60202022" string="Collect &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=8001#59834.8281,-2551.6060,-539.6696&amp;type=1&amp;name=Siege Weapon Components&quot;&gt;siege weapon components&lt;/A&gt;&lt;/FONT&gt; on the {@Rgn:48001$$Khanovar Front}." />
+    <String id="60202023" string="Deliver the components to {@LinkCreature:248#3014#Damian} at the {@Rgn:48004$$Cyanocannon Foundry}." />
+    <String id="60202024" string="&quot;Glad I could help.&quot;" />
+    <String id="60202025" string="Collect &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=8001#53502.3750,-7259.8418,-397.1198&amp;type=1&amp;name=Argon Components&quot;&gt;argon components&lt;/A&gt;&lt;/FONT&gt; on the {@Rgn:48001$$Khanovar Front}." />
+    <String id="60202026" string="Deliver the components to {@LinkCreature:248#3014#Damian} at the {@Rgn:48004$$Cyanocannon Foundry}." />
+    <String id="60202027" string="&quot;Glad I could help.&quot;" />
+    <String id="60202028" string="Collect &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=8001#59834.8281,-2551.6060,-539.6696&amp;type=1&amp;name=Siege Weapon Components&quot;&gt;siege weapon componenets&lt;/A&gt;&lt;/FONT&gt; on the {@Rgn:48001$$Khanovar Front}." />
+    <String id="60202029" string="Deliver the components to {@LinkCreature:248#3014#Damian} at the {@Rgn:48004$$Cyanocannon Foundry}." />
 </StrSheet_Quest>

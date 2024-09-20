@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="16" id="26" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="16" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="216" id="100" prevId="0" villagerId="1008">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="216" id="2" prevId="0" villagerId="1008">
          
+         
         <Page social="4">Você nos deu um bom começo. Obrigado. Acho que podemos continuar a partir daqui.&lt;BR&gt;&lt;BR&gt;Por que você não vai ajudar o Kiron? Ele estava prestes a sair para tentar encontrar o filho de Jadan - esse é um trabalho no qual tenho certeza de que ele não se importaria de ajudar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="216" id="3" prevId="2" villagerId="1020">
          
+         
         <Page social="4">Pemo o enviou, hein? Foi bom da parte dele.&lt;BR&gt;&lt;BR&gt;Acontece que eu já encontrei o garoto, mas ainda não pensei na maneira certa de abordá-lo.&lt;BR&gt;&lt;BR&gt;Só que... como se diz isso? "Ei garoto, encontramos seu pai morto com o sangue drenado."&lt;BR&gt;&lt;BR&gt;Acho que isso precisa ser mais trabalhado.</Page>
+    
     
     </Text>
 </QuestDialog>

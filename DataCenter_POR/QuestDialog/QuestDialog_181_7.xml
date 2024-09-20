@@ -1,46 +1,63 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="181" id="7" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="181" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="181" id="100" prevId="0" villagerId="1031">
          
+         
         <Page social="0">Rhodos relatou ter visto cadáveres de baraka na área de Havenstone.&lt;BR&gt;Em direção à Pedreira Diranas, &lt;PCNAME&gt; investigou os cadáveres em seu nome e realizou um ritual para consolar suas almas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="181" id="2" prevId="0" villagerId="1031">
          
+         
         <Page social="4">Você é o visitante, &lt;PCNAME&gt;, não é? &lt;BR&gt;&lt;BR&gt;Um mensageiro passou por aqui há pouco tempo. Aparentemente, o comandante khiriano, Rhodos, queria falar com você.&lt;BR&gt;&lt;BR&gt;Ele disse que o esperaria na estrada do oeste.&lt;NEXTPAGEBUTTON&gt;"Obrigado."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="181" id="3" prevId="2" villagerId="1102">
          
+         
         <Page social="4">Encontrei os cadáveres de alguns soldados baraka e há algo estranho na maneira como morreram.&lt;BR&gt;&lt;BR&gt;Pode dar uma olhada neles e me dizer o que acha? Os baraka confiam em você e eu gostaria que confirmasse minhas suspeitas.&lt;NEXTPAGEBUTTON&gt;"Claro."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="181" id="4" prevId="3" villagerId="1015">
          
+         
         <Page social="4">O ferimento desse baraka morto está chamuscado.&lt;NEXTPAGEBUTTON&gt;"Curioso."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="181" id="5" prevId="4" villagerId="1016">
          
+         
         <Page social="4">"&lt;NEXTPAGEBUTTON&gt;Finalize a investigação.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="181" id="6" prevId="5" villagerId="1102">
          
+         
         <Page social="4">Eu sabia! Archdevas!&lt;BR&gt;&lt;BR&gt;As marcas de queimaduras confirmam isso, e o fato de não terem visto o ataque significa que devem ter sido atacados sob a cobertura da escuridão. Todos esses barakas mortos devem ter sido vítimas de uma emboscada!&lt;BR&gt;&lt;BR&gt;Isso é ruim, &lt;PCNAME&gt;. Se eles morreram sem ver os rostos de seus assassinos, eles voltarão como espectros vingativos e assombrarão esta estrada para sempre! Temos que realizar um ritual de consolo para que seus espíritos descansem.&lt;NEXTPAGEBUTTON&gt;"Humm... vai demorar muito?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Sei que parece ridículo, mas é um costume de sepultamento que nós, khirianos, compartilhamos com os barakas. Faça-me a vontade.&lt;BR&gt;&lt;BR&gt;Pedirei a Joakim e Donakim que juntem pedras para construir um túmulo.&lt;BR&gt;&lt;BR&gt;Enquanto isso, use as pedras ao redor dos cadáveres dos barakas para coletar suas almas - e depois purifique-se com sangue de ovelha, para que o cheiro da alma dos soldados não permaneça em você. Caso contrário, eles o assombrarão pelo resto de seus dias.&lt;NEXTPAGEBUTTON&gt;"Uh, sim. Não podemos permitir isso."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="181" id="7" prevId="6" villagerId="1102">
          
+         
         <Page social="4">Obrigado, &lt;PCNAME&gt;. Agradeço por demonstrar respeito por nossa cultura.&lt;BR&gt;&lt;BR&gt;Joakim e Donakim construíram um túmulo para cada um dos barakas assassinados. Agora você só precisa terminar as sepulturas, colocando as pedras das almas deles nas lápides, e eles poderão descansar na vida após a morte.&lt;NEXTPAGEBUTTON&gt;"Ótimo. Estou ansioso para começar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="181" id="8" prevId="7" villagerId="1102">
          
+         
         <Page social="4">Obrigado, &lt;PCNAME&gt;. Eu sabia que podia contar com você.&lt;BR&gt;&lt;BR&gt;E quando chegar a hora, sei que posso contar com você para me ajudar a fazer com que os responsáveis paguem pelo que fizeram... com o próprio sangue deles!&lt;NEXTPAGEBUTTON&gt;Acordo&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
 </QuestDialog>

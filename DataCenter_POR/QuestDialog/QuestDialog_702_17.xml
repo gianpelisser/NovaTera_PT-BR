@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="702" id="17" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="17" huntingZoneId="702" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="205" id="100" prevId="0" villagerId="2002">
          
+         
         <Page social="0">Você colheu flores para a Pond Faire.</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="2" prevId="0" villagerId="2002">
          
+         
         <Page social="4">Preciso de mais flores para trazer tuwangis! &lt;NEXTPAGEBUTTON&gt;Eu ajudo.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="3" prevId="2" villagerId="2002">
          
+         
         <Page social="4">Lindas flores! Que bom! Mais tuwangis estão chegando.&lt;NEXTPAGEBUTTON&gt;Entregue as flores.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="4" villagerId="2002">
          
+         
         <Page social="0">Precisa de flores.</Page>
+    
     
     </Text>
 </QuestDialog>

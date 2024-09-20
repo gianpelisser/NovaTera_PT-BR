@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="27" id="22" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="27" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="227" id="100" prevId="0" villagerId="1006">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="227" id="2" prevId="0" villagerId="1006">
          
+         
         <Page social="5">A principal função do nosso acampamento é atuar como uma área de preparação para as tropas que chegam. Nós as designamos para as unidades mais necessitadas e as colocamos na linha de frente contra as legiões de Thulsa. Infelizmente, nós mesmos estamos em perigo.&lt;BR&gt;&lt;BR&gt;Os {@LinkCreature:27#23#Thulsan threshers}, {@LinkCreature:27#25#Thulsan reapers} e {@LinkCreature:27#21#Thulsan battleragers} estão massacrando nossas forças. Você tem ordens para matá-los e ganhar tempo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="227" id="3" prevId="2" villagerId="1006">
          
+         
         <Page social="5">Nada mal, &lt;PCNAME&gt;. Não é eficiente, mas é eficaz o suficiente. Eu teria feito melhor, é claro.</Page>
+    
     
     </Text>
 </QuestDialog>

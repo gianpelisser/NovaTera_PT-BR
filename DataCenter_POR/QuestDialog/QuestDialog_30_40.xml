@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="40" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="30" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="230" id="100" prevId="0" villagerId="1027">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="230" id="2" prevId="0" villagerId="1027">
          
+         
         <Page social="1">Ouvi dizer que "aquisições" são sua especialidade, &lt;PCNAME&gt;. Bem, isso e caos.&lt;BR&gt;&lt;BR&gt;Não há necessidade de caos por aqui, mas há algo que você pode adquirir para mim: peles para os curtumes de Allemantheia.&lt;BR&gt;&lt;BR&gt;Todo mundo caça roedores e outros animais pequenos, mas eu digo que devemos fazer uma grande jogada. Vamos matar alguns ursos de planície!</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="3" prevId="2" villagerId="1027">
          
+         
         <Page social="1">Ótima pele, amigo. Costure essas peles em roupas de alta qualidade, leve-as para Allemantheia e espere que os clientes tragam carrinhos de mão cheios de dinheiro.&lt;BR&gt;&lt;BR&gt;E se você estiver disposto a ficar por aqui por um tempo, podemos ganhar ainda mais dinheiro, você e eu.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="4" villagerId="1027">
          
+         
         <Page social="0">Meu porta-moedas está aberto para quem trouxer um pouco de pele de urso {@LinkCreature:30#200#plainstalker}. Você sabe como é um urso, certo?</Page>
+    
     
     </Text>
 </QuestDialog>

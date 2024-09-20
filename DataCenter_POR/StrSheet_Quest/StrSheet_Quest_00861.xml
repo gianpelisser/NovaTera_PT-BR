@@ -1,11 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="3041001" string="Peregrinos Popo" />
-    <String id="3041002" string="Certifique-se de que nenhum peregrino morra!" />
-    <String id="3041003" string="Ufa! Posso relaxar... até que eles voltem." />
-    <String id="3041004" string="Vamos lá!" />
-    <String id="3041005" string="Oh, obrigado!" />
-    <String id="3041006" string="[{@Rgn:30014$$Lago de Seren}] Acompanhe o {@linkcreature:230#1094#popori tourist} até &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=7015#-882.1941,85791.7813,-1464.2461&amp;type=1&amp;name=Lago de Seren&quot;&gt;{@Rgn:30014$$$Lago de Seren}&lt;/A&gt;&lt;/font&gt;." />
-    <String id="3041007" string="&quot;Fico feliz em poder ajudar.&quot;" />
-    <String id="3041008" string="Informe ao Centurião {@linkcreature:230#1066$$Nicielle} que o turista {@linkcreature:230#1094#popori} chegou ao lago em segurança." />
+    <String id="3037001" string="Eles estão arruinando as ruínas" />
+    <String id="3037002" string="Imagine... nós caminhamos onde os gigantes já pisaram." />
+    <String id="3037003" string="Hee hee! Obrigado!" />
+    <String id="3037004" string="Mate {@linkcreature:30#520#dreadpaw mandrills} no {@Rgn:30008$$Arquivo Inferior}." />
+    <String id="3037005" string="&quot;Para a federação.&quot;" />
+    <String id="3037006" string="Informe ao Decurion {@linkcreature:230#1001$$Litherus} no {@Rgn:30008$$Arquivo Inferior}." />
 </StrSheet_Quest>

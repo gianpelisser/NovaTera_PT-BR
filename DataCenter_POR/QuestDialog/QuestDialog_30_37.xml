@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="37" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="30" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="230" id="100" prevId="0" villagerId="1001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="230" id="2" prevId="0" villagerId="1001">
          
+         
         <Page social="1">Um decurião tem que fazer o que um decurião tem que fazer. Você não é um decurião, mas com certeza pode ajudar.&lt;BR&gt;&lt;BR&gt;Os {@LinkCreature:30#520#dreadpaw mandrills} estão à solta. Além de atacar arqueólogos pacíficos, eles estão cometendo um crime imperdoável. Estão movendo as pedras de um lado para o outro! &lt;BR&gt;&lt;BR&gt;Bastante violência para afugentá-los e evitaremos que o {@Rgn:30008$$Arquivo Inferior} se pareça com as ruínas do {@Rgn:30009$$Arquivo Superior}!</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="1">O único mandril bom é um mandril morto.&lt;BR&gt;&lt;BR&gt;Sou um bom juiz de caráter e posso dizer, pelo seu olhar, que os mandris {@LinkCreature:30#520#dreadpaw} são coisa do passado.</Page>
+    
     
     </Text>
 </QuestDialog>

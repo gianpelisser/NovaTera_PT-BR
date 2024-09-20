@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="54" id="24" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="54" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="81" id="100" prevId="0" villagerId="1017">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="81" id="2" prevId="0" villagerId="1017">
          
+         
         <Page social="4">A história é tão antiga quanto o tempo. Uma terra devastada pela ocupação e pela peste, esgotada de recursos pelos intrépidos habitantes que lutam para restaurá-la, não consegue mais suportar a resistência e inevitavelmente sucumbe ao destino. Este bosque está condenado.&lt;BR&gt;&lt;BR&gt;A magia das fadas está falhando, e é preciso tomar medidas para encontrar alternativas. Nas profundezas dos ghilliedhus loucos e desenfreados, encontra-se o poder da vida em potencial, do crescimento em potencial. Poder que aguarda o dia para reiniciar essas terras, cultivar uma nova floresta limpa, quando a vida finalmente emergirá vitoriosa.&lt;BR&gt;&lt;BR&gt;Traga-me as sementes imaculadas do ghilliedhus desenfreado, para a glória!</Page>
+    
     
     </Text>
     <Text huntingZoneId="81" id="3" prevId="2" villagerId="1017">
          
+         
         <Page social="4">O tempo pode devastar essa terra e esse povo, mas graças aos esforços de corajosos &lt;PCCLASS:lcase&gt;s, o futuro, por mais distante que seja, traz esperança.&lt;BR&gt;&lt;BR&gt;Quando essas sementes crescerem e a floresta recomeçar, talvez eles a chamem de Seinwood ou &lt;PCNAME&gt;wood....</Page>
+    
     
     </Text>
     <Text huntingZoneId="81" id="4" villagerId="1017">
          
+         
         <Page social="0">As sementes de ghilliedhu ficam no fundo do cerne dos ghilliedhus. É por isso que elas estão a salvo do contágio. Não adianta procurar no chão; matar os ghilliedhus desenfreados é a única maneira.</Page>
+    
     
     </Text>
 </QuestDialog>

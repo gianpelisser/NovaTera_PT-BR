@@ -1,19 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="122" id="10" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="122" id="100" prevId="0" villagerId="9001">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="122" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="122" prevId="0" villagerId="9001">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="122" id="2" prevId="0" villagerId="9001">
-         
+    <Text id="2" huntingZoneId="122" prevId="0" villagerId="9001">
         <Page social="1">Friend, the Enlightened Union has need of you.&lt;BR&gt;&lt;BR&gt;Our spies in the lands controlled by the Iron Order have reported troubling rumors, suggesting they might be planning to employ some of the local beasts to use as shock troops against us.&lt;BR&gt;&lt;BR&gt;This requires further investigation. Please enter the order's territory and slay a few {@linkcreature:123#202#Darkquaver mugatos} and {@linkcreature:123#205#river ghilliedhus}, and return with your findings.</Page>
-    
     </Text>
-    <Text huntingZoneId="122" id="3" prevId="2" villagerId="9001">
-         
+    <Text id="3" huntingZoneId="122" prevId="2" villagerId="9001">
         <Page social="0">You have performed exceptionally—and for that, my friend, the Enlightened Union is in your debt!</Page>
-    
     </Text>
 </QuestDialog>

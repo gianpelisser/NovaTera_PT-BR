@@ -1,39 +1,53 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="16" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="16" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="67" id="100" prevId="0" villagerId="1007">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="67" id="2" prevId="0" villagerId="1007">
          
+         
         <Page social="5">Preciso que meu mensageiro Jadan entregue um pacote que acabou de chegar, mas ele não está em lugar nenhum da vila.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, você pode ir perguntar a {@LinkCreature:67#1008$$Okon} no portão norte se ele viu Jadan sair?</Page>
+    
     
     </Text>
     <Text huntingZoneId="67" id="3" prevId="2" villagerId="1008">
          
+         
         <Page social="5">Jadan? Não, eu não o vi passar por aqui hoje. &lt;BR&gt;&lt;BR&gt;Verifique com {@LinkCreature:67#1019#Kripa} ali, só para ter certeza.</Page>
+    
     
     </Text>
     <Text huntingZoneId="67" id="4" prevId="3" villagerId="1019">
          
+         
         <Page social="5">Diga o nome novamente... Jadan? Ah, claro. Ele e seu filho passaram por aqui há algum tempo, indo em direção ao &lt;font color='#660000'&gt;Vale of the Fang&lt;/font&gt;. Disse que tinha ervas para colher.&lt;BR&gt;&lt;BR&gt;Agora que você mencionou, já faz algum tempo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="216" id="5" prevId="4" villagerId="1013">
          
+         
         <Page social="5">(É um cadáver popori deitado ao lado de algumas ervas recém-colhidas. O pelo dificulta o exame, mas com algum esforço você descobre que todo o sangue dele foi drenado).</Page>
+    
     
     </Text>
     <Text huntingZoneId="67" id="6" prevId="5" villagerId="1019">
          
+         
         <Page social="5">Ele... o quê? Isso... isso não parece certo. Como é que uma coisa dessas acontece? &lt;BR&gt;&lt;BR&gt;Você deve avisar Paka imediatamente.</Page>
+    
     
     </Text>
     <Text huntingZoneId="67" id="7" prevId="6" villagerId="1007">
          
+         
         <Page social="5">Jadan está morto? Isso é horrível. Coisas estranhas estão acontecendo ultimamente, isso é certo. Deveríamos iniciar um sistema de amigos.&lt;BR&gt;&lt;BR&gt;Mas espere, onde está o filho dele, Dipa?</Page>
+    
     
     </Text>
 </QuestDialog>

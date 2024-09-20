@@ -1,39 +1,53 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="63" id="83" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="83" huntingZoneId="63" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="63" id="100" prevId="0" villagerId="1136">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="2" prevId="0" villagerId="1136">
          
+         
         <Page social="0">Ei, acho que você não está a caminho da Oficina de Criação em Velika, está? Estou esperando uma arma deles - você acha que poderia passar lá e perguntar a Santia quando ela estará pronta? &lt;BR&gt;&lt;BR&gt;Só se você estiver indo para lá, é claro.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="1098">
          
+         
         <Page social="0">Ah, a Velika deixou... bem, deixa pra lá. Eu me esqueci completamente da arma de Jefaln. Mas estou absolutamente atolado de trabalho - seria de grande ajuda se você conseguisse materiais de Thura e um projeto de Babur, e depois processasse esse minério para mim.&lt;BR&gt;&lt;BR&gt;Não se preocupe, eu farei a arma e não vai demorar muito, mas seria muito mais rápido se o minério já estivesse processado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="4" prevId="3" villagerId="1190">
          
+         
         <Page social="0">Olá! Eu lido com reagentes e peças, peças e reagentes! Parece que são a mesma coisa. Acho que são, na verdade, mas todo mundo se refere a eles como coisas separadas.&lt;BR&gt;&lt;BR&gt;De qualquer forma, você os usa para coisas diferentes. E, de qualquer forma, eu carrego os dois. O que você queria?</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="5" prevId="4" villagerId="1196">
          
+         
         <Page social="0">Desenhos, desenhos, estou cheio de desenhos até os olhos. Você parece um tanto xadrez. Ha! Ha ha!&lt;BR&gt;&lt;BR&gt;Ha? Eh, humor de comerciante de design. Você não entenderia.&lt;BR&gt;&lt;BR&gt;De qualquer forma, aqui está o desenho de que você precisa.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="6" prevId="5" villagerId="1098">
          
+         
         <Page social="0">Muito bem feito. Tome este projeto de arma para sua ajuda.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="7" villagerId="1098">
          
+         
         <Page social="0">Para onde está olhando? Seus braços estão quebrados? &lt;BR&gt;&lt;BR&gt;Bem, eu não vi materiais neles, então presumi que você tivesse problemas para levantá-los.</Page>
+    
     
     </Text>
 </QuestDialog>

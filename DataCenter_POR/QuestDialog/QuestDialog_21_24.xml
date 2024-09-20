@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="21" id="24" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="21" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="221" id="100" prevId="0" villagerId="1025">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="221" id="2" prevId="0" villagerId="1025">
          
+         
         <Page social="4">Os ataques dos kulkari ameaçam nossa posição aqui no deserto. Se pudermos contra-atacar com força suficiente, eles poderão recuar. Encontre {@LinkCreature:21#5001#Crag Stalker warlord Beldresk} e mate-o.&lt;BR&gt;&lt;BR&gt;De fato, traga uma presa e eu a pendurarei em nossa tenda. Envie a eles uma mensagem de que não seremos intimidados!</Page>
+    
     
     </Text>
     <Text huntingZoneId="221" id="3" prevId="2" villagerId="1025">
          
+         
         <Page social="4">Os Crag Stalkers vão pensar duas vezes antes de atacar novamente, graças a você.&lt;BR&gt;&lt;BR&gt;Não vai trazer os mortos de volta, mas pode evitar mais mortes. Muito bem!</Page>
+    
     
     </Text>
     <Text huntingZoneId="221" id="4" villagerId="1025">
          
+         
         <Page social="0">Eu disse que isso enviaria uma mensagem a eles, não que seria fácil. Não tenha pressa e use a cabeça. &lt;BR&gt;&lt;BR&gt;Você consegue!</Page>
+    
     
     </Text>
 </QuestDialog>

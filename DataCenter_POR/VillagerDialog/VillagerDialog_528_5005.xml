@@ -1,33 +1,45 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="528" id="5005" voiceTypeId="137">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5005" huntingZoneId="528" voiceTypeId="137">
     <Text id="1" endSocial="14">
          
+         
         <Page social="4">Kaiator não sucumbirá a nenhuma ameaça! Kaia, a deusa da guerra, nos protegerá!</Page>
+    
     
     </Text>
     <Text id="101" endSocial="14">
          
+         
         <Page social="4">O que é toda essa comoção?</Page>
+    
     
     </Text>
     <Text id="102" endSocial="14">
          
+         
         <Page social="4">O quê? Havia uma batalha acontecendo lá! O que aconteceu?</Page>
+    
     
     </Text>
     <Text id="103" endSocial="14">
          
+         
         <Page social="4">Você descobriu alguma coisa?</Page>
+    
     
     </Text>
     <Text id="104" endSocial="14">
          
+         
         <Page social="4">É por isso que estou colocando &lt;PCNAME&gt; responsável pela missão..</Page>
+    
     
     </Text>
     <Text id="105" endSocial="14">
          
+         
         <Page social="4">Sei que posso confiar em vocês dois para terminar isso!</Page>
+    
     
     </Text>
 </VillagerDialog>

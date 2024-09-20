@@ -1,109 +1,152 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="32" id="1" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="32" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0">Tempest Reach já foi um lugar pacífico, mas uma tempestade de gelo isolou o porto e inundou a área com monstros mortos-vivos. Você chegou para apoiar a equipe de pesquisa que procurava a causa desses estranhos eventos. Enquanto procurava os medidores de mana da equipe, você encontrou um bardo procurando ajuda. Ela lhe contou sobre uma conspiração para roubar os poderes de Zenobia, a deusa que protege Tempest Reach. Thulsa e seus seguidores queriam usar os poderes de Zenobia para sustentar os mortos-vivos que vagavam por Tempest Reach e formar um exército para esmagar Acarum. Você eliminou os monstros, adquiriu o Seal of Destruction (Selo da Destruição) para reverter a magia de Thulsa e destruiu as lápides sangrentas que enfraqueciam Zenobia. O bardo então apareceu para você em sua verdadeira forma como a deusa Zenobia, para lhe agradecer.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0">[Apresente-se imediatamente a Georrif em Tempest Reach, na Costa Congelada. Apoie os arcanistas que estão investigando a causa do recente desastre e dos subsequentes ataques de mortos-vivos.&lt;BR&gt;&lt;BR&gt;Arcanista-chefe do Mysterium, Ryshan</Page>
+    
     
     </Text>
     <Text huntingZoneId="73" id="3" prevId="2" villagerId="1009">
          
+         
         <Page social="4">Estou feliz por você estar aqui. Pelo que se sabe, uma flutuação de mana ao longo das linhas costeiras causou essa tempestade anormal. Ela congelou a água e tudo o que havia nela.&lt;BR&gt;&lt;BR&gt;Kennance, da Estação de Pesquisa da Baía Glacial, é a responsável pelos medidores de mana. Ela está pedindo ajuda.</Page>
+    
     
     </Text>
     <Text huntingZoneId="231" id="4" prevId="3" villagerId="1024">
          
+         
         <Page social="4">Assim que instalamos os medidores, os mortos-vivos se mudaram para lá. Nunca vi tantos em um só lugar.&lt;BR&gt;&lt;BR&gt;A menos que eu erre meu palpite, esse é o trabalho de Thulsa.&lt;NEXTPAGEBUTTON&gt;"Como posso ajudar?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Enviamos uma de nossas pesquisadoras, Versa, para coletar resultados dos medidores que colocamos ao longo da costa da enseada Icefang, mas ela não voltou. Você pode ir procurá-la?</Page>
+    
     
     </Text>
     <Text huntingZoneId="231" id="5" prevId="4" villagerId="1046">
          
+         
         <Page social="4">Graças a Deus! Um soldado!&lt;BR&gt;&lt;BR&gt;Um {@LinkCreature:31#2#ossugon icelord} me atacou e eu tive que fugir. Se não fosse por aquele bardo, você estaria resgatando um cadáver. Ela tocou sua harpa e os monstros simplesmente se dispersaram! &lt;BR&gt;&lt;BR&gt;Infelizmente, o {@LinkCreature:31#2#icelord} levou os mapas de ondas de mana com os dados de pesquisa que coletei. Você pode me ajudar a recuperá-los? Precisamos dessas informações.</Page>
+    
     
     </Text>
     <Text huntingZoneId="231" id="6" prevId="5" villagerId="1046">
          
+         
         <Page social="4">Obrigado por sua ajuda! Acha que posso contar com você mais uma vez? &lt;BR&gt;&lt;BR&gt;Não consegui alcançar os dois últimos medidores de mana por causa dos Senhores do Gelo. Você pode encontrá-los e buscar seus resultados? &lt;BR&gt;&lt;BR&gt;Siga este caminho morro acima. Depois de recuperar os mapas de ondas de mana, leve-os para Matil na Guarnição de Beacon Point. Quando se trata do estudo da necromancia, ele não tem igual no Mysterium.&lt;BR&gt;&lt;BR&gt;Não se preocupe comigo. Pegarei uma carona de volta com os soldados da guarnição.</Page>
+    
     
     </Text>
     <Text huntingZoneId="231" id="7" villagerId="1046">
          
+         
         <Page social="0">Nós realmente precisamos saber o que esses medidores dizem. Espero que você consiga recuperá-los.</Page>
+    
     
     </Text>
     <Text huntingZoneId="231" id="8" prevId="6" villagerId="1047">
          
+         
         <Page social="0">(A luz escapa do medidor e mostra um pedaço de pergaminho saindo de dentro dele).</Page>
+    
     
     </Text>
     <Text huntingZoneId="231" id="9" prevId="8" villagerId="1048">
          
+         
         <Page social="0">(Siga este caminho até o topo da colina. Estarei esperando por você lá com os mapas de ondas de mana.)&lt;BR&gt;&lt;BR&gt;(--Ona)</Page>
+    
     
     </Text>
     <Text huntingZoneId="231" id="10" prevId="9" villagerId="1041">
          
+         
         <Page social="4">Está vendo aquele ciclone? Zenobia, a deusa das tempestades, colocou seu amante Iannis para descansar em seu centro. Ela manteve as águas calmas sobre o túmulo dele para que seus descendentes pudessem colher a generosidade do mar.&lt;NEXTPAGEBUTTON&gt;"É uma história triste."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="4">Não tão triste quanto o que os seguidores de Thulsa planejaram. Eles estão usando lápides para concentrar sua necromancia em torno da cripta de Iannis. Eles querem trazer Iannis de volta... morto-vivo.&lt;BR&gt;&lt;BR&gt;Zenóbia congelou o mar para impedir isso temporariamente.&lt;BR&gt;&lt;BR&gt;Se ao menos soubéssemos mais sobre a magia de Thulsa, talvez pudéssemos encontrar uma solução mais permanente.&lt;NEXTPAGEBUTTON&gt;"Eu conheço alguém!"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Um pesquisador? Então, talvez haja esperança para Tempest Reach.&lt;BR&gt;&lt;BR&gt;Por favor, me ajude. Conte ao seu amigo pesquisador o que está acontecendo e encontre uma maneira de deter Thulsa!</Page>
+    
     
     </Text>
     <Text huntingZoneId="231" id="11" prevId="10" villagerId="1049">
          
+         
         <Page social="4">Já era hora de alguém me trazer essas leituras.&lt;BR&gt;&lt;BR&gt;Tombstones? Um bardo? Como ela conseguiu chegar perto da Enseada dos Caninos de Gelo? Talvez ela seja uma das espiãs de Thulsa.&lt;NEXTPAGEBUTTON&gt;"Muito pelo contrário."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Eles me disseram que eu estava contratando alguém para ajudar, não para me dar mais trabalho.&lt;BR&gt;&lt;BR&gt;Mas não vou fingir que não estou intrigado. Traga-me um pouco de sangue de gula {@LinkCreature:31#14#bosuns} ou {@LinkCreature:31#15#officers} afogados. Analisarei a mana para ver se ela ficou mais forte.</Page>
+    
     
     </Text>
     <Text huntingZoneId="231" id="12" villagerId="1049">
          
+         
         <Page social="0">Não é você quem deve me trazer os mapas de ondas de mana?</Page>
+    
     
     </Text>
     <Text huntingZoneId="231" id="13" prevId="11" villagerId="1049">
          
+         
         <Page social="4">Hmm. Seu bardo está certo - algo está definitivamente acontecendo, e essas "lápides" estão concentrando o mana de alguma forma.&lt;NEXTPAGEBUTTON&gt;"Você sabe como destruí-las?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Sim, mas acho que você não vai gostar.&lt;BR&gt;&lt;BR&gt;Seraeno, o Chamador das Trevas, está comandando o show com os Thulsans. Você terá de matar esse Seraeno para obter dele o Sopro de Ônix, um núcleo de mana negra. Depois, você poderá usá-lo neste selo para destruir aquelas {@LinkCreature:31#34#pedras tumulares sangrentas}.</Page>
+    
     
     </Text>
     <Text huntingZoneId="231" id="14" villagerId="1049">
          
+         
         <Page social="0">Você já recebeu o sangue?</Page>
+    
     
     </Text>
     <Text huntingZoneId="231" id="15" prevId="13" villagerId="1040">
          
+         
         <Page social="4">(A magia negra se desvanece.)</Page>
+    
     
     </Text>
     <Text huntingZoneId="231" id="16" prevId="15" villagerId="1100">
          
+         
         <Page social="4">Muito obrigado. Sem sua ajuda, eu não poderia ter retornado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="231" id="17" prevId="16" villagerId="1101">
          
+         
         <Page social="4">Volte e diga ao meu povo que suas lutas estão chegando ao fim. Eu os ajudarei a expulsar os mortos-vivos.&lt;BR&gt;&lt;BR&gt;Quanto a você, &lt;PCNAME&gt;... Eu, Zenobia, Deusa dos Ventos, dou-lhe minha bênção. Que Arun e Shara sonhem com seu caminho em segurança.</Page>
+    
     
     </Text>
     <Text huntingZoneId="231" id="18" prevId="17" villagerId="1049">
          
+         
         <Page social="4">O quê? O bardo era Zenobia? Vamos esquecer a parte em que eu a chamei de espiã, ok? &lt;BR&gt;&lt;BR&gt;Estamos indo na direção certa. Se Zenóbia estiver nos ajudando, talvez cheguemos lá mais cedo do que esperávamos.&lt;BR&gt;&lt;BR&gt;Volte para Acarum e conte a Harule.</Page>
+    
     
     </Text>
     <Text huntingZoneId="73" id="19" prevId="18" villagerId="1110">
          
+         
         <Page social="4">Intervenção divina, não é? Bem, eu acredito nisso. Talvez você seja aquele sobre quem os bardos cantarão.&lt;BR&gt;&lt;BR&gt;Entretanto, aqui está uma coisinha da federação e de nós. Você mereceu.</Page>
+    
     
     </Text>
 </QuestDialog>

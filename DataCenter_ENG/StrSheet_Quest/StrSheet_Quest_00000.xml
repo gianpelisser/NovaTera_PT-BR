@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
     <String id="1" string="Accept" />
     <String id="2" string="Decline" />
     <String id="3" string="None" />
@@ -9,8 +8,8 @@
     <String id="7" string="Quest failed. Teleport out to try again." />
     <String id="8" string="Not Yet Unlocked" />
     <String id="9" string="Required level:" />
-    <String id="10" string="Maximum Level" />
-    <String id="11" string="Required Quest:" />
+    <String id="10" string="Maximum level" />
+    <String id="11" string="Required quest:" />
     <String id="12" string="You must first complete all preceding quests." />
     <String id="13" string="You must first complete at least one preceding quest." />
     <String id="14" string="This quest has no summary." />
@@ -18,9 +17,9 @@
     <String id="16" string="Diminished quest reward for {QuestName}." />
     <String id="20" string="[Full]" />
     <String id="21" string="[Your quest item space is full. Make room for more quest items by turning some in.]" />
-    <String id="22" string="Story Mission" />
-    <String id="23" string="Recommended Level" />
-    <String id="24" string="Where to advance this quest" />
+    <String id="22" string="Story mission:" />
+    <String id="23" string="Recommended for: " />
+    <String id="24" string="Main location:" />
     <String id="25" string="Lv." />
     <String id="30" string="Hunt" />
     <String id="31" string="Battlefield" />

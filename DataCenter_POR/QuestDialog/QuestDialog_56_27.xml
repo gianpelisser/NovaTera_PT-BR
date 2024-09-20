@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="56" id="27" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="56" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="256" id="100" prevId="0" villagerId="1006">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="256" id="2" prevId="0" villagerId="1006">
          
+         
         <Page social="4">Avise ao Acampamento de Blackspring que esses mortos-vivos são nossos próprios desaparecidos. Ninguém mais pode impedir esse massacre.&lt;BR&gt;&lt;BR&gt;Dos dois caminhos para o acampamento, a passagem oeste é a mais segura. Casias é nosso batedor lá. Ele lhe mostrará o caminho.&lt;BR&gt;&lt;BR&gt;Mova-se, soldado!</Page>
+    
     
     </Text>
     <Text huntingZoneId="256" id="3" prevId="2" villagerId="1014">
          
+         
         <Page social="4">Essas notícias. Então o tempo é de fato essencial! Blackspring fica logo ao sul daqui. Este lado da estrada é seguro até a caverna. O acampamento é visível da boca da caverna. Fique seguro, amigo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="256" id="4" prevId="3" villagerId="1008">
          
+         
         <Page social="4">É claro que os mortos-vivos são daqui. Os ocultistas de Mekonari os conduzem pela estrada oriental em riachos, mas mal conseguimos segurar esse acampamento.&lt;BR&gt;&lt;BR&gt;Sua missão ainda não acabou, soldado. Vá até lá e acabe com essas caravanas!</Page>
+    
     
     </Text>
     <Text huntingZoneId="256" id="5" prevId="4" villagerId="1008">
          
+         
         <Page social="4">Na Longa Estrada, eu os ouço em meus sonhos - aqueles aldeões raptados, implorando para que os resgatássemos enquanto os mekonaris os arrastavam.&lt;BR&gt;&lt;BR&gt;Cada um que eles levavam nos enfraquecia e os fortalecia.</Page>
+    
     
     </Text>
 </QuestDialog>

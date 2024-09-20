@@ -1,43 +1,60 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="181" id="12" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="181" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="181" id="100" prevId="0" villagerId="3001">
          
+         
         <Page social="0">A tentativa de Hagand de ativar a Pedra da Relatividade falhou, levando-o a sugerir que desativar a Barreira da Tempestade seria a chave para abrir o teletransporte para Velika.</Page>
+    
     
     </Text>
     <Text huntingZoneId="181" id="2" prevId="0" villagerId="3001">
          
+         
         <Page social="4">Paesyn disse que precisava falar com você - disse que era muito importante. Ele iria procurá-lo pessoalmente, mas eu o convenci a me deixar ir com ele.&lt;BR&gt;&lt;BR&gt;Ele está esperando no pasto, no topo desta escada.&lt;NEXTPAGEBUTTON&gt;"Vou falar com ele."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="181" id="3" prevId="2" villagerId="1103">
          
+         
         <Page social="4">&lt;PCNAME&gt;! Nós o encontramos!&lt;BR&gt;&lt;BR&gt;Ouça, preciso de sua ajuda! Eu vi Zolyn olhando para uma foto de sua irmã mais cedo, e elas estavam segurando flores primaveris. E há pouco tempo, vi um baraka com algumas dessas mesmas flores!&lt;BR&gt;&lt;BR&gt;Eu quero dá-las a Zolyn, como um pedido de desculpas por qualquer coisa que eu tenha feito de errado com aquela poção de relaxamento que dei a ela. O baraka disse que elas crescem em algum lugar por aqui, mas não consigo encontrar nenhuma! Ajude-me! &lt;NEXTPAGEBUTTON&gt;"Você tem certeza de que é isso que quer fazer?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="4">Claro que sim! Por que não? Eles a lembrarão de sua irmã e, mesmo que isso não a faça se sentir bem, a deixará muito mais determinada a encontrá-la novamente! É certo! &lt;BR&gt;&lt;BR&gt;Você viu algum na pedreira? &lt;NEXTPAGEBUTTON&gt;"Não... mas talvez eu conheça alguém que saiba onde encontrá-los."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Oh, obrigado, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;E eu prometo: quer isso funcione ou não, é o fim de tudo! Não vou mais tentar animar a Zolyn! &lt;BR&gt;&lt;BR&gt;...Mas vai funcionar. Eu sei que vai! &lt;NEXTPAGEBUTTON&gt;"Claro, Paesyn. Se eu os encontrar, eu o avisarei."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Você é o melhor, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Enquanto você fala com o seu contato, eu vou continuar procurando as flores por aqui. Tenha cuidado, agora! &lt;NEXTPAGEBUTTON&gt;"Você também."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="181" id="4" prevId="3" villagerId="1021">
          
+         
         <Page social="4">Você!&lt;BR&gt;&lt;BR&gt;Pedra entregue! Trabalho feito!&lt;BR&gt;&lt;BR&gt;Negócio feito! Agora vou! &lt;NEXTPAGEBUTTON&gt;"Espere... preciso de outra coisa."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="4">Então você paga mais! &lt;BR&gt;&lt;BR&gt;Que necessidade? &lt;NEXTPAGEBUTTON&gt;"Flor de primavera. O suficiente para um buquê."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Flor? &lt;BR&gt;&lt;BR&gt;Assim, flor da terra? &lt;BR&gt;&lt;BR&gt;Assim, crescem barakas de flores? &lt;BR&gt;&lt;BR&gt;Barakas como aquele ali, aquele ali, Hagand ali... esse truque, certo? &lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Hagand está aqui? Não importa, vou perguntar a ele."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="181" id="5" prevId="4" villagerId="3004">
          
+         
         <Page social="4">Saudações, amigo &lt;PCNAME&gt;. Espero que minha poção de invisibilidade tenha lhe servido bem.&lt;BR&gt;&lt;BR&gt;Eu ouvi você conversando sobre flores com esse contrabandista goblin? Eu mantenho um número considerável de flores locais à mão para minha alquimia. É provável que eu tenha o que você precisa, e você é mais do que bem-vindo a elas.&lt;NEXTPAGEBUTTON&gt;"Obrigado."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="4">O prazer é meu. Mas, na verdade, vim falar com você sobre as Pedras da Relatividade.&lt;BR&gt;&lt;BR&gt;Sabendo que Garm falhou várias vezes em recarregar a Pedra da Relatividade, guardei uma, para fazer experiências nas mesmas condições que nossos ancestrais fizeram quando criaram o teletransporte pela primeira vez.&lt;BR&gt;&lt;BR&gt;E falhei - mas, ao contrário de Garm, fui capaz de discernir facilmente por que falhei e por que Garm também falhou.&lt;NEXTPAGEBUTTON&gt;"Ok... o que você descobriu?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">A única variável é a Storm Barrier. Pensamos nela como uma barreira física, mas é claramente mágica também. É por isso que o teletransporte não funciona.&lt;BR&gt;&lt;BR&gt;Se a Barreira da Tormenta puder ser desativada de alguma forma, o teletransporte voltará a funcionar. E acredito que, como os arquidevas são capazes de atravessá-la, eles devem conhecer uma maneira de desativá-la.&lt;NEXTPAGEBUTTON&gt;"Parece lógico. Como posso ajudar?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
 </QuestDialog>

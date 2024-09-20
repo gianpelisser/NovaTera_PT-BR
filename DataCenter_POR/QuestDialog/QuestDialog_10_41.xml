@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="10" id="41" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="10" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="210" id="100" prevId="0" villagerId="1120">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="210" id="2" prevId="0" villagerId="1120">
          
+         
         <Page social="4">Com todo o respeito aos meus colegas soldados, estamos fazendo tudo errado.&lt;BR&gt;&lt;BR&gt;Os nagas estão vindo aqui por uma razão: restaurar o templo e trazer Dagon de volta. Se tirarmos esse motivo, as nagas irão embora.&lt;BR&gt;&lt;BR&gt;Eu acho que as {@LinkCreature:10#15#naga seeresses} são a chave. Se as eliminarmos, as nagas ficarão mais fracas. Então, nós as teremos!</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="3" prevId="2" villagerId="1120">
          
+         
         <Page social="4">Bom trabalho. Aquelas sereias não são fáceis de matar, eu sei.&lt;BR&gt;&lt;BR&gt;Eu vou estudar essas pedras que você coletou. Elas podem nos ajudar a atrapalhar ainda mais os planos delas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="4" villagerId="1120">
          
+         
         <Page social="0">Só porque as {@LinkCreature:10#15#naga seeresses} afirmam "exercer poder sobre a vida e a morte" não significa que você não possa matá-las.&lt;BR&gt;&lt;BR&gt;Confie em mim. Elas sangram muito bem.</Page>
+    
     
     </Text>
 </QuestDialog>

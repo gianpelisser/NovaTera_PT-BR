@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="1" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="13" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="213" id="100" prevId="0" villagerId="1105">
          
+         
         <Page social="0">A Federação Valkyon já saiu quase toda da Island of Dawn, mas algumas pessoas azaradas ficaram para trás, tentando limpar a pequena bagunça que restou. Eles pediram sua ajuda para acelerar a saída, e você aceitou.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="2" prevId="0" villagerId="1105">
          
+         
         <Page social="4">Não sei por que o mandaram para cá. Honestamente, pode ter sido uma piada. É isso que este lugar é agora.&lt;BR&gt;&lt;BR&gt;Você pode muito bem dar uma olhada no Emissário &lt;font color='#660000'&gt;Lam&lt;/font&gt; agora que está aqui. Você pode nos ajudar a encerrar o assunto.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="3" prevId="2" villagerId="1014">
          
+         
         <Page social="4">Bem, agora que você está aqui, podemos muito bem por você para trabalhar. Precisamos de alguma ajuda para limpar este lugar.&lt;BR&gt;&lt;BR&gt;Eu poderia ter dito desde o início que a federação não seria capaz de se manter unida. Toda aquela besteira de unidade era só conversa.&lt;BR&gt;&lt;BR&gt;Você está pronto para nos ajudar a sair daqui?</Page>
+    
     
     </Text>
 </QuestDialog>

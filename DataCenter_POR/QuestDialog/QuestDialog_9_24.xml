@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="9" id="24" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="9" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="209" id="100" prevId="0" villagerId="1005">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="209" id="2" prevId="0" villagerId="1005">
          
+         
         <Page social="4">Duas perguntas para você, &lt;PCNAME&gt;. E elas estão relacionadas.&lt;BR&gt;&lt;BR&gt;Já ouviu a frase "mais louco do que um ninho de mugatos?"&lt;BR&gt;&lt;BR&gt;Você notou o ninho de mugatos logo ao &lt;font color='#660000'&gt;sul&lt;/font&gt; daqui?&lt;BR&gt;&lt;BR&gt;Não podemos ter um ninho tão perto. Você pode afugentar os {@LinkCreature:9#200#mugatos} ou, pelo menos, afastá-los um pouco?</Page>
+    
     
     </Text>
     <Text huntingZoneId="209" id="3" prevId="2" villagerId="1005">
          
+         
         <Page social="4">Pelo menos este lugar não está cheio de mugatos. Literalmente.&lt;BR&gt;&lt;BR&gt;Mas eles voltarão, tenho certeza.&lt;BR&gt;&lt;BR&gt;Que pragas!</Page>
+    
     
     </Text>
 </QuestDialog>

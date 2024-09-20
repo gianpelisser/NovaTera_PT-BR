@@ -1,10 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="5124001" string="Crystal Clear" />
-    <String id="5124002" string="I'm sure the crystals are the answer." />
-    <String id="5124003" string="The more we know, the better we fight. Good job!" />
-    <String id="5124004" string="Draelkar Crystal" />
-    <String id="5124005" string="Collect draelkar crystals from dominated wendigo shamans, as well as argonomorph tuwangis and orcans." />
-    <String id="5124006" string="Report back to Roland." />
-    <String id="5124007" string="&quot;Absolutely.&quot;" />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="5092001" string="No Problem Too Big" />
+    <String id="5092002" string="Proof of Kill: Argon Behemoths" />
+    <String id="5092003" string="&quot;Victory for Valkyon!&quot;" />
+    <String id="5092004" string="Kill argon behemoths throughout {@Rgn:50001}." />
+    <String id="5092005" string="Report to {@LinkCreature:250#1009}." />
 </StrSheet_Quest>

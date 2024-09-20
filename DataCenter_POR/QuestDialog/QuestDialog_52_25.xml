@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="25" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="52" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="252" id="100" prevId="0" villagerId="1032">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="252" id="2" prevId="0" villagerId="1032">
          
+         
         <Page social="4">Antes de o exército de Thulsa assumir o controle, esta era uma terra de animais e caçadores. Os mugatos são especialmente notórios por sua ferocidade.&lt;BR&gt;&lt;BR&gt;Mas a pele... a pele macia e quente.&lt;BR&gt;&lt;BR&gt;Traga-me as peles dos mugatos furiosos no Campo de Neve Queimada.&lt;BR&gt;&lt;BR&gt;Não é para mim! Quero fazer casacos de inverno para nossos soldados.</Page>
+    
     
     </Text>
     <Text huntingZoneId="252" id="3" prevId="2" villagerId="1032">
          
+         
         <Page social="4">Isso é suficiente para fazer um casaco para cada soldado, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Eu sempre quis ajudar nossos soldados, e não poderia ter feito isso sem você.</Page>
+    
     
     </Text>
     <Text huntingZoneId="252" id="4" villagerId="1032">
          
+         
         <Page social="0">Os mugatos furiosos habitam o Campo de Neve Queimada, mas em pequeno número.&lt;BR&gt;&lt;BR&gt;Por favor, tragam-me o maior número possível de peles de mugato.</Page>
+    
     
     </Text>
 </QuestDialog>

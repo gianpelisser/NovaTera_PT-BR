@@ -1,31 +1,42 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="49" id="34" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="49" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="76" id="100" prevId="0" villagerId="1024">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="76" id="2" prevId="0" villagerId="1024">
          
+         
         <Page social="4">Sabemos que os argons estão movendo tropas daqui para a Frente Khanovar, mas não de onde as tropas vêm. Graças à inteligência que você e Hasmina coletaram, sabemos como eles estão chegando aqui.&lt;BR&gt;&lt;BR&gt;E vamos detê-los.&lt;NEXTPAGEBUTTON&gt;"Detendo! Como?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">{@LinkCreature:76#1025} preparou algo para a ocasião. Ele lhe dará os detalhes.</Page>
+    
     
     </Text>
     <Text huntingZoneId="76" id="3" prevId="2" villagerId="1025">
          
+         
         <Page social="6">Pegue essas bombas. Sua potência está ligada aos harmônicos dos transportadores de zolnaj.&lt;BR&gt;&lt;BR&gt;Entre no {@Rgn:49004}, mate os argons guardiões e use as bombas. Nada poderia ser mais simples.&lt;BR&gt;&lt;BR&gt;Tenha cuidado. Os dedos não se regeneram sozinhos, você sabe.</Page>
+    
     
     </Text>
     <Text huntingZoneId="249" id="4" prevId="3" villagerId="1005">
          
+         
         <Page social="6">Ei, reforços! Que novidade.&lt;BR&gt;&lt;BR&gt;Tentei derrubar o transportador, mas minhas armas não fizeram porra nenhuma.&lt;BR&gt;&lt;BR&gt;Entendeu? Que droga? &lt;BR&gt;&lt;BR&gt;De qualquer forma, tome cuidado lá dentro. Está cheio de argons.</Page>
+    
     
     </Text>
     <Text huntingZoneId="76" id="5" prevId="4" villagerId="1024">
          
+         
         <Page social="6">Destruir esse transportador limitará a capacidade dos argons de reforçar sua posição em {@Rgn:48001}.&lt;BR&gt;&lt;BR&gt;Você nos deu tempo.</Page>
+    
     
     </Text>
 </QuestDialog>

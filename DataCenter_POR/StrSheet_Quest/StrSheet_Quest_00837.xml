@@ -1,32 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="3002001" string="Guardiões do Sol" />
-    <String id="3002002" string="Os Consos são incomuns, mesmo para barakas." />
-    <String id="3002003" string="Agora vamos procurar o Rida." />
-    <String id="3002004" string="&quot;Eu vou fazer isso!&quot;" />
-    <String id="3002005" string="[{@Rgn:30010#Camp Sunlight}] Encontre {@linkcreature:230#1007$$Lashinuk}." />
-    <String id="3002006" string="Engrenagem Warden de latão" />
-    <String id="3002007" string="[{@Rgn:30002$$High Vale}] Derrote o {@linkcreature:30#2004#brass warden} e pegue um equipamento." />
-    <String id="3002008" string="Entregue o equipamento para {@LinkCreature:230#1007$$Lashinuk}." />
-    <String id="3002009" string="&quot;Vou procurá-la, então&quot;." />
-    <String id="3002010" string="Jardim de Seren" />
-    <String id="3002011" string="Procure por Rida no pavilhão." />
-    <String id="3002012" string="[{@Rgn:30005$$Seren's Garden}] Procure por Rida em {@Rgn:30005$$Seren's Garden}." />
-    <String id="3002013" string="&quot;É isso aí! Continue!&quot;" />
-    <String id="3002014" string="Ajude {@linkcreature:230#1081$$Rida} a encontrar e abrir o selo de Seren." />
-    <String id="3002015" string="Quebrar o selo de Seren." />
-    <String id="3002016" string="Retorne a Lashinuk." />
-    <String id="3002017" string="Encontre {@linkcreature:230#1081$$Rida}." />
-    <String id="3002018" string="&quot;É melhor eu ir, então.&quot;" />
-    <String id="3002019" string="[{@Rgn:30010#Camp Sunlight}] Retorne para {@linkcreature:230#1007$$Lashinuk}." />
-    <String id="3002020" string="&quot;Pela federação!&quot;" />
-    <String id="3002021" string="[{@Rgn:30007$$Balder's Pavilion}] Colete fragmentos de tábuas do &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=7015#6887.4087,53518.7656,1344.3566&amp;type=1&amp;name=strongboxes&quot;&gt;strongboxes&lt;/A&gt;&lt;/FONT&gt; no {@Rgn:30007$$$Pavilion}." />
-    <String id="3002022" string="Entregue as partes do tablet para {@linkcreature:230#1015$$Elsine}." />
-    <String id="3002023" string="Rolagem de controle" />
-    <String id="3002024" string="[{@Rgn:30009$$Arquivos Inferiores}] Recupere os pergaminhos de controle das {@linkcreature:30#130$$forrageadoras de preguiça}." />
-    <String id="3002025" string="Devolva os pergaminhos de controle de {@linkcreature:230#1015$$Elsine}." />
-    <String id="3002026" string="&quot;Sim, vamos ver.&quot;" />
-    <String id="3002027" string="Insira a tábua pronta e os rolos de controle no Repositório de Sabedoria." />
-    <String id="3002028" string="&quot;Obrigado, Elsine.&quot;" />
-    <String id="3002029" string="Dê a {@linkcreature:230#1015$$Elsine} os pergaminhos do repositório." />
+    <String id="2992001" string="Convidados indesejados" />
+    <String id="2992002" string="Cabelo Vulcano" />
+    <String id="2992003" string="&quot;Pela federação!&quot;" />
+    <String id="2992004" string="Mate dreadnaughts vulcanos no Bosque Eterno do leste." />
+    <String id="2992005" string="Informe ao Deirin." />
 </StrSheet_Quest>

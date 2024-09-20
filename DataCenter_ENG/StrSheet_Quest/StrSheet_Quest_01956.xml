@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="41106001" string="From the Rift" />
-    <String id="41106002" string="Raw Riftmetal" />
-    <String id="41106003" string="&quot;I like power.&quot;" />
-    <String id="41106004" string="Collect raw riftmetal from Lakan's Prison and Ghillieglade." />
-    <String id="41106005" string="Go to Muhrak in the Blacksmith's Workshop." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="41105001" string="Archesmith" />
+    <String id="41105002" string="&quot;I can handle it.&quot;" />
+    <String id="41105003" string="Go to Muhrak." />
 </StrSheet_Quest>

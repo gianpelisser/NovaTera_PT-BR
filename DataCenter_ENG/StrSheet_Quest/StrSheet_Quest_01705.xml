@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="6389001" string="The Path of Dishonor" />
-    <String id="6389002" string="&quot;Very well&quot;." />
-    <String id="6389003" string="{@LinkCreature:63#1260} is waiting to meet you at the Base of the Velika's Wanderers." />
-    <String id="6389004" string="&quot;I'll keep that in mind&quot;." />
-    <String id="6389005" string="{@LinkCreature:63#1172} wants to talk to you." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="6385001" string="Enchanting for Dummies Part 2" />
+    <String id="6385002" string="Enchanting equipment gives you an edge." />
+    <String id="6385003" string="Enchant three times." />
+    <String id="6385004" string="Successful enchantment." />
+    <String id="6385005" string="&quot;Thank you.&quot;" />
+    <String id="6385006" string="Successful enchantment. Speak with {@linkcreature:63#1605}." />
 </StrSheet_Quest>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+
 <StrSheet_AbnormalityKind xmlns="https://vezel.dev/novadrop/dc/StrSheet_AbnormalityKind" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_AbnormalityKind StrSheet_AbnormalityKind.xsd">
     <String id="1" name="$H_S_GOODBuff$COLOR_END" />
     <String id="2" name="$H_S_GOODBuff$COLOR_END" />
@@ -100,6 +100,35 @@
     <String id="1528" name="$H_S_GOODBuff$COLOR_END" />
     <String id="1529" name="$H_S_GOODBuff$COLOR_END" />
     <String id="1530" name="$H_S_GOODBuff$COLOR_END" />
+    <String id="1600" name="$H_W_GOODSpecial Effect$COLOR_END" />
+    <String id="1601" name="$H_W_GOODSpecial Effect$COLOR_END" />
+    <String id="1602" name="$H_W_GOODSpecial Effect$COLOR_END" />
+    <String id="1603" name="$H_W_GOODSpecial Effect$COLOR_END" />
+    <String id="1604" name="$H_S_GOODBeneficial Effect$COLOR_END" />
+    <String id="1605" name="$H_S_GOODBeneficial Effect$COLOR_END" />
+    <String id="1606" name="$H_S_GOODBeneficial Effect$COLOR_END" />
+    <String id="1607" name="$H_S_GOODBeneficial Effect$COLOR_END" />
+    <String id="1608" name="$H_W_GOODSpecial Effect$COLOR_END" />
+    <String id="1609" name="$H_W_GOODSpecial Effect$COLOR_END" />
+    <String id="1610" name="$H_W_GOODSpecial Effect$COLOR_END" />
+    <String id="1611" name="$H_S_GOODBeneficial Effect$COLOR_END" />
+    <String id="1612" name="$H_W_GOODSpecial Effect$COLOR_END" />
+    <String id="1613" name="$H_S_GOODBeneficial Effect$COLOR_END" />
+    <String id="1614" name="$H_S_GOODBeneficial Effect$COLOR_END" />
+    <String id="1615" name="$H_S_GOODBeneficial Effect$COLOR_END" />
+    <String id="1616" name="$H_W_GOODSpecial Effect$COLOR_END" />
+    <String id="1617" name="$H_S_GOODBeneficial Effect$COLOR_END" />
+    <String id="1618" name="$H_W_GOODSpecial Effect$COLOR_END" />
+    <String id="1619" name="$H_S_GOODBeneficial Effect$COLOR_END" />
+    <String id="1620" name="$H_S_GOODBeneficial Effect$COLOR_END" />
+    <String id="1621" name="$H_W_GOODSpecial Effect$COLOR_END" />
+    <String id="1622" name="$H_W_GOODSpecial Effect$COLOR_END" />
+    <String id="1623" name="$H_S_GOODBeneficial Effect$COLOR_END" />
+    <String id="2880" name="$H_S_GOODSpecial Effect$COLOR_END" />
+    <String id="2881" name="$H_S_GOODSpecial Effect$COLOR_END" />
+    <String id="2882" name="$H_S_GOODSpecial Effect$COLOR_END" />
+    <String id="2883" name="$H_S_GOODSpecial Effect$COLOR_END" />
+    <String id="2884" name="$H_S_GOODSpecial Effect$COLOR_END" />
     <String id="3201" name="$H_S_GOODBuff$COLOR_END" />
     <String id="3202" name="$H_S_GOODBuff$COLOR_END" />
     <String id="3203" name="$H_S_GOODBuff$COLOR_END" />
@@ -125,6 +154,8 @@
     <String id="3226" name="$H_S_GOODBuff$COLOR_END" />
     <String id="3228" name="$H_S_GOODBuff$COLOR_END" />
     <String id="3229" name="$H_S_GOODBuff$COLOR_END" />
+    <String id="4840" name="$H_S_GOODBeneficial Effect$COLOR_END " />
+    <String id="4841" name="$H_S_GOODBeneficial Effect$COLOR_END " />
     <String id="5001" name="$H_S_GOODBuff$COLOR_END" />
     <String id="5002" name="$H_S_BADDebuff$COLOR_END" />
     <String id="5003" name="$H_S_GOODBuff$COLOR_END" />
@@ -145,7 +176,6 @@
     <String id="6405" name="$H_S_GOODBuff$COLOR_END" />
     <String id="6406" name="$H_S_GOODBuff$COLOR_END" />
     <String id="6407" name="$H_S_GOODBuff$COLOR_END" />
-    <String id="6408" name="$H_S_GOODBônus$COLOR_END" />
     <String id="6409" name="$H_S_GOODBuff$COLOR_END" />
     <String id="6410" name="$H_S_GOODBuff$COLOR_END" />
     <String id="6411" name="$H_S_GOODBuff$COLOR_END" />
@@ -426,6 +456,13 @@
     <String id="25013" name="$H_S_BADDebuff$COLOR_END Atordoado" />
     <String id="25014" name="$H_S_BADDebuff$COLOR_END Atordoado" />
     <String id="25015" name="$H_S_BADDebuff$COLOR_END Atordoado" />
+    <String id="25100" name="$H_S_BADHarmful$COLOR_END [Stun]" />
+    <String id="25101" name="$H_S_BADHarmful$COLOR_END [Stun]" />
+    <String id="25102" name="$H_S_BADHarmful$COLOR_END [Weakening Effect]" />
+    <String id="25103" name="$H_W_BADSpecial$COLOR_END" />
+    <String id="25104" name="$H_S_BADHarmful$COLOR_END [Weakening Effect]" />
+    <String id="25105" name="$H_S_BADHarmful$COLOR_END [Periodic Damage]" />
+    <String id="25106" name="$H_S_BADHarmful$COLOR_END [Stun]" />
     <String id="25601" name="$H_S_BADDebuff$COLOR_END Enfraquecido" />
     <String id="25602" name="$H_W_BADBuff Especial$COLOR_END" />
     <String id="25603" name="$H_S_BADDebuff$COLOR_END Atordoado" />
@@ -579,6 +616,10 @@
     <String id="44811" name="$H_W_BADBuff Especial$COLOR_END" />
     <String id="44813" name="$H_S_GOODBuff Especial Effect$COLOR_END" />
     <String id="44814" name="$H_S_GOODBuff Especial Effect$COLOR_END" />
+    <String id="45100" name="$H_S_GOODBenefit$COLOR_END" />
+    <String id="45200" name="$H_S_GOODBenefit$COLOR_END" />
+    <String id="45300" name="$H_S_GOODBenefit$COLOR_END" />
+    <String id="45400" name="$H_S_GOODBenefit$COLOR_END" />
     <String id="45406" name="$H_W_GOODBuff Especial$COLOR_END" />
     <String id="45555" name="$H_S_GOODBuff Especial Effect$COLOR_END" />
     <String id="47031" name="$H_S_GOODBuff$COLOR_END" />
@@ -595,6 +636,8 @@
     <String id="48012" name="$H_W_BADBuff Especial$COLOR_END" />
     <String id="48013" name="$H_W_GOODBuff de Montaria$COLOR_END" />
     <String id="48014" name="$H_S_GOODEfeito Benéfico$COLOR_END" />
+    <String id="48018" name="$H_S_GOODBeneficial Effect$COLOR_END" />
+    <String id="48019" name="$H_W_BADSpecial Effect$COLOR_END" />
     <String id="48021" name="$H_S_BADDebuff$COLOR_END [Atordoado]" />
     <String id="48050" name="$H_S_GOODEfeito Benéfico$COLOR_END" />
     <String id="48051" name="$H_S_GOODEfeito Benéfico$COLOR_END" />
@@ -604,4 +647,6 @@
     <String id="48055" name="$H_S_GOODEfeito Benéfico$COLOR_END" />
     <String id="48056" name="$H_S_GOODEfeito Benéfico$COLOR_END" />
     <String id="48057" name="$H_S_GOODEfeito Benéfico$COLOR_END" />
+    <String id="48058" name="$H_S_GOODSpecial$COLOR_END" />
+    <String id="48059" name="$H_S_GOODSpecial$COLOR_END" />
 </StrSheet_AbnormalityKind>

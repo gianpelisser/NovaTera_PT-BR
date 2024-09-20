@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="518" id="1003" voiceTypeId="51">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1003" huntingZoneId="518" voiceTypeId="51">
     <Text id="1" endSocial="14">
          
+         
         <Page social="4">Don't irritate the commander.&lt;BR&gt;&lt;BR&gt;Honestly, that's just good common sense, but things have been especially tense lately.</Page>
+    
     
     </Text>
 </VillagerDialog>

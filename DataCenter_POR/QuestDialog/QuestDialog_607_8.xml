@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="607" id="8" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="607" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="72" id="100" prevId="0" villagerId="1704">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="72" id="2" prevId="0" villagerId="1704">
          
+         
         <Page social="4">Estou procurando um componente para essa máquina, uma pequena roda dentada. E quando digo "pequena", não estou brincando. É tão pequena que nenhum artesão comum pode fazê-la.&lt;BR&gt;&lt;BR&gt;Só um lugar tem um trabalho tão detalhado: Lírio, no Reino dos Anões.&lt;BR&gt;&lt;BR&gt;Se você derrotar os guardiões da floresta em Lírio e falar com o chefe da aldeia, ele lhe dará uma pequena roda dentada. Por favor, traga-a para mim em segurança.</Page>
+    
     
     </Text>
     <Text huntingZoneId="445" id="3" prevId="2" villagerId="122">
          
+         
         <Page social="4">Obrigado, grande &lt;PCCLASS:lcase&gt;, por ter se livrado dos guardiões da floresta. Aqui, pegue esta pequena roda dentada. E se você voltar ao nosso reino, saiba que gostaríamos de receber ajuda com os habitantes da floresta.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="4" prevId="3" villagerId="1704">
          
+         
         <Page social="4">Sim, é isso mesmo! Encaixa-se perfeitamente!&lt;BR&gt;&lt;BR&gt;Sabe, se eu tivesse mais rodas dentadas, poderia miniaturizar tudo. Miniaturizar isso! Mini aquilo! Minhas invenções seriam as menores que existem!</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="5" villagerId="1704">
          
+         
         <Page social="0">Preciso de uma pequena roda dentada. Por favor, traga uma da dungeon da instância dos anões.</Page>
+    
     
     </Text>
 </QuestDialog>

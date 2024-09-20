@@ -1,17 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="60508001" string="Today, We Drink" />
-    <String id="60508002" string="&quot;On my way.&quot;" />
-    <String id="60508003" string="" />
-    <String id="60508004" string="" />
-    <String id="60508005" string="Try to find out what {@LinkCreature:63#3002#Taratia} is supposed to do today." />
-    <String id="60508006" string="&quot;I'll just take that list of yours.&quot;" />
-    <String id="60508007" string="&quot;Glad I could help.&quot;" />
-    <String id="60508008" string="Deliver star essence to the Velika Crafting Guide, {@LinkCreature:63#1098#Santia}." />
-    <String id="60508009" string="" />
-    <String id="60508010" string="&quot;Glad I could help.&quot;" />
-    <String id="60508011" string="Deliver normetal ore to the Velika Crafting Guide, {@LinkCreature:63#1098#Santia}." />
-    <String id="60508012" string="" />
-    <String id="60508013" string="&quot;Okay. Maybe you should get some sleep.&quot;" />
-    <String id="60508014" string="Return to {@LinkCreature:63#3002#Taratia}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="60506001" string="It's All Fun and Games" />
+    <String id="60506002" string="&quot;Wouldn't that be fun?&quot;" />
+    <String id="60506003" string="" />
+    <String id="60506004" string="" />
+    <String id="60506005" string="Pay {@LinkCreature:63#3002#Taratia} a visit." />
+    <String id="60506006" string="&quot;I was only joking.&quot;" />
+    <String id="60506007" string="&quot;Heh.&quot;" />
+    <String id="60506008" string="Deliver sun essence to the Velika Crafting Guide, {@LinkCreature:63#1098#Santia}." />
+    <String id="60506009" string="" />
+    <String id="60506010" string="&quot;Heh.&quot;" />
+    <String id="60506011" string="Deliver krymetal ore to the Velika Crafting Guide, {@LinkCreature:63#1098#Santia}." />
+    <String id="60506012" string="" />
+    <String id="60506013" string="&quot;That would be nice.&quot;" />
+    <String id="60506014" string="Return to {@LinkCreature:63#3002#Taratia}." />
 </StrSheet_Quest>

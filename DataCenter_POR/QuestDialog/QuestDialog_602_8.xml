@@ -1,49 +1,67 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="602" id="8" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="602" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="78" id="100" prevId="0" villagerId="3002">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="78" id="2" prevId="0" villagerId="3002">
          
+         
         <Page social="4">Ouvi um relato perturbador das linhas de frente. Algo sobre um argons vermelho estranho que é mais resistente do que o esperado...&lt;BR&gt;&lt;BR&gt;Fale com Drokhir na Cidadela de Khanovar. Ele está preparando uma missão de ataque.</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="3" prevId="2" villagerId="3002">
          
+         
         <Page social="4">Sim, esses argonss vermelhos apareceram depois que um de nossos agentes usou um novo dispositivo de argons. Não sabemos muito mais do que isso. Tenho uma pilha de pergaminhos do Invalesco querendo mais detalhes.&lt;BR&gt;&lt;BR&gt;Vá para Carnage Vale, encontre esse dispositivo e veja o que acontece depois.</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="4" prevId="2" villagerId="3002">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="248" id="5" prevId="2" villagerId="3002">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="248" id="6" prevId="2" villagerId="3002">
          
+         
         <Page social="4">Esse revestimento parece diferente. Mais forte, também.&lt;BR&gt;&lt;BR&gt;Eu vou conseguir um mensageiro para transportar esses componentes para o Invalesco.</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="7" villagerId="3002">
          
+         
         <Page social="0">Ajudar os Invalesco é apenas uma estratégia inteligente. Eles também querem deter os argonss.&lt;BR&gt;&lt;BR&gt;Encontre esses argonss vermelhos, &lt;PCNAME&gt;. Mate-os de uma vez.</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="8" prevId="6" villagerId="3002">
          
+         
         <Page social="4">Esse revestimento parece diferente. Mais forte, também.&lt;BR&gt;&lt;BR&gt;Eu vou conseguir um mensageiro para transportar esses componentes para o Invalesco.</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="9" villagerId="3002">
          
+         
         <Page social="0">Ajudar os Invalesco é apenas uma estratégia inteligente. Eles também querem deter os argonss.&lt;BR&gt;&lt;BR&gt;Encontre esses argonss vermelhos, &lt;PCNAME&gt;. Mate-os de uma vez.</Page>
+    
     
     </Text>
 </QuestDialog>

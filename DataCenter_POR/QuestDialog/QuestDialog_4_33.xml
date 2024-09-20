@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="33" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="4" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="204" id="100" prevId="0" villagerId="1136">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="204" id="2" prevId="0" villagerId="1136">
          
+         
         <Page social="4">Os {@LinkCreature:4#2041#eldritch reavers} estão acabando com o moral das pessoas por aqui. Muitas baixas e eles... eles nos provocam com cada soldado que matam.&lt;BR&gt;&lt;BR&gt;Mata-os, &lt;PCNAME&gt;. Dê-nos algo para zombar deles, para variar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="204" id="3" prevId="2" villagerId="1136">
          
+         
         <Page social="4">Impressionante, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Não apenas você enfraqueceu o inimigo, mas nossos soldados já estão compondo novos insultos baseados na incapacidade dos reavers de se defenderem contra um solitário &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;Eu lhe contaria os insultos, mas uau... coisa imunda, imunda.</Page>
+    
     
     </Text>
 </QuestDialog>

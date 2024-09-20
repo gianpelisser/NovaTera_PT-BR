@@ -1,49 +1,68 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="50" id="39" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="50" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="250" id="100" prevId="0" villagerId="1002">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="250" id="2" prevId="0" villagerId="1002">
          
+         
         <Page social="4">Algo está errado. {@LinkCreature:50#1002} está atrasado - e ele nunca se atrasa.&lt;BR&gt;&lt;BR&gt;Preocupo-me que ele tenha encontrado algo fascinante nas cavernas subterrâneas e perdido a noção do tempo... ou que tenha entrado em conflito com os argons.&lt;BR&gt;&lt;BR&gt;Você se importaria em procurá-lo?</Page>
+    
     
     </Text>
     <Text huntingZoneId="50" id="3" prevId="2" villagerId="1002">
          
+         
         <Page social="4">Fico feliz em vê-lo novamente, mas não tenho certeza do que o traz aqui.&lt;NEXTPAGEBUTTON&gt;"Seu amigo está preocupado com você."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Nenhum botânico que se preze deixaria passar a chance de explorar as Cavernas Viridianas. A resiliência da natureza me surpreende.&lt;BR&gt;&lt;BR&gt;Além disso, fiquei um pouco perdido.</Page>
+    
     
     </Text>
     <Text huntingZoneId="50" id="4" prevId="2" villagerId="1002">
          
+         
         <Page social="4">A lenda nos conta que Yurian abençoou as Viridian Caverns devido à feroz devoção de um notável castanic. Isso pode explicar a resistência da caverna.&lt;NEXTPAGEBUTTON&gt;"Ele era um guerreiro?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="5">Não, não - ELA era uma romântica.&lt;BR&gt;&lt;BR&gt;Seu nome era Imalia e ela amava essas cavernas. Ela as cuidava, limpava e protegia.&lt;BR&gt;&lt;BR&gt;Um dia, ela conheceu um homem, Tiparius, que havia se abrigado nas cavernas. Ela se apaixonou só de olhar para o belo rosto dele.&lt;NEXTPAGEBUTTON&gt;"Tem certeza de que não foi só solidão?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Definitivamente, era amor - e ele a amava de volta. Por um tempo, eles foram o casal mais feliz de Shara.&lt;NEXTPAGEBUTTON&gt;"O que aconteceu?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="4">Tiparius queria seguir em frente. Ele já tinha visto o suficiente de Shara do Norte e desejava voltar para Castanica.&lt;BR&gt;&lt;BR&gt;Imalia se sentia dividida entre seu amor por ele e sua obrigação com as cavernas. Tiparius implorou para que ela fosse com ele, mas ela preferiu ficar.&lt;NEXTPAGEBUTTON&gt;"Ela desistiu do amor por uma caverna?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Não, não! Ela... ela desistiu de tudo por dever. Yurian admirou sua dedicação e preservou as cavernas para que seu sacrifício não fosse em vão.&lt;BR&gt;&lt;BR&gt;Bem, agora, que tal encontrarmos {@LinkCreature:250#1002}?</Page>
+    
     
     </Text>
     <Text huntingZoneId="50" id="5" prevId="2" villagerId="1002">
          
+         
         <Page social="4">A verdade é que estou perdido. Tenho que encontrar {@LinkCreature:250#1002}, mas não consigo me lembrar do caminho certo. Ele deve estar muito preocupado.&lt;BR&gt;&lt;BR&gt;Poderia me mostrar a saída?</Page>
+    
     
     </Text>
     <Text huntingZoneId="50" id="6" villagerId="39">
          
+         
         <Page social="0">Sair agora?</Page>
+    
     
     </Text>
     <Text huntingZoneId="250" id="7" prevId="2" villagerId="1022">
          
+         
         <Page social="6">Por ter colocado um botânico desatento em segurança, eu lhe agradeço.&lt;BR&gt;&lt;BR&gt;Talvez eu leve um pouco de giz comigo da próxima vez que me aventurar no subsolo.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="47" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="47" huntingZoneId="52" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="79" id="100" prevId="0" villagerId="1102">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="79" id="2" prevId="0" villagerId="1102">
          
+         
         <Page social="5">Thulsa destilou um vapor mortal de cadáveres em decomposição e o infundiu em toda a Torre de Ébano. &lt;BR&gt;&lt;BR&gt;Entrar sem proteção é, para ser franco, suicida.&lt;BR&gt;&lt;BR&gt;Fiz um totem de purificação para a federação, mas há um problema. Preciso de núcleos de argons para alimentá-lo. &lt;NEXTPAGEBUTTON&gt;"Núcleos de argons?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="5">Exatamente, &lt;PCNAME&gt;. Há uma estranha ressonância entre Thulsa e os argonss. Thulsa não controla os argonss, mas eles estão no mesmo comprimento de onda, se preferir.&lt;BR&gt;&lt;BR&gt;De qualquer forma, traga-me núcleos de argons e eu farei um totem de purificação para você.&lt;BR&gt;&lt;BR&gt;Tente o Labirinto do Terror. Há muitos argonss lá!</Page>
+    
     
     </Text>
     <Text huntingZoneId="79" id="3" prevId="2" villagerId="1102">
          
+         
         <Page social="5">Ah, isso é o suficiente para fazer um totem de purificação.&lt;BR&gt;&lt;BR&gt;Você é melhor do que eu pensava. Bom trabalho!</Page>
+    
     
     </Text>
     <Text huntingZoneId="79" id="4" villagerId="1102">
          
+         
         <Page social="0">Traga-me núcleos de argons e eu lhe darei um totem de purificação para protegê-lo do ar venenoso da Torre de Ébano.</Page>
+    
     
     </Text>
 </QuestDialog>

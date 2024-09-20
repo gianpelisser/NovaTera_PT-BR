@@ -1,34 +1,46 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="27" id="24" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="27" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="227" id="100" prevId="0" villagerId="1015">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="227" id="2" prevId="0" villagerId="1015">
          
+         
         <Page social="5">Castra Mysterium precisa de reabastecimento imediato. {&lt;@LinkCreature:227#1020#Eerix} não me ouve mais, talvez ele ouça você.&lt;BR&gt;&lt;BR&gt;Diga a ele que precisamos desses suprimentos!</Page>
+    
     
     </Text>
     <Text huntingZoneId="227" id="3" prevId="2" villagerId="1020">
          
+         
         <Page social="9">O quê? Comprar mais suprimentos? Droga! Acabou! As tropas de Thulsa levaram todos os nossos suprimentos.&lt;BR&gt;&lt;BR&gt;Pode ser que ainda haja alguns na casa da fazenda, mas {@LinkCreature:27#16$$Calapana} terá o resto.</Page>
+    
     
     </Text>
     <Text huntingZoneId="227" id="4" prevId="3" villagerId="1020">
          
+         
         <Page social="7">Você tem um bom olho para esse tipo de coisa. Se algum dia você for para Castanica, poderíamos ter um bom lucro.&lt;BR&gt;&lt;BR&gt;Deixe {@LinkCreature:227#1015#Ovellia} saber que o carregamento está pronto.</Page>
+    
     
     </Text>
     <Text huntingZoneId="227" id="5" villagerId="1020">
          
+         
         <Page social="0">Você está roubando meu tempo. Se você quer algo, apresse-se.</Page>
+    
     
     </Text>
     <Text huntingZoneId="227" id="6" prevId="4" villagerId="1015">
          
+         
         <Page social="5">O suprimento não é o lado mais glorioso das forças armadas, mas é, sem dúvida, o mais vital. Obrigado por nos ajudar a montar essa remessa.</Page>
+    
     
     </Text>
 </QuestDialog>

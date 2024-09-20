@@ -1,73 +1,101 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="37" id="2" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="37" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="237" id="100" prevId="0" villagerId="1102">
          
+         
         <Page social="0">Depois de passar no teste de Saleron, você começou a reunir os outros fragmentos de relíquias que levariam à derrota de Kelsaik. Você adquiriu o segundo e o terceiro fragmentos ao dominar seus guardiões, mas o quarto fragmento estava nas mãos de Killian, o deus do terror. Você entrou na fortaleza de Killian, a Jester's Villa, e enfrentou um Killian arrogante. Uma mensagem de Thulsa interrompeu a batalha, e Killian saiu para lidar com uma misteriosa "Divine Furnace". Com um fragmento de relíquia fora de alcance, Fraya optou por uma solução arriscada: usar o poder do Core como substituto.</Page>
+    
     
     </Text>
     <Text huntingZoneId="237" id="2" prevId="0" villagerId="1102">
          
+         
         <Page social="1">Um fragmento não é suficiente, mortal. É por isso que eles são chamados de "fragmentos".&lt;BR&gt;&lt;BR&gt;Striktryssir e Grigelt são criaturas que abençoei com meu poder. Se você conseguir derrotá-los, enviarei meu profeta, Torsten, para purificar os fragmentos de relíquia e conceder-lhe seu poder.</Page>
+    
     
     </Text>
     <Text huntingZoneId="238" id="3" prevId="2" villagerId="1100">
          
+         
         <Page social="1">Como nosso criador, Saleron, disse uma vez, o chifre do dragão é o auge de seu poder. Você consegue alcançar o topo dessa pirâmide, &lt;PCCLASS:lcase&gt;?</Page>
+    
     
     </Text>
     <Text huntingZoneId="238" id="4" villagerId="1100">
          
+         
         <Page social="0">Agora, prove seu poder... derrotando Striktryssir!</Page>
+    
     
     </Text>
     <Text huntingZoneId="238" id="5" prevId="3" villagerId="1110">
          
+         
         <Page social="1">O fragmento brilha com um poder antigo.&lt;BR&gt;&lt;BR&gt;Essa energia... é exatamente o que precisamos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="235" id="6" prevId="5" villagerId="1110">
          
+         
         <Page social="1">Ouça as palavras do criador, Saleron - a ira do dragão é a profundidade de seu combustível. Você consegue chegar ao altar, &lt;PCNAME&gt;?</Page>
+    
     
     </Text>
     <Text huntingZoneId="235" id="7" villagerId="1110">
          
+         
         <Page social="0">Combine a ira de Grigelt com a sua própria... derrote-a!</Page>
+    
     
     </Text>
     <Text huntingZoneId="235" id="8" prevId="6" villagerId="1111">
          
+         
         <Page social="1">Mais uma vez, o fragmento brilha com um poder incalculável.&lt;BR&gt;&lt;BR&gt;Esse poder... é seu para ser tomado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="235" id="9" prevId="8" villagerId="1110">
          
+         
         <Page social="1">O quarto e último fragmento está além do alcance até mesmo dos dragões de Saleron.&lt;BR&gt;&lt;BR&gt;Está nas mãos de Killian, Deus do Terror. A menos que você consiga tirar o fragmento dele, não teremos esperança contra a grande fera, Kelsaik.</Page>
+    
     
     </Text>
     <Text huntingZoneId="236" id="10" prevId="9" villagerId="1110">
          
+         
         <Page social="1">Esse teletransporte o leva ao coração do covil de Killian.&lt;BR&gt;&lt;BR&gt;Você está pronto?</Page>
+    
     
     </Text>
     <Text huntingZoneId="518" id="11" prevId="10" villagerId="1001">
          
+         
         <Page social="4">Toda a federação - homens e mulheres, adultos e crianças - lamenta que você não tenha conseguido reunir os fragmentos da relíquia. Killian pode ser louco, mas não se pode brincar com ele.&lt;BR&gt;&lt;BR&gt;Sem os quatro fragmentos, não podemos esperar derrotar Kelsaik. No entanto, faltou-lhe um... fragmento... &lt;BR&gt;&lt;BR&gt;Você se lembra do pingente que Kaidun me deu, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"Claro."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Quando se está jogando, é bom ter um coringa, não é mesmo? &lt;BR&gt;&lt;BR&gt;Considere esse pingente como um coringa, pois ele pode substituir o quarto fragmento. Mas saiba dos riscos: o pingente contém a maior parte do poder do Núcleo. Se ele for perdido... ou pior, tomado... Allemantheia entrará em colapso em poucos dias.&lt;BR&gt;&lt;BR&gt;Eu manterei Allemantheia unida enquanto eu puder. Detenham Kelsaik! Detenham Thulsa! Vingar Kaidun!</Page>
+    
     
     </Text>
     <Text huntingZoneId="528" id="12" prevId="11" villagerId="5009">
          
+         
         <Page social="4">Você recuperou três fragmentos de relíquias... e vejo que Fraya fez um grande sacrifício para compensar o quarto fragmento que faltava. Você fez muito bem, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Eu poderia fazer a arma para destruir Kelsaik agora mesmo, mas...&lt;BR&gt;&lt;BR&gt;Thulsa se apoderou da Fornalha Divina. Ele deve saber que estamos tramando algo.&lt;NEXTPAGEBUTTON&gt;"A Fornalha Divina?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">O lendário ferreiro amani, Muhrak, pode criar um recipiente para conter o poder dos fragmentos. Eu o enviei à frente para preparar a Fornalha Divina, onde ele pode fazer esse trabalho maravilhoso...&lt;BR&gt;&lt;BR&gt;...enviei-o à frente de forma imprudente, ao que parece.&lt;BR&gt;&lt;BR&gt;Thulsa controla a fornalha, Muhrak está desaparecido, e não sei se ele conseguiu completar o recipiente a tempo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="528" id="13" prevId="12" villagerId="5005">
          
+         
         <Page social="4">Muhrak? Ele realmente existe? Pensei que ele fosse apenas uma lenda.&lt;BR&gt;&lt;BR&gt;Não sei nada sobre Muhrak, mas o Prefeito Biath, em Habere, nos enviou uma mensagem. Apenas um aprendiz escapou da Fornalha Divina quando Thulsa atacou.&lt;BR&gt;&lt;BR&gt;Se alguém souber o que aconteceu com Muhrak, será esse aprendiz. Ele está sob a proteção de Gahreed em Habere.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,54 +1,74 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="605" id="12" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="605" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="63" id="100" prevId="0" villagerId="3002">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="2" prevId="0" villagerId="3002">
          
+         
         <Page social="4">Quer partir para uma aventura? &lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} está procurando alguém para fazer um pouco de trabalho sujo no campo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="3003">
          
+         
         <Page social="4">Usamos materiais de todo o mundo. Alguns deles são de oferta e demanda - somos comerciantes, você sabe.&lt;BR&gt;&lt;BR&gt;Mas também precisamos de itens estranhos de vez em quando para ajudar em nossos esforços para afastar os muitos males que existem por aqui.&lt;BR&gt;&lt;BR&gt;Mas somos um grupo pequeno. Não podemos estar em todos os lugares. É aí que você entra.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="4" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="5" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="6" prevId="2" villagerId="3002">
          
+         
         <Page social="5">Partes do corpo! Meu favorito.&lt;BR&gt;&lt;BR&gt;A única pessoa que os aprecia mais do que eu é {@LinkCreature:63#3003#Elthienne}.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="7" villagerId="3002">
          
+         
         <Page social="0">Caça {@LinkCreature:12#13#Red Lash clawriders} em {@Rgn:12001#Mistmoor Island} e traz de volta dentes, garras e carapaças.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="8" prevId="6" villagerId="3002">
          
+         
         <Page social="5">Como foi a viagem? Ouvi dizer que a {@Rgn:12001#Ilha de Mistmoor} é bonita nesta época do ano.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} tem seu pagamento.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="9" villagerId="3002">
          
+         
         <Page social="0">Caça {@LinkCreature:12#17#Maraudantes do chicote vermelho} na {@Rgn:12001#Ilha de Mistmoor} e traz de volta dentes, garras e carapaças.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="10" prevId="8" villagerId="3003">
          
+         
         <Page social="4">Eu sabia que podia contar com você.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="60604001" string="What Could Possibly Go Wrong" />
-    <String id="60604002" string="The symbol only works on lesser nexus creatures. Probably." />
-    <String id="60604003" string="Alas, back to the drawing slate." />
-    <String id="60604004" string="Nexus Intruder" />
-    <String id="60604005" string="Use the symbol of distorted dimension on a lesser nexus creature." />
-    <String id="60604006" string="&quot;Keep trying.&quot;" />
-    <String id="60604007" string="Report your results to {@LinkCreature:1022#1002}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="60602001" string="One Monster's Garbage is Another's Treasure" />
+    <String id="60602002" string="Even broken teinocrons might prove useful." />
+    <String id="60602003" string="Excellent work, my friend." />
+    <String id="60602004" string="Damaged Nexus Teinocron" />
+    <String id="60602005" string="Recover damaged nexus teinocrons from creatures within the nexus." />
+    <String id="60602006" string="Deliver the damaged teinocrons to {@LinkCreature:1022#1002}." />
+    <String id="60602007" string="&quot;My pleasure.&quot;" />
 </StrSheet_Quest>

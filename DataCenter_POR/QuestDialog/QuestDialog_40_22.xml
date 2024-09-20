@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="40" id="22" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="40" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="240" id="100" prevId="0" villagerId="1013">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="240" id="2" prevId="0" villagerId="1013">
          
+         
         <Page social="4">Os {@LinkCreature:40#18#micanares violentos} também são vítimas da praga da mutação. Um estudo de seus núcleos pode revelar muito sobre a doença. O &lt;PCNAME&gt; obterá alguns micanódulos para mim?</Page>
+    
     
     </Text>
     <Text huntingZoneId="240" id="3" prevId="2" villagerId="1013">
          
+         
         <Page social="4">Então é assim que eles se parecem. Bem, vou começar a trabalhar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="240" id="4" villagerId="1013">
          
+         
         <Page social="0">Mate os {@LinkCreature:40#18#micanares violentos} e traga-me seus nódulos. Não posso fazer isso sem eles.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,12 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4624001" string="Não apenas um vaso de flores" />
-    <String id="4624002" string="Por favor, destrua o {@creature:46#7003#haxuul extractor} e obtenha amostras." />
-    <String id="4624003" string="Obrigado por trazer amostras do {@creature:46#7003#haxuul extractor}." />
-    <String id="4624004" string="Amostras de plantas" />
-    <String id="4624005" string="Passe pelo {@creature:46#202#argonomorph kulkari shaman} que guarda as salas em {@Rgn:46002$$Raga Evala} de {@Rgn:46001$$the Three Towers} e destrua o {@creature:46#7003#haxuul extractor}. Em seguida, obtenha amostras." />
-    <String id="4624006" string="Volte para a {@Rgn:46020$$Shineroot Chamber} e entregue as amostras de plantas coletadas para {@linkcreature:246#1024$$$Platanok}." />
-    <String id="4624007" string="&quot;Entendi.&quot;" />
-    <String id="4624008" string="&quot;É uma honra servir.&quot;" />
-    <String id="4624009" string="Vá se encontrar com {@creature:246#1026$$Beranie} na {@Rgn:46015$$Hexheart Chamber}." />
+    <String id="4602001" string="Único sobrevivente" />
+    <String id="4602002" string="{@Rgn:9012001$$Três Torres Espirais}" />
+    <String id="4602003" string="Você entrou nas {@Rgn:9012001$$$Three Towers Spires}." />
+    <String id="4602004" string="[{@Rgn:9012001$$Espiral das Três Torres}] Use o {@linkcreature:246#1502#teleportal} para entrar no {@Rgn:9012001$$$Espiral das Três Torres}." />
+    <String id="4602005" string="Comece a pesquisar." />
+    <String id="4602006" string="Apresse-se!" />
+    <String id="4602007" string="Procure nos túneis com {@linkcreature:412#2001$$Greyden}." />
+    <String id="4602008" string="&quot;Tenha cuidado.&quot;" />
+    <String id="4602009" string="Fale com {@linkcreature:412#2001$$Greyden}." />
+    <String id="4602010" string="Sons estranhos" />
+    <String id="4602011" string="Você ouve os sons da batalha à frente." />
+    <String id="4602012" string="Comece a pesquisar." />
+    <String id="4602013" string="Mate os argonss que estão atacando {@linkcreature:412#2005$$Hasmina}." />
+    <String id="4602014" string="&quot;Nenhum soldado é deixado para trás, certo?&quot;" />
+    <String id="4602015" string="Fale com {@linkcreature:412#2005$$Hasmina}." />
+    <String id="4602016" string="Mate o devastador de gilgash de argons." />
+    <String id="4602017" string="Destrua as cápsulas de argons que fornecem energia para as {@Rgn:46001$$Three Towers}." />
+    <String id="4602018" string="&quot;Vamos lá.&quot;" />
+    <String id="4602019" string="Fale com {@linkcreature:412#2006$$Hasmina}." />
+    <String id="4602020" string="&quot;Como ordenado.&quot;" />
+    <String id="4602021" string="[{@Rgn:46014$$Base de Pesquisa das Três Torres}] Fuja usando o teleportal e conte a {@linkcreature:246#2001$$$Adeldur} o que aconteceu nas {@Rgn:9012001$$$Espiral das Três Torres}." />
+    <String id="4602022" string="&quot;Sinto muito por sua perda.&quot;" />
+    <String id="4602023" string="Fale com {@linkcreature:246#2008$$Hasmina}." />
+    <String id="4602024" string="&quot;Acho que você está certo.&quot;" />
+    <String id="4602025" string="Fale com {@linkcreature:246#2008$$Hasmina}." />
 </StrSheet_Quest>

@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="78" id="1007">
-    <Text huntingZoneId="78" id="1" endSocial="14" prevId="0" villagerId="1007">
-         
-        <Page social="4">Nothing like magic to move around the battlefield. With my service, you only risk your neck once getting somewhere.</Page>
-    
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1007" huntingZoneId="78" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="78" prevId="0" villagerId="1007" endSocial="14">
+        <Page social="4">(This teleportal can transport you to any camp you've visited in Helkan District.)</Page>
     </Text>
 </VillagerDialog>

@@ -1,13 +1,17 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="212" id="1023" voiceTypeId="27">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1023" huntingZoneId="212" voiceTypeId="27">
     <Text huntingZoneId="212" id="1" endSocial="12" prevId="0" villagerId="1023">
          
+         
         <Page social="9">Did Zebedah get away? Do you know?&lt;BR&gt;&lt;BR&gt;Believe me, I am still alive.</Page>
+    
     
     </Text>
     <Text huntingZoneId="212" id="10001" endSocial="0" prevId="0" villagerId="1023">
          
+         
         <Page social="9">Still alive! Still alive!</Page>
+    
     
     </Text>
 </VillagerDialog>

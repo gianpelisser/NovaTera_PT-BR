@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="60" id="1007" voiceTypeId="3">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1007" huntingZoneId="60" voiceTypeId="3">
     <Text huntingZoneId="60" id="1" endSocial="14" prevId="0" villagerId="1007">
          
+         
         <Page social="4">We can protect Lumbertown. The rest of the Fey Forest is up to soldiers like you.</Page>
+    
     
     </Text>
 </VillagerDialog>

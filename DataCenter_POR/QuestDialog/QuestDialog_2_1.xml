@@ -1,88 +1,122 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="2" id="1" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="2" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0">Lumbertown estava sofrendo um ataque e tem muitos refugiados de Fey Forest e Oblivion Woods. As Fadas de Fey Forest estavam se revoltando contra os lenhadores, e havia até mesmo rumores de magia negra em Scarwood.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="4">Ordens da missão&lt;BR&gt;&lt;BR&gt;As Fadas em Arcadia estão atacando madeireiros e interrompendo os carregamentos de madeira com destino a Velika.&lt;BR&gt;&lt;BR&gt;Relatar ao Comandante da Guarnição Samael.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="1137">
          
+         
         <Page social="4">Demorou para chegar aqui, &lt;PCCLASS:lcase&gt;. Você tem algum problema com autoridade? &lt;BR&gt;&lt;BR&gt;Se tem, supere isso.&lt;BR&gt;&lt;BR&gt;Eu o estou enviando para a província de Arcadia imediatamente. As Fadas estão atacando os madeireiros e não vemos uma carroça de suprimentos há dias.&lt;BR&gt;&lt;BR&gt;Troius lhe dirá o que você precisa saber para chegar a Lumbertown. Vamos lá!</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="4" prevId="3" villagerId="1107">
          
+         
         <Page social="4">O caminho mais rápido para Lumbertown é de pégaso, e se eu conheço Samael, o caminho mais rápido é o que você quer. Adela é a mestre de voo (flight master). Você provavelmente a conheceu quando aterrissou. Ela o colocará na sela.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="5" prevId="4" villagerId="1009">
          
+         
         <Page social="4">Pronto para viajar? &lt;BR&gt;&lt;BR&gt;Clique em &lt;B&gt;Pontos de Voo&lt;/B&gt; para abrir o mapa de Arun do Sul e selecione o local para onde deseja ir no mapa.&lt;BR&gt;&lt;BR&gt;Você quer Lumbertown, certo? Fica ao norte daqui.</Page>
+    
     
     </Text>
     <Text huntingZoneId="60" id="6" prevId="5" villagerId="1014">
          
+         
         <Page social="4">Eu preciso de uma dúzia de &lt;PCCLASS:lcase&gt;s, não apenas um. Mas você já é um começo.&lt;BR&gt;&lt;BR&gt;Estamos tentando manter Velika abastecida, mesmo com a maior parte do exército na frente de argons, mas no momento não é possível. Centauros e fadas estão indo atrás dos madeireiros, e não podemos proteger todos eles.&lt;BR&gt;&lt;BR&gt;Entretanto, Klaon está com um monte de refugiados doentes, cada vez mais doentes. Dê uma mãozinha a ele, ok?!</Page>
+    
     
     </Text>
     <Text huntingZoneId="60" id="7" prevId="6" villagerId="1039">
          
+         
         <Page social="4">Madeireiros desempregados, fey furiosos, refugiados famintos... estamos por um fio aqui.&lt;BR&gt;&lt;BR&gt;Os refugiados dependem de mim para mantê-los saudáveis, e mais chegam todos os dias. Nosso suprimento de remédios está quase esgotado - e, deuses, eu também estou exausto....&lt;BR&gt;&lt;BR&gt;Pensei em usar um pouco de gracebloom artístico para fazer um remédio. Você pode me conseguir algumas? Elas crescem em um campo logo após a ponte norte.</Page>
+    
     
     </Text>
     <Text huntingZoneId="60" id="8" prevId="7" villagerId="1039">
          
+         
         <Page social="4">Esta flor da graça deve servir, eu acho.&lt;BR&gt;&lt;BR&gt;Dê-me um momento para misturar isso...</Page>
+    
     
     </Text>
     <Text huntingZoneId="60" id="9" villagerId="1039">
          
+         
         <Page social="0">Por favor, se apresse, &lt;PCNAME&gt;. Esses refugiados não estão ficando mais saudáveis. A Artful Gracebloom pode ser a única coisa entre nós e uma epidemia total!</Page>
+    
     
     </Text>
     <Text huntingZoneId="60" id="10" prevId="8" villagerId="1039">
          
+         
         <Page social="4">Dê um pouco desse tônico aos refugiados mais doentes. Quanto mais deles beberem, menos contágio terei de me preocupar mais tarde.</Page>
+    
     
     </Text>
     <Text huntingZoneId="60" id="11" prevId="10" villagerId="1040">
          
+         
         <Page social="4">O que está acontecendo comigo? Estou muito doente. Não consigo nem ficar de pé. Por que viemos para cá? &lt;BR&gt;&lt;BR&gt;Só quero me enrolar e morrer!</Page>
+    
     
     </Text>
     <Text huntingZoneId="60" id="12" prevId="11" villagerId="1041">
          
+         
         <Page social="4">Tão... frio. Tão... fraco...</Page>
+    
     
     </Text>
     <Text huntingZoneId="60" id="13" prevId="12" villagerId="1042">
          
+         
         <Page social="4">Ajude-me. Faça algo por mim. Qualquer coisa!</Page>
+    
     
     </Text>
     <Text huntingZoneId="60" id="14" prevId="13" villagerId="1043">
          
+         
         <Page social="4">A dor... é horrível. Alguém faça com que ela pare.</Page>
+    
     
     </Text>
     <Text huntingZoneId="60" id="15" prevId="14" villagerId="1039">
          
+         
         <Page social="4">Eu realmente acho que esse tônico é a solução. É claro que há alguns efeitos colaterais estranhos, mas tenho certeza de que posso fazer os refinamentos necessários...&lt;BR&gt;&lt;BR&gt;Entretanto, o Centurião Verus, na Paliçada dos Lenhadores, talvez possa usar um pouco disso - ele deve ter alguns refugiados lá em breve. Ele fica a noroeste da cidade.&lt;NEXTPAGEBUTTON&gt;"Eu posso fazer isso."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Verus conhece um popori chamado Maon na Floresta Fey que pode ter alguma influência com as fadas de lá. Poderíamos usar uma pessoa de dentro para nos ajudar a resolver essa revolta contra nossos madeireiros.</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="16" prevId="15" villagerId="1004">
          
+         
         <Page social="4">Ah, poções de Klaon. Em breve, poderemos usar esse acampamento para abrigar refugiados, por isso é aconselhável ter remédios estocados aqui com antecedência. Não sabia que Klaon era tão bem abastecido...&lt;BR&gt;&lt;BR&gt;De qualquer forma, obrigado pela entrega. Posso ajudá-lo em alguma coisa enquanto estiver aqui? &lt;NEXTPAGEBUTTON&gt;"Ouviu falar de Maon?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Somos velhos amigos, Maon e eu. Ele conhece a floresta e conhece os fey.&lt;BR&gt;&lt;BR&gt;Ele não vem por aqui desde que todos os problemas começaram, mas se você precisar falar com ele, ele mora em uma cabana a oeste daqui com seu filho. É um garoto bonito.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="51" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="51" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="79" id="100" prevId="0" villagerId="1007">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="79" id="2" prevId="0" villagerId="1007">
          
+         
         <Page social="4">Thulsa assumiu o controle do Vale das Torres e instalou alguns pilares feitos com tecnologia de argons. Eles parecem tornar os habitantes do vale hostis a nós, mas não às suas forças.&lt;BR&gt;&lt;BR&gt;Devemos localizar esses pilares e encontrar uma maneira de destruí-los. Apresentem-se a Thenuvia. Ela terá mais detalhes para você.</Page>
+    
     
     </Text>
     <Text huntingZoneId="251" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="4">Sim, esses postes de draelkar são coisas perversas. Gostaria que tivéssemos alguns! Mande os argons lutarem sozinhos enquanto nós bebemos algumas cervejas, hein?&lt;BR&gt;&lt;BR&gt;As vanguardas compilaram uma lista de localizações de pilones. Quanto mais cedo eles forem destruídos, mais cedo poderemos levar a luta direto para Thulsa!</Page>
+    
     
     </Text>
 </QuestDialog>

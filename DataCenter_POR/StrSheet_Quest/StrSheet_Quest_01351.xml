@@ -1,8 +1,19 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4825001" string="Baixas de guerra" />
-    <String id="4825002" string="Descubra se alguém sobreviveu ao desastre da Cratera Magthulk." />
-    <String id="4825003" string="Estou bem, mas perdi a maior parte de meu comando." />
-    <String id="4825004" string="&quot;Fique firme, meu amigo.&quot;" />
-    <String id="4825005" string="Procure por {@LinkCreature:248#1030} próximo a {@Rgn:48008}." />
+    <String id="4802001" string="A Deusa da Guerra" />
+    <String id="4802002" string="&quot;Farei o meu melhor&quot;." />
+    <String id="4802003" string="[{@Rgn:48002$$Cidadela de Khanovar}] Apresente-se ao Comandante {@LinkCreature:248#2001$$Tamur}." />
+    <String id="4802004" string="&quot;Não vou demorar.&quot;" />
+    <String id="4802005" string="[{@Rgn:48002$$Cidadela de Khanovar}] Fale com {@LinkCreature:248#2001$$Kaia}." />
+    <String id="4802006" string="&quot;Para Valkyon!&quot;" />
+    <String id="4802007" string="[{@Rgn:48002$$Khanovar Citadel}] Fale com Kaia para iniciar a batalha." />
+    <String id="4802008" string="Manopla de Khanovar" />
+    <String id="4802009" string="Aguarde Kaia." />
+    <String id="4802010" string="Vá até {@Rgn:9014001$$Khanovar Gauntlet} com {@LinkCreature:248#2010$$$Kaia}." />
+    <String id="4802011" string="Manopla de Khanovar" />
+    <String id="4802012" string="Kaia entra na briga!" />
+    <String id="4802013" string="Fique ao lado de {@LinkCreature:248#2001$$War Goddess Kaia} e prepare-se para a batalha." />
+    <String id="4802014" string="[{@Rgn:9014001$$Khanovar Gauntlet}] Derrote os argonss que estão atacando {@LinkCreature:414#2001$$$Goddess Kaia}." />
+    <String id="4802015" string="&quot;Entendido.&quot;" />
+    <String id="4802016" string="[{@Rgn:48002$$Cidadela de Khanovar}] Fale com o Comandante {@LinkCreature:248#2001$$Tamur}." />
 </StrSheet_Quest>

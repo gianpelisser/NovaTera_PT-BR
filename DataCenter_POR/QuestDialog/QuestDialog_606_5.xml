@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="606" id="5" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="606" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="1022" id="100" prevId="0" villagerId="1003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="1022" id="2" prevId="0" villagerId="1003">
          
+         
         <Page social="4">Vários estudiosos observaram alterações em pedras expostas a um nexus. Se pudermos identificar o agente causal, poderemos desenvolver uma contramedida.&lt;BR&gt;&lt;BR&gt;Precisamos de amostras de fragmentos nexulíticos. Você se sente à altura do desafio?</Page>
+    
     
     </Text>
     <Text huntingZoneId="1022" id="3" prevId="2" villagerId="1003">
          
+         
         <Page social="4">Vamos estudar essas amostras imediatamente. Deve haver uma ligação.&lt;BR&gt;&lt;BR&gt;Por favor, aceite nossa gratidão.</Page>
+    
     
     </Text>
     <Text huntingZoneId="1022" id="4" villagerId="1003">
          
+         
         <Page social="0">Você deve encontrar fragmentos nos detritos contaminados da montanha em qualquer lugar onde um nexo tenha se formado recentemente. Vasculhe o distrito de Helkan e Val Kaeli.</Page>
+    
     
     </Text>
 </QuestDialog>

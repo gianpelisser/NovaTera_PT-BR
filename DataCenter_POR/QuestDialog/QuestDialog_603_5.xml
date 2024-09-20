@@ -1,34 +1,46 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="603" id="5" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="603" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="76" id="100" prevId="0" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="76" id="2" prevId="0" villagerId="3003">
          
+         
         <Page social="4">{@LinkCreature:250#3002#Sunkuvil} em {@Rgn:50001$$Granarkus} tem mais argonss do que ela gostaria de caçar. Quer dar uma volta?</Page>
+    
     
     </Text>
     <Text huntingZoneId="250" id="3" prevId="2" villagerId="3002">
          
+         
         <Page social="4">Este acampamento está bem escondido, mas nos últimos dias tivemos alguns encontros próximos com alguns argons.&lt;BR&gt;&lt;BR&gt;Tenho certeza de que você vai gostar de limpá-los.</Page>
+    
     
     </Text>
     <Text huntingZoneId="250" id="4" prevId="2" villagerId="3002">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="250" id="5" prevId="2" villagerId="3002">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="250" id="6" prevId="2" villagerId="3002">
          
+         
         <Page social="4">Nada mal! &lt;BR&gt;&lt;BR&gt;Eu estava tentado a levá-los eu mesmo, mas os mestres lenhadores não devem ser gananciosos.</Page>
+    
     
     </Text>
 </QuestDialog>

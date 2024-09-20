@@ -1,28 +1,14 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="60209001" string="They Hate Me in That Tunnel (Eles me odeiam naquele túnel)" />
-    <String id="60209002" string="Vá para as catacumbas e elimine os argonss!" />
-    <String id="60209003" string="Você luta como a Kaia!" />
-    <String id="60209004" string="" />
-    <String id="60209005" string="" />
-    <String id="60209006" string="" />
-    <String id="60209007" string="" />
-    <String id="60209008" string="Use o &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=8001#53250,3806,253&amp;type=1&amp;name=Teleportal&quot;&gt;teleportal&lt;/A&gt;&lt;/font&gt; para se apresentar a Baruster nas Catacumbas de Argon." />
-    <String id="60209009" string="&quot;Eu cuido disso.&quot;" />
-    <String id="60209010" string="Revestimento de argons" />
-    <String id="60209011" string="Mate os {@LinkCreature:418#1011#chamas reavers} e os {@LinkCreature:418#1012#energized yusul slashers} e colete suas placas." />
-    <String id="60209012" string="Entregue o revestimento de argons para {@LinkCreature:418#2001#Baruster}." />
-    <String id="60209013" string="&quot;Obrigado!&quot;" />
-    <String id="60209014" string="Revestimento de argons" />
-    <String id="60209015" string="Mate as {@LinkCreature:418#1021#sentinelas manaathol} e as {@LinkCreature:418#1022#sentinelas manaathol energizadas} e colete suas placas." />
-    <String id="60209016" string="Entregue o revestimento de argons para {@LinkCreature:418#2001#Baruster}." />
-    <String id="60209017" string="&quot;Agradeço.&quot;" />
-    <String id="60209018" string="Revestimento de argons" />
-    <String id="60209019" string="Fale com {@LinkCreature:418#2002$$Tibonel} para abrir o portal. Em seguida, mate {@LinkCreature:418#1061#hulrap miners} e colete suas placas." />
-    <String id="60209020" string="Entregue o revestimento de argons para {@LinkCreature:418#2001#Baruster}." />
-    <String id="60209021" string="&quot;Obrigado.&quot;" />
-    <String id="60209022" string="Revestimento de argons" />
-    <String id="60209023" string="Mate os {@LinkCreature:418#1051#chamas reapers} e colete suas placas." />
-    <String id="60209024" string="Entregue o revestimento de argons para {@LinkCreature:418#2001#Baruster}." />
-    <String id="60209025" string="&quot;Agradeço.&quot;" />
+    <String id="60207001" string="Atacar primeiro, atacar com força" />
+    <String id="60207002" string="Vá até {@Rgn:48003$$Peril Cavern} e esmague os argonss!" />
+    <String id="60207003" string="Excelente! Precisamos de mais lutadores como você!" />
+    <String id="60207004" string="" />
+    <String id="60207005" string="" />
+    <String id="60207006" string="Apresente-se a {@LinkCreature:248#3010#Orveras} em {@Rgn:48003$$Peril Cavern}." />
+    <String id="60207007" string="&quot;Como ordenado.&quot;" />
+    <String id="60207008" string="Mate {@LinkCreature:48#6#vulnaq threshers} no {@Rgn:48007$$Argon Bulwark}." />
+    <String id="60207009" string="Destrua os transportadores de {@LinkCreature:48#400#zolnaj} em {@Rgn:48005$$Valgurati Stronghold}." />
+    <String id="60207010" string="&quot;Vitória para Valkyon!&quot;" />
+    <String id="60207011" string="Informe a {@LinkCreature:248#3010#Orveras}." />
 </StrSheet_Quest>

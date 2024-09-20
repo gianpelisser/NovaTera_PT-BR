@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="18" id="31" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="18" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="218" id="100" prevId="0" villagerId="1005">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="218" id="2" prevId="0" villagerId="1005">
          
+         
         <Page social="4">Estamos começando a ter controle sobre as coisas pela primeira vez em meses. Portanto, agora é hora de contra-atacar os cultistas.&lt;BR&gt;&lt;BR&gt;Por que você ainda está aqui? Você é a pessoa mais próxima, então ganhou o sorteio. Tenho aqui uma ordem por escrito ordenando que você {@LinkCreature:218#1009#Chenast}. Dirija-se à Arena of the Exalted e apresente-se para o serviço. Vamos, vamos!</Page>
+    
     
     </Text>
     <Text huntingZoneId="218" id="3" prevId="2" villagerId="1009">
          
+         
         <Page social="4">Anaka o enviou, não foi? Hmm.&lt;BR&gt;&lt;BR&gt;Tudo bem, então. Vamos colocar você para trabalhar. Parece que os {@LinkCreature:18#19#Lokian vanguards} e os {@LinkCreature:18#23#Lokian magisters} estão tramando um ritual ou outro.&lt;BR&gt;&lt;BR&gt;Pare-os antes que tenham sucesso.</Page>
+    
     
     </Text>
     <Text huntingZoneId="218" id="4" prevId="3" villagerId="1009">
          
+         
         <Page social="4">Essas são... cabeças! Uau. Foi isso que você me trouxe, sim. &lt;BR&gt;&lt;BR&gt;Bem, que bom! Anaka vai ficar encantada. Ela adora decorar com pedaços de cultistas. Acha que isso os intimida. Talvez esteja certa.&lt;BR&gt;&lt;BR&gt;De qualquer forma, empilhe-os ali. Obrigado por isso.</Page>
+    
     
     </Text>
     <Text huntingZoneId="218" id="5" villagerId="1009">
          
+         
         <Page social="0">Se você esperar muito mais, eles concluirão seu ritual assustador com certeza. São os {@LinkCreature:18#21#Lokian berserkers} e os {@LinkCreature:18#22#Lokian priests} que precisam de sua... ajuda.</Page>
+    
     
     </Text>
 </QuestDialog>

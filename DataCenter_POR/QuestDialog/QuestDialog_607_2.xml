@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="607" id="2" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="607" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="72" id="100" prevId="0" villagerId="1702">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="72" id="2" prevId="0" villagerId="1702">
          
+         
         <Page social="4">Ainda estamos desempacotando as coisas da mudança e ainda não temos todos os nossos materiais de referência.&lt;BR&gt;&lt;BR&gt;Pode pegar emprestado um livro de taumaturgia do Collegium Arcane? Eles entenderão... cortesia profissional e tudo mais.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="3" prevId="2" villagerId="1712">
          
+         
         <Page social="4">Este pode ser o livro que a Fitae deseja.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="4" prevId="3" villagerId="1702">
          
+         
         <Page social="4">Exatamente o que eu precisava. Obrigado, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Sua ajuda está nos ajudando a acelerar nossa pesquisa rapidamente.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="5" villagerId="1702">
          
+         
         <Page social="0">O livro está no Collegium Arcane. Desculpe, não há fotos. É um livro para adultos.</Page>
+    
     
     </Text>
 </QuestDialog>

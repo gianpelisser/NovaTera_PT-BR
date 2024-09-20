@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="70" id="1958" voiceTypeId="0">
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1958" huntingZoneId="70" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
     <Text id="1" endSocial="14">
-         
-        <Page social="5">Surely by now you've gotten a few Gold BAM Tokens?</Page>
-    
+        <Page social="5">Welcome! Are you here to claim your Festival Gift? This is the festival for celebrating the first day when the Goddess Seren blessed us with her presence! We, the representatives of the Nepir Metal Workshop, have prepared many gifts as well, so please claim as many gifts as possible!</Page>
     </Text>
 </VillagerDialog>

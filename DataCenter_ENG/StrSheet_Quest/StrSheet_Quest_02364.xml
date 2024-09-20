@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="999926001" string="Imperial Entanglements" />
-    <String id="999926002" string="[Spring Valley] Defeat Archdevan Imperial Army forces." />
-    <String id="999926003" string="Archdevan Imperial Army" />
-    <String id="999926004" string="Complete Vanguard Initiative orders and claim your prize!" />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="999808001" string="Option: Kill Shandra Manaya" />
+    <String id="999808002" string="[Manaya's Core] Kill Shandra Manaya with your allies!" />
+    <String id="999808003" string="Claim your reward!" />
 </StrSheet_Quest>

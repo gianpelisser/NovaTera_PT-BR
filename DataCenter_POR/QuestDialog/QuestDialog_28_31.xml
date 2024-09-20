@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="31" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="28" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="228" id="100" prevId="0" villagerId="1011">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="228" id="2" prevId="0" villagerId="1011">
          
+         
         <Page social="5">Os espíritos antigos carregam a corrupção e a maldição da morte de Lok. Eu gostaria de ajudá-los em vez de simplesmente matá-los, mas precisamos entender sua contaminação.&lt;BR&gt;&lt;BR&gt;Se você me trouxer as pedras espirituais dos {@LinkCreature:28#3031#jalmaraks iluminados}, é possível que encontremos uma maneira de salvá-los. Não prometo nada, mas o esforço será feito.</Page>
+    
     
     </Text>
     <Text huntingZoneId="228" id="3" prevId="2" villagerId="1011">
          
+         
         <Page social="5">Essas pedras espirituais são como tudo o que existe nessa floresta amaldiçoada - manchadas! &lt;BR&gt;&lt;BR&gt;Vamos estudá-las com mais detalhes. O que foi feito ainda pode ser desfeito. Essa é a nossa maior esperança.</Page>
+    
     
     </Text>
     <Text huntingZoneId="228" id="4" villagerId="1011">
          
+         
         <Page social="0">Minha pesquisa requer pedras espirituais dos jalmaraks, &lt;PCNAME&gt;. Por favor, volte logo com elas.</Page>
+    
     
     </Text>
 </QuestDialog>

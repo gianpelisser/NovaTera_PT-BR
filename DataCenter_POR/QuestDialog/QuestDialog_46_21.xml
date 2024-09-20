@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="46" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="46" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="77" id="100" prevId="0" villagerId="1011">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="77" id="2" prevId="0" villagerId="1011">
          
+         
         <Page social="4">Está vendo aquela imensa estrutura ao norte daqui? São as Três Torres. Os argons a controlam nominalmente, mas fizemos incursões significativas e estamos estudando a tecnologia e a biologia dos argons na fonte.&lt;BR&gt;&lt;BR&gt;Para ser franco, precisamos de você lá, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Não vá simplesmente para lá. Faça o check-in no Posto Khanovar. Eles o atualizarão sobre a situação do argons.</Page>
+    
     
     </Text>
     <Text huntingZoneId="245" id="3" prevId="2" villagerId="1030">
          
+         
         <Page social="4">Estamos seguros aqui... por enquanto. Podemos ficar de olho nos argons, mas eles não nos atacam diretamente.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="4" prevId="3" villagerId="1103">
          
+         
         <Page social="4">Nossas pesquisas iniciais estão indo bem se você for um cientista, mas mal se for um general.&lt;BR&gt;&lt;BR&gt;Na maioria das vezes, descobrimos o quanto somos ignorantes no que diz respeito aos argons, como eles funcionam e por que estão tentando terraformar o mundo.&lt;BR&gt;&lt;BR&gt;Fique nesta base por tempo suficiente e você verá relatórios dos sábios e pesquisadores que temos espalhados pelas torres. Trabalho perigoso, especialmente para cientistas que mal sabem qual ponta de uma espada segurar.</Page>
+    
     
     </Text>
 </QuestDialog>

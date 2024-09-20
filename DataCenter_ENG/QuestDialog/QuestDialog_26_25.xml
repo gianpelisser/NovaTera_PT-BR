@@ -1,26 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="26" id="25" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="226" id="100" prevId="0" villagerId="1008">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="26" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="226" prevId="0" villagerId="1008">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="226" id="2" prevId="0" villagerId="1008">
-         
+    <Text id="2" huntingZoneId="226" prevId="0" villagerId="1008">
         <Page social="5">You're very lucky. Not many get the chance to rub shoulders with a world-famous scholar such as myself. Don't feign shock! You know my name! Everyone knows my name.&lt;BR&gt;&lt;BR&gt;As it happens, I do have a need for an assistant. There are a number of relics I'm after.&lt;BR&gt;&lt;BR&gt;They're not lost—I know precisely where they are. I'll mark them on your map! See? &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7011#35885.3086,-52341.7695,1646.3262&amp;type=1&amp;name=Relic location"&gt;&lt;/A&gt;&lt;/font&gt;&lt;NEXTPAGEBUTTON&gt;"You need me to collect them?"&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="5">You're brighter than you appear. Precisely!&lt;BR&gt;&lt;BR&gt;You bring me those relics and I'll make sure you're invited to stand near the building where I give my glorious report.&lt;BR&gt;&lt;BR&gt;Time is fame, as they say, so don't dawdle.&lt;BR&gt;&lt;BR&gt;I'll be here, doing important things....</Page>
-    
     </Text>
-    <Text huntingZoneId="226" id="3" prevId="2" villagerId="1008">
-         
+    <Text id="3" huntingZoneId="226" prevId="2" villagerId="1008">
         <Page social="5">Splendidly done. I should consider hiring someone like you more often. This will show those stuffed shirts at the Mysterium how foolish they were to turn away me, Eustace, from their ranks.&lt;BR&gt;&lt;BR&gt;At least, I really hope it does. Although it may take me some time to look over these finds.</Page>
-    
     </Text>
-    <Text huntingZoneId="226" id="4" villagerId="1008">
-         
+    <Text id="4" huntingZoneId="226" villagerId="1008">
         <Page social="0">You're wasting valuable time. We need those relics if I'm to be famous!</Page>
-    
     </Text>
 </QuestDialog>

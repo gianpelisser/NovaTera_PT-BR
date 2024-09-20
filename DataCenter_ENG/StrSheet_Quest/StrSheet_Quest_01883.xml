@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="12307001" string="Bigger Aurum Beasts" />
-    <String id="12307002" string="Infiltrate the Free Traders territory and kill huge beasts." />
-    <String id="12307003" string="&quot;For the Iron Order!&quot;" />
-    <String id="12307004" string="Report back to {@linkcreature:123#9001#Frateko} in Fort Dragonfall." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="12306001" string="It's a Shard Life" />
+    <String id="12306002" string="Complete" />
+    <String id="12306003" string="Noctenium Shard" />
+    <String id="12306004" string="Collect noctenium shards from {@linkcreature:123#501#crystalline noctenium}." />
+    <String id="12306005" string="Deliver the shards to {@linkcreature:123#220020#Bilath}." />
+    <String id="12306006" string="&quot;It really wasn't that shard.&quot;" />
 </StrSheet_Quest>

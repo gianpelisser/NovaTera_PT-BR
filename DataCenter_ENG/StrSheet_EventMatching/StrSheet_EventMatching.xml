@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_EventMatching xmlns="https://vezel.dev/novadrop/dc/StrSheet_EventMatching" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_EventMatching StrSheet_EventMatching.xsd">
-    <String id="1" string="Vanguard Initiative" />
-    <String id="2" string="Patch Notes" />
+<StrSheet_EventMatching xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_EventMatching StrSheet_EventMatching.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_EventMatching">
+    <String id="1" string="Vanguard Requests" />
+    <String id="2" string="Welcome Message" />
     <String id="3" string="Recommended Equipment" />
     <String id="4" string="Help" />
     <String id="5" string="Roll Call" />
@@ -11,9 +10,10 @@
     <String id="13" string="&lt;font color='#78af36'&gt;Normal&lt;/font&gt;" />
     <String id="101" string="Find Group" />
     <String id="102" string="Teleport" />
-    <String id="103" string="Check Quests" />
+    <String id="103" string="Check Quest" />
     <String id="104" string="Cancel Matching" />
     <String id="105" string="Quest Completed" />
+    <String id="106" string="Return" />
     <String id="1001" string="Will you teleport to the quest region?" />
     <String id="1002" string=" days grants:" />
     <String id="1003" string="Resets each week on {day}." />
@@ -25,11 +25,12 @@
     <String id="1009" string="This benefit applies to all characters in your account." />
     <String id="1010" string="Reward received." />
     <String id="1011" string="Vanguard badges needed to collect the weekly bonus reward." />
+    <String id="1012" string="Do you wish to return to the mission quest save point?" />
     <String id="2001" string="Vanguard Initiative" />
     <String id="2002" string="Vanguard Initiative Reward" />
-    <String id="2003" string="Your inventory is full. The reward from the Vanguard Initiative will be delivered by mail." />
+    <String id="2003" string="Your inventory is full. The reward from the Valkyon Federation Initiative will be delivered by mail." />
     <String id="2004" string="Weekly Bonus Reward." />
-    <String id="2005" string="Your inventory is full. The reward from the Vanguard Initiative will be delivered by mail." />
-    <String id="3000" string="This is just the beginning." />
-    <String id="3001" string="Here we go again." />
+    <String id="2005" string="Your inventory is full. Rewards from the Vanguard Initiative will be delivered by mail." />
+    <String id="3000" string="Finished...for now." />
+    <String id="3001" string="You've completed the story and secured the Fate of Arun." />
 </StrSheet_EventMatching>

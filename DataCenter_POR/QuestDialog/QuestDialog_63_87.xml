@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="63" id="87" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="87" huntingZoneId="63" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0">Você sabe qual é o nosso problema? Não, não são os argonss. Piratas! &lt;BR&gt;&lt;BR&gt;Os bastardos sorrateiros estão roubando nossos suprimentos e matando bons soldados. Temos que acabar com isso.&lt;BR&gt;&lt;BR&gt;A única maneira de lidar com piratas é pensar como um pirata. Junte-se a uma equipe em Corsairs' Stronghold e aprenda como esses ladrões do mar agem!&lt;BR&gt;&lt;BR&gt;[Corsairs' Stronghold é acessível através do sistema Battleground Matching].</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="1256">
          
+         
         <Page social="4">Muito bem! &lt;BR&gt;&lt;BR&gt;Grandes façanhas no campo de batalha lhe rendem créditos Bellicarium. Traga esses créditos até mim para comprar os itens de recompensa de sua escolha. É como o saque de um pirata! &lt;BR&gt;&lt;BR&gt;Você já não se sente mais como um pirata?</Page>
+    
     
     </Text>
 </QuestDialog>

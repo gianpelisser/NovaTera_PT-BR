@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="48" id="49" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="49" huntingZoneId="48" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="248" id="100" prevId="0" villagerId="1043">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="248" id="2" prevId="0" villagerId="1043">
          
+         
         <Page social="4">A {@Rgn:48005} abriga um grande número de tropas de argons. Precisamos eliminar alguns de seus principais operadores - prelados deiknephar e sentinelas de kalash.&lt;BR&gt;&lt;BR&gt;Esta é uma missão de ataque simples. Entre lá e "martele-os", como dizem os amani.</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="3" prevId="2" villagerId="1043">
          
+         
         <Page social="6">Seu ataque enfraqueceu o domínio deles. Esperamos que os Shariar possam tirar proveito disso.&lt;BR&gt;&lt;BR&gt;Somos mais fortes por seu serviço, &lt;PCNAME&gt;. Muito bem feito.</Page>
+    
     
     </Text>
 </QuestDialog>

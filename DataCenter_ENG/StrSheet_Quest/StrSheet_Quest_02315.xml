@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="999856001" string="Option: Essential Oils" />
-    <String id="999856002" string="[Spring Valley] Gather more blatherweed." />
-    <String id="999856003" string="Blatherweed" />
-    <String id="999856004" string="Complete Vanguard Initiative orders and claim your prize!" />
-    <String id="999856005" string="Blatherweed" />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="810005001" string="Option: Assault the Necromancer Tomb!" />
+    <String id="810005002" string="&quot;[Necromancer Tomb] Eliminate Vedilith.&quot;" />
+    <String id="810005003" string="&quot;Claim your reward!&quot;" />
 </StrSheet_Quest>

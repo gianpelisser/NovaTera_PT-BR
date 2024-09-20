@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="604" id="8" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="604" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="71" id="100" prevId="0" villagerId="3001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="71" id="2" prevId="0" villagerId="3001">
          
+         
         <Page social="4">Balder deixou muitas relíquias aqui quando morreu. A maioria está apodrecendo nas ervas daninhas. Algumas ainda funcionam.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#3001#Semas} precisa de ajuda com uma delas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="3" prevId="2" villagerId="3001">
          
+         
         <Page social="4">Arisel é brusca, mesmo para uma de minhas irmãs. Ignore-a.&lt;BR&gt;&lt;BR&gt;Há um dispositivo que chamamos de {@WorkObject:95} dentro do {@Rgn:30007$$Balder's Pavilion} que ajuda as plantas e os ghilliedhus a crescerem.&lt;BR&gt;&lt;BR&gt;Deve funcionar sozinho, mas não funciona. Por favor, ligue-o novamente.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="4" prevId="3" villagerId="3001">
          
+         
         <Page social="4">É o lugar onde Balder e Seren costumavam descansar. Você ficou onde eles estavam.</Page>
+    
     
     </Text>
 </QuestDialog>

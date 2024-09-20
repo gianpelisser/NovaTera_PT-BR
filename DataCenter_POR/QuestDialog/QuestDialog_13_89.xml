@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="89" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="89" huntingZoneId="13" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="213" id="100" prevId="0" villagerId="1020">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="213" id="2" prevId="0" villagerId="1020">
          
+         
         <Page social="4">Você já ouviu falar de Engine of Mischief? &lt;BR&gt;&lt;BR&gt;Não? Não? Ha, ha! &lt;BR&gt;&lt;BR&gt;Aqui, vou lhe dar uma. Experimente você mesmo. Ei, espere até que eu diga aberto, Você não quer perder uma chance como essa, não é?</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="3" prevId="2" villagerId="1020">
          
+         
         <Page social="4">O Engine of Mischief é um objeto muito interessante. É uma chance de testar sua sorte. Você deve estar morrendo de vontade de experimentá-lo, não é? Muito bem, agora você tem a caixa que lhe dei. Há diferentes tipos de Engine of Mischief, mas podemos falar sobre eles mais tarde.&lt;BR&gt;&lt;BR&gt;Faça uma fogueira, abra seu &lt;b&gt;inventory&lt;/b&gt; e &lt;b&gt;clique com o botão direito&lt;/b&gt; na caixa que lhe dei. Você verá uma nova janela. E coloque qualquer &lt;font color='#660000'&gt;material&lt;/font&gt; lá. Já terminou? Agora, vamos testar sua sorte...&lt;br&gt;&lt;br&gt;espere, espere. Esqueci de lhe dar um material para o experimento. Aqui, pegue este &lt;font color='#660000'&gt;minério krymental&lt;/font&gt;. Agora experimente. É claro que você pode usar qualquer outro material, se tiver um.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="4" prevId="3" villagerId="1020">
          
+         
         <Page social="4">Como foi isso? Algumas caixas &lt;b&gt;desaparecem após o uso&lt;/b&gt;, como essa, mas às vezes ela permanece para outro teste. Lembre-se de que, em algumas caixas, você pode colocar consumíveis como poções e amuletos, em outras, materiais, itens de encantamento ou alkahests. Se você &lt;BR&gt;&lt;BR&gt;&lt;b&gt;suceder&lt;/b&gt;, você obtém mais consumíveis ou materiais e itens de encantamento de nível superior. Bem, se você &lt;b&gt;fracassar&lt;/b&gt;, o material simplesmente desaparece, o que é uma decepção. Mas ainda vale a pena tentar, especialmente quando você tem a chance de ganhar o prêmio principal. Não é mesmo?</Page>
+    
     
     </Text>
 </QuestDialog>

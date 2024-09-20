@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="22" id="23" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="22" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="222" id="100" prevId="0" villagerId="1006">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="222" id="2" prevId="0" villagerId="1006">
          
+         
         <Page social="5">As coisas estão ficando fora de controle! Os {@LinkCreature:22#10#aprendizes sênior} tentaram me matar! &lt;BR&gt;&lt;BR&gt;Estas não são crianças miando que se contentam com um flash e um estalo. Esses jovens bruxos realmente têm algum poder.&lt;BR&gt;&lt;BR&gt;São muitos para deixá-los no controle dos salões. Detenham-nas rapidamente ou não haverá bolos hoje.</Page>
+    
     
     </Text>
     <Text huntingZoneId="222" id="3" prevId="2" villagerId="1006">
          
+         
         <Page social="5">Quem quer que esteja por trás desse pesadelo pagará com a dor mais requintada. Eles levarão meses para morrer! &lt;BR&gt;&lt;BR&gt;Apreciamos sua decisão, &lt;PCNAME&gt;. Se todos estivessem em seu juízo perfeito, eles lhe agradeceriam.</Page>
+    
     
     </Text>
 </QuestDialog>

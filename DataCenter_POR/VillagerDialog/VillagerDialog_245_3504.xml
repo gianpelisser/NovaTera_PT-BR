@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="245" id="3504" voiceTypeId="46">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="3504" huntingZoneId="245" voiceTypeId="46">
     <Text id="1" endSocial="14">
          
+         
         <Page social="4">Don’t let your guard down. The argons might have withdrawn, but this place is still dangerous.</Page>
+    
     
     </Text>
 </VillagerDialog>

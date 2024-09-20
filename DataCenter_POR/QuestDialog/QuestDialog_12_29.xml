@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="12" id="29" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="12" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="212" id="100" prevId="0" villagerId="1008">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="212" id="2" prevId="0" villagerId="1008">
          
+         
         <Page social="5">Saudações, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Não, não nos conhecemos. Mas todo mundo já ouviu falar de você. O que se diz nas casernas é que Dirken pagará caro por qualquer coisa que seja, hum, depreciativa a seu respeito.&lt;BR&gt;&lt;BR&gt;Bem, que se dane Dirken e seu dinheiro sujo. Mas os outros não têm a minha boa aparência e a minha virtude irrepreensível.&lt;BR&gt;&lt;BR&gt;Você deve se enturmar com seus novos companheiros por aqui. Uma boa maneira de fazer isso é caçar um bando de {@LinkCreature:12#8#assassinos do chicote vermelho} e trazer de volta as armas deles. Isso vai impressioná-los.</Page>
+    
     
     </Text>
     <Text huntingZoneId="212" id="3" prevId="2" villagerId="1008">
          
+         
         <Page social="4">Farei com que todos saibam que essas espadas significam que "&lt;PCNAME&gt; está aqui e pronto para arrasar."&lt;BR&gt;&lt;BR&gt;E talvez eu envie uma espada para Dirken com um bilhete que diga: "Caro Dirken: Quando arranquei esta espada de um inimigo agora morto, pensei em você...".</Page>
+    
     
     </Text>
     <Text huntingZoneId="212" id="4" villagerId="1008">
          
+         
         <Page social="0">Olhe, se você ficar parado, vai ganhar a reputação de ser um vagabundo. Ninguém quer isso.&lt;BR&gt;&lt;BR&gt;Quer dizer, basta ouvir a palavra. "Lollygagger." Não consigo dizer isso com uma cara séria.&lt;BR&gt;&lt;BR&gt;"Lollygagger." Hee hee!</Page>
+    
     
     </Text>
 </QuestDialog>

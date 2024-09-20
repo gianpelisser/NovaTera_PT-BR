@@ -1,33 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="426" id="1" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="426" id="100" prevId="0" villagerId="2001">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="426" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="426" prevId="0" villagerId="2001">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="426" id="2" prevId="0" villagerId="2001">
-         
+    <Text id="2" huntingZoneId="426" prevId="0" villagerId="2001">
         <Page social="4">That stupid Loto! I respect greed as much as any merchant alive, but he just rushed into this...this...whatever it is.&lt;BR&gt;&lt;BR&gt;Loto and I thought we could scrounge valuables from the bases the argons left behind when they retreated. But the argons aren't retreating from here!&lt;BR&gt;&lt;BR&gt;Following Loto would be suicide for me, but for a trained soldier like you...&lt;BR&gt;&lt;BR&gt;Look, I know the problems of two merchants don't really matter right now, but Loto is the only family I have. If you see Loto, can you bring him back safely?</Page>
-    
     </Text>
-    <Text huntingZoneId="426" id="3" prevId="2" villagerId="2002">
-         
+    <Text id="3" huntingZoneId="426" prevId="2" villagerId="2002">
         <Page social="4">Who's there? Oh, a soldier! Let me guess: you're a scout for the federation army. Well, I'm glad to have an army at my back, eh?&lt;BR&gt;&lt;BR&gt;If you and your comrades could clear the next few hallways, that'd be great. Keep the gears of commerce turning and all that, eh?&lt;NEXTPAGEBUTTON&gt;"It's not that simple."&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="4">Wait...you're alone?&lt;BR&gt;&lt;BR&gt;What? This is where the argons are making their last stand?&lt;BR&gt;&lt;BR&gt;And...the argon queen herself could be around the next corner.&lt;NEXTPAGEBUTTON&gt;"Like I said: not that simple."&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="0">Perhaps I was...somewhat hasty, and perhaps this place isn't entirely safe for commerce. Still, if I got this far, it can't be certain doom.&lt;BR&gt;&lt;BR&gt;Make you a deal, &lt;PCCLASS:lcase&gt;. You gather some eyes from the argons around here, and I'll go back out the way I came.&lt;BR&gt;&lt;BR&gt;Why argon eyes? How to put it politely...let's just say they're reputed to have medicinal qualities.</Page>
-    
     </Text>
-    <Text huntingZoneId="426" id="4" prevId="3" villagerId="2002">
-         
+    <Text id="4" huntingZoneId="426" prevId="3" villagerId="2002">
         <Page social="4">You're back! And see? We're both alive! Perhaps this "Argon Corpus" isn't so dangerous after all. Maybe next you could gather...&lt;BR&gt;&lt;BR&gt;No, no, don't give me that look. We made a deal, and I'll stick to it by leaving quietly. Good luck with that argon queen! And wish me luck selling these eyes back in Kaiator!</Page>
-    
     </Text>
-    <Text huntingZoneId="426" id="5" villagerId="2002">
-         
+    <Text id="5" huntingZoneId="426" villagerId="2002">
         <Page social="0">Argons are just a cost of doing business. Profit requires risk.</Page>
-    
     </Text>
 </QuestDialog>

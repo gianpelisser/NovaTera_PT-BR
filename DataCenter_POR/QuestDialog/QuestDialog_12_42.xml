@@ -1,41 +1,56 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="12" id="42" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="12" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="212" id="100" prevId="0" villagerId="1011">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="212" id="2" prevId="0" villagerId="1011">
          
+         
         <Page social="5">Ouvi dizer que você está indo para a Ilha Mistmoor. Aqueles malditos escravagistas! Consegui escapar, mas eles levaram meu irmão. Tenho que salvá-lo antes que o levem para um mercado de escravos e o vendam! Ele gritou para eu correr enquanto eles o arrastavam para longe.&lt;NEXTPAGEBUTTON&gt;"Para onde o levaram?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="5">Eles foram para o leste. O mercado se chama Rain Cages. Não consigo me lembrar de mais nada. Por favor, eu lhe imploro. Traga meu irmão de volta.</Page>
+    
     
     </Text>
     <Text huntingZoneId="212" id="3" prevId="2" villagerId="1012">
          
+         
         <Page social="4">Quem é você? Você é um soldado? Por acaso viu meu irmão, Zebulon? &lt;BR&gt;&lt;BR&gt;Ele está vivo? Que alívio. &lt;BR&gt;&lt;BR&gt;Preciso de uma chave para poder sair daqui. Veja se você consegue pegar uma chave dos {@LinkCreature:12#16#slave watchers}. Não sei qual é qual, então me traga algumas.&lt;BR&gt;&lt;BR&gt;Eu estarei me escondendo aqui atrás. E, por favor, fique vivo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="212" id="4" prevId="3" villagerId="1012">
          
+         
         <Page social="4">É tão bom ser livre! Diga à nossa mãe que estamos seguros, está bem? &lt;BR&gt;&lt;BR&gt;Além disso, aqui vai uma dica: você se poupará de muito drama se disser à minha mãe que prometemos não nos associar mais a Dirken. Acho que ele nos preparou para fracassar!</Page>
+    
     
     </Text>
     <Text huntingZoneId="212" id="5" villagerId="1012">
          
+         
         <Page social="0">Rápido, &lt;PCCLASS:lcase&gt;! Se os traficantes de escravos o pegarem, eles o prenderão também!</Page>
+    
     
     </Text>
     <Text huntingZoneId="62" id="6" prevId="4" villagerId="1023">
          
+         
         <Page social="4">Eles estão vivos? Os dois? Graças aos titãs! &lt;BR&gt;&lt;BR&gt;Mas, quando esses rapazes chegarem em casa... como ousam me deixar tão preocupada? E se associar com gente como Dirken? Será que eles não ouviram nada do que eu lhes disse? &lt;BR&gt;&lt;BR&gt;Se ao menos eles fossem mais como você, &lt;PCNAME&gt;. Você é o exemplo perfeito do que acontece quando se dá atenção à sabedoria de seus pais.</Page>
+    
     
     </Text>
     <Text huntingZoneId="62" id="7" prevId="6" villagerId="1018">
          
+         
         <Page social="4">Você honrou a Espada de Kaia por meio de ações e exemplos. Você também honrou este lugar com dedicação resoluta.&lt;BR&gt;&lt;BR&gt;Assim, hoje, honramos um inigualável &lt;PCCLASS:lcase&gt; em nossas fileiras.&lt;BR&gt;&lt;BR&gt;Vá em frente, &lt;PCNAME&gt;, e saiba que você sempre terá um lugar no regimento.</Page>
+    
     
     </Text>
 </QuestDialog>

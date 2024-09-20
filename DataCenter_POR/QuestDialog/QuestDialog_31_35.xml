@@ -1,36 +1,49 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="31" id="35" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="31" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="231" id="100" prevId="0" villagerId="1011">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="231" id="2" prevId="0" villagerId="1011">
          
+         
         <Page social="4">Há um farol no topo da colina a oeste da enseada Icefang. Antes da tempestade mágica, o faroleiro impedia que os navios naufragassem nas rochas, mas agora que a enseada está congelada, poderíamos usá-lo aqui embaixo.&lt;BR&gt;&lt;BR&gt;Sem contar que {@LinkCreature:31#10#frostreach sentinels} estão acampados ao longo de todo o caminho até o farol. Estamos todos preocupados com o Mogel sozinho lá em cima. Você poderia limpar o caminho e trazê-lo para cá, onde é mais seguro?</Page>
+    
     
     </Text>
     <Text huntingZoneId="231" id="3" prevId="2" villagerId="1006">
          
+         
         <Page social="4">Nunca o vi por essas bandas antes. Mas foi um bom trabalho com as sentinelas de Frostreach. Deve ser difícil limpá-las com a temperatura tão baixa.&lt;BR&gt;&lt;BR&gt;Mandou você até aqui para me derrubar, hein? Bem, vá dizer a essas pessoas para esquecerem isso! Eu não vou descer. Este lugar está cheio de lembranças de meus filhos e de minha vida. O farol ficará aceso até o dia em que eu morrer - com ou sem navios.&lt;BR&gt;&lt;BR&gt;Você pode agradecer a preocupação deles, mas não me incomode mais.</Page>
+    
     
     </Text>
     <Text huntingZoneId="231" id="4" prevId="3" villagerId="1011">
          
+         
         <Page social="4">Essa possibilidade se apresentou. Os filhos de Mogel {@LinkCreature:31#30#Endain}, {@LinkCreature:31#30#Endrenlas} e {@LinkCreature:31#30#Enkanas} eram soldados de Acarum, defendendo o litoral. Eles morreram em batalha quando a naga chegou, pouco antes da tempestade.&lt;BR&gt;&lt;BR&gt;Mas a tragédia ainda não terminou. Os irmãos ainda vagam por Tempest Reach.&lt;NEXTPAGEBUTTON&gt;"Como assim?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">A magia perversa de Thulsa forçou os filhos de Mogel a caminhar pelo Sonho dos Titãs mais uma vez.&lt;BR&gt;&lt;BR&gt;Mogel deve saber, não é mesmo? Isso o deixa em perigo ainda maior com esses monstros na pele de seus filhos andando pela costa.&lt;BR&gt;&lt;BR&gt;Se você der paz a esses três irmãos e recolher seus pertences, eu os levarei a Mogel, então talvez ele possa trazer suas memórias do farol com ele.</Page>
+    
     
     </Text>
     <Text huntingZoneId="231" id="5" prevId="4" villagerId="1011">
          
+         
         <Page social="10">Essa tragédia não será esquecida, e seu ato altruísta também não. Levarei essas coisas pessoalmente a Mogel e o verei descendo a colina.&lt;BR&gt;&lt;BR&gt;Obrigado por sua ajuda.</Page>
+    
     
     </Text>
     <Text huntingZoneId="231" id="6" villagerId="1011">
          
+         
         <Page social="0">Você precisa encontrar os filhos mortos-vivos de Mogel e libertá-los de seu pesadelo.</Page>
+    
     
     </Text>
 </QuestDialog>

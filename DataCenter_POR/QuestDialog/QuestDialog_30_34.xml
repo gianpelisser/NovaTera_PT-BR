@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="34" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="30" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="230" id="100" prevId="0" villagerId="1065">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="230" id="2" prevId="0" villagerId="1065">
          
+         
         <Page social="1">Vamos fazer bom uso desse senso de utilidade superdesenvolvido, &lt;PCNAME&gt;. Sestena, um pesquisador que procura artefatos chamados tabletes de arquivo, precisa de ajuda no campo.&lt;BR&gt;&lt;BR&gt;Considere isso uma penitência por ser ingênuo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="3" prevId="2" villagerId="1019">
          
+         
         <Page social="1">Você é meu salvador! &lt;BR&gt;&lt;BR&gt;O {@Rgn:30009$$Arquivo Superior} é tão extenso que não sei por onde começar.&lt;BR&gt;&lt;BR&gt;Aparentemente, as tábuas de arquivo estão dentro de caixas de pedra espalhadas por toda a área deste templo.&lt;BR&gt;&lt;BR&gt;Colete todas as tábuas de arquivo que encontrar e entregue-as a {@LinkCreature:230#1026$$$Meterok}. Esperamos que ele possa colocá-las em ordem.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="4" prevId="3" villagerId="1026">
          
+         
         <Page social="1">Esse é um verdadeiro tesouro de ardósias! Entregue-as a mim com cuidado - elas remontam ao antigo império dos gigantes, você sabe.&lt;BR&gt;&lt;BR&gt;Tenho uma teoria de que os gigantes que escreveram essas ardósias são os ancestrais diretos dos baraka - amantes do conhecimento, não da conquista, em outras palavras.&lt;BR&gt;&lt;BR&gt;Devo recompensá-lo por seus esforços, é claro.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="5" villagerId="1026">
          
+         
         <Page social="0">Já era hora de a Sestena me enviar ajuda.</Page>
+    
     
     </Text>
 </QuestDialog>

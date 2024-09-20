@@ -1,69 +1,95 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="7" id="1" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="7" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0">Você ajudou os pesquisadores do Mysterium a descobrir como os Scions of Lok estavam controlando os kumases.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0">Ordens da missão&lt;BR&gt;&lt;BR&gt;Reforços necessários nas Colinas Celestiais. Os soldados disponíveis para serem realocados devem se apresentar imediatamente ao Prefeito Daven em Lumbertown.</Page>
+    
     
     </Text>
     <Text huntingZoneId="60" id="3" prevId="2" villagerId="1014">
          
+         
         <Page social="4">Ah, &lt;PCNAME&gt;! Exatamente quem eu estava procurando.&lt;BR&gt;&lt;BR&gt;Tenho vários relatos perturbadores de Colinas Celestes sobre nagas e kumases. Encarregue-se desse assunto pessoalmente.&lt;BR&gt;&lt;BR&gt;Vá até a Fazenda de Godric e fale com {@LinkCreature:207#1005#Heroth}. Ele terá mais detalhes para você.</Page>
+    
     
     </Text>
     <Text huntingZoneId="207" id="4" prevId="3" villagerId="1005">
          
+         
         <Page social="4">Você está vendo aqueles baetyliths lá fora com marcas azuis? Os kumases não conseguem ficar longe deles. Nem os pesquisadores pelos quais sou responsável, aparentemente. Alguns deles se afastaram, e não poderei procurá-los até que tenhamos limpado os kumases próximos. Procurem Radat, o líder deles. Derrube-o.</Page>
+    
     
     </Text>
     <Text huntingZoneId="207" id="5" prevId="4" villagerId="1005">
          
+         
         <Page social="4">Você é bastante habilidoso. Muitos soldados entram em pânico na primeira vez que lutam com um kumas, mas você parece saber do que se trata. Bom trabalho.&lt;BR&gt;&lt;BR&gt;Alguns dos pesquisadores se afastaram de seu acampamento a sudeste daqui, mas {@LinkCreature:207#1009#Siria}, a mais teimosa de todas, ainda está por aí. Você acha que pode procurar por ela?</Page>
+    
     
     </Text>
     <Text huntingZoneId="207" id="6" prevId="5" villagerId="1009">
          
+         
         <Page social="4">Ah, Heroth estava preocupado? Que fofo - se eu fosse uma donzela em perigo. Estou em uma missão, assim como ele.&lt;BR&gt;&lt;BR&gt;Pronto para ajudar? Ok.&lt;BR&gt;&lt;BR&gt;Os kumases estão obcecados com as marcas nas baetyliths, que estão na linguagem original da magia. Coisa de Deus.&lt;BR&gt;&lt;BR&gt;Os nagas trabalham para os kumases. Há um kumas chamado {@LinkCreature:7#2000#Kadas}. Eu gostaria de dar uma olhada no amuleto que ele usa. Pode haver uma dica lá.</Page>
+    
     
     </Text>
     <Text huntingZoneId="207" id="7" prevId="6" villagerId="1009">
          
+         
         <Page social="4">Uau, você conseguiu! Isso é ótimo! Agora preciso de outra coisa para comparar com isso.&lt;BR&gt;&lt;BR&gt;Por que está me olhando assim? Não concordou em me ajudar? &lt;BR&gt;&lt;BR&gt;Se você examinar os &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7001#55019,9993,1935&amp;type=1&amp;name=Baetyliths Location"&gt;baetyliths&lt;/A&gt;&lt;/font&gt; espalhados por aqui, encontrará fragmentos. Traga alguns de volta para mim. Isso não é fácil?</Page>
+    
     
     </Text>
     <Text huntingZoneId="207" id="8" villagerId="1009">
          
+         
         <Page social="0">Explosão e maldição! É apenas um kumas. Você já matou tantas. Só quero que mate mais um e me traga o amuleto dele. Por favor, rápido!</Page>
+    
     
     </Text>
     <Text huntingZoneId="207" id="9" prevId="7" villagerId="1009">
          
+         
         <Page social="4">Vamos dar uma olhada.&lt;BR&gt;&lt;BR&gt;Assim como eu pensava. O poder nesses fragmentos parece o mesmo do amuleto. Mas no amuleto, ele é mais concentrado.&lt;BR&gt;&lt;BR&gt;Meu palpite é que o amuleto está armazenando o poder das baetyliths.</Page>
+    
     
     </Text>
     <Text huntingZoneId="207" id="10" villagerId="1009">
          
+         
         <Page social="0">Não, não, você precisa me trazer alguns fragmentos de baetylith para comparar com o amuleto. Uma hipótese precisa ser testada!</Page>
+    
     
     </Text>
     <Text huntingZoneId="207" id="11" prevId="9" villagerId="1009">
          
+         
         <Page social="4">Alguns dos baetyliths parecem ter a maior parte do poder. É fácil reconhecê-las - elas brilham com energia. Eu me pergunto se é lá que os kumases estão armazenando o poder que tiraram dos outros.&lt;BR&gt;&lt;BR&gt;Pesquise um pouco, sim? Se os {@LinkObject:45#sparking baetyliths} forem importantes, alguém ou alguma coisa tentará impedir que você descubra.</Page>
+    
     
     </Text>
     <Text huntingZoneId="207" id="12" prevId="11" villagerId="1009">
          
+         
         <Page social="4">Imps, não é? Eles trabalham para qualquer um. Nesse caso, suponho que trabalhem para os kumases.&lt;BR&gt;&lt;BR&gt;Isso significa que o que quer que estejam tirando dos baetyliths, os kumases não querem compartilhar.&lt;BR&gt;&lt;BR&gt;Leve meu relatório para Mattin no Sanctum Mysterium ao sul daqui. Voltarei à fazenda de Godric e lembrarei a Heroth que ele não é minha babá.</Page>
+    
     
     </Text>
     <Text huntingZoneId="207" id="13" prevId="12" villagerId="1001">
          
+         
         <Page social="4">Um relatório da Siria? Deixe-me ver...&lt;BR&gt;&lt;BR&gt;Parece que ela está cuidando do problema dos kumas, sim. Obrigado por trazer isso.</Page>
+    
     
     </Text>
 </QuestDialog>

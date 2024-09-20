@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="21" id="32" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="21" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="221" id="100" prevId="0" villagerId="1021">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="221" id="2" prevId="0" villagerId="1021">
          
+         
         <Page social="4">Após um estudo cuidadoso, esses fragmentos indicam um amor intenso pelos deuses. Tanto que acabou se transformando em amargura e depois em rebeldia.&lt;BR&gt;&lt;BR&gt;Quando o amor se transforma em ódio, as conseqüências podem ser devastadoras. Você sabe do que estou falando? &lt;NEXTPAGEBUTTON&gt;"Os gigantes?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Impressionante e muito correto. Os gigantes construíram uma civilização poderosa e entraram em guerra contra os próprios deuses que antes amavam.&lt;BR&gt;&lt;BR&gt;Eu vi alguns restos mortais nas ruínas. Em minha experiência, artefatos e ossos geralmente andam juntos, então por que você não vai até lá e vê se consegue recuperá-los? Talvez possamos esclarecer um pouco mais esse mistério!</Page>
+    
     
     </Text>
     <Text huntingZoneId="221" id="3" prevId="2" villagerId="1021">
          
+         
         <Page social="4">Vamos ver o que você trouxe de volta!&lt;BR&gt;&lt;BR&gt;Fascinante. São ossos gigantes, mas há uma estranha aura de magia neles. Deixe-me tentar um pouco de magia...&lt;BR&gt;&lt;BR&gt;Magia divina. Magia divina FORTE. Esses ossos são do Dia do Fogo, o dia em que os deuses se uniram e derrotaram todo o império gigante! Essa é uma descoberta e tanto! Obrigado, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Prometo lhe dar crédito em meu artigo!</Page>
+    
     
     </Text>
     <Text huntingZoneId="221" id="4" villagerId="1021">
          
+         
         <Page social="0">Tenho certeza de que a chave para esse mistério está nos ossos que vi. Traga-os de volta para mim e eu os examinarei mais de perto!</Page>
+    
     
     </Text>
 </QuestDialog>

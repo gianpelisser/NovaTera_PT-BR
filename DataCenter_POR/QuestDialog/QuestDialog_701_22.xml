@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="701" id="22" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="701" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="210" id="100" prevId="0" villagerId="2007">
          
+         
         <Page social="0">Você entregou material de escultura para Dolme e recebeu um Horn Helm.</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="2" prevId="0" villagerId="2007">
          
+         
         <Page social="4">Olá, &lt;PCNAME&gt;! Ouça, você tem mais daqueles maravilhosos chifres esculpidos? Não? &lt;BR&gt;&lt;BR&gt;Hm. É uma pena... comecei uma coleção. Vamos fazer o seguinte: se você conseguir mais alguns para mim, eu lhe darei uma garrafa do meu melhor vinho de verão!&lt;BR&gt;&lt;BR&gt;Acho que Wahmel e Chelton estavam oferecendo estátuas de chifres como prêmio...</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="3" prevId="2" villagerId="2007">
          
+         
         <Page social="4">Hoho. Muito obrigado. Isso serve muito bem!&lt;BR&gt;&lt;BR&gt;Você mereceu essa garrafa de vinho de verão, &lt;PCNAME&gt;! Beba com saúde, hoho!</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="4" villagerId="2007">
          
+         
         <Page social="0">Participe dos minijogos melon bash ou splash cannon para ganhar estátuas de chifre.</Page>
+    
     
     </Text>
 </QuestDialog>

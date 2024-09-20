@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="9" id="26" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="9" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="209" id="100" prevId="0" villagerId="1014">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="209" id="2" prevId="0" villagerId="1014">
          
+         
         <Page social="10">Os gulas nos prenderam... foi horrível. Éramos oito... uma sala vazia.&lt;BR&gt;&lt;BR&gt;Depois sete, depois seis...&lt;BR&gt;&lt;BR&gt;Eles estão todos me observando. Mas eu não quero morrer! Não!</Page>
+    
     
     </Text>
     <Text huntingZoneId="209" id="3" prevId="2" villagerId="1012">
          
+         
         <Page social="4">Ele é uma bagunça, e não é o único. Meu... amante, acho que você poderia dizer... era um dos oito. E é por isso que eu gostaria de vê-lo se recuperar. Ou pelo menos se tornar coerente. &lt;BR&gt;&lt;BR&gt;Ele pode saber onde Nilos está. Não sou um soldado, mas posso curar ferimentos - até mesmo o tipo de ferimento que ele tem.&lt;BR&gt;&lt;BR&gt;Enquanto faço isso, você deveria estar lutando contra os monstros naquele labirinto. Por mim, por ele, por Nilos. Por todos nós!</Page>
+    
     
     </Text>
 </QuestDialog>

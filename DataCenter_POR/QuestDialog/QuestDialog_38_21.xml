@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="38" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="38" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="74" id="100" prevId="0" villagerId="1036">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="74" id="2" prevId="0" villagerId="1036">
          
+         
         <Page social="4">Talvez seja a escavação de Ger, ou apenas a chance de uma boa luta, que anima o coração de &lt;PCNAME&gt;. Seja qual for o caso, nosso comandante em Roostcliff Quarter não ficou satisfeito com os últimos reforços que enviamos.&lt;BR&gt;&lt;BR&gt;O envio de um lutador experiente como &lt;PCNAME&gt; pode fazer com que Areish se sinta mais gentil conosco.</Page>
+    
     
     </Text>
     <Text huntingZoneId="238" id="3" prevId="2" villagerId="1006">
          
+         
         <Page social="4">O que Raynor estava pensando quando enviou Elraine? "Melhor ela do que ninguém", disse ele.&lt;BR&gt;&lt;BR&gt;De fato, ninguém seria uma melhoria imensa. Então, como ela não fará o seu trabalho, &lt;PCNAME&gt; ficará com ele.&lt;BR&gt;&lt;BR&gt;A sudeste daqui há ruínas que estávamos trabalhando até a chegada dos príons. Quero que derrote seus líderes, Veriksha e Narak, e diminua um pouco o número deles para que possamos voltar ao nosso trabalho.</Page>
+    
     
     </Text>
     <Text huntingZoneId="238" id="4" prevId="3" villagerId="1006">
          
+         
         <Page social="6">Você fez bem, mas eu me pergunto quanto tempo seu trabalho vai durar. Onde há príons, Saleron pode estar longe? &lt;BR&gt;&lt;BR&gt;Deuses e seus esquemas e nós no meio, como sempre.</Page>
+    
     
     </Text>
 </QuestDialog>

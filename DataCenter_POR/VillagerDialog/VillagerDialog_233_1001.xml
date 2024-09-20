@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="233" id="1001" voiceTypeId="124">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1001" huntingZoneId="233" voiceTypeId="124">
     <Text huntingZoneId="233" id="1" endSocial="14" prevId="0" villagerId="1001">
          
+         
         <Page social="4">Our strike force includes Mysterium arcanists and Valkyon soldiers. We're here to clear out the Citadel of Torment. Even with the arcanists' help, that's no simple task. I'm glad my younger brother, Georrif, is here too. You two would probably get along well.</Page>
+    
     
     </Text>
 </VillagerDialog>

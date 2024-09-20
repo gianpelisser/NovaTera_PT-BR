@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="20" id="92" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="65" id="100" prevId="0" villagerId="1012">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="65" prevId="0" villagerId="1012">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="65" id="2" prevId="0" villagerId="1012">
-         
+    <Text id="2" huntingZoneId="65" prevId="0" villagerId="1012">
         <Page social="0">I've got enough orders to keep handing out for days, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Next up, looks like they need you to take care of the {@LinkCreature:20#30114001#ossugon centurions}, {@LinkCreature:20#30114002#ossugon prefects}, and {@LinkCreature:20#30114003#ossugon primuses}. They'll be in the Halls of Shadow blocking the path to the lowest level.&lt;BR&gt;&lt;BR&gt;Meet up with Pelsus when you're done. He's on...let's see...yep, the Halls of Gloom.</Page>
-    
     </Text>
-    <Text huntingZoneId="220" id="3" prevId="2" villagerId="1004">
-         
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1004">
         <Page social="4">Good work! Love to see our soldiers so eager to get moving!&lt;BR&gt;&lt;BR&gt;Here's your reward.</Page>
-    
     </Text>
-    <Text huntingZoneId="220" id="4" villagerId="1004">
-         
+    <Text id="4" huntingZoneId="220" villagerId="1004">
         <Page social="0">You have business here?</Page>
-    
     </Text>
 </QuestDialog>

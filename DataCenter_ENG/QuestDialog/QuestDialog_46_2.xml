@@ -1,51 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="46" id="2" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="46" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
         <Page social="0">You entered the {@Rgn:9012001$$Three Towers Spires} to discover many dead and argonized victims, including Yasring, stored in argon cocoons. You couldn't save them, so you sought revenge against the argons in the towers. You found only one survivor: a castanic named Hasmina.</Page>
-    
     </Text>
-    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
-         
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
         <Page social="0">Valkyon Directive:&lt;BR&gt;&lt;BR&gt;We lost contact with an expedition to the Three Towers.&lt;BR&gt;&lt;BR&gt;Enter the {@Rgn:9012001$$Three Towers Spires} and search for survivors—especially Yasring.</Page>
-    
     </Text>
-    <Text huntingZoneId="46" id="3" villagerId="2">
-         
+    <Text id="3" huntingZoneId="46" villagerId="2">
         <Page social="0">Good, now we're in.&lt;BR&gt;&lt;BR&gt;This place gives me the creeps. We've figured out a lot of the towers' functions, but this area is still a mystery.&lt;BR&gt;&lt;BR&gt;Keep your eyes peeled and stay alert for a possible ambush.</Page>
-    
     </Text>
-    <Text huntingZoneId="412" id="4" prevId="2" villagerId="2009">
-         
+    <Text id="4" huntingZoneId="412" prevId="2" villagerId="2009">
         <Page social="13">My team and I will move Yasring—or what's left of her—somewhere safer. We're all in shock, but someone has to report this.&lt;BR&gt;&lt;BR&gt;Between you and me, I'm worried about the nerves of the other scouts. You go on ahead. I'm going to get my squad back so we can regroup.</Page>
-    
     </Text>
-    <Text huntingZoneId="412" id="5" prevId="4" villagerId="2005">
-         
+    <Text id="5" huntingZoneId="412" prevId="4" villagerId="2005">
         <Page social="13">I was just about to give up hope, and then you come along. You have no idea how nice it is to see someone who doesn't glow blue.</Page>
-    
     </Text>
-    <Text huntingZoneId="412" id="6" prevId="5" villagerId="2006">
-         
+    <Text id="6" huntingZoneId="412" prevId="5" villagerId="2006">
         <Page social="1">N-not yet, all right? Let's get out of here.</Page>
-    
     </Text>
-    <Text huntingZoneId="246" id="7" prevId="6" villagerId="2001">
-         
+    <Text id="7" huntingZoneId="246" prevId="6" villagerId="2001">
         <Page social="8">We heard the explosions. Striking the heart of the argon operation can only do good things. I've just a few additions to add to my report.&lt;BR&gt;&lt;BR&gt;Will you wait a moment?&lt;NEXTPAGEBUTTON&gt;"As you wish."&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="4">Here it is. This report contains everything we've learned about the Three Towers and the argons. Make sure Commander Tamur gets it.</Page>
-    
     </Text>
-    <Text huntingZoneId="246" id="8" prevId="7" villagerId="2008">
-         
+    <Text id="8" huntingZoneId="246" prevId="7" villagerId="2008">
         <Page social="4">Before I forget...thank you. I'm {@Creature:246#2008$$Hasmina}.&lt;BR&gt;&lt;BR&gt;I didn't expect to survive the Three Towers. To tell you the truth, I'm not sure I wanted to.&lt;BR&gt;&lt;BR&gt;I owe you my life.</Page>
-    
     </Text>
-    <Text huntingZoneId="246" id="9" prevId="8" villagerId="2008">
-         
+    <Text id="9" huntingZoneId="246" prevId="8" villagerId="2008">
         <Page social="4">I must return to {@Rgn:84001$$Kaiator}. The fight isn't over yet, but I get the feeling our journey has just begun.</Page>
-    
     </Text>
 </QuestDialog>

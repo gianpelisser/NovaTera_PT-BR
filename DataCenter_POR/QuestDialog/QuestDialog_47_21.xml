@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="47" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="47" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="77" id="100" prevId="0" villagerId="1010">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="77" id="2" prevId="0" villagerId="1010">
          
+         
         <Page social="4">Já estamos vendo plantas e animais nativos se recuperando da quase extinção. Os cardos do eclipse têm muitas propriedades medicinais.&lt;NEXTPAGEBUTTON&gt;"Eles são úteis?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="5">Os cardos? Sim, se preparados adequadamente.&lt;BR&gt;&lt;BR&gt;Recolha um punhado e leve-os para Lenorele em {@Rgn:47006$$Field Base Lunacy} se você estiver indo para lá. Ela saberá o que fazer com eles.</Page>
+    
     
     </Text>
     <Text huntingZoneId="247" id="3" prevId="2" villagerId="1014">
          
+         
         <Page social="4">Obrigado. Eles farão uma poção para neutralizar o efeito da contaminação por argons. Os deuses sabem que precisamos dela.</Page>
+    
     
     </Text>
     <Text huntingZoneId="247" id="4" villagerId="1014">
          
+         
         <Page social="0">Posso ajudá-lo?</Page>
+    
     
     </Text>
 </QuestDialog>

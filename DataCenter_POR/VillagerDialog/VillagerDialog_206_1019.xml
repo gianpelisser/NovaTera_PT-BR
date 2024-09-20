@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="206" id="1019" voiceTypeId="4">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1019" huntingZoneId="206" voiceTypeId="4">
     <Text huntingZoneId="206" id="1" endSocial="14" prevId="0" villagerId="1019">
          
+         
         <Page social="4">We're here to protect livestock, protect civilians, and restore order to the Valley of Titans.&lt;BR&gt;&lt;BR&gt;Don't let anyone tell you differently.</Page>
+    
     
     </Text>
 </VillagerDialog>

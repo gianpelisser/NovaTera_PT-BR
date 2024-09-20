@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="35" id="32" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="35" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="235" id="100" prevId="0" villagerId="1015">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="235" id="2" prevId="0" villagerId="1015">
          
+         
         <Page social="17">É hora de Thulsa encontrar seu fim. Você se juntará a mim para atingir a legião onde ela dói, de uma vez por todas? &lt;BR&gt;&lt;BR&gt;Estamos invadidos por dreadweavers e destruidores de Tenebrara. Seus números são muitos, mas o "grande deus" Thulsa não é nada sem seus servos. Derrote os Tenebraras... e traga-me suas cabeças.</Page>
+    
     
     </Text>
     <Text huntingZoneId="235" id="3" prevId="2" villagerId="1015">
          
+         
         <Page social="7">Sua coragem é inigualável. &lt;BR&gt;&lt;BR&gt;A vitória será nossa!</Page>
+    
     
     </Text>
     <Text huntingZoneId="235" id="4" villagerId="1015">
          
+         
         <Page social="0">Vá até lá e pegue os bandidos. Vamos fazer isso! &lt;BR&gt;&lt;BR&gt;Por que você ainda está parado aqui? Vá matar alguns Tenebraras!</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="489" id="92" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="489" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="489" id="100" prevId="0" villagerId="1013">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="489" id="2" prevId="0" villagerId="1013">
          
+         
         <Page social="0">Ordens da Missão&lt;BR&gt;&lt;BR&gt;Expulsar os seres abismais do Refúgio dos Cultistas. &lt;BR&gt;&lt;BR&gt;Foque nos {@LinkCreature:489#3610#mercenários franco-atiradores}, {@LinkCreature:489#3705#mercenários defensores}, {@LinkCreature:489#3706#mercenários devastadores}, {@LinkCreature:489#3708#mercenários prelados} e {@LinkCreature:489#3709#mercenários arcanistas}.&lt;BR&gt;&lt;BR&gt;Relatar a Raubelak quando a missão estiver concluída.</Page>
+    
     
     </Text>
     <Text huntingZoneId="489" id="3" prevId="2" villagerId="1013">
          
+         
         <Page social="5">Excelente trabalho. Por favor, continue ajudando a federação a erradicar totalmente os Cultistas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="489" id="4" villagerId="1013">
          
+         
         <Page social="0">Não viverei sob o mesmo céu que os cultistas. Elimine-os o mais rápido que puder.</Page>
+    
     
     </Text>
 </QuestDialog>

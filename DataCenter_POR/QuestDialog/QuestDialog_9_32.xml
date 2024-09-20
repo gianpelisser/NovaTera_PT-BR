@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="9" id="32" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="9" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="209" id="100" prevId="0" villagerId="1005">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="209" id="2" prevId="0" villagerId="1005">
          
+         
         <Page social="4">Sabe, &lt;PCNAME&gt;, dizem que nada pode enfrentá-lo.&lt;BR&gt;&lt;BR&gt;Talvez isso seja apenas conversa de quartel.&lt;BR&gt;&lt;BR&gt;Se quiser provar seu valor, enfrente alguns {@LinkCreature:9#1410#labyrinthine stalkers}. Isso deve ser um desafio.</Page>
+    
     
     </Text>
     <Text huntingZoneId="209" id="3" prevId="2" villagerId="1005">
          
+         
         <Page social="4">Às vezes, as fofocas de quartel são corretas, afinal, suponho.&lt;BR&gt;&lt;BR&gt;Ninguém vai criticá-lo de agora em diante. Ou pelo menos não vão criticar seu espírito de luta.</Page>
+    
     
     </Text>
     <Text huntingZoneId="209" id="4" villagerId="1005">
          
+         
         <Page social="0">Se você trouxer de volta os chifres dos {@LinkCreature:9#1410#labyrinthine stalkers}, você provará que os fofoqueiros estão certos.&lt;BR&gt;&lt;BR&gt;E se não trouxer, você provará que os céticos estão certos.</Page>
+    
     
     </Text>
 </QuestDialog>

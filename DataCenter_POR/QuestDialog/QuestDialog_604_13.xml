@@ -1,64 +1,88 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="604" id="13" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="604" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="71" id="100" prevId="0" villagerId="3005">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="71" id="2" prevId="0" villagerId="3005">
          
+         
         <Page social="4">{@LinkCreature:230#3026#Lilis} está procurando por você hoje.&lt;BR&gt;&lt;BR&gt;Algo sobre sementes no farol?</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="3" prevId="2" villagerId="3026">
          
+         
         <Page social="4">A natureza sorri, amigo.&lt;BR&gt;&lt;BR&gt;Os golems costumam guardar vagens de sementes velhas em barris de carvalho. Eles trouxeram uma nova carga ontem à noite. Eu gostaria de receber amostras.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="4" prevId="2" villagerId="3026">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="230" id="5" prevId="2" villagerId="3026">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="230" id="6" prevId="2" villagerId="3026">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="230" id="7" prevId="2" villagerId="3026">
          
+         
         <Page social="4">Hmm. Não sei o que é isso. Pode ser uma redescoberta. Vamos torcer para que floresçam!</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="8" villagerId="3026">
          
+         
         <Page social="0">Barris velhos de carvalho. Basta abri-los!</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="9" prevId="7" villagerId="3026">
          
+         
         <Page social="4">São familiares... uma planta medicinal, eu acho.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="10" villagerId="3026">
          
+         
         <Page social="0">Barris velhos de carvalho. Basta abri-los!</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="11" prevId="9" villagerId="3026">
          
+         
         <Page social="4">Ah, sim! Mais sementes da flor Balder's Eye. Ainda estou tentando cultivar novas. Essas podem servir.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="12" villagerId="3026">
          
+         
         <Page social="0">Barris velhos de carvalho. Basta abri-los!</Page>
+    
     
     </Text>
 </QuestDialog>

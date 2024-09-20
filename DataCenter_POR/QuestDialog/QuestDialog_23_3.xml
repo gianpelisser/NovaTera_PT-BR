@@ -1,31 +1,42 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="23" id="3" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="23" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="223" id="100" prevId="0" villagerId="1010">
          
+         
         <Page social="0">As Bruxas de Vadoma na Academia Eldritch parecem ter enlouquecido. O Reino Popori solicitou sua ajuda para investigar o caso. Você viajou até o castelo sombrio para ajudar as bruxas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="223" id="2" prevId="0" villagerId="1010">
          
+         
         <Page social="4">Pora Elinu ainda está ocupada com as brincadeiras infantis de sua princesa, mas a Eldritch Academy está se tornando um pesadelo. Houve algum tipo de incidente lá. Os detalhes são imprecisos - pode ser que tudo não passe de uma brincadeira elaborada - então preciso de alguém para investigar.&lt;BR&gt;&lt;BR&gt;Parece-me que você tem recursos. Pergunte a {@LinkCreature:223#1054$$Dullulu} como chegar à academia.</Page>
+    
     
     </Text>
     <Text huntingZoneId="223" id="3" prevId="2" villagerId="1054">
          
+         
         <Page social="4">O quê? Academia Eldritch? &lt;BR&gt;&lt;BR&gt;Eu não iria, se fosse você. A menos que queira ser transformado em um rato ou algo parecido.&lt;NEXTPAGEBUTTON&gt;"Tenho minhas ordens."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Se você insistir.&lt;BR&gt;&lt;BR&gt;Siga a estrada oeste para fora do acampamento. Continue caminhando até encontrar {@LinkCreature:222#1022$$Hamni}. Se ela estiver de bom humor, talvez o deixe entrar.&lt;BR&gt;&lt;BR&gt;Mas não reclame comigo se for empurrado por um portal de demônios!</Page>
+    
     
     </Text>
     <Text huntingZoneId="222" id="4" prevId="3" villagerId="1022">
          
+         
         <Page social="4">Uma pegadinha? Ela está louca? Isso não é uma brincadeira.&lt;BR&gt;&lt;BR&gt;As mestras enlouqueceram! Estão encantando os alunos a torto e a direito, matando todos que se opõem a elas. Ouvi até rumores sobre demônios! &lt;BR&gt;&lt;BR&gt;Temos que salvar a academia e o maior número de vidas possível.&lt;BR&gt;&lt;BR&gt;Suba estas escadas e encontre-se com {@LinkCreature:222#1005$$Wheelow}. Faça o que puder para ajudá-la!</Page>
+    
     
     </Text>
     <Text huntingZoneId="222" id="5" prevId="4" villagerId="1005">
          
+         
         <Page social="4">Eba! Uma criatura do tipo soldado de verdade.&lt;BR&gt;&lt;BR&gt;As coisas estão mais perigosas do que o normal, e isso é dizer algo para esse lugar. Metade das bruxas enlouqueceu e tomou o controle do castelo. Se não conseguirmos consertar as coisas, temo que a federação destrua todos nós preventivamente.&lt;BR&gt;&lt;BR&gt;Não se preocupe em fingir que isso nunca acontece.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="93" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="4" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="61" id="100" prevId="0" villagerId="1016">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="61" id="2" prevId="0" villagerId="1016">
          
+         
         <Page social="4">&lt;PCNAME&gt;, precisamos de sua ajuda! &lt;BR&gt;&lt;BR&gt;Os {@LinkCreature:4#2021#shurian foe-hammers}, {@LinkCreature:4#2031#eldritch cardinals} e {@LinkCreature:4#2041#reavers}, bem como os {@LinkCreature:4#2051#raging arbosks} estão nos atingindo em cheio. Quero que você retribua o favor.&lt;BR&gt;&lt;BR&gt;Relate a Helone quando sua missão estiver concluída.</Page>
+    
     
     </Text>
     <Text huntingZoneId="204" id="3" prevId="2" villagerId="1004">
          
+         
         <Page social="4">Você é um crédito para o serviço. Muito obrigado pela ajuda!</Page>
+    
     
     </Text>
     <Text huntingZoneId="204" id="4" villagerId="1004">
          
+         
         <Page social="0">Você está quase lá. Volte quando tiver cumprido seus pedidos.</Page>
+    
     
     </Text>
 </QuestDialog>

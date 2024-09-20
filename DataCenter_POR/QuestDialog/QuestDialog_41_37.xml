@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="41" id="37" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="41" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="241" id="100" prevId="0" villagerId="1022">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="241" id="2" prevId="0" villagerId="1022">
          
+         
         <Page social="4">Sinto falta de comida de verdade! Não gosto de comida humana e élfica insípida, embora goste de humanos e elfos temperados!&lt;BR&gt;&lt;BR&gt;Tenho muita vontade de comer carne seca orcana. Levei um pouco quando saí, mas acabou. &lt;BR&gt;&lt;BR&gt;Pode ser que você me traga mais?</Page>
+    
     
     </Text>
     <Text huntingZoneId="241" id="3" prevId="2" villagerId="1022">
          
+         
         <Page social="0">Ah, sim! Até que enfim! Obrigado!&lt;BR&gt;&lt;BR&gt;Yum. Muito bom. Você quer? Prometo que não há nenhum elfo ou humano aqui.</Page>
+    
     
     </Text>
     <Text huntingZoneId="241" id="4" villagerId="1022">
          
+         
         <Page social="0">Eu só quero carne seca de orcano. Sei que há alguns onde meu povo se reúne. Os orcs têm bom gosto.</Page>
+    
     
     </Text>
 </QuestDialog>

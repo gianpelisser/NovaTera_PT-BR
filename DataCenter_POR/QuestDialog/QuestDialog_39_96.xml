@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="39" id="96" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="96" huntingZoneId="39" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="75" id="100" prevId="0" villagerId="1024">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="75" id="2" prevId="0" villagerId="1024">
          
+         
         <Page social="0">Os Atel Akaad meteram o nariz aqui. Quero que você mostre a eles que não são bem-vindos! &lt;BR&gt;&lt;BR&gt;Engaje {@LinkCreature:39#210#vrentsuul sorcerers}, {@LinkCreature:39#220#lancers}, {@LinkCreature:39#230#priests} e {@LinkCreature:39#240#berserkers} na Vigília Prudente e seus arredores. &lt;BR&gt;&lt;BR&gt;Apresentem-se a Ordinio em Retribution Point quando sua missão estiver concluída.</Page>
+    
     
     </Text>
     <Text huntingZoneId="239" id="3" prevId="2" villagerId="1005">
          
+         
         <Page social="4">Nesse ritmo, vamos expulsar todos eles e voltar para casa para um bom jantar. Obrigado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="239" id="4" villagerId="1005">
          
+         
         <Page social="0">Gostaria que você se concentrasse em {@LinkCreature:39#210#arachnen sorcerers}, {@LinkCreature:39#220#lancers}, {@LinkCreature:39#230#priests} e {@LinkCreature:39#240#berserkers}. Você os encontrará em Wary Vigil.&lt;BR&gt;&lt;BR&gt;Traga-me a prova de suas mortes a qualquer momento para receber uma recompensa.</Page>
+    
     
     </Text>
 </QuestDialog>

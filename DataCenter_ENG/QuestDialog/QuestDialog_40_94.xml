@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="40" id="94" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="75" id="100" prevId="0" villagerId="1024">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="40" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1024">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="75" id="2" prevId="0" villagerId="1024">
-         
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1024">
         <Page social="0">We're making a push to secure the Blighted Village.&lt;BR&gt;&lt;BR&gt;Destroy the {@LinkCreature:40#1#berserk scarecrows}, {@LinkCreature:40#5#berserk harvest golems}, {@LinkCreature:40#13#prion eviscerators}, and {@LinkCreature:40#31#mutated tribladers}. We need to check the contamination levels, so collect samples from the fallen.&lt;BR&gt;&lt;BR&gt;Find Lashirah at the Quarantine Zone Research Center when you're finished.</Page>
-    
     </Text>
-    <Text huntingZoneId="240" id="3" prevId="2" villagerId="1004">
-         
+    <Text id="3" huntingZoneId="240" prevId="2" villagerId="1004">
         <Page social="4">There'll be more work for you whenever you want it, &lt;PCNAME&gt;. Our task, I fear, will never be finished.</Page>
-    
     </Text>
-    <Text huntingZoneId="240" id="4" villagerId="1004">
-         
+    <Text id="4" huntingZoneId="240" villagerId="1004">
         <Page social="0">Did you bring the samples? I can't begin without them.</Page>
-    
     </Text>
 </QuestDialog>

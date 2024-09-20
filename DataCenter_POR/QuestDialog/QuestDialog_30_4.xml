@@ -1,21 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="4" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="30" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="230" id="100" prevId="0" villagerId="1047">
          
+         
         <Page social="0">O Chefe dos Consos {@Creature:230#1047$$Nandu} lhe deu as boas-vindas como o tão esperado cumprimento da profecia de Balder. Ele lhe deu a chave do Templo de Balder, mas o avisou que suas provações estavam apenas começando.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="2" prevId="0" villagerId="1047">
          
+         
         <Page social="1">"O Sol aguardará dois... Com força e sabedoria, eles despertarão uma esperança há muito perdida." Saudações, &lt;PCNAME&gt;. Esperei muito tempo para vê-lo.&lt;BR&gt;&lt;BR&gt;Meus pais me empurraram para os cofres do arquivo quando o deus Balder morreu. Sua magia nos preservou para servirmos ao seu refúgio e templo.&lt;BR&gt;&lt;BR&gt;Só as crianças sobreviveram naquele dia.&lt;NEXTPAGEBUTTON&gt;"Você viu Balder?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Eu era uma criança, portanto minhas lembranças são vagas. Lembro-me de que ele era frequentemente triste, mas belo.&lt;BR&gt;&lt;BR&gt;Eu era muito jovem para visitar o templo, mas conhecia as cerimônias. Você ganhou esta chave.&lt;BR&gt;&lt;BR&gt;Quando estiver pronto, vá ver {@LinkCreature:230#1074$$Botak}. Ele lhe mostrará a entrada. Boa sorte.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="3" prevId="2" villagerId="1074">
          
+         
         <Page social="1">A chave! Finalmente.&lt;BR&gt;&lt;BR&gt;A entrada do templo fica na gruta atrás de mim. Dentro do templo, você enfrentará seu {@LinkCreature:425#8005#guardião}.&lt;BR&gt;&lt;BR&gt;Não sei mais nada - sinto muito.</Page>
+    
     
     </Text>
 </QuestDialog>

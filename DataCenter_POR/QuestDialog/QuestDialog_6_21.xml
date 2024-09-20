@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="6" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="6" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="60" id="100" prevId="0" villagerId="1009">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="60" id="2" prevId="0" villagerId="1009">
          
+         
         <Page social="5">Soldado da Federação, hein? Bem, ouça bem, eu sei que os soldados não gostam muito de ser enviados para fazer recados, mas eu realmente preciso de uma mãozinha aqui. Tenho esta carta - é para um amigo meu chamado Furlan.&lt;BR&gt;&lt;BR&gt;Pedi a um dos mensageiros que a entregasse, mas o problema é que ela está no Vale dos Titãs. Não há muita gente disposta a ir para lá hoje em dia.&lt;BR&gt;&lt;BR&gt;Você precisará obtê-lo de Brose primeiro. Ele ia aceitar, mas acho que o medo levou a melhor sobre ele.</Page>
+    
     
     </Text>
     <Text huntingZoneId="60" id="3" prevId="2" villagerId="1008">
          
+         
         <Page social="5">Kenan lhe pediu para levar a carta? Bem, quero dizer, eu realmente estava prestes a sair. Eu só tinha que, você sabe, organizar a lenha.&lt;BR&gt;&lt;BR&gt;Se você insiste, no entanto, aqui está. Coma.</Page>
+    
     
     </Text>
     <Text huntingZoneId="206" id="4" prevId="3" villagerId="1016">
          
+         
         <Page social="0">Do Kenan? Bem, obrigado.&lt;BR&gt;&lt;BR&gt;Oh. Oh, meu Deus. Ele quer que eu e minha família fiquemos com ele, onde é seguro. É um pensamento tão bom, mas não podemos deixar nossa casa. Temos que ficar aqui e defendê-la.&lt;BR&gt;&lt;BR&gt;Obrigado pelo bilhete. Lamento que tenha feito essa viagem em vão, mas agradeço.</Page>
+    
     
     </Text>
 </QuestDialog>

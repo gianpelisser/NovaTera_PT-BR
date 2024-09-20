@@ -1,31 +1,42 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="2" id="3" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="2" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="202" id="100" prevId="0" villagerId="1011">
          
+         
         <Page social="0">Klaon teve uma visão de um ritual em Scarwood, por isso o convocou para obter sua ajuda. Ele falou de um ritual em torno de uma série de pedras flutuantes, conduzido por estranhos intrusos. Ele sabia o nome do líder - Garkior - mas não sabia por que eles estavam em Scarwood.&lt;BR&gt;&lt;BR&gt;Klaon o enviou para destruir as pedras e matar esse Garkior. Você fez isso e retornou a Klaon, que disse que a visão havia desaparecido, mas tinha certeza de que o mistério estava longe de terminar. Você também ficou sabendo o nome de seus novos inimigos: os Scions of Lok.</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="2" prevId="0" villagerId="1011">
          
+         
         <Page social="0">&lt;PCNAME&gt;! Klaon quer falar com você. Acho que ele foi em direção ao acampamento de Aron!</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="3" prevId="2" villagerId="1024">
          
+         
         <Page social="4">Obrigado por ter vindo, &lt;PCNAME&gt;. Estão ocorrendo eventos que estão um pouco além do meu conhecimento.&lt;BR&gt;&lt;BR&gt;Sou apenas um humilde místico de aldeia. Quando preciso de orientação, paro e ouço o Sonho. No sonho, vi Scarwood e intrusos.&lt;NEXTPAGEBUTTON&gt;"Quem eram eles?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Não tenho certeza. Eles estavam conduzindo um ritual em torno de uma série de pedras flutuantes. Estavam montando {@LinkCreature:2#209#vortex shards}.&lt;BR&gt;&lt;BR&gt;Os shards pareciam... famintos. Eu vi gavinhas saindo de cada um deles, roubando da própria floresta. Uma figura parecia dirigir esse ritual. Ouvi seu nome na visão -{@LinkCreature:2#259#Garkior}.&lt;BR&gt;&lt;BR&gt;Pare-o e destrua esses fragmentos!</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="4" prevId="3" villagerId="1024">
          
+         
         <Page social="4">Nunca vi tais criaturas antes, nem sei de nenhum grupo que se autodenomine os Scions of Lok.&lt;BR&gt;&lt;BR&gt;A visão está desaparecendo, então espero que seus esforços ponham um fim a essa loucura, mas temo que seja apenas o começo.&lt;BR&gt;&lt;BR&gt;Fique vigilante, &lt;PCNAME&gt;, e vá com meus agradecimentos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="5" villagerId="1024">
          
+         
         <Page social="0">Eu me pergunto o que esses fragmentos estão tirando da floresta? E por que estão tirando? &lt;BR&gt;&lt;BR&gt;Tantas perguntas. Quando você voltar, espero que tenhamos respostas.</Page>
+    
     
     </Text>
 </QuestDialog>

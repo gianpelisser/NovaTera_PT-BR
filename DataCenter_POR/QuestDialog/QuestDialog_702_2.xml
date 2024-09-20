@@ -1,65 +1,90 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="702" id="2" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="702" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="219" id="100" prevId="0" villagerId="7000">
          
+         
         <Page social="0">Você conheceu Lein e Digory em Freeholds e recebeu informações sobre Rootstock.</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="2" prevId="0" villagerId="7000">
          
+         
         <Page social="0">Nessa época, todos os anos, realizamos o Rootstock para colher os últimos vegetais de inverno antes de lavrarmos os campos novamente para o plantio da primavera.&lt;BR&gt;&lt;BR&gt;Há muitos eventos divertidos, mas cozinhar os produtos frescos - e comê-los - é o mais divertido, eu acho.&lt;BR&gt;&lt;BR&gt;Você quer dar uma olhada na fazenda primeiro? Estamos particularmente orgulhosos de nossas raízes de lama, aqui na Lein's Farm.&lt;BR&gt;&lt;BR&gt;Diga uma coisa: se você me trouxer de volta uma raiz de lama, eu lhe mostrarei como cozinhá-la.</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="3" prevId="2" villagerId="7000">
          
+         
         <Page social="4">Que legal! Essa é uma ótima raiz de lama! Daria uma bela salada de mudroot.&lt;BR&gt;&lt;BR&gt;Você pode fazer isso com uma saladeira. Millia pode lhe mostrar como.</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="4" villagerId="7000">
          
+         
         <Page social="0">Basta trazer um que você goste.</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="5" prevId="3" villagerId="7006">
          
+         
         <Page social="4">O segredo da culinária é usar os utensílios certos.&lt;BR&gt;&lt;BR&gt;Quando não tiver certeza de quais usar, basta ler a receita.&lt;BR&gt;&lt;BR&gt;Aqui: Pegue esta receita e estes ingredientes e faça sua própria salada. É muito fácil!</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="6" prevId="5" villagerId="7000">
          
+         
         <Page social="4">Tem certeza de que essa é a sua primeira salada de raiz de lama? Parece que você as fez a vida toda! &lt;BR&gt;&lt;BR&gt;Bem, já que você dominou a salada de raiz de lama tão rapidamente, acho que está pronto para passar para pratos mais desafiadores! &lt;BR&gt;&lt;BR&gt;Você encontrará ingredientes e receitas raras aqui e ali em todo o festival e nas fazendas. Não deixe de ficar de olho! &lt;NEXTPAGEBUTTON&gt;&amp;quot;O que mais há para fazer na feira?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Bem, se cozinhar realmente não é sua praia, você sempre pode dar uma olhada no Bamarama.&lt;BR&gt;&lt;BR&gt;Vá falar com Lein. Ele lhe dará todos os detalhes.</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="7" villagerId="7000">
          
+         
         <Page social="0">&lt;PCNAME&gt;, você seguiu cuidadosamente a receita que lhe dei?</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="8" prevId="6" villagerId="1030">
          
+         
         <Page social="4">Bem-vindo! Seja bem-vindo! Cansou de brincar de chef? Bem, você veio ao lugar certo! O Bamarama é a melhor parte do Rootstock.&lt;BR&gt;&lt;BR&gt;Você pode assistir a partidas emocionantes e, se tiver sorte, pode ganhar algum dinheiro com isso! As regras são muito simples: Basta escolher um lutador e, se ele vencer a partida, você ganha! &lt;BR&gt;&lt;BR&gt;E como esta é sua primeira vez, posso ser persuadido a lhe dar uma dica. Quer tentar? &lt;NEXTPAGEBUTTON&gt;&amp;quot;Talvez eu tente, pois ainda há muita coisa na feira para ver.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Ainda não? Bem, tudo bem. Volte sempre que quiser.&lt;BR&gt;&lt;BR&gt;Se estiver procurando algo um pouco mais prático, dê uma olhada na fazenda de Digory. E volte mais tarde!</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="9" prevId="8" villagerId="1009">
          
+         
         <Page social="4">Bem-vindo à minha fazenda!&lt;BR&gt;&lt;BR&gt;Quer experimentar sua mão - ou melhor, seu pé? - no kick-bale? Então você veio ao lugar certo!&lt;BR&gt;&lt;BR&gt;Neste jogo, você chuta o máximo de palha que puder dentro do limite de tempo - mas não chute para fora dos limites!&lt;BR&gt;&lt;BR&gt;Quer chutar um até pegar o jeito? &lt;NEXTPAGEBUTTON&gt;&amp;quot;Talvez?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="10" prevId="9" villagerId="1009">
          
+         
         <Page social="4">O que você acha? É mais difícil do que parece, não é? &lt;BR&gt;&lt;BR&gt;Tem certeza de que não quer jogar de novo? &lt;NEXTPAGEBUTTON&gt;&amp;quot;Voltarei mais tarde.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Hehe, não se preocupe.&lt;BR&gt;&lt;BR&gt;Diga, &lt;PCNAME&gt;, você conheceu minha irmãzinha, Rachlae? Ela tem um pequeno jardim de lótus do céu. Você deveria perguntar a ela sobre isso!</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="11" prevId="10" villagerId="7001">
          
+         
         <Page social="4">Oh, olá. Foi meu irmão Digory que o enviou? &lt;BR&gt;&lt;BR&gt;Receio que ele estivesse fazendo uma brincadeira com você. Sim, eu cultivo lótus-do-céu... mas meu jardim fica aqui em cima. &lt;BR&gt;&lt;BR&gt;Sim, eu sei - ela só cresce em altitudes muito elevadas, mas vale a pena cultivá-la, pois faz com que tudo tenha um sabor incrível: Você veio de tão longe, então o mínimo que posso fazer é deixá-lo experimentar um pouco - mesmo que não tenha vontade de colher um pouco você mesmo. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Obrigado.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
 </QuestDialog>

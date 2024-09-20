@@ -1,26 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="26" id="30" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="226" id="100" prevId="0" villagerId="1003">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="26" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="226" prevId="0" villagerId="1003">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="226" id="2" prevId="0" villagerId="1003">
-         
+    <Text id="2" huntingZoneId="226" prevId="0" villagerId="1003">
         <Page social="5">Your garments and weapon suggest your talents do not lie in the scholarly realm, but your eyes are not entirely devoid of intelligence. Are you a researcher? A fledgling archaeologist, perhaps?&lt;BR&gt;&lt;BR&gt;What brings you here?&lt;NEXTPAGEBUTTON&gt;"I once worked with Eustace..."&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="5">That fool? How unfortunate. I hope your mind wasn't unduly tainted by the experience.&lt;BR&gt;&lt;BR&gt;Eustace is more interested in prestige than progress. If you're serious about your pursuits, you may work with me. I'm studying the relics of this region, trying to identify their link to the Fountain of Shara and the miracles that seem to abound. If you can bring me some intact, I'd be pleased to study them.</Page>
-    
     </Text>
-    <Text huntingZoneId="226" id="3" prevId="2" villagerId="1003">
-         
+    <Text id="3" huntingZoneId="226" prevId="2" villagerId="1003">
         <Page social="5">Let us see what you've found. Intriguing. This rune represents life, this one renewal. And this one here is an ancient symbol for Shara!&lt;BR&gt;&lt;BR&gt;There's clearly a link between the fountain and the land and these relics seem to be it. Your assistance is gratifyingly adequate. The Mysterium thanks you.</Page>
-    
     </Text>
-    <Text huntingZoneId="226" id="4" villagerId="1003">
-         
+    <Text id="4" huntingZoneId="226" villagerId="1003">
         <Page social="0">If you're sincere about studying the past, you'll assist our collection efforts. Your combat training makes you perfectly suited to this task.</Page>
-    
     </Text>
 </QuestDialog>

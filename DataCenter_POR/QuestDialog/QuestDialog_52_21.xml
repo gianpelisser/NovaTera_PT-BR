@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="52" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="79" id="100" prevId="0" villagerId="1007">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="79" id="2" prevId="0" villagerId="1007">
          
+         
         <Page social="4">Precisamos de reforços para Habere do Norte. Até agora, eles conseguiram segurar o exército de Thulsa, mas estão por um fio.&lt;BR&gt;&lt;BR&gt;Sichel, no portão norte, pode direcioná-lo para a Loja Remota. Que Kaia o abençoe.</Page>
+    
     
     </Text>
     <Text huntingZoneId="252" id="3" prevId="2" villagerId="1003">
          
+         
         <Page social="4">Essa estrada o leva para nordeste até a Loja Remota.&lt;BR&gt;&lt;BR&gt;É a única maneira de acessar a loja, e é guardada por lanceiros mortos-vivos.&lt;BR&gt;&lt;BR&gt;Se você derrotar os lanceiros, no entanto, isso nos aliviará de um grande fardo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="252" id="4" prevId="3" villagerId="1001">
          
+         
         <Page social="4">Uau, bem-vindo! Obrigado por ter vindo até aqui através de pilhas de cadáveres podres.&lt;BR&gt;&lt;BR&gt;Sou o Prefeito Khubyar. Prazer em conhecê-lo, &lt;PCCLASS:lcase&gt;!</Page>
+    
     
     </Text>
 </QuestDialog>

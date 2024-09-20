@@ -1,32 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Dungeon xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd">
-    <String id="9045001" string="Eliminate monsters in the entrance and advance to Lilipart." />
-    <String id="9045002" string="Join the Lilipart guards in front of the village and prepare for an invasion." />
-    <String id="9045003" string="Stop the forest basilisks from reaching the center." />
-    <String id="9045004" string="Stop the deadwood basilisks from reaching the center." />
-    <String id="9045005" string="Stop the forest fimbrilisks from reaching the center." />
-    <String id="9045006" string="Stop the deadwood fimbrilisks from reaching the center." />
-    <String id="9045007" string="Stop the elemental guardians from reaching the center." />
-    <String id="9045008" string="The monsters are returning to their forest." />
-    <String id="9045009" string="5" />
-    <String id="9045010" string="4" />
-    <String id="9045011" string="3" />
-    <String id="9045012" string="2" />
-    <String id="9045013" string="1" />
-    <String id="9045014" string="Report back to Lilipart Chief Flim Nap." />
-    <String id="9045015" string="Prefect and adjutant died; failed to clear the dungeon." />
-    <String id="9045016" string="Failed to clear the dungeon; flag ended." />
-    <String id="9045017" string="Monsters are spawning in the center!" />
-    <String id="9045018" string="Monsters are spawning in the west!" />
-    <String id="9045019" string="Monsters are spawning in the east!" />
-    <String id="9045020" string="The central squad is in danger!" />
-    <String id="9045021" string="The west squad is in danger!" />
-    <String id="9045022" string="The east squad is in danger!" />
-    <String id="9045023" string="Monsters are spawning in the center and west!" />
-    <String id="9045024" string="Monsters are spawning in the center and east!" />
-    <String id="9045025" string="Monsters are spawning in the east and west!" />
-    <String id="9045026" string="Monsters are spawning in all directions!" />
-    <String id="9045027" string="Reinforcements have arrived!" />
-    <String id="9045028" string="The guards' attack strength and endurance have increased for 1 minute!" />
-    <String id="9045029" string="The guards are restoring their HP!" />
+<StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
+    <String id="9043001" string="&lt;font size='50'&gt;You've been caught! Prepare for monster swarms!&lt;/font&gt;" />
+    <String id="9043011" string="&lt;font size='50'&gt;Another wave of monsters!&lt;/font&gt;" />
+    <String id="9043121" string="&lt;font size='50'&gt;Cloud bridge activated.&lt;/font&gt;" />
+    <String id="9043012" string="&lt;font size='50'&gt;Mystical shortcut activated.&lt;/font&gt;" />
+    <String id="9043018" string="&lt;font size='50'&gt;The whetstone has been destroyed. Monsters already summoned become stronger.&lt;/font&gt;" />
+    <String id="9043020" string="&lt;font size='50'&gt;Monsters will be summoned soon.&lt;/font&gt;" />
+    <String id="9043021" string="&lt;font size='50'&gt;Moving bridge activated.&lt;/font&gt;" />
+    <String id="9043026" string="&lt;font size='50'&gt;The entrance to Mockinghall will close in 10 seconds.&lt;/font&gt;" />
+    <String id="9043029" string="&lt;font size='50'&gt;The bars surrounding the bridge actuator are gone.&lt;/font&gt;" />
+    <String id="9043030" string="&lt;font size='50'&gt;The door is open.&lt;/font&gt;" />
+    <String id="9043033" string="&lt;font size='50'&gt;Monsters will spawn in 20 seconds.&lt;/font&gt;" />
+    <String id="9043034" string="&lt;font size='50'&gt;Monsters will spawn in 10 seconds.&lt;/font&gt;" />
+    <String id="9043035" string="&lt;font size='50'&gt;Monsters will spawn in 5 seconds.&lt;/font&gt;" />
+    <String id="9043036" string="&lt;font size='50'&gt;Monsters are now spawning.&lt;/font&gt;" />
+    <String id="9043037" string="&lt;font size='50'&gt;Felbane is recovering at an astounding rate. Its immunity to siege weapons disappears.&lt;/font&gt;" />
+    <String id="9043038" string="&lt;font size='50'&gt;Bandersnatch's attacks are getting faster.&lt;/font&gt;" />
+    <String id="9043039" string="&lt;font size='50'&gt;Because you didn't defeat Kagrom within 20 seconds, Morgak will be summoned again.&lt;/font&gt;" />
+    <String id="9043040" string="&lt;font size='50'&gt;Because you didn't defeat Morgak within 20 seconds, Kagrom will be summoned again.&lt;/font&gt;" />
+    <String id="9043041" string="&lt;font size='50'&gt;It has been cleared!&lt;/font&gt;" />
+    <String id="9043042" string="&lt;font size='50'&gt;The cage around Morgak will close in 10 seconds.&lt;/font&gt;" />
+    <String id="9043043" string="&lt;font size='50'&gt;The cage around Kagrom will close in 10 seconds.&lt;/font&gt;" />
+    <String id="9043044" string="&lt;font size='50'&gt;Break the trap before time runs out.&lt;/font&gt;" />
+    <String id="9043045" string="&lt;font size='50'&gt;The entrance door will close soon.&lt;/font&gt;" />
+    <String id="9043047" string="&lt;font size='50'&gt;Master Keye appeared.&lt;/font&gt;" />
+    <String id="9043048" string="&lt;font size='50'&gt;Master Keye's mystical shortcut has been activated.&lt;/font&gt;" />
+    <String id="9043049" string="&lt;font size='50'&gt;The stairs to the upper gallery open.&lt;/font&gt;" />
+    <String id="9043050" string="&lt;font size='50'&gt;One-Eyed Jack is speeding up.&lt;/font&gt;" />
+    <String id="9043052" string="&lt;font size='50'&gt;You've received a special power.&lt;/font&gt;" />
+    <String id="9043053" string="&lt;font size='50'&gt;Stay away from the dangerous device in the center!&lt;/font&gt;" />
+    <String id="9043054" string="&lt;font size='50'&gt;You have 20 seconds to defeat the remaining boss monster.&lt;/font&gt;" />
+    <String id="9043055" string="&lt;font size='50'&gt;You have 30 seconds to defeat the remaining boss monster.&lt;/font&gt;" />
+    <String id="9043056" string="&lt;font size='50'&gt;Who are you? How dare you invade my castle!&lt;/font&gt;" />
+    <String id="9043057" string="&lt;font size='50'&gt;You'll never make it out, and you'll never take what's mine!&lt;/font&gt;" />
+    <String id="9043058" string="&lt;font size='50'&gt;Because you didn't defeat Kagrom within 30 seconds, Morgak will be summoned again.&lt;/font&gt;" />
+    <String id="9043059" string="&lt;font size='50'&gt;Because you didn't defeat Morgak within 30 seconds, Kagrom will be summoned again.&lt;/font&gt;" />
+    <String id="9043060" string="&lt;font size='50'&gt;Felbane loses immunity to siege weapons and begins casting HP recovery magic.&lt;/font&gt;" />
 </StrSheet_Dungeon>

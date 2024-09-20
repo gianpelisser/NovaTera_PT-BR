@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="20" id="25" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="20" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="220" id="100" prevId="0" villagerId="1028">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="220" id="2" prevId="0" villagerId="1028">
          
+         
         <Page social="4">Os {@LinkCreature:20#30011100#morale boosters} mantêm os escravos trabalhando; portanto, livre-se deles e a escavação deve parar.&lt;BR&gt;&lt;BR&gt;Depois de cuidar deles, vá para a Estação Relicário nos Salões da Sombra. Eles estão pedindo reforços.&lt;BR&gt;&lt;BR&gt;Você pode descobrir que está sendo jogado de um lado para o outro aqui.</Page>
+    
     
     </Text>
     <Text huntingZoneId="220" id="3" prevId="2" villagerId="1004">
          
+         
         <Page social="0">Finalmente! É bom ver que eles não se esqueceram completamente de nós.&lt;BR&gt;&lt;BR&gt;Espero que não precise descansar, pois não há tempo para isso.</Page>
+    
     
     </Text>
 </QuestDialog>

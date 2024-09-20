@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="11" id="43" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="11" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="211" id="100" prevId="0" villagerId="1012">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="211" id="2" prevId="0" villagerId="1012">
          
+         
         <Page social="4">O Acampamento da Imprensa... nós o chamamos assim porque qualquer um que fosse capturado era pressionado a servir.&lt;BR&gt;&lt;BR&gt;Agora estamos usando-o para continuar. A localização do acampamento acabou sendo mais importante do que pensávamos, e conseguimos mantê-lo durante todo o tempo.&lt;BR&gt;&lt;BR&gt;Os {@LinkCreature:11#1009#Red Lash reapers} estão tentando tomá-lo de nós. Detenha-os, &lt;PCNAME&gt;!</Page>
+    
     
     </Text>
     <Text huntingZoneId="211" id="3" prevId="2" villagerId="1012">
          
+         
         <Page social="4">São muitos troféus de morte, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;E agora você entende por que o acampamento é tão importante, não é?</Page>
+    
     
     </Text>
     <Text huntingZoneId="211" id="4" villagerId="1012">
          
+         
         <Page social="0">{@LinkCreature:11#1009#Red Lash reapers} quer este acampamento. E não vamos entregar para eles!</Page>
+    
     
     </Text>
 </QuestDialog>

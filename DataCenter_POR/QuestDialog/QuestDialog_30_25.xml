@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="25" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="30" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="230" id="100" prevId="0" villagerId="1010">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="230" id="2" prevId="0" villagerId="1010">
          
+         
         <Page social="1">Esse maldito Mysterium! Allemantheia não enviará mais tropas para ajudar com nosso problema de preguiça porque aparentemente as preguiças "não são carnívoras". Insanidade! &lt;BR&gt;&lt;BR&gt;Vocês já viram os dentes das {@LinkCreature:30#110#preguiças-lesmas}? São afiados o suficiente para... ah, agora uma ideia.&lt;BR&gt;&lt;BR&gt;Você ajudaria um colega soldado? Matar alguns {@LinkCreature:30#110#sloth slashers} e me trazer alguns dentes que eu possa enviar ao meu comandante?</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="3" prevId="2" villagerId="1010">
          
+         
         <Page social="1">Excelente. Quando eu estiver em meu próximo briefing, vou jogar isso na cara deles!</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="4" villagerId="1010">
          
+         
         <Page social="0">Mate os {@LinkCreature:30#110#sloth slashers} e arranque suas presas.</Page>
+    
     
     </Text>
 </QuestDialog>

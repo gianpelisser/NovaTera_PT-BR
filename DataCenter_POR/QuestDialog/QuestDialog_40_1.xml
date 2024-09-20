@@ -1,62 +1,86 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="40" id="1" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="40" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0">Uma praga mutante atacou perto de Frontera, transformando suas vítimas em mutantes horríveis e assassinos. A comandante Fraya acreditava que a Thulsa estava envolvida de alguma forma. Seu assistente, Ibar, enviou você para investigar. Você derrotou a Legião de Thulsa, que estava usando a magia necromântica de Thulsa para criar a praga.&lt;BR&gt;&lt;BR&gt;Não foi encontrado nenhum sinal de Thulsa, mas você descobriu planos para produzir em massa as pedras mágicas que causam a praga.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="5">Ordens da missão:&lt;BR&gt;&lt;BR&gt;Inicie uma investigação imediata sobre a praga mutante que está se espalhando por Val Palrada.&lt;BR&gt;&lt;BR&gt;Apresentar-se ao Comandante Fraya em Allemantheia para receber instruções sobre a missão.</Page>
+    
     
     </Text>
     <Text huntingZoneId="518" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="5">Não gosto das histórias que saem de Val Palrada - pessoas se transformando em mutantes assassinos, os mortos ressuscitando do túmulo... Parecem fantasias, mas nossos comandantes em campo sabem que não devem exagerar. Dizem que é uma praga.&lt;BR&gt;&lt;BR&gt;Não parece ser a praga que você viu em Popolion, mas suspeito que tenha uma origem comum no Coveter.&lt;NEXTPAGEBUTTON&gt;"Você acha que Thulsa está envolvida de alguma forma?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Eu ficaria surpreso se ele não fosse. Necromancia, transformações sombrias - e Kaidun disse que Thulsa estava indo para Val Parada com o Núcleo.&lt;BR&gt;&lt;BR&gt;Encontre-se comigo em Frontera. Vamos dar uma olhada mais de perto.</Page>
+    
     
     </Text>
     <Text huntingZoneId="75" id="4" prevId="3" villagerId="1023">
          
+         
         <Page social="5">Estou feliz por você estar aqui. O Mysterium tem pesquisadores aqui, para surpresa de ninguém. Eles dizem que não vêem nenhuma conexão com Thulsa, mas isso parece improvável.&lt;BR&gt;&lt;BR&gt;Vá para dentro da zona de quarentena e encontre evidências.&lt;BR&gt;&lt;BR&gt;Uma oferta de serviços ao contingente do Mysterium lá pode permitir que &lt;PCNAME&gt; aprenda alguma coisa.&lt;BR&gt;&lt;BR&gt;Tome a estrada norte, depois vire para oeste ao sair da cidade. Boa sorte.</Page>
+    
     
     </Text>
     <Text huntingZoneId="240" id="5" prevId="4" villagerId="1007">
          
+         
         <Page social="5">O Mysterium está convencido de que essa praga não é uma coisa da natureza, mas uma criação da magia negra. Achamos que os {@LinkCreature:40#30#mutant tribladers} têm provas, mas você terá que lutar contra eles por elas.&lt;BR&gt;&lt;BR&gt;Temos agentes na Zona de Quarentena - Narpa é o responsável. Ele precisará de todas as provas que você puder encontrar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="240" id="6" prevId="5" villagerId="1035">
          
+         
         <Page social="5">Federação? Eu também! Esses brasões de caveira? Hmmm... isso confirma, então.&lt;BR&gt;&lt;BR&gt;Alguns dos seguidores de Thulsa, a Legião de Thulsa, ergueram uma grande pedra a noroeste da Zona de Quarentena. Eles a chamam de {@LinkCreature:40#36#eldritch shard}, e ela tem o mesmo brasão esculpido nela.&lt;BR&gt;&lt;BR&gt;Isso me lembra aquela pedra que eles encontraram no centro de toda a loucura em Popolion.&lt;NEXTPAGEBUTTON&gt;"Então precisamos destruir a pedra."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Muito à frente de você. Pegue essa bomba e exploda essa coisa! Enquanto você está explodindo isso e aquilo, vou ver o que mais posso aprender aqui.&lt;BR&gt;&lt;BR&gt;Oh, e cuidado com os {@LinkCreature:40#32#zombie miners}. Coisas muito, muito desagradáveis.</Page>
+    
     
     </Text>
     <Text huntingZoneId="240" id="7" prevId="6" villagerId="1015">
          
+         
         <Page social="5">Seus atos lançaram luz sobre uma situação bastante sombria, &lt;PCNAME&gt;. Lashirah, no Centro de Pesquisa da Zona de Quarentena, vai querer saber disso - ela tem a tarefa nada invejável de afastar a Legião de Thulsa, e o que quer que lhes cause dor certamente lhe trará alegria.</Page>
+    
     
     </Text>
     <Text huntingZoneId="240" id="8" prevId="7" villagerId="1004">
          
+         
         <Page social="5">A Legião de Thulsa está em alvoroço, graças a você! E há rumores de que Fraya acredita que a praga da mutação é obra de Thulsa. Isso é verdade? &lt;NEXTPAGEBUTTON&gt;"É nisso que ela acredita, sim."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">{Mureksark comanda a fortaleza da legião no topo dos penhascos perto das Minas Abandonadas. Acho que há alguma evidência da ligação da legião com Thulsa.&lt;BR&gt;&lt;BR&gt;Acabe com Mureksark e descubra o que puder.</Page>
+    
     
     </Text>
     <Text huntingZoneId="75" id="9" prevId="8" villagerId="1023">
          
+         
         <Page social="4">Dê uma olhada nisso! São planos para mais pedras mágicas - eles estavam planejando produzi-las em massa. Haveria uma praga de mutação em todo o continente! &lt;BR&gt;&lt;BR&gt;Felizmente, não há muitos locais adequados para fazer isso.&lt;NEXTPAGEBUTTON&gt;"Quer que eu comece a procurar?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Primeiro, vamos interromper seu fluxo de materiais. Há apenas dois lugares onde eles podem obter esses materiais - do comando allemantheiano ou do Mysterium.&lt;BR&gt;&lt;BR&gt;Eu acho ambas as possibilidades perturbadoras.&lt;BR&gt;&lt;BR&gt;Devemos encontrar sua fonte. Agora!</Page>
+    
     
     </Text>
     <Text huntingZoneId="75" id="10" villagerId="1023">
          
+         
         <Page social="0">Você aprendeu algo novo?</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,13 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="3029001" string="Core of the Problem" />
-    <String id="3029002" string="They might even tell us how to repair the sun towers." />
-    <String id="3029003" string="I must pack a few things first." />
-    <String id="3029004" string="Brass Conservator Core" />
-    <String id="3029005" string="[{@Rgn:30007$$Balder's Pavilion}]
-Extract several {@linkcreature:30#180#brass conservator} cores." />
-    <String id="3029006" string="Report to {@linkcreature:230#1005$$Naisas}." />
-    <String id="3029007" string="&quot;Hope they help.&quot;" />
-    <String id="3029008" string="&quot;All part of the job.&quot;" />
-    <String id="3029009" string="Find {@linkcreature:230#1019$$Sestena}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="3025001" string="Slasher Slaughter" />
+    <String id="3025002" string="They'll gnaw on anything!" />
+    <String id="3025003" string="I'll either be relieved or reinforced." />
+    <String id="3025004" string="Sloth Fang" />
+    <String id="3025005" string="Kill {@linkcreature:30#110#sloth slashers} and extract their fangs." />
+    <String id="3025006" string="Deliver sloth fangs to Centurion {@linkcreature:230#1010$$Erdis}." />
+    <String id="3025007" string="&quot;Hope it works.&quot;" />
 </StrSheet_Quest>

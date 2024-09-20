@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns="https://vezel.dev/novadrop/dc/StrSheet_PremiumCompose" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="https://vezel.dev/novadrop/dc" elementFormDefault="qualified" targetNamespace="https://vezel.dev/novadrop/dc/StrSheet_PremiumCompose" xsi:schemaLocation="https://vezel.dev/novadrop/dc ../DataCenter.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="StrSheet_PremiumCompose">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="String" type="StrSheet_PremiumCompose_String" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="StrSheet_PremiumCompose" type="StrSheet_PremiumCompose" />
+  <xs:complexType name="StrSheet_PremiumCompose_String">
+    <xs:attribute name="id" type="xs:int" />
+    <xs:attribute name="string" type="xs:string" />
+  </xs:complexType>
+</xs:schema>

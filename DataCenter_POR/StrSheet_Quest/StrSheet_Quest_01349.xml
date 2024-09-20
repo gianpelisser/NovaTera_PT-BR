@@ -1,15 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4823001" string="Caminhando em um país das maravilhas de argons" />
-    <String id="4823002" string="Muito obrigado!" />
-    <String id="4823003" string="Até que enfim! Palavra do comando." />
-    <String id="4823004" string="{@LinkCreature:78#1012}" />
-    <String id="4823005" string="Ordens seladas" />
-    <String id="4823006" string="Fale com {@LinkCreature:78#1012}." />
-    <String id="4823007" string="&quot;Como ordenado!&quot;" />
-    <String id="4823008" string="&quot;Farei o que puder.&quot;" />
-    <String id="4823009" string="Entregue os suprimentos para {@LinkCreature:248#1044}." />
-    <String id="4823010" string="Mate os cadáveres de argonomorfos ao redor de {@Rgn:78001}." />
-    <String id="4823011" string="&quot;Eu também.&quot;" />
-    <String id="4823012" string="Informe-se com {@LinkCreature:248#1015} no {@Rgn:48004}." />
+    <String id="4794001" string="Justiça de fronteira" />
+    <String id="4794002" string="Temos que continuar reduzindo seu número." />
+    <String id="4794003" string="Prova de morte: Argonomorfos" />
+    <String id="4794004" string="&quot;É uma honra servir.&quot;" />
+    <String id="4794005" string="Caça {@LinkCreature:47#4002#argonomorph naga wyrmlings}, {@LinkCreature:47#1002#argonomorph Tirkai grizzlies} e {@LinkCreature:47#4003#argonomorph gula smashers} na {@Rgn:47005$$Argon Frontier}." />
+    <String id="4794006" string="Consulte {@Creature:247#1005$$Chenace} na {@Rgn:47007$$$Blightroar Research Station} para receber sua recompensa." />
 </StrSheet_Quest>

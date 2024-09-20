@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="38" id="34" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="38" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="238" id="100" prevId="0" villagerId="1013">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="238" id="2" prevId="0" villagerId="1013">
          
+         
         <Page social="6">Essa região só agora está começando a ganhar vida após o Dia do Fogo. Muitas criaturas estão quase fora de perigo de extinção.&lt;BR&gt;&lt;BR&gt;Infelizmente, esse não é o caso dos struthios. Há muito poucos deles e muitas hienas. Talvez &lt;PCNAME&gt; queira reequilibrar a balança em favor dos struthios?&lt;BR&gt;&lt;BR&gt;Você os encontrará a sudoeste daqui. E fique avisado - elas são tão mortais quanto as hienas que as caçam.</Page>
+    
     
     </Text>
     <Text huntingZoneId="238" id="3" prevId="2" villagerId="1013">
          
+         
         <Page social="6">Agradecemos as ações de &lt;PCNAME&gt; em prol do equilíbrio da natureza.</Page>
+    
     
     </Text>
 </QuestDialog>

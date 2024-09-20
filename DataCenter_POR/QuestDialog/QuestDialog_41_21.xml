@@ -1,31 +1,42 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="41" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="41" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="75" id="100" prevId="0" villagerId="1007">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="75" id="2" prevId="0" villagerId="1007">
          
+         
         <Page social="4">Um dos comerciantes de Frontera, um sujeito chamado Safna, quebrou a quarentena e saiu correndo pelo portão norte.&lt;BR&gt;&lt;BR&gt;Pergunte a {@LinkCreature:75#1012#Junith}. Talvez ele saiba para onde está indo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="75" id="3" prevId="2" villagerId="1012">
          
+         
         <Page social="4">Safna? Não me faça começar. Eu lhe disse que estávamos em quarentena, mas ele me derrubou e passou correndo por mim. Eu o persegui, mas ele tinha uma vantagem muito grande. Da última vez que o vi, ele estava indo para o Vale Feral.&lt;BR&gt;&lt;BR&gt;Você pode procurá-lo, mas provavelmente não encontrará nada além de ossos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="241" id="4" prevId="3" villagerId="1102">
          
+         
         <Page social="12">Não voltarei mais. Aquele decurião vigarista, Jeulile, concordou em colher alguns cogumelos raros para mim, mas quando seu mensageiro os trouxe, não eram os que eu havia pedido. Eram venenosos!&lt;BR&gt;&lt;BR&gt;Eu contei a ele, mas ele disse que estava agindo sob as ordens dela.&lt;BR&gt;&lt;BR&gt;Eu vou direto para o Vale Feral para dar a ela um pedaço de minha mente e entregar esta carta de reclamação!&lt;BR&gt;&lt;BR&gt;É claro que é muito perigoso aqui fora...&lt;NEXTPAGEBUTTON&gt;"Eu a entregarei para você."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="12">Você vai? Bem, se você insiste... e você parece ser bastante confiável.&lt;BR&gt;&lt;BR&gt;Diga a ela que, venha a peste, as panteras ou qualquer outra coisa, ela vai se arrepender se me enganar novamente!</Page>
+    
     
     </Text>
     <Text huntingZoneId="241" id="5" prevId="4" villagerId="1005">
          
+         
         <Page social="4">Cogumelos venenosos? Acho que alguém deve ter cometido um erro terrível. Sinto muito que você tenha se envolvido.</Page>
+    
     
     </Text>
 </QuestDialog>

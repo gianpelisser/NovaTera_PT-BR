@@ -1,19 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="122" id="2" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="122" id="100" prevId="0" villagerId="220021">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="122" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="122" prevId="0" villagerId="220021">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="122" id="2" prevId="0" villagerId="220021">
-         
+    <Text id="2" huntingZoneId="122" prevId="0" villagerId="220021">
         <Page social="1">The Enlightened Union's rivals are making things difficult for us, my friend.&lt;BR&gt;&lt;BR&gt;We’ve recently received intelligence that members of the Iron Order and the Free Traders Collective are encroaching on our operations, apparently to foment confusion. Their main tactic seems to be luring monsters into the area, presumably to ensure deniability.&lt;BR&gt;&lt;BR&gt;Please gather evidence of their activities. Patrol the wastes and tor encroachment area, and look for non-native creatures, such as the {@linkcreature:122#202#tor mugatos} and {@linkcreature:122#205#oasis ghilliedhus}. Slay at least three of each, as proof of their presence.&lt;BR&gt;&lt;BR&gt;Before you go, consider making a party and training some friends. &lt;font color='#660000'&gt;Any party including someone of level 60 and someone not yet level 65 completing this task will benefit from the bonus reward.&lt;/font&gt;</Page>
-    
     </Text>
-    <Text huntingZoneId="122" id="3" prevId="2" villagerId="220021">
-         
+    <Text id="3" huntingZoneId="122" prevId="2" villagerId="220021">
         <Page social="0">Thank you, friend &lt;PCNAME&gt;!&lt;BR&gt;Your aid has been invaluable to the Enlightened Union!</Page>
-    
     </Text>
 </QuestDialog>

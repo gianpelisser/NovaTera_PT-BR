@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="81" id="1300" voiceTypeId="127">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1300" huntingZoneId="81" voiceTypeId="127">
     <Text huntingZoneId="81" id="1" endSocial="14" prevId="0" villagerId="1300">
          
+         
         <Page social="4">How may I be of service? I know various restorative magic spells.</Page>
+    
     
     </Text>
 </VillagerDialog>

@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="25" id="28" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="25" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="225" id="100" prevId="0" villagerId="1020">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="225" id="2" prevId="0" villagerId="1020">
          
+         
         <Page social="4">Jelena precisa de mim, mas não posso abandonar meus homens aqui. Quero que você vá ajudar meu camarada na cidade.&lt;BR&gt;&lt;BR&gt;Não me lembro quem é o responsável pelo grupo de subjugação avançada. Ah! Certo. Rendalf. Você deve falar com ele primeiro.</Page>
+    
     
     </Text>
     <Text huntingZoneId="225" id="3" prevId="2" villagerId="1027">
          
+         
         <Page social="4">Você é meu reforço? Desculpe-me pelo aviso em cima da hora, mas esses cultistas são mais fortes do que pensávamos. Apenas Elleon e Leander conseguiram avançar mais.&lt;BR&gt;&lt;BR&gt;Ficamos aqui para construir o acampamento. Estou esperando que algo pior aconteça.</Page>
+    
     
     </Text>
 </QuestDialog>

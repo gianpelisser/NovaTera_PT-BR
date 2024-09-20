@@ -1,84 +1,116 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="605" id="22" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="605" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="63" id="100" prevId="0" villagerId="3002">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="2" prevId="0" villagerId="3002">
          
+         
         <Page social="4">Você já se perguntou qual é a minha função aqui? Parece que tudo o que faço é mandá-lo para Elthienne e depois pagá-lo quando ela o manda de volta.&lt;BR&gt;&lt;BR&gt;Mas, eu tenho um trabalho, caramba, e vou cumpri-lo!&lt;BR&gt;&lt;BR&gt;Vá ver {@LinkCreature:63#3003#Elthienne}. Pronto. Pronto.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="3003">
          
+         
         <Page social="0">Já era hora de Taratia mandá-lo para cá. Aquela garota é tão preguiçosa! &lt;BR&gt;&lt;BR&gt;Esta é uma carreira de alta pressão. Se não for artesanato, é coleta de peças para artesanato.&lt;BR&gt;&lt;BR&gt;A propósito, hoje é artesanato. Entregue seu trabalho completo para {@LinkCreature:63#3001#Barian}.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="4" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="5" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="6" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="7" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="8" prevId="2" villagerId="3001">
          
+         
         <Page social="5">Obrigado, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} tem pagamento para você.&lt;BR&gt;&lt;BR&gt;Espero vê-lo novamente em breve!</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="9" villagerId="3001">
          
+         
         <Page social="0">Faça lingotes de norsteel e traga-os para mim assim que puder.&lt;BR&gt;&lt;BR&gt;Muito agradecido.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="10" prevId="8" villagerId="3001">
          
+         
         <Page social="5">Maravilhoso!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} lhe pagará.&lt;BR&gt;&lt;BR&gt;Ajude novamente na próxima vez!</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="11" villagerId="3001">
          
+         
         <Page social="0">Crie um pouco de astrosilex e me devolva. Cuidado com as cobras! &lt;BR&gt;&lt;BR&gt;Só estou brincando. Não há cobras em Velika. Mas você já estava indo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="12" prevId="10" villagerId="3001">
          
+         
         <Page social="5">Obrigado, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} tem pagamento para você.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="13" villagerId="3001">
          
+         
         <Page social="0">Faça um pouco de marleather e traga-o aqui.&lt;BR&gt;&lt;BR&gt;Muito obrigado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="14" prevId="12" villagerId="3001">
          
+         
         <Page social="5">Você se superou. Muito obrigado! &lt;BR&gt;&lt;BR&gt;Espero que {@LinkCreature:63#3002#Taratia} esteja lhe pagando o que você vale.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="15" villagerId="3001">
          
+         
         <Page social="0">Faça shetlacloth e entregue-o para mim.&lt;BR&gt;&lt;BR&gt;Obrigado, &lt;PCNAME&gt;. Nós não merecemos você!</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="16" prevId="14" villagerId="3002">
          
+         
         <Page social="4">{&lt;@LinkCreature:63#3001#Barian} me disse que ele está satisfeito com seu trabalho. De fato, todos nas Mãos de Velika apreciam seu serviço.&lt;BR&gt;&lt;BR&gt;Engraçado, ninguém nunca me diz como sou bom em mandar você ver as pessoas.&lt;BR&gt;&lt;BR&gt;Ah, bem. Vejo você por aí.</Page>
+    
     
     </Text>
 </QuestDialog>

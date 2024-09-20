@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="18" id="29" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="18" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="218" id="100" prevId="0" villagerId="1005">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="218" id="2" prevId="0" villagerId="1005">
          
+         
         <Page social="4">Preguiçosos! Cada um deles! Acho que eles saem de propósito para "cuidar dos arqueólogos". &lt;BR&gt;&lt;BR&gt;Francamente, espero que os arqueólogos sejam enterrados em ruínas. Para mim, será menos incômodo.&lt;BR&gt;&lt;BR&gt;Entretanto, os {@LinkCreature:18#10#sentinel} e {@LinkCreature:18#12#warblade golems} continuam aparecendo por toda parte. Livre-se deles e talvez eu considere a possibilidade de deixá-lo entrar para o nosso grupo permanentemente.</Page>
+    
     
     </Text>
     <Text huntingZoneId="218" id="3" prevId="2" villagerId="1005">
          
+         
         <Page social="4">Muito bem.&lt;BR&gt;&lt;BR&gt;Emprego em tempo integral? &lt;PCNAME&gt;, você deve saber que algumas pessoas lhe dirão o que for preciso para que o trabalho seja feito.&lt;BR&gt;&lt;BR&gt;Eu sou uma delas.</Page>
+    
     
     </Text>
 </QuestDialog>

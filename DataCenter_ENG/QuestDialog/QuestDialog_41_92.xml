@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="41" id="92" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="75" id="100" prevId="0" villagerId="1024">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1024">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="75" id="2" prevId="0" villagerId="1024">
-         
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1024">
         <Page social="0">The {@LinkCreature:41#4001#ravenous basilisks} in northern Feral Valley grow bolder with each passing day. Their attacks cost us lives we can't afford to spare.&lt;BR&gt;&lt;BR&gt;I want you to hunt them down and deliver proof of their deaths to Jeulile at Feral Valley Station.</Page>
-    
     </Text>
-    <Text huntingZoneId="241" id="3" prevId="2" villagerId="1005">
-         
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1005">
         <Page social="4">Seems your reputation's a well-deserved one. Here's your reward from the federation—you've earned it.</Page>
-    
     </Text>
-    <Text huntingZoneId="241" id="4" villagerId="1005">
-         
+    <Text id="4" huntingZoneId="241" villagerId="1005">
         <Page social="0">{@LinkCreature:41#4001#Ravenous basilisks} are a threat to everyone. The federation will pay well for their deaths.</Page>
-    
     </Text>
 </QuestDialog>

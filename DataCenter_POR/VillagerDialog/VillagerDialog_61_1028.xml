@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="61" id="1028" voiceTypeId="97">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1028" huntingZoneId="61" voiceTypeId="97">
     <Text huntingZoneId="61" id="1" endSocial="14" prevId="0" villagerId="1028">
          
+         
         <Page social="4">When Kysharia asks you if you're lonely, she isn't just making conversation, you know.</Page>
+    
     
     </Text>
 </VillagerDialog>

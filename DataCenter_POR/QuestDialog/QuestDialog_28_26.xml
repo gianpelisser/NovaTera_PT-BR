@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="26" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="28" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="228" id="100" prevId="0" villagerId="1016">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="228" id="2" prevId="0" villagerId="1016">
          
+         
         <Page social="5">A leste daqui, os espíritos são cruéis e agressivos. Os {@LinkCreature:28#1041#micanares corrompidos} e os {@LinkCreature:28#1031#passeadores desastrados} costumavam vigiar esses bosques.&lt;BR&gt;&lt;BR&gt;A corrupção os enlouqueceu e agora eles matam tudo o que acham que está se intrometendo. Você teria a nossa gratidão se conseguisse acabar com as fileiras deles.</Page>
+    
     
     </Text>
     <Text huntingZoneId="228" id="3" prevId="2" villagerId="1016">
          
+         
         <Page social="5">Meu povo não é covarde, mas também não é soldado. &lt;BR&gt;&lt;BR&gt;Seu serviço ajuda a todos nós. Muito obrigado.</Page>
+    
     
     </Text>
 </QuestDialog>

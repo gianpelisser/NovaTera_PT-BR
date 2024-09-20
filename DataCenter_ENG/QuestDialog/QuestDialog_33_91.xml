@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="33" id="91" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="73" id="100" prevId="0" villagerId="1009">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1009">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="73" id="2" prevId="0" villagerId="1009">
-         
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1009">
         <Page social="0">This place is lousy with ghosts and undead! All the spirits of the nobles and their servants who died when Thulsa's magic overran the place wander through the upper levels, attacking anyone who comes near.&lt;BR&gt;&lt;BR&gt;Much as I pity them, I can't have them killing my soldiers.&lt;BR&gt;&lt;BR&gt;Send the {@LinkCreature:33#3#vampir noblewomen}, {@LinkCreature:33#53#cursed vampir noblewomen}, {@LinkCreature:33#4#vampir gentlemen}, {@LinkCreature:33#54#cursed vampir gentlemen}, {@LinkCreature:33#5#cursed jesters}, {@LinkCreature:33#55#infernal jesters}, {@LinkCreature:33#6#malevolent wraiths}, and {@LinkCreature:33#7#eldritch defenders} on to their final reward.</Page>
-    
     </Text>
-    <Text huntingZoneId="233" id="3" prevId="2" villagerId="1002">
-         
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1002">
         <Page social="4">The ghosts may be gone, but none of us will forget their sad deaths.</Page>
-    
     </Text>
-    <Text huntingZoneId="233" id="4" villagerId="1002">
-         
+    <Text id="4" huntingZoneId="233" villagerId="1002">
         <Page social="0">No one likes to go out when the ghosts are wandering near.</Page>
-    
     </Text>
 </QuestDialog>

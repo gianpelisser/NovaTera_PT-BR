@@ -1,19 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="121" id="10" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="121" id="100" prevId="0" villagerId="9001">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="121" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="121" prevId="0" villagerId="9001">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="121" id="2" prevId="0" villagerId="9001">
-         
+    <Text id="2" huntingZoneId="121" prevId="0" villagerId="9001">
         <Page social="1">Iron Order members are infiltrating our territory in high numbers recently, and I want to know why.&lt;BR&gt;&lt;BR&gt;While we investigate that, though, we can't just let this go unpunished. You're to infiltrate their territory. Take out as many {@linkcreature:123#202#Darkquaver mugatos} and {@linkcreature:123#205#river ghilliedhus} as you can.&lt;BR&gt;&lt;BR&gt;They'll need those animals for noctenium research. But we're going to get to them first.</Page>
-    
     </Text>
-    <Text huntingZoneId="121" id="3" prevId="2" villagerId="9001">
-         
+    <Text id="3" huntingZoneId="121" prevId="2" villagerId="9001">
         <Page social="0">Good job. Keep an eye out, though. You never know what they're planning.</Page>
-    
     </Text>
 </QuestDialog>

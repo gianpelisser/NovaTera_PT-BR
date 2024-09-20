@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="203" id="1027" voiceTypeId="0">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1027" huntingZoneId="203" voiceTypeId="0">
     <Text huntingZoneId="203" id="1" endSocial="0" prevId="0" villagerId="1027">
          
+         
         <Page social="0">(This is the body of a young conscript, but it doesn't match the description you were given.)</Page>
+    
     
     </Text>
 </VillagerDialog>

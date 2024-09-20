@@ -1,18 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="18202001" string="Intercepted Transmission" />
-    <String id="18202002" string="&quot;Thanks!&quot;" />
-    <String id="18202003" string="&quot;Got it.&quot;" />
-    <String id="18202004" string="Speak with Zolyn." />
-    <String id="18202005" string="Temporary Cave Storage" />
-    <String id="18202006" string="Ask if anyone saw where the archdevan sorcerer went." />
-    <String id="18202007" string="Find the escaping archdevan sorcerer." />
-    <String id="18202008" string="&quot;Got it.&quot;" />
-    <String id="18202009" string="Find a witness." />
-    <String id="18202010" string="Thanks!" />
-    <String id="18202011" string="Ask at the west of the camp if anyone saw the archdevan sorcerer." />
-    <String id="18202012" string="Wait...what are you doing?" />
-    <String id="18202013" string="Head to the Skyshrine and confront the archdevan Sorcerer." />
-    <String id="18202014" string="&quot;Good idea.&quot;" />
-    <String id="18202015" string="Tell Dougal about the archdevan sorcerer." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="18201001" string="Barreling In" />
+    <String id="18201002" string="Investigate the suspicious barrel." />
+    <String id="18201003" string="Archdeva Listening Post" />
+    <String id="18201004" string="You hear voices coming from deeper inside the cave." />
+    <String id="18201005" string="Enter the Archdeva Listening Post by moving the {@LinkCreature:182#2029#suspicious barrel}." />
+    <String id="18201006" string="Kill Transformed Mihog." />
+    <String id="18201007" string="Archdeva Listening Post" />
+    <String id="18201008" string="Madat is waiting near the exit." />
+    <String id="18201009" string="Return to the exit." />
+    <String id="18201010" string="&quot;She left this way, then.&quot;" />
+    <String id="18201011" string="Ask Madat if he saw an archdeva." />
+    <String id="18201012" string="&quot;Got it.&quot;" />
+    <String id="18201013" string="Talk to Dougal." />
+    <String id="18201014" string="&quot;She can't have gotten far.&quot;" />
+    <String id="18201015" string="Ask Zolyn if the archdeva got away." />
 </StrSheet_Quest>

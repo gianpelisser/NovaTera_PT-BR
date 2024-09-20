@@ -1,19 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="415" id="16" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="415" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
-         
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
         <Page social="0">Go into the cave and find Elleon.&lt;BR&gt;&lt;BR&gt;The troops on the beach are safe—for now.</Page>
-    
     </Text>
-    <Text huntingZoneId="416" id="3" prevId="2" villagerId="5010">
-         
+    <Text id="3" huntingZoneId="416" prevId="2" villagerId="5010">
         <Page social="4">You're &lt;PCNAME&gt;, right? Your trainers back in Velika spoke highly of you.&lt;BR&gt;&lt;BR&gt;Let's hope they weren't just being polite. The cliff tops are crawling with demons, and we've already taken casualties.&lt;BR&gt;&lt;BR&gt;We could retreat, but that would just lure the demons down onto the beach, and they'd slaughter us.&lt;BR&gt;&lt;BR&gt;Instead, we advance! If we can win a battle or two up here, we can fool the demons into thinking we're a fighting force to be reckoned with. They can't press an advantage that they don't know they have!</Page>
-    
     </Text>
 </QuestDialog>

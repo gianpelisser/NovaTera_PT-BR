@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns="https://vezel.dev/novadrop/dc/StrSheet_Teleport" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="https://vezel.dev/novadrop/dc" elementFormDefault="qualified" targetNamespace="https://vezel.dev/novadrop/dc/StrSheet_Teleport" xsi:schemaLocation="https://vezel.dev/novadrop/dc ../DataCenter.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="StrSheet_Teleport">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="String" type="StrSheet_Teleport_String" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="StrSheet_Teleport" type="StrSheet_Teleport" />
+  <xs:complexType dc:keys="stringId" name="StrSheet_Teleport_String">
+    <xs:attribute name="string" type="xs:string" />
+    <xs:attribute name="stringId" type="xs:int" />
+  </xs:complexType>
+</xs:schema>

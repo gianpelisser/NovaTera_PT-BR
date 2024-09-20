@@ -1,7 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4923001" string="Time for the News" />
-    <String id="4923002" string="Thanks for talking with me, soldier." />
-    <String id="4923003" string="&quot;I appreciate the information. Thanks.&quot;" />
-    <String id="4923004" string="Deliver news to {@Rgn:76001}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4901001" string="Into the Heart of Darkness" />
+    <String id="4901002" string="&quot;Watch yourself.&quot;" />
+    <String id="4901003" string="[{@Rgn:48002$$Khanovar Citadel}] Speak with {@LinkCreature:248#2011$$Hasmina} about your mission." />
+    <String id="4901004" string="{@Rgn:76001$$Kanstria} Outskirts" />
+    <String id="4901005" string="You see {@creature:249#2013$$Hasmina} up ahead." />
+    <String id="4901006" string="[{@Rgn:49001$$Argonea}] Infiltrate {@Rgn:49001$$Argonea} and rendezvous with Hasmina." />
+    <String id="4901007" string="&quot;Let's find out.&quot;" />
+    <String id="4901008" string="[{@Rgn:49001$$Argonea}] Talk to {@LinkCreature:249#2013$$Hasmina}." />
+    <String id="4901009" string="&quot;Appreciate it.&quot;" />
+    <String id="4901010" string="[{@Rgn:76001$$Kanstria}] Venture into {@Rgn:76001$$Kanstria} and find out what happened." />
+    <String id="4901011" string="&quot;Of course I'll help.&quot;" />
+    <String id="4901012" string="[{@Rgn:76001$$Kanstria}] Report to {@LinkCreature:249#2002$$Magistrate Ceidos}." />
+    <String id="4901013" string="&quot;Be careful out there, Hasmina.&quot;" />
+    <String id="4901014" string="[{@Rgn:76001$$Kanstria}] Discuss the situation with {@LinkCreature:249#2003$$Hasmina}." />
+    <String id="4901015" string="{@Rgn:49004$$Melgatol Portal}" />
+    <String id="4901016" string="You've arrived at the {@Rgn:49004$$Melgatol Portal}." />
+    <String id="4901017" string="[{@Rgn:49004$$Melgatol Portal}] Meet {@LinkCreature:249#2005$$Hasmina} at the hill overlooking the {@Rgn:49004$$Melgatol Portal}." />
+    <String id="4901018" string="&quot;Right behind you.&quot;" />
+    <String id="4901019" string="Speak with {@LinkCreature:249#2005$$Hasmina}." />
+    <String id="4901020" string="{@Rgn:49004$$Blightroar} Platform" />
+    <String id="4901021" string="You've infiltrated the portal site. Speak with Hasmina." />
+    <String id="4901022" string="[{@Rgn:49004$$Melgatol Portal}] Scout out the Melgatol Portal." />
+    <String id="4901023" string="&quot;Good idea.&quot;" />
+    <String id="4901024" string="Speak with {@LinkCreature:249#2010$$Hasmina}." />
+    <String id="4901025" string="&quot;Please accept my condolences.&quot;" />
+    <String id="4901026" string="Search the slain Kanstrian scouts and recover their dog tags." />
+    <String id="4901027" string="Deliver the dog tags to {@LinkCreature:249#2002#Magistrate Ceidos}." />
+    <String id="4901028" string="&quot;For the federation!&quot;" />
+    <String id="4901029" string="[{@Rgn:76001$$Kanstria}] Speak with {@LinkCreature:249#2006$$Celtan} about his missing scouts." />
 </StrSheet_Quest>

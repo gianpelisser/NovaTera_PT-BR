@@ -1,23 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="60304001" string="Safári na Argonia" />
-    <String id="60304002" string="Quando digo limpar trilhas, quero dizer matar argonss." />
-    <String id="60304003" string="É um prazer observar seu trabalho!" />
-    <String id="60304004" string="" />
-    <String id="60304005" string="" />
-    <String id="60304006" string="" />
-    <String id="60304007" string="Vá para {@Rgn:50002$$Shroud Outpost} em {@Rgn:50001$$$Granarkus} e encontre {@LinkCreature:250#3001#Derik}." />
-    <String id="60304008" string="&quot;Será um prazer.&quot;" />
-    <String id="60304009" string="Esconderijo de argons" />
-    <String id="60304010" string="Caçar {@LinkCreature:50#5#athakela prowlers} em torno de {@Rgn:50002$$Shroud Outpost} e coletar suas peles." />
-    <String id="60304011" string="Traga as peles de argons para {@LinkCreature:250#3001#Derik}." />
-    <String id="60304012" string="&quot;Suponho que sim.&quot;" />
-    <String id="60304013" string="Esconderijo de argons" />
-    <String id="60304014" string="Cace {@LinkCreature:50#10#zomgul gatherers} em Granarkus e pegue suas peles." />
-    <String id="60304015" string="Traga as peles de argons para {@LinkCreature:250#3001#Derik}." />
-    <String id="60304016" string="&quot;Não, obrigado.&quot;" />
-    <String id="60304017" string="Esconderijo de argons" />
-    <String id="60304018" string="Cace {@LinkCreature:50#4#kalash devastators} ao norte de {@Rgn:50002$$Shroud Outpost} e esfole-os." />
-    <String id="60304019" string="Traga as peles de argons para {@LinkCreature:250#3001#Derik}." />
-    <String id="60304020" string="&quot;Muitos.&quot;" />
+    <String id="60302001" string="Caça a animais selvagens" />
+    <String id="60302002" string="Mate tudo o que você quiser. Eles se reproduzem como loucos!" />
+    <String id="60302003" string="Boa caçada!" />
+    <String id="60302004" string="" />
+    <String id="60302005" string="" />
+    <String id="60302006" string="" />
+    <String id="60302007" string="Encontre {@LinkCreature:76#3010#Beiran} no portão de {@Rgn:76001$$Kanstria}." />
+    <String id="60302008" string="&quot;Deseje-me sorte!&quot;" />
+    <String id="60302009" string="Elimine os {@LinkCreature:49#20#trabalhadores zariques} a leste do {@Rgn:49004$$Melgatol Portal}." />
+    <String id="60302010" string="Elimine {@LinkCreature:49#19#zariik spodas} perto da {@Rgn:49005$$Kassian Tree}." />
+    <String id="60302011" string="Elimine {@LinkCreature:49#15#yusul slashers} a sudeste da {@Rgn:49005$$Kassian Tree}." />
+    <String id="60302012" string="&quot;Muito estranho.&quot;" />
+    <String id="60302013" string="Apresente-se a {@LinkCreature:76#3010#Beiran} no portão de {@Rgn:76001$$Kanstria}." />
 </StrSheet_Quest>

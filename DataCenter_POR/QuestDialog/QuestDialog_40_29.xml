@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="40" id="29" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="40" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="75" id="100" prevId="0" villagerId="1007">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="75" id="2" prevId="0" villagerId="1007">
          
+         
         <Page social="4">Temos batedores perto da Vila destruída. Eles relataram que estranhos estão montando acampamento lá. A esta altura, eles já devem saber mais sobre eles, mas não será surpresa descobrir que se trata da Legião de Thulsa.</Page>
+    
     
     </Text>
     <Text huntingZoneId="240" id="3" prevId="2" villagerId="1007">
          
+         
         <Page social="4">Nunca ouvi falar da Legião de Thulsa, mas há algumas pessoas muito estranhas acampadas naquele lugar. Se eu fosse você, não chegaria nem perto delas.</Page>
+    
     
     </Text>
 </QuestDialog>

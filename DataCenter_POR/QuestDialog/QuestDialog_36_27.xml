@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="36" id="27" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="36" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="236" id="100" prevId="0" villagerId="1004">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="236" id="2" prevId="0" villagerId="1004">
          
+         
         <Page social="18">Melrasa precisa saber tudo o que aconteceu aqui. Ela está no Posto Avançado de Manafire. &lt;BR&gt;&lt;BR&gt;Relatórios recentes afirmam que o local está cercado pelos servos de Killian, portanto, você precisa ser cuidadoso. Provavelmente terá de eliminar alguns deles para poder passar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="236" id="3" prevId="2" villagerId="1014">
          
+         
         <Page social="14">Ei, você conseguiu passar! Isso é fantástico - você abriu um caminho para nós. Isso torna as coisas muito mais fáceis.&lt;BR&gt;&lt;BR&gt;Então, o que o traz aqui? Ah, Melrasa? &lt;BR&gt;&lt;BR&gt;Ela está bem no alto daquelas escadas, na esquina.</Page>
+    
     
     </Text>
     <Text huntingZoneId="236" id="4" prevId="3" villagerId="1023">
          
+         
         <Page social="12">Killian fez uma lavagem cerebral nos líderes de Tenebrara?&lt;BR&gt;&lt;BR&gt;Isso não parece promissor.</Page>
+    
     
     </Text>
 </QuestDialog>

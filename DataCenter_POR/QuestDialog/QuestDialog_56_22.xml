@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="56" id="22" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="56" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="256" id="100" prevId="0" villagerId="1016">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="256" id="2" prevId="0" villagerId="1016">
          
+         
         <Page social="4">Por favor! Oh, por todos os deuses! Minha esposa estava bem atrás de mim! &lt;BR&gt;&lt;BR&gt;Os kulkari queimaram nossa fazenda. Há duas noites estamos correndo e nos escondendo.&lt;BR&gt;&lt;BR&gt;Estávamos quase chegando quando os destruidores-&lt;BR&gt;&lt;BR&gt;Eu sei que ela está viva! Foi há poucos minutos! &lt;BR&gt;&lt;BR&gt;Mata os destruidores! Tragam-na de volta! Por favor, ela é tudo que eu tenho!</Page>
+    
     
     </Text>
     <Text huntingZoneId="256" id="3" prevId="2" villagerId="1016">
          
+         
         <Page social="4">Veora?&lt;BR&gt;&lt;BR&gt;Onde ela está?! Você tem que tê-la encontrado! Só se passaram alguns minutos!&lt;BR&gt;&lt;BR&gt;Não pode voltar atrás? Ela deve estar lá, ela deve estar!&lt;BR&gt;&lt;BR&gt;Veora!!!!</Page>
+    
     
     </Text>
 </QuestDialog>

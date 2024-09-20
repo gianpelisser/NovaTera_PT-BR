@@ -1,19 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="47" id="28" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="247" id="100" prevId="0" villagerId="1004">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="47" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="247" prevId="0" villagerId="1004">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="247" id="2" prevId="0" villagerId="1004">
-         
+    <Text id="2" huntingZoneId="247" prevId="0" villagerId="1004">
         <Page social="4">You've seen what the argons left behind–half-transformed horrors out of some nightmare. South of here is an old argon post full of half-argon wendigos. I'd appreciate if you'd cut them down to size.</Page>
-    
     </Text>
-    <Text huntingZoneId="247" id="3" prevId="2" villagerId="1004">
-         
+    <Text id="3" huntingZoneId="247" prevId="2" villagerId="1004">
         <Page social="4">Thanks, &lt;PCNAME&gt;. I'll send someone in to clean up what's left.</Page>
-    
     </Text>
 </QuestDialog>

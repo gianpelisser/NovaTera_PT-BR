@@ -1,49 +1,67 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="191" id="12" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="191" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="191" id="100" prevId="0" villagerId="2130">
          
+         
         <Page social="0">Encurralado, Dakuryon prendeu &lt;PCNAME&gt; e seus aliados com toda a sua força. Mas Rhodos o derrotou com sua força de vontade. Ferido, Dakuryon fugiu, e &lt;PCNAME&gt; voltou para Highwatch com Verikam. Dougal pediu que o Cruzador Celestial Intrepid fosse para Velika a fim de perseguir Dakuryon, e Rhodos jurou que caçaria Dakuryon até o fim do mundo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="191" id="2" prevId="0" villagerId="2130">
          
+         
         <Page social="4">Salvaremos Verikam e mataremos Dakuryon. Usarei a cabeça dele como penico por uma semana! &lt;BR&gt;&lt;BR&gt;Está pronto, &lt;PCNAME&gt;? Vamos lá!</Page>
+    
     
     </Text>
     <Text huntingZoneId="191" id="3" villagerId="12">
          
+         
         <Page social="0">É muito maior do que eu esperava. O que os arquidevas estão fazendo? &lt;BR&gt;&lt;BR&gt;Não importa. Podemos interrogar os sobreviventes depois de matarmos Dakuryon.</Page>
+    
     
     </Text>
     <Text huntingZoneId="826" id="4" prevId="2" villagerId="1001">
          
+         
         <Page social="4">Dakuryon! Seu tempo acabou!</Page>
+    
     
     </Text>
     <Text huntingZoneId="826" id="5" prevId="4" villagerId="1002">
          
+         
         <Page social="4">Sua magia minou grande parte de minha força, mas logo recuperarei minha vitalidade total. Foi preciso muita coragem para enfrentar Dakuryon.</Page>
+    
     
     </Text>
     <Text huntingZoneId="826" id="6" prevId="5" villagerId="1004">
          
+         
         <Page social="4">Não acredito que ele escapou! Bah! &lt;BR&gt;&lt;BR&gt;Escortem Verikam de volta para Highwatch. Com esse resgate, vamos obter o apoio dos barakas, de que precisaremos para lidar com os arquidevas de uma vez por todas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="183" id="7" prevId="6" villagerId="1014">
          
+         
         <Page social="4">Seus esforços incansáveis atrapalharam muito os planos de Dakuryon e salvaram Verikam. Permita-nos expressar nossa gratidão. A Highwatch está ao lado da Federação Valkyon e da Khiria contra os arquidevas.&lt;BR&gt;&lt;BR&gt;Nossos caminhos se cruzarão novamente no futuro, mas, por enquanto, seu Legado Dougal deseja falar com você.</Page>
+    
     
     </Text>
     <Text huntingZoneId="183" id="8" prevId="7" villagerId="1021">
          
+         
         <Page social="4">Muito bem, &lt;PCNAME&gt;. Perder Zolyn e Paesyn é muito triste, mas você salvou Verikam e deteve Dakuryon por enquanto.&lt;BR&gt;&lt;BR&gt;Eu mandei avisar a Velika que precisamos de reforços. Eles estão enviando o cruzador do céu Victory com mais soldados.&lt;BR&gt;&lt;BR&gt;Mais uma vez, temos uma grande dívida com você.</Page>
+    
     
     </Text>
     <Text huntingZoneId="183" id="9" prevId="8" villagerId="4108">
          
+         
         <Page social="4">A Khiria não descansará até que Dakuryon pague por seus crimes, &lt;PCNAME&gt;. Eu lhe dou minha palavra de que o veremos ser derrubado e os arquidevas derrotados.</Page>
+    
     
     </Text>
 </QuestDialog>

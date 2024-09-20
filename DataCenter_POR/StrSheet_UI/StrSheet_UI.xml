@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_UI xmlns="https://vezel.dev/novadrop/dc/StrSheet_UI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_UI StrSheet_UI.xsd">
     <String string="Habilidades" stringId="$001001" />
     <String string="Habilidades ampliadas" stringId="$001002" />
@@ -139,6 +139,22 @@
     <String string="{point} pontos." stringId="$007028" />
     <String string="%" stringId="$007029" />
     <String string="Efeito:" stringId="$007030" />
+    <String string="Laurels reflect your recent achievements.&lt;BR&gt;The scoring system adjusts each season." stringId="$007031" />
+    <String string="Earn more achievements to improve your laurel!" stringId="$007032" />
+    <String string="Seasonal adjustments may earn you different laurels for the same activities." stringId="$007033" />
+    <String string="History" stringId="$007034" />
+    <String string="" stringId="$007035" />
+    <String string="Bronze" stringId="$007036" />
+    <String string="Silver" stringId="$007037" />
+    <String string="Gold" stringId="$007038" />
+    <String string="Diamond" stringId="$007039" />
+    <String string="Champion" stringId="$007040" />
+    <String string="[Champion]" stringId="$007041" />
+    <String string="[Bronze]" stringId="$007042" />
+    <String string="[Silver]" stringId="$007043" />
+    <String string="[Gold]" stringId="$007044" />
+    <String string="[Diamond]" stringId="$007045" />
+    <String string=" laurel with more achievement points: " stringId="$007046" />
     <String string="Ferramenta de operação no jogo" stringId="$008001" />
     <String string="Funções de consulta/resposta" stringId="$008002" />
     <String string="Nome do personagem" stringId="$008003" />
@@ -320,6 +336,7 @@
     <String string="Conta de jogo gratuita:" stringId="$012041" />
     <String string="Tempo até a exclusão:" stringId="$012042" />
     <String string="Será excluído:" stringId="$012043" />
+    <String string="Achievement Points" stringId="$012044" />
     <String string="Humanos" stringId="$013001" />
     <String string="Castanic" stringId="$013002" />
     <String string="Aman" stringId="$013003" />
@@ -478,6 +495,17 @@
     <String string="Retornar à voz original" stringId="$013156" />
     <String string="Confirmar mudança de voz" stringId="$013157" />
     <String string="" stringId="$013158" />
+    <String string="Gunner" stringId="$013159" />
+    <String string="Create a Gunner" stringId="$013160" />
+    <String string="Burst DPS, Ranged, Metal Armor" stringId="$013161" />
+    <String string="Gunners use a combination of gadgetry and skill to bring ranged power to the front lines. In addition to their formidable arcannons, gunners can summon constructs with a variety of uses." stringId="$013162" />
+    <String string="[Player Skill Required&lt;img src='starImg'&gt;&lt;img src='starImg'&gt;&lt;img src='starImg'&gt;/Attack Abilities&lt;img src='starImg'&gt;&lt;img src='starImg'&gt;&lt;img src='starImg'&gt;&lt;img src='starImg'&gt;&lt;img src='starImg'&gt;/Regenerative Abilities&lt;img src='starImg'&gt;/Class Features" stringId="$013163" />
+    <String string="&lt;font color='#FFFFFF'&gt;Scattershot&lt;/font&gt;&lt;br&gt;Fires a lethal spread of projectiles." stringId="$013164" />
+    <String string="&lt;font color='#FFFFFF'&gt;Burst Fire&lt;/font&gt;&lt;br&gt;Focuses the gunner's Willpower in an escalating cascade of damage." stringId="$013165" />
+    <String string="&lt;font color='#FFFFFF'&gt;Arcane Barrage&lt;/font&gt;&lt;br&gt;Damages all enemies in a line, then detonates for massive critical damage. Skill enhanced by a summoned construct." stringId="$013166" />
+    <String string="Only an elin can be a reaper, and the account must have an existing character of level 40 or higher. " stringId="$013167" />
+    <String string="Only high elf and castanic females can be gunners." stringId="$013168" />
+    <String string="The character level-up support event is active!" stringId="$013169" />
     <String string="Voltar" stringId="$014001" />
     <String string="Pausa" stringId="$014002" />
     <String string="Continuar" stringId="$014003" />
@@ -772,6 +800,7 @@
     <String string="&lt;font color='#3FCBE4'&gt;Fusão de cristais&lt;/font&gt;&lt;br&gt;Combine cristais finos para obter outros cristais finos ou excelentes." stringId="$051011" />
     <String string="&lt;font color='#3FCBE4'&gt;Encantamento&lt;/font&gt;&lt;br&gt;Abra a janela de encantamento para adicionar bônus ao seu equipamento." stringId="$051012" />
     <String string="Alterar bônus de encantamento" stringId="$051013" />
+    <String string="CN Circulated Gold Tooltip" stringId="$051014" />
     <String string="Banco" stringId="$061001" />
     <String string="Banqueiro" stringId="$061002" />
     <String string="Organizar" stringId="$061003" />
@@ -864,6 +893,9 @@
     <String string="Ver todas as habilidades" stringId="$082048" />
     <String string="Visão básica" stringId="$082049" />
     <String string="Visão combinada" stringId="$082050" />
+    <String string="Set a greeting msessage" stringId="$082051" />
+    <String string="&lt;font color='#80e71c'&gt;[Click to obtain]&lt;/font&gt;" stringId="$082052" />
+    <String string="&lt;font color='#80e71c'&gt;[Click to upgrade]&lt;/font&gt;" stringId="$082053" />
     <String string="Habilidade de gatilho em cadeia" stringId="$083001" />
     <String string="Exibição somente em combate" stringId="$083002" />
     <String string="Tempo de exibição" stringId="$083003" />
@@ -958,6 +990,8 @@
     <String string="[Distintivo de vanguarda]&lt;br&gt;Com essa tarefa, você ganha um distintivo de vanguarda." stringId="$094018" />
     <String string="Distintivos de vanguarda restantes" stringId="$094019" />
     <String string="Recompensa recebida" stringId="$094020" />
+    <String string="Recover Production Points" stringId="$094021" />
+    <String string="Check Quest" stringId="$094022" />
     <String string="Aumento da borda" stringId="$101000" />
     <String string="Custo de MP" stringId="$101001" />
     <String string="Custo de HP" stringId="$101002" />
@@ -1535,6 +1569,7 @@
     <String string="GvG K/D" stringId="$123087" />
     <String string="Você pode declarar batalha de guilda quando atender às seguintes condições.&lt;BR&gt;* Você pode declarar até 3 batalhas de guilda ao mesmo tempo.&lt;BR&gt;* Você deve ter mais de 1 ficha de tática para declarar batalha de guilda." stringId="$123088" />
     <String string="Classificação {rank}&lt;BR&gt;Diferentes quantidades de pontuação na competição da guilda serão concedidas de acordo com a classificação da sua guilda." stringId="$123089" />
+    <String string="Teleport to a guild member who is engaged in battle.&lt;BR&gt;You may not use this skill while you are battling an opponent guild member." stringId="$123090" />
     <String string="Nível da guilda" stringId="$124001" />
     <String string="Guilda" stringId="$124002" />
     <String string="Nível atual:" stringId="$124003" />
@@ -1628,7 +1663,7 @@
     <String string="Equipar" stringId="$128014" />
     <String string="Finalizar edição" stringId="$128015" />
     <String string="Aplicar" stringId="$128016" />
-    <String string="Castelo Flutuante: [{guildName}]" stringId="$128017" />
+    <String string="Sky Castle: [{guildName}]" stringId="$128017" />
     <String string="(Rank {rank})" stringId="$128018" />
     <String string="Equipar" stringId="$128019" />
     <String string="De propriedade" stringId="$128020" />
@@ -1645,11 +1680,13 @@
     <String string="Girar horizontalmente" stringId="$128031" />
     <String string="Girar verticalmente" stringId="$128032" />
     <String string="Peça escolhida:" stringId="$128033" />
+    <String string="You can't build features you don't own." stringId="$128034" />
+    <String string="No features built or being previewed." stringId="$128035" />
+    <String string="Preview disabled. Please select a feature to preview." stringId="$128036" />
     <String string="Batalha de guilda GvG!" stringId="$129001" />
     <String string="Vitória do GvG!" stringId="$129002" />
     <String string="Perda do GvG." stringId="$129003" />
     <String string="GvG foi um empate." stringId="$129004" />
-    <String stringId="$129005" />
     <String string="Registro de comércio recente" stringId="$131001" />
     <String string="Negociado" stringId="$131002" />
     <String string="Negociado com" stringId="$131003" />
@@ -1847,6 +1884,12 @@
     <String string="Quantidade de Alkahest: &lt;font color='#FFCC00'&gt;10 mais o nível do item&lt;/font&gt; por tentativa de encantamento." stringId="$155062" />
     <String string="Cancelar o despertar" stringId="$155063" />
     <String string="Cancelar Encantamento Despertado" stringId="$155064" />
+    <String string="Feedstock of the same tier is needed for Awakening.&lt;br&gt;&lt;font color='#ff0000'&gt;Feedstock will not be returned upon dismantling.&lt;/font&gt;" stringId="$155065" />
+    <String string="&lt;font color='#4ecd30'&gt;Masterwork Alkahests&lt;/font&gt; or &lt;font color='#00aeef'&gt;Premium or Extensive Alkahests&lt;/font&gt; are needed for Awakening. &lt;br&gt;&lt;font color='#FFCC00'&gt;The higher the quality of the alkahests, the fewer you need.&lt;/font&gt;" stringId="$155066" />
+    <String string="&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font size='25' color='#FFCC00'&gt;Gear can be Awakened." stringId="$155067" />
+    <String string="Masterwork Gear Info" stringId="$155068" />
+    <String string=" required." stringId="$155069" />
+    <String string=" (where you get them.)" stringId="$155070" />
     <String string="Incubadora" stringId="$161001" />
     <String string="Nível de habilidade de incubação" stringId="$161002" />
     <String string="Slot de incubadora disponível" stringId="$161003" />
@@ -2111,6 +2154,7 @@
     <String string="Status da entrega" stringId="$202018" />
     <String string="Você não pode excluir postagens que contenham itens não reclamados." stringId="$202019" />
     <String string="Data de exclusão" stringId="$202020" />
+    <String string="Collect All" stringId="$202021" />
     <String string="Coloque um item dentro e arrisque-se!" stringId="$211001" />
     <String string="Ligue seu motor. Você receberá um novo item ou perderá o antigo." stringId="$211002" />
     <String string="Vroom!" stringId="$211003" />
@@ -2592,6 +2636,11 @@
     <String string="Sempre ficar com o cabelo amarrado" stringId="$231298" />
     <String string="Exibir sua HP" stringId="$231299" />
     <String string="Limite máximo de alcance da câmera" stringId="$231300" />
+    <String string="Display boss monster's attack range" stringId="$231301" />
+    <String string="Display monster's attack range" stringId="$231302" />
+    <String string="Show Main Menu only in UI Mode" stringId="$231303" />
+    <String string="Gamepad Setup" stringId="$231304" />
+    <String string="Turn off automatic gamepad detection" stringId="$231305" />
     <String string="AP" stringId="$235000" />
     <String string="Mapa do mundo" stringId="$241001" />
     <String string="Mapa do campo de batalha" stringId="$241002" />
@@ -2896,6 +2945,13 @@
     <String string="" stringId="$272012" />
     <String string="item(ns)" stringId="$272013" />
     <String string="Ponto do concurso" stringId="$272014" />
+    <String string="Special Achievements do not count toward laurels." stringId="$272015" />
+    <String string="Crusade score excludes special achievements: {Score}" stringId="$272016" />
+    <String string="{Name}'s score: {CompareScore}\nMy score: {TotalScore}" stringId="$272017" />
+    <String string="See More" stringId="$272018" />
+    <String stringId="$272019" />
+    <String stringId="$272020" />
+    <String stringId="$272021" />
     <String string="Grupo de batalha" stringId="$273001" />
     <String string="Fila de espera para a batalha" stringId="$273002" />
     <String string="Convite" stringId="$273003" />
@@ -3301,6 +3357,7 @@
     <String string="Comprar agora Preço" stringId="$321158" />
     <String string="Benefícios do prêmio" stringId="$321159" />
     <String string="Data de expiração (M/D/A):" stringId="$321160" />
+    <String string="Awakened" stringId="$321161" />
     <String string="(Proficiência recomendada: {Prof})" stringId="$321999" />
     <String string="Negociação" stringId="$322001" />
     <String string="Faça uma oferta." stringId="$322002" />
@@ -3689,6 +3746,7 @@
     <String string="Usos:" stringId="$463007" />
     <String string="[TERA] Informações atualizadas" stringId="$464001" />
     <String string="Veja as últimas notícias no Menu principal &gt; Menu do sistema &gt; Mensagem de boas-vindas." stringId="$464002" />
+    <String string="Press [ESC] to close the window." stringId="$464003" />
     <String string="Visão geral" stringId="$470001" />
     <String string="Minha aliança" stringId="$470002" />
     <String string="Classificação" stringId="$470003" />
@@ -4072,6 +4130,7 @@
     <String string="Bônus de infusão de Pet idêntico" stringId="$620018" />
     <String string="Alterar nome" stringId="$620019" />
     <String string="Tarifa" stringId="$620020" />
+    <String string="Help" stringId="$620021" />
     <String string="Custo de pontos: {Point} Pontos" stringId="$630000" />
     <String string="Empilhável" stringId="$630001" />
     <String string="Não empilhável" stringId="$630002" />
@@ -4106,6 +4165,26 @@
     <String string="Clique com o botão direito do mouse em três cristais para fundir." stringId="$650008" />
     <String string="Atualização do Crystal!" stringId="$650009" />
     <String string="Excelente!" stringId="$650010" />
+    <String string="Combine" stringId="$660001" />
+    <String string="Close" stringId="$660002" />
+    <String string="Combination" stringId="$660003" />
+    <String string="Check your items in your inventory." stringId="$660004" />
+    <String string="Ранг" stringId="$700000" />
+    <String string="Имя" stringId="$700001" />
+    <String string="Класс" stringId="$700002" />
+    <String string="Убийств/Смертей/Помощь" stringId="$700003" />
+    <String string="Общий счет" stringId="$700004" />
+    <String string="Очки доблести Белликариума" stringId="$700005" />
+    <String string="Очки доблести Душегубов" stringId="$700006" />
+    <String string="Личный рейтинг" stringId="$700007" />
+    <String string="Ранг" stringId="$700008" />
+    <String string="Время битвы" stringId="$700009" />
+    <String string="Время до выхода с арены" stringId="$700010" />
+    <String string="Покинуть арену" stringId="$700011" />
+    <String string="Убийств" stringId="$700012" />
+    <String string="Смертей" stringId="$700013" />
+    <String string="Обзор" stringId="$700014" />
+    <String string="Рейтинг в реальном времени" stringId="$700015" />
     <String string="Estrutura óssea" stringId="$901000" />
     <String string="Olhos" stringId="$901001" />
     <String string="Nariz" stringId="$901002" />
@@ -4210,6 +4289,7 @@
     <String string="Abertura da Boca" stringId="$921310" />
     <String string="apertado" stringId="$921311" />
     <String string="aberto" stringId="$921312" />
+    <String string="Willpower" stringId="$921313" />
     <String string="Reservado" stringId="$922000" />
     <String string="Reservado" stringId="$922001" />
     <String string="Reservado" stringId="$922002" />

@@ -1,36 +1,49 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="87" id="7" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="87" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="87" id="100" prevId="0" villagerId="1010">
          
+         
         <Page social="0">&lt;img src='img://__Quest_Mission.870701'/&gt;&lt;BR&gt;Você localizou e derrotou o líder orcano, Capitão Rahto. Você entregou o coração vermelho de Rahto a Arin, para ser completamente destruído.</Page>
+    
     
     </Text>
     <Text huntingZoneId="87" id="2" prevId="0" villagerId="1010">
          
+         
         <Page social="4">&lt;img src='img://__Quest_Mission.870701'/&gt;&lt;BR&gt;Acabei de ver um orcan gigante subindo a colina a oeste, e um dos nossos o seguindo! &lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, aquele orcan grande deve ser o Rahto que você está procurando. Mas ele não é o único orcano nessa área, então você terá que lutar para passar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="87" id="3" prevId="2" villagerId="1029">
          
+         
         <Page social="4">Oh, &lt;PCNAME&gt;, é você.&lt;BR&gt;&lt;BR&gt;Eu...eu acho que falhei. Não era o Rahto.&lt;BR&gt;&lt;BR&gt;Joguei tudo o que tinha nele, e nem era o Rahto! Agora não me resta mais nada para a luta de verdade!&lt;BR&gt;&lt;BR&gt;Desgraçado! Eu realmente queria derrotar Rahto com minhas próprias mãos... &lt;NEXTPAGEBUTTON&gt;&amp;quot;Você tentou o seu melhor.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Eu... agradeço.&lt;BR&gt;&lt;BR&gt;O fato é que agora sei com certeza onde Rahto está. Se você seguir esta estrada pela colina, encontrará um batedor popori chamado Belgun. Rahto está logo depois de Belgun!&lt;BR&gt;&lt;BR&gt;Ouça-me, &lt;PCNAME&gt;! Sei que o tenho tratado como um novato, mas já vi o que você pode fazer. Você tem o que é preciso para deter Rahto.&lt;BR&gt;&lt;BR&gt;Por favor, você é nossa única chance. Derrote Rahto e restaure a paz em Pora Elinu!</Page>
+    
     
     </Text>
     <Text huntingZoneId="87" id="4" prevId="3" villagerId="1012">
          
+         
         <Page social="4">Pobre Mirvan. Ela realmente investiu tudo o que tinha na batalha contra Rahto - e nem mesmo era ele.&lt;BR&gt;&lt;BR&gt;Se eu conheço os orcs, Rahto provavelmente está escondido entre os soldados rasos.&lt;BR&gt;&lt;BR&gt;Mas não basta apenas matá-lo; você tem que recuperar a pedra que ele comeu - a fonte de seu poder. Se você não destruir essa pedra, ela acabará nas mãos de outra pessoa - bem, engolindo - e tudo isso acontecerá novamente, em outro lugar.&lt;BR&gt;&lt;BR&gt;Se você conseguir matar Rahto e levar a pedra de volta para a Princesa Arin, ela poderá cuidar do resto. Boa sorte!</Page>
+    
     
     </Text>
     <Text huntingZoneId="87" id="5" prevId="4" villagerId="1030">
          
+         
         <Page social="4">Então, essa é a fonte do poder de Rahto? Não mais. Pora Elinu voltará a ser um paraíso - eu juro! &lt;BR&gt;&lt;BR&gt;Não sei como lhe agradecer, &lt;PCNAME&gt;... Parece um gesto tão pequeno, comparado ao que você fez por nós, mas, por favor, aceite este sinal de nossa gratidão por salvar Pora Elinu.</Page>
+    
     
     </Text>
     <Text huntingZoneId="87" id="6" villagerId="1030">
          
+         
         <Page social="0">Você deve derrotar Rahto para salvar Pora Elinu.</Page>
+    
     
     </Text>
 </QuestDialog>

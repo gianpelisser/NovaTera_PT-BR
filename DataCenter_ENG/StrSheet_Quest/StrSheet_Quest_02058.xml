@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="48922001" string="The Quality Is Superb" />
-    <String id="48922002" string="Don't you want to know what kind of secret weapons the cultists have?" />
-    <String id="48922003" string="These weapons have a mysterious power..." />
-    <String id="48922004" string="&quot;For the federation!&quot;" />
-    <String id="48922005" string="Collect the cultist weapons that are in the Cultists' Refuge.&lt;BR&gt;(Only normal mode will advance quests.)" />
-    <String id="48922006" string="Deliver cultist weapons to Nullu." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="48893001" string="Cultists in the Manor" />
+    <String id="48893002" string="Lokian Token" />
+    <String id="48893003" string="&quot;For the federation!&quot;" />
+    <String id="48893004" string="Eliminate Lokians in the Sinestral Manor and collect their tokens.&lt;BR&gt;(Only normal mode will advance quests.)" />
+    <String id="48893005" string="Report to Segodun at the Secret Entrance to the Manor." />
 </StrSheet_Quest>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="32" id="34" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="32" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="232" id="100" prevId="0" villagerId="1004">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="232" id="2" prevId="0" villagerId="1004">
          
+         
         <Page social="4">As armas podem não ter funcionado, mas, desta vez, tenho um plano infalível para conquistar o coração de Nascha! &lt;BR&gt;&lt;BR&gt;Kaidun premia seus oficiais mais fortes e ferozes com insígnias especiais de patente. Nashwa não poderia recusar um prêmio desses! Você poderia obtê-las dos {@LinkCreature:32#15#Sihran loyalists} para mim? Eu iria... mas... você já provou que pode lidar com esse tipo de coisa.</Page>
+    
     
     </Text>
     <Text huntingZoneId="232" id="3" prevId="2" villagerId="1004">
          
+         
         <Page social="4">Nashwa certamente se apaixonará por mim quando eu levar isso para ela! Não tenho como lhe agradecer o suficiente, mas essa recompensa já é um começo!</Page>
+    
     
     </Text>
     <Text huntingZoneId="232" id="4" villagerId="1004">
          
+         
         <Page social="0">Tudo o que eu preciso são as insígnias de patente usadas pelos {@LinkCreature:32#15#Sihran loyalists} e Nashwa verá que eu me importo com ela. Certo?</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="480001" string="(Vanarch) Suppression Orders: Dark Alliance" />
-    <String id="480002" string="Proof of Kill: Alliance Deaths" />
-    <String id="480003" string="&quot;For the federation!&quot;" />
-    <String id="480004" string="Kill tyraks, shurian mindbenders, and their thralls." />
-    <String id="480005" string="Report to Tifane at Firebase Valor." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="475001" string="(Guild) Suppression Orders: Tempest Kanash" />
+    <String id="475002" string="Proof of Kill: Tempest's Death" />
+    <String id="475003" string="&quot;For the federation!&quot;" />
+    <String id="475004" string="Kill Tempest Kanash in Fyrmount." />
+    <String id="475005" string="Report to Tifane at Firebase Valor." />
 </StrSheet_Quest>

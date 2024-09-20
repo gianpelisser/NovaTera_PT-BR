@@ -1,43 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="20" id="1" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
         <Page social="0">Goddess Velik, the guardian deity of Velika, wished to see you. You answered Priestess Ciebel's short questions, then were granted an audience with Velik. She warned you of a hidden threat to Velika and asked for your aid.</Page>
-    
     </Text>
-    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
-         
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
         <Page social="0">Mission Orders&lt;BR&gt;&lt;BR&gt;Return to Velika at once and report to General Samael. All other orders are rescinded.</Page>
-    
     </Text>
-    <Text huntingZoneId="63" id="3" prevId="2" villagerId="1137">
-         
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1137">
         <Page social="4">Ah, &lt;PCNAME&gt;. It seems that Velik herself would like to reward you for the work you've done here.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#1167#Velik's Priestess Ciebel} is waiting for you near the idol of the goddess. I suggest you not keep her waiting.</Page>
-    
     </Text>
-    <Text huntingZoneId="63" id="4" prevId="3" villagerId="1167">
-         
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1167">
         <Page social="4">&lt;PCNAME&gt;, at last. What sort of soldier are you? Velik is seeking soldiers who are capable of more than simple obedience to orders. The Valkyon Federation needs champions—more than it might realize.&lt;BR&gt;&lt;BR&gt;Are you a dutiful follower or an independent thinker?&lt;NEXTPAGEBUTTON&gt;"A dutiful thinker."&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="4">Excellent answer! Well said.&lt;BR&gt;&lt;BR&gt;There is, perhaps, a deeper need for those such as yourself than any realize just yet. Our world is coming to a turning point. How will the Dream take shape?&lt;BR&gt;&lt;BR&gt;It will be soldiers like you who shall decide.&lt;BR&gt;&lt;BR&gt;Thank you, &lt;PCNAME&gt;. A most pleasant chat.&lt;BR&gt;&lt;BR&gt;Velik will see you now.</Page>
-    
     </Text>
-    <Text huntingZoneId="409" id="5" prevId="4" villagerId="1001">
-         
+    <Text id="5" huntingZoneId="409" prevId="4" villagerId="1001">
         <Page social="4">We meet at last, &lt;PCNAME&gt;. I've watched your brief, but illustrious, career. You've served with courage, honor, and, most importantly, compassion.&lt;BR&gt;&lt;BR&gt;I have need of soldiers like you.</Page>
-    
     </Text>
-    <Text huntingZoneId="63" id="6" prevId="5" villagerId="1167">
-         
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1167">
         <Page social="4">You've returned. Remember what the goddess said to you. You must defend the city—and the Dream itself.&lt;BR&gt;&lt;BR&gt;Return now to Samael. Farewell.</Page>
-    
     </Text>
-    <Text huntingZoneId="63" id="7" prevId="6" villagerId="1137">
-         
+    <Text id="7" huntingZoneId="63" prevId="6" villagerId="1137">
         <Page social="4">Have you met the goddess?&lt;NEXTPAGEBUTTON&gt;"I have."&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="4">You should be humbled. She doesn't meet with just anyone, you know.&lt;BR&gt;&lt;BR&gt;She must see something special in you.&lt;BR&gt;&lt;BR&gt;I wonder what. Hah!</Page>
-    
     </Text>
 </QuestDialog>

@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="5122001" string="Evening the Score" />
-    <String id="5122002" string="I can't just leave my people out there." />
-    <String id="5122003" string="Rest well, brothers and sisters. Your duty is done." />
-    <String id="5122004" string="Eliminate the dominated wendigo ragers and warlords west of Icebase Defiance." />
-    <String id="5122005" string="&quot;Honored to be of service.&quot;" />
-    <String id="5122006" string="Report back to Roland." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="5083001" string="Suppression Orders: Disholok" />
+    <String id="5083002" string="Proof of Kill: Disholok" />
+    <String id="5083003" string="&quot;Honored to serve!&quot;" />
+    <String id="5083004" string="Kill {@LinkCreature:50#12} and collect proof of its death." />
+    <String id="5083005" string="Report to Ayva." />
 </StrSheet_Quest>

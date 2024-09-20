@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="24" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="4" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="204" id="100" prevId="0" villagerId="1110">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="204" id="2" prevId="0" villagerId="1110">
          
+         
         <Page social="4">O controle das minas não significa nada se não conseguirmos fazer com que os carregamentos entrem e saiam daqui.&lt;BR&gt;&lt;BR&gt;Os {@LinkCreature:4#1031#sooty sporewalkers} e os {@LinkCreature:4#1032#smoldering ghilliedhus} são bestas sem mente, mas isso não importa quando é o seu vagão de minério que eles estão destruindo.&lt;BR&gt;&lt;BR&gt;Mantenha-os longe das estradas, está bem?</Page>
+    
     
     </Text>
     <Text huntingZoneId="204" id="3" prevId="2" villagerId="1110">
          
+         
         <Page social="4">Com essas feras fora do caminho, talvez possamos fazer com que os trens de suprimentos entrem e saiam daqui.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="10" id="95" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="95" huntingZoneId="10" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="61" id="100" prevId="0" villagerId="1012">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="61" id="2" prevId="0" villagerId="1012">
          
+         
         <Page social="4">Ordens da missão&lt;BR&gt;&lt;BR&gt;Limpar a selva de Adderkin da fauna hostil para que as tropas possam se mover com segurança pela área.&lt;BR&gt;&lt;BR&gt;As principais prioridades são as populações de {@LinkCreature:10#11#naga slayers}, {@LinkCreature:10#12#caiman serfs}, {@LinkCreature:10#5#thickbark ghilliedhus}, {@LinkCreature:10#6#agitated mycanars} e {@LinkCreature:10#21#ebon sabertooths}. Apresente-se a Libine no Costal Overwatch após a conclusão.</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="3" prevId="2" villagerId="1004">
          
+         
         <Page social="4">A selva de Adderkin é um bom terreno - e agora é o nosso terreno, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="4" villagerId="1004">
          
+         
         <Page social="0">A guerra na selva é um assunto sério, &lt;PCNAME&gt;. Você está com sua cara de jogo?</Page>
+    
     
     </Text>
 </QuestDialog>

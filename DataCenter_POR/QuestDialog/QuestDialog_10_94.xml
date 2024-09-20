@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="10" id="94" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="10" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="61" id="100" prevId="0" villagerId="1012">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="61" id="2" prevId="0" villagerId="1012">
          
+         
         <Page social="4">Ordens da missão:&lt;BR&gt;&lt;BR&gt;Os {@LinkCreature:10#8#naga battlemasters} estão se reunindo na Ilha de Kerozen com um propósito desconhecido.&lt;BR&gt;&lt;BR&gt;Certifique-se de que esse propósito nunca se concretize e, em seguida, apresente-se a Edine na Ponta da Praia.</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="3" prevId="2" villagerId="1002">
          
+         
         <Page social="4">Não há naga como uma naga morta. Bom trabalho, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="4" villagerId="1002">
          
+         
         <Page social="0">Estamos contando com você, &lt;PCNAME&gt;. Se os nagas criarem mestres de batalha suficientes, eles poderão nos empurrar de volta para o mar.</Page>
+    
     
     </Text>
 </QuestDialog>

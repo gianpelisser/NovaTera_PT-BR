@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Artisan xmlns="https://vezel.dev/novadrop/dc/StrSheet_Artisan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Artisan StrSheet_Artisan.xsd">
+<StrSheet_Artisan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Artisan StrSheet_Artisan.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Artisan">
     <String id="1" string="Weaponsmithing" />
     <String id="2" string="Focuscrafting" />
     <String id="3" string="Armorsmithing" />
@@ -44,7 +43,8 @@
     <String id="11008" string="Bows" />
     <String id="11009" string="Staves" />
     <String id="11010" string="Scepters" />
-    <String id="11011" string="Accessory" />
+    <String id="11011" string="Arcannon" />
+    <String id="11012" string="Accessory" />
     <String id="11100" string="Artisan" />
     <String id="11101" string="Refining" />
     <String id="11102" string="Scythes" />
@@ -56,7 +56,8 @@
     <String id="11108" string="Bows" />
     <String id="11109" string="Staves" />
     <String id="11110" string="Scepters" />
-    <String id="11111" string="Accessory" />
+    <String id="11111" string="Arcannon" />
+    <String id="11112" string="Accessory" />
     <String id="11200" string="Basic" />
     <String id="11201" string="Refining" />
     <String id="11202" string="Twin Swords" />
@@ -68,6 +69,7 @@
     <String id="11208" string="Staves" />
     <String id="11209" string="Scepters" />
     <String id="11210" string="Scythes" />
+    <String id="11211" string="Arcannon" />
     <String id="11300" string="Quests" />
     <String id="12000" string="Master" />
     <String id="12001" string="Refining" />
@@ -166,8 +168,8 @@
     <String id="210100" string="Master Weaponcrafting Test" />
     <String id="210101" string="Weaponcrafting (skill 1-200)" />
     <String id="210102" string="Weaponcrafting (skill 201-499)" />
-    <String id="210103" string="Craft Best-grade Totem Powder" />
-    <String id="210104" string="Craft Archdevan Blade" />
+    <String id="210103" string="Craft Spellcatch Bijou" />
+    <String id="210104" string="Craft Empyrspade" />
     <String id="210105" string="Craft Ostatak Oil" />
     <String id="210106" string="Weaponcrafting (500)" />
     <String id="210107" string="Weaponcrafting (650)" />
@@ -181,8 +183,8 @@
     <String id="220100" string="Master Armorcrafting Test" />
     <String id="220101" string="Armorcrafting (skill 1-200)" />
     <String id="220102" string="Armorcrafting (skill 201-499)" />
-    <String id="220103" string="Craft Best-grade Totem Powder" />
-    <String id="220104" string="Craft Archdevan Armor" />
+    <String id="220103" string="Craft Spellcatch Bijou" />
+    <String id="220104" string="Craft Empyrplate" />
     <String id="220105" string="Craft Aterstod Oil" />
     <String id="220106" string="Armorcrafting (500)" />
     <String id="220107" string="Armorcrafting (650)" />

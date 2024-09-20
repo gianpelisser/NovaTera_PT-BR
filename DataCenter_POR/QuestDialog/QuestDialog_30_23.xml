@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="23" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="30" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="71" id="100" prevId="0" villagerId="1106">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="71" id="2" prevId="0" villagerId="1106">
          
+         
         <Page social="1">Tem alguns minutos, soldado? Tenho uma missão que requer habilidade e inteligência. Ouvi dizer que você tem ambos.&lt;BR&gt;&lt;BR&gt;Os {@LinkCreature:30#10#ashpelt gorillas} locais estão sendo invadidos por preguiças agressivas e invasivas. Não, é verdade. Preguiças.&lt;BR&gt;&lt;BR&gt;Os gorilas não atacam a menos que sejam provocados, mas as preguiças são ferozmente territoriais! &lt;NEXTPAGEBUTTON&gt;"Como posso ajudar?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Estamos reunindo gorilas em uma área protegida perto dos portões do Bastião para salvar a população.&lt;BR&gt;&lt;BR&gt;Pegue uma dessas frutas que os gorilas gostam e leve um deles para o recinto. Nós faremos o resto.&lt;BR&gt;&lt;BR&gt;Os {@LinkCreature:30#10$$gorillas} são gentis, mas cuidado com as preguiças.</Page>
+    
     
     </Text>
     <Text huntingZoneId="30" id="3" villagerId="23">
          
+         
         <Page social="0">(Os olhos do gorila estão fixos na fruta, mas ele parece nervoso em se aproximar demais.)&lt;BR&gt;&lt;BR&gt;(Se você se mover lentamente em direção ao recinto, ele deve segui-lo.)</Page>
+    
     
     </Text>
     <Text huntingZoneId="71" id="4" prevId="2" villagerId="1104">
          
+         
         <Page social="1">Criaturas bonitas, não são? &lt;BR&gt;&lt;BR&gt;É uma pena que as preguiças as estejam afugentando.&lt;BR&gt;&lt;BR&gt;Até mesmo os naturalistas entre nós ficariam muito felizes se esses pesadelos com garras morressem.</Page>
+    
     
     </Text>
 </QuestDialog>

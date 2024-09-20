@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="49" id="35" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="49" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="49" id="100" prevId="0" villagerId="1006">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="49" id="2" prevId="0" villagerId="1006">
          
+         
         <Page social="4">Meu amigo, quero investigar a Árvore de Casian, mas o caminho não é seguro. Posso contar com sua habilidade de combate para me ajudar a chegar ao meu destino?</Page>
          
+         
         <Page social="4">Esplêndido. Fica a noroeste daqui. Avise-me quando estiver pronto para partir.</Page>
+    
     
     </Text>
     <Text huntingZoneId="49" id="3" villagerId="35">
          
+         
         <Page social="0">Vamos lá?</Page>
+    
     
     </Text>
     <Text huntingZoneId="249" id="4" prevId="2" villagerId="1001">
          
+         
         <Page social="6">É de tirar o fôlego, não é? Ah, e veja - um pequeno santuário.&lt;BR&gt;&lt;BR&gt;Suspeito que essa investigação será muito estimulante.</Page>
+    
     
     </Text>
 </QuestDialog>

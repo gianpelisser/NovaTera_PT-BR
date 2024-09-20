@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="488" id="26" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="488" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="216" id="100" prevId="0" villagerId="1031">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="216" id="2" prevId="0" villagerId="1031">
          
+         
         <Page social="5">As {@LinkCreature:488#17#bruxas do caos} se reúnem onde quer que as almas estejam em tumulto - ou onde haja muita morte.&lt;BR&gt;&lt;BR&gt;De alguma forma, elas extraem o pó daqueles que morreram violentamente e depois o usam em sua magia.&lt;BR&gt;&lt;BR&gt;E morrer já é ruim o suficiente. Você não deveria se tornar também uma espécie de ingrediente para um feitiço de bruxa!</Page>
+    
     
     </Text>
     <Text huntingZoneId="216" id="3" prevId="2" villagerId="1031">
          
+         
         <Page social="4">Vou pegar essa pólvora e enterrá-la com todas as honras militares. É a coisa certa a fazer.</Page>
+    
     
     </Text>
     <Text huntingZoneId="216" id="4" villagerId="1031">
          
+         
         <Page social="0">Por favor, recupere a pólvora. É uma questão de honra.</Page>
+    
     
     </Text>
 </QuestDialog>

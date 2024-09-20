@@ -138,8 +138,8 @@
         <HuntingZone id="437" name="{@Rgn:9037001$$Island of Dawn (Protection)}" kind="solo" step="1" />
         <HuntingZone id="438" name="{@Rgn:9038001$$Mistmoor Island instance}" kind="solo" step="10" />
         <HuntingZone id="439" name="{@Rgn:9039001$$Cliffs of Insanity instance}" kind="solo" step="8" />
-        <HuntingZone id="443" name="Wonderholme (Difícil)" kind="solo" step="26" />
-        <HuntingZone id="450" name="{@Rgn:9050007$$Rift's Edge (Difícil)}" kind="solo" step="26" />
+        <HuntingZone id="443" name="Wonderholme (Hard)" kind="solo" step="26" />
+        <HuntingZone id="450" name="{@Rgn:9050007$$Rift's Edge (Hard)}" kind="solo" step="26" />
         <HuntingZone id="453" name="{@Rgn:9053001$$Kezzel's Gorge}" kind="solo" step="26" />
         <HuntingZone id="471" name="{@Rgn:9071001$$Necromancer Tomb}" kind="solo" step="16" />
         <HuntingZone id="472" name="{@Rgn:9072001$$Golden Labyrinth}" kind="solo" step="16" />
@@ -179,11 +179,11 @@
         <HuntingZone id="743" name="Wonderholme (Normal)" kind="solo" step="26" />
         <HuntingZone id="750" name="{@Rgn:9050006$$Rift's Edge}" kind="solo" step="26" />
         <HuntingZone id="766" name="Shattered Fleet" kind="solo" step="26" />
-        <HuntingZone id="773" name="{@Rgn:9773001$$Ebon Tower (Difícil)}" kind="solo" step="16" />
-        <HuntingZone id="775" name="{@Rgn:9775001$$Kelsaik's Nest (Difícil)}" kind="solo" step="22" />
-        <HuntingZone id="776" name="{@Rgn:9776001$$Labyrinth of Terror (Difícil)}" kind="solo" step="23" />
+        <HuntingZone id="773" name="{@Rgn:9773001$$Ebon Tower (Hard)}" kind="solo" step="16" />
+        <HuntingZone id="775" name="{@Rgn:9775001$$Kelsaik's Nest (Hard)}" kind="solo" step="22" />
+        <HuntingZone id="776" name="{@Rgn:9776001$$Labyrinth of Terror (Hard)}" kind="solo" step="23" />
         <HuntingZone id="777" name="Channelworks" kind="solo" step="26" />
-        <HuntingZone id="793" name="{@Rgn:9793001$$Akasha's Hideout (Difícil)}" kind="solo" step="17" />
+        <HuntingZone id="793" name="{@Rgn:9793001$$Akasha's Hideout (Hard)}" kind="solo" step="17" />
         <HuntingZone id="801" name="{@Rgn:9801001$$Nexus Traverse}" kind="solo" step="17" />
         <HuntingZone id="808" name="{@Rgn:9808001$$Sabex Armory}" kind="solo" step="28" />
         <HuntingZone id="809" name="{@Rgn:9809001$$Macellarius Catacombs}" kind="solo" step="31" />
@@ -195,15 +195,19 @@
         <HuntingZone id="821" name="Dakuryon's Chamber" kind="solo" step="98" />
         <HuntingZone id="822" name="{@Rgn:9822001$$Bastion of Lok}" kind="solo" step="96" />
         <HuntingZone id="823" name="Sky Cruiser Intrepid" kind="solo" step="95" />
-        <HuntingZone id="825" name="Balder’s Temple (Solo)" kind="solo" step="26" />
-        <HuntingZone id="871" name="{@Rgn:9871001$$Necromancer Tomb (Solo)}" kind="solo" step="16" />
-        <HuntingZone id="872" name="{@Rgn:9872001$$Golden Labyrinth (Solo)}" kind="solo" step="16" />
-        <HuntingZone id="873" name="{@Rgn:9873001$$Ebon Tower (Solo)}" kind="solo" step="16" />
-        <HuntingZone id="887" name="{@Rgn:9887001$$Bastion of Lok (Solo)}" kind="solo" step="6" />
-        <HuntingZone id="888" name="{@Rgn:9888001$$Sinestral Manor (Solo)}" kind="solo" step="7" />
-        <HuntingZone id="889" name="{@Rgn:9889001$$Cultists' Refuge (Solo)}" kind="solo" step="12" />
+        <HuntingZone id="825" name="Balder’s Temple (1 person)" kind="solo" step="26" />
+        <HuntingZone id="871" name="{@Rgn:9871001$$Necromancer Tomb (1 person)}" kind="solo" step="16" />
+        <HuntingZone id="872" name="{@Rgn:9872001$$Golden Labyrinth (1 person)}" kind="solo" step="16" />
+        <HuntingZone id="873" name="{@Rgn:9873001$$Ebon Tower (1 person)}" kind="solo" step="16" />
+        <HuntingZone id="887" name="{@Rgn:9887001$$Bastion of Lok (1 person)}" kind="solo" step="6" />
+        <HuntingZone id="888" name="{@Rgn:9888001$$Sinestral Manor (1 person)}" kind="solo" step="7" />
+        <HuntingZone id="889" name="{@Rgn:9889001$$Cultists' Refuge (1 person)}" kind="solo" step="12" />
         <HuntingZone id="901" name="Bellicarium" kind="solo" step="99" />
-        <HuntingZone id="1022" name="Nexus" kind="solo" step="23" />
+        <HuntingZone id="904" kind="solo" name="Treasure Hunters (Season 1)" step="99" />
+        <HuntingZone id="905" kind="solo" name="Bounty Hunters (Season 1)" step="99" />
+        <HuntingZone id="979" kind="solo" name="{@Rgn:9979001$$Saravash's Lair}" step="26" />
+        <HuntingZone id="8000" kind="solo" name="Letter from the Valkyon Federation Vanguard" step="98" />
+		<HuntingZone id="1022" name="Nexus" kind="solo" step="23" />
         <HuntingZone id="9999" name="Vanguard Initiative" kind="solo" step="98" />
     </QuestHuntingZoneList>
     <StoryGroupList>
@@ -364,6 +368,9 @@
         <StoryGroup id="608" name="Avatar Weapons">
             <Quest id="368" />
         </StoryGroup>
+        <StoryGroup id="609" name="Avatar Weapons">
+            <Quest id="369" />
+        </StoryGroup>
         <StoryGroup id="17" name="Balder's Refuge">
             <Quest id="3001" />
             <Quest id="3002" />
@@ -499,6 +506,9 @@
             <Quest id="8706" />
             <Quest id="8707" />
             <Quest id="8708" />
+        </StoryGroup>
+        <StoryGroup id="7004" name="Nakatam Tower">
+            <Quest id="1099" />
         </StoryGroup>
     </StoryGroupList>
 </QuestGroupList>

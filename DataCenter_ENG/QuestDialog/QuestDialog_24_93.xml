@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="24" id="93" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="66" id="100" prevId="0" villagerId="1008">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="66" prevId="0" villagerId="1008">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="66" id="2" prevId="0" villagerId="1008">
-         
+    <Text id="2" huntingZoneId="66" prevId="0" villagerId="1008">
         <Page social="5">So now we need you to...let me see what this says...eesh! You've got the big guys next.&lt;BR&gt;&lt;BR&gt;Go kill some {@LinkCreature:24#9#desert lightning kumases} and report to Kaera at the Aurum Road Camp.</Page>
-    
     </Text>
-    <Text huntingZoneId="224" id="3" prevId="2" villagerId="1010">
-         
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1010">
         <Page social="5">Kumases' gems are a favorite of all mages. Thank you for bringing them.</Page>
-    
     </Text>
-    <Text huntingZoneId="224" id="4" villagerId="1010">
-         
+    <Text id="4" huntingZoneId="224" villagerId="1010">
         <Page social="0">I know that kumases are not an easy kill, but I also know a true warrior when I see one. I'm sure that you will be able to handle them all without any troubles. Come back when you complete your mission.</Page>
-    
     </Text>
 </QuestDialog>

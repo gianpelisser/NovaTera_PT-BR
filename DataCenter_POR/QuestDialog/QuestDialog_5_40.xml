@@ -1,21 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="5" id="40" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="5" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="205" id="100" prevId="0" villagerId="1015">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="205" id="2" prevId="0" villagerId="1015">
          
+         
         <Page social="5">Portanto, a esta altura, você certamente já sabe do problema que os tuwangis têm nos causado. Francamente, foi uma grande surpresa. Quem poderia imaginar que eles começariam assim?&lt;BR&gt;&lt;BR&gt;De qualquer forma, o ponto principal é que não temos muitas tropas aqui, porque este costumava ser um dos lugares mais seguros da federação. No entanto, estivemos pensando sobre isso e agora temos certeza de que temos uma maneira de combatê-los com as forças que temos.&lt;NEXTPAGEBUTTON&gt;"Oh? O que é isso?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="5">Podemos fazer isso desativando a comunicação entre suas aldeias. Lutar contra uma aldeia de cada vez não será tão difícil, não acha? &lt;BR&gt;&lt;BR&gt;O {@LinkCreature:5#12#Frog Drum} que os Tuwangis Martelo de Pedra possuem é uma ferramenta de comunicação muito importante entre suas aldeias em caso de emergência. Se conseguirmos destruir o Tambor de Sapo, as aldeias ficarão isoladas umas das outras.&lt;BR&gt;&lt;BR&gt;Você não está ocupado, está? Quero que fique encarregado desse trabalho.&lt;BR&gt;&lt;BR&gt;Já estou ocupado com o treinamento dos novos soldados. Por favor, me ajude.</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="3" prevId="2" villagerId="1015">
          
+         
         <Page social="5">Eles são deficientes, não são? Tudo pronto? Fantástico. &lt;BR&gt;&lt;BR&gt;Hora de começar a trabalhar, então.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,49 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="60215001" string="Forjando a próxima geração" />
-    <String id="60215002" string="Mostre a esses recrutas como um soldado de verdade luta!" />
-    <String id="60215003" string="Fantástico. Você mostrou uma mão hábil." />
-    <String id="60215004" string="&quot;Seria uma honra.&quot;" />
-    <String id="60215005" string="Fale com {@LinkCreature:248#3003#Vikhonul} em {@Rgn:48002$$Khanovar Citadel}." />
-    <String id="60215006" string="" />
-    <String id="60215007" string="" />
-    <String id="60215008" string="" />
-    <String id="60215009" string="" />
-    <String id="60215010" string="" />
-    <String id="60215011" string="" />
-    <String id="60215012" string="" />
-    <String id="60215013" string="" />
-    <String id="60215014" string="Informe-se com {@LinkCreature:248#3029#Kahel} em {@Rgn:48002$$Khanovar Citadel}." />
-    <String id="60215015" string="&quot;Considere isso feito.&quot;" />
-    <String id="60215016" string="&quot;Não me olhe nos olhos! Olhe para frente!&quot;" />
-    <String id="60215017" string="Treine os recrutas." />
-    <String id="60215018" string="&quot;Mantenha o foco!&quot;" />
-    <String id="60215019" string="Treine os recrutas." />
-    <String id="60215020" string="&quot;Afrouxe sua postura!&quot;" />
-    <String id="60215021" string="Treine os recrutas." />
-    <String id="60215022" string="&quot;Continue! Não há choro na guerra!&quot;" />
-    <String id="60215023" string="Treine os recrutas." />
-    <String id="60215024" string="&quot;Preste atenção!&quot;" />
-    <String id="60215025" string="Treine os recrutas." />
-    <String id="60215026" string="&quot;Respire. Você não é bom para nós morto.&quot;" />
-    <String id="60215027" string="Treine os recrutas." />
-    <String id="60215028" string="&quot;Flexione os joelhos.&quot;" />
-    <String id="60215029" string="Treine os recrutas." />
-    <String id="60215030" string="&quot;Mexa-se, mexa-se!&quot;" />
-    <String id="60215031" string="Treine os recrutas." />
-    <String id="60215032" string="" />
-    <String id="60215033" string="" />
-    <String id="60215034" string="" />
-    <String id="60215035" string="" />
-    <String id="60215036" string="" />
-    <String id="60215037" string="" />
-    <String id="60215038" string="" />
-    <String id="60215039" string="" />
-    <String id="60215040" string="" />
-    <String id="60215041" string="Fale com Kahel." />
-    <String id="60215042" string="&quot;Entendido.&quot;" />
-    <String id="60215043" string="&quot;Com certeza.&quot;" />
-    <String id="60215044" string="Fale com Kahel." />
-    <String id="60215045" string="&quot;Obrigado pelo privilégio.&quot;" />
-    <String id="60215046" string="Informe a {@LinkCreature:248#3003#Vikhonul} em {@Rgn:48002$$Khanovar Citadel}." />
+    <String id="60213001" string="Um anel para encontrá-los" />
+    <String id="60213002" string="O anel de um Shariar não tem valor... e não tem preço. Entendeu?" />
+    <String id="60213003" string="Obrigado. Essas almas corajosas merecem um tratamento honroso." />
+    <String id="60213004" string="" />
+    <String id="60213005" string="" />
+    <String id="60213006" string="" />
+    <String id="60213007" string="Fale com {@LinkCreature:418#2001#Baruster} nas {@Rgn:9018001$$Argon Catacombs}." />
+    <String id="60213008" string="&quot;É claro.&quot;" />
+    <String id="60213009" string="&quot;Entendido.&quot;" />
+    <String id="60213010" string="Retire os anéis de Shariar do Shariar caído dentro das {@Rgn:9018001$$Argon Catacombs}." />
+    <String id="60213011" string="Entregue os anéis de Shariar para {@LinkCreature:418#2001#Baruster} nas {@Rgn:9018001$$Argon Catacombs}." />
+    <String id="60213012" string="&quot;Entendido.&quot;" />
+    <String id="60213013" string="Retire os anéis de Shariar do Shariar caído dentro das {@Rgn:9018001$$Argon Catacombs}." />
+    <String id="60213014" string="Entregue os anéis de Shariar para {@LinkCreature:418#2001#Baruster} nas {@Rgn:9018001$$Argon Catacombs}." />
+    <String id="60213015" string="&quot;Entendido.&quot;" />
+    <String id="60213016" string="Retire os anéis de Shariar do Shariar caído dentro das {@Rgn:9018001$$Argon Catacombs}." />
+    <String id="60213017" string="Entregue os anéis de Shariar para {@LinkCreature:418#2001#Baruster} nas {@Rgn:9018001$$Argon Catacombs}." />
+    <String id="60213018" string="{@LinkCreature:418#2001#Baruster}" />
+    <String id="60213019" string="Anéis de Shariar" />
+    <String id="60213020" string="Entregue os anéis de Shariar para {@LinkCreature:78#3007#Agrakh} em {@Rgn:78001$$Zulfikar Fortress}." />
+    <String id="60213021" string="&quot;A honra é minha.&quot;" />
+    <String id="60213022" string="{@LinkCreature:418#2001#Baruster}" />
+    <String id="60213023" string="Anéis de Shariar" />
+    <String id="60213024" string="Entregue os anéis de Shariar para {@LinkCreature:78#3007#Agrakh} em {@Rgn:78001$$Zulfikar Fortress}." />
+    <String id="60213025" string="&quot;A honra é minha.&quot;" />
+    <String id="60213026" string="{@LinkCreature:418#2001#Baruster}" />
+    <String id="60213027" string="Anéis de Shariar" />
+    <String id="60213028" string="Entregue os anéis de Shariar para {@LinkCreature:78#3007#Agrakh} em {@Rgn:78001$$Zulfikar Fortress}." />
+    <String id="60213029" string="&quot;A honra é minha.&quot;" />
 </StrSheet_Quest>

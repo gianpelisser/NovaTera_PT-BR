@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="0" id="45306" voiceTypeId="0">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="45306" huntingZoneId="0" voiceTypeId="0">
     <Text id="1" endSocial="0">
          
+         
         <Page social="0">Argons are not exactly living and not exactly machines. Near as I can tell, they're created by other argons, but that still leaves a lot of questions unanswered. Why do some of them look like other forms of life? What's the point of that?&lt;BR&gt;&lt;BR&gt;And what do they run on? I've never seen one eat anything.&lt;CLOSEPAGEBUTTON&gt;Put message away.&lt;/CLOSEPAGEBUTTON&gt;</Page>
+    
     
     </Text>
 </VillagerDialog>

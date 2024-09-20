@@ -1,33 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="123" id="8100" voiceTypeId="67">
-    <Text huntingZoneId="123" id="3" endSocial="14" prevId="0" villagerId="8100">
-         
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="8100" huntingZoneId="123" voiceTypeId="67" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="3" huntingZoneId="123" prevId="0" villagerId="8100" endSocial="14">
         <Page social="4">Lots of people here show off how brave they are, and lots of them get hurt in the process. I was dispatched here to help them.</Page>
-    
     </Text>
-    <Text huntingZoneId="123" id="20" endSocial="14" prevId="0" villagerId="8100">
-         
+    <Text id="20" huntingZoneId="123" prevId="0" villagerId="8100" endSocial="14">
         <Page social="4">Lots of people here show off how brave they are, and lots of them get hurt in the process. I was dispatched here to help them.</Page>
-    
     </Text>
-    <Text huntingZoneId="123" id="21" endSocial="14" prevId="0" villagerId="8100">
-         
+    <Text id="21" huntingZoneId="123" prevId="0" villagerId="8100" endSocial="14">
         <Page social="4">Lots of people here show off how brave they are, and lots of them get hurt in the process. I was dispatched here to help them.</Page>
-    
     </Text>
-    <Text huntingZoneId="123" id="22" endSocial="14" prevId="0" villagerId="8100">
-         
+    <Text id="22" huntingZoneId="123" prevId="0" villagerId="8100" endSocial="14">
         <Page social="4">Lots of people here show off how brave they are, and lots of them get hurt in the process. I was dispatched here to help them.</Page>
-    
     </Text>
-    <Text huntingZoneId="123" id="23" endSocial="14" prevId="0" villagerId="8100">
-         
+    <Text id="23" huntingZoneId="123" prevId="0" villagerId="8100" endSocial="14">
         <Page social="4">Lots of people here show off how brave they are, and lots of them get hurt in the process. I was dispatched here to help them.</Page>
-    
     </Text>
-    <Text huntingZoneId="123" id="1" endSocial="14" prevId="0" villagerId="8100">
-         
+    <Text id="1" huntingZoneId="123" prevId="0" villagerId="8100" endSocial="14">
         <Page social="4">My clerical duties are for the Iron Order.</Page>
-    
     </Text>
 </VillagerDialog>

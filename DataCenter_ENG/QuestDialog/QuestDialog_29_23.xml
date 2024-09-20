@@ -1,19 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="29" id="23" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="229" id="100" prevId="0" villagerId="1018">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="29" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="229" prevId="0" villagerId="1018">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="229" id="2" prevId="0" villagerId="1018">
-         
+    <Text id="2" huntingZoneId="229" prevId="0" villagerId="1018">
         <Page social="5">I was attacked by a troop of arachnens yesterday. I fought my way clear, but lost the leather crest my father gave me.&lt;BR&gt;&lt;BR&gt;It has enormous sentimental value and I'd give anything to get it back. Would you try to recover it from the {@LinkCreature:29#2021#leafcutter arachnens}? Even if you can't, their deaths will be some comfort.</Page>
-    
     </Text>
-    <Text huntingZoneId="229" id="3" prevId="2" villagerId="1018">
-         
+    <Text id="3" huntingZoneId="229" prevId="2" villagerId="1018">
         <Page social="5">Hey, did you find the crest? No? Pity.&lt;BR&gt;&lt;BR&gt;Still, with those arachnens dead, I can go look for it myself. Thanks for your help, &lt;PCNAME&gt;. Families are important and it wouldn't do to let mine down.</Page>
-    
     </Text>
 </QuestDialog>

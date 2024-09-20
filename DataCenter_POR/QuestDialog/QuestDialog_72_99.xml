@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="72" id="99" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="99" huntingZoneId="72" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="72" id="100" prevId="0" villagerId="1169">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="72" id="2" prevId="0" villagerId="1169">
          
+         
         <Page social="0">Você aí! Você tem a aparência de um veterano experiente. Você já enfrentou um dos melhores da federação? É uma experiência a não perder.&lt;BR&gt;&lt;BR&gt;Se a ideia o intriga, procure Erigar na Ágora. Ele lhe dará uma solução.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="3" prevId="2" villagerId="1158">
          
+         
         <Page social="0">Outro recém-chegado sedento de sangue, hein? &lt;BR&gt;&lt;BR&gt;Certo. A coisa funciona assim. Eu lhe vendo sementes de rebelião, que você pode usar para contornar temporariamente a bênção de Velik contra brigas internas. Acredite em mim, se você já ouviu falar da Noite das Flechas, você estará muito ansioso para evitar irritar Velik. Às vezes, são necessárias algumas sementes para contornar a bênção, às vezes apenas uma.&lt;BR&gt;&lt;BR&gt;O que você acha? Pronto para um pouco de sangue?</Page>
+    
     
     </Text>
 </QuestDialog>

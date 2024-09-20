@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="20" id="94" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="65" id="100" prevId="0" villagerId="1012">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="65" prevId="0" villagerId="1012">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="65" id="2" prevId="0" villagerId="1012">
-         
+    <Text id="2" huntingZoneId="65" prevId="0" villagerId="1012">
         <Page social="0">An order with only one target? Huh. Well, you may as well take this one with you, eh? What's one more?&lt;BR&gt;&lt;BR&gt;Just get rid of the {@LinkCreature:20#30087000#relentless bloodclaws} in the Halls of Utterdark and speak to Arthgal when you're done!</Page>
-    
     </Text>
-    <Text huntingZoneId="220" id="3" prevId="2" villagerId="1006">
-         
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1006">
         <Page social="4">Thanks for the work you've done here. Please take this for your contribution.</Page>
-    
     </Text>
-    <Text huntingZoneId="220" id="4" villagerId="1006">
-         
+    <Text id="4" huntingZoneId="220" villagerId="1006">
         <Page social="0">I'll contribute to you once you contribute to us.</Page>
-    
     </Text>
 </QuestDialog>

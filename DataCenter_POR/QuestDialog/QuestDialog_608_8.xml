@@ -1,21 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="608" id="8" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="608" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="62" id="100" prevId="0" villagerId="1702">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="62" id="2" prevId="0" villagerId="1702">
          
+         
         <Page social="4">&lt;PCNAME&gt;, alguns de nossos produtos desapareceram durante uma entrega de rotina. Nosso agente responsável foi... disciplinado, digamos assim, e recuperamos o pacote perdido.&lt;BR&gt;&lt;BR&gt;É aí que você entra. Entregue isso a Jerelyn assim que puder e assegure a ela que o problema da remessa foi "resolvido".</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="1108">
          
+         
         <Page social="4">Em que posso ajudá-lo? &lt;NEXTPAGEBUTTON&gt;"Este é da Ebbra."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Fiquei chateado quando não chegou, e... o que é isso? "Resolvido?"&lt;BR&gt;&lt;BR&gt;Oh, estou vendo. Não é da minha conta, na verdade, mas isso é reconfortante.</Page>
+    
     
     </Text>
 </QuestDialog>

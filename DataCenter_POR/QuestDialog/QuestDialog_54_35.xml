@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="54" id="35" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="54" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="254" id="100" prevId="0" villagerId="1032">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="254" id="2" prevId="0" villagerId="1032">
          
+         
         <Page social="4">Sou o mais corajoso e b-brave! O Mysterium quer que eu escale os estranhos dispositivos de argons e deixe b-bombas. Posso me esgueirar pelos argonss, sem problemas. Mas os dentes-de-sabre podem sentir meu cheiro.&lt;BR&gt;&lt;BR&gt;Você poderia impedir que os dentes-de-sabre sintam o cheiro por um tempo, e pode se apressar? Mysterium disse algo sobre o tempo ser importante.</Page>
+    
     
     </Text>
     <Text huntingZoneId="254" id="3" prevId="2" villagerId="1032">
          
+         
         <Page social="4">Você é b-melhor do que eu esperava!</Page>
+    
     
     </Text>
 </QuestDialog>

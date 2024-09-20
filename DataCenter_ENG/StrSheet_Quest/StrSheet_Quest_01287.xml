@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4592001" string="Don't Fear the Vale of the Reaper" />
-    <String id="4592002" string="It'll take more than some argonomorphs to scare us off." />
-    <String id="4592003" string="Proof of Kill: Argonomorphs" />
-    <String id="4592004" string="&quot;Glad I could help.&quot;" />
-    <String id="4592005" string="Kill {@creature:45#2001#argonomorph blood fiends}, {@creature:45#2002#horntoads}, and {@creature:45#2003#frogmasters} in the {@Rgn:45003$$Vale of the Reaper}." />
-    <String id="4592006" string="Report to {@Creature:245#1002} at {@Rgn:45007$$Field Base Tenacity}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4583001" string="Suppression Orders: Argon Rear Guard" />
+    <String id="4583002" string="Stay safe out there." />
+    <String id="4583003" string="Well done." />
+    <String id="4583004" string="Proof of Kill: Argon Rear Guard" />
+    <String id="4583005" string="&quot;For the federation!&quot;" />
+    <String id="4583006" string="Kill {@LinkCreature:45#3001#argonomorph Lokian archers} and {@LinkCreature:45#3002#reavers}, as well as {@LinkCreature:45#3003#kelba rippers} and {@LinkCreature:45#3004#athakela stalkers} near {@Rgn:45004$$Lookout Point}." />
+    <String id="4583007" string="Report to Laetesha at Pathfinder Post." />
 </StrSheet_Quest>

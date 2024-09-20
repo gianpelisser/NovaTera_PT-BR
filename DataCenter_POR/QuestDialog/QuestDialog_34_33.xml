@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="34" id="33" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="34" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="234" id="100" prevId="0" villagerId="1010">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="234" id="2" prevId="0" villagerId="1010">
          
+         
         <Page social="4">Seu povo toma todos os fragmentos, os wendigos morrem por causa disso.&lt;BR&gt;&lt;BR&gt;Madyar diz que seu povo não quer guerra com os wendigos, mas ele não para de minerar. O que você fará? Vai nos ajudar a encontrar uma solução? &lt;NEXTPAGEBUTTON&gt;"Estou aqui para ajudar."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Força importante para os wendigos. Os Wendigo {@LinkCreature:34#510#frostweavers} e {@LinkCreature:34#500#frostmages} recebem energia das pedras amarelas no chão. Faça com que eles pareçam fortes.&lt;BR&gt;&lt;BR&gt;Se você pegar pedras amarelas, eles ficarão fracos. Outros wendigos vêem magos que não são fortes. Eles verão que Uchamba é forte. Eles verão que Uchamba está certo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="234" id="3" prevId="2" villagerId="1010">
          
+         
         <Page social="4">Seus atos correspondem às palavras. Uchamba respeita você e Madyar. &lt;BR&gt;&lt;BR&gt;Agora, podemos construir o futuro.</Page>
+    
     
     </Text>
     <Text huntingZoneId="234" id="4" villagerId="1010">
          
+         
         <Page social="0">Os Madyar chamam as pedras amarelas de "fragmentos xânticos". Tirar o poder dos magos.</Page>
+    
     
     </Text>
 </QuestDialog>

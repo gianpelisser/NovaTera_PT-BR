@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4622001" string="Strange Golem" />
-    <String id="4622002" string="Please get samples of the {@creature:46#7001$$tholzak emitter} for me." />
-    <String id="4622003" string="Thanks a lot for bringing the samples." />
-    <String id="4622004" string="Find and break the {@creature:46#7001$$tholzak emitter} in the {@Rgn:46018$$Three Towers Upper Level} and collect tholzak emitter element." />
-    <String id="4622005" string="&quot;It's an honor to serve.&quot;" />
-    <String id="4622006" string="Collect tholzak emitter elements." />
-    <String id="4622007" string="Go to the {@Rgn:46019$$Beastroar Chamber} and deliver the tholzak emitter elements to {@creature:246#1025$$Alecian}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4594001" string="Hopping Mad" />
+    <String id="4594002" string="I loathe tuwangis." />
+    <String id="4594003" string="Proof of Kill: Argonomorphs" />
+    <String id="4594004" string="&quot;For the federation!&quot;" />
+    <String id="4594005" string="Kill {@creature:45#4002#argonomorph tuwangis}, {@creature:45#4003#warfroggers}, and {@creature:45#4004#wendigos} near the {@Rgn:45005$$Skyfields}." />
+    <String id="4594006" string="Report to {@Creature:245#1009} at {@Rgn:45009$$Camp Insanity}." />
 </StrSheet_Quest>

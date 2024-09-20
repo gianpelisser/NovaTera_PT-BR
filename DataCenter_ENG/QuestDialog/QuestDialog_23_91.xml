@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="23" id="91" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="68" id="100" prevId="0" villagerId="1007">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="23" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="68" prevId="0" villagerId="1007">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="68" id="2" prevId="0" villagerId="1007">
-         
+    <Text id="2" huntingZoneId="68" prevId="0" villagerId="1007">
         <Page social="5">The {@LinkCreature:23#15#mooncrest noruks} are overgrazing the Lake of Tears. We need their hides, so this is a happy marriage of desire and mission.&lt;BR&gt;&lt;BR&gt;Kill the noruks and take their hides to Lorsha when you're done.</Page>
-    
     </Text>
-    <Text huntingZoneId="223" id="3" prevId="2" villagerId="1011">
-         
+    <Text id="3" huntingZoneId="223" prevId="2" villagerId="1011">
         <Page social="5">These skins will make fine suits of armor. You have my thanks.</Page>
-    
     </Text>
-    <Text huntingZoneId="223" id="4" villagerId="1011">
-         
+    <Text id="4" huntingZoneId="223" villagerId="1011">
         <Page social="0">Kill the {@LinkCreature:23#15#mooncrest noruks} and bring me their hides.</Page>
-    
     </Text>
 </QuestDialog>

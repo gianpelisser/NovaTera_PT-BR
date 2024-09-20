@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="6" id="43" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="6" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="206" id="100" prevId="0" villagerId="1023">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="206" id="2" prevId="0" villagerId="1023">
          
+         
         <Page social="5">Como se já não tivéssemos problemas suficientes! Os kulkari expulsaram os {@LinkCreature:6#2041#ravenous bears} de suas casas e, em breve, eles estarão procurando comida por aqui.&lt;BR&gt;&lt;BR&gt;Derrubem-nos ou acabem com eles. O que quer que seja necessário, basta levá-los para longe daqui.</Page>
+    
     
     </Text>
     <Text huntingZoneId="206" id="3" prevId="2" villagerId="1023">
          
+         
         <Page social="5">Obrigado. Imagine só: expulsar os kulkari para serem devorados por ursos!</Page>
+    
     
     </Text>
 </QuestDialog>

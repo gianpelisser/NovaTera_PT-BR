@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_UserSkill xmlns="https://vezel.dev/novadrop/dc/StrSheet_UserSkill" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_UserSkill StrSheet_UserSkill.xsd">
+    <String id="4999" name="Self-Destruct" tooltip="Self-destruct to damage nearby targets." gender="Common" race="Common" class="Common" />
     <String id="10100" name="Arrow I" class="Archer" tooltip="[Flecha I] Atire uma flecha em um alvo a uma distância de até $maxDistance.&lt;BR&gt;$H_S_GOODPVP:$COLOR_END Dano reduzido na distância máxima." gender="Common" race="Common" />
     <String id="10100" name="Combo Attack I" class="Berserker" tooltip="[Combo de Ataque I] Golpeie um ou mais alvos à sua frente e ganhe MP a cada golpe. Golpes sucessivos causam mais dano, até quatro golpes, sendo que o quarto golpe causa um dano substancialmente maior." gender="Common" race="Common" />
     <String id="10100" name="Sharan Bolt I" class="Elementalist" tooltip="[Bola de Energia I] Libera um raio de energia Sharan em um único alvo a uma distância de até $maxDistance.&lt;BR&gt;$H_S_GOODPVP:$COLOR_END Dano reduzido à distância máxima." gender="Common" race="Common" />
@@ -729,15 +730,15 @@
     <String id="111040" name="Magma Bomb X" class="Sorcerer" tooltip="[Bomba de Magma X] Arqueia um projétil de fogo a uma distância de $offsetDistance, onde ele explode em um raio de $maxRadius." gender="Common" race="Common" />
     <String id="111100" name="Metamorphic Blast XI" class="Priest" tooltip="[Explosão metamórfica XI] Projeta um cone de energia divina que causa dano aos inimigos próximos." gender="Common" race="Common" />
     <String id="111100" name="Magma Bomb XI" class="Sorcerer" tooltip="[Bomba de Magma XI] Arqueia um projétil de fogo a uma distância de $offsetDistance, onde ele explode em um raio de $maxRadius." gender="Common" race="Common" />
-	<String id="111111" name="Montaria: cavalo castrado baio" class="Common" tooltip="$H_S_GOODVelocidade de movimento 240$COLOR_END$BRInvoque uma montaria para cavalgar." gender="Common" race="Common" />
+    <String id="111111" name="Montaria: cavalo castrado baio" class="Common" tooltip="$H_S_GOODVelocidade de movimento 240$COLOR_END$BRInvoque uma montaria para cavalgar." gender="Common" race="Common" />
     <String id="111112" name="Montaria: cavalo castrado baio rápido" class="Common" tooltip="$H_S_GOODVelocidade de movimento 270$COLOR_END$BRInvoque uma montaria rápida para montar." gender="Common" race="Common" />
-    <String id="111113" name="Montaria: Honor Steed" class="Common" tooltip="$H_S_GOODVelocidade de movimento 290$COLOR_END$BRInvoca uma montaria rápida com proteção especial. Somente os vanarcas e os membros de suas guildas podem montar essa montaria." gender="Common" race="Common" />
+    <String id="111113" name="Montaria: Honor Steed" class="Common" tooltip="$H_S_GOODVelocidade de movimento 290$COLOR_END$BRSInvoca uma montaria rápida com proteção especial. Somente os vanarcas e os membros de suas guildas podem montar essa montaria." gender="Common" race="Common" />
     <String id="111114" name="Montaria: Garanhão Branco Veloz" class="Common" tooltip="$H_S_GOODVelocidade de movimento 310$COLOR_END$BRInvoque uma montaria rápida para montar. Restaura HP, MP e Stamina." gender="Common" race="Common" />
-    <String id="111115" name="Montaria: Arcadian Dapple" class="Common" tooltip="$H_S_GOODVelocidade de movimento 240$COLOR_END$BRInvoca uma montaria para cavalgar." gender="Common" race="Common" />
+    <String id="111115" name="Montaria: Arcadian Dapple" class="Common" tooltip="$H_S_GOODVelocidade de movimento 240$COLOR_END$BRSInvoca uma montaria para cavalgar." gender="Common" race="Common" />
     <String id="111116" name="Montaria: cavalo castrado castanho" class="Common" tooltip="$H_S_GOODVelocidade de movimento 240$COLOR_END$BRInvoque uma montaria para cavalgar." gender="Common" race="Common" />
-    <String id="111117" name="Montaria: Velikan Gray" class="Common" tooltip="$H_S_GOODVelocidade de movimento 240$COLOR_END$BRInvoca uma montaria para cavalgar." gender="Common" race="Common" />
-    <String id="111118" name="Montaria: Pombo" class="Common" tooltip="$H_S_GOODVelocidade de movimento 240$COLOR_END$BRInvoca uma montaria para cavalgar." gender="Common" race="Common" />
-    <String id="111119" name="Montaria: Roan Azul" class="Common" tooltip="$H_S_GOODVelocidade de movimento 240$COLOR_END$BRInvoca uma montaria para cavalgar." gender="Common" race="Common" />
+    <String id="111117" name="Montaria: Velikan Gray" class="Common" tooltip="$H_S_GOODVelocidade de movimento 240$COLOR_END$BRSInvoca uma montaria para cavalgar." gender="Common" race="Common" />
+    <String id="111118" name="Montaria: Pombo" class="Common" tooltip="$H_S_GOODVelocidade de movimento 240$COLOR_END$BRSInvoca uma montaria para cavalgar." gender="Common" race="Common" />
+    <String id="111119" name="Montaria: Roan Azul" class="Common" tooltip="$H_S_GOODVelocidade de movimento 240$COLOR_END$BRSInvoca uma montaria para cavalgar." gender="Common" race="Common" />
     <String id="111120" name="Montaria: Carregador de Batalha" class="Common" tooltip="$H_S_GOODVelocidade de movimento 290$COLOR_END$BRInvoque uma montaria para montar. Para montar o carregador de batalha, você deve manter uma classificação entre os 30 melhores do Fraywind Canyon." gender="Common" race="Common" />
     <String id="111121" name="Montaria: Fast Arcadian Dapple" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca uma montaria rápida para montar." gender="Common" race="Common" />
     <String id="111122" name="Montaria: Fast Pombo" class="Common" tooltip="$H_S_GOODVelocidade de movimento 270$COLOR_END$BRSolicite uma montaria rápida para montar." gender="Common" race="Common" />
@@ -755,10 +756,11 @@
     <String id="111134" name="Montaria: EX-TRM" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRSolicite que o robô EX-TRM entre em ação." gender="Common" race="Common" />
     <String id="111135" name="Montaria: Smolder" class="Common" tooltip="$H_S_GOODVelocidade de movimento 330. Recupera sua Stamina$COLOR_END$BRInvoca Smolder para cavalgar." gender="Common" race="Common" />
     <String id="111136" name="Montaria: Boneshaker" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca Boneshaker para cavalgar." gender="Common" race="Common" />
-    <String id="111137" name="Montaria: Munchhausen" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera seus MP$COLOR_END$BRconvoque o viajante mendaz, Munchhausen. Munchhausen recupera seus MP." gender="Common" race="Common" />
+    <String id="111137" name="Montaria: Munchhausen" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera seus MP$COLOR_END$BRSconvoque o viajante mendaz, Munchhausen. Munchhausen recupera seus MP." gender="Common" race="Common" />
     <String id="111138" name="Montaria: Gourmando" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera seu PV$COLOR_END$BRInvoca o glutão infernal Gourmando. Gourmando recupera sua Vida." gender="Common" race="Common" />
     <String id="111139" name="Montaria: Sheldon" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca Sheldon para cavalgar." gender="Common" race="Common" />
     <String id="111140" name="Montaria: Regulus" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca Sheldon para cavalgar." gender="Common" race="Common" />
+    <String id="111140" name="Магмовая бомба" tooltip="" gender="Common" race="Common" class="Sorcerer" />
     <String id="111141" name="Montaria: Arco-íris" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca Rainbow, o unicórnio, para cavalgar." gender="Common" race="Common" />
     <String id="111142" name="Montaria: Terminus" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca Terminus, o cavalo de guerra híbrido de argons, para montar." gender="Common" race="Common" />
     <String id="111143" name="Montaria: Fast Arcadian Dapple" class="Common" tooltip="$H_S_GOODVelocidade de movimento 240$COLOR_END$BRInvoca uma montaria robusta para montar." gender="Common" race="Common" />
@@ -771,7 +773,7 @@
     <String id="111150" name="Montaria: Nevasca" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca uma montaria de leopardo-das-neves para montar." gender="Common" race="Common" />
     <String id="111151" name="Montaria: EX-TRM" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRSolicite que o robô EX-TRM entre em ação." gender="Common" race="Common" />
     <String id="111152" name="Montaria: Sheldon" class="Common" tooltip="$H_S_GOODVelocidade de movimento 275$COLOR_END$BRInvoca Sheldon para montar." gender="Common" race="Common" />
-    <String id="111153" name="Montaria: Munchhausen" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera seus MP$COLOR_END$BRconvoque o viajante mendaz, Munchhausen. Munchhausen recupera seus MP." gender="Common" race="Common" />
+    <String id="111153" name="Montaria: Munchhausen" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera seus MP$COLOR_END$BRSconvoque o viajante mendaz, Munchhausen. Munchhausen recupera seus MP." gender="Common" race="Common" />
     <String id="111154" name="Montaria: Gourmando" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera seus PV$COLOR_END$BRInvoca o glutão infernal Gourmando. Gourmando recupera sua Vida." gender="Common" race="Common" />
     <String id="111155" name="Montaria: Squawk" class="Common" tooltip="$H_S_GOODVelocidade de Movimento 280$COLOR_END$BRInvoca Squawk, o struthio lavanda." gender="Common" race="Common" />
     <String id="111156" name="Montaria: Blaze" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca Blaze, o ardente struthio." gender="Common" race="Common" />
@@ -820,6 +822,7 @@
     <String id="111210" name="Montaria: Khan" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca Khan, o tigre branco blindado." gender="Common" race="Common" />
     <String id="111211" name="Montaria: Hobbes" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca Hobbes, o tigre." gender="Common" race="Common" />
     <String id="111212" name="Montaria: Sundarban" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca Sundarban, o tigre blindado." gender="Common" race="Common" />
+    <String id="111213" name="Summon: Lupus Argentum" tooltip="$H_S_GOODSpeed: 280; Effect: Stamina$COLOR_END$BRSummon a Lupus Argentum that replenishes your Stamina." gender="Common" race="Common" class="Common" />
     <String id="111214" name="Montaria: Glimmerforce" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. Restaura HP.$COLOR_END$BRInvoca Glimmerforce, o lobo dourado que restaura 0,5% do HP máximo a cada segundo." gender="Common" race="Common" />
     <String id="111215" name="Montaria: Glimmershine" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. Restaura MP.$COLOR_END$BRInvoca Glimmershine, o lobo dourado que restaura 0,5% do MP máximo a cada segundo." gender="Common" race="Common" />
     <String id="111216" name="Montaria: Glimmerheart" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. Recupera sua Stamina.$COLOR_END$BRInvoca Glimmerheart, o lobo dourado que Recupera sua Stamina." gender="Common" race="Common" />
@@ -841,7 +844,7 @@
     <String id="111232" name="Montaria: Kwak" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca Kwak, o tigre atlético, para montar." gender="Common" race="Common" />
     <String id="111233" name="Montaria: Parque" class="Common" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRInvoca Park, o atlético tigre branco, para montar." gender="Common" race="Common" />
     <String id="111234" name="Montaria: Silva" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca Silva, o tigre atlético, para montar." gender="Common" race="Common" />
-    <String id="111235" name="Montaria: Dante" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera o MP$COLOR_END$BRconvoque Dante, o tigre atlético que recupera o MP, para cavalgar." gender="Common" race="Common" />
+    <String id="111235" name="Montaria: Dante" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera o MP$COLOR_END$BRSconvoque Dante, o tigre atlético que recupera o MP, para cavalgar." gender="Common" race="Common" />
     <String id="111236" name="Montaria: Cesar" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera o HP$COLOR_END$BRInvoca Cesar, o tigre atlético que recupera o HP, para montar." gender="Common" race="Common" />
     <String id="111237" name="Montaria: Oscar" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera a resistência$COLOR_END$BRInvoca Oscar, o tigre atlético que recupera a resistência, para cavalgar." gender="Common" race="Common" />
     <String id="111238" name="Montaria: Ronaldo" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca Ronaldo, o atlético tigre branco, para montar." gender="Common" race="Common" />
@@ -852,10 +855,10 @@
     <String id="111244" name="Montaria: Ji" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera HP$COLOR_END$BRInvoca Ji, o tigre atlético que recupera HP, para cavalgar." gender="Common" race="Common" />
     <String id="111245" name="Montaria: Koo" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera a resistência$COLOR_END$BRInvoca Koo, o tigre atlético que recupera a resistência, para cavalgar." gender="Common" race="Common" />
     <String id="111246" name="Montaria: Parque" class="Common" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRInvoca Park, o atlético tigre branco, para montar." gender="Common" race="Common" />
-    <String id="111247" name="Montaria: Lee" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera o MP$COLOR_END$BRconvoque Lee, o atlético tigre branco que recupera o MP, para montar." gender="Common" race="Common" />
+    <String id="111247" name="Montaria: Lee" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera o MP$COLOR_END$BRSconvoque Lee, o atlético tigre branco que recupera o MP, para montar." gender="Common" race="Common" />
     <String id="111248" name="Montaria: Ki" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera o HP$COLOR_END$BRInvoca Ki, o tigre branco atlético que recupera o HP, para montar." gender="Common" race="Common" />
     <String id="111249" name="Montaria: Hong" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera a resistência$COLOR_END$BRInvoca Hong, o tigre branco atlético que recupera a resistência, para montar." gender="Common" race="Common" />
-    <String id="111250" name="Montaria: Neymar" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera a HP$COLOR_END$BRconvoque Neymar, o atlético tigre branco que recupera a HP, para montar." gender="Common" race="Common" />
+    <String id="111250" name="Montaria: Neymar" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera a HP$COLOR_END$BRSconvoque Neymar, o atlético tigre branco que recupera a HP, para montar." gender="Common" race="Common" />
     <String id="111251" name="Montaria: Glória" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280.$COLOR_END$BRInvoca Glory, um lobo espiritual, para cavalgar." gender="Common" race="Common" />
     <String id="111252" name="Montaria: Gloryshine" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. Recupera MP.$COLOR_END$BRInvoca Gloryshine, um lobo espiritual que recupera MP." gender="Common" race="Common" />
     <String id="111253" name="Montaria: Gloryforce" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera os PV.$COLOR_END$BRInvoca Gloryforce, um lobo espiritual que recupera os PV." gender="Common" race="Common" />
@@ -916,6 +919,7 @@
     <String id="120101" name="Shadow Burst I" class="Soulless" tooltip="[Explosão das Sombras I] Reúna as sombras em suas foices e golpeie o chão, causando dano aos alvos próximos. Pressione o botão de habilidade novamente para infligir dano adicional com uma grande chance de puxar os inimigos em sua direção e para o chão. Você não pode ser atordoado ou derrubado ao usar Shadow Burst." gender="Common" race="Common" />
     <String id="120120" name="Electric Bomb I" class="Engineer" tooltip="[Bomba elétrica I] Lance uma bomba até a $maxDistance, que explode com o impacto e cria um alvo para a seu robo HB. O HB lança mais cinco bombas de igual força no mesmo local. Ganha 10 de Força de Vontade para cada acerto bem-sucedido. Só pode ser usado com um HB construct invocado em um raio de 40 m." gender="Common" race="Common" />
     <String id="120130" name="Shadow Burst I" class="Soulless" tooltip="[Explosão das Sombras I] Reúna as sombras em suas foices e golpeie o chão, causando dano aos alvos próximos. Pressione o botão de habilidade novamente para infligir dano adicional com uma grande chance de puxar os inimigos em sua direção e para o chão. Você não pode ser atordoado ou derrubado ao usar Shadow Burst." gender="Common" race="Common" />
+    <String id="120140" name="Infuriate" class="Warrior" tooltip="[Enfurecer] Enfureça todos os monstros em um raio de $maxDistance e aumente seu aggro para o valor máximo." gender="Common" race="Common" />
     <String id="120200" name="Velik's Mark II" class="Archer" tooltip="[Marca de Velik II] Marca um alvo dentro de $maxDistance por $time. Você causa 20% a mais de dano ao alvo marcado." gender="Common" race="Common" />
     <String id="120200" name="Unchained Anger II" class="Berserker" tooltip="[Raiva sem limites II] Sacrifique o HP para ganhar $mpDiff MP." gender="Common" race="Common" />
     <String id="120200" name="Heart Thrust II" class="Slayer" tooltip="[Estocada no Coração II] Dê um passo à frente, atacando os pontos vulneráveis de seu alvo." gender="Common" race="Common" />
@@ -1412,7 +1416,7 @@
     <String id="211000" name="Retaliate X" class="Elementalist" tooltip="[Retaliar X] Salte para ficar de pé enquanto ataca seu alvo. Você pode usar essa habilidade somente quando for derrubado. Você se torna brevemente imune a knockdown, stagger e stuns." gender="Common" race="Common" />
     <String id="211141" name="Montaria: Arco-íris" class="Common" tooltip="$H_S_GOODSpeed: 280$COLOR_END$BRInvoca o unicórnio Rainbow para montar." gender="Common" race="Common" />
     <String id="211145" name="Montaria: Carregador da Morte" class="Common" tooltip="$H_S_GOODSpeed: 275$COLOR_END$BRInvoca um carregador da morte para montar. (30 dias)" gender="Common" race="Common" />
-    <String id="211150" name="Montaria: Nevasca" class="Common" tooltip="$H_S_GOODVelocidade: 280$COLOR_END$BRMontar uma montaria de leopardo-das-neves para montar." gender="Common" race="Common" />
+    <String id="211150" name="Montaria: Nevasca" class="Common" tooltip="$H_S_GOODVelocidade: 280$COLOR_END$BRSMontar uma montaria de leopardo-das-neves para montar." gender="Common" race="Common" />
     <String id="220100" name="Final Salvo I" class="Archer" tooltip="[Rajada Final I] Mantenha pressionado o botão de habilidade para disparar até 5 flechas a uma distância de $maxDistance. Causa menos dano no alcance máximo. Você pode usá-la como uma habilidade em cadeia somente após Radiant Arrow ou Penetrating Arrow." gender="Common" race="Common" />
     <String id="220100" name="Arun's Tears" class="Elementalist" tooltip="[Lágrimas de Arun] Reúna o poder arúnico para criar um Orbe que recupera instantaneamente 639 MP." gender="Common" race="Common" />
     <String id="220100" name="Command: Self-Destruct" class="Engineer" tooltip="[Comando: Autodestruição] Ordene que seus construtos convocados detonem, causando dano e atordoando os inimigos em um raio de 4 m. Você deve estar a até 40 m de uma construção para emitir esse comando e pode fazê-lo mesmo se for derrubado ou estiver usando outra habilidade." gender="Common" race="Common" />
@@ -1817,7 +1821,7 @@
     <String id="1111519" name="Montaria: Duckerberg" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca a montaria de pato para montar." gender="Common" race="Common" />
     <String id="1111520" name="Montaria: Pato (Punk)" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca o pato (Punk) para montar." gender="Common" race="Common" />
     <String id="1111521" name="Montaria: Carmine" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca um dracoraptor vermelho-sangue para montar." gender="Common" race="Common" />
-    <String id="1111522" name="Montaria: Carmine" class="Common" tooltip="$H_S_GOODVelocidade de Movimento 275$COLOR_END$BRInvoca um dracoraptor vermelho-sangue temporário para montar." gender="Common" race="Common" />
+    <String id="1111522" name="Montaria: Carmine" class="Common" tooltip="$H_S_GOODVelocidade de Movimento 275$COLOR_END$BRSInvoca um dracoraptor vermelho-sangue temporário para montar." gender="Common" race="Common" />
     <String id="1111523" name="Montaria: Sparky" class="Common" tooltip="$H_S_GOODVelocidade de movimento 275$COLOR_END$BRInvoca um dracoraptor para montar." gender="Common" race="Common" />
     <String id="1111524" name="Montaria: Sparky" class="Common" tooltip="$H_S_GOODVelocidade de movimento 275$COLOR_END$BRInvoca um dracoraptor temporário para montar." gender="Common" race="Common" />
     <String id="1111525" name="Montaria: Quacklemore" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca a montaria de pato para montar." gender="Common" race="Common" />
@@ -1851,6 +1855,20 @@
     <String id="1111553" name="Montaria: Duckerberg" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca a montaria de pato para montar." gender="Common" race="Common" />
     <String id="1111554" name="Montaria: Quacklemore" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca a montaria de pato para montar." gender="Common" race="Common" />
     <String id="1111555" name="Montaria: Dafi" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. Recupera sua Stamina$COLOR_END$BRInvoca Dafi, a montaria de pato maníaco que Recupera sua Stamina." gender="Common" race="Common" />
+    <String id="1111556" name="Призыв: Синий Оками" tooltip="$H_S_GOOD Призыв: Оками. Восстанавливает HP.$COLOR_END$BRОками со скоростью перемещения 280. Во время езды ваши HP постепенно восстанавливаются." gender="Common" race="Common" class="Common" />
+    <String id="1111557" name="Призыв: Красный Оками" tooltip="$H_S_GOOD Призыв: Красный оками. Восстанавливает бодость.$COLOR_END$BRПризывает Красного оками. Скорость движения 280." gender="Common" race="Common" class="Common" />
+    <String id="1111558" name="[Предыдущий приз] Призыв: Радуга" tooltip="$H_S_GOODСкорость 280.$COLOR_END$BRЕдинорог Радуга со скоростью перемещения 280." gender="Common" race="Common" class="Common" />
+    <String id="1111559" name="[Приз за приглашение друга] Призыв: Львица" tooltip="$H_S_GOODСкорость 280.$COLOR_END$BRЛьвица со скоростью перемещения 280." gender="Common" race="Common" class="Common" />
+    <String id="1111560" name="Призыв: Полицейская машина" tooltip="$H_S_GOOD Призыв: Полицейская машина (Бодр.). Восстанавливает бодрость.$COLOR_END$BRПолицейская машина со скоростью перемещения 280. Во время езды ваша бодрость постепенно восстанавливается. " gender="Common" race="Common" class="Common" />
+    <String id="1111561" name="Призыв: Алый (Бодр.)" tooltip="$H_S_GOOD Призыв: Алый (Бодр). Восстанавливает бодрость.$COLOR_END$BRЕздовой дракон Алый со скоростью перемещения 280. Во время езды ваша бодрость постепенно восстанавливается. " gender="Common" race="Common" class="Common" />
+    <String id="1111562" name="Призыв: Златогривый лев (15 дней)" tooltip="$H_S_GOODСкорость 280.$COLOR_END$BRЗлатогривый лев со скоростью перемещения 280 на 15 дней." gender="Common" race="Common" class="Common" />
+    <String id="1111563" name="Призыв: Алый" tooltip="$H_S_GOODСкорость: 280.$COLOR_END$BRЕздовой дракон Алый со скоростью перемещения 280." gender="Common" race="Common" class="Common" />
+    <String id="1111564" name="Призыв: Шерпа" tooltip="$H_S_GOODВосстанавливает MP.$COLOR_END$BRШерпа со скоростью перемещения 280. Во время езды ваши MP постепенно восстанавливаются." gender="Common" race="Common" class="Common" />
+    <String id="1111565" name="Призыв: Весельчак (MP)" tooltip="$H_S_GOODВосстанавливает MP.$COLOR_END$BRВесельчак со скоростью перемещения 280. Во время езды ваши MP постепенно восстанавливаются." gender="Common" race="Common" class="Common" />
+    <String id="1111566" name="Призыв: Снежный Буранчик (Бодр.)" tooltip="$H_S_GOOD Призыв: Снежный Буранчик (Бодр.). Восстанавливает бодрость.$COLOR_END$BRСнежный Буранчик со скоростью перемещения 280. Во время езды ваша бодрость постепенно восстанавливается." gender="Common" race="Common" class="Common" />
+    <String id="1111567" name="Призыв: Рождественский кумас (Бодр.)" tooltip="$H_S_GOOD Призыв: Рождественский кумас (Бодр.). Восстанавливает бодрость.$COLOR_END$BRРождественский кумас со скоростью перемещения 280. Во время езды ваша бодрость постепенно восстанавливается." gender="Common" race="Common" class="Common" />
+    <String id="1111568" name="Призыв: Буранчик (Бодр.)" tooltip="$H_S_GOOD Призыв: Буранчик (Бодр.). Восстанавливает бодрость.$COLOR_END$BRСнежный Буранчик со скоростью перемещения 280. Во время езды ваша бодрость постепенно восстанавливается." gender="Common" race="Common" class="Common" />
+    <String id="1111569" gender="Common" race="Common" class="Common" />
     <String id="1111651" name="Montaria: Ember" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. Recupera sua Stamina$COLOR_END$BRInvoca Ember, o struthio ardente que Recupera sua Stamina." gender="Common" race="Common" />
     <String id="1111911" name="Montaria: Corcel das Sombras" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca um corcel sombrio para montar." gender="Common" race="Common" />
     <String id="1111921" name="Montaria: Vento Elétrico" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca o Vento de Eletrum para montar." gender="Common" race="Common" />
@@ -1864,6 +1882,22 @@
     <String id="1701271" name="Montaria: Snarl" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca um lobo espiritual para montar." gender="Common" race="Common" />
     <String id="1701272" name="Montaria: Carro de polícia" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280.$COLOR_END$BRCarro de polícia com velocidade de movimento de 280." gender="Common" race="Common" />
     <String id="1701273" name="Montaria: Dragão oriental" class="Common" tooltip="$H_S_GOODVelocidade de movimento: 280.$COLOR_END$BRMontagem de dragão dourado com velocidade de movimento de 280." gender="Common" race="Common" />
+    <String id="1701274" name="Призыв: Снежный кумас" tooltip="$H_S_GOODСкорость: 280.$COLOR_END$BRСнежный кумас со скоростью перемещения 280." gender="Common" race="Common" class="Common" />
+    <String id="1701275" name="Призыв: Медный кумас" tooltip="$H_S_GOODСкорость: 280.$COLOR_END$BRМедный кумас со скоростью перемещения 280." gender="Common" race="Common" class="Common" />
+    <String id="1701276" name="Призыв: Огромный снеговик" tooltip="$H_S_GOODСкорость: 280.$COLOR_END$BRОгромный снеговик со скоростью перемещения 280." gender="Common" race="Common" class="Common" />
+    <String id="1701277" name="Призыв: Новогодний кумас" tooltip="$H_S_GOODСкорость: 280.$COLOR_END$BRНовогодний кумас со скоростью перемещения 280." gender="Common" race="Common" class="Common" />
+    <String id="1701278" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="1701279" name="Призыв: Огромный снеговик Рудольф" tooltip="$H_S_GOODСкорость: 280.$COLOR_END$BRОгромный снеговик Рудольф со скоростью перемещения 280." gender="Common" race="Common" class="Common" />
+    <String id="1701280" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="1701281" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="1701282" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="1701283" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="1701284" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="1701285" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="1701292" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="1701293" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="1701294" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="1701295" name="" tooltip="" gender="Common" race="Common" class="Common" />
     <String id="2222537" name="Montaria: Glimmer" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca Glimmer, o lobo dourado." gender="Common" race="Common" />
     <String id="2222538" name="Montaria: Temperamento" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca Temper, o lobo de bronze." gender="Common" race="Common" />
     <String id="2222539" name="Montaria: Cinder" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca Cinder, o lobo negro." gender="Common" race="Common" />
@@ -1913,20 +1947,20 @@
     <String id="2222583" name="Montaria: Tinderheart" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. Recupera sua Stamina$COLOR_END$BRInvoca Tinderheart, o tigre que Recupera sua Stamina." gender="Common" race="Common" />
     <String id="2222584" name="Montaria: Tinderheart" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. Recupera sua Stamina$COLOR_END$BRInvoca Tinderheart, o tigre que Recupera sua Stamina." gender="Common" race="Common" />
     <String id="2222585" name="Montaria: Silva" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca Silva, o tigre atlético, para montar." gender="Common" race="Common" />
-    <String id="2222586" name="Montaria: Dante" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera o MP$COLOR_END$BRconvoque Dante, o tigre atlético que recupera o MP, para cavalgar." gender="Common" race="Common" />
+    <String id="2222586" name="Montaria: Dante" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera o MP$COLOR_END$BRSconvoque Dante, o tigre atlético que recupera o MP, para cavalgar." gender="Common" race="Common" />
     <String id="2222587" name="Montaria: Cesar" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera o HP$COLOR_END$BRInvoca Cesar, o tigre atlético que recupera o HP, para montar." gender="Common" race="Common" />
-    <String id="2222588" name="Montaria: Oscar" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera a resistência$COLOR_END$BRconvoque Oscar, o tigre atlético que recupera a resistência, para cavalgar." gender="Common" race="Common" />
+    <String id="2222588" name="Montaria: Oscar" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera a resistência$COLOR_END$BRSconvoque Oscar, o tigre atlético que recupera a resistência, para cavalgar." gender="Common" race="Common" />
     <String id="2222589" name="Montaria: Silva" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca Silva, o tigre atlético, para montar." gender="Common" race="Common" />
-    <String id="2222590" name="Montaria: Dante" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera o MP$COLOR_END$BRconvoque Dante, o tigre atlético que recupera o MP, para cavalgar." gender="Common" race="Common" />
+    <String id="2222590" name="Montaria: Dante" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera o MP$COLOR_END$BRSconvoque Dante, o tigre atlético que recupera o MP, para cavalgar." gender="Common" race="Common" />
     <String id="2222591" name="Montaria: Cesar" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera o HP$COLOR_END$BRInvoca Cesar, o tigre atlético que recupera o HP, para montar." gender="Common" race="Common" />
-    <String id="2222592" name="Montaria: Oscar" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera a resistência$COLOR_END$BRconvoque Oscar, o tigre atlético que recupera a resistência, para cavalgar." gender="Common" race="Common" />
+    <String id="2222592" name="Montaria: Oscar" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera a resistência$COLOR_END$BRSconvoque Oscar, o tigre atlético que recupera a resistência, para cavalgar." gender="Common" race="Common" />
     <String id="2222593" name="Montaria: Ronaldo" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca Ronaldo, o atlético tigre branco, para montar." gender="Common" race="Common" />
     <String id="2222594" name="Montaria: Lucio" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera o MP$COLOR_END$BRInvoca Lucio, o atlético tigre branco que recupera o MP, para montar." gender="Common" race="Common" />
-    <String id="2222595" name="Montaria: Neymar" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera a HP$COLOR_END$BRconvoque Neymar, o atlético tigre branco que recupera a HP, para montar." gender="Common" race="Common" />
+    <String id="2222595" name="Montaria: Neymar" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera a HP$COLOR_END$BRSconvoque Neymar, o atlético tigre branco que recupera a HP, para montar." gender="Common" race="Common" />
     <String id="2222596" name="Montaria: Pelé" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera a resistência$COLOR_END$BRInvoca Pele, o tigre branco atlético que recupera a resistência, para cavalgar." gender="Common" race="Common" />
     <String id="2222597" name="Montaria: Ronaldo" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca Ronaldo, o atlético tigre branco, para montar." gender="Common" race="Common" />
     <String id="2222598" name="Montaria: Lucio" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera o MP$COLOR_END$BRInvoca Lucio, o atlético tigre branco que recupera o MP, para montar." gender="Common" race="Common" />
-    <String id="2222599" name="Montaria: Neymar" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera a HP$COLOR_END$BRconvoque Neymar, o atlético tigre branco que recupera a HP, para montar." gender="Common" race="Common" />
+    <String id="2222599" name="Montaria: Neymar" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera a HP$COLOR_END$BRSconvoque Neymar, o atlético tigre branco que recupera a HP, para montar." gender="Common" race="Common" />
     <String id="2222600" name="Montaria: Pelé" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera a resistência$COLOR_END$BRInvoca Pele, o tigre branco atlético que recupera a resistência, para cavalgar." gender="Common" race="Common" />
     <String id="2222601" name="Montaria: Kwak" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca Kwak, o tigre atlético a ser montado." gender="Common" race="Common" />
     <String id="2222602" name="Montaria: Jung" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera o MP$COLOR_END$BRInvoca Jung, o tigre atlético que recupera o MP, para cavalgar." gender="Common" race="Common" />
@@ -1937,11 +1971,11 @@
     <String id="2222607" name="Montaria: Ji" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera HP$COLOR_END$BRInvoca Ji, o tigre atlético que recupera HP, para cavalgar." gender="Common" race="Common" />
     <String id="2222608" name="Montaria: Koo" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera a resistência$COLOR_END$BRInvoca Koo, o tigre atlético que recupera a resistência, para cavalgar." gender="Common" race="Common" />
     <String id="2222609" name="Montaria: Parque" class="Common" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRInvoca Park, o atlético tigre branco, para montar." gender="Common" race="Common" />
-    <String id="2222610" name="Montaria: Lee" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera o MP$COLOR_END$BRconvoque Lee, o atlético tigre branco que recupera o MP, para montar." gender="Common" race="Common" />
+    <String id="2222610" name="Montaria: Lee" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera o MP$COLOR_END$BRSconvoque Lee, o atlético tigre branco que recupera o MP, para montar." gender="Common" race="Common" />
     <String id="2222611" name="Montaria: Ki" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera o HP$COLOR_END$BRInvoca Ki, o tigre branco atlético que recupera o HP, para montar." gender="Common" race="Common" />
     <String id="2222612" name="Montaria: Hong" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera a resistência$COLOR_END$BRInvoca Hong, o tigre branco atlético que recupera a resistência, para montar." gender="Common" race="Common" />
     <String id="2222613" name="Montaria: Parque" class="Common" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRInvoca Park, o atlético tigre branco, para montar." gender="Common" race="Common" />
-    <String id="2222614" name="Montaria: Lee" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera o MP$COLOR_END$BRconvoque Lee, o atlético tigre branco que recupera o MP, para montar." gender="Common" race="Common" />
+    <String id="2222614" name="Montaria: Lee" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera o MP$COLOR_END$BRSconvoque Lee, o atlético tigre branco que recupera o MP, para montar." gender="Common" race="Common" />
     <String id="2222615" name="Montaria: Ki" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera o HP$COLOR_END$BRInvoca Ki, o tigre branco atlético que recupera o HP, para montar." gender="Common" race="Common" />
     <String id="2222616" name="Montaria: Hong" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280. recupera a resistência$COLOR_END$BRInvoca Hong, o tigre branco atlético que recupera a resistência, para montar." gender="Common" race="Common" />
     <String id="2222617" name="Montaria: Glória" class="Common" tooltip="$H_S_GOODVelocidade de movimento 280$COLOR_END$BRInvoca Glory, um lobo espiritual para montar." gender="Common" race="Common" />
@@ -2031,6 +2065,7 @@
     <String id="2222701" name="Montaria: Dragão oriental dourado (HP)" class="Common" tooltip="$H_S_GOODRecria HP.$COLOR_END$BRDragão oriental dourado com velocidade de movimento de 280. Recupera gradualmente os PV durante a viagem." gender="Common" race="Common" />
     <String id="2222702" name="Montaria: Dragão oriental dourado (Stam.)" class="Common" tooltip="$H_S_GOODRecupera a resistência$COLOR_END$BRDragão oriental dourado com velocidade de movimento de 280. Recupera gradualmente a resistência durante a viagem." gender="Common" race="Common" />
     <String id="2222703" name="Montaria: Dragão oriental dourado (Stam.)" class="Common" tooltip="$H_S_GOODRecupera a resistência$COLOR_END$BRDragão oriental dourado com velocidade de movimento de 280. Recupera gradualmente a resistência durante a viagem." gender="Common" race="Common" />
+    <String id="2402000" name="Кувырок" tooltip="Позволяет прыгнуть вперед, уклоняясь от атак." gender="Common" race="Common" class="Berserker" />
     <String id="3333019" name="Invocar Pet: Addams" class="Common" tooltip="Convoque seu Pet com a capacidade de [coleta de item automática]." gender="Common" race="Common" />
     <String id="3333020" name="Invocar Pet: Bonzai" class="Common" tooltip="Convoque seu Pet com a capacidade de [coleta de item automática]." gender="Common" race="Common" />
     <String id="3333021" name="Invocar Pet: Addams" class="Common" tooltip="Convoque seu Pet com a capacidade de [coleta de item automática]." gender="Common" race="Common" />
@@ -2078,6 +2113,26 @@
     <String id="8400020" name="Montaria: Fortuna" class="Common" tooltip="$H_S_GOODVelocidade de movimento 290$COLOR_END$BRInvoca Fortuna, o cavalo de guerra da Freed Traders Collective, para montar." gender="Common" race="Common" />
     <String id="8400030" name="Montaria: Fides" class="Common" tooltip="$H_S_GOODVelocidade de Movimento 290$COLOR_END$BRInvoca Fides, o cavalo de guerra da União Iluminada, para montar." gender="Common" race="Common" />
     <String id="8400040" name="Montaria: Virtus" class="Common" tooltip="$H_S_GOODVelocidade de movimento 290$COLOR_END$BRInvoca Virtus, o cavalo de guerra da Ordem de Ferro para montar." gender="Common" race="Common" />
+    <String id="8400050" name="Summon: Brave Black Lion" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a Brave Black Lion to ride." gender="Common" race="Common" class="Common" />
+    <String id="8400051" name="Summon: Loyal Black Lion" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a Loyal Black Lion to ride." gender="Common" race="Common" class="Common" />
+    <String id="8400060" name="Summon: Brave Black Steed" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a Brave Black Steed to ride." gender="Common" race="Common" class="Common" />
+    <String id="8400061" name="Summon: Loyal Black Steed" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a Loyal Black Steed to ride." gender="Common" race="Common" class="Common" />
+    <String id="8400070" name="Summon: Glorious Black Lion" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a Glorious Black Lion to ride." gender="Common" race="Common" class="Common" />
+    <String id="8400080" name="Summon: Glorious Black Steed" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a Glorious Black Steed to ride." gender="Common" race="Common" class="Common" />
+    <String id="8500000" name="Summon: Brave Black Lion" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a Brave Black Lion to ride.&lt;BR&gt;&lt;font color = '#FF0000'&gt;You may summon this mount only for one season.&lt;/font&gt;" gender="Common" race="Common" class="Common" />
+    <String id="8500001" name="Summon: Loyal Black Lion" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a Loyal Black Lion to ride.&lt;BR&gt;&lt;font color = '#FF0000'&gt;You may summon this mount only for one season.&lt;/font&gt;" gender="Common" race="Common" class="Common" />
+    <String id="8500002" name="Summon: Brave Black Steed" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a Brave Black Steed to ride.&lt;BR&gt;&lt;font color = '#FF0000'&gt;You may summon this mount only for one season.&lt;/font&gt;" gender="Common" race="Common" class="Common" />
+    <String id="8500003" name="Summon: Loyal Black Steed" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a Loyal Black Steed to ride.&lt;BR&gt;&lt;font color = '#FF0000'&gt;You may summon this mount only for one season.&lt;/font&gt;" gender="Common" race="Common" class="Common" />
+    <String id="8500004" name="Summon: Glorious Black Lion" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a Glorious Black Lion to ride." gender="Common" race="Common" class="Common" />
+    <String id="8500005" name="Summon: Glorious Black Steed" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a Glorious Black Steed to ride." gender="Common" race="Common" class="Common" />
+    <String id="8500006" name="Summon: Brave White Lion" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a Brave White Lion to ride.&lt;BR&gt;&lt;font color = '#FF0000'&gt;You may summon this mount only for one season.&lt;/font&gt;" gender="Common" race="Common" class="Common" />
+    <String id="8500007" name="Summon: Loyal White Lion" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a Loyal White Lion to ride.&lt;BR&gt;&lt;font color = '#FF0000'&gt;You may summon this mount only for one season.&lt;/font&gt;" gender="Common" race="Common" class="Common" />
+    <String id="8500008" name="Summon: Brave White Steed" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a Brave White Steed to ride.&lt;BR&gt;&lt;font color = '#FF0000'&gt;You may summon this mount only for one season.&lt;/font&gt;" gender="Common" race="Common" class="Common" />
+    <String id="8500009" name="Summon: Loyal White Steed" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a Loyal White Steed to ride.&lt;BR&gt;&lt;font color = '#FF0000'&gt;You may summon this mount only for one season.&lt;/font&gt;" gender="Common" race="Common" class="Common" />
+    <String id="8500010" name="Summon: Glorious White Lion" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a Glorious White Lion to ride." gender="Common" race="Common" class="Common" />
+    <String id="8500011" name="Summon: Glorious White Steed" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a Glorious White Steed to ride." gender="Common" race="Common" class="Common" />
+    <String id="8500020" name="Summon: Glorious White Lion" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a Glorious White Lion to ride." gender="Common" race="Common" class="Common" />
+    <String id="8500030" name="Summon: Glorious White Steed" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a Glorious White Steed to ride." gender="Common" race="Common" class="Common" />
     <String id="9010100" name="Kaiator's Drums" class="Common" tooltip="Teletransporte-se para Kaiator." gender="Common" race="Aman" />
     <String id="9010100" name="Core's Resonance" class="Common" tooltip="Teleporte-se para Allemantheia." gender="Common" race="Baraka" />
     <String id="9010100" name="Kaiator's Drums" class="Common" tooltip="Teletransporte-se para Kaiator." gender="Common" race="Castanic" />
@@ -2092,6 +2147,189 @@
     <String id="9020100" name="Soothing Presence" class="Common" tooltip="[Presença Tranquilizante] Os monstros não fazem ataques preventivos, mas sua velocidade de movimento diminui em $value2 por $time. O efeito desaparece imediatamente quando você usa uma habilidade ou item, ou quando o combate começa." gender="Common" race="Popori" />
     <String id="9030100" name="Horizon Run" class="Common" tooltip="[Corrida do Horizonte] Sua velocidade aumenta em $value por $time fora de combate." gender="Common" race="Popori" />
     <String id="11117100" name="Montaria: Regulus (Lendário)" class="Common" tooltip="$H_S_GOODVelocidade de movimento 330$COLOR_END$BRInvoca Regulus, o leão, para cavalgar. Recupera gradualmente a resistência durante a cavalgada.  Requer nível 5 no Champions' Skyring para ser usado." gender="Common" race="Common" />
+    <String id="12000000" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="12000001" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="12000002" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="12000003" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="12000004" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="12000005" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="12000006" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="12000007" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="12000008" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="12000009" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="12000010" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="12000011" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="12000012" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14000001" name="Summon: Jadewing" tooltip="$H_S_GOODSpeed: 280$COLOR_END$BRSummon Jadewing to ride." gender="Common" race="Common" class="Common" />
+    <String id="14000002" name="Summon: Mythical Jadewing" tooltip="$H_S_GOODSpeed: 280; Effect: MP$COLOR_END$BRSummon the Mythical Jadewing to ride which regenerates your MP." gender="Common" race="Common" class="Common" />
+    <String id="14000003" name="Summon: Fabled Jadewing" tooltip="$H_S_GOODSpeed: 280; Effect: HP$COLOR_END$BRSummon the Fabled Jadewing to ride which regenerates your HP." gender="Common" race="Common" class="Common" />
+    <String id="14000004" name="Summon: Legendary Jadewing" tooltip="$H_S_GOODSpeed: 280; Effect: Stamina$COLOR_END$BRSummon the Legendary Jadewing to ride which regenerates your Stamina." gender="Common" race="Common" class="Common" />
+    <String id="14000005" name="Summon: Ebonwing" tooltip="$H_S_GOODSpeed: 280$COLOR_END$BRSummon Ebonwing to ride." gender="Common" race="Common" class="Common" />
+    <String id="14000006" name="Summon: Mythical Ebonwing" tooltip="$H_S_GOODSpeed: 280; Effect: MP$COLOR_END$BRSummon the Mythical Ebonwing which replenishes your MP." gender="Common" race="Common" class="Common" />
+    <String id="14000007" name="Summon: Fabled Ebonwing" tooltip="$H_S_GOODSpeed: 280; Effect: HP$COLOR_END$BRSummon the Fabled Ebonwing which replenishes your HP." gender="Common" race="Common" class="Common" />
+    <String id="14000008" name="Summon: Legendary Ebonwing" tooltip="$H_S_GOODSpeed: 280; Effect: Stamina$COLOR_END$BRSummon the Legendary Ebonwing which replenishes your Stamina." gender="Common" race="Common" class="Common" />
+    <String id="14000009" name="Summon: Silverwing" tooltip="$H_S_GOODSpeed: 280$COLOR_END$BRSummon Silverwing to ride." gender="Common" race="Common" class="Common" />
+    <String id="14000010" name="Summon: Mythical Silverwing" tooltip="$H_S_GOODSpeed: 280; Effect: MP$COLOR_END$BRSummon the Mythical Silverwing which replenishes your MP." gender="Common" race="Common" class="Common" />
+    <String id="14000011" name="Summon: Fabled Silverwing" tooltip="$H_S_GOODSpeed: 280; Effect: HP$COLOR_END$BRSummon the Fabled Silverwing which replenishes your HP." gender="Common" race="Common" class="Common" />
+    <String id="14000012" name="Summon: Legendary Silverwing" tooltip="$H_S_GOODSpeed: 280; Effect: Stamina$COLOR_END$BRSummon the Legendary Silverwing which replenishes your Stamina." gender="Common" race="Common" class="Common" />
+    <String id="14000013" name="Summon: Polar Bear" tooltip="$H_S_GOODSpeed: 280$COLOR_END$BRSummon a Polar Bear to ride." gender="Common" race="Common" class="Common" />
+    <String id="14000014" name="Summon: Brave Polar Bear" tooltip="$H_S_GOODSpeed: 280; Effect: MP$COLOR_END$BRSummon a Brave Polar Bear which replenishes your MP." gender="Common" race="Common" class="Common" />
+    <String id="14000015" name="Summon: Tough Polar Bear" tooltip="$H_S_GOODSpeed: 280; Effect: HP$COLOR_END$BRSummon a Tough Polar Bear which replenishes your HP." gender="Common" race="Common" class="Common" />
+    <String id="14000016" name="Summon: Loyal Polar Bear" tooltip="$H_S_GOODSpeed: 280; Effect: Stamina$COLOR_END$BRSummon a Loyal Polar Bear which replenishes your Stamina." gender="Common" race="Common" class="Common" />
+    <String id="14000017" name="Summon: Grizzly Bear" tooltip="$H_S_GOODSpeed: 280$COLOR_END$BRSummon a Grizzly Bear to ride." gender="Common" race="Common" class="Common" />
+    <String id="14000018" name="Summon: Brave Grizzly Bear" tooltip="$H_S_GOODSpeed: 280; Effect: MP$COLOR_END$BRSummon a Brave Grizzly Bear which replenishes your MP." gender="Common" race="Common" class="Common" />
+    <String id="14000019" name="Summon: Tough Grizzly Bear" tooltip="$H_S_GOODSpeed: 280; Effect: HP$COLOR_END$BRSummon a Tough Grizzly Bear which replenishes your HP." gender="Common" race="Common" class="Common" />
+    <String id="14000020" name="Summon: Loyal Grizzly Bear" tooltip="$H_S_GOODSpeed: 280; Effect: Stamina$COLOR_END$BRSummon a Loyal Grizzly Bear which replenishes your Stamina." gender="Common" race="Common" class="Common" />
+    <String id="14000021" name="Summon: Panda" tooltip="$H_S_GOODSpeed: 280$COLOR_END$BRSummon a Panda to ride." gender="Common" race="Common" class="Common" />
+    <String id="14000022" name="Summon: Brave Panda" tooltip="$H_S_GOODSpeed: 280; Effect: MP$COLOR_END$BRSummon a Brave Panda which replenishes your MP." gender="Common" race="Common" class="Common" />
+    <String id="14000023" name="Summon: Tough Panda" tooltip="$H_S_GOODSpeed: 280; Effect: HP$COLOR_END$BRSummon a Tough Panda which replenishes your HP." gender="Common" race="Common" class="Common" />
+    <String id="14000024" name="Summon: Loyal Panda" tooltip="$H_S_GOODSpeed: 280; Effect: Stamina$COLOR_END$BRSummon a Loyal Panda which replenishes your Stamina." gender="Common" race="Common" class="Common" />
+    <String id="14000025" name="Призыв: Арктос" tooltip="$H_S_GOODВосстанавливает MP, HP и бодрость.$COLOR_END$BRПолярный медведь Арктос скоростью перемещения 280. Во время езды ваши MP, HP и бодрость постепенно восстанавливаются." gender="Common" race="Common" class="Common" />
+    <String id="14000026" name="Призыв: Урса" tooltip="$H_S_GOODВосстанавливает MP, HP и бодрость.$COLOR_END$BRБурый медведь Урса со скоростью перемещения 280. Во время езды ваши MP, HP и бодрость постепенно восстанавливаются." gender="Common" race="Common" class="Common" />
+    <String id="14000027" name="Призыв: Мей-Мей" tooltip="$H_S_GOODВосстанавливает MP, HP и бодрость.$COLOR_END$BRПанда Мей-Мей со скоростью перемещения 280. Во время езды ваши MP, HP и бодрость постепенно восстанавливаются." gender="Common" race="Common" class="Common" />
+    <String id="14000028" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14000029" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14000030" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14000031" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14000032" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14000033" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14000034" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14000035" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14000036" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14000037" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14000038" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14000039" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14000040" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14000041" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14000042" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14000043" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14000044" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14000045" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14000046" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14000047" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14000048" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14000049" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14000050" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14000051" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14000052" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14000053" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14000054" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14000055" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100001" name="Summon: Jadewing" tooltip="$H_S_GOODSpeed: 280$COLOR_END$BRSummon Jadewing to ride." gender="Common" race="Common" class="Common" />
+    <String id="14100002" name="Summon: Jadewing" tooltip="$H_S_GOODSpeed: 280$COLOR_END$BRSummon Jadewing to ride." gender="Common" race="Common" class="Common" />
+    <String id="14100003" name="Summon: Mythical Jadewing" tooltip="$H_S_GOODSpeed: 280; Effect: MP$COLOR_END$BRSummon the Mythical Jadewing to ride which regenerates your MP." gender="Common" race="Common" class="Common" />
+    <String id="14100004" name="Summon: Mythical Jadewing" tooltip="$H_S_GOODSpeed: 280; Effect: MP$COLOR_END$BRSummon the Mythical Jadewing to ride which regenerates your MP." gender="Common" race="Common" class="Common" />
+    <String id="14100005" name="Summon: Fabled Jadewing" tooltip="$H_S_GOODSpeed: 280; Effect: HP$COLOR_END$BRSummon the Fabled Jadewing to ride which regenerates your HP." gender="Common" race="Common" class="Common" />
+    <String id="14100006" name="Summon: Fabled Jadewing" tooltip="$H_S_GOODSpeed: 280; Effect: HP$COLOR_END$BRSummon the Fabled Jadewing to ride which regenerates your HP." gender="Common" race="Common" class="Common" />
+    <String id="14100007" name="Summon: Legendary Jadewing" tooltip="$H_S_GOODSpeed: 280; Effect: Stamina$COLOR_END$BRSummon the Legendary Jadewing to ride which regenerates your Stamina." gender="Common" race="Common" class="Common" />
+    <String id="14100008" name="Summon: Legendary Jadewing" tooltip="$H_S_GOODSpeed: 280; Effect: Stamina$COLOR_END$BRSummon the Legendary Jadewing to ride which regenerates your Stamina." gender="Common" race="Common" class="Common" />
+    <String id="14100009" name="Summon: Ebonwing" tooltip="$H_S_GOODSpeed: 280$COLOR_END$BRSummon Ebonwing to ride." gender="Common" race="Common" class="Common" />
+    <String id="14100010" name="Summon: Ebonwing" tooltip="$H_S_GOODSpeed: 280$COLOR_END$BRSummon Ebonwing to ride." gender="Common" race="Common" class="Common" />
+    <String id="14100011" name="Summon: Mythical Ebonwing" tooltip="$H_S_GOODSpeed: 280; Effect: MP$COLOR_END$BRSummon the Mythical Ebonwing which replenishes your MP." gender="Common" race="Common" class="Common" />
+    <String id="14100012" name="Summon: Mythical Ebonwing" tooltip="$H_S_GOODSpeed: 280; Effect: MP$COLOR_END$BRSummon the Mythical Ebonwing which replenishes your MP." gender="Common" race="Common" class="Common" />
+    <String id="14100013" name="Summon: Fabled Ebonwing" tooltip="$H_S_GOODSpeed: 280; Effect: HP$COLOR_END$BRSummon the Fabled Ebonwing which replenishes your HP." gender="Common" race="Common" class="Common" />
+    <String id="14100014" name="Summon: Fabled Ebonwing" tooltip="$H_S_GOODSpeed: 280; Effect: HP$COLOR_END$BRSummon the Fabled Ebonwing which replenishes your HP." gender="Common" race="Common" class="Common" />
+    <String id="14100015" name="Summon: Legendary Ebonwing" tooltip="$H_S_GOODSpeed: 280; Effect: Stamina$COLOR_END$BRSummon the Legendary Ebonwing which replenishes your Stamina." gender="Common" race="Common" class="Common" />
+    <String id="14100016" name="Summon: Legendary Ebonwing" tooltip="$H_S_GOODSpeed: 280; Effect: Stamina$COLOR_END$BRSummon the Legendary Ebonwing which replenishes your Stamina." gender="Common" race="Common" class="Common" />
+    <String id="14100017" name="Summon: Silverwing" tooltip="$H_S_GOODSpeed: 280$COLOR_END$BRSummon Silverwing to ride." gender="Common" race="Common" class="Common" />
+    <String id="14100018" name="Summon: Silverwing" tooltip="$H_S_GOODSpeed: 280$COLOR_END$BRSummon Silverwing to ride." gender="Common" race="Common" class="Common" />
+    <String id="14100019" name="Summon: Mythical Silverwing" tooltip="$H_S_GOODSpeed: 280; Effect: MP$COLOR_END$BRSummon the Mythical Silverwing which replenishes your MP." gender="Common" race="Common" class="Common" />
+    <String id="14100020" name="Summon: Mythical Silverwing" tooltip="$H_S_GOODSpeed: 280; Effect: MP$COLOR_END$BRSummon the Mythical Silverwing which replenishes your MP." gender="Common" race="Common" class="Common" />
+    <String id="14100021" name="Summon: Fabled Silverwing" tooltip="$H_S_GOODSpeed: 280; Effect: HP$COLOR_END$BRSummon the Fabled Silverwing which replenishes your HP." gender="Common" race="Common" class="Common" />
+    <String id="14100022" name="Summon: Fabled Silverwing" tooltip="$H_S_GOODSpeed: 280; Effect: HP$COLOR_END$BRSummon the Fabled Silverwing which replenishes your HP." gender="Common" race="Common" class="Common" />
+    <String id="14100023" name="Summon: Legendary Silverwing" tooltip="$H_S_GOODSpeed: 280; Effect: Stamina$COLOR_END$BRSummon the Legendary Silverwing which replenishes your Stamina." gender="Common" race="Common" class="Common" />
+    <String id="14100024" name="Summon: Legendary Silverwing" tooltip="$H_S_GOODSpeed: 280; Effect: Stamina$COLOR_END$BRSummon the Legendary Silverwing which replenishes your Stamina." gender="Common" race="Common" class="Common" />
+    <String id="14100025" name="Summon: Lupus Argentum" tooltip="$H_S_GOODSpeed: 280; Effect: MP$COLOR_END$BRSummon a Lupus Argentum which replenishes your MP." gender="Common" race="Common" class="Common" />
+    <String id="14100026" name="Summon: Lupus Argentum" tooltip="$H_S_GOODSpeed: 280; Effect: HP$COLOR_END$BRSummon a Lupus Argentum which replenishes your HP." gender="Common" race="Common" class="Common" />
+    <String id="14100027" name="Summon: Lupus Obscurus" tooltip="$H_S_GOODSpeed: 280; Effect: HP$COLOR_END$BRSummon a Lupus Obscurus which replenishes your HP." gender="Common" race="Common" class="Common" />
+    <String id="14100028" name="Summon: Lupus Obscurus" tooltip="$H_S_GOODSpeed: 280; Effect: Stamina$COLOR_END$BRSummon a Lupus Obscurus which replenishes your Stamina." gender="Common" race="Common" class="Common" />
+    <String id="14100029" name="Summon: Lupus Noctus" tooltip="$H_S_GOODSpeed: 280; Effect: MP$COLOR_END$BRSummon a Lupus Noctus which replenishes your MP." gender="Common" race="Common" class="Common" />
+    <String id="14100030" name="Summon: Lupus Noctus" tooltip="$H_S_GOODSpeed: 280; Effect: Stamina$COLOR_END$BRSummon a Lupus Noctus which replenishes your Stamina." gender="Common" race="Common" class="Common" />
+    <String id="14100031" name="Summon: Lupus Aeris" tooltip="$H_S_GOODSpeed: 280; Effect: MP$COLOR_END$BRSummon a Lupus Aeris which replenishes your MP." gender="Common" race="Common" class="Common" />
+    <String id="14100032" name="Summon: Lupus Aeris" tooltip="$H_S_GOODSpeed: 280; Effect: HP$COLOR_END$BRSummon a Lupus Aeris which replenishes your HP." gender="Common" race="Common" class="Common" />
+    <String id="14100033" name="Summon: Lupus Aeris" tooltip="$H_S_GOODSpeed: 280; Effect: Stamina$COLOR_END$BRSummon a Lupus Aeris which replenishes your Stamina." gender="Common" race="Common" class="Common" />
+    <String id="14100034" name="Summon: Lupus Aurum" tooltip="$H_S_GOODSpeed: 280; Effect: MP$COLOR_END$BRSummon a Lupus Aurum which replenishes your MP." gender="Common" race="Common" class="Common" />
+    <String id="14100035" name="Summon: Lupus Aurum" tooltip="$H_S_GOODSpeed: 280; Effect: HP$COLOR_END$BRSummon a Lupus Aurum which replenishes your HP." gender="Common" race="Common" class="Common" />
+    <String id="14100036" name="Summon: Lupus Aurum" tooltip="$H_S_GOODSpeed: 280; Effect: Stamina$COLOR_END$BRSummon a Lupus Aurum which replenishes your Stamina." gender="Common" race="Common" class="Common" />
+    <String id="14100037" name="Summon: Polar Bear" tooltip="$H_S_GOODSpeed: 280$COLOR_END$BRSummon a Polar Bear to ride." gender="Common" race="Common" class="Common" />
+    <String id="14100038" name="Summon: Polar Bear" tooltip="$H_S_GOODSpeed: 280$COLOR_END$BRSummon a Polar Bear to ride." gender="Common" race="Common" class="Common" />
+    <String id="14100039" name="Summon: Brave Polar Bear" tooltip="$H_S_GOODSpeed: 280; Effect: MP$COLOR_END$BRSummon a Brave Polar Bear which replenishes your MP." gender="Common" race="Common" class="Common" />
+    <String id="14100040" name="Summon: Brave Polar Bear" tooltip="$H_S_GOODSpeed: 280; Effect: MP$COLOR_END$BRSummon a Brave Polar Bear which replenishes your MP." gender="Common" race="Common" class="Common" />
+    <String id="14100041" name="Summon: Tough Polar Bear" tooltip="$H_S_GOODSpeed: 280; Effect: HP$COLOR_END$BRSummon a Tough Polar Bear which replenishes your HP." gender="Common" race="Common" class="Common" />
+    <String id="14100042" name="Summon: Tough Polar Bear" tooltip="$H_S_GOODSpeed: 280; Effect: HP$COLOR_END$BRSummon a Tough Polar Bear which replenishes your HP." gender="Common" race="Common" class="Common" />
+    <String id="14100043" name="Summon: Loyal Polar Bear" tooltip="$H_S_GOODSpeed: 280; Effect: Stamina$COLOR_END$BRSummon a Loyal Polar Bear which replenishes your Stamina." gender="Common" race="Common" class="Common" />
+    <String id="14100044" name="Summon: Loyal Polar Bear" tooltip="$H_S_GOODSpeed: 280; Effect: Stamina$COLOR_END$BRSummon a Loyal Polar Bear which replenishes your Stamina." gender="Common" race="Common" class="Common" />
+    <String id="14100045" name="Summon: Grizzly Bear" tooltip="$H_S_GOODSpeed: 280$COLOR_END$BRSummon a Grizzly Bear to ride." gender="Common" race="Common" class="Common" />
+    <String id="14100046" name="Summon: Grizzly Bear" tooltip="$H_S_GOODSpeed: 280$COLOR_END$BRSummon a Grizzly Bear to ride." gender="Common" race="Common" class="Common" />
+    <String id="14100047" name="Summon: Brave Grizzly Bear" tooltip="$H_S_GOODSpeed: 280; Effect: MP$COLOR_END$BRSummon a Brave Grizzly Bear which replenishes your MP." gender="Common" race="Common" class="Common" />
+    <String id="14100048" name="Summon: Brave Grizzly Bear" tooltip="$H_S_GOODSpeed: 280; Effect: MP$COLOR_END$BRSummon a Brave Grizzly Bear which replenishes your MP." gender="Common" race="Common" class="Common" />
+    <String id="14100049" name="Summon: Tough Grizzly Bear" tooltip="$H_S_GOODSpeed: 280; Effect: HP$COLOR_END$BRSummon a Tough Grizzly Bear which replenishes your HP." gender="Common" race="Common" class="Common" />
+    <String id="14100050" name="Summon: Tough Grizzly Bear" tooltip="$H_S_GOODSpeed: 280; Effect: HP$COLOR_END$BRSummon a Tough Grizzly Bear which replenishes your HP." gender="Common" race="Common" class="Common" />
+    <String id="14100051" name="Summon: Loyal Grizzly Bear" tooltip="$H_S_GOODSpeed: 280; Effect: Stamina$COLOR_END$BRSummon a Loyal Grizzly Bear which replenishes your Stamina." gender="Common" race="Common" class="Common" />
+    <String id="14100052" name="Summon: Loyal Grizzly Bear" tooltip="$H_S_GOODSpeed: 280; Effect: Stamina$COLOR_END$BRSummon a Loyal Grizzly Bear which replenishes your Stamina." gender="Common" race="Common" class="Common" />
+    <String id="14100053" name="Summon: Panda" tooltip="$H_S_GOODSpeed: 280$COLOR_END$BRSummon a Panda to ride." gender="Common" race="Common" class="Common" />
+    <String id="14100054" name="Summon: Panda" tooltip="$H_S_GOODSpeed: 280$COLOR_END$BRSummon a Panda to ride." gender="Common" race="Common" class="Common" />
+    <String id="14100055" name="Summon: Brave Panda" tooltip="$H_S_GOODSpeed: 280; Effect: MP$COLOR_END$BRSummon a Brave Panda which replenishes your MP." gender="Common" race="Common" class="Common" />
+    <String id="14100056" name="Summon: Brave Panda" tooltip="$H_S_GOODSpeed: 280; Effect: MP$COLOR_END$BRSummon a Brave Panda which replenishes your MP." gender="Common" race="Common" class="Common" />
+    <String id="14100057" name="Summon: Tough Panda" tooltip="$H_S_GOODSpeed: 280; Effect: HP$COLOR_END$BRSummon a Tough Panda which replenishes your HP." gender="Common" race="Common" class="Common" />
+    <String id="14100058" name="Summon: Tough Panda" tooltip="$H_S_GOODSpeed: 280; Effect: HP$COLOR_END$BRSummon a Tough Panda which replenishes your HP." gender="Common" race="Common" class="Common" />
+    <String id="14100059" name="Summon: Loyal Panda" tooltip="$H_S_GOODSpeed: 280; Effect: Stamina$COLOR_END$BRSummon a Loyal Panda which replenishes your Stamina." gender="Common" race="Common" class="Common" />
+    <String id="14100060" name="Summon: Loyal Panda" tooltip="$H_S_GOODSpeed: 280; Effect: Stamina$COLOR_END$BRSummon a Loyal Panda which replenishes your Stamina." gender="Common" race="Common" class="Common" />
+    <String id="14100061" name="Призыв: Арктос" tooltip="$H_S_GOODВосстанавливает MP, HP и бодрость.$COLOR_END$BRПолярный медведь Арктос скоростью перемещения 280. Во время езды ваши MP, HP и бодрость постепенно восстанавливаются." gender="Common" race="Common" class="Common" />
+    <String id="14100062" name="Призыв: Арктос" tooltip="$H_S_GOODВосстанавливает MP, HP и бодрость.$COLOR_END$BRПолярный медведь Арктос скоростью перемещения 280. Во время езды ваши MP, HP и бодрость постепенно восстанавливаются." gender="Common" race="Common" class="Common" />
+    <String id="14100063" name="Призыв: Урса" tooltip="$H_S_GOODВосстанавливает MP, HP и бодрость.$COLOR_END$BRБурый медведь Урса со скоростью перемещения 280. Во время езды ваши MP, HP и бодрость постепенно восстанавливаются." gender="Common" race="Common" class="Common" />
+    <String id="14100064" name="Призыв: Урса" tooltip="$H_S_GOODВосстанавливает MP, HP и бодрость.$COLOR_END$BRБурый медведь Урса со скоростью перемещения 280. Во время езды ваши MP, HP и бодрость постепенно восстанавливаются." gender="Common" race="Common" class="Common" />
+    <String id="14100065" name="Призыв: Мей-Мей" tooltip="$H_S_GOODВосстанавливает MP, HP и бодрость.$COLOR_END$BRПанда Мей-Мей со скоростью перемещения 280. Во время езды ваши MP, HP и бодрость постепенно восстанавливаются." gender="Common" race="Common" class="Common" />
+    <String id="14100066" name="Призыв: Мей-Мей" tooltip="$H_S_GOODВосстанавливает MP, HP и бодрость.$COLOR_END$BRПанда Мей-Мей со скоростью перемещения 280. Во время езды ваши MP, HP и бодрость постепенно восстанавливаются." gender="Common" race="Common" class="Common" />
+    <String id="14100067" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100068" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100069" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100070" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100071" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100072" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100073" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100074" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100075" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100076" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100077" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100078" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100079" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100080" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100081" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100082" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100083" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100084" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100085" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100086" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100087" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100088" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100089" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100090" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100091" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100092" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100093" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100094" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100095" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100096" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100097" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100098" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100099" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100100" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100101" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100102" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100103" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100104" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100105" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14100106" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="14300002" name="Summon: Truffles" tooltip="Summon your walking piggy bank Truffles with the ability to [auto-collect gold]." gender="Common" race="Common" class="Common" />
+    <String id="14300003" name="Summon: Truffles" tooltip="Summon your walking piggy bank Truffles with the ability to [auto-collect gold]." gender="Common" race="Common" class="Common" />
+    <String id="14300004" name="Summon: Truffles" tooltip="Summon your walking piggy bank Truffles with the ability to [auto-collect gold]." gender="Common" race="Common" class="Common" />
+    <String id="14300005" name="Summon: Truffles" tooltip="Summon your walking piggy bank Truffles with the ability to [auto-collect gold]." gender="Common" race="Common" class="Common" />
+    <String id="14300006" name="Summon: Truffles" tooltip="Summon your walking piggy bank Truffles with the ability to [auto-collect gold]." gender="Common" race="Common" class="Common" />
+    <String id="14300016" name="Darkan's Wings" class="Common" gender="Common" race="Common" tooltip="Concentra seu poder interior e lhe dá asas de fogo. O efeito desaparece se você for atingido ou infligir dano." />
+    <String id="15300000" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="15300001" name="" tooltip="" gender="Common" race="Common" class="Common" />
+    <String id="15300002" name="" tooltip="" gender="Common" race="Common" class="Common" />
     <String id="16000001" name="Montaria: Lupus Obscurus (MP)" class="Common" tooltip="$H_S_GOODRecria MP.$COLOR_END$BRLupus Obscurus com velocidade de movimento de 280. Recupera MP gradualmente durante a viagem." gender="Common" race="Common" />
     <String id="16000002" name="Montaria: Lupus Obscurus (PV)" class="Common" tooltip="$H_S_GOODRecria PV.$COLOR_END$BRLupus Obscurus com velocidade de movimento de 280. Recupera gradualmente os PV durante a viagem." gender="Common" race="Common" />
     <String id="16000003" name="Montaria: Lupus Obscurus (Stam.)" class="Common" tooltip="$H_S_GOODRegenera a resistência$COLOR_END$BRLupus Obscurus com velocidade de movimento de 280. Recupera gradualmente a resistência durante a viagem." gender="Common" race="Common" />
@@ -2178,6 +2416,8 @@
     <String id="16000084" name="Montaria: Harley (HP)" class="Common" tooltip="$H_S_GOODRecria PV.$COLOR_END$BRMontagem da Harley em um porco com velocidade de movimento de 280. Recupera gradualmente o HP durante a viagem." gender="Common" race="Common" />
     <String id="16000085" name="Montaria: Harley (Stam.)" class="Common" tooltip="$H_S_GOODRecupera a resistência$COLOR_END$BRMontagem Harley em um porco com velocidade de movimento de 280. Recupera gradualmente a resistência durante a viagem." gender="Common" race="Common" />
     <String id="16000086" name="Montaria: Chama Mágica" class="Common" tooltip="$H_S_GOODRecenera MP, HP e Stamina$COLOR_END$BROstrich Magical Flame com uma velocidade de movimento de 310. Durante o percurso, seu MP, HP e Stamina são restaurados gradualmente." gender="Common" race="Common" />
+    <String id="16000087" name="Призыв: Самородок" tooltip="Призывает золотую свинку, обладающую способностью [автоматического сбора золота]." gender="Common" race="Common" class="Common" />
+    <String id="16000088" name="Призыв: Трюфель" tooltip="Призывает золотую свинку с 72 ячейками для хранения, обладающую способностью [автоматического сбора золота]." gender="Common" race="Common" class="Common" />
     <String id="60193025" name="Kick [Chute]" class="Common" tooltip="Chute o fardo de feno que está rolando para movê-lo pela área de jogo." gender="Common" race="Common" />
     <String id="60193026" name="Pig Pheromone" class="Common" tooltip="[Feromônio de Porco] Jogue feromônios em um leitão a uma distância de $maxDistance ou menos para que ele o siga." gender="Common" race="Common" />
     <String id="60193027" name="Drum Beat" class="Common" tooltip="[Batida de Tambor] Mire e acerte um tambor de sapo dentro de $maxDistance para tocá-lo." gender="Common" race="Common" />
@@ -2185,6 +2425,28 @@
     <String id="60251300" name="{@RawItem:45293}" class="Common" tooltip="Repelente de argons nº 2" gender="Common" race="Common" />
     <String id="60251400" name="{@RawItem:45294}" class="Common" tooltip="Repelente de argons nº 3" gender="Common" race="Common" />
     <String id="60251700" name="{@RawItem:45299}" class="Common" tooltip="Arremessa uma planta." gender="Common" race="Common" />
+    <String id="60340102" name="Montaria: Besouro Ágil" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$ Besouro Ágil com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
+    <String id="60340103" name="Montaria: Gatinho Preto Todo-Poderoso" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BRAlmighty Black Kitty com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
+    <String id="60340104" name="Montaria: Cavalo Fantasma" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BRCavalo fantasma com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
+    <String id="60340105" name="Montaria: Carro de corrida" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BRCarro de corrida com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
+    <String id="60340106" name="Montaria: Hello Kitty Snuffles" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BROlá Kitty Snuffles com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
+    <String id="60340107" name="Montaria: Alpaca de orelhas brancas" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BRAlpaca de orelhas brancas com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
+    <String id="60340108" name="Montaria: Dragão Negro Exclusivo" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BRExclusivo Black Dragon com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
+    <String id="60340109" name="Montaria: Bicicleta mecânica" class="Common" tooltip="$H_S_GOODVelocidade de movimento 310.$COLOR_END$BRBicicleta mecânica com velocidade de movimento 310. Restaura a resistência." gender="Common" race="Common" />
+    <String id="60340110" name="Montaria: Wyvern exclusivo" class="Common" tooltip="$H_S_GOODVelocidade de movimento 330.$COLOR_END$BREVinho exclusivo com velocidade de movimento de 330. Restaura a resistência." gender="Common" race="Common" />
+    <String id="60340111" name="Montaria: Moonbunny" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BRMoonbunny com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
+    <String id="60340112" name="Montaria: Fênix azul exclusiva" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BREFênix azul exclusiva com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
+    <String id="60340113" name="Montaria: Mastodon" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BRMastodonte com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
+    <String id="60340114" name="Montaria: Pássaro Azul da Felicidade raro" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BRRaro pássaro azul da felicidade com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
+    <String id="60340115" name="Montaria: Lagarto Raro da Nevasca" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BRLagarto raro da Nevasca com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
+    <String id="60340116" name="Montaria: Garnet exclusiva" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BREGarnet exclusivo com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
+    <String id="60340117" name="Montaria: Bando de carpas vermelhas" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BRFloco de carpas vermelhas com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
+    <String id="60340118" name="Montaria: Barco-Dragão" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BRDragão Barco com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
+    <String id="60340119" name="Montaria: Marvel-Wonder" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BRMarvel-Wonder com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
+    <String id="60340120" name="Montaria: Dragão de Gelo" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BRIce Dragon com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
+    <String id="60340121" name="Montaria: Bando de carpas vermelhas" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BRFloco de carpas vermelhas com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
+    <String id="60340122" name="Montaria: Black Okami" tooltip="$H_S_GOODVelocidade de Movimento 330.$COLOR_END$BRBlack Okami com uma velocidade de movimento de 330. Restaura o HP." gender="Common" race="Common" class="Common" />
+    <String id="60340123" name="Montaria: Carpete Sunsilk" tooltip="$H_S_GOODVelocidade de movimento 310.$COLOR_END$BRCarpete feito de seda solar com velocidade de movimento 310. Restaura a resistência." gender="Common" race="Common" class="Common" />
     <String id="60950510" name="Mutate (Balder's Gift)" class="Common" tooltip="Transforma um alvo dentro de $maxDistance em um javali que lutará por você. Uma habilidade temporária dada a você pelos clérigos de Balder para combater o Banquet of Blood (Banquete de sangue)." gender="Common" race="Common" />
     <String id="60950511" name="Stun (Balder's Gift)" class="Common" tooltip="Atordoa temporariamente os alvos em um raio de $maxDistance. Uma habilidade temporária dada a você pelos clérigos de Balder para combater o Banquete de Sangue." gender="Common" race="Common" />
     <String id="60950512" name="Fear (Balder's Gift)" class="Common" tooltip="Assusta os alvos em um raio de $maxDistance. Uma habilidade temporária dada a você pelos clérigos de Balder para combater o Banquete de Sangue." gender="Common" race="Common" />
@@ -2212,47 +2474,27 @@
     <String id="61900008" name="Transformação: Boneco de neve amarelo Wintera" class="Common" tooltip="Você se transformou em um boneco de neve Wintera. Não é possível usar as habilidades." gender="Common" race="Common" />
     <String id="61900009" name="Transformação: Boneco de neve azul Wintera" class="Common" tooltip="Você se transformou em um boneco de neve Wintera. Não é possível usar as habilidades." gender="Common" race="Common" />
     <String id="61900010" name="Transformação: Boneco de neve vermelho de inverno" class="Common" tooltip="Você se transformou em um boneco de neve Wintera. Incapaz de usar habilidades.  [3 vezes mais rápido que os outros bonecos de neve Wintera.]" gender="Common" race="Common" />
-    <!--New_Vehicles-->
-    <String id="60340102" name="Montaria: Besouro Ágil" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$ Besouro Ágil com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
-    <String id="60340103" name="Montaria: Gatinho Preto Todo-Poderoso" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BRAlmighty Black Kitty com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
-    <String id="60340104" name="Montaria: Cavalo Fantasma" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BRCavalo fantasma com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
-    <String id="60340105" name="Montaria: Carro de corrida" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BRCarro de corrida com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
-    <String id="60340106" name="Montaria: Hello Kitty Snuffles" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BROlá Kitty Snuffles com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
-    <String id="60340107" name="Montaria: Alpaca de orelhas brancas" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BRAlpaca de orelhas brancas com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
-    <String id="60340108" name="Montaria: Dragão Negro Exclusivo" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BRExclusivo Black Dragon com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
-    <String id="60340109" name="Montaria: Bicicleta mecânica" class="Common" tooltip="$H_S_GOODVelocidade de movimento 310.$COLOR_END$BRBicicleta mecânica com velocidade de movimento 310. Restaura a resistência." gender="Common" race="Common" />
-    <String id="60340110" name="Montaria: Wyvern exclusivo" class="Common" tooltip="$H_S_GOODVelocidade de movimento 330.$COLOR_END$BREVinho exclusivo com velocidade de movimento de 330. Restaura a resistência." gender="Common" race="Common" />
-    <String id="60340111" name="Montaria: Moonbunny" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BRMoonbunny com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
-    <String id="60340112" name="Montaria: Fênix azul exclusiva" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BREFênix azul exclusiva com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
-    <String id="60340113" name="Montaria: Mastodon" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BRMastodonte com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
-    <String id="60340114" name="Montaria: Pássaro Azul da Felicidade raro" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BRRaro pássaro azul da felicidade com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
-    <String id="60340115" name="Montaria: Lagarto Raro da Nevasca" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BRLagarto raro da Nevasca com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
-    <String id="60340116" name="Montaria: Garnet exclusiva" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BREGarnet exclusivo com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
-    <String id="60340117" name="Montaria: Bando de carpas vermelhas" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BRFloco de carpas vermelhas com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
-    <String id="60340118" name="Montaria: Barco-Dragão" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BRDragão Barco com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
-    <String id="60340119" name="Montaria: Marvel-Wonder" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BRMarvel-Wonder com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
-    <String id="60340120" name="Montaria: Dragão de Gelo" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BRIce Dragon com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
-	<String id="60340121" name="Montaria: Bando de carpas vermelhas" class="Common" tooltip="$H_S_GOODVelocidade de movimento 320.$COLOR_END$BRFloco de carpas vermelhas com velocidade de movimento de 320. Restaura a resistência." gender="Common" race="Common" />
-	<String id="60340122" name="Montaria: Black Okami" tooltip="$H_S_GOODVelocidade de Movimento 330.$COLOR_END$BRBlack Okami com uma velocidade de movimento de 330. Restaura o HP." gender="Common" race="Common" class="Common" />
-	<String id="60340123" name="Montaria: Carpete Sunsilk" tooltip="$H_S_GOODVelocidade de movimento 310.$COLOR_END$BRCarpete feito de seda solar com velocidade de movimento 310. Restaura a resistência." gender="Common" race="Common" class="Common" />
-    <!--New_Vehicles end-->
+    <String id="61900200" name="Призыв: Кровавая виверна" tooltip="$H_S_GOODСкорость 320.$COLOR_END$BRВосстанавливает бодрость." gender="Common" race="Common" class="Common" />
+    <String id="61900201" name="Маунт 2 Виверна" tooltip="$H_S_GOODСкорость 320.$COLOR_END$BRВосстанавливает бодрость." gender="Common" race="Common" class="Common" />
+    <String id="61900202" name="Маунт 3 Виверна" tooltip="$H_S_GOODСкорость 320.$COLOR_END$BRВосстанавливает бодрость." gender="Common" race="Common" class="Common" />
+    <String id="61900203" name="Призыв: Золотая виверна" tooltip="$H_S_GOODСкорость 320.$COLOR_END$BRВосстанавливает бодрость." gender="Common" race="Common" class="Common" />
+    <String id="61900204" name="Призыв: Огненный феникс" tooltip="$H_S_GOODСкорость 320.$COLOR_END$BRВосстанавливает бодрость." gender="Common" race="Common" class="Common" />
+    <String id="61900205" name="Маунт 6 Ледяной дракон" tooltip="$H_S_GOODСкорость 320.$COLOR_END$BRВосстанавливает бодрость." gender="Common" race="Common" class="Common" />
+    <String id="61900206" name="Призыв: Легендарный властитель грома" tooltip="$H_S_GOODСкорость 320.$COLOR_END$BRВосстанавливает бодрость." gender="Common" race="Common" class="Common" />
+    <String id="61900207" name="Summon: Thunder Dragon" tooltip="$H_S_GOODSpeed 320.$COLOR_END$BRRestores stamina." gender="Common" race="Common" class="Common" />
+    <String id="61900208" name="Призыв: Яркий грозовой дракон" tooltip="$H_S_GOODСкорость 320.$COLOR_END$BRВосстанавливает бодрость." gender="Common" race="Common" class="Common" />
+    <String id="61900209" name="Призыв: Коричневый полосатый котик" tooltip="$H_S_GOODСкорость 320.$COLOR_END$BRВосстанавливает бодрость." gender="Common" race="Common" class="Common" />
+    <String id="61900210" name="Призыв: Серый полосатый котик" tooltip="$H_S_GOODСкорость 320.$COLOR_END$BRВосстанавливает бодрость." gender="Common" race="Common" class="Common" />
     <String id="61901000" name="Snow Barrage" class="Common" tooltip="Mantenha pressionado e carregue o botão de habilidade para preparar e lançar várias bolas de neve com dano crescente." gender="Common" race="Common" />
     <String id="61902000" name="Set Us Up, Da Bomb" class="Common" tooltip="Exploda a si mesmo, causando dano a objetos e inimigos ao seu redor." gender="Common" race="Common" />
     <String id="61903023" name="Invocar Pet: Planta Carnívora" class="Common" tooltip="Invoca uma planta de estimação perigosa com a capacidade de [coleta de item automática]." gender="Common" race="Common" />
     <String id="61903024" name="Invocar Pet: Príncipe" class="Common" tooltip="Invoque seu anfíbio encantado beijável com a habilidade de [coleta de item automática]." gender="Common" race="Common" />
     <String id="61903026" name="Invocar Pet: Morto" class="Common" tooltip="Convoque seu Pet com a habilidade [Pet Pocket] de armazenamento especial." gender="Common" race="Common" />
     <String id="61905001" name="Invocar Pet: Girador de doces" class="Common" tooltip="Convoque seu Pet com a capacidade de [coleta de item automática]." gender="Common" race="Common" />
-	<String id="61905101" name="Invocar Pet: Coco" class="Common" tooltip="Invoque um Pet com a capacidade de [coleta de item automática]." gender="Common" race="Common" />
-	<String id="61905201" name="Invocar Pet: Coco (Especial)" class="Common" tooltip="Invoque um Pet com uma bolsa e a capacidade de [coleta de item automática]." gender="Common" race="Common" />
-	<String id="61905301" name="Invocar Pet: Rumindor" class="Common" tooltip="Invoque um Pet com uma bolsa e a capacidade de coleta automática." gender="Common" race="Common" />
-	<String id="61905401" name="Invocar Pet: Rumitch" class="Common" tooltip="Invoque um Pet com uma bolsa e a capacidade de [coleta de item automática]." gender="Common" race="Common" />
-	<String id="61905501" name="Invocar Pet: Ruminhood" class="Common" tooltip="Invoque um Pet com uma bolsa e a capacidade de [coleta de item automática]." gender="Common" race="Common" />
-	<String id="61905601" name="Invocar Pet: Rumincess" class="Common" tooltip="Invoque um Pet com uma bolsa e a capacidade de coleta automática." gender="Common" race="Common" />
-	<String id="61905002" name="Invocar Pet: Buscar" class="Common" tooltip="Convoque seu Pet com a habilidade de [coleta automática]." gender="Common" race="Common" />
+    <String id="61905002" name="Invocar Pet: Buscar" class="Common" tooltip="Convoque seu Pet com a habilidade de [coleta automática]." gender="Common" race="Common" />
     <String id="61905003" name="Invocar Pet: Dragonette" class="Common" tooltip="Invoque sua dragoneta de estimação com a habilidade de [coleta de item automática]." gender="Common" race="Common" />
     <String id="61905004" name="Invocar Pet: Rambo" class="Common" tooltip="Invoquer Rambo com a capacidade de [coleta de item automática]." gender="Common" race="Common" />
     <String id="61905005" name="Invocar Pet: Bochechas" class="Common" tooltip="Convoque seu Pet com a habilidade [Pet Pocket] de armazenamento especial." gender="Common" race="Common" />
-	<String id="122005" name="Invocar Pet: Bochechas" class="Common" tooltip="Convoque seu Pet com a habilidade [Pet Pocket] de armazenamento especial." gender="Common" race="Common" />
     <String id="61905006" name="Invocar Pet: Boo" class="Common" tooltip="Convoque seu Pet com a capacidade de [coleta de item automática]." gender="Common" race="Common" />
     <String id="61905007" name="Invocar Pet: Boo" class="Common" tooltip="Convoque seu Pet com a capacidade de [coleta de item automática]." gender="Common" race="Common" />
     <String id="61905008" name="Invocar Pet: Felicity" class="Common" tooltip="Invoque um Pet com armazenamento especial, emotes e [coleta de item automática]. Felicity coleta em uma velocidade aprimorada, com a proficiência máxima de coleta, e consome 20% menos pontos de produção para coleta." gender="Common" race="Common" />
@@ -2260,6 +2502,12 @@
     <String id="61905010" name="Invocar Pet: Peddit" class="Common" tooltip="Convoque seu Pet com a capacidade de [coleta de item automática]." gender="Common" race="Common" />
     <String id="61905011" name="Invocar Pet: Caddy" class="Common" tooltip="Convoque seu Pet com a habilidade [Pet Pocket] de armazenamento especial." gender="Common" race="Common" />
     <String id="61905012" name="Invocar Pet: Felicity" class="Common" tooltip="Invoque um Pet com armazenamento especial, emotes e coleta automática. Felicity coleta em uma velocidade aprimorada, com a proficiência máxima de coleta, e consome 20% menos pontos de produção para coleta." gender="Common" race="Common" />
+    <String id="61905101" name="Invocar Pet: Coco" class="Common" tooltip="Invoque um Pet com a capacidade de [coleta de item automática]." gender="Common" race="Common" />
+    <String id="61905201" name="Invocar Pet: Coco (Especial)" class="Common" tooltip="Invoque um Pet com uma bolsa e a capacidade de [coleta de item automática]." gender="Common" race="Common" />
+    <String id="61905301" name="Invocar Pet: Rumindor" class="Common" tooltip="Invoque um Pet com uma bolsa e a capacidade de coleta automática." gender="Common" race="Common" />
+    <String id="61905401" name="Invocar Pet: Rumitch" class="Common" tooltip="Invoque um Pet com uma bolsa e a capacidade de [coleta de item automática]." gender="Common" race="Common" />
+    <String id="61905501" name="Invocar Pet: Ruminhood" class="Common" tooltip="Invoque um Pet com uma bolsa e a capacidade de [coleta de item automática]." gender="Common" race="Common" />
+    <String id="61905601" name="Invocar Pet: Rumincess" class="Common" tooltip="Invoque um Pet com uma bolsa e a capacidade de coleta automática." gender="Common" race="Common" />
     <String id="61906001" name="Invocar Pet: Girador de doces" class="Common" tooltip="Convoque seu Pet com a capacidade de [coleta de item automática]." gender="Common" race="Common" />
     <String id="61906003" name="Invocar Pet: Dragonette" class="Common" tooltip="Invoque sua dragoneta de estimação com a habilidade de [coleta de item automática]." gender="Common" race="Common" />
     <String id="61906004" name="Invocar Pet: Rambo" class="Common" tooltip="Invoquer Rambo com a capacidade de [coleta de item automática]." gender="Common" race="Common" />
@@ -2310,7 +2558,4 @@
     <String id="63000340" name="Fortitude do líder IV" class="Common" tooltip="$H_S_GOODCusto em pontos de política: 183.000$COLOR_END$BRIncrementa o poder/endurance/resistência/equilíbrio por autoridade do líder de nível 4." gender="Common" race="Common" />
     <String id="63000350" name="Fortitude do líder V" class="Common" tooltip="$H_S_GOODCusto em pontos de política: 183.000$COLOR_END$BRIncrementa o poder/endurance/resistência/equilíbrio por autoridade do líder de nível 5." gender="Common" race="Common" />
     <String id="63000360" name="Fortitude do líder VI" class="Common" tooltip="$H_S_GOODCusto em pontos de política: 183.000$COLOR_END$BRIncrementa o poder/endurance/resistência/equilíbrio por autoridade do líder de nível 6." gender="Common" race="Common" />
-    <String id="14300016" name="Darkan's Wings" class="Common" gender="Common" race="Common" tooltip="Concentra seu poder interior e lhe dá asas de fogo. O efeito desaparece se você for atingido ou infligir dano." />
-	<String id="300130" name="Scythe" class="Warrior" tooltip="[Ceifar] Faça um arco mortal e abrangente, atacando vários inimigos. A Scythe gasta sua Edge para causar mais dano. Essa habilidade é ativada mais rapidamente quando segue Rain of Blows, Blade Draw ou Evasive Roll." gender="Common" race="Common" />
-	<String id="120140" name="Infuriate" class="Warrior" tooltip="[Enfurecer] Enfureça todos os monstros em um raio de $maxDistance e aumente seu aggro para o valor máximo." gender="Common" race="Common" />
 </StrSheet_UserSkill>

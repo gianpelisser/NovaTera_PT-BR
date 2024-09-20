@@ -1,31 +1,42 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="5" id="26" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="5" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="205" id="100" prevId="0" villagerId="1002">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="205" id="2" prevId="0" villagerId="1002">
          
+         
         <Page social="5">Bem, tenho que confessar que não faço essa poção há um bom tempo. Espero que ela ainda funcione como planejado.&lt;BR&gt;&lt;BR&gt;Quer dizer... tenho certeza que sim! Eu só... você sabe.&lt;BR&gt;&lt;BR&gt;Bem, de qualquer forma. Bom trabalho, hein? Boa sorte.</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="3" prevId="2" villagerId="1004">
          
+         
         <Page social="12">Você tomou a poção, hein? Como foi? Pensei que você a traria de volta para mim, mas, como senti seu cheiro vindo da estrada, estou feliz por você tê-la bebido.&lt;BR&gt;&lt;BR&gt;Bem, acho que a única coisa que resta a fazer é ver se você consegue tirar alguma coisa do tuwangi. É melhor ir direto para {@LinkCreature:205#1020#Baba Tuwangi Captive Tangmo} e ver como isso se sai.&lt;BR&gt;&lt;BR&gt;Me diga o que você descobriu.</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="4" prevId="3" villagerId="1020">
          
+         
         <Page social="0">Hmm. O que é isso? Tem cheiro de pele. E desespero.&lt;NEXTPAGEBUTTON&gt;"Qual é o cheiro exato do desespero?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Hmm? Ele entende. Posso lhe dizer o que está acontecendo. Quer saber por que o pântano está ficando maior? Você nunca quis uma casa maior? &lt;BR&gt;&lt;BR&gt;É claro que estamos por trás disso - estamos expandindo!</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="5" prevId="4" villagerId="1004">
          
+         
         <Page social="5">Ah, não. Então, é o tuwangi? Isso não é nada bom. Isso significa... oh céus.&lt;BR&gt;&lt;BR&gt;Bem, muito obrigado por sua ajuda. Por favor, pegue isso.</Page>
+    
     
     </Text>
 </QuestDialog>

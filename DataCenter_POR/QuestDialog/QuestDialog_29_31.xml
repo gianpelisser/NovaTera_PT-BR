@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="29" id="31" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="29" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="229" id="100" prevId="0" villagerId="1026">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="229" id="2" prevId="0" villagerId="1026">
          
+         
         <Page social="5">Olá! Você tem um minuto? Meu amigo está muito doente. Super doente. Muito doente. Posso preparar uma cura rapidamente, mas preciso de sangue kamara para isso. Eu não sou um soldado, então eu lhe peço.&lt;BR&gt;&lt;BR&gt;Traga o sangue de {@LinkCreature:29#3011#thorntail kamaras} e {@LinkCreature:29#3012#elder thorntails} e eu posso salvá-lo.&lt;BR&gt;&lt;BR&gt;Vá matar agora.</Page>
+    
     
     </Text>
     <Text huntingZoneId="229" id="3" prevId="2" villagerId="1026">
          
+         
         <Page social="5">Nossa! Isso é muito sangue. Espero que nenhum deles seja seu. É ruim para a cura.&lt;BR&gt;&lt;BR&gt;Vou preparar a cerveja e dar um jeito no meu amigo. Obrigado!</Page>
+    
     
     </Text>
     <Text huntingZoneId="229" id="4" villagerId="1026">
          
+         
         <Page social="0">São apenas kamaras. Não é que eles possam machucá-lo. Eu, eles podem matar, mas você é um soldado. Mata rapidamente.</Page>
+    
     
     </Text>
 </QuestDialog>

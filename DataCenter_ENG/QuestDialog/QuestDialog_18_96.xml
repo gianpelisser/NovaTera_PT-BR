@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="18" id="96" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="218" id="100" prevId="0" villagerId="1009">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="96" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1009">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="218" id="2" prevId="0" villagerId="1009">
-         
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1009">
         <Page social="4">The Lokians...still annoying, but still potentially lucrative.&lt;BR&gt;&lt;BR&gt;Kill the {@LinkCreature:18#22#Lokian priests}, {@LinkCreature:18#23#Lokian magisters}, {@LinkCreature:18#24#Lokian sanguinars}, and {@LinkCreature:18#114#Teseku of Blood}.&lt;BR&gt;&lt;BR&gt;Dorinne in Sietch Bidaum offers a bounty on broken Lokian weapons.</Page>
-    
     </Text>
-    <Text huntingZoneId="218" id="3" prevId="2" villagerId="1006">
-         
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1006">
         <Page social="4">You're here for the bounty? Terrific!</Page>
-    
     </Text>
-    <Text huntingZoneId="218" id="4" villagerId="1006">
-         
+    <Text id="4" huntingZoneId="218" villagerId="1006">
         <Page social="0">Kill Lokians, then collect cash. You can't reverse the order, &lt;PCNAME&gt;.</Page>
-    
     </Text>
 </QuestDialog>

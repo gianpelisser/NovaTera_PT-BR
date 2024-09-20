@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="27" id="23" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="227" id="100" prevId="0" villagerId="1018">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="227" prevId="0" villagerId="1018">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="227" id="2" prevId="0" villagerId="1018">
-         
+    <Text id="2" huntingZoneId="227" prevId="0" villagerId="1018">
         <Page social="5">We're fighting a lot of golems, which is causing a lot of weapons to shatter. Resupply is slow or nonexistent, so we must think creatively.&lt;BR&gt;&lt;BR&gt;If you could kill the {@LinkCreature:27#2#ancient bladegolems} and bring their remnants to us, we could repair or reforge our equipment. The notion of drawing strength from weakening our foe is definitely appealing.</Page>
-    
     </Text>
-    <Text huntingZoneId="227" id="3" prevId="2" villagerId="1018">
-         
+    <Text id="3" huntingZoneId="227" prevId="2" villagerId="1018">
         <Page social="5">Quite a harvest. Our smiths will be delighted, as will our surviving troops. Thanks.</Page>
-    
     </Text>
-    <Text huntingZoneId="227" id="4" villagerId="1018">
-         
+    <Text id="4" huntingZoneId="227" villagerId="1018">
         <Page social="0">They're little metal creatures. You destroy them and collect the remains. It's very ecologically sound.</Page>
-    
     </Text>
 </QuestDialog>

@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="26" id="25" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="26" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="226" id="100" prevId="0" villagerId="1008">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="226" id="2" prevId="0" villagerId="1008">
          
+         
         <Page social="5">Você tem muita sorte. Poucos têm a chance de conviver com um acadêmico mundialmente famoso como eu. Não finja estar chocado! Você sabe meu nome! Todo mundo sabe meu nome.&lt;BR&gt;&lt;BR&gt;Por acaso, preciso de um assistente. Há uma série de relíquias que estou procurando.&lt;BR&gt;&lt;BR&gt;Elas não estão perdidas - sei exatamente onde estão. Eu as marcarei em seu mapa! Está vendo? &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7011#35885.3086,-52341.7695,1646.3262&amp;type=1&amp;name=Localização das relíquias"&gt;&lt;/A&gt;&lt;/font&gt;&lt;NEXTPAGEBUTTON&gt;"Você precisa que eu as colete?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="5">Você é mais brilhante do que parece. Precisamente! &lt;BR&gt;&lt;BR&gt;Você me traz essas relíquias e eu me certificarei de que você seja convidado a ficar perto do prédio onde eu der meu glorioso relatório.&lt;BR&gt;&lt;BR&gt;Tempo é fama, como dizem, então não perca tempo.&lt;BR&gt;&lt;BR&gt;Eu estarei aqui, fazendo coisas importantes....</Page>
+    
     
     </Text>
     <Text huntingZoneId="226" id="3" prevId="2" villagerId="1008">
          
+         
         <Page social="5">Muito bem feito. Eu deveria pensar em contratar alguém como você com mais frequência. Isso mostrará àqueles camisas-de-força do Mysterium o quanto foram tolos ao rejeitarem a mim, Eustáquio, de suas fileiras.&lt;BR&gt;&lt;BR&gt;Pelo menos, eu realmente espero que isso aconteça. Embora eu possa levar algum tempo para dar uma olhada nessas descobertas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="226" id="4" villagerId="1008">
          
+         
         <Page social="0">Você está perdendo um tempo valioso. Precisamos dessas relíquias se quisermos ser famosos!</Page>
+    
     
     </Text>
 </QuestDialog>

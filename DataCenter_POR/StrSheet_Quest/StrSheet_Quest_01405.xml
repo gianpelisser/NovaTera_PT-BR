@@ -1,10 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4943001" string="Inimigo logo após os portões" />
-    <String id="4943002" string="Tome cuidado lá fora. Não podemos nos dar ao luxo de perdê-lo." />
-    <String id="4943003" string="Eles subestimaram você. O erro deles." />
-    <String id="4943004" string="Brutos Kalash" />
-    <String id="4943005" string="Mate os brutos kalash ao redor de {@Rgn:76001}." />
-    <String id="4943006" string="&quot;Estou apenas fazendo minha parte.&quot;" />
-    <String id="4943007" string="Informe a {@LinkCreature:76#1024}." />
+    <String id="4939001" string="Dia da Árvore" />
+    <String id="4939002" string="Mate {@Creature:49#21} e acabe com os ataques dele contra a Casian Tree." />
+    <String id="4939003" string="Agradeço a você em nome da árvore." />
+    <String id="4939004" string="Mate {@LinkCreature:49#21} para impedir os ataques de argons na Casian Tree." />
+    <String id="4939005" string="&quot;Boa sorte com seus estudos.&quot;" />
+    <String id="4939006" string="Informe a {@LinkCreature:249#1013}." />
 </StrSheet_Quest>

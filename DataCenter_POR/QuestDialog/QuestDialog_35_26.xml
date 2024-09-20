@@ -1,21 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="35" id="26" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="35" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="235" id="100" prevId="0" villagerId="1003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="235" id="2" prevId="0" villagerId="1003">
          
+         
         <Page social="5">Somos incrivelmente gratos por tudo o que você fez aqui, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Em um mundo perfeito, nós o guardaríamos para nós mesmos, mas isso não seria ético. Eles estão precisando muito do Posto Avançado de Firespine, uma base temporária construída por soldados da guarnição que estão se retirando do Desfiladeiro da Morte.&lt;NEXTPAGEBUTTON&gt;"Verei o que posso fazer."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="5">Ótimo! Os guardiões de runas do deserto cobrem o caminho para o posto avançado.&lt;BR&gt;&lt;BR&gt;Veja se você consegue eliminar alguns no caminho.</Page>
+    
     
     </Text>
     <Text huntingZoneId="235" id="3" prevId="2" villagerId="1005">
          
+         
         <Page social="5">Você é o reforço de Elenea? Obrigado por ter vindo.&lt;BR&gt;&lt;BR&gt;Estamos em nossas últimas pernas e precisamos de um grande impulso moral.</Page>
+    
     
     </Text>
 </QuestDialog>

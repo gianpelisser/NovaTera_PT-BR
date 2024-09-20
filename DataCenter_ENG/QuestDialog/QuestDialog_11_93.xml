@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="11" id="93" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="62" id="100" prevId="0" villagerId="1019">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="11" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="62" prevId="0" villagerId="1019">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="62" id="2" prevId="0" villagerId="1019">
-         
+    <Text id="2" huntingZoneId="62" prevId="0" villagerId="1019">
         <Page social="0">We need to hurt the pirate veterans and leaders.&lt;BR&gt;&lt;BR&gt;Eliminate the Red Lash pirates in Freebooters' Roost and around the Pirate Captain's office in Pirate Grotto.&lt;BR&gt;&lt;BR&gt;Take down the {@LinkCreature:11#1001#Red Lash pirate bosuns}, {@LinkCreature:11#1002#swashbucklers}, {@LinkCreature:11#1009#reapers}, {@LinkCreature:11#1010#archers}, {@LinkCreature:11#1011#petty officers}, {@LinkCreature:11#2006#raiders}, {@LinkCreature:11#2008#buccaneers} and {@LinkCreature:11#4005#overseers}.&lt;BR&gt;&lt;BR&gt;Report to Matina when mission is complete.</Page>
-    
     </Text>
-    <Text huntingZoneId="211" id="3" prevId="2" villagerId="1013">
-         
+    <Text id="3" huntingZoneId="211" prevId="2" villagerId="1013">
         <Page social="4">Well done, &lt;PCNAME&gt;. Keep up the good work.&lt;BR&gt;&lt;BR&gt;Victory for Valkyon!</Page>
-    
     </Text>
-    <Text huntingZoneId="211" id="4" villagerId="1013">
-         
+    <Text id="4" huntingZoneId="211" villagerId="1013">
         <Page social="0">I'll reward you if you bring me the tokens from suppressing the leaders of the pirates.</Page>
-    
     </Text>
 </QuestDialog>

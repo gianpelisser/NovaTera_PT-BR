@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="17" id="23" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="217" id="100" prevId="0" villagerId="1007">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="17" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="217" prevId="0" villagerId="1007">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="217" id="2" prevId="0" villagerId="1007">
-         
+    <Text id="2" huntingZoneId="217" prevId="0" villagerId="1007">
         <Page social="4">Starving down here, you know? Supposed to get food every other week, but you know how it is.&lt;BR&gt;&lt;BR&gt;Listen, d'you have any linmetal ore? I can't patch up arms or armor without it. I'll pay you above market rates!</Page>
-    
     </Text>
-    <Text huntingZoneId="217" id="3" prevId="2" villagerId="1007">
-         
+    <Text id="3" huntingZoneId="217" prevId="2" villagerId="1007">
         <Page social="4">Oh, this is plenty to tide us over 'til the supplies get here. Last load never even showed up! Thanks again.</Page>
-    
     </Text>
-    <Text huntingZoneId="217" id="4" villagerId="1007">
-         
+    <Text id="4" huntingZoneId="217" villagerId="1007">
         <Page social="0">Any linmetal ore yet? I'll go crazy if that hole in Cafnil's greaves gets any bigger!</Page>
-    
     </Text>
 </QuestDialog>

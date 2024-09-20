@@ -1,19 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="63" id="95" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="63" id="100" prevId="0" villagerId="9004">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="95" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="9004">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="63" id="2" prevId="0" villagerId="9004">
-         
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="9004">
         <Page social="0">Hey! Don't just stay indoors all winter!&lt;BR&gt;&lt;BR&gt;I'm Ambrrr, the Wintera messenger. Come find {@linkcreature:63#9004#me} in Velika and I will let you in on the best-kept secret of winter: the exciting Wintera battle!&lt;BR&gt;You can enjoy this game for a short time while Wintera lasts, so don't delay!&lt;BR&gt;&lt;BR&gt;——Ambrrr</Page>
-    
     </Text>
-    <Text huntingZoneId="63" id="3" prevId="2" villagerId="9004">
-         
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="9004">
         <Page social="1">You came!&lt;BR&gt;&lt;BR&gt;Are you ready to learn about our Wintera snowball battle?</Page>
-    
     </Text>
 </QuestDialog>

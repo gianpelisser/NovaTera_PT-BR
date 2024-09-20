@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="28" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="70" id="100" prevId="0" villagerId="1011">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="70" id="2" prevId="0" villagerId="1011">
          
+         
         <Page social="5">Diga-me, você está viajando para Blightwood? Logo depois de nosso portão oeste, bem no seu caminho, há alguns trabalhadores que trabalham para impedir que a corrupção chegue a Tria. O trabalho deles é vital para a cidade.&lt;BR&gt;&lt;BR&gt;Poderia fazer a gentileza de entregar o almoço deles? Invidia administra uma taverna no extremo oeste da cidade. Ela tem a comida deles pronta para levar. Muito obrigado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="70" id="3" prevId="2" villagerId="1028">
          
+         
         <Page social="12">O almoço está pronto. Pontual, como sempre. Também não é barato. Apenas os melhores ingredientes, como o magistrado insistiu.&lt;BR&gt;&lt;BR&gt;Entregue-os aos trabalhadores antes que esfriem!</Page>
+    
     
     </Text>
     <Text huntingZoneId="228" id="4" prevId="3" villagerId="1005">
          
+         
         <Page social="5">Embora a comida fresca seja apreciada, o magistrado está se iludindo se pensa que pode escapar de aumentar nossos salários com esse pequeno suborno! &lt;BR&gt;&lt;BR&gt;Só Deus sabe o que essa corrupção fará conosco. Se você for esperto, não ficará muito tempo em Blightwood. É capaz de crescer um terceiro braço... do seu nariz.</Page>
+    
     
     </Text>
 </QuestDialog>

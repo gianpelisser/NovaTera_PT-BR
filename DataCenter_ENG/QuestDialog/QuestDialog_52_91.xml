@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="91" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="79" id="100" prevId="0" villagerId="1027">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="79" prevId="0" villagerId="1027">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="79" id="2" prevId="0" villagerId="1027">
-         
+    <Text id="2" huntingZoneId="79" prevId="0" villagerId="1027">
         <Page social="5">We need your help. Thulsa's minions surround Habere. Eliminate the Cursed Legion troops in the Vale of Spires.&lt;BR&gt;&lt;BR&gt;Report back when you've finished.</Page>
-    
     </Text>
-    <Text huntingZoneId="79" id="3" prevId="2" villagerId="1027">
-         
+    <Text id="3" huntingZoneId="79" prevId="2" villagerId="1027">
         <Page social="5">You're amazing, &lt;PCNAME&gt;. You're a torch that brightens our federation. Now I have hope that peace will come back to this place one day.&lt;BR&gt;&lt;BR&gt;Thank you.</Page>
-    
     </Text>
-    <Text huntingZoneId="79" id="4" villagerId="1027">
-         
+    <Text id="4" huntingZoneId="79" villagerId="1027">
         <Page social="0">Kill those Cursed Legion soldiers before they choke off our supplies!</Page>
-    
     </Text>
 </QuestDialog>

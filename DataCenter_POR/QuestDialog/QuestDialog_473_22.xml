@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="473" id="22" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="473" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="251" id="100" prevId="0" villagerId="1034">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="251" id="2" prevId="0" villagerId="1034">
          
+         
         <Page social="4">Quando Thulsa captura heróis especialmente poderosos, ele os força a servi-lo. Em troca, ele lhes dá corpos imortais sobre os quais não têm controle.&lt;BR&gt;&lt;BR&gt;Falo dos generais da torre, escoltas de generais, decuriões da torre e zumbis na Torre de Ébano.&lt;BR&gt;&lt;BR&gt;Corte-os e traga de volta seus fragmentos de armadilha de alma.</Page>
+    
     
     </Text>
     <Text huntingZoneId="251" id="3" prevId="2" villagerId="1034">
          
+         
         <Page social="4">Algumas dessas almas foram forçadas a servir Thulsa por séculos.&lt;BR&gt;&lt;BR&gt;Eu as entregarei aos nossos mestres ferreiros. Eles as alimentarão no coração da Fornalha Divina.&lt;BR&gt;&lt;BR&gt;Finalmente, elas serão colocadas para descansar com a honra que merecem.</Page>
+    
     
     </Text>
     <Text huntingZoneId="251" id="4" villagerId="1034">
          
+         
         <Page social="0">Cada um desses horrores era um herói. Destrua-os para que possamos libertá-los.</Page>
+    
     
     </Text>
 </QuestDialog>

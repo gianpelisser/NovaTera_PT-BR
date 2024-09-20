@@ -1,21 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="2" id="33" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="2" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="202" id="100" prevId="0" villagerId="1045">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="202" id="2" prevId="0" villagerId="1045">
          
+         
         <Page social="4">Meu pai era lenhador, mas também tinha uma queda pela natureza. Depois de cortar a madeira, ele sempre plantava mais mudas do que o número de árvores que derrubava, dizendo-me que deveríamos devolver o que devemos à natureza.&lt;BR&gt;&lt;BR&gt;Ele enfatizava que é importante entender e se harmonizar com as fadas que também valorizam a natureza e a floresta. Pelo menos até... isso... acontecer.&lt;NEXTPAGEBUTTON&gt;"O quê? O que aconteceu?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Meu pai era um bom amigo das fadas da floresta próxima. Entre elas, a mais próxima de meu pai era um centauro chamado {@LinkCreature:2#203#Likhan}.&lt;BR&gt;&lt;BR&gt;Quando o conheci por meio de meu pai, pensei que os centauros eram criaturas sábias e generosas.&lt;BR&gt;&lt;BR&gt;Mas um dia, meu pai desapareceu depois de ter ido ao encontro de Likhan. Mais tarde, ele foi encontrado morto com ferimentos de lança e casco. Foi terrível.&lt;NEXTPAGEBUTTON&gt;"Sinto muito."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="3" prevId="2" villagerId="1045">
          
+         
         <Page social="4">Oh pai... um dia estaremos juntos no Sonho.&lt;BR&gt;&lt;BR&gt;Por favor, descanse em paz agora. Obrigado, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
 </QuestDialog>

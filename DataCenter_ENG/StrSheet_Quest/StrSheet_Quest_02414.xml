@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="999982001" string="Urgent: Requiem for Barakas" />
-    <String id="999982002" string="[Ex Prima] Free the souls of murdered barakas." />
-    <String id="999982003" string="Murdered Souls" />
-    <String id="999982004" string="Complete Vanguard Initiative orders and claim your prize!" />
-    <String id="999982005" string="Murdered Souls" />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="999862001" string="Option: Clear Ravenous Gorge" />
+    <String id="999862002" string="[Ravenous Gorge] Kill Nimistrix again with your allies." />
+    <String id="999862003" string="Claim your reward!" />
 </StrSheet_Quest>

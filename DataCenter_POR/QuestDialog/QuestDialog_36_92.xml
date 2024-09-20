@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="36" id="92" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="36" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="74" id="100" prevId="0" villagerId="1008">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="74" id="2" prevId="0" villagerId="1008">
          
+         
         <Page social="5">Você sabia que as pessoas adoram conversar comigo? Às vezes, elas aparecem para fazer pedidos e ficamos conversando e conversando por horas! Deve haver algo em mim que faz com que as pessoas gostem de conversar por muito tempo! Eu devo ser superinteressante! Ei, você gosta de...&lt;BR&gt;&lt;BR&gt;O quê? Oh! É claro que tenho ordens para você, bobão.&lt;BR&gt;&lt;BR&gt;Você precisa ir caçar {@LinkCreature:36#11#vale hunter arachnens}. É muito simples! &lt;BR&gt;&lt;BR&gt;Você deve se apresentar a Naluria em Tor Exsul quando terminar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="236" id="3" prevId="2" villagerId="1007">
          
+         
         <Page social="5">Excelente trabalho. Tenho certeza de que Valkyon valorizará muito seu trabalho árduo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="236" id="4" villagerId="1007">
          
+         
         <Page social="0">Sei que não é fácil, mas não posso lhe dar nada até que você conclua a missão.</Page>
+    
     
     </Text>
 </QuestDialog>

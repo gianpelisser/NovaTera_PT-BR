@@ -1,14 +1,23 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="8422001" string="Apimentar" />
-    <String id="8422002" string="Você é um salva-vidas!" />
-    <String id="8422003" string="Mais uma vez, obrigado!" />
-    <String id="8422004" string="Caçar {@LinkCreature:5#10#toads} em {@Rgn:5001$$Tuwangi Mire} e colher grãos de pimenta de seus estômagos." />
-    <String id="8422005" string="&quot;Obrigado.&quot;" />
-    <String id="8422006" string="Caçar {@creature:5#10$$toads} e colher grãos de pimenta de seus estômagos." />
-    <String id="8422007" string="Leve os grãos de pimenta de Carlams para o coletor de ervas, {@Creature:68#1012$$Huchu}, em {@Rgn:68001$$Pora Elinu}." />
-    <String id="8422008" string="Huchu" />
-    <String id="8422009" string="Pimenta Carlam moída" />
-    <String id="8422010" string="Entregue pimenta carlams moída para {@Creature:84#1209$$Ganim} em {@Rgn:84101$$$Kapina Camp}." />
-    <String id="8422011" string="&quot;Sem problemas.&quot;" />
+    <String id="8421001" string="Alguns porcos" />
+    <String id="8421002" string="Obrigado!" />
+    <String id="8421003" string="Delicioso!" />
+    <String id="8421004" string="{@Rgn:2001$$Fey Forest}" />
+    <String id="8421005" string="{Island of Dawn}" />
+    <String id="8421006" string="{@Rgn:19001$$Freeholds}" />
+    <String id="8421007" string="{@Rgn:23001$$Lake of Tears}" />
+    <String id="8421008" string="Fale com {@LinkCreature:84#1208$$Tapa}." />
+    <String id="8421009" string="&quot;Aqui vou eu!&quot;" />
+    <String id="8421010" string="Caçar {@creature:2#8#hoglings} na {@Rgn:2001$$Fey Forest} e colher sua carne." />
+    <String id="8421011" string="Caçar {@creature:13#1#piglings} na {@Rgn:13001$$Island of Dawn} e colher sua carne." />
+    <String id="8421012" string="Caçar {@creature:19#1002#fat piglings} em {@Rgn:19001$$Freeholds} e colher sua carne." />
+    <String id="8421013" string="Cace {@creature:23#4#porquinhos da floresta} ao redor do {@Rgn:23001$$Lake of Tears} e colha a carne deles." />
+    <String id="8421014" string="&quot;Obrigado.&quot;" />
+    <String id="8421015" string="Caça {@creature:2#8#hoglings} e colhe sua carne para {@LinkCreature:84#1208$$Tapa}." />
+    <String id="8421016" string="Entregue a carne do leitão para {@Creature:84#1208$$Tapa} em {@Rgn:84101$$$Kapina Camp}." />
+    <String id="8421017" string="Retorno a Tapa." />
+    <String id="8421018" string="Leitão grelhado" />
+    <String id="8421019" string="Entregue o leitão grelhado para {@Creature:84#1217$$$Kothul}." />
+    <String id="8421020" string="&quot;Foi um prazer.&quot;" />
 </StrSheet_Quest>

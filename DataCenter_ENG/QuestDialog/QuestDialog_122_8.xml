@@ -1,19 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="122" id="8" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="122" id="100" prevId="0" villagerId="9001">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="122" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="122" prevId="0" villagerId="9001">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="122" id="2" prevId="0" villagerId="9001">
-         
+    <Text id="2" huntingZoneId="122" prevId="0" villagerId="9001">
         <Page social="1">The Enlightened Union has need of your services, friend.&lt;BR&gt;&lt;BR&gt;We are hearing troubling rumors from the wastes of Tor Exsul—rumors that suggest the Free Traders Collective might be adapting some of the local beasts to use as shock troops against us.&lt;BR&gt;&lt;BR&gt;We need more intelligence. Please use the Enlightened Union Gate to enter the lands controlled by the Free Traders Collective. Once there, slay at least three {@linkcreature:121#202#Aurum mugatos} and three {@linkcreature:121#205#badlands ghilliedhus}, then report to Dyrio with your findings.</Page>
-    
     </Text>
-    <Text huntingZoneId="122" id="3" prevId="2" villagerId="9001">
-         
+    <Text id="3" huntingZoneId="122" prevId="2" villagerId="9001">
         <Page social="0">You have performed admirably, my friend, and for that, you have the gratitude of the Enlightened Union!</Page>
-    
     </Text>
 </QuestDialog>

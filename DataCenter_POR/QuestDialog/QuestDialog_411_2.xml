@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="411" id="2" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="411" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="411" id="100" prevId="0" villagerId="5001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="411" id="2" prevId="0" villagerId="5001">
          
+         
         <Page social="0">Você já tem o design, mas vejo que está se perguntando sobre os materiais para o Nightforge, &lt;PCNAME&gt;. Você precisa de sobreposições de metal. Ouvi dizer que Kerkion e Barbosa têm pedaços de uma arma de outro mundo - embora não seja possível lutar com uma arma quebrada, posso derretê-la e transformá-la em metal útil. Adquira duas armas quebradas para que eu tenha metal suficiente!</Page>
+    
     
     </Text>
     <Text huntingZoneId="411" id="3" prevId="2" villagerId="5001">
          
+         
         <Page social="4">Essas armas serão usadas para fazer sobreposições de metal para equipamentos da Nightforge.</Page>
+    
     
     </Text>
     <Text huntingZoneId="411" id="4" villagerId="5001">
          
+         
         <Page social="0">Não é fácil, &lt;PCNAME&gt;, mas sei que você é capaz.&lt;BR&gt;&lt;BR&gt;Cheer up! Só temos que matar dois monstros!</Page>
+    
     
     </Text>
 </QuestDialog>

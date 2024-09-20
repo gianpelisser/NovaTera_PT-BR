@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="213" id="1134" voiceTypeId="2">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1134" huntingZoneId="213" voiceTypeId="2">
     <Text huntingZoneId="213" id="1" endSocial="14" prevId="0" villagerId="1134">
          
+         
         <Page social="4">It's a shame about Chione. She's taken all responsibility for the crashed supply airship, when the official report has already absolved her.&lt;BR&gt;&lt;BR&gt; I heard some keener helped her out recently—I'd like to buy that recruit a drink. As soon as the next airship arrives, I will!</Page>
+    
     
     </Text>
 </VillagerDialog>

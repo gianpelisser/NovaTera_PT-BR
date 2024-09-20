@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="33" id="24" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="33" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="233" id="100" prevId="0" villagerId="1001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="233" id="2" prevId="0" villagerId="1001">
          
+         
         <Page social="0">Todos os andares deste lugar estão repletos de criaturas de pesadelo.&lt;BR&gt;&lt;BR&gt;Os {@LinkCreature:33#5#jesters amaldiçoados} parecem ser os piores... até você encontrar os {@LinkCreature:33#51#moppet butchers}.&lt;BR&gt;&lt;BR&gt;E se você encontrar palhaços e bonecas ao mesmo tempo, boa sorte para dormir. Vá em frente! Tente matá-los.</Page>
+    
     
     </Text>
     <Text huntingZoneId="233" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="0">Você está vivo? Sim. Acho que você é feito de material mais resistente do que eu pensava. Só faltava - É UMA BONECA COM UMA FACA Atrás de você?!</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="604" id="18" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="18" huntingZoneId="604" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="71" id="100" prevId="0" villagerId="3018">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="71" id="2" prevId="0" villagerId="3018">
          
+         
         <Page social="4">Ei, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;{@LinkCreature:71#3001#Arisel} precisa de você para alguma coisa.&lt;BR&gt;&lt;BR&gt;Trabalho de papel, eu aposto.</Page>
+    
     
     </Text>
     <Text huntingZoneId="71" id="3" prevId="2" villagerId="3001">
          
+         
         <Page social="4">Eu duvidei de você quando apareceu pela primeira vez, &lt;PCNAME&gt;. Mas agora? Não sei como nos sairíamos sem você.&lt;BR&gt;&lt;BR&gt;A maioria dos soldados só se preocupa em dar brilho às suas armas. Você é diferente.&lt;BR&gt;&lt;BR&gt;Aqui. Hyderad ficaria orgulhoso de você.</Page>
+    
     
     </Text>
 </QuestDialog>

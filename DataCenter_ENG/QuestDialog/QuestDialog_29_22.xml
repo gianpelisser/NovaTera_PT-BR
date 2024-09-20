@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="29" id="22" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="229" id="100" prevId="0" villagerId="1020">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="29" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="229" prevId="0" villagerId="1020">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="229" id="2" prevId="0" villagerId="1020">
-         
+    <Text id="2" huntingZoneId="229" prevId="0" villagerId="1020">
         <Page social="5">Hoy! Got a minute? My daughter's waiting for me in Tria, but my armor's a wreck and I'm stuck in camp. I could patch it, but lack the leather to do so.&lt;BR&gt;&lt;BR&gt;If you could cut down a few {@LinkCreature:29#2011#vicious shoats} and {@LinkCreature:29#1011#thick tusked shoats} and bring me their leather, I'd be able to fix my armor and get going to see my daughter. What do you say?</Page>
-    
     </Text>
-    <Text huntingZoneId="229" id="3" prevId="2" villagerId="1020">
-         
+    <Text id="3" huntingZoneId="229" prevId="2" villagerId="1020">
         <Page social="5">There's no dross in you, &lt;PCNAME&gt;! This will do rather nicely. I'll just patch up my gear and get going.&lt;BR&gt;&lt;BR&gt;I'm not given to long-winded speeches. I owe you. Farewell.</Page>
-    
     </Text>
-    <Text huntingZoneId="229" id="4" villagerId="1020">
-         
+    <Text id="4" huntingZoneId="229" villagerId="1020">
         <Page social="0">Blast and damnation! I just want to see my daughter. Have you gotten the leather yet?</Page>
-    
     </Text>
 </QuestDialog>

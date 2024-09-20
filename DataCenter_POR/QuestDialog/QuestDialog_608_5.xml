@@ -1,21 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="608" id="5" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="608" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="62" id="100" prevId="0" villagerId="1703">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="62" id="2" prevId="0" villagerId="1703">
          
+         
         <Page social="4">&lt;PCNAME&gt;, temos uma entrega urgente para um de nossos melhores clientes. Entregue a mercadoria no prazo e com segurança. As conseqüências de um mau atendimento ao cliente são... terríveis.&lt;BR&gt;&lt;BR&gt;O pacote vai para Edahm em Crescentia. Use um pégaso para chegar lá mais rápido.</Page>
+    
     
     </Text>
     <Text huntingZoneId="59" id="3" prevId="2" villagerId="1002">
          
+         
         <Page social="4">Em que posso ajudá-lo hoje? &lt;NEXTPAGEBUTTON&gt;"Aqui é da Imesti."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Shh! Não quero chamar a atenção.&lt;BR&gt;&lt;BR&gt;Tome isso e vá embora casualmente.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="26" id="91" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="69" id="100" prevId="0" villagerId="1016">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="26" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="69" prevId="0" villagerId="1016">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="69" id="2" prevId="0" villagerId="1016">
-         
+    <Text id="2" huntingZoneId="69" prevId="0" villagerId="1016">
         <Page social="5">These undying creatures threaten the balance of the Ethereal Forest. The {@LinkCreature:26#2001#revivified cromoses}, {@LinkCreature:26#2002#revivified noruks}, {@LinkCreature:26#2003#resurgent ghilliedhus}, and the {@LinkCreature:26#1003#ebon weavers} are the worst. I need their numbers thinned out.&lt;BR&gt;&lt;BR&gt;Report to Nileen when your mission is complete.</Page>
-    
     </Text>
-    <Text huntingZoneId="226" id="3" prevId="2" villagerId="1002">
-         
+    <Text id="3" huntingZoneId="226" prevId="2" villagerId="1002">
         <Page social="5">We are pleased with your performance. The balance is preserved.</Page>
-    
     </Text>
-    <Text huntingZoneId="226" id="4" villagerId="1002">
-         
+    <Text id="4" huntingZoneId="226" villagerId="1002">
         <Page social="0">This is an on-going battle, &lt;PCNAME&gt;. Until told otherwise, assume I will always reward you for killing {@LinkCreature:26#2001#revivified cromoses}, {@LinkCreature:26#2002#revivified noruks}, {@LinkCreature:26#2003#resurgent ghilliedhus}, and the {@LinkCreature:26#1003#ebon weavers}.</Page>
-    
     </Text>
 </QuestDialog>

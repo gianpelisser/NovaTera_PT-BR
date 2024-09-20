@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="489" id="24" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="489" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="489" id="100" prevId="0" villagerId="1013">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="489" id="2" prevId="0" villagerId="1013">
          
+         
         <Page social="4">{&lt;@LinkCreature:489#3602#Os imps áuricos ávidos} são os únicos imps que anseiam por carne crua.&lt;BR&gt;&lt;BR&gt;Já os vi despir um soldado incauto até os ossos em segundos.&lt;BR&gt;&lt;BR&gt;Não deixe que eles se alimentem de nossos rapazes, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
     <Text huntingZoneId="489" id="3" prevId="2" villagerId="1013">
          
+         
         <Page social="4">Ele não traz os mortos de volta, mas faz com que os vivos durmam um pouco melhor.&lt;BR&gt;&lt;BR&gt;Obrigado, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
 </QuestDialog>

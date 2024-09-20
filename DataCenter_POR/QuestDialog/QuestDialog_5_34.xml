@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="5" id="34" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="5" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="205" id="100" prevId="0" villagerId="1003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="205" id="2" prevId="0" villagerId="1003">
          
+         
         <Page social="0">É terrível - com os tuwangis divididos assim, não podemos nem nos unir para enfrentar os problemas reais. Os {@LinkCreature:5#13#dentes-de-sabre sinistros}, por exemplo, estão nos atormentando! &lt;BR&gt;&lt;BR&gt;Você se importaria de cuidar deles? Seria realmente uma pena se o dente-de-sabre atrapalhasse a luta dos tuwangi.</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="3" prevId="2" villagerId="1003">
          
+         
         <Page social="0">Obrigado, obrigado, &lt;PCNAME&gt;. Finalmente, tenho uma pessoa em quem posso confiar.</Page>
+    
     
     </Text>
 </QuestDialog>

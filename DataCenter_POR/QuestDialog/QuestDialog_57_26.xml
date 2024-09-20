@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="57" id="26" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="57" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="257" id="100" prevId="0" villagerId="1006">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="257" id="2" prevId="0" villagerId="1006">
          
+         
         <Page social="4">Os Atel Akaad estão apoiando a jogada de Killian, mas sabe-se lá por quê.&lt;BR&gt;&lt;BR&gt;Estes são alguns dos melhores Lokianos de Atel Akaad e controlam o caminho para o templo.&lt;BR&gt;&lt;BR&gt;Corte os formadores de sangue e os derramadores de sangue Lokianos e conecte-se com Degare perto do Barbacã. Ele tem mais ordens para você.</Page>
+    
     
     </Text>
     <Text huntingZoneId="257" id="3" prevId="2" villagerId="1022">
          
+         
         <Page social="4">Está vendo esses sinetes? Eles são de origem argônica. Poucos se dão conta da ligação entre Atel Akaad e os argons.&lt;BR&gt;&lt;BR&gt;Se Killian está trabalhando com eles, seria bom que todos nós tivéssemos medo.&lt;BR&gt;&lt;BR&gt;Finalmente, o trabalho com os lokianos foi bom, mas ainda não terminamos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="257" id="4" villagerId="1022">
          
+         
         <Page social="0">Você já matou os lokianos? Não podemos deixar que o Atel Akaad dite o ritmo dessa batalha!</Page>
+    
     
     </Text>
 </QuestDialog>

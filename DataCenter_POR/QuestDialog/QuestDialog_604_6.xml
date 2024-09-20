@@ -1,84 +1,116 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="604" id="6" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="604" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="71" id="100" prevId="0" villagerId="3001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="71" id="2" prevId="0" villagerId="3001">
          
+         
         <Page social="4">A federação nos apóia aqui porque rastreamos a vida selvagem e as plantas para o Mysterium.&lt;BR&gt;&lt;BR&gt;Sem relatórios, sem apoio. {@LinkCreature:71#3018#Meiga} está perdendo um. Ajude-o a conseguir.</Page>
+    
     
     </Text>
     <Text huntingZoneId="71" id="3" prevId="2" villagerId="3018">
          
+         
         <Page social="4">Hmph. Se {@LinkCreature:71#3001#Arisel} quer seus relatórios em dia, deveríamos recrutar Baraka.&lt;BR&gt;&lt;BR&gt;Ah, aqui está o retardatário. Provavelmente perdeu a noção do tempo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="71" id="4" prevId="2" villagerId="3018">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="71" id="5" prevId="2" villagerId="3018">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="71" id="6" prevId="2" villagerId="3018">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="71" id="7" prevId="2" villagerId="3018">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="71" id="8" prevId="2" villagerId="3018">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="71" id="9" prevId="2" villagerId="3018">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="230" id="10" prevId="2" villagerId="3027">
          
+         
         <Page social="4">Relatório?&lt;BR&gt;&lt;BR&gt;Aaah, certo!&lt;BR&gt;&lt;BR&gt;Tomei um tempo de filhote e deixei escapar. Mas não se preocupe. Já está pronto.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="11" prevId="10" villagerId="3028">
          
+         
         <Page social="4">Aqui está o relatório.&lt;BR&gt;&lt;BR&gt;Entre os golems e as ruínas infestadas de preguiças, eu não tinha ideia de como enviá-lo!</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="12" prevId="11" villagerId="3029">
          
+         
         <Page social="4">Não enviei porque nada mudou!&lt;BR&gt;&lt;BR&gt;Golem corta grama. Golem fica louco. Golem quebra. Golem é substituído por um novo golem.&lt;BR&gt;&lt;BR&gt;Os dias passam voando!</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="13" prevId="12" villagerId="3030">
          
+         
         <Page social="4">As preguiças comeram o último.&lt;BR&gt;&lt;BR&gt;Não o relatório - o observador! Não, é verdade!</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="14" prevId="13" villagerId="3031">
          
+         
         <Page social="4">Diga a Meiga que eu pensaria muito melhor se tivesse rações melhores.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="15" prevId="14" villagerId="3032">
          
+         
         <Page social="4">Relatório? Ah, claro! &lt;BR&gt;&lt;BR&gt;Preencha este formulário....</Page>
+    
     
     </Text>
     <Text huntingZoneId="71" id="16" prevId="15" villagerId="3018">
          
+         
         <Page social="4">E essa é a última por hoje.&lt;BR&gt;&lt;BR&gt;Imagino que não seja assim no exército, não é?</Page>
+    
     
     </Text>
 </QuestDialog>

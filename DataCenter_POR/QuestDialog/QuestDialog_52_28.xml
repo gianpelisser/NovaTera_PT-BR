@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="28" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="52" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="252" id="100" prevId="0" villagerId="1019">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="252" id="2" prevId="0" villagerId="1019">
          
+         
         <Page social="4">O nível de temperatura desta área vem despencando há alguns dias, e há rumores de que as sirenes estão fazendo isso.&lt;BR&gt;&lt;BR&gt;Elas são bruxas do tempo ou algo assim, que vieram com o exército de Thulsa.&lt;BR&gt;&lt;BR&gt;Se você as afastar, o tempo pode melhorar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="252" id="3" prevId="2" villagerId="1019">
          
+         
         <Page social="4">Finalmente, as sirenes de geada se foram. Com sorte, vai esquentar aqui. Pelo menos um pouco.</Page>
+    
     
     </Text>
 </QuestDialog>

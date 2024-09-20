@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="11" id="28" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="11" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="211" id="100" prevId="0" villagerId="1009">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="211" id="2" prevId="0" villagerId="1009">
          
+         
         <Page social="4">Os {@LinkCreature:11#1008#piratas do chicote vermelho} e os {@LinkCreature:11#1004#diggers} estão transportando carga. Isso não é novidade.&lt;BR&gt;&lt;BR&gt;Mas eles estão sendo muito cuidadosos com a carga. Nunca vi isso antes.&lt;BR&gt;&lt;BR&gt;Eles não estão roubando, então não é um tesouro delicado. Meu palpite? Explosivos. Seja o que for, apreendam-no - mas tenham cuidado!</Page>
+    
     
     </Text>
     <Text huntingZoneId="211" id="3" prevId="2" villagerId="1009">
          
+         
         <Page social="4">Como eu pensava... bombas. Com uma quantidade suficiente desse material, você poderia afundar uma frota... ou destruir uma cidade.&lt;BR&gt;&lt;BR&gt;Mas os piratas não usam muito explosivos, porque não gostam de explodir seu próprio tesouro. Hmmm...</Page>
+    
     
     </Text>
     <Text huntingZoneId="211" id="4" villagerId="1009">
          
+         
         <Page social="0">Apresse-se e pegue esses explosivos antes que o Red Lash faça algo terrível com eles!</Page>
+    
     
     </Text>
 </QuestDialog>

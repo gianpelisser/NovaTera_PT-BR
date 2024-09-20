@@ -1,21 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="48" id="24" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="48" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0">A Fundição Cyanocannon está sendo atacada por caçadores de athakela. Não podemos nos dar ao luxo de perder a fundição.&lt;BR&gt;&lt;BR&gt;Intercepte esses argons imediatamente!</Page>
+    
     
     </Text>
     <Text huntingZoneId="48" id="3" prevId="2" villagerId="1007">
          
+         
         <Page social="6">Excelente momento. Depois que os argonss atingiram nossa fundição na Cratera Magthulk, temi que fôssemos o próximo alvo.&lt;NEXTPAGEBUTTON&gt;"Você está bem?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Bah! Vai ser preciso mais do que alguns arranhões para me derrubar.&lt;BR&gt;&lt;BR&gt;O que é isso? Não é meu. Alguém por perto {@Rgn:78001} deve ter sentido falta dela. Veja se você consegue encontrar o dono.</Page>
+    
     
     </Text>
 </QuestDialog>

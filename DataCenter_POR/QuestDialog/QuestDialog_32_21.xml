@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="32" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="32" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="232" id="100" prevId="0" villagerId="1019">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="232" id="2" prevId="0" villagerId="1019">
          
+         
         <Page social="4">Kaidun! O nome tem muitos significados para nós, amani. Antigamente, ele era um símbolo de nossa glória e força. Esses dias já se foram há muito tempo.&lt;BR&gt;&lt;BR&gt;Kaidun emergiu da Cidadela do Tormento como um tirano louco e implacável. Ele conquistou o Monte Tyrannas - e sem o sacrifício de nosso povo, ele estaria aqui massacrando a todos nós.&lt;BR&gt;&lt;BR&gt;A batalha se arrastou por tanto tempo que estamos precisando urgentemente de suprimentos. Temos soldados, mas não temos como armá-los.&lt;BR&gt;&lt;BR&gt;Traga-nos armas. Não me importa como. Na verdade, se você conseguir arrancá-las das mãos frias e mortas dos {@LinkCreature:32#1#lutadores de Sihran} e dos {@LinkCreature:32#2#cabeças de chifre de Tuwangi}, ficarei muito satisfeito.</Page>
+    
     
     </Text>
     <Text huntingZoneId="232" id="3" prevId="2" villagerId="1019">
          
+         
         <Page social="4">Excelente trabalho! Graças a você, nossos novos recrutas estarão armados com armas de alta qualidade.&lt;BR&gt;&lt;BR&gt;Saber que nossos inimigos serão punidos com suas próprias armas traz um sorriso ao meu rosto.</Page>
+    
     
     </Text>
     <Text huntingZoneId="232" id="4" villagerId="1019">
          
+         
         <Page social="0">Encontre os {@LinkCreature:32#1#Lutadores de Sihran} e os {@LinkCreature:32#2#Cabeças de chifre detuwangi} na Passagem do Assombro, a leste daqui. Precisamos de suas armas.</Page>
+    
     
     </Text>
 </QuestDialog>

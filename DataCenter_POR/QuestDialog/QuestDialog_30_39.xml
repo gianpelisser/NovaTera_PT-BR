@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="39" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="30" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="230" id="100" prevId="0" villagerId="1066">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="230" id="2" prevId="0" villagerId="1066">
          
+         
         <Page social="1">Não há tempo para conversas. Estamos ocupados consertando as cercas do acampamento.&lt;BR&gt;&lt;BR&gt;Madeira forte certamente ajudaria, mas você já ouviu essa música e dança antes.&lt;BR&gt;&lt;BR&gt;A melhor madeira no Refúgio de Balder está apenas andando por aí - na forma de {@LinkCreature:30#170#viny arbosks}.&lt;BR&gt;&lt;BR&gt;Nenhuma outra árvore é tão durável, então vale a pena o risco.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="3" prevId="2" villagerId="1066">
          
+         
         <Page social="1">Você faz jus à sua reputação, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Nunca ninguém me trouxe tanta madeira antes.&lt;BR&gt;&lt;BR&gt;Ei! Venha aqui e pegue isso! E muito obrigado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="4" villagerId="1066">
          
+         
         <Page social="0">A madeira de {@LinkCreature:30#170#viny arbosks} é tão dura que nem um orcano furioso e empunhando um machado consegue quebrá-la. Eu nunca dormiria aqui se não confiasse nessas paredes.</Page>
+    
     
     </Text>
 </QuestDialog>

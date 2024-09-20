@@ -1,8 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4825001" string="Casualties of War" />
-    <String id="4825002" string="Find out if anyone survived the Magthulk Crater debacle." />
-    <String id="4825003" string="I'm fine, but I lost most of my command." />
-    <String id="4825004" string="&quot;Stand tall, my friend.&quot;" />
-    <String id="4825005" string="Search for {@LinkCreature:248#1030} near {@Rgn:48008}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4802001" string="The Goddess of War" />
+    <String id="4802002" string="&quot;I'll do my best.&quot;" />
+    <String id="4802003" string="[{@Rgn:48002$$Khanovar Citadel}] Report to Commander {@LinkCreature:248#2001$$Tamur}." />
+    <String id="4802004" string="&quot;I won't be long.&quot;" />
+    <String id="4802005" string="[{@Rgn:48002$$Khanovar Citadel}] Speak with {@LinkCreature:248#2001$$Kaia}." />
+    <String id="4802006" string="&quot;For Valkyon!&quot;" />
+    <String id="4802007" string="[{@Rgn:48002$$Khanovar Citadel}] Speak with Kaia to start the battle." />
+    <String id="4802008" string="Khanovar Gauntlet" />
+    <String id="4802009" string="Stand by Kaia." />
+    <String id="4802010" string="Head to the {@Rgn:9014001$$Khanovar Gauntlet} with {@LinkCreature:248#2010$$Kaia}." />
+    <String id="4802011" string="Khanovar Gauntlet" />
+    <String id="4802012" string="Kaia enters the fray!" />
+    <String id="4802013" string="Stand at {@LinkCreature:248#2001$$War Goddess Kaia}'s side and prepare for battle." />
+    <String id="4802014" string="[{@Rgn:9014001$$Khanovar Gauntlet}] Defeat the argons swarming {@LinkCreature:414#2001$$Goddess Kaia}." />
+    <String id="4802015" string="&quot;Understood.&quot;" />
+    <String id="4802016" string="[{@Rgn:48002$$Khanovar Citadel}] Talk to Commander {@LinkCreature:248#2001$$Tamur}." />
 </StrSheet_Quest>

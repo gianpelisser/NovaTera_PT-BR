@@ -1,13 +1,17 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="212" id="1018" voiceTypeId="51">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1018" huntingZoneId="212" voiceTypeId="51">
     <Text huntingZoneId="212" id="1" endSocial="12" prevId="0" villagerId="1018">
          
+         
         <Page social="9">I am powerless without my disc—they've taken what I am away from me. My very being.</Page>
+    
     
     </Text>
     <Text huntingZoneId="212" id="10001" endSocial="0" prevId="0" villagerId="1018">
          
+         
         <Page social="9">I'm free! Thank you!</Page>
+    
     
     </Text>
 </VillagerDialog>

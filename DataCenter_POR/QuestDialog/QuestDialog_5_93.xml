@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="5" id="93" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="5" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="60" id="100" prevId="0" villagerId="1014">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="60" id="2" prevId="0" villagerId="1014">
          
+         
         <Page social="0">Os tuwangis da Lagoa do Sapo Poderoso estão ficando um pouco nervosos. Está na hora de acabar com eles.&lt;BR&gt;&lt;BR&gt;Eliminar os {@LinkCreature:5#7#tuwangi warfroggers}, {@LinkCreature:5#8#keen hat tuwangis} e {@LinkCreature:5#9#stonehammer tuwangis}.&lt;BR&gt;&lt;BR&gt;Relatar para Zelia na Guarnição Tuwangi quando a missão estiver completa.</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="3" prevId="2" villagerId="1011">
          
+         
         <Page social="5">Mais tuwangis violentos derrotados. Confira.&lt;BR&gt;&lt;BR&gt;Continuem com o ótimo trabalho!</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="4" villagerId="1011">
          
+         
         <Page social="0">Se ao menos alguém saísse pelo mundo e cuidasse das coisas que disse que cuidaria, em vez de se apresentar a mim de mãos vazias.&lt;BR&gt;&lt;BR&gt;Hum? Oh, não, eu certamente não poderia estar falando de você.</Page>
+    
     
     </Text>
 </QuestDialog>

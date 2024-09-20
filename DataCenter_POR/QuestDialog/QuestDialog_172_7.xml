@@ -1,53 +1,73 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="172" id="7" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="172" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="823" id="100" prevId="0" villagerId="1100">
          
+         
         <Page social="0">Os piratas Naga atacam a Intrepid, que sofre grandes danos, forçando a Vanguard Initiative a abandonar o navio.</Page>
+    
     
     </Text>
     <Text huntingZoneId="823" id="2" prevId="0" villagerId="1100">
          
+         
         <Page social="4">Esses naga estão tentando roubar o cruzador do céu! &lt;BR&gt;&lt;BR&gt;Devem ter se escondido em alguma das caixas. Deveria ter sido mais cuidadoso...&lt;BR&gt;&lt;BR&gt;Temos que defender a nave.</Page>
+    
     
     </Text>
     <Text huntingZoneId="823" id="3" prevId="2" villagerId="1100">
          
+         
         <Page social="4">Eu manterei essa posição. Vamos impedi-los de entrar no porão de carga.&lt;BR&gt;&lt;BR&gt;Ajude Zolyn a repelir esses desgraçados e a proteger o convés da Intrepid.</Page>
+    
     
     </Text>
     <Text huntingZoneId="823" id="4" prevId="3" villagerId="1102">
          
+         
         <Page social="4">Escória Naga! &lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;! Está vendo aquele grandalhão feio? Ele está no comando.&lt;BR&gt;&lt;BR&gt;Acha que você pode detê-lo?</Page>
+    
     
     </Text>
     <Text huntingZoneId="823" id="5" prevId="4" villagerId="1102">
          
+         
         <Page social="4">Excelente! &lt;BR&gt;&lt;BR&gt;No entanto, ainda não terminamos. Vou continuar limpando o convés. Você viu aquele idiota? &lt;NEXTPAGEBUTTON&gt;"Não vi."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Ele latiu alguma coisa sobre um coletor perto da proa.&lt;BR&gt;&lt;BR&gt;Veja se você consegue encontrá-lo. Suas chaves inglesas não são tão mortais quanto ele pensa. Suas chaves inglesas não são tão mortais quanto ele pensa que são.</Page>
+    
     
     </Text>
     <Text huntingZoneId="172" id="6" villagerId="7">
          
+         
         <Page social="0">Estamos em apuros! &lt;BR&gt;&lt;BR&gt;Os nagas danificaram os motores dianteiros. Provavelmente não sabiam o que estavam fazendo.&lt;BR&gt;&lt;BR&gt;Dougal precisa evacuar a nave antes que ela caia. Depressa, me ajude a alcançá-lo!</Page>
+    
     
     </Text>
     <Text huntingZoneId="823" id="7" prevId="5" villagerId="1100">
          
+         
         <Page social="4">Paesyn! &lt;PCNAME&gt;! Agradeça a Velik por estar bem.&lt;NEXTPAGEBUTTON&gt;"A Intrepid não pode voar, senhor!"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Que droga! Ela não pode ser salva? &lt;BR&gt;&lt;BR&gt;Muito bem. Use esta buzina. Ordene a todos que abandonem o cruzador do céu.</Page>
+    
     
     </Text>
     <Text huntingZoneId="823" id="8" prevId="7" villagerId="1100">
          
+         
         <Page social="4">Já chega. &lt;BR&gt;&lt;BR&gt;Vamos!</Page>
+    
     
     </Text>
     <Text huntingZoneId="172" id="9" prevId="8" villagerId="1000">
          
+         
         <Page social="4">&lt;PCNAME&gt;! Você está machucado? Você ainda gosta de mim?&lt;BR&gt;&lt;BR&gt;Estou feliz por você estar vivo. As bênçãos de Seren o protegeram, meu amigo!</Page>
+    
     
     </Text>
 </QuestDialog>

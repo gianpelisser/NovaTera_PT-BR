@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="24" id="36" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="24" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="224" id="100" prevId="0" villagerId="1002">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="224" id="2" prevId="0" villagerId="1002">
          
+         
         <Page social="5">As ruínas são uma fonte fértil de informações sobre a queda da civilização dos gigantes, mas os {@LinkCreature:24#10#vulcões gananciosos} impedem qualquer estudo da área.&lt;BR&gt;&lt;BR&gt;Sou um estudioso, não um guerreiro. Você nos ajudará e abrirá o caminho?</Page>
+    
     
     </Text>
     <Text huntingZoneId="224" id="3" prevId="2" villagerId="1002">
          
+         
         <Page social="5">Com suas fileiras reduzidas, talvez possamos progredir nas ruínas. &lt;BR&gt;&lt;BR&gt;Eu lhe sou grato.</Page>
+    
     
     </Text>
 </QuestDialog>

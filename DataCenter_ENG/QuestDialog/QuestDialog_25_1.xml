@@ -1,96 +1,58 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="25" id="1" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
         <Page social="0">Despite Samael's death, and against all expectations, the Scions of Lok managed to regroup. As their first order of business, they planned to resurrect Samael and claim the magic of the ancient giants to exact their revenge against the federation.&lt;BR&gt;&lt;BR&gt;Scions of Lok woke the giants and interrogated them to discover the location of the magic they sought. You rescued the giants and prevented their magic from falling into the hands of the Scions.</Page>
-    
     </Text>
-    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
-         
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
         <Page social="0">Mission Orders&lt;BR&gt;&lt;BR&gt;Return to Velika at once. There are new disturbing reports of Scion activity. This must be dealt with immediately.&lt;BR&gt;&lt;BR&gt;—Seir</Page>
-    
     </Text>
-    <Text huntingZoneId="63" id="3" prevId="2" villagerId="1102">
-         
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1102">
         <Page social="4">We're not sure what's going on, but the Scions of Lok were spotted gathering in the Dark Cathedral. Elleon's taking a small task force there and asked for you personally.&lt;BR&gt;&lt;BR&gt;If the full extent of the Scion conspiracy was known, it would shake the Valkyon Federation to the core. Speak with Elleon and help him contain this mess.&lt;BR&gt;&lt;BR&gt;Dismissed.</Page>
-    
     </Text>
-    <Text huntingZoneId="63" id="4" prevId="3" villagerId="1168">
-         
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1168">
         <Page social="4">One trustworthy ally is more valuable than an entire company of soldiers. It's good to see you again. Did Seir explain the situation?&lt;NEXTPAGEBUTTON&gt;"Scions of Lok are causing trouble?"&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="4">More than ever! The Scions of Lok have pledged to bring down Velika to avenge Samael's death—and Lok's continued unliving status.&lt;BR&gt;&lt;BR&gt;Jelena's rangers spotted a number of Scions in Val Aureum, specifically around the Colossal Ruins. Elsine, a dear cousin, desperately needs a masterful soldier.&lt;BR&gt;&lt;BR&gt;We're sending you, though. Hah!</Page>
-    
     </Text>
-    <Text huntingZoneId="66" id="5" prevId="4" villagerId="1023">
-         
+    <Text id="5" huntingZoneId="66" prevId="4" villagerId="1023">
         <Page social="4">Elleon speaks rather highly of you. We're grateful to have your assistance on this mission.&lt;BR&gt;&lt;BR&gt;I've seen Scions of Lok rummaging through the relics in Colossal Ruins. We can't let them get their hands on anything that might bring them more power. Please explain the situation to Primus Baruch. Together, perhaps we can stop them.</Page>
-    
     </Text>
-    <Text huntingZoneId="66" id="6" prevId="5" villagerId="1001">
-         
+    <Text id="6" huntingZoneId="66" prevId="5" villagerId="1001">
         <Page social="4">Scions of Lok? Oh, that's just what we need! I've only just convinced Turrek that the federation is an asset against the kulkari. Now he'll think we drew the Scions of Lok to Tulufan.&lt;BR&gt;&lt;BR&gt;Luckily you're here. It's not safe for Elsine to continue at the ruins, but I need more information about what's going on out there.&lt;BR&gt;&lt;BR&gt;Tribune Kardelen's monitoring the situation right now at Camp Marrakeen. See what you can do for him!</Page>
-    
     </Text>
-    <Text huntingZoneId="218" id="7" prevId="6" villagerId="1003">
-         
+    <Text id="7" huntingZoneId="218" prevId="6" villagerId="1003">
         <Page social="4">Welcome, &lt;PCNAME&gt;. I'd love to help you with your crisis but neither you nor I will get any information if we can't get closer.&lt;BR&gt;&lt;BR&gt;The Desert Fire tribe has turned violent—really violent—so a direct approach is unwise! We might kill a lot of them, but they'll kill too many of us in the process.&lt;BR&gt;&lt;BR&gt;Something's definitely stirred them up and I'd love to know what it is. See if you can get the Desert Fire {@LinkCreature:18#8#destroyers}, {@LinkCreature:18#3#ragers}, and {@LinkCreature:18#9#prophets} to talk. If they're not in a talking mood, we'll think of something else.</Page>
-    
     </Text>
-    <Text huntingZoneId="218" id="8" prevId="7" villagerId="1003">
-         
+    <Text id="8" huntingZoneId="218" prevId="7" villagerId="1003">
         <Page social="4">Secrets? Power? Sounds like they're involved in something big.&lt;BR&gt;&lt;BR&gt;Those names...Ynorr? Surtr? Worlkir? Those sound giantish.&lt;BR&gt;&lt;BR&gt;We need an expert for this. Dinian built a career on giant history. Ask him.</Page>
-    
     </Text>
-    <Text huntingZoneId="218" id="9" prevId="8" villagerId="1001">
-         
+    <Text id="9" huntingZoneId="218" prevId="8" villagerId="1001">
         <Page social="4">Those are the names of legendary giants.&lt;BR&gt;&lt;BR&gt;When the gods warred against the giants' empire, these three constructed a powerful weapon and sealed it away, just in case. Then they sealed themselves away to keep the weapon's location a secret.&lt;BR&gt;&lt;BR&gt;If they're talking about them...&lt;BR&gt;&lt;BR&gt;Oh no! The Scions must have found the giants and are trying to recover the weapon. We have to inform Mirak at once.</Page>
-    
     </Text>
-    <Text huntingZoneId="218" id="10" prevId="9" villagerId="1022">
-         
+    <Text id="10" huntingZoneId="218" prevId="9" villagerId="1022">
         <Page social="4">It's time to get more information, and I think the Scion leaders might have just what we need. Adarak and Jerexis must have plans or orders or something.&lt;BR&gt;&lt;BR&gt;As luck would have it, they were recently sighted to the west. Go. See if you can find {@LinkCreature:18#107#Adarak} and {@LinkCreature:18#108#Jerexis} and have a little chat.</Page>
-    
     </Text>
-    <Text huntingZoneId="218" id="11" prevId="10" villagerId="1022">
-         
+    <Text id="11" huntingZoneId="218" prevId="10" villagerId="1022">
         <Page social="4">According to this, the Scions of Lok found the sleeping giants. After waking them up, they bound them to an agonal stone and tortured them for information. The giants must still be alive!&lt;BR&gt;&lt;BR&gt;Locate Nema and let her know. We have to find a way to save them.</Page>
-    
     </Text>
-    <Text huntingZoneId="218" id="12" villagerId="1022">
-         
+    <Text id="12" huntingZoneId="218" villagerId="1022">
         <Page social="0">How did they find it? How can we stop them?</Page>
-    
     </Text>
-    <Text huntingZoneId="218" id="13" prevId="11" villagerId="1007">
-         
+    <Text id="13" huntingZoneId="218" prevId="11" villagerId="1007">
         <Page social="4">We've been trying to locate the Vault of Glory—the ruins where the giants sleep—for a while, but it seems the Scions of Lok beat us to the punch. The {@LinkCreature:218#1501#teleportal} at the center of the Temple of Tithus is most likely the entrance to the Vault of Glory.&lt;BR&gt;&lt;BR&gt;You'll have to get in, eliminate the Scions of Lok and destroy the agonal stone.&lt;BR&gt;&lt;BR&gt;Good luck.</Page>
-    
     </Text>
-    <Text huntingZoneId="218" id="14" prevId="13" villagerId="1501">
-         
+    <Text id="14" huntingZoneId="218" prevId="13" villagerId="1501">
         <Page social="4">(Enter the Vault of Glory and save the giants.)</Page>
-    
     </Text>
-    <Text huntingZoneId="422" id="15" prevId="14" villagerId="1003">
-         
+    <Text id="15" huntingZoneId="422" prevId="14" villagerId="1003">
         <Page social="4">The Scions of Lok stole a tome detailing the defenses around our weapons. You must destroy that tome before they use the artifacts. It's too much power for mortals.</Page>
-    
     </Text>
-    <Text huntingZoneId="422" id="16" prevId="14" villagerId="1007">
-         
+    <Text id="16" huntingZoneId="422" prevId="14" villagerId="1007">
         <Page social="4">Our magic was second to none. We challenged the gods—and nearly won.&lt;BR&gt;&lt;BR&gt;Our pride made us rush, however, and the gods united against us. They seared most of our kind from the world in a day of fire.&lt;BR&gt;&lt;BR&gt;Should the Scions fulfill their dark plans, it may well happen again.</Page>
-    
     </Text>
-    <Text huntingZoneId="422" id="17" prevId="14" villagerId="1005">
-         
+    <Text id="17" huntingZoneId="422" prevId="14" villagerId="1005">
         <Page social="4">The Scions of Lok obtained the information about our magic. We held out as long as we could, but it was too much. They left us bound and in excruciating pain as punishment.&lt;BR&gt;&lt;BR&gt;You must recover the tome they seek. Only when it is destroyed will we be safe from their machinations.</Page>
-    
     </Text>
-    <Text huntingZoneId="218" id="18" prevId="15" villagerId="1022">
-         
+    <Text id="18" huntingZoneId="218" prevId="15" villagerId="1022">
         <Page social="4">The Scions of Lok have already woken the sleeping giants? We're too late, then.</Page>
-    
     </Text>
 </QuestDialog>

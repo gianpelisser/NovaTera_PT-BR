@@ -1,32 +1,114 @@
-<?xml version='1.0' encoding='utf-8'?>
 <StrSheet_Dungeon xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd">
-    <String id="9889001" string="Sua intromissão termina agora... com sua morte!" />
-    <String id="9889002" string="Os guardas o viram - tenha cuidado!" />
-    <String id="9889003" string="Os guardas se aproximam. Mantenha-os longe de mim por pelo menos cinco minutos, ok?" />
-    <String id="9889004" string="Uma segunda onda de guardas!" />
-    <String id="9889005" string="Aí vem a terceira onda!" />
-    <String id="9889006" string="Uma quarta onda? De fato?" />
-    <String id="9889007" string="A última onda de guardas! De um jeito ou de outro..." />
-    <String id="9889008" string="Todos os guardas estão mortos." />
-    <String id="9889009" string="As barricadas na entrada do Salão dos Sacerdotes desapareceram." />
-    <String id="9889010" string="Senhora Terkasia, salve-me!" />
-    <String id="9889011" string="Terkasia, o guardião traiçoeiro, apareceu na câmara divina." />
-    <String id="9889012" string="Algo foi convocado. Algo... imenso!" />
-    <String id="9889021" string="2 minutos se passaram." />
-    <String id="9889022" string="4 minutos se passaram." />
-    <String id="9889023" string="4 minutos e 30 segundos se passaram." />
-    <String id="9889024" string="Proteção completa." />
-    <String id="9889025" string="Se falhar, você terá que sair da dungeon e reiniciar para voltar a se envolver na tarefa." />
-    <String id="9889101" string="A porta Leste se abre." />
-    <String id="9889102" string="A porta Oeste se abre." />
-    <String id="9889103" string="A porta se abre." />
-    <String id="9889104" string="Você deseja aprender lendo. Agora você aprende sangrando. Como ousa interferir..." />
-    <String id="9889105" string="Minha vingança é sua morte!" />
-    <String id="9889106" string="Depois que a pedra for destruída, você ouvirá uma porta distante se abrir." />
-    <String id="9889107" string="Com a morte de Akia, a grande porta se abre." />
-    <String id="9889108" string="A mulher fica maior." />
-    <String id="9889109" string="Um estranho está se aproximando." />
-    <String id="9889110" string="Estava esperando por você! Terkasia!" />
-    <String id="9889111" string="É um sucesso! Finalmente, acabamos com a ameaça dos cultistas!" />
-    <String id="9889112" string="Destruir o Altar de Samael é o último passo restante. Siga-me." />
+    <String id="9885001" string="Your victory only makes me stronger. Prepare yourself for the next challenge!" />
+    <String id="9885002" string="Is that the best you can do?" />
+    <String id="9885003" string="Here, something easy enough even for you." />
+    <String id="9885004" string="So much for the champions of the dream." />
+    <String id="9885005" string="Forge your destiny." />
+    <String id="9885006" string="Hmm, perhaps." />
+    <String id="9885007" string="Time to clean my claws." />
+    <String id="9885008" string="This is where you die." />
+    <String id="9885009" string="Inside are a few trinkets from my hoard to tide you over." />
+    <String id="9885010" string="Impressive." />
+    <String id="9885011" string="Kill as many ghosts as you can, if you want to collect." />
+    <String id="9885012" string="And because your fumbling efforts amuse me, here's a taste of my power. " />
+    <String id="9885013" string="&lt;font size='30'&gt;Invisible parasites flock to you.&lt;/font&gt;" />
+    <String id="9885014" string="Boom, boom, BOOM!" />
+    <String id="9885015" string="The only good urn is a smashed urn." />
+    <String id="9885016" string="Thud. I die." />
+    <String id="9885017" string="10 Destroyed!" />
+    <String id="9885018" string="30 Destroyed!!" />
+    <String id="9885020" string="50 Destroyed!!!" />
+    <String id="9885021" string="10 Kills!" />
+    <String id="9885022" string="30 Kills!!" />
+    <String id="9885023" string="50 Kills!!!" />
+    <String id="9885024" string="&lt;font size='40'&gt;A pulsing crystal appears.&lt;/font&gt;" />
+    <String id="9885026" string="It's getting dark." />
+    <String id="9885027" string="Light glints off the mirror." />
+    <String id="9885028" string="&lt;font size='50'&gt;Kill the blue argons. Empowered argons decrease the enemy's health.&lt;/font&gt;" />
+    <String id="9885029" string="&lt;font size='50'&gt;Kill the red argons. Empowered argons increase the enemy's health.&lt;/font&gt;" />
+    <String id="9885030" string="A dimensional mirror appears." />
+    <String id="9885031" string="You've done well. Take this as a reward!" />
+    <String id="9885032" string="Purification!" />
+    <String id="9885033" string="Taste your own powerlessness." />
+    <String id="9885034" string="Pathetic." />
+    <String id="9885036" string="I look forward to your slow, painful death." />
+    <String id="9885037" string="Oh my! Are you still here?" />
+    <String id="9885038" string="Here, take this for your troubles." />
+    <String id="9885039" string="Watch your step. Death is near." />
+    <String id="9885043" string="Attack now!" />
+    <String id="9885046" string="Incoming reinforcements!" />
+    <String id="9885047" string="You keep winning. Impressive." />
+    <String id="9885048" string="Here, you've earned these rewards!" />
+    <String id="9885049" string="As well another taste of my power!" />
+    <String id="9885050" string="By all means, continue. Your actions amuse me." />
+    <String id="9885051" string="A dark spectre approaches." />
+    <String id="9885052" string="Have you finally given up? Pitiful." />
+    <String id="9885053" string="The funny thing about nightmares is, they're resistant to all damage!" />
+    <String id="9885101" string="Dreadspire: 1st Challenge" />
+    <String id="9885102" string="Dreadspire: 2nd Challenge" />
+    <String id="9885103" string="Dreadspire: 3rd Challenge" />
+    <String id="9885104" string="Dreadspire: 4th Challenge" />
+    <String id="9885105" string="Dreadspire: 5th Challenge" />
+    <String id="9885106" string="Dreadspire: 6th Challenge" />
+    <String id="9885107" string="Dreadspire: 7th Challenge" />
+    <String id="9885108" string="Dreadspire: 8th Challenge" />
+    <String id="9885109" string="Dreadspire: 9th Challenge" />
+    <String id="9885110" string="Dreadspire: 10th Challenge" />
+    <String id="9885111" string="Dreadspire: 11th Challenge" />
+    <String id="9885112" string="Dreadspire: 12th Challenge" />
+    <String id="9885113" string="Dreadspire: 13th Challenge" />
+    <String id="9885114" string="Dreadspire: 14th Challenge" />
+    <String id="9885115" string="Dreadspire: 15th Challenge" />
+    <String id="9885116" string="Dreadspire: 16th Challenge" />
+    <String id="9885117" string="Dreadspire: 17th Challenge" />
+    <String id="9885118" string="Dreadspire: 18th Challenge" />
+    <String id="9885119" string="Dreadspire: 19th Challenge" />
+    <String id="9885120" string="Dreadspire: 20th Challenge" />
+    <String id="9885199" string="Well, that was unexpected. Very well, you may pass." />
+    <String id="9885200" string="Welcome to my playground." />
+    <String id="9885201" string="This tower contains your darkest fears manifested." />
+    <String id="9885202" string="I look forward to seeing your nightmares made real." />
+    <String id="9885203" string="Here's a little warm-up session." />
+    <String id="9885204" string="Alive? Still? Impressive." />
+    <String id="9885205" string="Here is a small reward for your efforts so far." />
+    <String id="9885206" string="I hope you will like it." />
+    <String id="9885207" string="I find this all so entertaining." />
+    <String id="9885208" string="Your desperate struggles to survive, that is." />
+    <String id="9885209" string="Please do stay alive a while longer." />
+    <String id="9885210" string="Ready for some real action?" />
+    <String id="9885211" string="Good. I knew you had more fight in you." />
+    <String id="9885212" string="Now let's begin in earnest." />
+    <String id="9885213" string="Truly impressive. However…" />
+    <String id="9885214" string="It's only fair to tell you I've been holding back so far." />
+    <String id="9885215" string="In the end, you'll beg me for a quick death." />
+    <String id="9885216" string="Honestly, I never thought you could make it this far." />
+    <String id="9885217" string="So I guess I'll have to unleash the worst you've ever faced." />
+    <String id="9885218" string="Ready for an emotional reunion with…" />
+    <String id="9885219" string="Oh, yes! Wasn't that fun? And this is just a beginning." />
+    <String id="9885220" string="Always remember…" />
+    <String id="9885221" string="As long as the dream continues, your nightmares are never far away." />
+    <String id="9885222" string="Someone wishes to say a few words to you." />
+    <String id="9885223" string="More like screaming, actually, but I think you'll get the message." />
+    <String id="9885224" string="Have a nice time together." />
+    <String id="9885225" string="The worst pain comes…" />
+    <String id="9885226" string="When the wounds start to heal." />
+    <String id="9885227" string="Would you care to try your luck again?" />
+    <String id="9885228" string="Most who face this particular opponent…" />
+    <String id="9885229" string="Say it runs a little hot and cold…" />
+    <String id="9885230" string="But you know that already, don't you?" />
+    <String id="9885231" string="Impressive… really impressive…" />
+    <String id="9885232" string="Only a true believer holds onto hope this long…" />
+    <String id="9885233" string="I guess that means you're ready for my best effort!" />
+    <String id="9885234" string="Better do it quick." />
+    <String id="9885235" string="Your own warped memories will destroy you!" />
+    <String id="9885236" string="Charging in blindly would be foolish, wouldn't it?" />
+    <String id="9885237" string="Clumsy Overseers are beginning to watch." />
+    <String id="9885238" string="Volsurus is beginning to watch." />
+    <String id="9885239" string="Don't get cocky!" />
+    <String id="9885240" string="Let's test your perception." />
+    <String id="9885241" string="Open your eyes!" />
+    <String id="9885242" string="I don't like it…" />
+    <String id="9885243" string="I can't bear to just watch you running around anymore…" />
+    <String id="9885244" string="I want you to flee in terror!" />
+    <String id="9885245" string="&lt;font size='50'&gt;Oh, how I love to laugh!&lt;/font&gt;" />
 </StrSheet_Dungeon>

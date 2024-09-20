@@ -1,30 +1,41 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="183" id="1" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="183" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="183" id="100" prevId="0" villagerId="2055">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="183" id="2" prevId="0" villagerId="2055">
          
+         
         <Page social="4">&lt;PCNAME&gt;! Você abriu o teletransporte!&lt;BR&gt;&lt;BR&gt;Graças a você, finalmente posso me considerar um verdadeiro pesquisador de teletransporte! Obrigado!&lt;NEXTPAGEBUTTON&gt;"Fico feliz em ajudar!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="4">Você fez muito mais do que simplesmente "ajudar". &lt;BR&gt;&lt;BR&gt;Sei que você tem suas próprias preocupações, mas, antes de prosseguir, posso lhe pedir mais um favor?</Page>
          
+         
         <Page social="4">É um dia auspicioso, quando os barakas de todo o mundo podem finalmente retornar à sua terra natal ancestral. Gostaríamos de entrar em contato com eles, para que saibam que Highwatch está ao seu alcance mais uma vez.&lt;BR&gt;&lt;BR&gt;Você poderia entregar esses convites aos meus irmãos baraka em Velika? &lt;NEXTPAGEBUTTON&gt;"Deixe comigo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="1567">
          
+         
         <Page social="4">Você veio de onde? &lt;BR&gt;&lt;BR&gt;Highwatch? Ela ainda existe, depois de todo esse tempo? &lt;NEXTPAGEBUTTON&gt;"De fato, e os barakas de lá querem que você venha visitá-los."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Este é, de fato, um dia para ser lembrado!&lt;BR&gt;&lt;BR&gt;Obrigado, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Partilharei isso com os barakas em Kaiator e Allemantheia.&lt;BR&gt;&lt;BR&gt;Obrigado por entregar esta mensagem e, quando retornar à Highwatch, diga a eles que os barakas estarão a caminho!&lt;NEXTPAGEBUTTON&gt;"Assim farei."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="183" id="4" prevId="3" villagerId="2055">
          
+         
         <Page social="4">Você prestou um enorme serviço ao povo baraka hoje, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Sei que nunca poderemos recompensá-lo de verdade, mas, por favor, aceite isto como um símbolo de minha gratidão pessoal.&lt;NEXTPAGEBUTTON&gt;"Obrigado, Garm."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
 </QuestDialog>

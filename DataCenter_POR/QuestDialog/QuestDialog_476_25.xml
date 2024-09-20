@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="476" id="25" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="476" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="253" id="100" prevId="0" villagerId="1013">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="253" id="2" prevId="0" villagerId="1013">
          
+         
         <Page social="4">Acabaram de chegar ordens para eliminar os arachnen painweavers do Labirinto do Terror.&lt;BR&gt;&lt;BR&gt;Ótimo, mas não vou mandar um de nós quatro para lá.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, você tem o equipamento para isso, certo?</Page>
+    
     
     </Text>
     <Text huntingZoneId="253" id="3" prevId="2" villagerId="1013">
          
+         
         <Page social="4">Ei, desculpe tê-lo feito passar por isso. Não consigo lidar com aracnídeos.&lt;BR&gt;&lt;BR&gt;São todas aquelas pernas com pêlos eriçados. Eeeugh!</Page>
+    
     
     </Text>
 </QuestDialog>

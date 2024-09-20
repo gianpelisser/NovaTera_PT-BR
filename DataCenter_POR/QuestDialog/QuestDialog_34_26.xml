@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="34" id="26" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="34" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="83" id="100" prevId="0" villagerId="1004">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="83" id="2" prevId="0" villagerId="1004">
          
+         
         <Page social="4">Bleakrock está em boa forma, &lt;PCNAME&gt;. Nós mesmos podemos cuidar das coisas. Alguns dos locais de campo estão mais necessitados do que nós.&lt;BR&gt;&lt;BR&gt;Vá para o sul daqui, para a Base de Gelo Stalker, e se apresente a Chaarisa. Eles estão atrasados para o check-in, portanto, apresse-se.</Page>
+    
     
     </Text>
     <Text huntingZoneId="234" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="4">Nunahd se preocupa demais! Sim, estamos com wendigos até o pescoço, mas estamos nos segurando.&lt;BR&gt;&lt;BR&gt;Você parece um veterano. Pelo menos Nunahd enviou alguém útil. Vamos fazer o seguinte: fale com Lalash e veja o que ele precisa.</Page>
+    
     
     </Text>
     <Text huntingZoneId="234" id="4" prevId="3" villagerId="1005">
          
+         
         <Page social="4">Nossa espécie não foi feita para este ambiente. Eu sou de um maldito deserto! &lt;BR&gt;&lt;BR&gt;Eu gosto do calor. Estou meio tentado a atear fogo em mim mesmo só para aquecer meus ossos.&lt;BR&gt;&lt;BR&gt;Sim, estamos minerando aqui, mas os fragmentos estão se esgotando, para não falar das hostilidades dos wendigos. Se você está procurando ação, veio ao lugar certo.</Page>
+    
     
     </Text>
 </QuestDialog>

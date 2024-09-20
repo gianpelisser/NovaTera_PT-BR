@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_PremiumCompose xmlns="https://vezel.dev/novadrop/dc/StrSheet_PremiumCompose" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_PremiumCompose StrSheet_PremiumCompose.xsd">
+<StrSheet_PremiumCompose xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_PremiumCompose StrSheet_PremiumCompose.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_PremiumCompose">
     <String id="1" string="Cube - Tester_A" />
     <String id="2" string="Mystic Style Cube" />
     <String id="3" string="Rare Style Cube" />
@@ -23,7 +22,7 @@
     <String id="21" string="2015 Maid Avatar Cube: Retro" />
     <String id="22" string="2014 School Uniform Avatar Cube" />
     <String id="23" string="Chief Maid's Secret Cube" />
-    <String id="24" string="Felicity's Cube" />
+    <String id="24" string="Ser Picks-a-lot's Cube" />
     <String id="25" string="Inherited Foreign Country Cube" />
     <String id="26" string="Lirinda's Weaving Kit Cube" />
     <String id="27" string="2013 School Uniform Avatar Cube" />
@@ -48,12 +47,28 @@
     <String id="48" string="2014 Aniel's Style Cube" />
     <String id="49" string="TERA Cube" />
     <String id="50" string="Litherus' Style Cube" />
+    <String id="51" string="Tamer's Beast Cube" />
     <String id="52" string="Fashion Cube (ALICE IN TERA) for Ladies" />
     <String id="53" string="Fashion Cube (ALICE IN TERA) for Gentlemen" />
-    <String id="55" string="Costume box Halloween 2014: police" />
-    <String id="56" string="Costume Box Halloween 2014: nurse" />
-    <String id="57" string="Costume Box &quot;Wonderland Alice&quot; for Ladies" />
-    <String id="60" string="Costume Box &quot;Chinese Dress&quot;" />
+    <String id="54" string="Cube in Wonderland" />
+    <String id="55" string="Fashion Cube (Halloween Party 2014) Police" />
+    <String id="56" string="Fashion Cube (Halloween Party 2014) Nurse" />
+    <String id="57" string="Fashion Cube (ALICE IN TERA Dyeable Undergarments) for Ladies" />
+    <String id="58" string="Two Oaks Ranch Animal Cube" />
+    <String id="59" string="Jaeron's Zany Cube" />
+    <String id="60" string="Chinese Flower Fashion Cube" />
+    <String id="61" string="Returned Foreign Weapons Cube" />
+    <String id="62" string="[Event] Kurat's Ash Undergarments Cube (Rare)" />
+    <String id="63" string="[Event] Meruma's Silk Ash Undergarments Cube (Rare)" />
+    <String id="64" string="Pantoto's Qipao Cube" />
+    <String id="65" string="Fashion Cube (Sorcerer)" />
+    <String id="66" string="2014 Christmas Cube" />
+    <String id="67" string="2014 End of the Year Cube" />
+    <String id="68" string="Mystic Style Cube II" />
+    <String id="69" string="Kurat's All-in-one Gray Underwear Cube" />
+    <String id="75" string="Fashion Cube (Seolbim)" />
+    <String id="78" string="Fashion Cube(Pup, Penguin, Pinky Bear, Piggy, Duckling)" />
+    <String id="79" string="Fashion Cube(Sheep)" />
     <String id="1001" string="Convert to obtain an Icegrip Weapon Skin." />
     <String id="1002" string="Convert for a chance at [Duck Bill] or [Kelsaik Mask]." />
     <String id="1003" string="Convert for a chance at [Afro], [Classic Feather Hat]." />
@@ -76,7 +91,7 @@
     <String id="1021" string="Combine to obtain [2013 Maid Avatar]." />
     <String id="1022" string="Infuse the item to obtain a 2014 School Uniform Style Box with a 100% chance." />
     <String id="1023" string="Infuse the item to obtain a Merolyn's Clothing Collection Box/Lienyn's Weapon Stash with a 100% chance." />
-    <String id="1024" string="Infuse the item to obtain a Felicity's Treasure Chest with a 100% chance." />
+    <String id="1024" string="Infuse the item to obtain a Ser Picks-a-lot's Treasure Chest with a 100% chance." />
     <String id="1025" string="Infuse the item to obtain an Inherited Foreign Country Jewel Box with a 100% chance." />
     <String id="1026" string="Infuse the item to obtain a Lirinda's Beauty Box with a chance of obtaining up to 5 of them." />
     <String id="1027" string="Infuse the item to obtain a 2013 School Uniform Style Box with a 100% chance." />
@@ -98,15 +113,31 @@
     <String id="1045" string="Combine this item to obtain avatar box (2014 swimsuits I)." />
     <String id="1046" string="Combine this item to obtain avatar box (2014 swimsuits II)." />
     <String id="1047" string="Infuse this item to obtain [Ainah's 2014 Swimsuits Box] with a chance to obtain more than one." />
-    <String id="1048" string="Infuse this item to obtain [Aniel's 2014 Swimsuit Box] with a chance to obtain more than one." />
+    <String id="1048" string="Infuse this item to obtain [Aniel's 2014 Swimsuit Box], [2013 Summer Beachwar Box], or [Meruma's Style Box] with a chance to obtain more than one." />
     <String id="1049" string="Infuse this item to obtain alphabets A, N, M, G, E, and love tokens." />
     <String id="1050" string="Infuse this item to obtain [Litherus' Bounty Box] with a chance to win more than one." />
+    <String id="1051" string="Infuse this item to obtain a [Tamer's Beast Box] or [Riding Skill: Regal Frostlion] with a chance of obtaining more than one." />
     <String id="1052" string="Infuse this item to obtain [Alice Costume Box] or [Cheshire Cat Costume Box]. " />
     <String id="1053" string="Infuse this item to obtain [Mad Hatter Costume Box] or [Cheshire Cat Costume Box]. " />
-    <String id="1055" string="Infuse this item to obtain to obtain avatar box (police), from Halloween 2014." />
-    <String id="1056" string="Infuse this item to obtain to obtain avatar box (nurse), from Halloween 2014." />
-    <String id="1057" string="Infuse this item to obtain a box with Alice's costume (dyeable)." />
-    <String id="1060" string="Infuse this item to obtain to obtain avatar box (cheongsam / dyeable cheongsam)." />
+    <String id="1054" string="Infuse this item to obtain [Treasure Chest in Wonderland] or [Pink Flamingo Weapon Crate] with a chance to obtain more than one." />
+    <String id="1055" string="Infuse this item to obtain Avatar Box (Halloween 2014) Police." />
+    <String id="1056" string="Infuse this item to obtain Avatar Box (Halloween 2014) Nurse." />
+    <String id="1057" string="Infuse this item to obtain Alice costume Box (Dyeable Undergarments)." />
+    <String id="1058" string="Combine this item to obtain [Two Oaks Ranch Animal Box] with a chance to obtain more than one and may even obtain a special mount item." />
+    <String id="1059" string="Combine this item to obtain Jaeron's Zany Working Clothes Box or special accessories with a chance to obtain more than one box." />
+    <String id="1060" string="Combine this item to obtain Avatar Box(Qipao/Dyed Qipao)." />
+    <String id="1061" string="Combine this item to obtain [Returned Foreign Treasure Chest] or [Ancient Relic Weapon Crate] with a chance to obtain more than one box." />
+    <String id="1062" string="Combine this item to obtain [Event] Kurat's Ash Undergarments Box." />
+    <String id="1063" string="Combine this item to obtain [Event] Meruma's Silk Ash Undergarments Box (Rare)." />
+    <String id="1064" string="Combine this item to obtain Pantoto's Qipao Box or White Flower Headband with a chance to obtain more than one box." />
+    <String id="1065" string="Combine this item to obtain avatar box (Sorcerer)." />
+    <String id="1066" string="Can obtain  [2014 Christmas Mount Box], [2014 Christmas Costume Box] and other special mounts through combining items. May obtain more than one." />
+    <String id="1067" string="Can obtain  [2014 Year's End And Beginning Box] through combining items. May obtain more than one." />
+    <String id="1068" string="Combine this item to obtain [Dark bear hat] and other rare items." />
+    <String id="1069" string="Can obtain the legend grad Kurat's All-in-One Ash Bodysuit through combining items." />
+    <String id="1075" string="Combine this item to obtain [Hanbok] items." />
+    <String id="1078" string="Combine items to obtain [Avartar Box(Puppy, Penguin, Bear, Pig, Duck)]" />
+    <String id="1079" string="Combine items to obtain [Avartar Box(Sheep)]" />
     <String id="2001" string="Guide A" />
     <String id="2002" string="Converting the same item will not necessarily give the same result." />
     <String id="2004" string="Place an item." />

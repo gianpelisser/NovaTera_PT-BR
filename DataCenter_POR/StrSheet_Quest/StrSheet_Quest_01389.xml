@@ -1,7 +1,26 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4924001" string="Notícias de última hora" />
-    <String id="4924002" string="Obrigado por conversar comigo, soldado." />
-    <String id="4924003" string="&quot;Agradeço a informação. Obrigado.&quot;" />
-    <String id="4924004" string="Entregue a notícia para {@Rgn:76001}." />
+    <String id="4902001" string="Cruzando os riachos" />
+    <String id="4902002" string="&quot;Acho que vamos descobrir.&quot;" />
+    <String id="4902003" string="[{@Rgn:49003$$Agnurok Engine} Entrance] Fale com {@LinkCreature:249#2004$$Ronalt}." />
+    <String id="4902004" string="&quot;Você está pronto para isso.&quot;" />
+    <String id="4902005" string="Fale com {@LinkCreature:249#2011$$Hasmina}." />
+    <String id="4902006" string="&quot;Isso é... incomum.&quot;" />
+    <String id="4902007" string="[{@Rgn:9013001$$Cyasma Spire}] Procure um {@LinkCreature:249#2014#teleportal} para entrar no {@Rgn:9013001$$Cyasma Spire}." />
+    <String id="4902008" string="Dentro do Cyasma Spire." />
+    <String id="4902009" string="Você conseguiu se infiltrar com sucesso no {@Rgn:9013001$$Cyasma Spire}." />
+    <String id="4902010" string="[{@Rgn:9013001$$Cyasma Spire}] Use o teletransporte para se infiltrar no Cyasma Spire." />
+    <String id="4902011" string="&quot;Entendido.&quot;" />
+    <String id="4902012" string="Fale com {@LinkCreature:413#2002$$Kuni}." />
+    <String id="4902013" string="Dentro do Cyasma Spire." />
+    <String id="4902014" string="Você vê uma câmara cheia de bobinas de cyasma." />
+    <String id="4902015" string="[{@Rgn:9013001$$Cyasma Spire}] Esconda-se nas passagens laterais para evitar contato com o inimigo." />
+    <String id="4902016" string="Dispositivo de transmissão [{@Rgn:9013001$$Cyasma Spire}] Destrua as bobinas de cyasma." />
+    <String id="4902017" string="Transmissor de energia primária" />
+    <String id="4902018" string="Parece ser o transmissor de energia primária." />
+    <String id="4902019" string="Dispositivo de transmissão [{@Rgn:9013001$$Cyasma Spire}] Aproxime-se do transmissor de energia." />
+    <String id="4902020" string="&quot;De nada, senhor.&quot;" />
+    <String id="4902021" string="{@Rgn:76001$$Kanstria}] Informe a {@LinkCreature:249#2002$$Ceidos} em Kanstria." />
+    <String id="4902022" string="&quot;Farei o meu melhor!&quot;" />
+    <String id="4902023" string="Retorne ao QG do Kaiator e se apresente ao comandante Tamur." />
 </StrSheet_Quest>

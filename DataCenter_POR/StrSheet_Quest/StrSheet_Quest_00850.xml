@@ -1,10 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="3030001" string="Loção luxuosa da Leshoff" />
-    <String id="3030002" string="O mel da árvore Ghilliedhu é o ingrediente secreto. Guarde-o em seu chapéu." />
-    <String id="3030003" string="Quando começarmos a produção, eu lhe darei uma franquia local!" />
-    <String id="3030004" string="Mel de árvore de Ghilliedhu" />
-    <String id="3030005" string="Mate {@linkcreature:30#160#azureroot ghilliedhus} em {@Rgn:30006$$Brightleaf Glade} e colete o mel da árvore ghilliedhu." />
-    <String id="3030006" string="Entregue o mel da árvore ghilliedhu para {@linkcreature:230#1016$$Leshoff}." />
-    <String id="3030007" string="&quot;Fico feliz por ter ajudado.&quot;" />
+    <String id="3026001" string="Salve uma erupção cutânea, alimente uma febre" />
+    <String id="3026002" string="Você é gentil e honrado." />
+    <String id="3026003" string="Pelos deuses, já estou me sentindo melhor!" />
+    <String id="3026004" string="&quot;Com certeza!&quot;" />
+    <String id="3026005" string="&quot;Eu voltarei!&quot;" />
+    <String id="3026006" string="Pergunte a {@Creature:230#1007$$Lashinuk} sobre o pólen de ghilliedhu." />
+    <String id="3026007" string="&quot;Obrigado.&quot;" />
+    <String id="3026008" string="Colete &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=7015#-9257.7725,70158.5156,495.8517&amp;type=1&amp;name=moon shadow plants&quot;&gt;moon shadow plants&lt;/A&gt;&lt;/FONT&gt; em {@Rgn:30005$$Seren's Garden}." />
+    <String id="3026009" string="Entregue as plantas de sombra da lua para {@Creature:230#1007$$Lashinuk}." />
+    <String id="3026010" string="" />
+    <String id="3026011" string="Salva de Sombra da Lua" />
+    <String id="3026012" string="Dê a pomada para {@linkcreature:230#1006$$Dunav}." />
+    <String id="3026013" string="&quot;Não diga mais nada.&quot;" />
 </StrSheet_Quest>

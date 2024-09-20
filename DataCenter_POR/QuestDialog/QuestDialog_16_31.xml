@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="16" id="31" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="16" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="216" id="100" prevId="0" villagerId="1004">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="216" id="2" prevId="0" villagerId="1004">
          
+         
         <Page social="4">Não entendo o que aconteceu com os vampiros. Eles foram quase amigáveis conosco por tanto tempo. De qualquer forma, nós coexistimos pacificamente.&lt;BR&gt;&lt;BR&gt;Eu odeio dizer isso, mas a essa altura, são eles ou nós.&lt;BR&gt;&lt;BR&gt;Se você pudesse se livrar dos {@LinkCreature:16#2302#blood lords}, eu me sentiria melhor com essa postagem.</Page>
+    
     
     </Text>
     <Text huntingZoneId="216" id="3" prevId="2" villagerId="1004">
          
+         
         <Page social="4">Obrigado, &lt;PCNAME&gt;. Muitas pessoas acham que isso não é problema delas, mas se não pararmos com isso agora... bem, tenho certeza de que você entenderá.</Page>
+    
     
     </Text>
 </QuestDialog>

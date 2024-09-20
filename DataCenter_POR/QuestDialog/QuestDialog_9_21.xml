@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="9" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="9" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="209" id="100" prevId="0" villagerId="1007">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="209" id="2" prevId="0" villagerId="1007">
          
+         
         <Page social="4">Os crocutas atacaram nossa caravana de suprimentos novamente! &lt;BR&gt;&lt;BR&gt;Primeiro foram os {@LinkCreature:9#300#crocutas blindados}, e nós dobramos o tamanho da escolta. Mas agora {@LinkCreature:9#310#alpha crocutas} estão atacando as caravanas também. E estão comendo os guardas no almoço.&lt;BR&gt;&lt;BR&gt;Literalmente.&lt;BR&gt;&lt;BR&gt;Livre-se dos crocutas, &lt;PCNAME&gt;, e traga de volta suas peles. Provavelmente podemos fazer cobertores ou algo do gênero com elas, já que não vamos receber suprimentos tão cedo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="209" id="3" prevId="2" villagerId="1007">
          
+         
         <Page social="4">Devemos conseguir curti-los antes da próxima onda de frio. E certamente antes de vermos um vagão de suprimentos por aqui.</Page>
+    
     
     </Text>
     <Text huntingZoneId="209" id="4" villagerId="1007">
          
+         
         <Page social="0">Não é apenas a situação do suprimento. Os {@LinkCreature:9#300#crocutas blindados} e os {@LinkCreature:9#310#crocutas alfa} estão realmente causando baixas. E temos poucos soldados de sobra.</Page>
+    
     
     </Text>
 </QuestDialog>

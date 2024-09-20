@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="29" id="93" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="29" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="70" id="100" prevId="0" villagerId="1017">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="70" id="2" prevId="0" villagerId="1017">
          
+         
         <Page social="5">A fauna local ficou furiosa e ameaça as operações em andamento. Cace e destrua {@LinkCreature:29#1011#thick tusked shoats}, {@LinkCreature:29#2011#vicious shoats}, {@LinkCreature:29#1021#inky sabertooths}, {@LinkCreature:29#1031#inky sabertooth alphas}, {@LinkCreature:29#2021#leafcutter arachnens} e {@LinkCreature:29#2031#vinesplicer arachnens}. Temos pouco tempo, portanto, faça isso imediatamente.&lt;BR&gt;&lt;BR&gt;Relate a Kendara quando a missão estiver concluída.</Page>
+    
     
     </Text>
     <Text huntingZoneId="229" id="3" prevId="2" villagerId="1007">
          
+         
         <Page social="5">Seu trabalho árduo vale a pena, &lt;PCNAME&gt;. Precisamos de mais soldados como você.</Page>
+    
     
     </Text>
     <Text huntingZoneId="229" id="4" villagerId="1007">
          
+         
         <Page social="0">Pedimos desculpas, mas sem a comprovação do óbito, os pagamentos não são autorizados.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="39" id="26" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="39" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="239" id="100" prevId="0" villagerId="1024">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="239" id="2" prevId="0" villagerId="1024">
          
+         
         <Page social="4">Os aracnídeos sequestraram pessoas em Frontera e as trouxeram para cá. Quando chegamos aqui, os aracnídeos que se alimentam de pesadelos já haviam matado a maioria deles.&lt;BR&gt;&lt;BR&gt;Não é um trabalho que agrade a ninguém, mas precisamos encontrá-los. Suas famílias precisam saber o que aconteceu aqui.</Page>
+    
     
     </Text>
     <Text huntingZoneId="239" id="3" prevId="2" villagerId="1024">
          
+         
         <Page social="0">Eles não deveriam ter morrido, mas pelo menos agora podemos mandá-los para casa.</Page>
+    
     
     </Text>
     <Text huntingZoneId="239" id="4" villagerId="1024">
          
+         
         <Page social="0">Ajude-me a encontrar os restos mortais dos mortos. Por favor.</Page>
+    
     
     </Text>
 </QuestDialog>

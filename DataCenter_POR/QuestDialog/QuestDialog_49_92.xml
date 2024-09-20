@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="49" id="92" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="49" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="76" id="100" prevId="0" villagerId="1024">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="76" id="2" prevId="0" villagerId="1024">
          
+         
         <Page social="5">Os colossos de Argon continuam destruindo nossas formações de tropas, dificultando a organização de nossa resistência.&lt;BR&gt;&lt;BR&gt;Eu o estou enviando para matar as aves de rapina suulvir, os thassalirs arzakaar e os supervisores akalath.&lt;BR&gt;&lt;BR&gt;Apresente-se a {@LinkCreature:76#1603} em Kanstria quando tiver concluído sua missão.</Page>
+    
     
     </Text>
     <Text huntingZoneId="76" id="3" prevId="2" villagerId="1603">
          
+         
         <Page social="5">Fico feliz por termos soldados como você, &lt;PCNAME&gt;. Muito bem.</Page>
+    
     
     </Text>
     <Text huntingZoneId="76" id="4" villagerId="1603">
          
+         
         <Page social="0">Você ainda não alcançou seus objetivos. Desculpe-me.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,39 +1,53 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="3" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="52" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0">O lendário ferreiro Muhrak lhe pediu alguns materiais para compensar as deficiências de sua nova oficina. Depois que você os forneceu, Muhrak criou uma super arma: a Torch of the Gods (Tocha dos Deuses).</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0">&lt;PCNAME&gt;: Venha para minha oficina. Preciso de alguns materiais.&lt;BR&gt;&lt;BR&gt;-Muhrak.</Page>
+    
     
     </Text>
     <Text huntingZoneId="411" id="3" prevId="2" villagerId="5001">
          
+         
         <Page social="1">Se a Fornalha Divina estivesse funcionando, eu estaria trabalhando agora, mas há certas... ineficiências envolvidas. Precisamos de flechas de gelo, flechas de fogo e fragmentos de geleira.&lt;BR&gt;&lt;BR&gt;O que você quer dizer com "Por quê?" Quem é o ferreiro lendário aqui? Muito bem. Combinar os fragmentos de relíquia com a essência do Núcleo requer muito calor e depois frio. Satisfeito? &lt;BR&gt;&lt;BR&gt;Vá para Raseri Festning, no Vale das Torres. Os gigantes de lá têm icemarrow e firemarrow, especialmente os chefes. Fragmentos de geleira? Colete-os sob a ponte que liga o Scorched Snowfield ao Frostclaw Crag.</Page>
+    
     
     </Text>
     <Text huntingZoneId="411" id="4" prevId="3" villagerId="5001">
          
+         
         <Page social="1">Ótimo, agora posso terminar meu melhor trabalho!</Page>
+    
     
     </Text>
     <Text huntingZoneId="411" id="5" villagerId="5001">
          
+         
         <Page social="0">Preciso de materiais!</Page>
+    
     
     </Text>
     <Text huntingZoneId="411" id="6" prevId="4" villagerId="5001">
          
+         
         <Page social="1">Pegue isso, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Adicione alguma substância negra, e você tem a Tocha dos Deuses.&lt;BR&gt;&lt;BR&gt;Kelsaik é uma versão distorcida do deus Sikander, por isso é imune à maioria das magias mortais. Mas a Tocha dos Deuses, você vê, pode queimar através dessa imunidade.&lt;BR&gt;&lt;BR&gt;Leve todas as tochas que quiser, e você encontrará a substância negra dentro da Torre de Ébano. Conveniente, não é? &lt;BR&gt;&lt;BR&gt;Não vá embora ainda, &lt;PCCLASS:lcase&gt;! Obtenha um totem de purificação de Gaicus. É bom contra os monstros que você encontrará na Torre de Ébano.</Page>
+    
     
     </Text>
     <Text huntingZoneId="79" id="7" prevId="6" villagerId="1102">
          
+         
         <Page social="1">Totem de purificação? O quê, eles estão enviando algum tolo para explorar a Torre de Ébano?&lt;BR&gt;&lt;BR&gt;Oh, é você? Aqui está, então! &lt;BR&gt;&lt;BR&gt;Ninguém experimentou isso na própria torre, mas eu os fiz para a fumaça negra que às vezes paira sobre Habere a partir de lá. Deve ser a mesma coisa dentro da torre, só que mais intensa.</Page>
+    
     
     </Text>
 </QuestDialog>

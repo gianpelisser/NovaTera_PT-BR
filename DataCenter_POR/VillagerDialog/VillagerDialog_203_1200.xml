@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="203" id="1200" voiceTypeId="67">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1200" huntingZoneId="203" voiceTypeId="67">
     <Text huntingZoneId="203" id="1" endSocial="14" prevId="0" villagerId="1200">
          
+         
         <Page social="4">Bring your ears over here! You smell unlucky. My blessings—now that tastes like good fortune!&lt;BR&gt;&lt;BR&gt;You want one? Mmm, mmm, good!</Page>
+    
     
     </Text>
 </VillagerDialog>

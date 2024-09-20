@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="205" id="1003" voiceTypeId="0">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1003" huntingZoneId="205" voiceTypeId="0">
     <Text huntingZoneId="205" id="1" endSocial="0" prevId="0" villagerId="1003">
          
+         
         <Page social="0">We're supposed to be living in harmony with what's around us. It's our nature. But all this chaos...&lt;BR&gt;&lt;BR&gt;This has to end.</Page>
+    
     
     </Text>
 </VillagerDialog>

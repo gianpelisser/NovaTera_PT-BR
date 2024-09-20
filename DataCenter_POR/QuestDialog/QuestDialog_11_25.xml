@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="11" id="25" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="11" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="211" id="100" prevId="0" villagerId="1015">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="211" id="2" prevId="0" villagerId="1015">
          
+         
         <Page social="4">Você pensaria que os piratas ficariam nos mares, onde eles pertencem. Mas não, eles infestaram a selva também.&lt;BR&gt;&lt;BR&gt;E eu não quero ser raptado, ou pior. Mas você não é exatamente um risco de sequestro. Você pode colher um pouco de erva-de-porco dourada no oeste ou no sul daqui? Preciso dele para fazer remédios.&lt;BR&gt;&lt;BR&gt;Heck, talvez um remédio para curá-lo algum dia.</Page>
+    
     
     </Text>
     <Text huntingZoneId="211" id="3" prevId="2" villagerId="1015">
          
+         
         <Page social="4">Ah, a erva-de-porco. Costumávamos chamá-la de "bálsamo dos mares". Não que você o encontrasse no mar, veja bem. Mas nós, piratas, o levamos conosco em todas as viagens.&lt;BR&gt;&lt;BR&gt;Ou pelo menos nós, piratas, levávamos. Não sobrou nenhum pirata de verdade, é claro... só o que sobrou foi o que sobrou, como eu. Os nagas acabaram com todos nós.&lt;BR&gt;&lt;BR&gt;Desculpe, a divagação é um mau hábito. Traga-me mais erva-de-porco se você pensar nisso, hein, &lt;PCNAME&gt;?</Page>
+    
     
     </Text>
     <Text huntingZoneId="211" id="4" villagerId="1015">
          
+         
         <Page social="0">É uma pena que você tenha sangrado até a morte porque a coisa mais próxima de um médico neste vilarejo não tem erva-de-porco, não é?</Page>
+    
     
     </Text>
 </QuestDialog>

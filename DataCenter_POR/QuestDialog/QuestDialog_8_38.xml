@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="8" id="38" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="8" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="208" id="100" prevId="0" villagerId="1037">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="208" id="2" prevId="0" villagerId="1037">
          
+         
         <Page social="4">Não podemos salvar os mortos, mas podemos acabar com seu tormento. Derrubem os {@LinkCreature:8#4061#mineradores moribundos}.&lt;BR&gt;&lt;BR&gt;Devolvê-los ao Sonho é o maior presente que podemos lhes oferecer neste momento.</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="3" prevId="2" villagerId="1037">
          
+         
         <Page social="4">É nosso dever acabar com o sofrimento deles!</Page>
+    
     
     </Text>
 </QuestDialog>

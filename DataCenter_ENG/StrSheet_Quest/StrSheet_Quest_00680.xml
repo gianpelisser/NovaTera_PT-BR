@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="2391001" string="Mooncrest Noruks" />
-    <String id="2391002" string="Noruk Hide" />
-    <String id="2391003" string="&quot;For the federation!&quot;" />
-    <String id="2391004" string="Destroy the mooncrest noruks near the Valkyon Federation Camp by the Lake of Tears." />
-    <String id="2391005" string="Return to Lorsha by the Lake of Tears when you've finished." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="2370001" string="(Guild) Horned Harvest" />
+    <String id="2370002" string="Noruk Hide" />
+    <String id="2370003" string="&quot;Thank you.&quot;" />
+    <String id="2370004" string="Collect noruk hides from Mooncrest Noruks." />
+    <String id="2370005" string="Report to the reward coordinator." />
 </StrSheet_Quest>

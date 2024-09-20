@@ -1,9 +1,11 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="5036001" string="Forjado no Fogo e com Bondade" />
-    <String id="5036002" string="Nunca me esquecerei de você." />
-    <String id="5036003" string="&quot;Com certeza.&quot;" />
-    <String id="5036004" string="Fale com {@LinkCreature:76#1018}." />
-    <String id="5036005" string="&quot;Boa sorte, jovem soldado!&quot;" />
-    <String id="5036006" string="Fale com {@LinkCreature:84#1222} em {@Rgn:84001}." />
+    <String id="5032001" string="A última carta de {@Creature:76#1011}" />
+    <String id="5032002" string="Pobre e corajosa Linkia..." />
+    <String id="5032003" string="Leia o resumo final da Linkia." />
+    <String id="5032004" string="Esta é a última nota de {@Creature:76#1011}!" />
+    <String id="5032005" string="&quot;Retorne ao sonho, Linkia.&quot;" />
+    <String id="5032006" string="Investigue o {@LinkCreature:250#1012} próximo ao {@Rgn:50004}." />
+    <String id="5032007" string="&quot;Vou guardá-lo com carinho.&quot;" />
+    <String id="5032008" string="Dê as más notícias para {@LinkCreature:76#1016} em Kanstria." />
 </StrSheet_Quest>

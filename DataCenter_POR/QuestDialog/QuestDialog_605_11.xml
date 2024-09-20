@@ -1,84 +1,116 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="605" id="11" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="605" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="63" id="100" prevId="0" villagerId="3002">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="2" prevId="0" villagerId="3002">
          
+         
         <Page social="4">Ei! Quer fazer algo diferente hoje? {A Elthienne tem me incomodado com a ideia de sair para matar algumas coisas e eu fico pensando: eca, sou uma garota da cidade! Não estou interessada.&lt;BR&gt;&lt;BR&gt;Mas tenho certeza de que a tarefa é perfeita para um herói como você. Fale com {@LinkCreature:63#3003#Elthienne} para saber os detalhes macabros.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="3003">
          
+         
         <Page social="4">Não gosta de matar coisas? Dá para acreditar que ela é castanheira? Que garota estranha.&lt;BR&gt;&lt;BR&gt;Bem, eu sei que você não é sensível. Preciso que você faça algumas caçadas para as Mãos. Isso exigirá que você viaje, mate alguns nagas e traga de volta partes do corpo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="4" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="5" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="6" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="7" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="8" prevId="2" villagerId="3002">
          
+         
         <Page social="5">Puxa vida! Pele, garras e ossos frescos... que nojo! &lt;BR&gt;&lt;BR&gt;Você levou isso na mochila durante toda a viagem e não vomitou nenhuma vez? &lt;BR&gt;&lt;BR&gt;Pelo menos lavou as mãos antes? {@LinkCreature:63#3003#Elthienne} tem seu pagamento.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="9" villagerId="3002">
          
+         
         <Page social="0">Precisamos de coisas como couro, ossos e garras, todos de nagas. Não pergunte.&lt;BR&gt;&lt;BR&gt;Caça os {@LinkCreature:10#8#naga battlemasters} em {@Rgn:10001#Serpentis Isle} e traga de volta algumas partes do corpo. As Mãos farão bom uso delas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="10" prevId="8" villagerId="3002">
          
+         
         <Page social="5">Que nojo. Quero dizer, obrigado! &lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} lhe pagará pelo seu trabalho.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="11" villagerId="3002">
          
+         
         <Page social="0">Precisamos de coisas como carapaça, osso e garras, todos de nagas. Não pergunte.&lt;BR&gt;&lt;BR&gt;Caça os {@LinkCreature:10#16#naga clawriders} em {@Rgn:10001#Serpentis Isle} e traga de volta algumas partes do corpo. As Mãos farão bom uso delas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="12" prevId="10" villagerId="3002">
          
+         
         <Page social="5">Que cheiro é esse? Juro que {@LinkCreature:63#3003#Elthienne} está mandando você entregar essas coisas aqui só para me castigar.&lt;BR&gt;&lt;BR&gt;Fale com aquele saco velho se quiser receber o pagamento.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="13" villagerId="3002">
          
+         
         <Page social="0">Precisamos de coisas como carapaça, osso e garras, todos de nagas. Não pergunte.&lt;BR&gt;&lt;BR&gt;Caça os {@LinkCreature:10#17#naga clawmasters} em {@Rgn:10001#Serpentis Isle} e traga de volta algumas partes do corpo. As Mãos farão bom uso delas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="14" prevId="12" villagerId="3002">
          
+         
         <Page social="5">Ugh, que nojo. Pelo menos não tem cheiro... ainda.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} tem um pagamento para você.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="15" villagerId="3002">
          
+         
         <Page social="0">Precisamos de coisas como carapaça, osso e garras, todos de nagas. Não pergunte.&lt;BR&gt;&lt;BR&gt;Caça os {@LinkCreature:10#18#naga leviathans} em {@Rgn:10001#Serpentis Isle} e traga de volta algumas partes do corpo. As Mãos farão bom uso delas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="16" prevId="14" villagerId="3003">
          
+         
         <Page social="4">&lt;PCNAME&gt;, você é incrível!</Page>
+    
     
     </Text>
 </QuestDialog>

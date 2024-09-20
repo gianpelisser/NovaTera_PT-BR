@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="183" id="2015" voiceTypeId="134">
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2015" huntingZoneId="183" voiceTypeId="134" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
     <Text id="1" endSocial="4">
-         
         <Page social="4" voiceTypeId="134">You should never go to war unprepared. Let me help you.</Page>
-    
     </Text>
 </VillagerDialog>

@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="122" id="16" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="72" id="100" prevId="0" villagerId="22002">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="122" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="72" prevId="0" villagerId="22002">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="72" id="2" prevId="0" villagerId="22002">
-         
-        <Page social="1">Good day, friend.&lt;BR&gt;&lt;BR&gt;We need to demonstrate that we are capable of protecting the people of the federation. To this end, we would like you, &lt;PCNAME&gt;, to venture into a variety of dangerous environments, and slay a number of monsters, then return with an Echelon Trophy as proof of our ability to handle any threat.&lt;BR&gt;&lt;BR&gt;These beasts are to be found in different locations:&lt;BR&gt;&lt;BR&gt;Balder's Temple (Normal)—{@linkcreature:425#8005#Auricadis}&lt;BR&gt;Balder’s Temple (1 person)—{@linkcreature:825#6000#Nightmare Glaciernus}&lt;BR&gt;Manaya's Core—{@linkcreature:727#2007#Shandra Manaya}</Page>
-    
+    <Text id="2" huntingZoneId="72" prevId="0" villagerId="22002">
+        <Page social="1">Good day, friend.&lt;BR&gt;&lt;BR&gt;We need to demonstrate that we are capable of protecting the people of the federation. To this end, we would like you, &lt;PCNAME&gt;, to venture into a variety of dangerous environments, and slay a number of monsters, then return with an Echelon Trophy as proof of our ability to handle any threat.&lt;BR&gt;&lt;BR&gt;These beasts are to be found in different locations:&lt;BR&gt;&lt;BR&gt;Balder's Temple (Normal)—{@linkcreature:425#8005#Auricadis}&lt;BR&gt;Balder’s Temple (1 person)—{@linkcreature:825#6000#Nightmare Glaciernus}&lt;BR&gt;Argon Core—{@linkcreature:426#20000#Meldita}&lt;BR&gt;Manaya's Core—{@linkcreature:727#2007#Shandra Manaya}</Page>
     </Text>
-    <Text huntingZoneId="72" id="3" prevId="2" villagerId="22002">
-         
+    <Text id="3" huntingZoneId="72" prevId="2" villagerId="22002">
         <Page social="4">Your work is exceptional, friend &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;This token will help establish our trustworthiness, and help ensure that the Enlightened Union becomes the greatest power on the whole continent.&lt;BR&gt;&lt;BR&gt;May the union long remember your name!&lt;BR&gt;&lt;BR&gt;</Page>
-    
     </Text>
-    <Text huntingZoneId="72" id="4" villagerId="22002">
-         
+    <Text id="4" huntingZoneId="72" villagerId="22002">
         <Page social="0">The Enlightened Union must prevail!</Page>
-    
     </Text>
 </QuestDialog>

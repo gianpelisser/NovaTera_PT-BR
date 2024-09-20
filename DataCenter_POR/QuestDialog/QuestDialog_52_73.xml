@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="73" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="73" huntingZoneId="52" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="5">Ordens da missão&lt;BR&gt;&lt;BR&gt;O barsicore Yunaras Snaggletooth desenvolveu um gosto pela carne amani. Para proteger os civis e soldados amani na Planície dos Malditos, esse monstro deve ser eliminado.&lt;BR&gt;&lt;BR&gt;Caçar e destruir o baricore.&lt;BR&gt;&lt;BR&gt;Relatar a Raneria em Habere quando a missão estiver concluída.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="3" prevId="2" villagerId="0">
          
+         
         <Page social="5">Aqui está sua recompensa, bem como a gratidão da Federação Valkyon!</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="4" villagerId="0">
          
+         
         <Page social="0">Parece que você ainda não completou sua missão.</Page>
+    
     
     </Text>
 </QuestDialog>

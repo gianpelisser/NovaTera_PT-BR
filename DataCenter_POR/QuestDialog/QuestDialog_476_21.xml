@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="476" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="476" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="253" id="100" prevId="0" villagerId="1014">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="253" id="2" prevId="0" villagerId="1014">
          
+         
         <Page social="4">Killian completou suas forças com ajudantes pagos - amantes de caos e mercenários de Sihranar.&lt;BR&gt;&lt;BR&gt;Eles são perigosos, mas não tão devotados a Killian quanto seus seguidores.&lt;BR&gt;&lt;BR&gt;Mate-os e receba seu pagamento. Assim que retirarmos o lucro do trabalho, eles irão procurar outro trabalho.</Page>
+    
     
     </Text>
     <Text huntingZoneId="253" id="3" prevId="2" villagerId="1014">
          
+         
         <Page social="4">Trabalho excepcional! Os mercenários só pensam em negócios. Eles deixarão o serviço de Killian quando ficar claro que não há como vencer.&lt;BR&gt;&lt;BR&gt;Além disso, você acabou de financiar o programa de luto de Habere por um mês. Veja só todas essas moedas!</Page>
+    
     
     </Text>
     <Text huntingZoneId="253" id="4" villagerId="1014">
          
+         
         <Page social="0">Mire nas amantes do caos e nos mercenários de Sihranar. Esses soldados pagos não ficarão com Killian se estiver claro que seu fim está próximo.</Page>
+    
     
     </Text>
 </QuestDialog>

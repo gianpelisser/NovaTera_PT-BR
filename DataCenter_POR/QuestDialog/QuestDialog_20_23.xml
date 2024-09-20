@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="20" id="23" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="20" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="220" id="100" prevId="0" villagerId="1002">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="220" id="2" prevId="0" villagerId="1002">
          
+         
         <Page social="4">A mina continua a crescer e crescer, e tudo por causa daqueles {@LinkCreature:20#30011000#slave foremen} e {@LinkCreature:20#30012000#zombie slaves}. Quem sabe a que profundidade está agora? &lt;BR&gt;&lt;BR&gt;Você tem que se livrar deles. Quanto mais profunda for a mina, menos provável será que algo de bom saia de lá.&lt;BR&gt;&lt;BR&gt;Pode também pegar as ferramentas deles enquanto estiver fazendo isso. Não há razão para deixar equipamentos de graça por aí. Dê todos eles para Ruanal nos Salões da Escuridão.</Page>
+    
     
     </Text>
     <Text huntingZoneId="220" id="3" prevId="2" villagerId="1028">
          
+         
         <Page social="4">É assim que se faz, &lt;PCNAME&gt;. Vou guardá-las.&lt;BR&gt;&lt;BR&gt;Aqui está uma pequena recompensa por todo o seu trabalho árduo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="220" id="4" villagerId="1028">
          
+         
         <Page social="0">Precisamos eliminar mais desses zumbis...</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,78 +1,109 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="23" id="2" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="23" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="223" id="100" prevId="0" villagerId="1002">
          
+         
         <Page social="0">Você deu o caldo de Arin para Rida, mas a tentativa de manipulação da irmã a irritou. Rida lhe disse que um demônio havia tomado conta do exército dela. Você matou o demônio, Rida concordou em retornar a Pora Elinu e a paz foi restaurada... por enquanto.</Page>
+    
     
     </Text>
     <Text huntingZoneId="223" id="2" prevId="0" villagerId="1002">
          
+         
         <Page social="4">Agora que temos nosso caldo, só precisamos que minha irmã o beba.&lt;BR&gt;&lt;BR&gt;Você poderia simplesmente nocauteá-la e despejá-lo em sua garganta, mas isso pode não ser político.&lt;BR&gt;&lt;BR&gt;Encontre Rupeush no Acampamento de Emergência a leste de Pora Elinu. Ele é muito diplomático. Ele pode marcar o encontro com Rida.&lt;BR&gt;&lt;BR&gt;Essa pode ser uma abordagem melhor.&lt;NEXTPAGEBUTTON&gt;"Como quiser."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Não importa o que você faça, não conte a Rupeush sobre a corrente de ar. Ele é rigoroso, moralista, alto e tudo o mais. Ele nunca concordaria com isso.&lt;BR&gt;&lt;BR&gt;Só seja... circunspecto.</Page>
+    
     
     </Text>
     <Text huntingZoneId="223" id="3" prevId="2" villagerId="1050">
          
+         
         <Page social="4">Você quer conhecer a Princesa Rida? Posso saber por quê? &lt;BR&gt;&lt;BR&gt;Estou vendo. Bem, seria melhor se essa briga absurda fosse encerrada.&lt;BR&gt;&lt;BR&gt;Se você for sincero quanto a isso, eu poderia marcar um encontro com alguém próximo a ela. De acordo? &lt;NEXTPAGEBUTTON&gt;"Sim, por favor!"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Muito bem. As damas de companhia de Rida vivem em Blessed Woods. Uma delas estará esperando por você. Conte a ela sua história e conte-a bem! &lt;BR&gt;&lt;BR&gt;Se ela aprovar, você terá seu encontro com Rida.</Page>
+    
     
     </Text>
     <Text huntingZoneId="223" id="4" prevId="3" villagerId="1031">
          
+         
         <Page social="4">O que quer que você tenha ouvido de Arin, você não sabe toda a verdade.&lt;BR&gt;&lt;BR&gt;&lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7002#-34006.2383,57783.6563,782.0027&amp;type=1&amp;name=Princess Rida"&gt;Princesa Rida&lt;/A&gt;&lt;/FONT&gt; nunca quis essa briga. Não foi ideia dela! &lt;NEXTPAGEBUTTON&gt;"O que você quer dizer com isso?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Há outras forças em ação. Minha princesa está tentando conter essa situação, não piorá-la! &lt;BR&gt;&lt;BR&gt;Se você realmente está aqui em busca de paz, então pode prosseguir. Fale com &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7002#-34006.2383,57783.6563,782.0027&amp;type=1&amp;name=Princess Rida"&gt;Princess Rida&lt;/A&gt;&lt;/FONT&gt;, mas mantenha sua mente aberta. É só isso que peço.</Page>
+    
     
     </Text>
     <Text huntingZoneId="223" id="5" prevId="4" villagerId="1043">
          
+         
         <Page social="4">Não precisava ter se incomodado com a poção.&lt;BR&gt;&lt;BR&gt;Arin é uma tola se pensou que funcionaria, e você trazê-la também não o torna querido para mim.&lt;BR&gt;&lt;BR&gt;Por que você está aqui? O que você realmente quer? &lt;NEXTPAGEBUTTON&gt;"Ajudá-lo a se reconciliar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="4">É mesmo? Então você trouxe uma droga para me convencer? A mesma que Arin usou para iludir os mesários, sem dúvida.&lt;BR&gt;&lt;BR&gt;Se é assim que a federação ajuda, não vou querer nada disso. Além disso, todo esse caso é culpa dela, não minha.&lt;NEXTPAGEBUTTON&gt;"No entanto, é você quem tem o exército."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Não era para ter acontecido dessa forma. Eu só queria reunir meu povo e amedrontar o dela.&lt;BR&gt;&lt;BR&gt;Um demônio, {@LinkCreature:23#101$$Rhokasi, o Louco}, usou magia em minhas tropas e as levou ao frenesi. Agora eles querem sangue.&lt;BR&gt;&lt;BR&gt;Até agora eu os contive, mas não tenho certeza de quanto tempo mais...&lt;NEXTPAGEBUTTON&gt;"Você tem que acabar com isso."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">É claro que precisamos! Mas, para isso, temos de remover o feitiço de minhas tropas. Encontre {@LinkCreature:23#101$$Rhokasi, o Louco} e arranque seu coração! Se você eliminar esse monstro, eu escreverei uma carta para Arin.&lt;BR&gt;&lt;BR&gt;Vamos lá agora!</Page>
+    
     
     </Text>
     <Text huntingZoneId="223" id="6" prevId="5" villagerId="1043">
          
+         
         <Page social="4">Aquele demônio imundo está morto? Que bom. Mas isso não significa que vou simplesmente me curvar a Arin.&lt;BR&gt;&lt;BR&gt;Leve esta carta a ela. Se ela desistir de seus truques sujos e me ajudar a desfazer o feitiço em minhas tropas, eu me reconciliarei com ela e poderemos reunir o reino. É justo?</Page>
+    
     
     </Text>
     <Text huntingZoneId="223" id="7" villagerId="1043">
          
+         
         <Page social="0">Você conseguiu matar aquele demônio, {@LinkCreature:23#101$$Rhokasi}?</Page>
+    
     
     </Text>
     <Text huntingZoneId="223" id="8" prevId="6" villagerId="1002">
          
+         
         <Page social="4">Você lhe deu a poção? Isso acabou? &lt;BR&gt;&lt;BR&gt;O quê? Ela viu através de mim? &lt;BR&gt;&lt;BR&gt;Ela está certa, no entanto. Temos que ajudar suas tropas. Acho que posso fazer uma poção que os libertará.</Page>
+    
     
     </Text>
     <Text huntingZoneId="223" id="9" villagerId="1002">
          
+         
         <Page social="0">E aí? A poção funcionou? Ela desmaiou? Eu ganhei? &lt;BR&gt;&lt;BR&gt;Você ainda não a deu a ela, não é?</Page>
+    
     
     </Text>
     <Text huntingZoneId="223" id="10" prevId="8" villagerId="1044">
          
+         
         <Page social="4">Surpreso em me ver? Eu posso me mover com o vento.&lt;BR&gt;&lt;BR&gt;A cura está em andamento, mas, infelizmente, Arin e eu ainda não nos reconciliamos completamente.&lt;BR&gt;&lt;BR&gt;Eu ainda apoio o nobre esquilo, e vou reunir apoiadores novamente. Desta vez, no entanto, não darei aos demônios a oportunidade de interferir!&lt;BR&gt;&lt;BR&gt;Além disso, quero que você dê seu apoio à facção dos esquilos!</Page>
+    
     
     </Text>
     <Text huntingZoneId="223" id="11" prevId="10" villagerId="1002">
          
+         
         <Page social="4">Fico feliz em saber que Rida nunca teve a intenção de atacar Pora Elinu.&lt;BR&gt;&lt;BR&gt;Não se preocupe muito com as orelhas de esquilo. Da próxima vez, prepararei uma poção melhor! &lt;NEXTPAGEBUTTON&gt;"Sugiro uma abordagem diferente."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Por quê? As poções sempre me ajudaram a chegar onde eu queria.&lt;BR&gt;&lt;BR&gt;Bem, exceto desta vez.&lt;BR&gt;&lt;BR&gt;De qualquer forma, contei a Lienyn sobre o quanto você me ajudou, &lt;PCNAME&gt;, e ela pediu para falar com você antes de partir.</Page>
+    
     
     </Text>
     <Text huntingZoneId="68" id="12" prevId="11" villagerId="1007">
          
+         
         <Page social="4">A Princesa Arin disse que você prestou um grande serviço a ela, &lt;PCNAME&gt;. A Princesa Rida também teve coisas gentis a dizer.&lt;BR&gt;&lt;BR&gt;O Reino Popori é grato à Federação por tê-lo enviado para ajudar a evitar uma crise nacional. Graças a você, a Federação Valkyon agora goza de uma reputação muito melhor em Pora Elinu.</Page>
+    
     
     </Text>
 </QuestDialog>

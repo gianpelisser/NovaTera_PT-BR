@@ -1,29 +1,19 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="60514001" string="A Time to Kill" />
-    <String id="60514002" string="&quot;Estou disposto.&quot;" />
-    <String id="60514003" string="" />
-    <String id="60514004" string="" />
-    <String id="60514005" string="" />
-    <String id="60514006" string="" />
-    <String id="60514007" string="Fale com {@LinkCreature:63#3003#Elthienne}." />
-    <String id="60514008" string="&quot;Entendido.&quot;" />
-    <String id="60514009" string="Partes do corpo" />
-    <String id="60514010" string="Caçar {@LinkCreature:21#1#vicious dusky basilisks} em {@Rgn:21001#Basilisk Crag} e entregar as escamas para {@LinkCreature:63#3002#Taratia} em Velika." />
-    <String id="60514011" string="" />
-    <String id="60514012" string="&quot;Obrigado.&quot;" />
-    <String id="60514013" string="Partes do corpo" />
-    <String id="60514014" string="Caçar {@LinkCreature:21#2#dusky basilisks} em {@Rgn:21001#Basilisk Crag} e entregar as escamas para {@LinkCreature:63#3002#Taratia} em Velika." />
-    <String id="60514015" string="" />
-    <String id="60514016" string="&quot;Obrigado.&quot;" />
-    <String id="60514017" string="Partes do corpo" />
-    <String id="60514018" string="Caçar {@LinkCreature:21#3#oriscos maliciosos} em {@Rgn:21001#Basilisk Crag} e entregar garras para {@LinkCreature:63#3002#Taratia} em Velika." />
-    <String id="60514019" string="" />
-    <String id="60514020" string="&quot;Obrigado.&quot;" />
-    <String id="60514021" string="Partes do corpo" />
-    <String id="60514022" string="Cace {@LinkCreature:21#4#brutal orisks} em {@Rgn:21001#Basilisk Crag} e entregue as garras para {@LinkCreature:63#3002#Taratia} em Velika." />
-    <String id="60514023" string="" />
-    <String id="60514024" string="&quot;Obrigado.&quot;" />
-    <String id="60514025" string="&quot;Fico feliz por ter ajudado.&quot;" />
-    <String id="60514026" string="Fale com {@LinkCreature:63#3003#Elthienne}." />
+    <String id="60512001" string="Partes do corpo, parte Ew" />
+    <String id="60512002" string="&quot;Uma aventura?&quot;" />
+    <String id="60512003" string="" />
+    <String id="60512004" string="" />
+    <String id="60512005" string="Fale com {@LinkCreature:63#3003#Elthienne}." />
+    <String id="60512006" string="&quot;Coloque-me para trabalhar.&quot;" />
+    <String id="60512007" string="Peças de chicote" />
+    <String id="60512008" string="Cace {@LinkCreature:12#13#Red Lash clawriders} em {@Rgn:12001#Mistmoor Island} e entregue as partes coletadas para {@LinkCreature:63#3002#Taratia} em Velika." />
+    <String id="60512009" string="" />
+    <String id="60512010" string="&quot;Até a próxima vez.&quot;" />
+    <String id="60512011" string="Peças de chicote" />
+    <String id="60512012" string="Cace {@LinkCreature:12#17#Maudadores de chicote vermelho} em {@Rgn:12001#Ilha de Mistmoor} e entregue as partes coletadas para {@LinkCreature:63#3002#Taratia} em Velika." />
+    <String id="60512013" string="" />
+    <String id="60512014" string="&quot;Até a próxima vez.&quot;" />
+    <String id="60512015" string="&quot;Mas é claro.&quot;" />
+    <String id="60512016" string="Retorne para {@LinkCreature:63#3003#Elthienne}." />
 </StrSheet_Quest>

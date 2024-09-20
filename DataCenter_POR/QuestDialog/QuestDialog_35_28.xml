@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="35" id="28" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="35" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="235" id="100" prevId="0" villagerId="1007">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="235" id="2" prevId="0" villagerId="1007">
          
+         
         <Page social="6">Deixamos muitas armas no campo de batalha e muitos companheiros também. Não podemos trazer nossos amigos de volta, mas ter essas armas de volta faria uma grande diferença.&lt;BR&gt;&lt;BR&gt;Vocês ajudarão?</Page>
+    
     
     </Text>
     <Text huntingZoneId="235" id="3" prevId="2" villagerId="1007">
          
+         
         <Page social="7">Abençoado seja, &lt;PCCLASS:lcase&gt;!&lt;BR&gt;&lt;BR&gt;Se formos tão corajosos quanto você, ficaremos bem.</Page>
+    
     
     </Text>
     <Text huntingZoneId="235" id="4" villagerId="1007">
          
+         
         <Page social="0">Nós realmente precisamos dessas armas.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,31 +1,42 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="86" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="86" huntingZoneId="13" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="64" id="100" prevId="0" villagerId="1006">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="64" id="2" prevId="0" villagerId="1006">
          
+         
         <Page social="4">Se você for brincar pela ilha, ainda precisará aprender a manusear as bombas.&lt;BR&gt;&lt;BR&gt;Vá falar com {@LinkCreature:64#1029#Kiriya}. Ela pode lhe ajudar a se atualizar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="64" id="3" prevId="2" villagerId="1029">
          
+         
         <Page social="4">O QUE? NÃO POSSO OUVIR VOCÊ! &lt;BR&gt;&lt;BR&gt;TRABALHEI COM EXPLOSIVOS TODA A MINHA VIDA, E ESTÁ NA HORA DE PASSAR ESSA SABEDORIA! &lt;BR&gt;&lt;BR&gt;Pronto para fazer as coisas explodirem? &lt;NEXTPAGEBUTTON&gt;"Vamos lá!"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">ISSO NÃO É EXATAMENTE UMA PESQUISA DE TELETRANSPORTE! APENAS ATIRE A BOMBA MAGMA NAQUELE {@LinkCreature:13#888#TRAINING DUMMY} LÁ EM CIMA!</Page>
+    
     
     </Text>
     <Text huntingZoneId="64" id="4" prevId="3" villagerId="1029">
          
+         
         <Page social="4">SABER COMO FAZER AS COISAS EXPLODIREM É IMPORTANTE, ESPECIALMENTE QUANDO VOCÊ ESTÁ ENFRENTANDO HORDAS DE INIMIGOS! &lt;BR&gt;&lt;BR&gt;AGORA, SAIA DAQUI E MATE ALGUMAS COISAS PARA OBTER LIBERDADE. DIGA A JORHON QUE ACHO QUE VOCÊ ESTÁ PRONTO!</Page>
+    
     
     </Text>
     <Text huntingZoneId="64" id="5" prevId="4" villagerId="1006">
          
+         
         <Page social="4">Kiriya é... especial, não é? Trabalhando com todos aqueles barulhos altos o tempo todo, é uma maravilha que ela consiga ouvir.&lt;BR&gt;&lt;BR&gt;Mas com a recomendação dela, não tenho problema em aprová-lo para o serviço.&lt;BR&gt;&lt;BR&gt;E acho que não vai demorar muito para que você precise usar o que acabou de aprender.</Page>
+    
     
     </Text>
 </QuestDialog>

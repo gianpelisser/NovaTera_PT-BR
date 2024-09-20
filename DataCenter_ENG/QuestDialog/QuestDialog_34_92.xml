@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="34" id="92" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="83" id="100" prevId="0" villagerId="1004">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="83" prevId="0" villagerId="1004">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="83" id="2" prevId="0" villagerId="1004">
-         
+    <Text id="2" huntingZoneId="83" prevId="0" villagerId="1004">
         <Page social="34">Despite our best efforts, the wendigo problem is growing. If they want a fight, we'll give it to 'em.&lt;BR&gt;&lt;BR&gt;Hunt down the {@LinkCreature:34#500#wendigo frostweavers}, {@LinkCreature:34#510#frostmages}, {@LinkCreature:34#610#ragers}, {@LinkCreature:34#600#crushers}, {@LinkCreature:34#700#battlemasters}, and {@LinkCreature:34#710#warlords}.&lt;BR&gt;&lt;BR&gt;Report to Rodena when the deed is done.</Page>
-    
     </Text>
-    <Text huntingZoneId="234" id="3" prevId="2" villagerId="1002">
-         
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1002">
         <Page social="4">A hard-won fight, &lt;PCNAME&gt;. Your blood is appreciated.</Page>
-    
     </Text>
-    <Text huntingZoneId="234" id="4" villagerId="1002">
-         
+    <Text id="4" huntingZoneId="234" villagerId="1002">
         <Page social="0">The wendigos refuse all entreaties and offers. They've forced our hand, as we must guide yours. Take the fight to them.</Page>
-    
     </Text>
 </QuestDialog>

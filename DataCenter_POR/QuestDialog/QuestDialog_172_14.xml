@@ -1,46 +1,63 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="172" id="14" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="172" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="172" id="100" prevId="0" villagerId="1406">
          
+         
         <Page social="0">Enquanto discutia planos com Rhodos, um espião o ouviu. Você o perseguiu e acabou chegando a um lugar inesperado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="172" id="2" prevId="0" villagerId="1406">
          
+         
         <Page social="4">Os arquedevas devem ter enviado os partas. Eles também não podem usar sua nave, mas é evidente que sabem disso.&lt;NEXTPAGEBUTTON&gt;"Qual é o nosso próximo passo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Há goblins no Vale da Primavera que fazem qualquer coisa por dinheiro.&lt;BR&gt;&lt;BR&gt;Se os arquidevas estiverem reunindo combatentes lá, os goblins saberão.&lt;BR&gt;&lt;BR&gt;Descubra se é seguro.</Page>
+    
     
     </Text>
     <Text huntingZoneId="172" id="3" prevId="2" villagerId="2010">
          
+         
         <Page social="4">Oh! Hum, minha montaria está, uh, machucada.&lt;BR&gt;&lt;BR&gt;Pode me ajudar?</Page>
+    
     
     </Text>
     <Text huntingZoneId="172" id="4" prevId="3" villagerId="1506">
          
+         
         <Page social="4">Você o deixou escapar! &lt;BR&gt;&lt;BR&gt;Mihog estava nos espionando. Rápido! Ele está ferido, então talvez você consiga pegá-lo!</Page>
+    
     
     </Text>
     <Text huntingZoneId="172" id="5" prevId="4" villagerId="1016">
          
+         
         <Page social="4">(A montaria de Mihog jaz morta. O sangue esfria no chão e há roupas rasgadas por perto).</Page>
+    
     
     </Text>
     <Text huntingZoneId="182" id="6" prevId="5" villagerId="2016">
          
+         
         <Page social="4">Vi um corredor ferido.&lt;BR&gt;&lt;BR&gt;Ele não é nosso amigo. Vá para o oeste.</Page>
+    
     
     </Text>
     <Text huntingZoneId="182" id="7" prevId="6" villagerId="2001">
          
+         
         <Page social="4">Uma pessoa suspeita? &lt;BR&gt;&lt;BR&gt;Bem, apenas aquela que entrou mancando na caverna. Isso é suspeito?</Page>
+    
     
     </Text>
     <Text huntingZoneId="182" id="8" prevId="7" villagerId="2029">
          
+         
         <Page social="4">(Gotas de sangue mancham a madeira desse barril).</Page>
+    
     
     </Text>
 </QuestDialog>

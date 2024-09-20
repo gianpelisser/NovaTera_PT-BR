@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_SystemMessage xmlns="https://vezel.dev/novadrop/dc/StrSheet_SystemMessage" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_SystemMessage StrSheet_SystemMessage.xsd">
     <String string="Passou na rolagem de dados." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_ABANDON_DIVIDE_DICE" chatChannel="201" displayChat="true" />
     <String string="{UserName} passou na rolagem de dados." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_PARTY_INFO" readableId="SMT_ABANDON_DIVIDE_DICE_PARTYPLAYER" chatChannel="204" displayChat="true" />
@@ -99,6 +99,7 @@
     <String string="Você foi convocado para se juntar ao {Requestor}. Você aceita?" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_ASK_SUMMON_FRIEND_MSGBOX_RECV_MESSAGE" displayChat="false" />
     <String string="Aguardando a resposta do {Requestee}." delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_ASK_SUMMON_FRIEND_MSGBOX_SEND_MESSAGE" displayChat="false" />
     <String string="Invocar amigo" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_ASK_SUMMON_FRIEND_MSGBOX_TITLE" displayChat="false" />
+    <String string="Do you want to summon {FriendName}?" effect="-1" sound="-1" readableId="SMT_CONFIRM_SUMMON_FRIEND_MSG" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Confirmar" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_ASK_USE_CHRONOSCROLL_POPUP_BT1" displayChat="false" />
     <String string="Cancelar" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_ASK_USE_CHRONOSCROLL_POPUP_BT2" displayChat="false" />
     <String string="Usar esse chronoscroll para estender sua assinatura? Isso destrói o {ItemName}. Marque a caixa de confirmação e clique em &quot;Confirmar&quot; para estender sua assinatura." delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_ASK_USE_CHRONOSCROLL_POPUP_CONTEXT" displayChat="false" />
@@ -216,6 +217,7 @@
     <String string="Você invocou {NpcName}." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_BATTLE_SKILL_ELEMENTAL_MONSTER" chatChannel="201" displayChat="true" />
     <String string="As habilidades de classe não podem ser usadas com habilidades de legado." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_BATTLE_SKILL_FAIL_COMMAND_SKILL" chatChannel="203" displayChat="true" />
     <String delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_BATTLE_SKILL_FAIL_COOL_TIME" displayChat="false" />
+    <String string="Your Willpower is too low to use this skill." effect="-1" sound="-1" readableId="SMT_BATTLE_SKILL_FAIL_LOW_ARCANE" style="SMS_ALERT_CENTER" delayTime="0" displayChat="false" />
     <String string="Não há HP suficiente." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_BATTLE_SKILL_FAIL_LOW_HP" chatChannel="203" displayChat="true" />
     <String string="Não há MP suficiente." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_BATTLE_SKILL_FAIL_LOW_MP" chatChannel="203" displayChat="true" />
     <String string="Você não tem determinação suficiente para usar essa habilidade." delayTime="0" effect="-1" sound="-1" style="SMS_ALERT_CENTER" readableId="SMT_BATTLE_SKILL_FAIL_LOW_STAMINA" displayChat="false" />
@@ -344,6 +346,17 @@
     <String string="{UserName} matou cinco jogadores!" delayTime="0" effect="-1" sound="2062" style="SYSTEM_MSG_DUNGEON_MSG" readableId="SMT_BF_MULTIKILLMESSAGE_OURTEAM_PENTAKILL" displayChat="false" />
     <String string="{UserName} matou quatro jogadores!" delayTime="0" effect="-1" sound="2062" style="SYSTEM_MSG_DUNGEON_MSG" readableId="SMT_BF_MULTIKILLMESSAGE_OURTEAM_QUADRUPLEKILL" displayChat="false" />
     <String string="{UserName} matou três jogadores!" delayTime="0" effect="-1" sound="2062" style="SYSTEM_MSG_DUNGEON_MSG" readableId="SMT_BF_MULTIKILLMESSAGE_OURTEAM_TRIPLEKILL" displayChat="false" />
+    <String string="Игрок &quot;{UserName}&quot; зарабатывает первое убийство!" effect="-1" sound="-1" readableId="SMT_BF_FIRSTBLOOD" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
+    <String string="Серия побед игрока &quot;{UserName}&quot;." effect="-1" sound="1243" readableId="SMT_BF_CONTINUALKILLMESSAGE_ENEMY1" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" displayChat="false" />
+    <String string="{UserName} убивает ваших союзников." effect="-1" sound="1244" readableId="SMT_BF_CONTINUALKILLMESSAGE_ENEMY2" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" displayChat="false" />
+    <String string="{UserName} опустошает карту." effect="-1" sound="1245" readableId="SMT_BF_CONTINUALKILLMESSAGE_ENEMY3" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" displayChat="false" />
+    <String string="{UserName} - вот кому не стоит попадаться на пути." effect="-1" sound="1246" readableId="SMT_BF_CONTINUALKILLMESSAGE_ENEMY4" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" displayChat="false" />
+    <String string="{UserName} господствует на арене!" effect="-1" sound="1248" readableId="SMT_BF_CONTINUALKILLMESSAGE_ENEMY5" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" displayChat="false" />
+    <String string="Серия побед игрока &quot;{UserName}&quot;!" effect="-1" sound="1237" readableId="SMT_BF_CONTINUALKILLMESSAGE_OUR1" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
+    <String string="{UserName} убивает ваших врагов." effect="-1" sound="1238" readableId="SMT_BF_CONTINUALKILLMESSAGE_OUR2" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
+    <String string="{UserName} опустошает карту!" effect="-1" sound="1239" readableId="SMT_BF_CONTINUALKILLMESSAGE_OUR3" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
+    <String string="Враги в ужасе бегут от игрока &quot;{UserName}&quot;!" effect="-1" sound="1240" readableId="SMT_BF_CONTINUALKILLMESSAGE_OUR4" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
+    <String string="{UserName} правит на арене!" effect="-1" sound="1242" readableId="SMT_BF_CONTINUALKILLMESSAGE_OUR5" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
     <String string="Uma bola de neve atingiu e matou {NpcName}!" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_BATTLEFIELD_INFO" readableId="SMT_BF_OURNPC_DIE" chatChannel="201" displayChat="true" />
     <String string="{NpcName} foi derrotado!" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_BATTLEFIELD_INFO" readableId="SMT_BF_OURNPC_DOWN" chatChannel="201" displayChat="true" />
     <String string="{NpcName} tem 50% de HP restante!" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_BATTLEFIELD_INFO" readableId="SMT_BF_OURNPC_HP_HALF" chatChannel="201" displayChat="true" />
@@ -371,8 +384,8 @@
     <String string="Sua recompensa foi enviada pela Encomenda Postal devido ao espaço insuficiente." delayTime="0" effect="-1" sound="2001" style="SMS_CHAT_INFO" readableId="SMT_BF_SEND_REWARD_TO_PARCEL" chatChannel="201" displayChat="true" />
     <String string="A senha deve ter quatro algarismos." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_BF_SET_FAIL_PASSWORD" chatChannel="203" displayChat="true" />
     <String string="Digite uma senha de quatro números." delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_BF_UI_PASSWORD_DEFAULT_MESSAGE" displayChat="false" />
-    <String string="{victoryScore} pontos" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_BF_WIN_POINT" displayChat="false" />
     <String string="A equipe com a maior pontuação vence" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_BF_WIN_MORE_SCORE" displayChat="false" />
+    <String string="{victoryScore} pontos" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_BF_WIN_POINT" displayChat="false" />
     <String string="Minha proporção de vitórias: {winRatio}, Índice de vitórias da equipe: {TeamWinRatio}" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_BF_WIN_RATIO" chatChannel="201" displayChat="true" />
     <String string="HP restante de {NpcName} até a vitória: {HPremain}" delayTime="0" effect="-1" sound="2065" style="SMS_CHAT_BATTLEFIELD_INFO" readableId="SMT_BF_WIN_REMAIN_HP" displayChat="false" />
     <String string="A janela para a rolagem de dados está fechada." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_BIDDING_DICE_TIMEOUT" displayChat="true" />
@@ -517,6 +530,7 @@
     <String string="A invasão está completa." delayTime="0" effect="-1" sound="2003" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANNOT_INVITE_UNIONPARTY_FULL_PARTY" chatChannel="203" displayChat="true" />
     <String string="Você não pode convidar jogadores PvP para uma invasão." delayTime="0" effect="-1" sound="2046" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANNOT_INVITE_UNIONPARTY_IN_PK_ENEMY" chatChannel="203" displayChat="true" />
     <String string="Você não pode convidar jogadores PvP para uma invasão." delayTime="0" effect="-1" sound="2046" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANNOT_INVITE_UNIONPARTY_IN_PK_READY" chatChannel="203" displayChat="true" />
+    <String string="Você pode não corresponder ao local atual." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANNOT_JOIN_EVENT_AT_THIS_AREA" chatChannel="203" displayChat="true" />
     <String string="Você não pode pegar {ItemName}." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANNOT_LOOT_ITEM" chatChannel="203" displayChat="true" />
     <String string="Não está mais disponível." delayTime="0" effect="-1" sound="2003" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANNOT_MAKE_CONTRACT" chatChannel="203" displayChat="true" />
     <String string="Você não pode mudar de canal agora." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANNOT_MOVE_CHANNEL_GENERAL" chatChannel="203" displayChat="true" />
@@ -539,6 +553,7 @@
     <String string="Esse item não pode ser armazenado no banco." delayTime="0" effect="-1" sound="2004" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANNOT_STORE_WAREHOUSE" chatChannel="203" displayChat="true" />
     <String string="Você não pode convocar membros do grupo que pertençam a uma aliança diferente para o território da sua aliança." delayTime="0" effect="-1" sound="2001" style="SMS_CHAT_INFO" readableId="SMT_CANNOT_SUMMON_NONUNION_PARTYMEMBER" chatChannel="201" displayChat="true" />
     <String string="As Reaper devem estar no mínimo no nível 58 para convocar grupos." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANNOT_SUMMON_PARTY" chatChannel="203" displayChat="true" />
+    <String string="Você não pode se teletransportar daqui." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANNOT_TELEPORT_AT_THIS_AREA" chatChannel="203" displayChat="true" />
     <String string="Você não pode negociar." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANNOT_TRADE" chatChannel="203" displayChat="true" />
     <String string="Não é possível trocar itens equipados." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANNOT_TRADE_PAPERDOLLITEM" chatChannel="203" displayChat="true" />
     <String string="Não é possível negociar {ItemName}." delayTime="0" effect="-1" sound="2004" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANNOT_TRADE_THISITEM" chatChannel="203" displayChat="true" />
@@ -607,10 +622,17 @@
     <String string="Somente o líder do partido pode solicitar a Dungeons." delayTime="0" effect="-1" sound="2003" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_DUNGEONMATCHING_PARTY_MEMBER" chatChannel="203" displayChat="true" />
     <String string="Você não pode usar esse recurso enquanto estiver rotulado como desistente." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_DUNGEONMATCHING_PENALTY_BUFF" chatChannel="203" displayChat="true" />
     <String string="Não é possível usar a Dungeons nessa dungeon." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_DUNGEON_PLUS_RECRUIT" chatChannel="203" displayChat="true" />
+    <String string="You can't enchant an equipped item." effect="-1" sound="-1" readableId="SMT_CANT_ENCHANTER_EQUIPPED_ITEM" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="Can't be used on +12 or higher items." effect="-1" sound="-1" readableId="SMT_CANT_ENCHANTER_FULL_ENCHANT" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="This item's enchantment level exceeds +{number} (the limit of the scroll). Therefore, no more enchanting is possible." effect="-1" sound="-1" readableId="SMT_CANT_ENCHANTER_HIGH_ENCHANT" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="The item's Item Level exceeds {number} (the limit of the scroll). Therefore, no more enchanting is possible." effect="-1" sound="-1" readableId="SMT_CANT_ENCHANTER_HIGH_RANK" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="That is not an enchantable item." effect="-1" sound="-1" readableId="SMT_CANT_ENCHANTER_INVALID_ENCHANTER" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="That item needs to be masterwork first. Please, try again after making masterwork." effect="-1" sound="-1" readableId="SMT_CANT_ENCHANTER_NOT_MASTERPIECE" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="Você não pode mais encantar esse item." delayTime="0" effect="-1" sound="2002" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_ENCHANT_BECAUSE_ENCAHNT_LIMIT" chatChannel="203" displayChat="true" />
     <String string="Não é possível encantar um item equipado." delayTime="0" effect="-1" sound="2002" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_ENCHANT_EQUIP_ITEM" chatChannel="203" displayChat="true" />
     <String string="Você precisa de {ItemName} para encantar um item. (Obrigatório: {ItemName} x {Amount})" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_ENCHANT_NEED_SCROLL" chatChannel="203" displayChat="true" />
     <String string="Itens com (+{number}) não podem ser mais encantados." delayTime="0" effect="-1" sound="2002" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_ENCHANT_STEP_LIMIT" chatChannel="203" displayChat="true" />
+    <String string="That is not an enchantable item." effect="-1" sound="-1" readableId="SMT_CANT_ENCHANT_THIS_ITEM" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="Não é possível encantar um item enigmático." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_ENCHANT_UNIDENTIFY_ITEM" chatChannel="203" displayChat="true" />
     <String string="Não é possível usar o Battleground Matching. Tempo de recarga: {Min} minuto{@select:{Min}/s//s} {Sec} segundo{@select:{Sec}/s//s} restante." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_ENTER_BATTLEFIELD_COOLTIME" chatChannel="203" displayChat="true" />
     <String string="{UserName} não pode usar Battleground Matching. Tempo de recarga: {Min} minuto{@select:{Min}/s//s} {Sec} segundo{@select:{Sec}/s//s} restante." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_ENTER_BATTLEFIELD_COOLTIME_PARTY" chatChannel="203" displayChat="true" />
@@ -636,7 +658,7 @@
     <String string="Você precisa de um intrincado pergaminho de identificação para esse item." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_IDENTIFY_ITEM_GRADE" chatChannel="203" displayChat="false" />
     <String string="Você não pode usar o bate-papo geral enquanto estiver viajando." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_INPUT_NORMAL_CHAT_IN_HIGHWAY" chatChannel="203" displayChat="true" />
     <String string="Não é possível enviar LFG. Parte de sua mensagem não é permitida." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_CANT_INPUT_VULGARISM" chatChannel="201" displayChat="true" />
-    <String string="Ninguém atente aos requisitos de elegibilidade. O item deve ser pego e distribuido novamente." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_PARTY_INFO" readableId="SMT_CANT_INSERT_ITEM_USER_NULL" chatChannel="204" displayChat="true" />
+    <String string="Nenhum personagem atende aos requisitos de elegibilidade para esse item. O item deve ser saqueado e distribuído novamente." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_PARTY_INFO" readableId="SMT_CANT_INSERT_ITEM_USER_NULL" chatChannel="204" displayChat="true" />
     <String string="Não é possível convidar amigos com esse tipo de conta." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_INVITE_FRIEND_FREE_SERVICE" chatChannel="203" displayChat="true" />
     <String string="Não é possível adicionar amigos em um campo de batalha." delayTime="0" effect="-1" sound="2003" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_INVITE_FRIEND_IN_BATTLEFIELD" chatChannel="203" displayChat="true" />
     <String string="Não é possível adicionar membros da guilda em um campo de batalha." delayTime="0" effect="-1" sound="2003" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_INVITE_GUILD_IN_BATTLEFIELD" chatChannel="203" displayChat="true" />
@@ -650,6 +672,7 @@
     <String string="Não é possível entrar na instância neste momento. Tente novamente em {Sec} segundo{@select:{Sec}/s//s}." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_JOIN_DUNGEON_SEC" chatChannel="203" displayChat="false" />
     <String string="Não é possível acessar a instância agora. Tente novamente mais tarde." delayTime="0" effect="-1" sound="2003" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_JOIN_INSTANT_DUNGEON" chatChannel="203" displayChat="true" />
     <String string="Você não atende aos requisitos para aprender esse design." delayTime="0" effect="-1" sound="2003" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_LEARN_RECIPE_GRADE_NOT_MATCH" chatChannel="203" displayChat="true" />
+    <String string="Insufficient gold to learn that skill." effect="-1" sound="2003" readableId="SMT_CANT_LEARN_SKILL_NOT_ENOUGH_MONEY" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
     <String string="Você não pode receber {ItemName}. Seu inventário está cheio." delayTime="0" effect="-1" sound="2004" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_LOOTED_QUEST_ITEM_FULL_INVEN" chatChannel="203" displayChat="true" />
     <String string="Não é possível fazer saques durante o combate." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_LOOT_ITEM_IN_BATTLE" chatChannel="203" displayChat="true" />
     <String string="O item está aguardando para ser distribuído." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_LOOT_ITEM_IN_BIDDING" chatChannel="203" displayChat="true" />
@@ -688,6 +711,7 @@
     <String string="Você não pode colocar isso no banco." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_STORAGE_DREAM_PIECE" chatChannel="203" displayChat="true" />
     <String string="Essa função bancária não está disponível para esse tipo de conta." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_STORAGE_FREE_SERVICE" chatChannel="203" displayChat="true" />
     <String string="Não é possível usar lojas com esse tipo de conta." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_STORE_FREE_SERVICE" chatChannel="203" displayChat="true" />
+    <String string="Teleport function cannot be used before finishing the tutorial session." effect="-1" sound="2001" readableId="SMT_CANT_TELEPORT_BEFORE_TUTORIALCLEAR" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
     <String string="Não é possível se teletransportar em áreas de altitude elevada." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_TELEPORT_IN_HIGHWAY" chatChannel="203" displayChat="true" />
     <String string="Não é possível destruir itens com esse tipo de conta." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_THROW_OUT_ITEM_FREE_SERVICE" chatChannel="203" displayChat="true" />
     <String string="Itens amaldiçoados não podem ser intermediados." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_TRADE_BROKER_CURSE_EQUIP_ITEM" chatChannel="203" displayChat="true" />
@@ -696,6 +720,7 @@
     <String string="Não é possível negociar com esse usuário." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_TRADE_FREE_SERVICE_USER" chatChannel="203" displayChat="true" />
     <String string="Itens amaldiçoados só podem ser comercializados entre personagens amaldiçoados." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_TRADE_NOT_CURSE_PLAYER" chatChannel="203" displayChat="true" />
     <String string="Não é possível desvincular mais." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_UNBIND_ANYMORE" chatChannel="203" displayChat="true" />
+    <String string="Items equipped with crystals can't be liberated." effect="-1" sound="-1" readableId="SMT_CANT_UNBIND_HAS_CRYSTAL" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="Você não pode se desvincular com esse pergaminho." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_UNBIND_INVALID_UNBINDER" chatChannel="203" displayChat="true" />
     <String string="Esse equipamento deve ter +15 para ser desvinculado." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_UNBIND_LOW_ENCHANT" chatChannel="203" displayChat="true" />
     <String string="Esse item não está vinculado a você." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_UNBIND_NOT_BOUND" chatChannel="203" displayChat="true" />
@@ -708,6 +733,7 @@
     <String string="Esse item não pode ser desmontado porque seu inventário está cheio." delayTime="0" effect="-1" sound="2002" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_USE_DISMANTLE_FULL_INVEN" chatChannel="203" displayChat="true" />
     <String string="Você não tem ouro suficiente para desmontar um item." delayTime="0" effect="-1" sound="2002" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_USE_DISMANTLE_NOT_ENOUGH_MONEY" chatChannel="203" displayChat="true" />
     <String string="Equipamentos não encantados não podem ser desmontados." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_USE_DISMANTLE_NO_ENCHANT" chatChannel="203" displayChat="true" />
+    <String string="Not enough Willpower." effect="-1" sound="-1" readableId="SMT_CANT_USE_EMPTY_ARCANE" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
     <String string="Você não tem determinação suficiente." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_USE_EMPTY_STAMINA" chatChannel="203" displayChat="true" />
     <String string="{ItemName} está em recarga." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_USE_ITEM_COOLTIME" chatChannel="203" displayChat="true" />
     <String string="Não é possível usar esse item em dungeons." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_USE_ITEM_IN_DUNGEON" chatChannel="203" displayChat="true" />
@@ -721,6 +747,7 @@
     <String string="Você não pode votar com esse tipo de conta." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_VOTE_FREE_SERVICE" chatChannel="203" displayChat="true" />
     <String string="Não é possível sussurrar com esse tipo de conta." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_WHISPER_FREE_SERVICE" chatChannel="203" displayChat="true" />
     <String string="Você pode sussurrar apenas para os jogadores da sua lista de amigos." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CANT_WHISPER_FREE_SERVICE_USER" chatChannel="203" displayChat="true" />
+    <String string="Esse equipamento pode ser despertado e encantado pelo ferreiro Dunkan." effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_CAN_AWAKEN_ENCHANT_BY_NPC" displayChat="false" />
     <String string="Não é possível entrar nessa área enquanto estiver em uma {party}." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CAN_ENTER_DUNGEON_ONLY_SOLO" chatChannel="203" displayChat="true" />
     <String string="Não é possível entrar na área quando se está em uma invasão." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CAN_ENTER_DUNGEON_ONLY_SOLO_UNIONPARTY" chatChannel="203" displayChat="true" />
     <String string="Soquete de cristal" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_CAN_MOUNT_CRISTAL" displayChat="false" />
@@ -977,10 +1004,15 @@
     <String string="Morto por {AttackerName}." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_DMG_TO_ME" readableId="SMT_CRETURE_ATTACK_ONEKILL" chatChannel="103" displayChat="true" />
     <String string="SMT_CRITICAL_HOLY_SUCKS" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_CRITICAL_HOLY_SUCKS" chatChannel="201" displayChat="true" />
     <String string="SMT_CRITICAL_SUCKS" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_CRITICAL_SUCKS" chatChannel="201" displayChat="true" />
+    <String string="Чтобы получить хроносвитки, пожалуйста, войдите в игру заново." effect="-1" sound="-1" readableId="SMT_CHRONOSCROLL_USE_POPUP" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Pequeno" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_CROSSHAIRTYPE_A" displayChat="false" />
     <String string="Médio" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_CROSSHAIRTYPE_B" displayChat="false" />
     <String string="Grande" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_CROSSHAIRTYPE_C" displayChat="false" />
+    <String string="Não há espaço suficiente no inventário para a fusão de cristais." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CRYSTAL_CANT_PRODUCE_FULL_INVEN" chatChannel="203" displayChat="true" />
     <String string="Fusão de cristal cancelada." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_CRYSTAL_ENCHANT_CANCEL" chatChannel="203" displayChat="true" />
+    <String string="Your temporary item expired. Restoring your previous item." effect="-1" sound="-1" readableId="SMT_CRYSTAL_MAIL_MESSAGE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="TERA System" effect="-1" sound="-1" readableId="SMT_CRYSTAL_MAIL_SENDER" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Returning Item" effect="-1" sound="-1" readableId="SMT_CRYSTAL_MAIL_TITLE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Um ou mais cristais foram destruídos." delayTime="0" effect="-1" sound="2005" style="SMS_CHAT_INFO" readableId="SMT_CUSTOMIZING_DETACH_DESTROYED" chatChannel="201" displayChat="true" />
     <String string="Não é um cristal de aprimoramento." delayTime="0" effect="-1" sound="2002" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CUSTOMIZING_INVALID_CUSTOMIZING_ITEM" chatChannel="203" displayChat="true" />
     <String string="Você não tem slots de cristal suficientes." delayTime="0" effect="-1" sound="2002" style="SMS_CHAT_ERROR_INFO" readableId="SMT_CUSTOMIZING_NOT_ENOUGH_CUSTOMIZING_SLOT" chatChannel="203" displayChat="true" />
@@ -1007,6 +1039,10 @@
     <String string="{count} nexus{@select:{count}/es//es} left." delayTime="0" effect="-1" sound="50437" style="SMS_CHAT_INFO" readableId="SMT_DARK_RIFT_REMAIN_COUNT" chatChannel="202" displayChat="true" />
     <String string="Sua infamy diminuiu. Infamy atual {pkPoint}" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_DECREASE_PK_POINT" chatChannel="201" displayChat="true" />
     <String string="Conclui automaticamente em {sec} segundos." delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_DEFAULT_COUNT_TIME_MSG" displayChat="false" />
+    <String string="In order to Awaken the target equipment, you need &lt;font color='#FFCC00'&gt;feedstock of the same tier&lt;/font&gt;. " readableId="SMT_DEFAULT_MSG_MATERIAL_AWAKEN" />
+    <String string="Awakened enchanting requires &lt;font color='#FFCC00'&gt;feedstock of the same tier&lt;/font&gt;. " readableId="SMT_DEFAULT_MSG_MATERIAL_AWAKENCHANT" />
+    <String string="For Awakening, you need &lt;font color='#4ecd30'&gt;masterwork&lt;/font&gt;, &lt;font color='#4ecd30'&gt;extensive&lt;/font&gt;, or &lt;font color='#4ecd30'&gt;premium&lt;/font&gt; alkahests." readableId="SMT_DEFAULT_MSG_SCROLL_AWAKEN" />
+    <String string="For Awakened enchanting, you need &lt;font color='#4ecd30'&gt;masterwork&lt;/font&gt;, &lt;font color='#4ecd30'&gt;extensive&lt;/font&gt;, or &lt;font color='#4ecd30'&gt;premium&lt;/font&gt; alkahests." readableId="SMT_DEFAULT_MSG_SCROLL_AWAKENCHANT" />
     <String string="Procurando por grupo: Precisamos de mais membros {party}!" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_DEFAULT_PARTY_PR_TEXT" displayChat="false" />
     <String string="O número de caracteres que você tem deve ser menor ou igual a {Num}. Exclua seus caracteres para entrar no mundo." delayTime="0" effect="-1" sound="2003" style="SMS_SYSTEM_POPUP" readableId="SMT_DELETE_CHARACTER_BEFORE_ENTER_WORLD" displayChat="false" />
     <String string="Digite o nome do personagem para confirmar que deseja excluir esse personagem permanente e instantaneamente. &lt;font color = '#ff0000'&gt;Os itens premium também serão excluídos quando você excluir um personagem que tenha itens premium.&lt;/font&gt;" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_DELETE_CHARACTER_IMMEDIATELY_UI_MESSAGE" displayChat="false" />
@@ -1096,6 +1132,7 @@
     <String string="Se você deixar a {party}, será penalizado e rotulado como desistente." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_DUNGEONMATCHING_SECESSION_PENALTY" chatChannel="201" displayChat="true" />
     <String string="No momento, não é possível usar a função de Dungeons. Tente novamente mais tarde." delayTime="0" effect="-1" sound="2079" style="SMS_CHAT_ERROR_INFO" readableId="SMT_DUNGEONMATCHING_SERVERDOWN" chatChannel="203" displayChat="true" />
     <String string="A função de correspondência {party} não está disponível devido a um erro do servidor." delayTime="0" effect="-1" sound="2079" style="SMS_CHAT_ERROR_INFO" readableId="SMT_DUNGEONMATCHING_SERVERDOWN2" chatChannel="203" displayChat="true" />
+    <String string="Do you want to continue Instance Matching without a tanking class? (If no, the process will continue to look for a tanking class.)" effect="-1" sound="-1" readableId="SMT_DUNGEONMATCHING_CHANGE_RULE" style="SMT_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Todas as temporadas anteriores" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_DUNGEONRANK_TOTAL_SEASON" displayChat="false" />
     <String string="Não é possível entrar em dungeons bloqueadas." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_DUNGEON_ALREADY_START" chatChannel="203" displayChat="true" />
     <String string="Não é possível resetar uma dungeon enquanto um membro {party} estiver dentro dela." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_DUNGEON_CANT_RESET" chatChannel="203" displayChat="true" />
@@ -1129,6 +1166,7 @@
     <String string="&lt;BR&gt;&lt;img src='{imgSrc}'&gt;&lt;BR&gt;+{enchantCount} {resultItemName}" delayTime="0" effect="-1" sound="2018" style="SMS_CHAT_INFO" readableId="SMT_ENCHANT_RESULT_IMG_AND_NAME" chatChannel="201" displayChat="true" />
     <String string="Encantado com sucesso." delayTime="0" effect="-1" sound="2018" style="SMS_CHAT_INFO" readableId="SMT_ENCHANT_RESULT_SUCCEED" chatChannel="201" displayChat="true" />
     <String string="Você encantou (+{Added}) {ItemName} com sucesso." delayTime="0" effect="-1" sound="2018" style="SMS_CHAT_INFO" readableId="SMT_ENCHANT_SUCCEED" chatChannel="201" displayChat="true" />
+    <String string="You have succeeded in obtaining +{Added}{ItemName} enchantment bonus. You may liberate this equipment with a Liberation Scroll." effect="-1" sound="2018" readableId="SMT_ENCHANT_SUCCEED_CAN_UNBIND" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="A competição de alianças foi encerrada." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_END_COMPETITION_TIME" chatChannel="201" displayChat="true" />
     <String string="A temporada de alianças terminou." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_END_SEASON" chatChannel="201" displayChat="true" />
     <String string="Entradas de campos de batalha disponíveis: {EnterLimitCount}." delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_ENTERLIMITCOUNT_BATTLEFIELD" displayChat="false" />
@@ -1185,6 +1223,33 @@
     <String string="Uso" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_FATIGUEPOINT_RECOVERY_POPUP_POPUP_BT_ACCEPT" displayChat="false" />
     <String string="Cancelar" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_FATIGUEPOINT_RECOVERY_POPUP_POPUP_BT_CANCEL" displayChat="false" />
     <String string="Confirmar" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_FATIGUEPOINT_RECOVERY_POPUP_TITLE" displayChat="false" />
+    <String string="That NPC is already active." effect="-1" sound="-1" readableId="SMT_FLOATINGCASTLE_ALREADY_AUTHORITY" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="false" />
+    <String string="Once you apply these features, you will have to wait {Hour} hours and {Min} minutes before making additional changes. Are you sure you want to apply these?" readableId="SMT_FLOATINGCASTLE_APPLY_PARTS_POPUP_TEXT" />
+    <String string="Confirm Application" readableId="SMT_FLOATINGCASTLE_APPLY_PARTS_POPUP_TITLE" />
+    <String string="Are you sure you want to purchase {PartsName} ×{N}?" effect="-1" sound="-1" readableId="SMT_FLOATINGCASTLE_BUY_CONFIRM_POPUP_TEXT" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Confirm Purchase" effect="-1" sound="-1" readableId="SMT_FLOATINGCASTLE_BUY_CONFIRM_POPUP_TITLE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="You purchased {PartsName}." effect="-1" sound="-1" readableId="SMT_FLOATINGCASTLE_BUY_PARTS" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="{UserName} changed Skycastle features. Current locations of guild members inside the hall may change." effect="-1" sound="-1" readableId="SMT_FLOATINGCASTLE_CHANGE_PARTS" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="You added {PartsName} to your Skycastle." effect="-1" sound="-1" readableId="SMT_FLOATINGCASTLE_EQUIP_PARTS" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="You may only use a 128 X 128 sized BMP file for your guild flag." effect="-1" sound="-1" readableId="SMT_FLOATINGCASTLE_GUILD_FLAG_CANT_REG_IMAGE" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
+    <String string="Are you sure you want to change your guild flag to the selected flag?" effect="-1" sound="2001" readableId="SMT_FLOATINGCASTLE_GUILD_FLAG_REG_MSGBOX_UI_MESSAGE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Update Guild Flag" effect="-1" sound="-1" readableId="SMT_FLOATINGCASTLE_GUILD_FLAG_REG_MSGBOX_UI_TITLE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="You may own up to 40,000 Prestige." effect="-1" sound="-1" readableId="SMT_FLOATINGCASTLE_MAX_PARTSCOIN" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Please add a bridge first." effect="-1" sound="-1" readableId="SMT_FLOATINGCASTLE_NOT_CONNECT_BRIDGE" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="false" />
+    <String string="You need {cost} Prestige to use that feature." effect="-1" sound="-1" readableId="SMT_FLOATINGCASTLE_NOT_ENOUGH_PARTSCOIN" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="false" />
+    <String string="Removed {PartsName} from the Skycastle." effect="-1" sound="-1" readableId="SMT_FLOATINGCASTLE_NOT_EQUIP_PARTS" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="You can't apply a feature you don't own." effect="-1" sound="2002" readableId="SMT_FLOATINGCASTLE_NOT_GET_PARTS" style="SMS_CHAT_ERROR_INFO" displayChat="true" />
+    <String string="Your guild does not have enough Prestige to purchase this item." effect="-1" sound="-1" readableId="SMT_FLOATINGCASTLE_NOT_GUILDCOIN" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
+    <String string="You can only preview or build this feature on a location where a bridge is attached." effect="-1" sound="2002" readableId="SMT_FLOATINGCASTLE_NOT_LINK_PARTS" style="SMS_CHAT_ERROR_INFO" displayChat="true" />
+    <String string="This pegasus can only go to Skycastles near this city. Please use other means of transportation. " effect="-1" sound="-1" readableId="SMT_FLOATINGCASTLE_NOT_PEGASUSPATH" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="You may not use Skycastle functions until you pay Skycastle maintenance fees of {cost@money}. Please add at least {cost@money} to your guild bank." effect="-1" sound="-1" readableId="SMT_FLOATINGCASTLE_NOT_USE_COST" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
+    <String string="Maximum Prestige available per day: 3,000" effect="-1" sound="-1" readableId="SMT_FLOATINGCASTLE_ONEDAY_MAX_PARTSCOIN" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="You may not change your video options while riding a pegasus to or from a Skycastle. Please change your settings after landing." effect="-1" sound="2003" readableId="SMT_FLOATINGCASTLE_PEGASUS_NOT_CHANGE_VIDEO_OPTION" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
+    <String string="You earned a reward from your high rank in Challenger League." effect="-1" sound="-1" readableId="SMT_FLOATINGCASTLE_PVE_RATING_COMPENSATION" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="You earned a reward from your high rank in Cutthroat League." effect="-1" sound="-1" readableId="SMT_FLOATINGCASTLE_PVP_RATING_COMPENSATION" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="You prepared changes. Do you want to apply the changes before exiting? Once you apply features, you will have to wait {Hour} hours  and {Min} minutes before making additional changes." readableId="SMT_FLOATINGCASTLE_SAVE_PARTS_POPUP_TEXT" />
+    <String string="Confirm Application" readableId="SMT_FLOATINGCASTLE_SAVE_PARTS_POPUP_TITLE" />
+    <String string="You may not move these features as they are attached to different slots." effect="-1" sound="-1" readableId="SMT_FLOATINGCASTLE_SLOT_CHANGE_WARNING" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
     <String string="Você está seguindo {UserName}." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO_FIXED" readableId="SMT_FOLLOWING" displayChat="false" />
     <String string="Não é possível cancelar petições que os GMs estejam processando." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_FORCE_PETITION_CANNOT_CANCEL" chatChannel="203" displayChat="true" />
     <String string="Nenhuma pesquisa GM concluída." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_FORCE_PETITION_CANNOT_SURVEY" chatChannel="203" displayChat="true" />
@@ -1365,6 +1430,7 @@
     <String string="{UserName} está Offline." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_GENERAL_OFFLINE_USERNAME" chatChannel="203" displayChat="true" />
     <String string="Cancelado. O tempo acabou." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO_CHAT_ONLY" readableId="SMT_GENERAL_TIMEOUT_CONTRACT" chatChannel="201" displayChat="true" />
     <String string="{Sec}" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_GENERAL_TIME_COUNT" chatChannel="201" displayChat="true" />
+    <String string="{sec}" effect="-1" sound="2064" readableId="SMT_GENERAL_TIME_COUNT_DUNGEON" style="SYSTEM_MSG_DUNGEON_MSG" delayTime="0" displayChat="false" />
     <String string="Usou {Amount@money}." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_GENERAL_USE_MONEY" chatChannel="201" displayChat="true" />
     <String string="Você tem um novato em seu grupo. A Sorte de Principiante aumentou a taxa de obtenção do chefe final em 25%." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_GET_DUNGEON_NEWBIE_BONUS" chatChannel="201" displayChat="true" />
     <String string="Adquiriu {PolicyPoint} Pontos de política." delayTime="0" effect="-1" sound="2029" style="SMS_CHAT_INFO_CHAT_ONLY" readableId="SMT_GET_POLICY_POINT" chatChannel="201" displayChat="true" />
@@ -1500,6 +1566,9 @@
     <String string="Não há eleições no momento." delayTime="0" effect="-1" sound="2003" style="SMS_CHAT_ERROR_INFO" readableId="SMT_GUARD_NO_ELECTION_STATE" chatChannel="203" displayChat="true" />
     <String string="Início da missão de escolta." delayTime="0" effect="-1" sound="2052" style="SMS_CHAT_INFO" readableId="SMT_GUARD_QUEST_START" chatChannel="201" displayChat="true" />
     <String string="Os grupos de batalha do torneio devem ser criados até: {Hour} horas do dia {Day}/{Month}." delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_GUARD_TOURNAMENT_INFO" displayChat="false" />
+    <String string="You earned {WinLosePoint} points from the battleground." effect="-1" sound="-1" readableId="SMT_GUILDCOMPETITION_BATTLEFIELD_WINLOSEPOINT" style="SMS_CHAT_INFO" delayTime="0" chatChannel="203" displayChat="true" />
+    <String string="You have elected to participate in {LeagueName}." effect="-1" sound="-1" readableId="SMT_GUILDCOMPETITION_LEAGUE_JOIN" style="SMS_CHAT_INFO" delayTime="0" chatChannel="203" displayChat="true" />
+    <String string="You earned {CriticalSuccessPoint} guild points from crafting." effect="-1" sound="-1" readableId="SMT_GUILDCOMPETITION_PRODUCE_CRITICALSUCCESS" style="SMS_CHAT_INFO" delayTime="0" chatChannel="203" displayChat="true" />
     <String string="Você foi removido do campo de batalha devido a uma batalha de guilda GvG com [{GuildName}]." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_GUILDWAR_BE_LEAVE" chatChannel="201" displayChat="true" />
     <String string="Os membros da equipe em guildas hostis foram removidos do campo de batalha." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_GUILDWAR_BE_LEAVE_PARTYPLAYER" chatChannel="201" displayChat="true" />
     <String string="Você não pode participar de uma {party} com membros hostis da guilda." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_GUILDWAR_CANNOT_JOIN" chatChannel="203" displayChat="false" />
@@ -1508,16 +1577,29 @@
     <String string="Declaração de batalha de guilda GvG em tempo de espera. Você pode declarar novamente após {RESTCOOLTIME@durationBrief}." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_GUILDWAR_CANT_DECLARER_GUILDNAME2" chatChannel="203" displayChat="false" />
     <String string="Nome de guilda inválido." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_GUILDWAR_CANT_DECLARER_GUILDNAME3" chatChannel="203" displayChat="false" />
     <String string="Essa guilda não é elegível para as batalhas de guilda GvG." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_GUILDWAR_CANT_DECLARER_GUILDNAME4" chatChannel="201" displayChat="true" />
+    <String string="One or both guilds needs more Fame to continue the GvG Battle." effect="-1" sound="-1" readableId="SMT_GUILDWAR_CANT_DECLARER_GUILDNAME5" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="false" />
+    <String string="Your opponent does not have enough members to declare a GvG battle (Required accounts: 30–100)." effect="-1" sound="-1" readableId="SMT_GUILDWAR_CANT_DECLARER_GUILDNAME6" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="false" />
+    <String string="You may not declare more GvG battles." effect="-1" sound="-1" readableId="SMT_GUILDWAR_CANT_DECLARER_GUILDNAME7" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="false" />
+    <String string="You can't start a GvG battle right now." effect="-1" sound="-1" readableId="SMT_GUILDWAR_CANT_DECLARE_AUTHORITY" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
     <String string="Você excedeu o número máximo de declarações de batalha de guilda." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_GUILDWAR_CANT_DECLARE_MAXCOUNT" chatChannel="203" displayChat="true" />
     <String string="Você não pode trocar de mestre de guilda durante o GvG." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_GUILDWAR_CANT_DELEGATE_GUILDLEADER" chatChannel="203" displayChat="true" />
     <String string="Os membros da guilda não podem sair ou ser expulsos durante as batalhas da guilda." delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_GUILDWAR_CANT_GUILDLEAVE" displayChat="false" />
     <String string="Você ainda não pode se render. Você pode se render após {RESTCOOLTIME@durationBrief}." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_GUILDWAR_CANT_SURRENDER" chatChannel="203" displayChat="true" />
     <String string="Uma guilda de sistema não pode declarar uma batalha de guilda." delayTime="0" effect="-1" sound="2003" style="SMS_CHAT_ERROR_INFO" readableId="SMT_GUILDWAR_CANT_SYSTEM_GUILD" chatChannel="203" displayChat="false" />
+    <String string="SMT_GUILDWAR_CANT_WARP" effect="-1" sound="-1" readableId="SMT_GUILDWAR_CANT_WARP" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="Você não pode declarar uma batalha de guilda quando sua guilda estiver no estado pacifista." effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_GUILDWAR_CANT_WHEN_MY_STATE_IS_NOT_ACCEPTABLE_GUILDWAR" displayChat="true" />
     <String string="Você não pode declarar uma batalha de guilda contra uma guilda no estado pacifista." effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_GUILDWAR_CANT_WHEN_OPPOSITE_IS_NOT_ACCEPTABLE_GUILDWAR" displayChat="true" />
+    <String string="Your guild lost {Battlechip} Fame from cancellation." effect="-1" sound="-1" readableId="SMT_GUILDWAR_CHAT_RESULT_CANCEL" style="SMS_CHAT_GUILD_INFO" delayTime="0" chatChannel="205" displayChat="true" />
+    <String string="Your guild lost {Battlechip} Fame from a draw." effect="-1" sound="-1" readableId="SMT_GUILDWAR_CHAT_RESULT_DRAW" style="SMS_CHAT_GUILD_INFO" delayTime="0" chatChannel="205" displayChat="true" />
+    <String string="Your guild earned {Battlechip} Fame when {GuildName} declined the GvG Battle." effect="-1" sound="-1" readableId="SMT_GUILDWAR_CHAT_RESULT_GIVEUP" style="SMS_CHAT_GUILD_INFO" delayTime="0" chatChannel="205" displayChat="true" />
+    <String string="Your guild lost {Battlechip} Fame from declining a GvG Battle." effect="-1" sound="-1" readableId="SMT_GUILDWAR_CHAT_RESULT_GIVEUP_LOSE" style="SMS_CHAT_GUILD_INFO" delayTime="0" chatChannel="205" displayChat="true" />
+    <String string="Your guild lost {Battlechip} Fame from a loss." effect="-1" sound="-1" readableId="SMT_GUILDWAR_CHAT_RESULT_LOSE" style="SMS_CHAT_GUILD_INFO" delayTime="0" chatChannel="205" displayChat="true" />
+    <String string="Your guild earned {Battlechip} Fame from a victory!" effect="-1" sound="-1" readableId="SMT_GUILDWAR_CHAT_RESULT_WIN" style="SMS_CHAT_GUILD_INFO" delayTime="0" chatChannel="205" displayChat="true" />
+    <String string="You may not change channels while you are engaged in a GvG battle." effect="-1" sound="-1" readableId="SMT_GUILDWAR_COMBAT_CHANNEL" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="{USERNAME} foi morto por [{HOSTILEGUILDNAME}]." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_GUILDWAR_DEATH_LOG" chatChannel="201" displayChat="true" />
     <String string="A batalha GvG entre [{DECLARERGUILDNAME}] e [{TARGETGUILDNAME}] termina em um empate." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_GUILDWAR_DRAW" chatChannel="201" displayChat="true" />
     <String string="Não é possível declarar batalha de guilda GvG (a guilda pode não existir)." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_GUILDWAR_FAIL_REQUEST" chatChannel="203" displayChat="false" />
+    <String string="{GuildName} guild initiated a GvG battle against you." effect="-1" sound="2061" readableId="SMT_GUILDWAR_FROM_DECLARE" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" chatChannel="205" displayChat="true" />
     <String string="Você foi removido do deathmatch devido a uma batalha de guilda GvG com [{GuildName}]." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_GUILDWAR_GROUPDUEL_LEAVE" chatChannel="201" displayChat="true" />
     <String string="Os membros da equipe em guildas hostis foram removidos do deathmatch." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_GUILDWAR_GROUPDUEL_LEAVE_PARTYPLAYER" chatChannel="201" displayChat="true" />
     <String string="Venceu a batalha da guilda GvG devido à dissolução da [{GUILDNAME}]." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_GUILDWAR_GUILDBREAK_WIN" chatChannel="201" displayChat="true" />
@@ -1525,8 +1607,22 @@
     <String string="Você foi removido do grupo devido a uma batalha de guilda GvG com [{GuildName}]." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_PARTY_INFO" readableId="SMT_GUILDWAR_LEAVE_PARTY" chatChannel="204" displayChat="true" />
     <String string="Uma batalha de guilda GvG está em andamento. Abra a janela da guilda para verificar o status." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_GUILDWAR_ONGOING" chatChannel="201" displayChat="true" />
     <String string="Pontuação GvG: {GUILDWARPOINT} para [{GUILDNAME}] vs. {HOSTILEGUILDPOINT} para [{HOSTILEGUILDNAME}]." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_GUILDWAR_POINT_LOG" chatChannel="201" displayChat="true" />
+    <String string="You may not raise the wager any more." effect="-1" sound="-1" readableId="SMT_GUILDWAR_RAISE_TIMEOUT" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
     <String string="A batalha da guilda GvG com [{GuildName}] começará em {GuildWarSetTime} segundo{@select:{GuildWarSetTime}/s//s}." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_GUILDWAR_READY" chatChannel="201" displayChat="true" />
     <String string="[{declarerGuildName}] declarou uma batalha de guilda GvG em [{targetGuildName}]." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_GUILDWAR_START_BROADCAST" chatChannel="201" displayChat="true" />
+    <String string="GvG battle canceled because {GuildName} guild lacks Fame." effect="-1" sound="-1" readableId="SMT_GUILDWAR_STAT_CANCEL" style="SMS_CHAT_INFO" delayTime="0" chatChannel="205" displayChat="true" />
+    <String string="GvG battle against {GuildName} canceled due to lack of Fame." effect="-1" sound="-1" readableId="SMT_GUILDWAR_STAT_CANCEL_OUR" style="SMS_CHAT_INFO" delayTime="0" chatChannel="205" displayChat="true" />
+    <String string="{GuildName} guild accepted the GvG battle." effect="-1" sound="2061" readableId="SMT_GUILDWAR_STAT_CHANGE_ENEMY_ACCEPT" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" chatChannel="205" displayChat="true" />
+    <String string="{GuildName} guild canceled the GvG battle against you." effect="-1" sound="2061" readableId="SMT_GUILDWAR_STAT_CHANGE_ENEMY_CANCEL" style="SYSTEM_MSG_BF_OURTEAM_MSG" delayTime="0" chatChannel="205" displayChat="true" />
+    <String string="{GuildName} guild declined the GvG battle." effect="-1" sound="2061" readableId="SMT_GUILDWAR_STAT_CHANGE_ENEMY_GIVEUP" style="SYSTEM_MSG_BF_OURTEAM_MSG" delayTime="0" chatChannel="205" displayChat="true" />
+    <String string="{GuildName} guild raised the GvG battle wager." effect="-1" sound="2061" readableId="SMT_GUILDWAR_STAT_CHANGE_ENEMY_RAISE" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" chatChannel="205" displayChat="true" />
+    <String string="Your guild accepted the GvG battle against {GuildName} guild." effect="-1" sound="2060" readableId="SMT_GUILDWAR_STAT_CHANGE_OUR_ACCEPT" style="SYSTEM_MSG_BF_OURTEAM_MSG" delayTime="0" chatChannel="205" displayChat="true" />
+    <String string="Your guild canceled the GvG battle against {GuildName} guild." effect="-1" sound="2060" readableId="SMT_GUILDWAR_STAT_CHANGE_OUR_CANCEL" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" chatChannel="205" displayChat="true" />
+    <String string="Your guild declined a GvG battle against {GuildName} guild." effect="-1" sound="2060" readableId="SMT_GUILDWAR_STAT_CHANGE_OUR_GIVEUP" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" chatChannel="205" displayChat="true" />
+    <String string="Your guild raised the GvG battle wager against {GuildName} guild." effect="-1" sound="2060" readableId="SMT_GUILDWAR_STAT_CHANGE_OUR_RAISE" style="SYSTEM_MSG_BF_OURTEAM_MSG" delayTime="0" chatChannel="205" displayChat="true" />
+    <String string="All GvG battles canceled due to a problem with the GvG system." effect="-1" sound="2003" readableId="SMT_GUILDWAR_SYSTEM_CANCEL" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
+    <String string="You may not advance the GvG battle due to a problem with the GvG system." effect="-1" sound="2003" readableId="SMT_GUILDWAR_SYSTEM_OFF" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
+    <String string="Your guild initiated a GvG battle against {GuildName} guild!" effect="-1" sound="2060" readableId="SMT_GUILDWAR_TO_DECLARE" style="SYSTEM_MSG_BF_OURTEAM_MSG" delayTime="0" chatChannel="205" displayChat="true" />
     <String string="[{WINGUILDNAME}] derrotou [{LOSEGUILDNAME}]." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_GUILDWAR_WIN" chatChannel="201" displayChat="true" />
     <String string="Você não pode se candidatar a essa guilda." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_GUILD_CANNOT_APPLY" chatChannel="203" displayChat="true" />
     <String string="No momento, não é possível estender seu tempo para este nível de guilda. Tente novamente em {DAY}/{MONTH}/{YEAR} após {TIME}:{MINUTE}." delayTime="0" effect="-1" sound="2003" style="SMS_CHAT_ERROR_INFO" readableId="SMT_GUILD_CANT_EXTEND_NOT_PERIOD" chatChannel="203" displayChat="true" />
@@ -1534,6 +1630,14 @@
     <String string="{GuildName} já está em uso." delayTime="0" effect="-1" sound="2003" style="SMS_CHAT_ERROR_INFO" readableId="SMT_GUILD_CANT_MAKE_GUILD_ALREADY_NAME" chatChannel="203" displayChat="true" />
     <String string="Você não pode renunciar ao cargo de mestre de guilda enquanto estiver registrado como candidato a vanarca." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_GUILD_CANT_MANDATE_CANDIDATE" chatChannel="203" displayChat="true" />
     <String string="Não é possível excluir um mestre de guilda." delayTime="0" effect="-1" sound="-1" style="SMS_ALERT_CENTER" readableId="SMT_GUILD_CHIEF_DELETE" displayChat="false" />
+    <String string="Participate" effect="-1" sound="-1" readableId="SMT_GUILD_COMPETITION_APPLICANT_BTN" style="SMS_DEFAULT" delayTime="0" chatChannel="203" displayChat="true" />
+    <String string="Current Season" effect="-1" sound="-1" readableId="SMT_GUILD_COMPETITION_CURRENT_SEASON_BTN" style="SMS_DEFAULT" delayTime="0" chatChannel="203" displayChat="true" />
+    <String string="Week {season} Rankings" effect="-1" sound="-1" readableId="SMT_GUILD_COMPETITION_CURRENT_SEASON_INFO" style="SMS_DEFAULT" delayTime="0" chatChannel="203" displayChat="true" />
+    <String string="Participating" effect="-1" sound="-1" readableId="SMT_GUILD_COMPETITION_PARTICIPATED_BTN" style="SMS_DEFAULT" delayTime="0" chatChannel="203" displayChat="true" />
+    <String string="Previous Season" effect="-1" sound="-1" readableId="SMT_GUILD_COMPETITION_PREVIOUS_SEASON_BTN" style="SMS_DEFAULT" delayTime="0" chatChannel="203" displayChat="true" />
+    <String string="Last Season Results ({year} Season {season})" effect="-1" sound="-1" readableId="SMT_GUILD_COMPETITION_PREVIOUS_SEASON_INFO" style="SMS_DEFAULT" delayTime="0" chatChannel="203" displayChat="true" />
+    <String string="No information on the previous season." effect="-1" sound="-1" readableId="SMT_GUILD_COMPETITION_PREVIOUS_SEASON_INFO_NO_EXIST" style="SMS_DEFAULT" delayTime="0" chatChannel="203" displayChat="true" />
+    <String string="Score Refreshes:" effect="-1" sound="-1" readableId="SMT_GUILD_COMPETITION_REMAIN_NEXT_REFRASH_TIME" style="SMS_DEFAULT" delayTime="0" chatChannel="203" displayChat="true" />
     <String string="Você deve estar em um grupo ou em uma invasão para criar uma guilda." delayTime="0" effect="-1" sound="2003" style="SMS_CHAT_ERROR_INFO" readableId="SMT_GUILD_CREATE_PARTY" chatChannel="203" displayChat="true" />
     <String string="Para formar uma guilda, você precisa ter outro membro em seu raid." delayTime="0" effect="-1" sound="2003" style="SMS_CHAT_ERROR_INFO" readableId="SMT_GUILD_CREATE_UNIONPARTY" chatChannel="203" displayChat="true" />
     <String string="Autoridade GvG" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_GUILD_GUILDWAR_AUTHORITY" displayChat="false" />
@@ -1544,10 +1648,10 @@
     <String string="Confirmação" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_GUILD_LOGO_REG_MSGBOX_UI_TITLE" displayChat="false" />
     <String string="{AccepteeName} foi aceito na guilda por {AcceptorName}." delayTime="0" effect="-1" sound="2010" style="SMS_CHAT_GUILD_INFO" readableId="SMT_GUILD_LOG_APPLY" chatChannel="205" displayChat="true" />
     <String string="{UserName} foi expulso da guilda." delayTime="0" effect="-1" sound="2012" style="SMS_CHAT_GUILD_INFO" readableId="SMT_GUILD_LOG_BAN" chatChannel="205" displayChat="true" />
+    <String string="O nome da guilda foi alterado de [{OldName}] para [{NewName}]." delayTime="0" effect="-1" sound="2027" style="SMS_CHAT_GUILD_INFO" readableId="SMT_GUILD_LOG_CHANGE_NAME" chatChannel="205" displayChat="true" />
     <String string="{UserName} agora é um mestre de guilda." delayTime="0" effect="-1" sound="2027" style="SMS_CHAT_GUILD_INFO" readableId="SMT_GUILD_LOG_CHIEF" chatChannel="205" displayChat="true" />
     <String string="{UserName} agora é a classificação {GroupName}." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_GUILD_INFO" readableId="SMT_GUILD_LOG_GROUP" chatChannel="205" displayChat="true" />
     <String string="{UserName} deixou a guilda." delayTime="0" effect="-1" sound="2011" style="SMS_CHAT_GUILD_INFO" readableId="SMT_GUILD_LOG_LEAVE" chatChannel="205" displayChat="true" />
-    <String string="O nome da guilda foi alterado de [{OldName}] para [{NewName}]." delayTime="0" effect="-1" sound="2027" style="SMS_CHAT_GUILD_INFO" readableId="SMT_GUILD_LOG_CHANGE_NAME" chatChannel="205" displayChat="true" />
     <String string="Pedir aos membros de seu {party} que aprovem a criação dessa guilda." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO_CHAT_ONLY" readableId="SMT_GUILD_MAKE_MESSAGE_SEND_TO_PARTY" chatChannel="201" displayChat="true" />
     <String string="Aguardando que os membros do raid aprovem a criação da guilda." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO_CHAT_ONLY" readableId="SMT_GUILD_MAKE_MESSAGE_SEND_TO_UNIONPARTY" chatChannel="201" displayChat="true" />
     <String string="Escrever o MotD da guilda " delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_GUILD_MANAGE_MESSAGE" displayChat="false" />
@@ -1573,6 +1677,7 @@
     <String string="depositado: {Amount@money}" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_GUILD_WAREHOUSE_INSERT_MONEY" displayChat="false" />
     <String string="retirado: {ItemName} x {ItemAmount}" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_GUILD_WAREHOUSE_TAKE_OUT_ITEM" displayChat="false" />
     <String string="retirou: {Amount@money}" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_GUILD_WAREHOUSE_TAKE_OUT_MONEY" displayChat="false" />
+    <String string="There are no opposing guild members to locate." effect="-1" sound="-1" readableId="SMT_GUILD_WAR_TRACE_OPPONENT_GUILD_NOT_FOUND" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
     <String string="Os exarcas, comandantes e escalões não podem ser expulsos de suas guildas." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_GUILD_WITHRAW_WARNING_MESSAGE" chatChannel="203" displayChat="true" />
     <String string="{UserName} ama você!" delayTime="0" effect="-1" sound="-1" style="SMS_ALERT_INTERACTION" readableId="SMT_HIT_LOVE_FIREWORK" chatChannel="201" displayChat="true" />
     <String string="{UserName} tem o prazer de vê-lo." delayTime="0" effect="-1" sound="-1" style="SMS_ALERT_INTERACTION" readableId="SMT_HIT_SMILE_FIREWORK" chatChannel="201" displayChat="true" />
@@ -1581,6 +1686,8 @@
     <String string="{OwnerName}'s {HomunName}" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_HOMUN_NAME" displayChat="false" />
     <String string="A restauração completa de seu HP e MP custa {Amount@money}. Você deseja restaurar o HP e o MP agora? (Para obter melhores resultados, primeiro você deve ter o máximo de Stamina)." delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_HP_MP_RESTORE_VILLAGER_MSGBOX_MESSAGE" displayChat="false" />
     <String string="A restauração completa de seu HP custa {Amount@money}. Você deseja restaurar o HP? (Para obter melhores resultados, você deve primeiro ter o máximo de Stamina)." delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_HP_RESTORE_VILLAGER_MSGBOX_MESSAGE" displayChat="false" />
+    <String string="There are active Events. Visit Tera-europe.com for more details. " effect="-1" sound="-1" readableId="SMT_HUNTINGZONE_EVENT_ANNOUNCE" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="{EventName} Event is active." effect="-1" sound="-1" readableId="SMT_HUNTINGZONE_EVENT_NOTICE_MSG" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Imposto sobre saques" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_HUNTING_TAX" displayChat="false" />
     <String string="Um imposto sobre o ouro saqueado em uma zona.\nConfigure a taxa entre {MinTaxRate}% e {MaxTaxRate}%." delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_HUNTING_TAX_DESC" displayChat="false" />
     <String string="Aumento do nível de habilidade." delayTime="0" effect="-1" sound="2029" style="SMS_CHAT_INFO" readableId="SMT_INCREASE_SKILL_PROF" chatChannel="201" displayChat="true" />
@@ -1686,6 +1793,8 @@
     <String string="Descartado {ItemName}." delayTime="0" effect="-1" sound="2006" style="SMS_CHAT_INFO" readableId="SMT_ITEM_DELETED" chatChannel="201" displayChat="true" />
     <String string="O saque está definido como gratuito para todos." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_ITEM_DIVIDE_FREE" chatChannel="201" displayChat="true" />
     <String string="Você descartou {ItemName} x{ItemAmount} de seu inventário." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_ITEM_DROPED" chatChannel="201" displayChat="true" />
+    <String string="Enchanting..." effect="-1" sound="-1" readableId="SMT_ITEM_ENCHANTER_PROGRESS" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Cancelled " effect="-1" sound="-1" readableId="SMT_ITEM_ENCHANTER_PROGRESS_CANCEL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Você precisa de {itemName} x {count}." style="SMS_CHAT_ERROR_INFO" readableId="SMT_ITEM_ENCHANT_BOOSTER_SHORTAGE" chatChannel="203" displayChat="true" />
     <String string="{ItemName} já tem uma vantagem de encantamento." style="SMS_CHAT_ERROR_INFO" readableId="SMT_ITEM_ENCHANT_BOOST_ALREADY_DONE" chatChannel="203" displayChat="true" />
     <String string="Não é possível aplicar a vantagem de encantamento de {ItemName2} a {ItemName1}." style="SMS_CHAT_ERROR_INFO" readableId="SMT_ITEM_ENCHANT_BOOST_INVALID_BOOSTER_FOR_TARGET" chatChannel="203" displayChat="true" />
@@ -1710,6 +1819,8 @@
     <String string="Enigma concluído. Encantamentos alterados." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_ITEM_RESET_SUCCESS" chatChannel="201" displayChat="true" />
     <String string="Resultado da rolagem de {UserName} para {ItemName}: {Amount}" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_PARTY_INFO" readableId="SMT_ITEM_ROULETTE_VALUE" chatChannel="204" displayChat="true" />
     <String string="Você pode desvincular {ItemName} {UnbindCount} vezes. Deseja cancelar a vinculação?" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_ITEM_UNBIND_MSGBOX_MESSAGE" chatChannel="203" displayChat="true" />
+    <String string="Liberate Item" effect="-1" sound="-1" readableId="SMT_ITEM_UNBIND_PROGRESS" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Cancel Liberation" effect="-1" sound="-1" readableId="SMT_ITEM_UNBIND_PROGRESS_CANCEL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="{ItemName} não está vinculado." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_ITEM_UNBIND_SUCCESS" chatChannel="203" displayChat="true" />
     <String string="Não é possível identificar esse item." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_ITEM_UNIDENTIFY_CANT_CLEAR" chatChannel="203" displayChat="true" />
     <String string="Não é possível transmogrificar esse item." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_ITEM_UNIDENTIFY_CANT_SEAL" chatChannel="203" displayChat="true" />
@@ -1738,10 +1849,12 @@
     <String string="SMT_KICK_PARTY_FAILED" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_KICK_PARTY_FAILED" chatChannel="201" displayChat="true" />
     <String string="SMT_KICK_PARTY_SUCCEED" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_KICK_PARTY_SUCCEED" chatChannel="201" displayChat="true" />
     <String string="Bem-Vindo(a) ao servidor NovaVerso.Online! Fique atualizado com as últimas notícias e informações. Jogue com responsabilidade e não se esqueça de fazer pausas." delayTime="10" effect="-1" sound="-1" style="SMS_ADMIN_NOTICE" readableId="SMT_KOREAN_RATING_TEENAGER_PROHIBITED" chatChannel="201" displayChat="true" />
-    
-	
-	
-	<String string="Você aprendeu a fazer {Recipe}." delayTime="0" effect="-1" sound="2022" style="SMS_CHAT_INFO" readableId="SMT_LEARN_RECIPE" chatChannel="201" displayChat="true" />
+    <String string="Você aprendeu a fazer {Recipe}." delayTime="0" effect="-1" sound="2022" style="SMS_CHAT_INFO" readableId="SMT_LEARN_RECIPE" chatChannel="201" displayChat="true" />
+    <String string="Do you want to learn {SkillName}?&lt;br&gt;Cost: {Money@money}" effect="-1" sound="-1" readableId="SMT_LEARN_SKILL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Learn Skill" effect="-1" sound="-1" readableId="SMT_LEARN_SKILL_TITLE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Learn" effect="-1" sound="-1" readableId="SMT_LEARN_SKILL_LEARN" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Cancel" effect="-1" sound="-1" readableId="SMT_LEARN_SKILL_CANCEL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Confirm" effect="-1" sound="-1" readableId="SMT_LEARN_SKILL_CONFIRM" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Você deixou a {party}." delayTime="0" effect="-1" sound="2032" style="SMS_CHAT_PARTY_INFO" readableId="SMT_LEAVE_PARTY" chatChannel="204" displayChat="true" />
     <String string="SMT_LEAVE_PARTY_FAILED" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_LEAVE_PARTY_FAILED" chatChannel="201" displayChat="true" />
     <String string="{PartyPlayerName} deixou a {party}." delayTime="0" effect="-1" sound="2032" style="SMS_CHAT_PARTY_INFO" readableId="SMT_LEAVE_PARTY_PARTYPLAYER" chatChannel="204" displayChat="true" />
@@ -1894,10 +2007,12 @@
     <String string="novaverso.online" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_MAIN_MENU_ANNOUNCE_URL" displayChat="false" />
     <String string="Deseja se conectar à página de eventos do TERA?" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_MAIN_MENU_EVENT_ASK" displayChat="false" />
     <String string="novaverso.online" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_MAIN_MENU_EVENT_URL" displayChat="false" />
+    <String string="GameTip WebPage" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_MAIN_MENU_GAME_TIP_BOARD_ASK" displayChat="false" />
     <String string="Deseja se conectar à Terapedia?" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_MAIN_MENU_TERAPIDIA_ASK" displayChat="false" />
     <String string="novaverso.online" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_MAIN_MENU_TERAPIDIA_URL" displayChat="false" />
     <String string="Deseja ver as últimas notas do patch?" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_MAIN_MENU_UPDATE_ASK" displayChat="false" />
     <String string="novaverso.online" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_MAIN_MENU_UPDATE_URL" displayChat="false" />
+    <String string="Entrar em contato com o suporte técnico?" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_MAIN_MENU_PETITION_ASK" displayChat="false" />
     <String string="{username} foi nomeado líder." delayTime="0" effect="-1" sound="2025" style="SMS_CHAT_INFO" readableId="SMT_MANDATE_CONSUL" chatChannel="201" displayChat="true" />
     <String string="Não é possível usar a função de correspondência de instância devido a um {party} formado incorretamente." delayTime="0" effect="-1" sound="2079" style="SMS_CHAT_ERROR_INFO" readableId="SMT_MATCHING_CANT_REQUEST4" chatChannel="203" displayChat="true" />
     <String string="{UserName} encantou (+{Added}) {ItemName} com sucesso." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_MAX_ENCHANT_SUCCEED" chatChannel="201" displayChat="true" />
@@ -2146,6 +2261,7 @@
     <String string="LFG iniciado." delayTime="0" effect="-1" sound="2001" style="SMS_CHAT_INFO" readableId="SMT_PARTYBOARD_RESTART_INVITE" chatChannel="201" displayChat="true" />
     <String string="O LFG parou." delayTime="0" effect="-1" sound="2001" style="SMS_CHAT_INFO" readableId="SMT_PARTYBOARD_STOP_INVITE" chatChannel="201" displayChat="true" />
     <String string="Correspondência de instância cancelada." delayTime="0" effect="-1" sound="2079" style="SMS_CHAT_INFO" readableId="SMT_PARTYMATCHING_CANCEL" chatChannel="201" displayChat="true" />
+    <String string="You can't cancel now. Please try again later." effect="-1" sound="-1" readableId="SMT_PARTYMATCHING_CANT_CANCEL" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
     <String string="Ele(a) já está em outra {party}." delayTime="0" effect="-1" sound="2001" style="SMS_CHAT_ERROR_INFO" readableId="SMT_PARTY_ALREADY_JOINED" chatChannel="203" displayChat="true" />
     <String string="Aceitar Convite de {party}" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_PARTY_APPLICATION_ACCEPT" displayChat="false" />
     <String string="Recusar Convite de {party}" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_PARTY_APPLICATION_REJECT" displayChat="false" />
@@ -2302,6 +2418,8 @@
     <String string="O PvP já começou." delayTime="0" effect="-1" sound="2044" style="SMS_PK_ALERT" readableId="SMT_PK_SYSMSG_START" chatChannel="208" displayChat="true" />
     <String string="Bem-vindo ao TERA. Acesse novaverso.online para obter notícias e informações." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_PLAYTIME_START" chatChannel="201" displayChat="true" />
     <String string="Você está jogando há {@select:{PlayTime}/no/an/{PlayTime}} hora{@select:{PlayTime}/s//s}." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_PLAYTIME_TIMER" chatChannel="201" displayChat="true" />
+    <String string="Você concluiu uma missão em {EventName}." delayTime="0" effect="-1" sound="2018" style="SYSTEM_MSG_BF_OURTEAM_MSG" readableId="SMT_PLAY_GUIDE_COMPLETE_EVENT" chatChannel="201" displayChat="true" />
+    <String string="Você tem uma nova missão em {EventName}." delayTime="0" effect="-1" sound="2018" style="SYSTEM_MSG_BF_OURTEAM_MSG" readableId="SMT_PLAY_GUIDE_NEW_EVENT" chatChannel="201" displayChat="true" />
     <String string="{UserName} parou de assistir ao filme." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO_CHAT_ONLY" readableId="SMT_PLAY_MOVIE_CANCELED" chatChannel="201" displayChat="true" />
     <String string="Você jogou {Time} nesse personagem." delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_PLAY_TIME" displayChat="false" />
     <String string="dia(s)" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_PLAY_TIME_DAY" displayChat="false" />
@@ -2343,6 +2461,21 @@
     <String string="Você não pode fazer isso agora." delayTime="0" effect="-1" sound="2003" style="SMS_CHAT_ERROR_INFO" readableId="SMT_PROHIBITED_ACTION_ON_TRANSFORMATION" chatChannel="203" displayChat="true" />
     <String string="Bem-vindo ao servidor Free Growth!\nNesse servidor, você receberá 2 vezes mais EXP e 2 vezes mais recompensas em ouro das missões, até o nível 58. E você pode transferir seu personagem para um servidor diferente uma vez, sem nenhum custo." delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_PROMOTIONACCOUNT_TEXT" displayChat="false" />
     <String string="Iniciando a missão de defesa. Ondas chegando." delayTime="0" effect="-1" sound="2052" style="SMS_CHAT_INFO" readableId="SMT_PROTECT_QUEST_START" chatChannel="201" displayChat="true" />
+    <String string="Você não pode acumular essa habilidade." delayTime="0" effect="-1" sound="-1" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" readableId="SMT_PVESKILLCART_MAXCOUNT_ONE" displayChat="false" />
+    <String string="O limite de pilha de habilidades foi atingido, e você não pode adicionar mais habilidades." delayTime="0" effect="-1" sound="-1" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" readableId="SMT_PVESKILLCART_MAXCOUNT_OVER" displayChat="false" />
+    <String string="Você não tem pontos de habilidade suficientes para adicionar mais habilidades." delayTime="0" effect="-1" sound="-1" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" readableId="SMT_PVESKILLCART_POINT_OVER" displayChat="false" />
+    <String string="{targetName} logo fugirá." delayTime="0" effect="-1" sound="-1" style="SYSTEM_MSG_BF_OURTEAM_MSG" readableId="SMT_PVE_BATTLEFIELD_DESPAWN_TERRITORY" displayChat="false" />
+    <String string="{Point} são apresentados pontos de habilidade adicionais." delayTime="0" effect="-1" sound="-1" style="SYSTEM_MSG_BF_OURTEAM_MSG" readableId="SMT_PVE_BATTLEFIELD_GET_ABILITYPOINT" displayChat="false" />
+    <String string="Sua equipe derrotou {NpcName}!" delayTime="0" effect="-1" sound="-1" style="SYSTEM_MSG_BF_OURTEAM_MSG" readableId="SMT_PVE_BATTLEFIELD_NPC_KILL" displayChat="false" />
+    <String string="A equipe inimiga derrotou {NpcName}!" delayTime="0" effect="-1" sound="-1" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" readableId="SMT_PVE_BATTLEFIELD_NPC_KILL_RED" displayChat="false" />
+    <String string="A rodada {ROUNDNUMBER} terminará em {sec} segundos." delayTime="0" effect="-1" sound="2097" style="SYSTEM_MSG_BF_OURTEAM_MSG" readableId="SMT_PVE_BATTLEFIELD_ROUND_END" displayChat="true" />
+    <String string="Escolha a habilidade {SkillName}." delayTime="0" effect="-1" sound="2094" style="SYSTEM_MSG_BF_OURTEAM_MSG" readableId="SMT_PVE_BATTLEFIELD_SELECT_SKILL" displayChat="false" />
+    <String string="{targetName} foi invocado." delayTime="0" effect="-1" sound="-1" style="SYSTEM_MSG_BF_OURTEAM_MSG" readableId="SMT_PVE_BATTLEFIELD_SPAWN_TERRITORY" displayChat="false" />
+    <String string="Você está superando o placar!" delayTime="0" effect="-1" sound="2062" style="SYSTEM_MSG_BF_OURTEAM_MSG" readableId="SMT_PVE_BATTLEFIELD_TURN_AROUND_ALLY" displayChat="false" />
+    <String string="Você foi derrotado!" delayTime="0" effect="-1" sound="2061" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" readableId="SMT_PVE_BATTLEFIELD_TURN_AROUND_ENEMY" displayChat="false" />
+    <String string="A habilidade {SkillName} foi ativada." delayTime="0" effect="-1" sound="2095" style="SYSTEM_MSG_BF_OURTEAM_MSG" readableId="SMT_PVE_BATTLEFIELD_USE_SKILL" displayChat="false" />
+    <String string="Seu oponente usou {SkillName}." delayTime="0" effect="-1" sound="-1" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" readableId="SMT_PVE_BATTLEFIELD_USE_SKILL_ENEMY" displayChat="false" />
+    <String string="{UserName} foi derrotado por {NpcName}." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_BATTLEFIELD_INFO" readableId="SMT_PVE_INFO_DEATH" chatChannel="201" displayChat="true" />
     <String string="Conectado ao servidor de controle de qualidade." delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_QA_SERVER_WARNING" displayChat="false" />
     <String string="Missão aceita" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_QUEST_ACCEPT_POPUP" displayChat="false" />
     <String string="Missão concluída" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_QUEST_COMPLETE_POPUP" displayChat="false" />
@@ -2398,6 +2531,8 @@
     <String string="A rolagem do saque é restrita por classe." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_RARE_ITEM_DIVIDE_ROULETTE_REQUIRED_LEVEL_ON" chatChannel="201" displayChat="true" />
     <String string="Desativação da distribuição de itens de coleta em caixas." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_RARE_ITEM_DIVIDE_SEAL_EQUIPMENT_CHECK_OFF" chatChannel="201" displayChat="true" />
     <String string="Não é possível adicionar mais espaços para personagens." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_REACH_CHARACTER_SOCKET_LIMIT" chatChannel="203" displayChat="true" />
+    <String string="&lt;font color='#c00005'&gt;Feedstock used in the process of Apex conversion are not accumulated to the equipment.&lt;/font&gt;" readableId="SMT_READY_MSG_MATERIAL_AWAKEN" />
+    <String string="&lt;font color='#c00005'&gt;Feedstock used in the process of Apex enchantment are not accumulated to the equipment.&lt;/font&gt;" readableId="SMT_READY_MSG_MATERIAL_AWAKENCHANT" />
     <String string="Você ganhou {itemAmount} de {itemName} ao concluir {EventName}. Por favor, verifique sua caixa postal." delayTime="0" effect="-1" sound="2018" style="SYSTEM_MSG_BF_OURTEAM_MSG" readableId="SMT_RECEIVE_DAILY_PLAY_GUIDE_COMPENSATION" chatChannel="201" displayChat="true" />
     <String string="Você ganhou {itemName} e {itemNumber} outros itens ao concluir {EventName}. Por favor, verifique sua caixa postal." delayTime="0" effect="-1" sound="2018" style="SYSTEM_MSG_BF_OURTEAM_MSG" readableId="SMT_RECEIVE_DAILY_PLAY_GUIDE_COMPENSATION_PLURAL" chatChannel="201" displayChat="true" />
     <String string="Você ganhou {itemName} e {itemNumber} outros itens ao concluir {EventName}." delayTime="0" effect="-1" sound="2018" style="SYSTEM_MSG_BF_OURTEAM_MSG" readableId="SMT_RECEIVE_DAILY_PLAY_GUIDE_COMPENSATION_PLURAL_TO_INVENTORY" chatChannel="201" displayChat="true" />
@@ -2426,6 +2561,8 @@
     <String string="Você deseja remover a placa?" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_REMOVE_BUILD_OBJECT_NOTICE_MESSAGE" displayChat="false" />
     <String string="SMT_REMOVE_PARTY_SEARCH_FAILED" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_REMOVE_PARTY_SEARCH_FAILED" chatChannel="201" displayChat="true" />
     <String string="SMT_REMOVE_PARTY_SEARCH_SUCCEED" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_REMOVE_PARTY_SEARCH_SUCCEED" chatChannel="201" displayChat="true" />
+    <String string="Somente o mestre da guilda pode alterar o nome da guilda." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_RENAME_GUILD_IMPOSSIBLE_1" chatChannel="203" displayChat="false" />
+    <String string="Não é possível alterar o nome da guilda durante o GvG." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_RENAME_GUILD_IMPOSSIBLE_2" chatChannel="203" displayChat="false" />
     <String string="Pressione OK para aplicar o texto. Deseja continuar?" delayTime="0" effect="-1" sound="2001" style="SMS_DEFAULT" readableId="SMT_RENAME_USE_MESSAGE" chatChannel="201" displayChat="true" />
     <String string="Adicionar texto" delayTime="0" effect="-1" sound="2001" style="SMS_DEFAULT" readableId="SMT_RENAME_USE_TITLE" chatChannel="201" displayChat="true" />
     <String string="O conserto de todos os seus equipamentos custa {cost@money}. Você quer continuar?" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_REPAIR_ALLITEM_ASKPOPUP" displayChat="false" />
@@ -2653,7 +2790,7 @@
     <String string="Aprenda a habilidade com uma recompensa de missão." readableId="SMT_SKILL_LEARN_CONDITION_INFO_QUEST" />
     <String string="Você não aprendeu essa habilidade." delayTime="0" effect="-1" sound="2002" style="SMS_CHAT_ERROR_INFO" readableId="SMT_SKILL_LEARN_FAILED" chatChannel="203" displayChat="true" />
     <String string="Uma nova habilidade está disponível para ser aprendida. Fale com um instrutor de habilidades na cidade." delayTime="0" effect="-1" sound="-1" style="SYSTEM_MSG_TUTORIAL2" readableId="SMT_SKILL_NEW" chatChannel="201" displayChat="true" />
-    
+    <String string="{SkillName} cooldown was reset." effect="-1" sound="-1" readableId="SMT_SKILL_NO_COOLTIME_COST" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="{SkillName} não consumiu nenhum MP." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_SKILL_NO_MP_COST" chatChannel="201" displayChat="true" />
     <String string="Você pode usar essa habilidade somente depois de defender." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_SKILL_ONLY_DEFENCE_SUCCESS" chatChannel="203" displayChat="true" />
     <String string="Essa habilidade só pode ser usada quando derrubado." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_SKILL_ONLY_REACTION" chatChannel="203" displayChat="true" />
@@ -2727,6 +2864,10 @@
     <String string="Você acertou em cheio em {UserName}!" delayTime="0" effect="-1" sound="-1" style="SMS_ALERT_INTERACTION" readableId="SMT_THROW_SMILE_FIREWORK" chatChannel="201" displayChat="true" />
     <String string="(Tempo restante: {Day} day{@select:{Day}/s//s} {Time} hora{@select:{Time}/s//s} {Min} minuto{@select:{Min}/s//s})" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_TIMELIMIT_PASSIVITY_REMAINTIME" displayChat="false" />
     <String string="(Energia dissipada)" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_TIMELIMIT_PASSIVITY_TIMEOVER" displayChat="false" />
+    <String string=" г." effect="-1" sound="-1" readableId="SMT_TIME_YEAR" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string=" м." effect="-1" sound="-1" readableId="SMT_TIME_MONTH" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="месяц(ы)" effect="-1" sound="-1" readableId="SMT_TIME_PERIOD_MONTH" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string=" д." effect="-1" sound="-1" readableId="SMT_TIME_DAY" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string=" hr" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_TIME_HOUR" displayChat="false" />
     <String string=" min" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_TIME_MINUTE" displayChat="false" />
     <String string=" sec" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_TIME_SECOND" displayChat="false" />
@@ -2834,7 +2975,7 @@
     <String string="Você deseja nomear {UserName} para o cargo {UnionClass}?" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_UNION_APPOINT_MESSAGE" displayChat="false" />
     <String string="Nomear para cargos" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_UNION_APPOINT_TITLE" displayChat="false" />
     <String string="Os comandantes de assalto acabam de receber um item exclusivo." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_UNION_ASSAULT_COMMANDER_SKILL_ISSUED" chatChannel="201" displayChat="true" />
-
+    <String string="Due to the Enlightened Union's boon, you received {Point} additional reputation credit{@select:{Point}/s//s}." effect="-1" sound="-1" readableId="SMT_UNION_BONUS_REPUTATION_BY_PASSIVITY" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="Não é possível usar a Declaração de Fora da Lei em um território da aliança." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_UNION_CANNOT_DECLARE_OK" chatChannel="203" displayChat="true" />
     <String string="Você não pode entrar nesse partido porque pertence a uma aliança diferente." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_UNION_CANNOT_JOIN_APPLY_PARTY_ERROR" chatChannel="203" displayChat="true" />
     <String string="Durante um conflito entre alianças, independentemente dos itens de traje que você usar, o tabardo da sua aliança continuará aparecendo no seu personagem." delayTime="0" effect="-1" sound="2001" style="SMS_CHAT_ERROR_INFO" readableId="SMT_UNION_CANNOT_USE_STYLEITEM" chatChannel="201" displayChat="true" />
@@ -2885,7 +3026,7 @@
     <String string="Você deixou a aliança." delayTime="0" effect="-1" sound="2010" style="SMS_CHAT_INFO" readableId="SMT_UNION_LEAVE" chatChannel="201" displayChat="true" />
     <String string="Deixar {UnionName}?   Isso também removerá todos os seus companheiros de guilda dessa aliança. Eles não receberão mais os benefícios da associação." delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_UNION_LEAVE_MESSAGE" displayChat="false" />
     <String string="Sair da Aliança" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_UNION_LEAVE_TITLE" displayChat="false" />
-
+    <String string="Due to the Free Traders Collective boon, you earned {Money@money} additional gold." effect="-1" sound="3000" readableId="SMT_UNION_LOOTED_BONUS_MONEY_BY_UNION_PASSIVITY" style="SMS_CHAT_LOOT_MONEY" delayTime="0" chatChannel="211" displayChat="true" />
     <String string="Todos os membros da Aliança" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_UNION_MEMBER" displayChat="false" />
     <String string="Sua aliança lhe enviou um manual de habilidades." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_UNION_MEMBER_SKILL_ISSUED" chatChannel="201" displayChat="true" />
     <String string="Seu grupo contém um jogador que não pertence à sua aliança." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_UNION_NONUNION_PARTY_MEMBER_EXIST" chatChannel="203" displayChat="true" />
@@ -2937,6 +3078,10 @@
     <String string="Confirmação" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_USE_ENCHANTSCROLL_POPUP_MSGBOX_TITLE" displayChat="false" />
     <String string="Você precisa de um personagem vinculado para usar isso." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_USE_ITEM_2ND_CHAR_MISMATCH" chatChannel="203" displayChat="true" />
     <String delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_USE_ITEM_CLASS_MISMATCH" chatChannel="203" displayChat="true" />
+    <String string="Enchanting {ItemName}. Do you wish to proceed?" effect="-1" sound="-1" readableId="SMT_USE_ITEM_ENCHANTER_POPUP_MSGBOX" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Cancel" effect="-1" sound="-1" readableId="SMT_USE_ITEM_ENCHANTER_POPUP_MSGBOX_CANCEL" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Confirm" effect="-1" sound="-1" readableId="SMT_USE_ITEM_ENCHANTER_POPUP_MSGBOX_CONFIRM" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Enchanting Scroll" effect="-1" sound="-1" readableId="SMT_USE_ITEM_ENCHANTER_POPUP_MSGBOX_TITLE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="&lt;font color = '#ff0000'&gt;Ocorreu um erro ao usar o item.&lt;/font&gt;" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_USE_ITEM_FAIL_MSG" chatChannel="203" displayChat="true" />
     <String string="{GuildBuffUseUserName} usou {ItemName}." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_USE_ITEM_GUILD_BUFF" chatChannel="201" displayChat="true" />
     <String string="Você precisa estar em um nível mais alto para usar isso." delayTime="0" effect="-1" sound="2003" style="SMS_CHAT_ERROR_INFO" readableId="SMT_USE_ITEM_LEVEL_MISMATCH" chatChannel="203" displayChat="true" />
@@ -3009,6 +3154,7 @@
     <String string="Aguarde enquanto a tela de seleção de voz é carregada." delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_WAIT_ENTER_TO_CHANGE_VOICE" displayChat="false" />
     <String string="Sair do jogo. (Os personagens recebem XP de descanso quando você sai do jogo em uma cidade ou vila)." delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_WAIT_EXIT" displayChat="false" />
     <String string="Cancelar" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_WAIT_EXIT_BTN_CANCEL" displayChat="false" />
+    <String string="" effect="-1" sound="-1" readableId="SMT_WAIT_EXIT_BTN_YES" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Retornar à seleção de personagens. (Os personagens recebem XP de descanso quando você faz logout em uma cidade ou vila)." delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_WAIT_RETURN_TO_LOBBY" displayChat="false" />
     <String string="Cancelar" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_WAIT_RETURN_TO_LOBBY_BTN_CANCEL" displayChat="false" />
     <String string="Você está mudando de canal." delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_WAIT_SELECT_CHANNEL" displayChat="false" />
@@ -3047,30 +3193,70 @@
     <String string="Não é possível criar devido a pontos de produção baixos." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_YOU_CANT_PRODUCE_NOT_ENOUGH_FATIGUE" chatChannel="203" displayChat="true" />
     <String string="Nenhuma masmorra para resetar." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_YOU_CANT_RESET_DUNGEON_NO_NOTHING" chatChannel="203" displayChat="true" />
     <String string="Remova todos os cristais primeiro." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_YOU_MUST_DETACH_CRYSTAL" chatChannel="203" displayChat="true" />
-    <String string="Você não pode acumular essa habilidade." delayTime="0" effect="-1" sound="-1" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" readableId="SMT_PVESKILLCART_MAXCOUNT_ONE" displayChat="false" />
-    <String string="O limite de pilha de habilidades foi atingido, e você não pode adicionar mais habilidades." delayTime="0" effect="-1" sound="-1" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" readableId="SMT_PVESKILLCART_MAXCOUNT_OVER" displayChat="false" />
-    <String string="Você não tem pontos de habilidade suficientes para adicionar mais habilidades." delayTime="0" effect="-1" sound="-1" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" readableId="SMT_PVESKILLCART_POINT_OVER" displayChat="false" />
-    <String string="{targetName} logo fugirá." delayTime="0" effect="-1" sound="-1" style="SYSTEM_MSG_BF_OURTEAM_MSG" readableId="SMT_PVE_BATTLEFIELD_DESPAWN_TERRITORY" displayChat="false" />
-    <String string="{Point} são apresentados pontos de habilidade adicionais." delayTime="0" effect="-1" sound="-1" style="SYSTEM_MSG_BF_OURTEAM_MSG" readableId="SMT_PVE_BATTLEFIELD_GET_ABILITYPOINT" displayChat="false" />
-    <String string="Sua equipe derrotou {NpcName}!" delayTime="0" effect="-1" sound="-1" style="SYSTEM_MSG_BF_OURTEAM_MSG" readableId="SMT_PVE_BATTLEFIELD_NPC_KILL" displayChat="false" />
-    <String string="A equipe inimiga derrotou {NpcName}!" delayTime="0" effect="-1" sound="-1" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" readableId="SMT_PVE_BATTLEFIELD_NPC_KILL_RED" displayChat="false" />
-    <String string="A rodada {ROUNDNUMBER} terminará em {sec} segundos." delayTime="0" effect="-1" sound="2097" style="SYSTEM_MSG_BF_OURTEAM_MSG" readableId="SMT_PVE_BATTLEFIELD_ROUND_END" displayChat="true" />
-    <String string="Escolha a habilidade {SkillName}." delayTime="0" effect="-1" sound="2094" style="SYSTEM_MSG_BF_OURTEAM_MSG" readableId="SMT_PVE_BATTLEFIELD_SELECT_SKILL" displayChat="false" />
-    <String string="{targetName} foi invocado." delayTime="0" effect="-1" sound="-1" style="SYSTEM_MSG_BF_OURTEAM_MSG" readableId="SMT_PVE_BATTLEFIELD_SPAWN_TERRITORY" displayChat="false" />
-    <String string="Você está superando o placar!" delayTime="0" effect="-1" sound="2062" style="SYSTEM_MSG_BF_OURTEAM_MSG" readableId="SMT_PVE_BATTLEFIELD_TURN_AROUND_ALLY" displayChat="false" />
-    <String string="Você foi derrotado!" delayTime="0" effect="-1" sound="2061" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" readableId="SMT_PVE_BATTLEFIELD_TURN_AROUND_ENEMY" displayChat="false" />
-    <String string="A habilidade {SkillName} foi ativada." delayTime="0" effect="-1" sound="2095" style="SYSTEM_MSG_BF_OURTEAM_MSG" readableId="SMT_PVE_BATTLEFIELD_USE_SKILL" displayChat="false" />
-    <String string="{UserName} foi derrotado por {NpcName}." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_BATTLEFIELD_INFO" readableId="SMT_PVE_INFO_DEATH" chatChannel="201" displayChat="true" />
-    <String string="Seu oponente usou {SkillName}." delayTime="0" effect="-1" sound="-1" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" readableId="SMT_PVE_BATTLEFIELD_USE_SKILL_ENEMY" displayChat="false" />
-    <String string="Somente o mestre da guilda pode alterar o nome da guilda." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_RENAME_GUILD_IMPOSSIBLE_1" chatChannel="203" displayChat="false" />
-    <String string="Não é possível alterar o nome da guilda durante o GvG." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_RENAME_GUILD_IMPOSSIBLE_2" chatChannel="203" displayChat="false" />
-    <String string="GameTip WebPage" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_MAIN_MENU_GAME_TIP_BOARD_ASK" displayChat="false" />
+    <String string="You earned a {grade} for your achievements." effect="-1" sound="-1" readableId="SMT_ACCOMPLISH_ACHIEVEMENT_GRADE" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="{name} earned a {grade}." effect="-1" sound="-1" readableId="SMT_ACCOMPLISH_ACHIEVEMENT_GRADE_PARTY" style="SMS_CHAT_PARTY_INFO" delayTime="0" chatChannel="204" displayChat="true" />
+    <String string="{name} earned a {grade}." effect="-1" sound="-1" readableId="SMT_ACCOMPLISH_ACHIEVEMENT_GRADE_GUILD" style="SMS_CHAT_GUILD_INFO" delayTime="0" chatChannel="205" displayChat="true" />
+    <String string="{name} earned a {grade}." effect="-1" sound="-1" readableId="SMT_ACCOMPLISH_ACHIEVEMENT_GRADE_ALL" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
+    <String string="{grade}!" effect="-1" sound="-1" readableId="SMT_UPGRADE_ACHIEVEMENT" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Set the target area for the skill. Press the skill button again to fire." effect="-1" sound="-1" readableId="SMT_RANGELOCK_ON_TARGET_MESSAGE" style="SMS_CHAT_INFO_FIXED" delayTime="0" displayChat="false" />
     <String string=" m." delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_METER" displayChat="false" />
-    <String string="Entrar em contato com o suporte técnico?" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_MAIN_MENU_PETITION_ASK" displayChat="false" />
+    <String string="Modify Profile" effect="-1" sound="-1" readableId="SMT_FRIEND_CHANGE_PROFILE_TITLE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Please modify the profile." effect="-1" sound="-1" readableId="SMT_FRIEND_CHANGE_PROFILE_MSG" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Modify Memo" effect="-1" sound="-1" readableId="SMT_FRIEND_CHANGE_MEMO_TITLE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Please modify the memo." effect="-1" sound="-1" readableId="SMT_FRIEND_CHANGE_MEMO_MSG" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="The memo is too long." effect="-1" sound="2002" readableId="SMT_FRIEND_MEMO_LONG" style="SMS_CHAT_ERROR_INFO" delayTime="0" displayChat="false" />
+    <String string="The Friend Request message is too long." effect="-1" sound="2002" readableId="SMT_REQUEST_FRIEND_MSG_LONG" style="SMS_CHAT_ERROR_INFO" delayTime="0" displayChat="false" />
+    <String string="You say hello to {UserName}." effect="-1" sound="-1" readableId="SMT_FRIEND_SEND_HELLO" style="SMS_ALERT_INTERACTION" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="{UserName} is glad to see you." effect="-1" sound="-1" readableId="SMT_FRIEND_RECEIVE_HELLO" style="SMS_ALERT_INTERACTION" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="A teleport spot for the mission quest has been registered." effect="-1" sound="-1" readableId="SMT_QUEST_TASK_NEW_TELEPORT" style="SYSTEM_MSG_TUTORIAL2" delayTime="0" displayChat="true" />
+    <String string="Change Group" effect="-1" sound="-1" readableId="SMT_EDIT_GROUP_TITLE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Move {friendName} to the selected group." effect="-1" sound="-1" readableId="SMT_EDIT_GROUP_MSG" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Confirm Friend" effect="-1" sound="-1" readableId="SMT_RECEIVE_FRIEND_REQUEST_TITLE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="{friendName} sent you a friend request." effect="-1" sound="-1" readableId="SMT_RECEIVE_FRIEND_REQUEST_MSG" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Want to send a friend request?" effect="-1" sound="-1" readableId="SMT_REQUEST_FRIEND_DEFAULT_MEMO" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="The group already exists." effect="-1" sound="2002" readableId="SMT_EXIST_FRIEND_GROUP" style="SMS_CHAT_ERROR_INFO" delayTime="0" displayChat="false" />
+    <String string="Hello." effect="-1" sound="-1" readableId="SMT_HELLO_SCRIPT_1" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Nice to meet you." effect="-1" sound="-1" readableId="SMT_HELLO_SCRIPT_2" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="What a nice weather we're having!" effect="-1" sound="-1" readableId="SMT_HELLO_SCRIPT_3" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Sing us a song!" effect="-1" sound="-1" readableId="SMT_HELLO_SCRIPT_4" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="The group name was not inserted." effect="-1" sound="2002" readableId="SMT_NO_GROUP_NAME" style="SMS_CHAT_ERROR_INFO" delayTime="0" displayChat="false" />
+    <String string="The group name is too long." effect="-1" sound="2002" readableId="SMT_GROUP_NAME_LONG" style="SMS_CHAT_ERROR_INFO" delayTime="0" displayChat="false" />
+    <String string="Use Heart&lt;BR&gt;Hearts Received Today: {RecvHeart}" effect="-1" sound="-1" readableId="SMT_FRIEND_USE_HEART_TOOLTIP_TEXT" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Send Heart&lt;br&gt;Hearts Sent So Far: {SendHeart}&lt;br&gt;Hearts Received So Far: {RecvHeart}" effect="-1" sound="-1" readableId="SMT_FRIEND_GIVE_HEART_TOOLTIP_TEXT" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Must be level 5 or over to send hearts." effect="-1" sound="2002" readableId="SMT_FRIEND_CANNOT_GIVE_HEART_LEVEL" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
+    <String string="The line is too long." effect="-1" sound="2002" readableId="SMT_SKILL_SCRIPT_LONG" style="SMS_CHAT_ERROR_INFO" delayTime="0" displayChat="false" />
+    <String string="Deleted {FriendName} from the Friend List." effect="-1" sound="-1" readableId="SMT_FRIEND_DELETED" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="Only usable to friends with over {point} friendship points." effect="-1" sound="-1" readableId="SMT_UNDERPOINT_SUMMON_FRIEND" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="Do you wish to deny the {UserName}'s {FriendType} friend request?" effect="-1" sound="-1" readableId="SMT_CHECK_FRIEND_REQUEST" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Server" effect="-1" sound="-1" readableId="SMT_FRIEND_SERVER" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Character" effect="-1" sound="-1" readableId="SMT_FRIEND_CHARACTER" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Change Server Name" effect="-1" sound="-1" readableId="SMT_EDIT_SERVER_NICKNAME_TITLE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Insert the server name you wish to change." effect="-1" sound="-1" readableId="SMT_EDIT_SERVER_NICKNAME_MSG" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="The name of the server is too long." effect="-1" sound="2002" readableId="SMT_SERVER_NICKNAME_LONG" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="{serverName} cannot be used." effect="-1" sound="2002" readableId="SMT_INVALID_SERVER_NICKNAME" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="201" displayChat="true" />
+    <String string="Delete Group" effect="-1" sound="-1" readableId="SMT_CONFIRM_REMOVE_GROUP_TITLE" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="If you delete the group, all the friends in that list move to General Friends List." effect="-1" sound="-1" readableId="SMT_CONFIRM_REMOVE_GROUP_MSG" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Myself" effect="-1" sound="-1" readableId="SMT_DEFAULT_MYSELF_GROUP_NAME" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Server Friend" effect="-1" sound="-1" readableId="SMT_DEFAULT_SERVER_GROUP_NAME" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Normal Friend" effect="-1" sound="-1" readableId="SMT_DEFAULT_FIRST_GROUP_NAME" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="{hour} hour and {minute} minutes left before next use." effect="-1" sound="-1" readableId="SMT_USE_HEART_TOOL_TIP" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Last Logged-In Info -" effect="-1" sound="-1" readableId="SMT_LAST_ACCESS_PREFIX" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Last Logged In: {time}" effect="-1" sound="-1" readableId="SMT_LAST_ACCESS_TIME" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Quests cannot be completed while inside Battlegrounds." effect="-1" sound="-1" readableId="SMT_CANT_COMPLETE_QUEST_IN_BATTLE_FIELD" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
+    <String string="Can send again after midnight." effect="-1" sound="-1" readableId="SMT_SEND_HEART_COOL_TIME" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Cannot learn skills inside Battlegrounds." effect="-1" sound="-1" readableId="SMT_CANT_LEARN_SKILL_IN_BATTLEFIELD" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
+    <String string="Battle Royal has begun." effect="-1" sound="-1" readableId="SMT_BATTLE_FIELD_START_FREEFIGHT" style="SYSTEM_MSG_BF_OURTEAM_MSG" delayTime="0" displayChat="false" />
+    <String string="{TimeLeft} minutes until the battleground closes." effect="-1" sound="-1" readableId="SMT_BF_TIME_REMAIN" style="SYSTEM_MSG_BF_OURTEAM_MSG" delayTime="0" displayChat="false" />
+    <String string="The skill can be acquired as a quest reward." effect="-1" sound="-1" readableId="SMT_CANT_LEARN_QUEST_SKILL" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
+    <String string="{MenuName} can only be used after the level {Level}." effect="-1" sound="-1" readableId="SMT_CANT_USE_MENUITEM" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
+    <String string="Menu cannot be used at the moment." effect="-1" sound="-1" readableId="SMT_CANT_USE_PLAYGUIDE" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
+    <String string="You do not have this quest." effect="-1" sound="-1" readableId="SMT_NO_EXIST_QUEST" style="SMS_CHAT_ERROR_INFO" delayTime="0" displayChat="false" />
     <String string="Solicitação à GM" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_REPORT_TITLE" displayChat="false" />
     <String string="Denunciar um jogador?" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_REPORT_MSG" displayChat="false" />
+    <String string="We are unable to provide access to Skycastle Features at the moment." effect="-1" sound="-1" readableId="SMT_FLOATING_CASLTE_STORE_CLOSED" style="SMS_CHAT_ERROR_INFO" delayTime="0" chatChannel="203" displayChat="true" />
     <String string="{dungeonName} : {second@durationBrief}" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_SHOW_DUNGEON_INFO_WAITING_TIME" chatChannel="201" displayChat="true" />
     <String string="{dungeonName} : está disponível" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_SHOW_DUNGEON_INFO_ENTER_PERMIT" chatChannel="201" displayChat="true" />
     <String string="{dungeonName} : está disponível {count} vezes" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_SHOW_DUNGEON_INFO_ENTER_LIMIT_COUNT" chatChannel="201" displayChat="true" />
     <String string="{battleFieldName} : está disponível {count} vezes" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_SHOW_BATTLE_FIELD_INFO_ENTER_LIMIT_COUNT" chatChannel="201" displayChat="true" />
+    <String string="Выбранные нивеоты не подходят для слияния." effect="-1" sound="-1" readableId="SMT_UNCOMBINALE_CRYSTAL" style="SMS_CHAT_INFO" delayTime="0" chatChannel="203" displayChat="true" />
 </StrSheet_SystemMessage>

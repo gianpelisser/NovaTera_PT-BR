@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="5" id="43" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="5" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="205" id="100" prevId="0" villagerId="1012">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="205" id="2" prevId="0" villagerId="1012">
          
+         
         <Page social="5">Muito bem, o próximo passo aqui será {@LinkCreature:5#20#Raguga}. Isso pode muito bem ser a chave para acabar com os tuwangis.&lt;BR&gt;&lt;BR&gt;Você ainda precisa de uma conversa chique ou pode simplesmente ir cuidar disso? Parece que você já sabe o que fazer.</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="3" prevId="2" villagerId="1012">
          
+         
         <Page social="5">Finalmente! Este deve ser o fim de nossa luta com os tuwangis! Vocês realmente nos ajudaram muito. Muito obrigado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="4" villagerId="1012">
          
+         
         <Page social="0">Ele ainda está de pé? &lt;BR&gt;&lt;BR&gt;Talvez você precisasse das palavras sofisticadas, afinal.</Page>
+    
     
     </Text>
 </QuestDialog>

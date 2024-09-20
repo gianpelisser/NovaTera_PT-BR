@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="45" id="30" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="45" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="245" id="100" prevId="0" villagerId="1026">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="245" id="2" prevId="0" villagerId="1026">
          
+         
         <Page social="4">Já que você está aqui, os {@Creature:45#3004#athakela stalkers} e os {@Creature:45#3003#kelba rippers} estão se aproximando demais para seu conforto.&lt;BR&gt;&lt;BR&gt;Eu gostaria que você os desencorajasse a se aproximarem mais. E, se estiver indo para o sul daqui, dê uma passada em Pokara em {@Rgn:45009$$Camp Insanity}.</Page>
+    
     
     </Text>
     <Text huntingZoneId="245" id="3" prevId="2" villagerId="1029">
          
+         
         <Page social="4">Setahl lhe enviou? Que bom amigo ele é. E um bom cientista também. Obrigado.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,39 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="7" id="4" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="207" id="100" prevId="0" villagerId="1001">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1001">
         <Page social="0">General Samael taught you how to use glyphs as a reward for your achievements in the Celestial Hills.</Page>
-    
     </Text>
-    <Text huntingZoneId="207" id="2" prevId="0" villagerId="1001">
-         
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1001">
         <Page social="4">Take this to Dougal in Velika. Tell him I sent you. Please hurry.</Page>
-    
     </Text>
-    <Text huntingZoneId="63" id="3" prevId="2" villagerId="1160">
-         
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1160">
         <Page social="4">It's rare to see such glowing words written in Mattin's hand. You certainly impressed him, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Deliver this little epistle to Samael. He's as hard to win over as Mattin, but if anything can do it, this report can.&lt;BR&gt;&lt;BR&gt;Well done, &lt;PCNAME&gt;. This is exactly the kind of action we need from our soldiers right now.</Page>
-    
     </Text>
-    <Text huntingZoneId="63" id="4" prevId="3" villagerId="1137">
-         
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1137">
         <Page social="4">Hmm. Well, this is quite a report. I guess you're not the keener I expected. I underestimated you. I promise I won't do that in the future.&lt;BR&gt;&lt;BR&gt;We need more than just soldiers, we need leaders. Dougal thinks you're ready for a commission. I'm hardly going to argue against it, not after deeds such as these. Come, it's not every day you get to be a hero.</Page>
-    
     </Text>
-    <Text huntingZoneId="63" id="5" villagerId="1137">
-         
+    <Text id="5" huntingZoneId="63" villagerId="1137">
         <Page social="0">Do you have something to report?</Page>
-    
     </Text>
-    <Text huntingZoneId="63" id="6" prevId="4" villagerId="1138">
-         
+    <Text id="6" huntingZoneId="63" prevId="4" villagerId="1138">
         <Page social="4">&lt;PCNAME&gt;! What took you so long?&lt;BR&gt;&lt;BR&gt;let's start the ceremony.</Page>
-    
     </Text>
-    <Text huntingZoneId="63" id="7" prevId="6" villagerId="1138">
-         
+    <Text id="7" huntingZoneId="63" prevId="6" villagerId="1138">
         <Page social="4">Now, as an officer, you should learn how to use glyphs.&lt;BR&gt;&lt;BR&gt;Glyphs have different powers according to the classes. Glyphs will grant additional power to your skills.</Page>
-    
     </Text>
 </QuestDialog>

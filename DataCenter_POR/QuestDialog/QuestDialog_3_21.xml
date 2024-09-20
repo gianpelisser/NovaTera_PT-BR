@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="3" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="3" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="203" id="100" prevId="0" villagerId="1004">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="203" id="2" prevId="0" villagerId="1004">
          
+         
         <Page social="4">Esses malditos {@LinkCreature:3#1#capturadores de bico de pedra} continuam nos incomodando. Não é que eles sejam perigosos, mas são uma distração que não precisamos aqui em Blood Run.&lt;BR&gt;&lt;BR&gt;Faça-me um favor, vá até lá e mate esses desgraçados e me traga as penas da cauda deles. Sempre podemos usar mais penas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="203" id="3" prevId="2" villagerId="1004">
          
+         
         <Page social="4">Bom trabalho. Isso nos ajudará a nos concentrar em manter os devas contidos aqui. Não podemos nos dar ao luxo de deixá-los passar para Lumbertown.</Page>
+    
     
     </Text>
     <Text huntingZoneId="203" id="4" villagerId="1004">
          
+         
         <Page social="0">Não se preocupe. Eles são inofensivos. Bem, quase inofensivos. Vá pegá-los.</Page>
+    
     
     </Text>
 </QuestDialog>

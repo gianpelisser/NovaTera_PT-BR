@@ -1,44 +1,60 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="51" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="51" huntingZoneId="30" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="230" id="100" prevId="0" villagerId="1047">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="230" id="2" prevId="0" villagerId="1047">
          
+         
         <Page social="1">Os repositórios de sabedoria registram o que aconteceu antes. Suspeito que seu amigo no Bastião, {@LinkCreature:71#1101$$Alais}, prefira saber o que está por vir.&lt;BR&gt;&lt;BR&gt;Como forma de agradecê-lo por tê-lo enviado a mim, revelarei onde meu clã colocou {@LinkCreature:230#1095#repositórios de visão} em todo o Refúgio de Balder.&lt;BR&gt;&lt;BR&gt;Aprenda a orientação profética que esses repositórios possuem e depois conte a Alais o que aprendeu.&lt;BR&gt;&lt;BR&gt;Não preciso ser um profeta para prever que ele desmaiará na hora.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="3" prevId="2" villagerId="1095">
          
+         
         <Page social="1">(Este repositório diz: Mystel, deusa do destino, avisou o deus Balder que grandes forças logo destruiriam o reino celestial e diminuiriam muito os deuses sobreviventes. Balder temia que o próprio sol não sobrevivesse à destruição vindoura, então convocou os sábios baraka, liderados pelo Alto Ancião Vernicus e seu filho, Nandu.)&lt;BR&gt;&lt;BR&gt;(O resto está escrito em uma língua que você não consegue ler).</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="4" prevId="2" villagerId="1096">
          
+         
         <Page social="1">(Este repositório diz: O sábio baraka construiu o templo para guardar um presente de Balder, o Espelho do Sol.&lt;BR&gt;&lt;BR&gt;Caso o mundo escureça ou os inimigos o ameacem, um verdadeiro herói entrará no templo e empunhará o espelho com retidão.)&lt;BR&gt;&lt;BR&gt;(O resto está escrito em uma língua que você não consegue ler.)</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="5" prevId="2" villagerId="1097">
          
+         
         <Page social="1">(Este repositório diz: Os baraka ficaram preocupados, pois, apesar de sua sabedoria, como poderiam saber a identidade do verdadeiro herói? A Deusa do Destino, Mystel, aliviou seus temores, dizendo que o nome do verdadeiro herói seria inscrito no {@LinkCreature:226#1102$$cenotáfio}, e o herói carregaria uma chave.)&lt;BR&gt;&lt;BR&gt;(O resto está escrito em uma língua que você não consegue ler).</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="6" prevId="2" villagerId="1098">
          
+         
         <Page social="1">(Este repositório diz: A deusa Mystel disse ainda: "Concederei longevidade ao seu clã, para que vocês possam testemunhar esse dia em primeira mão. Enquanto o Padrão de Balder fluir no céu e o Farol do Sol brilhar, vocês estarão protegidos. Somente quando o templo abrir, vocês envelhecerão um instante sequer.")&lt;BR&gt;&lt;BR&gt;(O resto está escrito em uma língua que você não consegue ler).</Page>
+    
     
     </Text>
     <Text huntingZoneId="71" id="7" prevId="3" villagerId="1101">
          
+         
         <Page social="1">{&lt;@LinkCreature:230#1047$$Nandu} lhe mostrou o quê? &lt;BR&gt;&lt;BR&gt;Então Balder disse ao baraka para construir um templo? Já tínhamos ouvido profecias semelhantes antes.&lt;BR&gt;&lt;BR&gt;Também a parte sobre o Padrão de Balder - aqueles glyphs e linhas no céu. Mas o Farol do Sol é novo. Tal poder... tão antigo, tão imenso. O resto do Mysterium deveria saber disso imediatamente.</Page>
+    
     
     </Text>
     <Text huntingZoneId="71" id="8" villagerId="1101">
          
+         
         <Page social="0">Você está procurando algo. Eu posso dizer.</Page>
+    
     
     </Text>
 </QuestDialog>

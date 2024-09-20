@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="42" id="39" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="42" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="242" id="100" prevId="0" villagerId="1042">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="242" id="2" prevId="0" villagerId="1042">
          
+         
         <Page social="4">Além de desvendar essas conspirações intermináveis, também temos tesouros para encontrar. O esforço de guerra depende de nós, e os {@LinkCreature:42#210#Dagonite crusaders} estão dificultando as coisas. Vamos dificultar as coisas para eles, por sua vez, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
     <Text huntingZoneId="242" id="3" prevId="2" villagerId="1042">
          
+         
         <Page social="5">Sempre ficamos felizes em recompensar o trabalho bem feito, e esse foi realmente bem feito.</Page>
+    
     
     </Text>
     <Text huntingZoneId="242" id="4" villagerId="1042">
          
+         
         <Page social="0">Nunca encontraremos esses tesouros se tivermos que passar por {@LinkCreature:42#210#Dagonite crusaders} em todas as salas, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
 </QuestDialog>

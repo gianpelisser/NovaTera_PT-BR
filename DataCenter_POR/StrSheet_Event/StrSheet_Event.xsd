@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns="https://vezel.dev/novadrop/dc/StrSheet_Event" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="https://vezel.dev/novadrop/dc" elementFormDefault="qualified" targetNamespace="https://vezel.dev/novadrop/dc/StrSheet_Event" xsi:schemaLocation="https://vezel.dev/novadrop/dc ../DataCenter.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="StrSheet_Event">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="String" type="StrSheet_Event_String" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="StrSheet_Event" type="StrSheet_Event" />
+  <xs:complexType dc:keys="id" name="StrSheet_Event_String">
+    <xs:attribute name="id" type="xs:int" />
+    <xs:attribute name="string" type="xs:string" />
+  </xs:complexType>
+</xs:schema>

@@ -1,34 +1,46 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="191" id="5" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="191" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="191" id="100" prevId="0" villagerId="2108">
          
+         
         <Page social="0">Rhodos queria uma maneira de libertar os partas da magia arquidavana. Tirene, um pesquisador de Mysterium da Vanguard Initiative, examinou um selo arquidevânico e disse que talvez fosse possível salvar os partas. Aliviado, Rhodos jurou vingança contra Dakuryon.</Page>
+    
     
     </Text>
     <Text huntingZoneId="191" id="2" prevId="0" villagerId="2108">
          
+         
         <Page social="4">As últimas palavras de Jitt mudam tudo. Não podemos simplesmente massacrar os parthains. Temos de encontrar outro caminho.&lt;BR&gt;&lt;BR&gt;Não sei nada sobre magia. Encontre alguém que saiba e me traga a resposta que estou procurando.</Page>
+    
     
     </Text>
     <Text huntingZoneId="191" id="3" prevId="2" villagerId="2109">
          
+         
         <Page social="4">Se o feitiço do arquidevano for suspenso pouco antes da morte, talvez possamos desfazê-lo em massa. No entanto, deve haver um foco. Essa é a chave.&lt;BR&gt;&lt;BR&gt;O selo! Examine vários outros partas caídos. Peguem qualquer coisa que pareça fora do lugar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="191" id="4" prevId="3" villagerId="2109">
          
+         
         <Page social="4">Um poder maligno habita em seu interior.&lt;BR&gt;&lt;BR&gt;Dê-me um momento para estudá-lo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="191" id="5" prevId="4" villagerId="2109">
          
+         
         <Page social="4">Sou um arcanista, mas não um soldado.&lt;BR&gt;&lt;BR&gt;A magia que transforma alguém em um demokron não pode ser desfeita, mas talvez possamos libertar essas pobres pessoas dos arquidevas.&lt;BR&gt;&lt;BR&gt;Talvez.&lt;BR&gt;&lt;BR&gt;Com a ajuda dos baraka, devemos tentar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="191" id="6" prevId="5" villagerId="2108">
          
+         
         <Page social="4">Não entendo de magia, mas entendi Tirene. Talvez haja esperança para meu povo.&lt;BR&gt;&lt;BR&gt;Dakuryon pagará por colocar meus irmãos contra mim!</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,56 +1,77 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="605" id="3" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="605" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="63" id="100" prevId="0" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="2" prevId="0" villagerId="3003">
          
+         
         <Page social="4">Tem algum tempo livre, &lt;PCNAME&gt;? &lt;NEXTPAGEBUTTON&gt;"De fato, tenho."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">{@LinkCreature:63#3002#Taratia} precisa de uma mãozinha. A coitada só tem duas - como ela vive me dizendo. O que eu não daria por um cefalópode treinado.&lt;BR&gt;&lt;BR&gt;De qualquer forma, tenho certeza de que ela pode colocar suas mãos ociosas para trabalhar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="3002">
          
+         
         <Page social="4">A {@LinkCreature:63#3003#Elthienne} lhe disse que eu não conseguiria lidar com isso sozinha? Ela tem muita coragem. Vou mostrar a ela do que sou feito, ela vai ver...&lt;BR&gt;&lt;BR&gt;Desculpe. Estou um pouco nervoso hoje. Tenho um "amigo" que está me visitando de fora da cidade.&lt;BR&gt;&lt;BR&gt;Tudo bem, então vá em frente.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="4" prevId="2" villagerId="3002">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="5" prevId="2" villagerId="3002">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="6" prevId="2" villagerId="3002">
          
+         
         <Page social="5">Obrigado, amigo.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} tem uma coisinha para você.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="7" villagerId="3002">
          
+         
         <Page social="0">Onde está a fibra de shetla que pedi para você pegar? Isso está me deixando com uma aparência ruim, você percebe.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="8" prevId="6" villagerId="3002">
          
+         
         <Page social="5">Ah, esse é um couro bruto de alta qualidade. Bom trabalho.&lt;BR&gt;&lt;BR&gt;Você conhece o procedimento. {@LinkCreature:63#3003#Elthienne} tem a chave do tesouro.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="9" villagerId="3002">
          
+         
         <Page social="0">Você conseguiu a pele áspera? Meu couro ficará duro se você não se mexer.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="10" prevId="8" villagerId="3003">
          
+         
         <Page social="4">Obrigado, &lt;PCNAME&gt;! Taratia tem que agradecer a você por continuar trabalhando.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,23 +1,31 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="48" id="44" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="48" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="248" id="100" prevId="0" villagerId="1041">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="248" id="2" prevId="0" villagerId="1041">
          
+         
         <Page social="4">&lt;PCNAME&gt;! Preciso de sua ajuda - agora mesmo! &lt;NEXTPAGEBUTTON&gt;"O que há de errado?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Os argons atacaram um transporte Shariar em algum lugar entre Argon Bulwark e Carnage Vale.&lt;BR&gt;&lt;BR&gt;Suas ordens são localizar o transporte e ajudar os sobreviventes. Especialmente... uh, apenas se apresse.&lt;NEXTPAGEBUTTON&gt;"Partirei imediatamente."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="3" prevId="2" villagerId="1042">
          
+         
         <Page social="6">Não esperava ver ninguém tão rapidamente. Presumo que devo agradecer a Truhna por isso.&lt;NEXTPAGEBUTTON&gt;"Alguma vítima?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Não houve nenhum acidente, mas o ataque terrestre subsequente nos custou muitas vidas.&lt;BR&gt;&lt;BR&gt;Montamos uma posição defensável e tenho batedores se movendo em direção ao nosso alvo original, mas poderíamos usar alguma ajuda se você estiver disposto a isso.</Page>
+    
     
     </Text>
 </QuestDialog>

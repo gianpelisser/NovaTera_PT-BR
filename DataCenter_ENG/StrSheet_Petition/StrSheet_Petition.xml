@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Petition xmlns="https://vezel.dev/novadrop/dc/StrSheet_Petition" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Petition StrSheet_Petition.xsd">
+<StrSheet_Petition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Petition StrSheet_Petition.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Petition">
     <String id="0" string="Select a Category" />
-    <String id="100" string="The TERA operations team solves in-game problems that players cannot solve themselves. We send answers through message feedback. For fastest processing, please read instructions carefully when submitting your inquiry. Do not skip any required fields! Inquiries are handled in the order received, with the exception of serious outages of service. Please be patient while waiting for a response; we'll do all we can to solve your problem quickly. For the fastest service, please use the TERA Customer Help site, with useful information and quick chat access to service representatives." />
+    <String id="100" string="The TERA operations team solves in-game problems that players cannot solve themselves. We send answers through message feedback. For fastest processing, please read instructions carefully when submitting your inquiry. Do not skip any required fields! Inquiries are handled in the order received, with the exception of serious outages of service. Please be patient while waiting for a response; we'll do all we can to solve your problem quickly. For the fastest service, please use the TERA Customer Help site with useful information: http://support.tera-europe.com." />
     <String id="1" string="Login/Movement" />
     <String id="101" string="Login and movement problems are top priorities. To save yourself unnecessary waiting, if your character won't move, please try either a teleport scroll or the Unstuck command on the System menu before you submit a petition." />
     <String id="10" string="Crashes/Login Errors" />
@@ -25,7 +24,7 @@
     <String id="3" string="Game Related Inquires" />
     <String id="103" string="Heard about TERAPEDIA, our website full of TERA information? Please check out TERAPEDIA before you send a gameplay inquiry." />
     <String id="30" string="Help with Quests" />
-    <String id="130" string="Pressing the L key opens the Quest Log window with information on quests and NPC locations. Please check your Log first when you're stuck in a quest. If you still wish to inquire about a quest, please write the title of the quest and describe in detail the section you are having trouble with." />
+    <String id="130" string="Pressing [L] opens the Quest Log window with information on quests and NPC locations. Please check your Log first when you're stuck in a quest. If you still wish to inquire about a quest, please write the title of the quest and describe in detail the section you are having trouble with." />
     <String id="1006" string="Quest Title" />
     <String id="31" string="Miscellaneous Game Inquiries" />
     <String id="131" string="GMs cannot disclose any gameplay or story information (including formulas or statistical information) beyond what is available to the public on our homepage or the TERAPEDIA." />

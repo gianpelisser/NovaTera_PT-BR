@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="26" id="26" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="26" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="226" id="100" prevId="0" villagerId="1106">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="226" id="2" prevId="0" villagerId="1106">
          
+         
         <Page social="5">Preciso manter os animais afastados por tempo suficiente para reforçar as cercas. Meu treinamento incluiu um remédio que afasta os animais, mas ele precisa de minério normetal como reagente.&lt;BR&gt;&lt;BR&gt;Sua ajuda será muito apreciada. Não desejo causar danos indevidos aos animais. Traga-me o normetal e eu farei bom uso dele.</Page>
+    
     
     </Text>
     <Text huntingZoneId="226" id="3" prevId="2" villagerId="1106">
          
+         
         <Page social="5">Sua pressa é muito apreciada. Vou revestir o minério com sangue e...&lt;BR&gt;&lt;BR&gt;Puxa! Que fedor! Não é de se admirar que os animais o evitem.&lt;BR&gt;&lt;BR&gt;Obrigado, &lt;PCNAME&gt;. Os Guardiões da Floresta tomarão nota de sua consideração.</Page>
+    
     
     </Text>
     <Text huntingZoneId="226" id="4" villagerId="1106">
          
+         
         <Page social="0">Se não conseguirmos manter os animais afastados, serei forçado a matá-los. Ajude-me a poupar suas vidas e me traga o minério normetal.</Page>
+    
     
     </Text>
 </QuestDialog>

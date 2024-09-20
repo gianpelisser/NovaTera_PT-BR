@@ -1,11 +1,20 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="60412001" string="Você não está na minha lista" />
-    <String id="60412002" string="Fique em segurança!" />
-    <String id="60412003" string="Como eu consegui sobreviver sem você aqui?" />
-    <String id="60412004" string="&quot;Não diga mais nada.&quot;" />
-    <String id="60412005" string="Vá até {@LinkCreature:230#3026#Lilis} perto do {@Rgn:9017001$$Sun Lighthouse}." />
-    <String id="60412006" string="Destrua o {@LinkCreature:417#2001#old keeper} no sexto andar do {@Rgn:9017001$$Sun Lighthouse}." />
-    <String id="60412007" string="&quot;Boa sorte!&quot;" />
-    <String id="60412008" string="Retorne para {@LinkCreature:230#3026#Lilis}." />
+    <String id="60410001" string="Limpeza do galpão" />
+    <String id="60410002" string="Temos que mover as relíquias do {@Rgn:9017001$$Sun Lighthouse} para um lugar seguro." />
+    <String id="60410003" string="Seren cuida de você." />
+    <String id="60410004" string="" />
+    <String id="60410005" string="" />
+    <String id="60410006" string="" />
+    <String id="60410007" string="Encontre {@LinkCreature:230#3025#Maun} em frente ao {@Rgn:9017001$$Sun Lighthouse}." />
+    <String id="60410008" string="&quot;Eu posso fazer isso.&quot;" />
+    <String id="60410009" string="&quot;Obrigado!&quot;" />
+    <String id="60410010" string="Entre no {@Rgn:9017001$$Sun Lighthouse} e resgate relíquias antigas." />
+    <String id="60410011" string="Entregue as relíquias antigas para {@LinkCreature:230#3025#Maun}." />
+    <String id="60410012" string="&quot;Não foi nada.&quot;" />
+    <String id="60410013" string="Entre no {@Rgn:9017001$$Sun Lighthouse} e resgate relíquias antigas." />
+    <String id="60410014" string="Entregue as relíquias antigas para {@LinkCreature:230#3025#Maun}." />
+    <String id="60410015" string="&quot;Obrigado, Maun.&quot;" />
+    <String id="60410016" string="Entre no {@Rgn:9017001$$Sun Lighthouse} e resgate relíquias antigas." />
+    <String id="60410017" string="Entregue as relíquias antigas para {@LinkCreature:230#3025#Maun}." />
 </StrSheet_Quest>

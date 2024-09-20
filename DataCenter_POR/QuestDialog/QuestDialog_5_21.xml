@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="5" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="5" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="203" id="100" prevId="0" villagerId="1007">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="203" id="2" prevId="0" villagerId="1007">
          
+         
         <Page social="0">Você já esteve em {@Rgn:60001}?&lt;BR&gt;&lt;BR&gt;Se você passar por lá, fale com Tomba. Ele é do Pântano de Tuwangi, e há algum tipo de crise por lá.&lt;BR&gt;&lt;BR&gt;O pântano é um lugar único, então sugiro que você o explore mesmo assim.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:60#1099} pode guiá-lo até lá.</Page>
+    
     
     </Text>
     <Text huntingZoneId="60" id="3" prevId="2" villagerId="1099">
          
+         
         <Page social="0">Eu sou do lugar que vocês chamam de Tuwangi Mire. Muitos bons tuwangis vivem lá.&lt;BR&gt;&lt;BR&gt;Mas os tuwangis estão loucos agora. Os tuwangis expulsam os humanos e querem ser os reis e rainhas do mundo. Eu sou diferente. Eu não gosto de brigar. Os tuwangis perdem se lutarem contra forasteiros.&lt;BR&gt;&lt;BR&gt;Eu lhe envio um lugar chamado Marshlands. Vá se encontrar com {@LinkCreature:205#1017#Rathe}. Diga a Rathe que você veio para deter os tuwangis.</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="4" prevId="3" villagerId="1017">
          
+         
         <Page social="5">Os tuwangis locais estão se lamentando como se o mundo estivesse prestes a acabar e estão implorando a todos que portam uma arma que venham para o pântano.&lt;BR&gt;&lt;BR&gt;Mas, na realidade, não há nada além de tédio aqui no Pântano Tuwangi. Os tuwangi daqui são bastante dóceis - é com os que deixaram a área e voltaram que você deve se preocupar.</Page>
+    
     
     </Text>
 </QuestDialog>

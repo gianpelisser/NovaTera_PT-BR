@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="34" id="42" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="34" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="234" id="100" prevId="0" villagerId="1003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="234" id="2" prevId="0" villagerId="1003">
          
+         
         <Page social="4">Não consigo decidir o que é pior - não sentir os dedos dos pés ou esses relatos de que os {@LinkCreature:34#1100#icewalker barsicores} atacaram outra equipe de prospecção.&lt;BR&gt;&lt;BR&gt;O gelo deve fluir, então vá até lá e mate os barsicores. Vou pedir aos arcanistas que encantem minhas meias.</Page>
+    
     
     </Text>
     <Text huntingZoneId="234" id="3" prevId="2" villagerId="1003">
          
+         
         <Page social="4">Os barsicores são criaturas terríveis. Os gigantes gostam de usá-los como escaramuçadores e os devas os usam como distração.&lt;BR&gt;&lt;BR&gt;Eu só quero usá-los como estátuas de gelo realistas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="234" id="4" villagerId="1003">
          
+         
         <Page social="0">Obviamente, não posso ir matar os barsicores. Meus dedos dos pés se quebrariam e então onde eu estaria?&lt;BR&gt;&lt;BR&gt;Limpar, é aí!</Page>
+    
     
     </Text>
 </QuestDialog>

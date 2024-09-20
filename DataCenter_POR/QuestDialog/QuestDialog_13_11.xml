@@ -1,34 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="11" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="13" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0">Você recebeu ordens para ser transferido para o Tainted Gorge e partir para a ofensiva. No caminho, você encontrou uma mensageira acidentada chamada Chione, que lhe pediu para entregar algumas ordens para ela. Você entregou as ordens a Riel e se preparou para a próxima etapa.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="4">Acho que Elleon pode ter ido explorar o desfiladeiro contaminado. Se ele não estiver lá, provavelmente ainda podemos encontrar uma pista sobre o que ele está procurando.&lt;BR&gt;&lt;BR&gt;Obtenha mais instruções de Adria.</Page>
+    
     
     </Text>
     <Text huntingZoneId="64" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="4">Muito bem, quero que você vá até o Desfiladeiro Maculado. Tenho certeza de que haverá algum tipo de pista por lá.&lt;BR&gt;&lt;BR&gt;De qualquer forma, é provavelmente uma boa ideia deslocar algumas de nossas tropas para o Desfiladeiro contaminado. Continuamos tentando nos retirar, mas, de alguma forma, a ameaça lá fora nunca diminui.&lt;BR&gt;&lt;BR&gt;Fale com Bipi primeiro, no entanto. Ela precisa de ajuda.</Page>
+    
     
     </Text>
     <Text huntingZoneId="64" id="4" prevId="3" villagerId="1033">
          
+         
         <Page social="4">&lt;BR&gt;&lt;BR&gt;Eu preciso de ajuda. O dirigível de Chione caiu a caminho do desfiladeiro contaminado. Ela estava carregando suprimentos vitais e o relatório de Leander, mas não conseguiu sair de um forte de travesseiros.&lt;BR&gt;&lt;BR&gt;Vá para o leste a partir da Base da Torre e se encontre com ela.&lt;BR&gt;&lt;BR&gt;O tempo é essencial.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="5" prevId="4" villagerId="1007">
          
+         
         <Page social="4">O relatório? Ah, sim, está seguro e lacrado! &lt;BR&gt;&lt;BR&gt;Edan deve lê-lo. Mas estou um pouco ocupada aqui, então não posso levá-lo adiante.&lt;BR&gt;&lt;BR&gt;Talvez você possa!</Page>
     
-    </Text>
-    <Text huntingZoneId="213" id="6" prevId="5" villagerId="1134">
-         
-        <Page social="4">O relatório de Leander, hein? Vamos dar uma olhada....&lt;BR&gt;&lt;BR&gt;Demônios, como suspeitávamos - embora não imaginássemos que fossem tão poderosos. O Desfiladeiro Maculado está repleto de nossos inimigos, mas eles não estão lutando contra nós. Estão procurando alguma coisa.&lt;BR&gt;&lt;BR&gt;Seja o que for, é melhor chegarmos lá antes deles!</Page>
     
     </Text>
 </QuestDialog>

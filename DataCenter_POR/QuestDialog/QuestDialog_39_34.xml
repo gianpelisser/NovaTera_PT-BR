@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="39" id="34" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="39" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="239" id="100" prevId="0" villagerId="1015">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="239" id="2" prevId="0" villagerId="1015">
          
+         
         <Page social="4">Recebemos a notícia de que vários aldeões de Frontera estão desaparecidos e o magistrado acha que os aracnídeos os raptaram.&lt;BR&gt;&lt;BR&gt;Procure-os nas cavernas - salve-os se puder.</Page>
+    
     
     </Text>
     <Text huntingZoneId="239" id="3" prevId="2" villagerId="1017">
          
+         
         <Page social="4">(O cadáver parece terrivelmente mutilado.)</Page>
+    
     
     </Text>
     <Text huntingZoneId="239" id="4" prevId="3" villagerId="1018">
          
+         
         <Page social="4">(Um odor venenoso emana do corpo).</Page>
+    
     
     </Text>
     <Text huntingZoneId="239" id="5" prevId="4" villagerId="1025">
          
+         
         <Page social="4">Os aldeões estavam em carne morta no momento em que os aracnídeos os agarraram.&lt;BR&gt;&lt;BR&gt;É uma pena, mas seus esforços para encontrá-los devem ser elogiados. Obrigado.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="2" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="2" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="60" id="100" prevId="0" villagerId="1019">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="60" id="2" prevId="0" villagerId="1019">
          
+         
         <Page social="4">&lt;PCNAME&gt;, estou cansado das desculpas de todos por aqui. "As fadas tornam o registro impossível!" "Não podemos cumprir nossa cota!" "Meu braço foi cortado!" Boo hoo!&lt;BR&gt;&lt;BR&gt;Agora, meu capataz, &lt;font color='#660000'&gt;Weldon&lt;/font&gt;, diz que não consegue consertar uma simples ponte quebrada! Que chorão! &lt;BR&gt;&lt;BR&gt;Leve essas ferramentas para ele na &lt;font color='#660000'&gt;Paliçada dos Lenhadores&lt;/font&gt;, pode ser? &lt;BR&gt;&lt;BR&gt;Talvez assim ele consiga descobrir uma maneira de tirar alguma madeira da floresta.</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="4">Lennert está fora de si! Ele é um solucionador de problemas... para problemas que eu não tenho. Eu envio mensagens como "os centauros pisotearam toda a minha equipe e arruinaram a ponte", e o que recebo? Um carregamento de novos machados e serras! &lt;BR&gt;&lt;BR&gt;Nada vai ser feito por aqui até que as criaturas da floresta se acalmem.&lt;BR&gt;&lt;BR&gt;Pode me dar uma mão, &lt;PCNAME&gt;? Nunca vou conseguir nada de útil de Lennert.</Page>
+    
     
     </Text>
 </QuestDialog>

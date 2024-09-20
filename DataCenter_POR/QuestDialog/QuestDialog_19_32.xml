@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="19" id="32" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="19" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="219" id="100" prevId="0" villagerId="1016">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="219" id="2" prevId="0" villagerId="1016">
          
+         
         <Page social="4">Já que você está aqui... sabe, provavelmente seria melhor eliminar o líder deles.&lt;BR&gt;&lt;BR&gt;O nome dele é Sidurek, e parece que ele apareceu na mesma época em que nosso povo começou a ficar doente... quando eles começaram a se transformar... &lt;NEXTPAGEBUTTON&gt;&amp;quot;Então, matá-lo deve nos dar outra pista... &amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Espero que sim.&lt;BR&gt;&lt;BR&gt;{@linkcreature:19#4009#Sidurek} provavelmente está bem dentro do acampamento dos rebeldes, portanto, tenha cuidado com seus guardas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="3" prevId="2" villagerId="1016">
          
+         
         <Page social="4">Ele está morto? Está bem. Isso é bom. Você encontrou alguma pista? &lt;BR&gt;&lt;BR&gt;Uma carta? Dê-a aqui.&lt;BR&gt;&lt;BR&gt;Fala de alguém chamado Malachai, de um plano e de um item que Sidurek recebeu. &lt;BR&gt;&lt;BR&gt;Temos que descobrir mais.</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="4" villagerId="1016">
          
+         
         <Page social="0">Você deve destruir Sidurek antes que as coisas fiquem ainda mais fora de controle.</Page>
+    
     
     </Text>
 </QuestDialog>

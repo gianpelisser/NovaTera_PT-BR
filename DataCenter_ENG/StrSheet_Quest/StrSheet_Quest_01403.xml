@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4941001" string="{@Creature:76#1011}’s Note" />
-    <String id="4941002" string="&quot;I wonder what this one says?&quot;" />
-    <String id="4941003" string="Look for Linkia's next clue in a stone grave." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4937001" string="Advanced Herbology" />
+    <String id="4937002" string="The sprouts grow all around the {@Rgn:49005}." />
+    <String id="4937003" string="I must thank the tree for these gifts." />
+    <String id="4937004" string="&quot;Happy to be of service.&quot;" />
+    <String id="4937005" string="Collect casian sprouts from around the Casian Tree." />
+    <String id="4937006" string="Give the sprouts to {@LinkCreature:249#1013}." />
 </StrSheet_Quest>

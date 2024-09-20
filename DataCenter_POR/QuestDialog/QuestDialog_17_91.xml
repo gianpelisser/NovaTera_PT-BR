@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="17" id="91" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="17" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="67" id="100" prevId="0" villagerId="1015">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="67" id="2" prevId="0" villagerId="1015">
          
+         
         <Page social="0">Tenho uma missão simples para você, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Eliminar os cultistas de Heavens Fall que estão lutando contra nossa guarnição na boca da Ravina de Paraanon.&lt;BR&gt;&lt;BR&gt;Foque-se nos {@LinkCreature:17#300442#guardas de Heavens Fall}, {@LinkCreature:17#300552#destruidores de cabeça de barril} e {@linkcreature:17#301220#elins mutados}.&lt;BR&gt;&lt;BR&gt;Apresentem-se a Blaessa no Posto Avançado de Embattled quando sua missão estiver concluída.</Page>
+    
     
     </Text>
     <Text huntingZoneId="217" id="3" prevId="2" villagerId="1008">
          
+         
         <Page social="5">Graças a você, os cultistas não nos incomodarão tão cedo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="217" id="4" villagerId="1008">
          
+         
         <Page social="0">Parece que você não completou sua missão.</Page>
+    
     
     </Text>
 </QuestDialog>

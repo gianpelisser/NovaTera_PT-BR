@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="38" id="26" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="38" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="238" id="100" prevId="0" villagerId="1024">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="238" id="2" prevId="0" villagerId="1024">
          
+         
         <Page social="12">Estamos cercados por hienas. Não são hienas comuns, mas os animais de estimação de alguém.&lt;BR&gt;&lt;BR&gt;Acho que elas estão nos espionando por causa dos príons - elas se aproximam sorrateiramente quando acham que não estou prestando atenção. Elas observam... escutam...&lt;BR&gt;&lt;BR&gt;Eu pagaria a qualquer um que nos livrasse delas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="238" id="3" prevId="2" villagerId="1024">
          
+         
         <Page social="8">Finalmente! Eles não levarão mais histórias para seus mestres príons.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,64 +1,88 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="601" id="12" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="601" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="77" id="100" prevId="0" villagerId="3004">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="77" id="2" prevId="0" villagerId="3004">
          
+         
         <Page social="4">Os pesquisadores do {@Rgn:46016} continuam encontrando obstáculos de pesquisa do tipo argons.&lt;BR&gt;&lt;BR&gt;Estamos tentando identificar os pontos fracos dos argonss, mas nossos pesquisadores são estudiosos, não venadores. Eles não são treinados para a batalha.&lt;BR&gt;&lt;BR&gt;Vá até lá e encontre-se com Ashinne. Ela saberá como você pode ajudar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="3" prevId="2" villagerId="3003">
          
+         
         <Page social="4">O Invalesco agradece toda a ajuda.&lt;BR&gt;&lt;BR&gt;Necessitamos principalmente da aquisição forçada de materiais de pesquisa. Às vezes, precisaremos de amostras de argonomorfos {@LinkCreature:46#301#sikandaris}, {@LinkCreature:46#303#blood fiends} ou {@LinkCreature:46#304#jalmaraks}.&lt;BR&gt;&lt;BR&gt;As necessidades de pesquisa mudam de um dia para o outro. Tente se adaptar a elas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="4" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="246" id="5" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="246" id="6" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="246" id="7" prevId="2" villagerId="3003">
          
+         
         <Page social="4">Vejam só! Penas contaminadas de {@LinkCreature:46#301#argonomorph sikandaris}. Belos exemplares, também.&lt;BR&gt;&lt;BR&gt;Estes espécimes alegram o coração deste estudioso!</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="8" villagerId="3003">
          
+         
         <Page social="0">Estamos curiosos sobre o {@LinkCreature:46#301#argonomorph sikandaris} encontrado no {@Rgn:46008}.&lt;BR&gt;&lt;BR&gt;Gostaríamos de estudar suas penas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="9" prevId="7" villagerId="3003">
          
+         
         <Page social="4">Que fedor! &lt;BR&gt;&lt;BR&gt;Não deveríamos nos queixar, já que encomendamos os corações, mas...&lt;BR&gt;&lt;BR&gt;Ah, os sacrifícios que fazemos na busca do conhecimento.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="10" villagerId="3003">
          
+         
         <Page social="0">Queremos examinar os corações de {@LinkCreature:46#303#argonomorph blood fiends}. Para transformar uma criatura tão perversa, certamente aprenderemos algo surpreendente.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="11" prevId="9" villagerId="3003">
          
+         
         <Page social="4">Intrigante.&lt;BR&gt;&lt;BR&gt;Seus focos parecem ativos, mas não da mesma forma que se pode encontrar em Sylvanoth, por exemplo.&lt;BR&gt;&lt;BR&gt;Vamos dar uma olhada nisso. Muito obrigado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="12" villagerId="3003">
          
+         
         <Page social="0">Há um grupo de {@LinkCreature:46#304#argonomorph jalmaraks} no {@Rgn:46007}.&lt;BR&gt;&lt;BR&gt;Estamos curiosos para saber até que ponto a ligação deles com sua herança feérica sobreviveu à transformação. Por favor, traga-nos seus focos.</Page>
+    
     
     </Text>
 </QuestDialog>

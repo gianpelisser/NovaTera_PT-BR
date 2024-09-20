@@ -1,51 +1,70 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="172" id="8" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="172" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="172" id="100" prevId="0" villagerId="1000">
          
+         
         <Page social="0">A Iniciativa de Vanguarda sofreu uma grande perda. Você ajuda a fazer um balanço antes de continuar com a missão.</Page>
+    
     
     </Text>
     <Text huntingZoneId="172" id="2" prevId="0" villagerId="1000">
          
+         
         <Page social="4">A maioria dos Vanguardas escapou, graças a você. Ainda assim, as coisas parecem ruins para a nossa missão.&lt;NEXTPAGEBUTTON&gt;"Como posso ajudar?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Devemos garantir nossos suprimentos antes que algo terrível os coma. Sem o cruzador do céu, quem sabe quando seremos reabastecidos.&lt;BR&gt;&lt;BR&gt;Você pode ajudar a levar os suprimentos para Dougal?</Page>
+    
     
     </Text>
     <Text huntingZoneId="172" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="4">Muito bem, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Bem, chegamos ao norte de Arun, então ainda podemos completar nossa missão.&lt;BR&gt;&lt;BR&gt;Pergunte a Zolyn como estão as tropas. Precisamos saber nossa capacidade de combate antes de partirmos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="172" id="4" villagerId="1001">
          
+         
         <Page social="0">Isso é tudo? É mesmo?</Page>
+    
     
     </Text>
     <Text huntingZoneId="172" id="5" prevId="3" villagerId="1002">
          
+         
         <Page social="4">Droga, &lt;PCNAME&gt;! Sou uma Reaper, não um médico.&lt;BR&gt;&lt;BR&gt;Verifique você mesmo os feridos. Estou procurando o rastro de Syona!</Page>
+    
     
     </Text>
     <Text huntingZoneId="172" id="6" prevId="5" villagerId="1003">
          
+         
         <Page social="4">Minha perna! Acho que meu tornozelo está quebrado. O osso deve ficar para fora? &lt;BR&gt;&lt;BR&gt;Ajude-me!</Page>
+    
     
     </Text>
     <Text huntingZoneId="172" id="7" prevId="6" villagerId="1004">
          
+         
         <Page social="4">Ah, dói quando eu respiro. Droga! Qual é o objetivo? &lt;BR&gt;&lt;BR&gt;Nunca vamos voltar para casa, não é?</Page>
+    
     
     </Text>
     <Text huntingZoneId="172" id="8" prevId="7" villagerId="1002">
          
+         
         <Page social="4">O ferimento de Tysan vai nos atrasar. Vou ordenar a Paesyn que faça uma liteira para carregá-lo.&lt;BR&gt;&lt;BR&gt;Broderik vai trabalhar com ele. Ninguém vai para casa até encontrarmos Syona!</Page>
+    
     
     </Text>
     <Text huntingZoneId="172" id="9" prevId="8" villagerId="1001">
          
+         
         <Page social="4">Os ferimentos poderiam ter sido muito piores. Vamos contar com nossas bênçãos.&lt;BR&gt;&lt;BR&gt;Bom trabalho. Como nos velhos tempos, não é?</Page>
+    
     
     </Text>
 </QuestDialog>

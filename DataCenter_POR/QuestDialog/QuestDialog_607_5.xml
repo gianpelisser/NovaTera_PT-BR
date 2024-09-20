@@ -1,181 +1,255 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="607" id="5" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="607" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="72" id="100" prevId="0" villagerId="1702">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="72" id="2" prevId="0" villagerId="1702">
          
+         
         <Page social="4">"Um livro é mais poderoso do que qualquer arma", diz um antigo provérbio. Leia livros e aprenda você mesmo a ter uma vida mais sábia.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="3" prevId="2" villagerId="1709">
          
+         
         <Page social="4">&lt;font color='#0000FF'&gt;Allemantheia&lt;/font&gt; é a cidade da magia construída pelos altos elfos. (Detalhes omitidos.)&lt;BR&gt;&lt;BR&gt;Para controlar a energia da &lt;font color='#0000FF'&gt;Flor da Vida&lt;/font&gt;, &lt;font color='#0000FF'&gt;Serion&lt;/font&gt; criou - e se tornou - o Núcleo. (Detalhes omitidos.)&lt;BR&gt;&lt;BR&gt;O &lt;font color='#0000FF'&gt;Core&lt;/font&gt; fornece aos altos elfos um suprimento ilimitado de mana. (Detalhes omitidos.)</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="4" prevId="3" villagerId="1702">
          
+         
         <Page social="4">Já terminou de estudar? Você deve ser mais esperto do que parece.&lt;BR&gt;&lt;BR&gt;Prepare-se para fazer um teste. Fazemos muitos testes por aqui.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="5" prevId="3" villagerId="1702">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="72" id="6" prevId="3" villagerId="1702">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="72" id="7" prevId="3" villagerId="1702">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="72" id="8" prevId="3" villagerId="1702">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="72" id="9" prevId="4" villagerId="1702">
          
+         
         <Page social="0">Quem criou o Core?</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="10" prevId="4" villagerId="1702">
          
+         
         <Page social="0">Bingo! Você não pulou a leitura.&lt;NEXTPAGEBUTTON&gt;"Será que acertei?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Sim, você fez isso. Eu não esperava menos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="11" prevId="4" villagerId="1702">
          
+         
         <Page social="0">Ele é uma figura importante, mas não é a resposta certa.&lt;NEXTPAGEBUTTON&gt;"Talvez eu tenha, hum, folheado o livro."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Volte para o Collegium Arcane e estude mais, &lt;PCNAME&gt;!</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="12" prevId="4" villagerId="1702">
          
+         
         <Page social="0">Sinto muito, mas a Flor da Vida continha a energia que o Núcleo contém agora.&lt;NEXTPAGEBUTTON&gt;"Eu deveria estudar mais."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Sim, você deve, de fato, estudar mais.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="13" prevId="4" villagerId="1702">
          
+         
         <Page social="0">Ela não é a resposta certa. &lt;NEXTPAGEBUTTON&gt;"Isso estava realmente no livro?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Está tudo no livro. Volte ao Collegium Arcane e leia-o novamente.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="14" prevId="4" villagerId="1702">
          
+         
         <Page social="0">De onde os elfos superiores obtêm sua mana?</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="15" prevId="4" villagerId="1702">
          
+         
         <Page social="0">A Flor da Vida já foi uma fonte de energia, mas não é mais. &lt;NEXTPAGEBUTTON&gt;"Posso adivinhar de novo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Sim, adivinhe novamente - depois que você for ao Collegium Arcane e ler o livro.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="16" prevId="4" villagerId="1702">
          
+         
         <Page social="0">Bingo! &lt;BR&gt;Você estudou muito, &lt;PCNAME&gt;.&lt;NEXTPAGEBUTTON&gt;"Será que acertei?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Sim, você conseguiu. Sucesso como esperado!</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="17" prevId="4" villagerId="1702">
          
+         
         <Page social="0">Não é para ser difícil, &lt;PCNAME&gt;!&lt;NEXTPAGEBUTTON&gt;"Vou estudar mais."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Veja se você consegue. Volte para o Collegium Arcane.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="18" prevId="4" villagerId="1702">
          
+         
         <Page social="0">Serion é o High Elf que criou o Núcleo, tornando-se o Núcleo.&lt;NEXTPAGEBUTTON&gt;"Vou estudar mais."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Sim, volte para o Collegium Arcane e preste atenção desta vez.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="19" prevId="4" villagerId="1702">
          
+         
         <Page social="0">Esta é uma pergunta fácil; a resposta está ao seu redor. Os elfos superiores construíram essa cidade de magia no continente de Shara. Qual é o nome dessa cidade?</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="20" prevId="4" villagerId="1702">
          
+         
         <Page social="0">Não, não é nada disso. &lt;NEXTPAGEBUTTON&gt;"Vou prestar mais atenção da próxima vez."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Vá para os livros! Volte para o Collegium Arcane e estude mais.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="21" prevId="4" villagerId="1702">
          
+         
         <Page social="0">Ele é uma figura importante, mas não é a resposta certa.&lt;NEXTPAGEBUTTON&gt;"Eu deveria ter feito anotações."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Use a técnica de estudo que quiser, mas volte ao Collegium Arcane e estude mais.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="22" prevId="4" villagerId="1702">
          
+         
         <Page social="0">Uma pergunta simples e uma resposta correta.&lt;NEXTPAGEBUTTON&gt;"Será que acertei?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Sim, você fez isso. Você estuda rápido.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="23" prevId="4" villagerId="1702">
          
+         
         <Page social="0">Isso não é apenas incorreto. É incrivelmente errado! &lt;NEXTPAGEBUTTON&gt;"Pode ser um teste com livro aberto?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Não, você precisa estudar e se lembrar. Volte para o Collegium Arcane e estude mais.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="24" prevId="4" villagerId="1702">
          
+         
         <Page social="0">Serion armazenou energia daqui dentro do Núcleo. De onde veio essa energia?</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="25" prevId="4" villagerId="1702">
          
+         
         <Page social="0">Esse é o nome de um elfo. Você está apenas adivinhando? &lt;NEXTPAGEBUTTON&gt;"Incorretamente, ao que parece."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Preferimos a certeza à adivinhação. Volte para o Collegium Arcane e estude mais.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="26" prevId="4" villagerId="1702">
          
+         
         <Page social="0">Ele é uma figura importante, mas não é a resposta certa.&lt;NEXTPAGEBUTTON&gt;"Eu tenho uma segunda chance?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Sim, depois que você voltar ao Collegium Arcane e estudar o livro novamente.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="27" prevId="4" villagerId="1702">
          
+         
         <Page social="0">Sua ignorância me deixa sem palavras! Bem, quase sem palavras...&lt;NEXTPAGEBUTTON&gt;"Eu posso fazer melhor!"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Você terá sua chance. Volte para o Collegium Arcane e estude mais.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="28" prevId="4" villagerId="1702">
          
+         
         <Page social="0">Sua resposta corresponde à verdade.&lt;NEXTPAGEBUTTON&gt;"Eu acertei?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">De fato, você estava correto.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="29" prevId="24" villagerId="1702">
          
+         
         <Page social="4">Continue estudando bastante, &lt;PCNAME&gt;. Um dia, você se tornará um grande teórico.</Page>
+    
     
     </Text>
 </QuestDialog>

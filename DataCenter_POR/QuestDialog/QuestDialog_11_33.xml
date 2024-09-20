@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="11" id="33" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="11" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="211" id="100" prevId="0" villagerId="1028">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="211" id="2" prevId="0" villagerId="1028">
          
+         
         <Page social="4">É muito bom massacrar os Red Lash aqui na gruta, mas temos que nos certificar de que eles também não consigam ir para o alto-mar.&lt;BR&gt;&lt;BR&gt;A maior parte da frota dos Red Lash está em reparos, portanto, nosso momento não poderia ser melhor.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:11#3003#Red Lash injenirs} fazem a maior parte do trabalho de reparo. Mate-os e roube suas ferramentas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="211" id="3" prevId="2" villagerId="1028">
          
+         
         <Page social="4">Boa sorte ao consertar um casco sem ferramentas e sem trabalhadores. Não podem se chamar de piratas se nunca saem do cais!</Page>
+    
     
     </Text>
     <Text huntingZoneId="211" id="4" villagerId="1028">
          
+         
         <Page social="0">São os {@LinkCreature:11#3003#Red Lash injenirs}. Sem eles, esses navios piratas nunca deixarão as docas.</Page>
+    
     
     </Text>
 </QuestDialog>

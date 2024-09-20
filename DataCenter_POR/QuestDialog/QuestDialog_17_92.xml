@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="17" id="92" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="17" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="67" id="100" prevId="0" villagerId="1015">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="67" id="2" prevId="0" villagerId="1015">
          
+         
         <Page social="0">&lt;PCNAME&gt;, elimine os javalis selvagens que estão se alastrando pelas fazendas ao sul do Posto Avançado Embarcado e traga de volta as presas dos javalis selvagens.&lt;BR&gt;&lt;BR&gt;Concentre-se nos {@LinkCreature:17#300050#javalis de gutspiller cautelosos} e {@LinkCreature:17#104#javalis de presas bifurcadas}.</Page>
+    
     
     </Text>
     <Text huntingZoneId="217" id="3" prevId="2" villagerId="1008">
          
+         
         <Page social="5">Graças a você, &lt;PCNAME&gt;, as terras agrícolas estão começando a se parecer com o que eram antes.</Page>
+    
     
     </Text>
     <Text huntingZoneId="217" id="4" villagerId="1008">
          
+         
         <Page social="0">Cace os {@LinkCreature:17#300050#wary gutspiller warthogs} e {@LinkCreature:17#104#forked tusk warthogs} e traga-me suas presas.</Page>
+    
     
     </Text>
 </QuestDialog>

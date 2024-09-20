@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="20" id="91" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="20" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="65" id="100" prevId="0" villagerId="1012">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="65" id="2" prevId="0" villagerId="1012">
          
+         
         <Page social="0">Tudo bem, o que vem a seguir aqui... ah, &lt;PCNAME&gt;, você é o sortudo ganhador de {@LinkCreature:20#30011002#cruel taskmasters}, {@LinkCreature:20#30011001#slave watchers}, {@LinkCreature:20#30011100#morale boosters}, e {@LinkCreature:20#30011000#slave foremen}!&lt;BR&gt;&lt;BR&gt;Eles comandam os zumbis, então... isso deve ser divertido. Eles estarão nos Salões da Escuridão.&lt;BR&gt;&lt;BR&gt;Fale com Danika quando você terminar. Ela deve estar... deixe-me checar... ah! Também no primeiro andar das Minas Tenebrosas.&lt;BR&gt;&lt;BR&gt;Pergunto-me por que ela não cuida deles ela mesma enquanto está lá embaixo....</Page>
+    
     
     </Text>
     <Text huntingZoneId="220" id="3" prevId="2" villagerId="1002">
          
+         
         <Page social="4">Ah! Excelente! &lt;BR&gt;&lt;BR&gt;Por favor, aceite isso como sua contribuição.</Page>
+    
     
     </Text>
     <Text huntingZoneId="220" id="4" villagerId="1002">
          
+         
         <Page social="0">Está procurando alguma coisa?</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="37" id="24" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="37" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="237" id="100" prevId="0" villagerId="1006">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="237" id="2" prevId="0" villagerId="1006">
          
+         
         <Page social="5">Portanto, os argonss estão se movendo para cima a partir do fundo das criptas. Não é de surpreender. Eles não iriam ficar lá embaixo para sempre.&lt;BR&gt;&lt;BR&gt;Olha, não há ninguém aqui que possa enfrentar um argons... exceto você, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Ordinariamente, poderíamos contar com a ajuda dos príons, mesmo que eles sejam todos loucos. Mas eles estão mais loucos do que o normal e determinados a purificar as criptas de qualquer coisa que não seja um príon.&lt;BR&gt;&lt;BR&gt;Assim, um triste dever é seu... ao descer, mate os príons. Se uma batalha com os argons está em nosso futuro, os príons não podem estar em nosso caminho.</Page>
+    
     
     </Text>
     <Text huntingZoneId="237" id="3" prevId="2" villagerId="1008">
          
+         
         <Page social="6">Grenan o enviou? Da última vez que ouvi, ele achou que não precisávamos de reforços. Todos aqueles príons finalmente o atingiram? &lt;BR&gt;&lt;BR&gt;Oh. Oh, não... argonss. Isso explica a preocupação de Grenan.&lt;BR&gt;&lt;BR&gt;Não, eu não vi nenhum, e espero nunca ver.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="472" id="91" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="472" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="472" id="100" prevId="0" villagerId="1001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="472" id="2" prevId="0" villagerId="1001">
          
+         
         <Page social="0">Ordens da missão&lt;BR&gt;&lt;BR&gt;Eliminar as gulas no Labirinto Dourado.&lt;BR&gt;&lt;BR&gt;Concentre-se nas {@LinkCreature:472#4#gula deathbringers}, {@LinkCreature:472#24#reavers}, e {@LinkCreature:472#11#savages}, e {@LinkCreature:472#207#brutal gulas}.&lt;BR&gt;&lt;BR&gt;Relate-me quando a missão estiver concluída.</Page>
+    
     
     </Text>
     <Text huntingZoneId="472" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="5">Muito bem. Por favor, continue a proteger nossos pesquisadores.</Page>
+    
     
     </Text>
     <Text huntingZoneId="472" id="4" villagerId="1001">
          
+         
         <Page social="0">Elimine os gulas no Golden Labyrinth.</Page>
+    
     
     </Text>
 </QuestDialog>

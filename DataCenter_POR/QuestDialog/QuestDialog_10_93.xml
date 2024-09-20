@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="10" id="93" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="10" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="61" id="100" prevId="0" villagerId="1012">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="61" id="2" prevId="0" villagerId="1012">
          
+         
         <Page social="4">Ordens da missão:&lt;BR&gt;&lt;BR&gt;A Ilha de Kerzen foi invadida por perigosos {@LinkCreature:10#1#arachnen warriors}, {@LinkCreature:10#2#grove kamaras}, {@LinkCreature:10#3#virek kamaras} e {@LinkCreature:10#10#baykun warthogs} que ameaçam os movimentos rotineiros das tropas.&lt;BR&gt;&lt;BR&gt;Limpe a área de hostis e depois informe a Edine na Ponta da Praia.</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="3" prevId="2" villagerId="1002">
          
+         
         <Page social="4">Agora uma patrulha pode realmente ser uma patrulha e não uma "luta brutal e sangrenta que termina a 15 metros de onde começou". Obrigado, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="4" villagerId="1002">
          
+         
         <Page social="0">A Ilha Kerozen é muito importante estrategicamente para ser entregue à fauna nativa. Apodere-se dessa ilha, &lt;PCCLASS:lcase&gt;.</Page>
+    
     
     </Text>
 </QuestDialog>

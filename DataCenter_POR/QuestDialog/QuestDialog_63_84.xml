@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="63" id="84" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="84" huntingZoneId="63" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="63" id="100" prevId="0" villagerId="1605">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="2" prevId="0" villagerId="1605">
          
+         
         <Page social="0">Muito bem. Você tem alkahest, uma arma encantável e alguma matéria-prima.&lt;BR&gt;&lt;BR&gt;Vamos começar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="1605">
          
+         
         <Page social="3">O encantamento pega um bom equipamento e o torna melhor, mas só funciona em itens com o atributo encantável.&lt;BR&gt;&lt;BR&gt;As armas exigem um mínimo de quatro matérias-primas por tentativa. A armadura de peito requer três. Calçados e roupas de mão requerem dois cada. A matéria-prima deve ser do mesmo nível ou superior ao do item que você está encantando.&lt;BR&gt;&lt;BR&gt;Quando chegar a bônus mais altos, você vai querer usar mais matéria-prima para melhorar suas alterações. Mas estou me adiantando.&lt;NEXTPAGEBUTTON&gt;"Entendi."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Para alkahest... o tier é seu guia; você usará 10 alkahest a mais do que o tier para cada tentativa.&lt;BR&gt;&lt;BR&gt;Agora os aspectos práticos: abra o menu de encantamento pressionando a tecla "T". Clique com o botão direito do mouse no item que deseja encantar. Sua matéria-prima e o alkahest serão carregados automaticamente e as quantidades ideais serão destacadas. Para tentar uma vez, clique em Enchant (Encantar).</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="4" prevId="3" villagerId="1605">
          
+         
         <Page social="0">Entendeu tudo isso? Ótimo! Eu sabia que você era esperto.&lt;BR&gt;&lt;BR&gt;O encantamento é realmente muito fácil. Os melhores &lt;PCCLASS:lcase&gt;s encantam seus equipamentos o máximo possível. Aqui, isso vai ajudar.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="22" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="228" id="100" prevId="0" villagerId="1008">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="228" prevId="0" villagerId="1008">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="228" id="2" prevId="0" villagerId="1008">
-         
+    <Text id="2" huntingZoneId="228" prevId="0" villagerId="1008">
         <Page social="5">Blightwood's stench is legendary. We combat it using &lt;font color='#660000'&gt;fragrant rosehips&lt;/font&gt;. The smell masks the stench and lets you breathe without retching.&lt;BR&gt;&lt;BR&gt;I sure could use more. It's not hard to find, but I've work to do. I'll pay handsomely if you'll gather some up.</Page>
-    
     </Text>
-    <Text huntingZoneId="228" id="3" prevId="2" villagerId="1008">
-         
+    <Text id="3" huntingZoneId="228" prevId="2" villagerId="1008">
         <Page social="5">Oh ho! Well done. This will last for some time. I'll even make a tidy profit selling some to the others.&lt;BR&gt;&lt;BR&gt;Please, take this with my thanks. You saved my nose, and that's no lie.</Page>
-    
     </Text>
-    <Text huntingZoneId="228" id="4" villagerId="1008">
-         
+    <Text id="4" huntingZoneId="228" villagerId="1008">
         <Page social="0">Did you find the fragrant rosehips? The stench is making me positively ill!</Page>
-    
     </Text>
 </QuestDialog>

@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="32" id="33" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="32" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="232" id="100" prevId="0" villagerId="1005">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="232" id="2" prevId="0" villagerId="1005">
          
+         
         <Page social="4">Você vem me dizer como eu deveria dar uma chance ao Khasib também? Porque eu realmente estou ficando cansado disso.&lt;BR&gt;&lt;BR&gt;Eu preferiria muito mais falar sobre a rede de inteligência dos insurgentes. Eles estão com falta de suprimentos e reforços.&lt;BR&gt;&lt;BR&gt;Agora que perderam o comandante, é o momento perfeito para atacar.&lt;NEXTPAGEBUTTON&gt;"O que você tem em mente?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Os membros mais importantes da rede de inteligência são os {@LinkCreature:32#13#Sihran arcanists} e seus {@LinkCreature:32#14#tuwangi froglars}. Apenas eliminá-los manterá dezenas de soldados em segurança, mas se você puder recuperar documentos deles, isso ajudará ainda mais.</Page>
+    
     
     </Text>
     <Text huntingZoneId="232" id="3" prevId="2" villagerId="1005">
          
+         
         <Page social="4">Excelente! Se Khasib está tão desesperado para me impressionar, ele poderia fazer algo corajoso e... útil! Como isso!&lt;BR&gt;&lt;BR&gt;Não estou dizendo que ele não seja uma boa pessoa. Apenas... não é o que estou procurando no momento.&lt;BR&gt;&lt;BR&gt;Bah! Chega de falar de Khasib. Aqui está a sua recompensa.</Page>
+    
     
     </Text>
     <Text huntingZoneId="232" id="4" villagerId="1005">
          
+         
         <Page social="0">Eu não lhe disse que os {@LinkCreature:32#14#tuwangi froglars} estão na Frigid Vigil?</Page>
+    
     
     </Text>
 </QuestDialog>

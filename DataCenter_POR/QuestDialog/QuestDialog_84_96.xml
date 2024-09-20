@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="84" id="96" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="96" huntingZoneId="84" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="528" id="100" prevId="0" villagerId="5024">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="528" id="2" prevId="0" villagerId="5024">
          
+         
         <Page social="6">Todos os dias, um grande número de membros da federação lutam entre si pela glória.&lt;BR&gt;&lt;BR&gt;Alguns parecem não entender a luta entre os membros de uma mesma organização e até criticam a imprudência, mas eu diria que eles não conhecem as emoções no sangue que a luta pura nos proporciona. &lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, você entende isso, não é mesmo? &lt;BR&gt;&lt;BR&gt;Oh, o que estou balbuciando? &lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, está pronto para provar sua força no Desfiladeiro de Fraywind? &lt;BR&gt;&lt;BR&gt;Traga-me notícias de vitória, então eu o recompensarei generosamente. Boa sorte! &lt;BR&gt;&lt;BR&gt;[Fraywind Canyon é acessível através do menu Battleground Matching].</Page>
+    
     
     </Text>
     <Text huntingZoneId="528" id="3" prevId="2" villagerId="5024">
          
+         
         <Page social="4">Parabéns, &lt;PCNAME&gt;! Você é tão bom quanto os outros dizem que você é! &lt;BR&gt;&lt;BR&gt;Continue provando sua honra no Desfiladeiro de Fraywind e deixe todos os outros na federação com inveja de seu glorioso recorde.&lt;BR&gt;&lt;BR&gt;Créditos do Bellicarium, que só estão disponíveis no Desfiladeiro de Fraywind, podem ser usados para comprar vários itens de recompensa no Quartermaster de sua equipe lá.&lt;BR&gt;&lt;BR&gt;Pela honra da Federação!</Page>
+    
     
     </Text>
 </QuestDialog>

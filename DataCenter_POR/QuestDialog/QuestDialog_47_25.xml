@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="47" id="25" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="47" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="247" id="100" prevId="0" villagerId="1014">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="247" id="2" prevId="0" villagerId="1014">
          
+         
         <Page social="4">Esses cogumelos grandes que você vê liberam esporos contaminantes - parte do plano de contaminação dos argons.&lt;BR&gt;&lt;BR&gt;Eles são notavelmente resistentes, mas os explosivos funcionam muito bem, então vou lhe dar alguns.&lt;BR&gt;&lt;BR&gt;Quando você ficar sem bombas, passe em {@Rgn:47008$$Eastwatch} e veja se eles precisam de alguma coisa.</Page>
+    
     
     </Text>
     <Text huntingZoneId="247" id="3" prevId="2" villagerId="1018">
          
+         
         <Page social="4">Dizem que os argonss se foram, mas este lugar está tão cheio de seus restos que não conseguimos plantar as mudas que as fadas nos enviaram de Seeliewood. É tudo o que podemos fazer para manter um perímetro fechado.</Page>
+    
     
     </Text>
 </QuestDialog>

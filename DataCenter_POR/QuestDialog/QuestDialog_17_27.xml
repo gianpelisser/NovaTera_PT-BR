@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="17" id="27" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="17" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="217" id="100" prevId="0" villagerId="1010">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="217" id="2" prevId="0" villagerId="1010">
          
+         
         <Page social="5">Acho que temos esse lugar muito bem controlado. Mais alguns golpes decisivos nas tropas inimigas e eles vão virar as costas, tenho certeza! &lt;BR&gt;&lt;BR&gt;Você tem muita energia, soldado, e quero que compartilhe isso com Tairun, meu subalterno no acampamento de batedores a sudeste daqui. Um verdadeiro guerreiro o lembrará de como lutar!</Page>
+    
     
     </Text>
     <Text huntingZoneId="217" id="3" prevId="2" villagerId="1013">
          
+         
         <Page social="5">Cafnil lhe enviou? Isso é... adorável. Desculpe, não foi culpa sua. Você deve ser bem durão. Inteligente? Vamos ver. Pergunte no acampamento. Tenho certeza de que encontrará coisas para fazer.</Page>
+    
     
     </Text>
 </QuestDialog>

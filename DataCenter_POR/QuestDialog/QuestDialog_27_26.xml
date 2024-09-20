@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="27" id="26" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="27" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="227" id="100" prevId="0" villagerId="1016">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="227" id="2" prevId="0" villagerId="1016">
          
+         
         <Page social="12">A legião de Thulsa açoitou este vale quando o invadiu. Os poucos sobreviventes contaram histórias sobre {@LinkCreature:27#16#Calapana}, um dos líderes da legião.&lt;BR&gt;&lt;BR&gt;Quero que você mate Calapana, da forma mais brutal possível. Quero desmoralizar e confundir o inimigo, o que nos dará uma chance maior de avançar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="227" id="3" prevId="2" villagerId="1016">
          
+         
         <Page social="5">Presumivelmente, ela não morreu bem? Excelente.&lt;BR&gt;&lt;BR&gt;Nunca subestime seus inimigos, &lt;PCNAME&gt;, e respeite aqueles que merecem. No entanto, massacrar civis nunca merece respeito, muito menos uma morte honrosa. Continue.</Page>
+    
     
     </Text>
 </QuestDialog>

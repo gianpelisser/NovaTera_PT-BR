@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="44" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="13" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="213" id="100" prevId="0" villagerId="1143">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="213" id="2" prevId="0" villagerId="1143">
          
+         
         <Page social="4">Há muitos nomes para as criaturas que contestam a presença desse posto avançado no Desfiladeiro Maculado. Sersine, filha de Karas, conhece todos eles, mas &lt;b&gt;Gregor&lt;/b&gt; criou os que são usados com mais frequência.&lt;BR&gt;&lt;BR&gt;Um dos mais temidos são os gigantes que ele chama de "Destruidores". O líder deles, Kugai, patrulha todo o vale, mas Gregor tem monitorado um aumento na atividade dos Destruidores ao norte daqui.&lt;BR&gt;&lt;BR&gt;Converse com ele e determine se isso constitui uma ameaça à nossa missão.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="3" prevId="2" villagerId="1028">
          
+         
         <Page social="4">Esses terrores de cabeças gêmeas são uma ameaça - estou surpreso que tenha chegado aqui sem ser molestado. Perrin tem razão em se preocupar. Os {@LinkCreature:13#9#destroyers} foram um grande fator no ataque à primeira expedição.&lt;BR&gt;&lt;BR&gt;Os números que estou vendo... é apenas uma questão de tempo até que eles surjam novamente. Você quer fazer uma diferença real - ser um de nós? Você precisa matar alguns.&lt;BR&gt;&lt;BR&gt;Isso enviará uma mensagem aos demais de que não vamos abandonar esse território - nunca mais. Já pagamos muito por ele.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="4" prevId="3" villagerId="1028">
          
+         
         <Page social="4">Tenho orgulho de servir com você, amigo. Metade das pessoas na Base da Torre nunca esteve aqui, muito menos fez o que você e eu fizemos. &lt;BR&gt;&lt;BR&gt;Nossa ocupação contínua deste posto avançado é um símbolo de nosso desafio às forças demoníacas do desfiladeiro! &lt;BR&gt;&lt;BR&gt;Vá contar a Perrin o que você fez, e ele dirá o mesmo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="5" prevId="4" villagerId="1143">
          
+         
         <Page social="4">&lt;PCNAME&gt; é um crédito para a Federação Valkyon. Que ninguém diga que esse corajoso &lt;PCCLASS:lcase&gt; não conquistou o direito de estar entre nós!</Page>
+    
     
     </Text>
 </QuestDialog>

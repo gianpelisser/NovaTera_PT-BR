@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="31" id="34" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="31" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="231" id="100" prevId="0" villagerId="1011">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="231" id="2" prevId="0" villagerId="1011">
          
+         
         <Page social="0">Os piratas naga roubaram meu diário de pesquisa. Ele contém informações sobre nossas defesas, nossos números, nossos suprimentos - precisamos detê-los antes que aprendam o suficiente para nos exterminar! &lt;BR&gt;&lt;BR&gt;Poderia ajudar a eliminar os {@LinkCreature:31#17#predadores naga da tempestade} e {@LinkCreature:31#16#ravadores} e recuperar os diários de pesquisa que eles roubaram.</Page>
+    
     
     </Text>
     <Text huntingZoneId="231" id="3" prevId="2" villagerId="1011">
          
+         
         <Page social="4">Muito obrigado. Agora posso concluir meu relatório. Não há necessidade de falar sobre esse... passo em falso com a Comandante Fraya, certo?</Page>
+    
     
     </Text>
     <Text huntingZoneId="231" id="4" villagerId="1011">
          
+         
         <Page social="0">Esse diário deve ser recuperado das nagas.</Page>
+    
     
     </Text>
 </QuestDialog>

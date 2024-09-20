@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="46" id="28" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="46" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="246" id="100" prevId="0" villagerId="1029">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="246" id="2" prevId="0" villagerId="1029">
          
+         
         <Page social="4">Nessa parte de Raga Evala, os argonss estavam fazendo algum tipo de pesquisa botânica estranha. Eles reuniram, e aparentemente argonizaram, algumas fadas - provavelmente por sua estreita ligação com o mundo natural.&lt;BR&gt;&lt;BR&gt;Você nunca conseguiria que eu fizesse mal a uma criatura fada no mundo real, mas aqui tudo é ao contrário e de cabeça para baixo.&lt;BR&gt;&lt;BR&gt;Você pode obter os chifres dos jalmaraks argonomorfos? Talvez eu possa encontrar algum tipo de cura para a argonificação.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="3" prevId="2" villagerId="1029">
          
+         
         <Page social="4">Esse tipo de pesquisa não é fácil, e não é exatamente o laboratório mais seguro em que já trabalhei.&lt;BR&gt;&lt;BR&gt;Mesmo assim, os argons podem ser horrores monstruosos de outra dimensão, mas é preciso admirar o talento deles para a botânica.&lt;BR&gt;&lt;BR&gt;Eu gostaria que você pudesse ficar, mas enquanto você estava fora, recebemos uma mensagem da Câmara da Alma. Eles precisam de sua ajuda.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="4" villagerId="1029">
          
+         
         <Page social="0">Não se preocupe. É seguro tocar nos chifres. Só não os coma.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="5" prevId="3" villagerId="1102">
          
+         
         <Page social="4">Estou feliz por você estar aqui, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Os argons são corruptores do corpo, da mente e da alma, e estamos apenas no limite de aprender como eles transformam a vida de forma tão absoluta.</Page>
+    
     
     </Text>
 </QuestDialog>

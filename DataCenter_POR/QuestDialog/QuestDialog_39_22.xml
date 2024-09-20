@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="39" id="22" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="39" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="239" id="100" prevId="0" villagerId="1007">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="239" id="2" prevId="0" villagerId="1007">
          
+         
         <Page social="4">Preste atenção agora. Só vou dizer isso uma vez.&lt;BR&gt;&lt;BR&gt;Na parte central do covil, vocês encontrarão {@LinkCreature:39#130#arachnen matriarchs}. Elas não são as criaturas mais fortes daqui, mas têm carapaças muito duras, que podemos usar com proveito.&lt;BR&gt;&lt;BR&gt;Recolha as carapaças e entregue-as a Paicha no Posto Avançado de Roughneck. Ele cuidará do assunto a partir de lá.</Page>
+    
     
     </Text>
     <Text huntingZoneId="239" id="3" prevId="2" villagerId="1010">
          
+         
         <Page social="4">Carapaças de aracnídeos, hein? &lt;BR&gt;&lt;BR&gt;Sim, posso usá-las para remendar alguns de nossos trajes de armadura pesada. Agradeço a ajuda!</Page>
+    
     
     </Text>
     <Text huntingZoneId="239" id="4" villagerId="1010">
          
+         
         <Page social="0">Tem algo para mim?</Page>
+    
     
     </Text>
 </QuestDialog>

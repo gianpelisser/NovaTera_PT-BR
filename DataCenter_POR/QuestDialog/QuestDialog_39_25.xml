@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="39" id="25" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="39" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="239" id="100" prevId="0" villagerId="1009">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="239" id="2" prevId="0" villagerId="1009">
          
+         
         <Page social="4">Os ataques dos {@LinkCreature:39#140#slave wardens} e dos {@LinkCreature:39#150#delirious slaves} ao redor do acampamento são mais do que podemos lidar sozinhos.&lt;BR&gt;&lt;BR&gt;Gostaríamos que você os diminuísse um pouco.&lt;BR&gt;&lt;BR&gt;A menos que você tenha vindo apenas pela paisagem...</Page>
+    
     
     </Text>
     <Text huntingZoneId="239" id="3" prevId="2" villagerId="1009">
          
+         
         <Page social="0">Você fez um bom trabalho, &lt;PCNAME&gt;. Se você ficasse, poderíamos mandar algum pobre coitado para casa. Quem sabe... poderia até ser eu! Ou Chaman. Os deuses sabem que ela mereceu.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="488" id="24" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="488" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="216" id="100" prevId="0" villagerId="1031">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="216" id="2" prevId="0" villagerId="1031">
          
+         
         <Page social="5">Suponho que não há fanático como um novo convertido.&lt;BR&gt;&lt;BR&gt;Os lealistas ducais e os guarda-costas ducais são mais cruéis do que os vampiros dos velhos tempos. Eles são absolutamente sedentos de sangue! Bem, obviamente os vampiros também são, mas você sabe o que quero dizer...&lt;BR&gt;&lt;BR&gt;Então derrame um pouco de sangue ducal! E tragam provas. Gosto de saber que estamos progredindo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="216" id="3" prevId="2" villagerId="1031">
          
+         
         <Page social="4">Isso os ensinará a apoiar o lado errado, não é, &lt;PCNAME&gt;?</Page>
+    
     
     </Text>
     <Text huntingZoneId="216" id="4" villagerId="1031">
          
+         
         <Page social="0">Fiel ao Ducado e guarda-costas. Deve ser simples. Vá em frente.</Page>
+    
     
     </Text>
 </QuestDialog>

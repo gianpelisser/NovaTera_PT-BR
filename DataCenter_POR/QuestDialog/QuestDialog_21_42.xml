@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="21" id="42" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="21" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="221" id="100" prevId="0" villagerId="1031">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="221" id="2" prevId="0" villagerId="1031">
          
+         
         <Page social="4">Você já ouviu falar de {@LinkCreature:21#5003#Bloodjaw}? É o basilisco mais feroz deste penhasco. Nenhum de nós pode se igualar a ele.&lt;BR&gt;&lt;BR&gt;Pensa que você é uma exceção?</Page>
+    
     
     </Text>
     <Text huntingZoneId="221" id="3" prevId="2" villagerId="1031">
          
+         
         <Page social="8">Ah! Eu sabia que você conseguiria, &lt;PCNAME&gt;. Na verdade, eu apostei muito em você! &lt;BR&gt;&lt;BR&gt;Com aquele maldito basilisco morto, o resto de nós poderá fazer algum progresso por aqui. Muito bem. Isso é merecido!</Page>
+    
     
     </Text>
     <Text huntingZoneId="221" id="4" villagerId="1031">
          
+         
         <Page social="0">Apostei uma grande pilha de moedas em seu sucesso. Não quero falar fora da escola, mas as chances são grandes e o dinheiro é bom! Se você sobreviver, terá um bom lucro!</Page>
+    
     
     </Text>
 </QuestDialog>

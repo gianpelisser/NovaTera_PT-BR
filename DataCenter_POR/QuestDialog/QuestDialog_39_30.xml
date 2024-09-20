@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="39" id="30" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="39" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="239" id="100" prevId="0" villagerId="1026">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="239" id="2" prevId="0" villagerId="1026">
          
+         
         <Page social="4">O veneno já passou. Ainda estou um pouco tonto, mas vou ficar bem.&lt;BR&gt;&lt;BR&gt;Diga a Anwold que ainda tenho trabalho a fazer aqui, por isso não vou voltar ainda. Não se preocupe - serei cuidadoso desta vez. Terminei de falar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="239" id="3" prevId="2" villagerId="1016">
          
+         
         <Page social="4">É bom saber que o Animan está vivo e bem. A bolinha de pelo teve sorte de você estar lá. Ele pode não ter tanta sorte da próxima vez.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="22" id="26" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="22" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="222" id="100" prevId="0" villagerId="1007">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="222" id="2" prevId="0" villagerId="1007">
          
+         
         <Page social="5">&lt;PCNAME&gt;, acho que encontrei algo importante!&lt;BR&gt;&lt;BR&gt;Como tenho certeza de que você sabe, a magia mental é a mais rara e a mais difícil de trabalhar. A magia na escala que nos aflige está além do escopo de qualquer indivíduo - mas não de um grupo! &lt;BR&gt;&lt;BR&gt;Se eu estiver certo, os instrutores podem ser os culpados!"&lt;NEXTPAGEBUTTON&gt;"Os instrutores? Impossível!"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">É impensável, não impossível. Preciso que você procure nos baús dos instrutores na sala de aula leste, no segundo andar. Também pode haver pistas no Athenaeum.&lt;BR&gt;&lt;BR&gt;Mova-se rapidamente! Se não conseguirmos retomar o controle da academia, a federação poderá destruí-la - e a todos nela.</Page>
+    
     
     </Text>
     <Text huntingZoneId="222" id="3" prevId="2" villagerId="1007">
          
+         
         <Page social="5">Você está de volta! Espero que sua missão tenha sido bem-sucedida. Eu vi os prefeitos ficando um pouco mais loucos, e isso gelou meu sangue.&lt;BR&gt;&lt;BR&gt;Vamos ver o que você encontrou. Hmm. Isso não é bom, mas pode indicar uma solução.&lt;BR&gt;&lt;BR&gt;Tenho trabalho a fazer. Escudo de poder para você, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
     <Text huntingZoneId="222" id="4" villagerId="1007">
          
+         
         <Page social="0">Não é hora de perder tempo! As crianças estão morrendo!</Page>
+    
     
     </Text>
 </QuestDialog>

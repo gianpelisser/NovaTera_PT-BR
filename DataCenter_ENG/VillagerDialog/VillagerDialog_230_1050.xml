@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="230" id="1050" voiceTypeId="132">
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1050" huntingZoneId="230" voiceTypeId="132" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
     <Text id="1" endSocial="14">
-         
         <Page social="4">Our time has stopped thanks to Balder’s blessing. The day when the prophecy is realized, we will start to age again.</Page>
-    
     </Text>
 </VillagerDialog>

@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="7" id="30" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="7" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="207" id="100" prevId="0" villagerId="1008">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="207" id="2" prevId="0" villagerId="1008">
          
+         
         <Page social="5">O Mysterium está tentando descobrir os segredos por trás dessas gigantescas torres de pedra. Alguns de nós acreditam que há segredos para poderes verdadeiramente divinos.&lt;BR&gt;&lt;BR&gt;Relogiosamente, as nagas impedem nossa pesquisa. Meu próprio poder é inadequado para lidar com elas, mas talvez você possa servir como meu representante.&lt;BR&gt;&lt;BR&gt;Reúna um grupo e acabe com alguns {@LinkCreature:7#1#Naga mercenários}. Isso seria de grande ajuda.</Page>
+    
     
     </Text>
     <Text huntingZoneId="207" id="3" prevId="2" villagerId="1008">
          
+         
         <Page social="5">Suas proezas são consideráveis e lhe renderão muito renome.&lt;BR&gt;&lt;BR&gt;Agora que as nagas estão um pouco mais reduzidas, podemos enviar relatórios para o Sanctum Mysterium. Que Oriyn ilumine seu caminho.</Page>
+    
     
     </Text>
 </QuestDialog>

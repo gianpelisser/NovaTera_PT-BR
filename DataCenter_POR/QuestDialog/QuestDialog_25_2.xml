@@ -1,66 +1,91 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="25" id="2" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="25" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0">Jelena mandou avisar que Elleon e o resto de seu contingente estavam desaparecidos na Catedral Sombria e pediu sua ajuda.&lt;BR&gt;&lt;BR&gt;Na Catedral Sombria, você se encontrou com Runha, uma ranger como Jelena, e soube que Elleon e seus soldados passaram por um teleportal em busca de uma sacerdotisa Scion, mas foram isolados. Você conseguiu ajudar Runha a estabelecer uma nova conexão com o Refúgio dos Cultistas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0">Ordens da Missão&lt;BR&gt;&lt;BR&gt;Mensagem de Velika. Retornar a Tulufan imediatamente.&lt;BR&gt;&lt;BR&gt;-Baruch</Page>
+    
     
     </Text>
     <Text huntingZoneId="66" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="4">Um mensageiro - Brurun, acho que é o nome dele - está procurando por você. Ele está do outro lado da praça.</Page>
+    
     
     </Text>
     <Text huntingZoneId="66" id="4" prevId="3" villagerId="1024">
          
+         
         <Page social="4">Você é o &lt;PCNAME&gt;? Se não for, não temos nada para conversar.&lt;BR&gt;&lt;BR&gt;Bem, se tem certeza de que é... Jelena mandou avisar você. Elleon desapareceu enquanto procurava uma pista sobre os Scions of Lok. Informe Baruch e mexa-se.&lt;BR&gt;&lt;BR&gt;Elleon precisa de você!</Page>
+    
     
     </Text>
     <Text huntingZoneId="66" id="5" prevId="4" villagerId="1001">
          
+         
         <Page social="4">Elleon... desaparecido? Espero que ele esteja bem. Elsine correu em direção à Catedral Negra assim que soube. Esse não é o tipo de lugar onde um arqueólogo deva ir sozinho.&lt;BR&gt;&lt;BR&gt;Fale com o Centurião Orlaith no Acampamento dos Cruzados. Se ela estiver lá, ele saberá para onde ela está indo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="225" id="6" prevId="5" villagerId="1006">
          
+         
         <Page social="4">Elsine disse que estava indo para o Reduto da Catedral e que deveria estar lá agora. Quanto a Elleon, não temos notícias dele desde que entrou na catedral.&lt;BR&gt;&lt;BR&gt;Ele estava perseguindo uma sacerdotisa. Ackbar? Saskia? Qual era o nome dela?</Page>
+    
     
     </Text>
     <Text huntingZoneId="225" id="7" prevId="6" villagerId="1022">
          
+         
         <Page social="4">Ah, &lt;PCNAME&gt;. Você também deve ter ouvido as notícias. Elleon e sua equipe desapareceram dentro da catedral.&lt;BR&gt;&lt;BR&gt;Sei que não há muito que eu possa fazer aqui, mas não posso simplesmente sentar e esperar.&lt;NEXTPAGEBUTTON&gt;"Talvez os soldados devessem estar lutando?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Acho que você tem razão. Provavelmente é melhor pedir sua ajuda. Por favor, vá salvá-los.&lt;BR&gt;&lt;BR&gt;Foi o Prefeito Rendalf quem primeiro comunicou o desaparecimento de Elleon. Ele está esperando no Reduto do Vindicador. Encontre-o e ele lhe contará os detalhes.</Page>
+    
     
     </Text>
     <Text huntingZoneId="225" id="8" prevId="7" villagerId="1027">
          
+         
         <Page social="4">Você é o famoso &lt;PCNAME&gt;? Aquele que ajudou a capturar o traidor Samael, que ele apodreça para sempre? Que honra! Em que posso ajudar? &lt;BR&gt;&lt;BR&gt;Elleon? Ele levou sua equipe por esse teleportal que encontramos no nível mais baixo desse lugar... e depois parou de funcionar. Ninguém conseguiu passar por ele. Runha está trabalhando nisso, mas ainda não conseguiu. &lt;BR&gt;&lt;BR&gt;Sem dúvida, ela poderia usar sua ajuda.</Page>
+    
     
     </Text>
     <Text huntingZoneId="225" id="9" prevId="8" villagerId="1023">
          
+         
         <Page social="4">Bem-vindo, &lt;PCNAME&gt;. Lamentavelmente, os meios para reativar esse teletransporte são estranhos - e extremamente frustrantes.&lt;BR&gt;&lt;BR&gt;Muito provavelmente, os Scions desativaram o teletransporte do outro lado, mas talvez ele possa ser reativado.&lt;BR&gt;&lt;BR&gt;Precisaremos de "lembranças de sacrifício" - carregadas por {@LinkCreature:25#8011#Nurkrasid}, {@LinkCreature:25#8021#Valursus} e {@LinkCreature:25#8031#Masakrad}. Com os tokens em mãos, talvez possamos nos reconectar com o que estiver do outro lado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="225" id="10" prevId="9" villagerId="1023">
          
+         
         <Page social="4">Os tokens foram adquiridos? Excelente! Agora podemos usar a {@LinkObject:31#pedra de invocação} na Casa do Capítulo.&lt;BR&gt;&lt;BR&gt;Cuidado - algumas dessas pedras de invocação têm ligações mágicas com vários tipos de guardiões monstruosos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="225" id="11" villagerId="1023">
          
+         
         <Page social="0">Preciso da ressonância dessas três lembranças de sacrifício. Para obtê-las, as criaturas: {@LinkCreature:25#8011#Nurkrasid}, {@LinkCreature:25#8021#Valursus}, {@LinkCreature:25#8031#Masakrad} devem morrer.</Page>
+    
     
     </Text>
     <Text huntingZoneId="225" id="12" prevId="10" villagerId="1023">
          
+         
         <Page social="4">O portal está aberto! Muito bem! &lt;BR&gt;&lt;BR&gt;Temos que nos apressar, no entanto. Quem sabe em que problemas os outros estão se metendo!</Page>
+    
     
     </Text>
 </QuestDialog>

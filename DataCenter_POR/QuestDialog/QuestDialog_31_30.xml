@@ -1,21 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="31" id="30" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="31" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="231" id="100" prevId="0" villagerId="1010">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="231" id="2" prevId="0" villagerId="1010">
          
+         
         <Page social="4">As {@LinkCreature:31#22#sereias frosthowl} que andam pela costa provocaram uma brisa muito fria com seus gritos.&lt;BR&gt;&lt;BR&gt;Se a temperatura por aqui ficar mais fria, os exploradores que estiverem nos navios naufragados morrerão congelados! Matar as sirenes frosthowl não vai esquentar as coisas, mas deve evitar que fique mais frio.&lt;BR&gt;&lt;BR&gt;Depois de terminar, você poderia dar uma olhada em Tantan no acampamento ao sul do Lago Frostclaw? Certifique-se de que seus exploradores estão bem.</Page>
+    
     
     </Text>
     <Text huntingZoneId="231" id="3" prevId="2" villagerId="1025">
          
+         
         <Page social="4">Oh? Quem é você? Você veio aprender a explorar? &lt;BR&gt;&lt;BR&gt;Oh. Halwyn o enviou. Estamos bem, eu e Goratong. Melhor agora que as sirenes de frosthowl não são tão problemáticas. Obrigado por verificar.&lt;NEXTPAGEBUTTON&gt;"Ok. Até logo."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Ei, espere! Você gostaria de ganhar algum dinheiro?</Page>
+    
     
     </Text>
 </QuestDialog>

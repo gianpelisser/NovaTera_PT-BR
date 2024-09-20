@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="36" id="34" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="36" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="236" id="100" prevId="0" villagerId="1029">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="236" id="2" prevId="0" villagerId="1029">
          
+         
         <Page social="6">Killian tem uma espécie de fetiche estranho por torturar pessoas. Isso me dá voltas ao estômago, mas fatos são fatos.&lt;BR&gt;&lt;BR&gt;Os corpos de suas vítimas estão espalhados por aqui. Eu gostaria de rezar por seus pertences e colocá-los em repouso, mas não posso recolher todos os colares sozinho.</Page>
+    
     
     </Text>
     <Text huntingZoneId="236" id="3" prevId="2" villagerId="1029">
          
+         
         <Page social="5">Oh, obrigado. Estava partindo meu coração por não poder fazer mais por eles.&lt;BR&gt;&lt;BR&gt;Mesmo agora, não posso fazer muito... mas posso fazer alguma coisa.&lt;BR&gt;&lt;BR&gt;Às vezes, isso é tudo o que se pode esperar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="236" id="4" villagerId="1029">
          
+         
         <Page social="0">Por favor... as vítimas estão por toda parte, e me dói a alma pensar que não posso fazer mais nada por elas.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="31" id="38" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="31" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="231" id="100" prevId="0" villagerId="1043">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="231" id="2" prevId="0" villagerId="1043">
          
+         
         <Page social="4">Os {@LinkCreature:31#24#arcanistas das trevas} deveriam estar no Monte Tyrannas com o resto do exército do traidor, mas avistamos vários no gelo. Não faço ideia do que eles estão fazendo, mas você sabe tão bem quanto eu que é melhor detê-los antes que eles comecem a agir. Não precisamos de um segundo Monte Tyrannas por aqui.</Page>
+    
     
     </Text>
     <Text huntingZoneId="231" id="3" prevId="2" villagerId="1043">
          
+         
         <Page social="4">Ótimo trabalho, &lt;PCNAME&gt;! Agora não precisamos mais nos preocupar com o que eles estão fazendo.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="701" id="17" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="17" huntingZoneId="701" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="210" id="100" prevId="0" villagerId="2001">
          
+         
         <Page social="0">Você participou do jogo de tiro com canhão de respingo na galeria de tiro do Chelton.</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="2" prevId="0" villagerId="2001">
          
+         
         <Page social="4">Então, você gostou do meu jogo de canhão de respingos? Que bom! &lt;BR&gt;&lt;BR&gt;Por que você não vai jogar outra vez? Lembre-se: acerte um monstro vermelho e ganhe pontos! Acerte um monstro azul e perderá pontos!&lt;BR&gt;&lt;BR&gt;Agora vá pegá-los!</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="3" prevId="2" villagerId="2001">
          
+         
         <Page social="4">Já terminou? Vamos dar uma olhada na sua pontuação!&lt;BR&gt;&lt;BR&gt;Bem, bem, acho que você está pegando o jeito! Vou lhe dizer uma coisa: só porque gosto muito de você, vou lhe dar um prêmio especial: um demônio de estimação! Não é adorável? Não se preocupe, ele é domesticado e só ficará por aqui por um dia, de qualquer forma. Divirta-se com ele e não deixe de mostrá-lo a todos os seus amigos!</Page>
+    
     
     </Text>
 </QuestDialog>

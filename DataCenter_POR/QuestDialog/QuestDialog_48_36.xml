@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="48" id="36" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="48" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="248" id="100" prevId="0" villagerId="1032">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="248" id="2" prevId="0" villagerId="1032">
          
+         
         <Page social="4">Soldado, preciso de sua ajuda.&lt;NEXTPAGEBUTTON&gt;"O que você precisa?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Embora estejamos desenvolvendo novas armas, os argons não estão parados.&lt;BR&gt;&lt;BR&gt;Quero que você mate os shapers que controlam seus novos canhões sarjalod e me traga um componente de um desses canhões. Precisamos conhecer seus pontos fracos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="3" prevId="2" villagerId="1032">
          
+         
         <Page social="6">Essa não foi uma façanha fácil, &lt;PCNAME&gt;. Muito bem.&lt;BR&gt;&lt;BR&gt;Com esses modeladores mortos, os canhões ficarão em silêncio por um tempo e me darão tempo para analisar seu design.</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="4" villagerId="1032">
          
+         
         <Page social="0">Os modeladores nunca se aventuram sem lacaios para protegê-los.&lt;BR&gt;&lt;BR&gt;E cuidado com esses canhões. Não há como saber o que os fará explodir.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="12316001" string="Awards Program" />
-    <String id="12316002" string="Echelon Trophy" />
-    <String id="12316003" string="Hunt bosses inside dungeons to earn trophies." />
-    <String id="12316004" string="Bring the trophy to the {@linkcreature:84#22002#alliance administrator}." />
-    <String id="12316005" string="&quot;For the Iron Order!&quot;" />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="12312001" string="A Few Key Points Are in Order" />
+    <String id="12312002" string="&quot;It was my pleasure.&quot;" />
+    <String id="12312003" string="Bring any extractor keys to {@linkcreature:123#220037#Xende}." />
+    <String id="12312004" string="" />
 </StrSheet_Quest>

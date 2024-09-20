@@ -1,34 +1,46 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="28" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="28" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="228" id="100" prevId="0" villagerId="1001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="228" id="2" prevId="0" villagerId="1001">
          
+         
         <Page social="5">Temos três medidores que medem a corrupção na região, mas eles ficaram mudos.&lt;BR&gt;&lt;BR&gt;Preciso que você se aventure na floresta e os coloque de volta em funcionamento. É provável que eles precisem apenas de um simples ajuste.&lt;BR&gt;&lt;BR&gt;Encontre os três afliticômetros, conserte-os e volte para mim.</Page>
+    
     
     </Text>
     <Text huntingZoneId="228" id="3" prevId="2" villagerId="1020">
          
+         
         <Page social="0">(O dispositivo está fazendo um barulho alto, parece que algo está preso).</Page>
+    
     
     </Text>
     <Text huntingZoneId="228" id="4" prevId="2" villagerId="1018">
          
+         
         <Page social="0">(O aflitiômetro está clicando rapidamente, como garras no mármore).</Page>
+    
     
     </Text>
     <Text huntingZoneId="228" id="5" prevId="2" villagerId="1019">
          
+         
         <Page social="0">(Esse dispositivo é absolutamente silencioso).</Page>
+    
     
     </Text>
     <Text huntingZoneId="228" id="6" prevId="3" villagerId="1001">
          
+         
         <Page social="5">Que maravilha! Os aflictiômetros estão funcionando bem agora.&lt;BR&gt;&lt;BR&gt;Nada que um bom chute certeiro não resolva, aposto. Em nome do Mysterium, obrigado.&lt;BR&gt;&lt;BR&gt;Agora, vamos ver o que eles registraram.</Page>
+    
     
     </Text>
 </QuestDialog>

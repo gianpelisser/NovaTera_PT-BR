@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="21" id="44" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="21" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="221" id="100" prevId="0" villagerId="1029">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="221" id="2" prevId="0" villagerId="1029">
          
+         
         <Page social="4">Odeio perguntar, mas um agente da Mysterium passou sorrateiramente por nossas linhas e foi para o sul de Basilisk Crag.&lt;BR&gt;&lt;BR&gt;Ele pode estar morto ou pode ser o jantar de algum kulkari. Se você puder encontrá-lo e trazê-lo de volta, eu ficaria muito grato.</Page>
+    
     
     </Text>
     <Text huntingZoneId="221" id="3" prevId="2" villagerId="1041">
          
+         
         <Page social="0">(O homem está obviamente morto. Um amuleto Mysterium está em seu pescoço. Você deve recolher os pertences dele e devolvê-los a Rhysart).</Page>
+    
     
     </Text>
     <Text huntingZoneId="221" id="4" prevId="3" villagerId="1029">
          
+         
         <Page social="4">Essas coisas são do Jerod. Que droga, eu o avisei para não entrar lá.&lt;BR&gt;&lt;BR&gt;Agora você sabe por que tentamos manter o Mysterium fora daqui! &lt;BR&gt;&lt;BR&gt;Lamentamos que ele tenha morrido, mas pelo menos podemos contar à família dele o que aconteceu. Obrigado.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="6" id="38" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="6" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="206" id="100" prevId="0" villagerId="1029">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="206" id="2" prevId="0" villagerId="1029">
          
+         
         <Page social="5">Quando a missão de matar o chefe Gutrend estiver em andamento, os outros começarão a vir atrás de nós em ondas enormes. Vamos querer matar o máximo que pudermos antes que isso aconteça.&lt;BR&gt;&lt;BR&gt;Saiam e matem o máximo que puderem antes de começarmos. Fique de olho especialmente nos {@LinkCreature:6#2081#Gutrend Seers} e {@LinkCreature:6#2082#Juggernauts} em &lt;font color='#660000'&gt;Mags Kulkar&lt;/font&gt;. Eles serão os mais difíceis de lidar quando chegar a hora.</Page>
+    
     
     </Text>
     <Text huntingZoneId="206" id="3" prevId="2" villagerId="1029">
          
+         
         <Page social="5">Ótimo, bom, excelente! Você fez um bom trabalho. Esperamos que isso os detenha quando o trabalho real começar.</Page>
+    
     
     </Text>
 </QuestDialog>

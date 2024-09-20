@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="9" id="92" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="9" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="62" id="100" prevId="0" villagerId="1019">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="62" id="2" prevId="0" villagerId="1019">
          
+         
         <Page social="0">Mais coisas no labirinto aqui... vamos ver...&lt;BR&gt;&lt;BR&gt;Parece que {@LinkCreature:9#600#lutadores da morte}, {@LinkCreature:9#430#esmagadores de gula}, {@LinkCreature:9#700#caçadores de diabinhos alizarins}, {@LinkCreature:9#710#guardiões de diabinhos alizarins}, {@LinkCreature:9#800#açougueiros de gula} e {@LinkCreature:9#900#cozinheiros de jacaré} são os próximos.&lt;BR&gt;&lt;BR&gt;Essa é uma lista e tanto. Fale com Noleta quando terminar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="209" id="3" prevId="2" villagerId="1006">
          
+         
         <Page social="4">Muito bem, &lt;PCCLASS:lcase&gt;. Quando o labirinto estiver limpo, todos nós poderemos ir para casa! &lt;BR&gt;&lt;BR&gt;Ou pelo menos ficar em outro lugar, hein?</Page>
+    
     
     </Text>
     <Text huntingZoneId="209" id="4" villagerId="1006">
          
+         
         <Page social="0">Espero mais de você, &lt;PCCLASS:lcase&gt;.</Page>
+    
     
     </Text>
 </QuestDialog>

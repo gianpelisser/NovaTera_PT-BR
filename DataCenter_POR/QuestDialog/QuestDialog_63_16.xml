@@ -1,16 +1,24 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="63" voiceTypeId="0">
     <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
     <Text id="100" huntingZoneId="63" prevId="0" villagerId="1600">
+         
         <Page social="0" />
+    
     </Text>
     <Text id="2" huntingZoneId="63" prevId="0" villagerId="1600">
+         
         <Page social="4">Olá, olá! Vejo que você está ansioso para explorar algo novamente. Deixe-me dar uma olhada em minhas anotações. Bem, bem, bem... (Lendo: Recentemente descobri onde encontrar uma receita para a felicidade...) ... o que é? Não me lembro de ter escrito isso... (lê: Argon Corpus.) ... Isso é tudo, sem mais informações! É estranho... Não é a minha letra... Detesto mandá-lo para o desconhecido, mas se você verificar esse lugar, não seria ruim...</Page>
+    
     </Text>
     <Text id="3" huntingZoneId="63" prevId="2" villagerId="1600">
+         
         <Page social="4">Você voltou vivo, o que significa que não foi uma armadilha. O que você encontrou lá dentro? Uau, esses são realmente fragmentos de uma nova runa! Muito bem, obrigado! Mas quem deixou esse bilhete... Ah, certo, aqui está sua recompensa!</Page>
+    
     </Text>
     <Text id="4" huntingZoneId="63" villagerId="1600">
+         
         <Page social="0">Registro estranho ... Algum tipo de receita estranha de felicidade... Espero que tudo fique bem...</Page>
+    
     </Text>
 </QuestDialog>

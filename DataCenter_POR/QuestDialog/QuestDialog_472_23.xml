@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="472" id="23" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="472" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="208" id="100" prevId="0" villagerId="1020">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="208" id="2" prevId="0" villagerId="1020">
          
+         
         <Page social="4">Sabe por que chamam isso de ouro de tolo? Porque só os tolos ririam de um cientista sério que veio aqui para se dedicar à transmutação elementar! &lt;BR&gt;&lt;BR&gt;E estou tão perto de uma descoberta! Em breve, o poder de criar ouro será meu! Meu! &lt;NEXTPAGEBUTTON&gt;"Viva!"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">O truque - e não acredito que meus colegas ainda não tenham tentado isso - é usar magia, e não apenas uma coleção de compostos químicos.&lt;BR&gt;&lt;BR&gt;Há toda uma coisa de magia simpática acontecendo aqui. É bastante complicado.&lt;BR&gt;&lt;BR&gt;Por várias razões arbitrárias e esotéricas, preciso de &lt;B&gt;olhos de avareza&lt;/B&gt;. Mate os {@LinkCreature:472#29#Sihran avaritians} no Labirinto Dourado, depois volte e eu lhe explicarei melhor.</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="3" prevId="2" villagerId="1020">
          
+         
         <Page social="6">Veja, é uma magia de simpatia. Para a transmutação em ouro, preciso de um olho que tenha sido cegado pela ganância.&lt;BR&gt;&lt;BR&gt;Traga-o para mais perto. A luz aqui não é muito boa.</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="4" villagerId="1020">
          
+         
         <Page social="0">Não posso fazer isso sozinho, &lt;PCNAME&gt;!</Page>
+    
     
     </Text>
 </QuestDialog>

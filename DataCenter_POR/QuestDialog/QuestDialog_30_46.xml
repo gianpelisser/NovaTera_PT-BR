@@ -1,42 +1,58 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="46" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="46" huntingZoneId="30" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="230" id="100" prevId="0" villagerId="1047">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="230" id="2" prevId="0" villagerId="1047">
          
+         
         <Page social="1">O clã Consos vive no Refúgio de Balder há séculos. Impérios se ergueram e caíram ao nosso redor, mas nunca deixamos este lugar.&lt;BR&gt;&lt;BR&gt;Tenho alguma noção do que aconteceu no mundo exterior, mas meu conhecimento do que você chamaria de "eventos atuais" é lamentavelmente inadequado.&lt;BR&gt;&lt;BR&gt;Caminhe entre as pessoas, &lt;PCNAME&gt;, e ouça suas histórias. Faça um relatório para mim, mas primeiro: ouça de verdade.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="3" prevId="2" villagerId="1037">
          
+         
         <Page social="1">Nandu quer uma recontagem da história popori desde a morte do deus Balder? Ele tem um mês livre? &lt;BR&gt;&lt;BR&gt;Muito bem. Diga a ele o seguinte. A realeza elin nos leva de {@Rgn:68001$$Pora Elinu}. Rida, uma das princesas, esteve no refúgio de Balder recentemente, e talvez Nandu a tenha conhecido.&lt;NEXTPAGEBUTTON&gt;"Conte-me mais."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Bem, a deusa Elinu nos escondeu do mundo por séculos, mas depois desapareceu. Nós deveríamos saber melhor do que ninguém: ninguém pode se isolar como Elinu. Os popori e os elin se uniram à federação assim que soubemos que os argons estavam destruindo o mundo, não apenas conquistando-o.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="4" prevId="2" villagerId="1036">
          
+         
         <Page social="1">A história dos altos elfos deve ser bem conhecida, mesmo para um recluso como Nandu.&lt;BR&gt;&lt;BR&gt;Talvez ele busque a perspectiva de um High Elf erudito, no entanto, em vez de ouvir contos de glória de segunda mão. Que assim seja.&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Apenas um resumo, por favor."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">A sociedade élfica floresceu e era invejada pelo mundo, até que um acidente fez com que a Flor da Vida, a fonte de todo o poder de Allemantheia, saísse do controle.&lt;BR&gt;&lt;BR&gt;Somente o sacrifício da maior mente élfica fez com que a magia voltasse a ficar sob controle, na forma de um artefato vivo chamado Núcleo.&lt;BR&gt;&lt;BR&gt;Hoje os altos elfos são uma das muitas raças da Federação Valkyon, mas, como sempre, os elfos lideram pelo exemplo. Meu povo corrige nossos irmãos menos refinados com gentileza e delicadeza.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="5" prevId="2" villagerId="1034">
          
+         
         <Page social="1">Nandu sabe que os deuses frequentemente lutam contra os deuses. Durante séculos, ele viveu onde o mais nobre dos deuses, Balder, morreu nas mãos de seus inimigos divinos.&lt;BR&gt;&lt;BR&gt;Depois da Guerra Divina, os deuses sobreviventes estavam todos a salvo. Até recentemente.&lt;BR&gt;&lt;BR&gt;Mas agora... Akasha? Morto. Killian? Morto. Thulsa? Morta. Todos pelas mãos do mesmo mortal. Não é verdade, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"Eu não agi sozinho."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Você está sendo modesto ou cauteloso, eu me pergunto?&lt;BR&gt;&lt;BR&gt;Você não precisa se revelar, mas poderia mencionar a Nandu que todos - o Mysterium, a federação, os argons, os próprios deuses - estão observando o mortal que matou aqueles deuses.&lt;BR&gt;&lt;BR&gt;Eu me pergunto como esse mortal assassino de deuses resiste a tal escrutínio. Mas aposto que você não precisa se perguntar, não é mesmo?</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="6" prevId="3" villagerId="1047">
          
+         
         <Page social="1">Três contos de três contadores de histórias. Uma interessante lição de atualidades para mim.&lt;BR&gt;&lt;BR&gt;E uma interessante lição de psicologia para você.&lt;NEXTPAGEBUTTON&gt;"Como assim?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Considere o seguinte, &lt;PCNAME&gt;: Os contadores de histórias lhe ensinaram sobre a história ou, inadvertidamente, lhe ensinaram sobre eles mesmos?</Page>
+    
     
     </Text>
 </QuestDialog>

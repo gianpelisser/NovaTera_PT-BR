@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="33" id="27" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="33" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="233" id="100" prevId="0" villagerId="1012">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="233" id="2" prevId="0" villagerId="1012">
          
+         
         <Page social="0">Não se preocupe comigo. Morto ou vivo, não posso deixar a Cidadela do Tormento novamente.&lt;BR&gt;&lt;BR&gt;Farei o possível para ajudar os soldados que vierem a este lugar, mas, por favor, certifique-se de que eles saibam o que aconteceu comigo. &lt;BR&gt;&lt;BR&gt;Avisem-nos sobre os perigos e digam-lhes que estou aqui para ajudar,</Page>
+    
     
     </Text>
     <Text huntingZoneId="233" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="4">Você o encontrou! Helehr é um verdadeiro guerreiro amani.&lt;BR&gt;&lt;BR&gt;Cantaremos seus louvores e nos lembraremos de sua bravura enquanto os altos elfos o fizerem, e continuaremos sua luta até nossos últimos suspiros!</Page>
+    
     
     </Text>
 </QuestDialog>

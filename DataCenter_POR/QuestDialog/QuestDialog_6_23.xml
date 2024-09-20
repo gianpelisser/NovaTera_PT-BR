@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="6" id="23" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="6" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="206" id="100" prevId="0" villagerId="1018">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="206" id="2" prevId="0" villagerId="1018">
          
+         
         <Page social="5">Os Gutrends deixaram o gado tão nervoso que eles não comem mais o que temos disponível aqui. Eu sei que eles comem &lt;font color='#660000'&gt;Flor de Feno Doce&lt;/font&gt;, mas o único lugar para coletá-la é perto daqueles Gutrends.&lt;BR&gt;&lt;BR&gt;Não posso ir até lá ou morrerei, mas se você pudesse coletar um pouco... você poderia salvar a aldeia!</Page>
+    
     
     </Text>
     <Text huntingZoneId="206" id="3" prevId="2" villagerId="1018">
          
+         
         <Page social="5">Oh! Posso sentir o cheiro daqui! Isso deve acalmá-los e fazê-los comer novamente.&lt;BR&gt;&lt;BR&gt;Não tenho palavras para lhe agradecer.</Page>
+    
     
     </Text>
     <Text huntingZoneId="206" id="4" villagerId="1018">
          
+         
         <Page social="0">Como foi? Você encontrou o feno?</Page>
+    
     
     </Text>
 </QuestDialog>

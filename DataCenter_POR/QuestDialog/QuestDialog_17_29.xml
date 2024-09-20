@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="17" id="29" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="17" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="217" id="100" prevId="0" villagerId="1022">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="217" id="2" prevId="0" villagerId="1022">
          
+         
         <Page social="5">Entre o que roubam de nossas carroças e o que cultivam nas fazendas, o pessoal de Heavens Fall come muito bem! Eles cantam agradecimentos por sua generosidade a cada refeição.&lt;BR&gt;&lt;BR&gt;Eu, não comi mais do que rações de trilha! Não é nada justo.&lt;BR&gt;&lt;BR&gt;Eu quero que você entre sorrateiramente naquela fazenda e roube a colheita deles. Deixe que eles saibam como tem sido para nós!</Page>
+    
     
     </Text>
     <Text huntingZoneId="217" id="3" prevId="2" villagerId="1022">
          
+         
         <Page social="5">Raízes e bagas? Bagas secas? Bwaha!&lt;BR&gt;&lt;BR&gt;É por isso que eles estão cantando louvores? Ainda mais louco do que eu pensava!</Page>
+    
     
     </Text>
     <Text huntingZoneId="217" id="4" villagerId="1022">
          
+         
         <Page social="0">Vá até lá e me roube algumas frutas!</Page>
+    
     
     </Text>
 </QuestDialog>

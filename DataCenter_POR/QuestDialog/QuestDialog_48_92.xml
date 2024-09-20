@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="48" id="92" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="48" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="78" id="100" prevId="0" villagerId="1010">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="78" id="2" prevId="0" villagerId="1010">
          
+         
         <Page social="5">Esses malditos argonss colossais! Eles estão infligindo baixas horríveis em nossas forças. Acabe com isso! &lt;BR&gt;&lt;BR&gt;Mate todos os guardiões gilgash e devastadores akalath que encontrar.&lt;BR&gt;&lt;BR&gt;Apresente-se a Sistiren na Cidadela de Khanovar quando sua missão estiver concluída.</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="3" prevId="2" villagerId="1002">
          
+         
         <Page social="5">Akalaths e gilgashes? Uma luta impressionante! Obrigado!</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="4" villagerId="1002">
          
+         
         <Page social="0">Não parece que você tenha concluído seus objetivos.</Page>
+    
     
     </Text>
 </QuestDialog>

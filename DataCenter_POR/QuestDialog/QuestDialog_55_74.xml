@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="55" id="74" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="74" huntingZoneId="55" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0">Ordens da Missão&lt;BR&gt;&lt;BR&gt;Thulsa aumentou suas unidades com Ksharans. Eles precisam ser eliminados.&lt;BR&gt;&lt;BR&gt;Mate os Ksharan {@LinkCreature:55#13#shadow archers}, {@LinkCreature:55#14#reavers}, {@LinkCreature:55#15#berserkers} e {@LinkCreature:55#16#mystics}.&lt;BR&gt;&lt;BR&gt;Relate a Jola no Posto Avançado de Valumnir quando a missão estiver concluída.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="3" prevId="2" villagerId="0">
          
+         
         <Page social="4">Você recebeu os agradecimentos da federação. Sua guilda é uma inspiração para todos!</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="4" villagerId="0">
          
+         
         <Page social="0">Parece que você ainda não completou sua missão.</Page>
+    
     
     </Text>
 </QuestDialog>

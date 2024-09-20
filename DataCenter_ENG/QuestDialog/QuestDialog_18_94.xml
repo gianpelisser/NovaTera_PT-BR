@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="18" id="94" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="218" id="100" prevId="0" villagerId="1003">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="18" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1003">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="218" id="2" prevId="0" villagerId="1003">
-         
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1003">
         <Page social="4">The hyenas around here are still...problematic. And I know you're a problem-solver, aren't you?&lt;BR&gt;&lt;BR&gt;Kill the {@LinkCreature:18#111#dirty hyenas} and {@LinkCreature:18#112#ravenous hyenas}. I know I asked for hearts last time, but let's go with teeth, just to keep the spirits guessing.&lt;BR&gt;&lt;BR&gt;But don't bring the teeth to me! Gods, no! Give them to Tirian in Camp Marrakeen, and watch the look on his face.</Page>
-    
     </Text>
-    <Text huntingZoneId="218" id="3" prevId="2" villagerId="1004">
-         
+    <Text id="3" huntingZoneId="218" prevId="2" villagerId="1004">
         <Page social="4">So...teeth. From hyenas. This was Kardelen's idea, right? Figures.</Page>
-    
     </Text>
-    <Text huntingZoneId="218" id="4" villagerId="1004">
-         
+    <Text id="4" huntingZoneId="218" villagerId="1004">
         <Page social="0">Your hands are bloody but empty. Get back out there!</Page>
-    
     </Text>
 </QuestDialog>

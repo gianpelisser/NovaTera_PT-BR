@@ -1,31 +1,42 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="35" id="30" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="35" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="235" id="100" prevId="0" villagerId="1005">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="235" id="2" prevId="0" villagerId="1005">
          
+         
         <Page social="18">Thulsa tem uma fortaleza e tanto em Wyrmgorge. E agora os mekonari ao norte? Não dou a mínima para os planos deles, só quero que desapareçam.&lt;BR&gt;&lt;BR&gt;Enviei uma batedora, Wilene, para reunir informações. Fique de olho nela, está bem? Temo que ela tenha sido capturada.</Page>
+    
     
     </Text>
     <Text huntingZoneId="235" id="3" prevId="2" villagerId="1011">
          
+         
         <Page social="15">Você não é muito furtivo, não é? Consegui ser discreto, mas passei perto de algumas coisas.&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"O que você descobriu?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="5">Os mekonari estão colocando feitiços em alguns dos demônios daqui, tornando-os mais ferozes e trazendo-os para o lado dos mekonari. Basicamente, eles estão roubando armas vivas da legião - bem debaixo de seus pés.&lt;BR&gt;&lt;BR&gt;Se nos livrarmos deles, acredito que o feitiço se quebrará.</Page>
+    
     
     </Text>
     <Text huntingZoneId="235" id="4" prevId="3" villagerId="1011">
          
+         
         <Page social="8">Você é mais forte do que parece! &lt;BR&gt;&lt;BR&gt;Será um grande alívio para Ramsleigh se livrar desses mekonari.&lt;BR&gt;&lt;BR&gt;Você pode relatar a situação aqui para Tesran em Jagged Crest?</Page>
+    
     
     </Text>
     <Text huntingZoneId="235" id="5" prevId="4" villagerId="1015">
          
+         
         <Page social="15">Você tem notícias do norte?</Page>
+    
     
     </Text>
 </QuestDialog>

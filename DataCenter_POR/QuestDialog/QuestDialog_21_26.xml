@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="21" id="26" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="21" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="65" id="100" prevId="0" villagerId="1008">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="65" id="2" prevId="0" villagerId="1008">
          
+         
         <Page social="4">A &lt;FONT COLOR='#660000'&gt;essência do vento&lt;/FONT&gt; é famosa por seus maravilhosos poderes de purificação. Ora, só é possível contar com o oásis da aldeia para a nossa água potável porque há &lt;FONT COLOR='#660000'&gt;essência do vento&lt;/FONT&gt; no fundo desse mesmo oásis.&lt;BR&gt;&lt;BR&gt;É um recurso inestimável que nos permite sustentar a vida.&lt;BR&gt;&lt;BR&gt;Se por acaso você tiver alguma, eu lhe pagarei muito bem por ela.</Page>
+    
     
     </Text>
     <Text huntingZoneId="65" id="3" prevId="2" villagerId="1008">
          
+         
         <Page social="4">Oh, você conseguiu! Obrigado!&lt;BR&gt;&lt;BR&gt;As pessoas que dependem da água do oásis vão lhe agradecer por isso, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
     <Text huntingZoneId="65" id="4" villagerId="1008">
          
+         
         <Page social="0">Se você me trouxer alguma essência de vento para manter o oásis claro, ficarei muito grato.</Page>
+    
     
     </Text>
 </QuestDialog>

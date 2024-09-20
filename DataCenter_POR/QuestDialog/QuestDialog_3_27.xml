@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="3" id="27" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="3" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="59" id="100" prevId="0" villagerId="1001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="59" id="2" prevId="0" villagerId="1001">
          
+         
         <Page social="4">Tenho vergonha de pedir, principalmente quando as coisas estão tão ruins, mas preciso de sua ajuda. Meu cachorro, Ohdi, fugiu. As crianças me disseram que ele foi para o cemitério de Berzerad. Eu não pediria apenas para mim. Os outros moradores se sentem muito confortados com Ohdi.&lt;BR&gt;&lt;BR&gt;Tome esta bolsa. Tem uma guloseima que Esedran preparou para mim. Dê a Ohdi e ele pulará direto para a bolsa. Por favor?</Page>
+    
     
     </Text>
     <Text huntingZoneId="59" id="3" prevId="2" villagerId="1012">
          
+         
         <Page social="6">O animal de estimação de Corann? O maldito cachorro se mete em mais encrencas do que um ladrão bêbado.&lt;BR&gt;&lt;BR&gt;Sim, agora que você mencionou, acho que o vi subindo a colina. {O Ohdi gosta muito daquele cemitério.</Page>
+    
     
     </Text>
     <Text huntingZoneId="203" id="4" prevId="3" villagerId="1025">
          
+         
         <Page social="4">(As patas de Ohdi estão cobertas de sujeira e alguns buracos novos pontilham o chão. Ele olha para você com alegria indisfarçável e abana o rabo).</Page>
+    
     
     </Text>
     <Text huntingZoneId="59" id="5" prevId="4" villagerId="1001">
          
+         
         <Page social="4">&lt;PCNAME&gt;, tenho uma grande dívida com você. Obrigado por resgatar Ohdi. Não sei o que eu, er, a cidade faria.</Page>
+    
     
     </Text>
 </QuestDialog>

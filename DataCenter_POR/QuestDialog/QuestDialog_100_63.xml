@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="100" id="63" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="63" huntingZoneId="100" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="84" id="100" prevId="0" villagerId="1606">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="84" id="2" prevId="0" villagerId="1606">
          
+         
         <Page social="0">Seria um desperdício usar esses materiais caros apenas para praticar. Use os materiais de prática que preparei para gravar.&lt;BR&gt;&lt;font color = '#2478FF'&gt;E lembre-se: Esta é apenas uma gravação de prática. Você vai querer usar a coisa real, para aplicações reais.&lt;/font&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="84" id="3" prevId="2" villagerId="1606">
          
+         
         <Page social="0">Não há mais nada que eu possa lhe ensinar, &lt;PCNAME&gt;. Agora você sabe tudo o que eu sei sobre como criar gravuras. De agora em diante, o aprimoramento dessa habilidade depende de você. Espero que você se esforce e se torne um mestre da gravura.</Page>
+    
     
     </Text>
     <Text huntingZoneId="84" id="4" villagerId="1606">
          
+         
         <Page social="0">Você não tem certeza sobre o processo, &lt;PCNAME&gt;? Ou está apenas fazendo uma pausa?</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="32" id="29" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="32" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="232" id="100" prevId="0" villagerId="1018">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="232" id="2" prevId="0" villagerId="1018">
          
+         
         <Page social="4">Se você conseguir derrotar {@LinkCreature:32#7#Stalker Company reapers}, poderá se considerar um herói. Eles são duros como o permafrost.&lt;BR&gt;&lt;BR&gt;Se quiser provar seu valor, você pode encontrá-los no acampamento mercenário na bacia ao norte.</Page>
+    
     
     </Text>
     <Text huntingZoneId="232" id="3" prevId="2" villagerId="1018">
          
+         
         <Page social="4">Ah! Como eu pensava! Você é um verdadeiro herói. Será uma honra lutar ao seu lado.</Page>
+    
     
     </Text>
 </QuestDialog>

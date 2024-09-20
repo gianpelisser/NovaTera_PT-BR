@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="54" id="22" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="54" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="81" id="100" prevId="0" villagerId="1028">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="81" id="2" prevId="0" villagerId="1028">
          
+         
         <Page social="4">Como os argons corromperam nosso povo com sua própria presença? &lt;BR&gt;&lt;BR&gt;Podemos lutar contra invasores que levam pessoas. Mas como podemos lutar contra um vento maligno?&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, você não vai dizer a Eltarun que está aqui para ajudar?</Page>
+    
     
     </Text>
     <Text huntingZoneId="81" id="3" prevId="2" villagerId="1011">
          
+         
         <Page social="4">Saudações, &lt;PCCLASS:lcase&gt;! Momento auspicioso.&lt;BR&gt;&lt;BR&gt;Os fey contaminados abundam nesta floresta, mas não podemos dizer se alguns estão realmente corrompidos ou se são apenas naturalmente violentos.&lt;BR&gt;&lt;BR&gt;Ao norte, popori selvagens vagam pela floresta. Não são do tipo civilizado da sua federação ou do meu Mysterium, mas criaturas ferozes que podem ou não estar contaminadas.&lt;BR&gt;&lt;BR&gt;Preciso que você colete um pouco do sangue deles para que eu possa analisar sua condição.</Page>
+    
     
     </Text>
     <Text huntingZoneId="81" id="4" prevId="3" villagerId="1011">
          
+         
         <Page social="4">É conclusivo. Eles contêm o mesmo contaminante que descobrimos nos outros fey.&lt;BR&gt;&lt;BR&gt;Temo que ninguém em Seeliewood consiga escapar dessa aflição sinistra. Curiosamente, porém, ela parece ser particularmente virulenta entre os fey.</Page>
+    
     
     </Text>
     <Text huntingZoneId="81" id="5" villagerId="1011">
          
+         
         <Page social="0">A pedreira fica ao norte.&lt;BR&gt;&lt;BR&gt;Minha pesquisa é importante, e não gosto de ficar esperando.</Page>
+    
     
     </Text>
 </QuestDialog>

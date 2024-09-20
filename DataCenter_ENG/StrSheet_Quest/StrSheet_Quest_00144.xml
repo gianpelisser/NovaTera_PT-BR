@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="591001" string="Suppression Orders: Mirelings" />
-    <String id="591002" string="Proof of Kill: Mireling Deaths" />
-    <String id="591003" string="&quot;For the federation!&quot;" />
-    <String id="591004" string="Eliminate the muddy sporewalkers, hungry cullars, and tentacullars around Tuwangi Mire." />
-    <String id="591005" string="Report to Gara in the Marshlands." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="573001" string="(Guild) Suppression Orders: Tuwangi Thorp" />
+    <String id="573002" string="Proof of Kill: Tuwangi Deaths" />
+    <String id="573003" string="&quot;For the federation!&quot;" />
+    <String id="573004" string="Kill the upstart tuwangis in Tuwangi Thorp." />
+    <String id="573005" string="Report to Zandra in Lumbertown." />
 </StrSheet_Quest>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_UI xmlns="https://vezel.dev/novadrop/dc/StrSheet_UI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_UI StrSheet_UI.xsd">
+<StrSheet_UI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_UI StrSheet_UI.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_UI">
     <String string="Skills" stringId="$001001" />
     <String string="Extended Skills" stringId="$001002" />
     <String string="Chat" stringId="$001003" />
@@ -25,8 +24,7 @@
     <String string="N" stringId="$001023" />
     <String string="I" stringId="$001024" />
     <String string="L" stringId="$001025" />
-    <String string="Num
-Lock" stringId="$001026" />
+    <String string="Num Lock" stringId="$001026" />
     <String string="F1" stringId="$001027" />
     <String string="F2" stringId="$001028" />
     <String string="F3" stringId="$001029" />
@@ -64,8 +62,8 @@ Lock" stringId="$001026" />
     <String string="E" stringId="$001061" />
     <String string="Tab" stringId="$001062" />
     <String string="B" stringId="$001063" />
-    <String string="Show cursor" stringId="$001064" />
-    <String string=" m." stringId="$001065" />
+    <String string="Show Mouse Cursor" stringId="$001064" />
+    <String string="m" stringId="$001065" />
     <String string="ESRB: M" stringId="$002001" />
     <String string="H" stringId="$002002" />
     <String string="Help" stringId="$002003" />
@@ -99,7 +97,7 @@ Lock" stringId="$001026" />
     <String string="Trusted" stringId="$005022" />
     <String string="Revered" stringId="$005023" />
     <String string="Stage" stringId="$005024" />
-    <String string="Elite Status Perks" stringId="$005025" />
+    <String string="TERA Club Perks" stringId="$005025" />
     <String string="Say" stringId="$005026" />
     <String string="Battleground" stringId="$005027" />
     <String string="Watch Video" stringId="$005028" />
@@ -140,6 +138,22 @@ Lock" stringId="$001026" />
     <String string="{point} points." stringId="$007028" />
     <String string="%" stringId="$007029" />
     <String string="Effect: " stringId="$007030" />
+    <String string="Laurels reflect your recent achievements.&lt;BR&gt;The scoring system adjusts each season." stringId="$007031" />
+    <String string="Earn more achievements to improve your laurel!" stringId="$007032" />
+    <String string="Seasonal adjustments may earn you different laurels for the same activities." stringId="$007033" />
+    <String string="History" stringId="$007034" />
+    <String string="" stringId="$007035" />
+    <String string="Bronze" stringId="$007036" />
+    <String string="Silver" stringId="$007037" />
+    <String string="Gold" stringId="$007038" />
+    <String string="Diamond" stringId="$007039" />
+    <String string="Champion" stringId="$007040" />
+    <String string="[Champion]" stringId="$007041" />
+    <String string="[Bronze]" stringId="$007042" />
+    <String string="[Silver]" stringId="$007043" />
+    <String string="[Gold]" stringId="$007044" />
+    <String string="[Diamond]" stringId="$007045" />
+    <String string=" laurel with more achievement points: " stringId="$007046" />
     <String string="In-Game Operation Tool" stringId="$008001" />
     <String string="Inquiry / Response Functions" stringId="$008002" />
     <String string="Character name" stringId="$008003" />
@@ -315,14 +329,13 @@ Lock" stringId="$001026" />
     <String string="Subscription Time:" stringId="$012035" />
     <String string="Free event period" stringId="$012036" />
     <String string="Number of character(s) to delete: {deletecharacternum}." stringId="$012037" />
-    <String string="This page is a temporary location. 
-This page and its contents are accessible only until {deletecharactermonth}/{deletecharacterdate}/{deletecharacteryear}." stringId="$012038" />
-    <String string="This page is a temporary location for server merges and transfers. 
-This page is accessible only for 30 days once you enter the game." stringId="$012039" />
+    <String string="This page is a temporary location.  This page and its contents are accessible only until {deletecharactermonth}/{deletecharacterdate}/{deletecharacteryear}." stringId="$012038" />
+    <String string="This page is a temporary location for server merges and transfers.  This page is accessible only for 30 days once you enter the game." stringId="$012039" />
     <String string="Rested" stringId="$012040" />
     <String string="Free play account:" stringId="$012041" />
     <String string="Time until deleted: " stringId="$012042" />
     <String string="Will be deleted: " stringId="$012043" />
+    <String string="Achievement Points" stringId="$012044" />
     <String string="Human" stringId="$013001" />
     <String string="Castanic" stringId="$013002" />
     <String string="Aman" stringId="$013003" />
@@ -335,7 +348,7 @@ This page is accessible only for 30 days once you enter the game." stringId="$01
     <String string="&quot;Cunning, fiery, and ready to seize their destiny.&quot;" stringId="$013010" />
     <String string="Known for their dark, wry humor and bold manner, castanics refused to be chained to their dark past, and now strive each day to forge a new future. Fierce and independent, castanics make superb allies...or deadly enemies." stringId="$013011" />
     <String string="&quot;Freedom and honor are not given, but earned.&quot;" stringId="$013012" />
-    <String string="After millennia as warrior-slaves to the giants, amani are enthusiastic about this new era of equality. Their endurance of slavery and their newly won freedom demonstrate the strength of their bodies and of their will. The amani strive to suppress the violent nature forced upon them by their captors. Given provocation, however, it will rise to the surface." stringId="$013013" />
+    <String string="After millennia as warrior-slaves to the giants, amani are enthusiastic about this new era of equality. Their Endurance of slavery and their newly won freedom demonstrate the strength of their bodies and of their will. The amani strive to suppress the violent nature forced upon them by their captors. Given provocation, however, it will rise to the surface." stringId="$013013" />
     <String string="&quot;Nature is eternal. Popori are nature.&quot;" stringId="$013014" />
     <String string="Nature guardians awakened by the elins, the poporis live harmoniously in the natural world. Their diminutive stature and warm fuzzy appearance belies their instinctive ferocity in battle. They may walk upright, but their emotions and instincts are closer to the animals they once were. Confident and unashamed, poporis rarely feel guilt, embarrassment, or sadness." stringId="$013015" />
     <String string="&quot;Knowledge illuminates the past, focuses the present, and kindles the future.&quot;" stringId="$013016" />
@@ -353,7 +366,7 @@ This page is accessible only for 30 days once you enter the game." stringId="$01
     <String string="Evasion Tank or Sustained DPS, Melee, Leather Armor" stringId="$013028" />
     <String string="Quick attacks and high mobility make warriors essential to group play, but also survivable while soloing. Tanking with this class is very possible but also extremely difficult.  If you choose a warrior to be a tank—be prepared for a challenge." stringId="$013029" />
     <String string="Absorption Tank, Melee, Metal Armor" stringId="$013030" />
-    <String string="Lancers are heavily armored fighters focused on anchoring a battle. They generate maximum threat with shouts and special attacks, sacrificing movement and attack power for the best durability in the game." stringId="$013031" />
+    <String string="Lancers are heavily armored fighters focused on anchoring a battle. They draw the enemy's attention and aggression with shouts and special attacks, sacrificing movement and attack power for the best durability in the game." stringId="$013031" />
     <String string="Burst DPS, Melee, Leather Armor" stringId="$013032" />
     <String string="A lightly armored, agile fighter with a devastating greatsword. High damage attacks combine with evasive maneuvers for a dynamic combat style." stringId="$013033" />
     <String string="Burst DPS, Melee, Metal Armor" stringId="$013034" />
@@ -362,7 +375,7 @@ This page is accessible only for 30 days once you enter the game." stringId="$01
     <String string="The sorcerer is a ranged damage class focused on annihilating the enemy with high-damage &quot;nuke&quot; attacks. The mobile artillery of TERA." stringId="$013037" />
     <String string="Sustained DPS, Ranged, Leather Armor" stringId="$013038" />
     <String string="Primary Healer, Ranged, Cloth Armor" stringId="$013039" />
-    <String string="The priest is a robed magic user whose primary role is to restore health and vitality. However, a priest is not to be taken lightly—the same power that revives allies can be used to smite foes." stringId="$013040" />
+    <String string="The priest is a robed magic user whose primary role is to restore health and vitality. However, a priest is not to be taken lightly—the same Power that revives allies can be used to smite foes." stringId="$013040" />
     <String string="Support Healer, Ranged, Cloth Armor" stringId="$013041" />
     <String string="Mystics are a strong support class with skills to protect and enhance their party through buffs and auras. Mystics also summon mighty thralls to assist, heal and aid them in battle." stringId="$013042" />
     <String string="Next" stringId="$013043" />
@@ -438,7 +451,7 @@ This page is accessible only for 30 days once you enter the game." stringId="$01
     <String string="&lt;font color='#FFFFFF'&gt;Void Pulse&lt;/font&gt;&lt;br&gt;Launch a powerful sphere at a front area." stringId="$013113" />
     <String string="&lt;font color='#FFFFFF'&gt;Focus Heal&lt;/font&gt;&lt;br&gt;Restore HP to up to 2 targeted group members." stringId="$013114" />
     <String string="&lt;font color='#FFFFFF'&gt;Grace of Resurrection&lt;/font&gt;&lt;br&gt;Grants a blessing enabling the priest to resurrect immediately with a large amount of HP and MP, and with maximum Stamina." stringId="$013115" />
-    <String string="&lt;font color='#FFFFFF'&gt;Energy Stars&lt;/font&gt;&lt;br&gt;Fires an energy bolt at a target. The bolt damages the target while increasing power and attack speed for group members near the target for 20 seconds. " stringId="$013116" />
+    <String string="&lt;font color='#FFFFFF'&gt;Energy Stars&lt;/font&gt;&lt;br&gt;Fires an energy bolt at a target. The bolt damages the target while increasing Power and Attack Speed for group members near the target for 20 seconds. " stringId="$013116" />
     <String string="&lt;font color='#FFFFFF'&gt;Thrall of Life&lt;/font&gt;&lt;br&gt;Summon a Thrall of Life that periodically heals you and removes harmful effects." stringId="$013117" />
     <String string="&lt;font color='#FFFFFF'&gt;Thrall of Vengeance&lt;/font&gt;&lt;br&gt;Summon a Thrall of Vengeance that makes ranged attacks against your enemies." stringId="$013118" />
     <String string="&lt;font color='#FFFFFF'&gt;Volley of Curses&lt;/font&gt;&lt;br&gt;Inflict a curse that damages a target every 2 seconds for 10 seconds." stringId="$013119" />
@@ -448,23 +461,23 @@ This page is accessible only for 30 days once you enter the game." stringId="$01
     <String string="New class!" stringId="$013123" />
     <String string="Elin Reaper" stringId="$013124" />
     <String string="May not create without a character of level " stringId="$013125" />
-    <String string="50 or higher." stringId="$013126" />
+    <String string="40 or higher." stringId="$013126" />
     <String string="[Racial Traits" stringId="$013127" />
-    <String string="&lt;font color='#FFFFFF'&gt;Deft Footwork&lt;/font&gt;&lt;br&gt;Your chances of being knocked down by another player decrease by 50% for 3 minutes." stringId="$013128" />
-    <String string="&lt;font color='#FFFFFF'&gt;Indomitable Spirit&lt;/font&gt;&lt;br&gt;When HP is below 30%, you take 10% less damage from other players." stringId="$013129" />
-    <String string="&lt;font color='#FFFFFF'&gt;Resilience of Body&lt;/font&gt;&lt;br&gt;Heals you continuously after you're resurrected." stringId="$013130" />
+    <String string="&lt;font color='#FFFFFF'&gt;Deft Footwork&lt;/font&gt;&lt;br&gt;Decreases chance of being knocked down by another player by 50% for 3 minutes." stringId="$013128" />
+    <String string="&lt;font color='#FFFFFF'&gt;Indomitable Spirit&lt;/font&gt;&lt;br&gt;Reduces damage taken from other players by 10% when you are below 30% HP." stringId="$013129" />
+    <String string="&lt;font color='#FFFFFF'&gt;Resilience of Body&lt;/font&gt;&lt;br&gt;Recovers HP continuously after resurrection." stringId="$013130" />
     <String string="&lt;font color='#FFFFFF'&gt;Nomadic Crafter&lt;/font&gt;&lt;br&gt;Increases crafting speed for light armor by 10%." stringId="$013131" />
-    <String string="&lt;font color='#FFFFFF'&gt;Skirmish Running&lt;/font&gt;&lt;br&gt;When in combat, your movement speed increases by 30% for 3 minutes. Effect ends when you are knocked down." stringId="$013132" />
-    <String string="&lt;font color='#FFFFFF'&gt;Dirty Fighting&lt;/font&gt;&lt;br&gt;Increases critical hit rate by 1% when you attack a target from behind." stringId="$013133" />
+    <String string="&lt;font color='#FFFFFF'&gt;Skirmish Running&lt;/font&gt;&lt;br&gt;Increases in-combat Movement Speed by 30% for 3 minutes. Effect ends if you are knocked down." stringId="$013132" />
+    <String string="&lt;font color='#FFFFFF'&gt;Dirty Fighting&lt;/font&gt;&lt;br&gt;Increases Crit Rate by 1% when attacking from behind." stringId="$013133" />
     <String string="&lt;font color='#FFFFFF'&gt;Weaponforger&lt;/font&gt;&lt;br&gt;Increases crafting speed for metallic weapons by 10%." stringId="$013134" />
     <String string="&lt;font color='#FFFFFF'&gt;Light Landing&lt;/font&gt;&lt;br&gt;Decreases falling damage by 50%." stringId="$013135" />
-    <String string="&lt;font color='#FFFFFF'&gt;Last Aman Standing&lt;/font&gt;&lt;br&gt;Increases resistance to knockdown and immobilization. Casting duration is instant, effect duration is 30 seconds, and cooldown duration is 1 hour." stringId="$013136" />
+    <String string="&lt;font color='#FFFFFF'&gt;Last Aman Standing&lt;/font&gt;&lt;br&gt;Increases resistance to knockdown and stagger. Casting duration is instant, effect duration is 30 seconds, and cooldown duration is 1 hour." stringId="$013136" />
     <String string="&lt;font color='#FFFFFF'&gt;No Stranger to Pain&lt;/font&gt;&lt;br&gt;Decreases damage received by 10% when your HP is below 30%." stringId="$013137" />
     <String string="&lt;font color='#FFFFFF'&gt;Blood of Dragons&lt;/font&gt;&lt;br&gt;Increases resistance to periodic damage by 10." stringId="$013138" />
     <String string="&lt;font color='#FFFFFF'&gt;Prospector&lt;/font&gt;&lt;br&gt;Increases ore gathering speed by 15%." stringId="$013139" />
-    <String string="&lt;font color='#FFFFFF'&gt;Core Infusion&lt;/font&gt;&lt;br&gt;Replenish 100% of your MP through the power of the Core." stringId="$013140" />
+    <String string="&lt;font color='#FFFFFF'&gt;Core Infusion&lt;/font&gt;&lt;br&gt;Replenishes 100% of your MP through the Power of the Core." stringId="$013140" />
     <String string="&lt;font color='#FFFFFF'&gt;Core's Resonance&lt;/font&gt;&lt;br&gt;Teleport to Allemantheia. Level limitation exists." stringId="$013141" />
-    <String string="&lt;font color='#FFFFFF'&gt;Resilience of Mind&lt;/font&gt;&lt;br&gt;Restores your MP continuously after you're resurrected." stringId="$013142" />
+    <String string="&lt;font color='#FFFFFF'&gt;Resilience of Mind&lt;/font&gt;&lt;br&gt;Replenishes MP continuously after resurrection." stringId="$013142" />
     <String string="&lt;font color='#FFFFFF'&gt;Coalescence&lt;/font&gt;&lt;br&gt;Increases gathering speed for essence by 15%." stringId="$013143" />
     <String string="&lt;font color='#FFFFFF'&gt;Ancient Wellspring&lt;/font&gt;&lt;br&gt;Replenish all your HP by tapping magic from bygone age." stringId="$013144" />
     <String string="&lt;font color='#FFFFFF'&gt;Indefatigable&lt;/font&gt;&lt;br&gt;Your Stamina does not fall below 20%." stringId="$013145" />
@@ -481,12 +494,23 @@ This page is accessible only for 30 days once you enter the game." stringId="$01
     <String string="Return to Original Voice" stringId="$013156" />
     <String string="Confirm Voice Change" stringId="$013157" />
     <String string="" stringId="$013158" />
+    <String string="Gunner" stringId="$013159" />
+    <String string="Create a Gunner" stringId="$013160" />
+    <String string="Burst DPS, Ranged, Metal Armor" stringId="$013161" />
+    <String string="Gunners use a combination of gadgetry and skill to bring ranged power to the front lines. In addition to their formidable arcannons, gunners can summon constructs with a variety of uses." stringId="$013162" />
+    <String string="[Player Skill Required&lt;img src='starImg'&gt;&lt;img src='starImg'&gt;&lt;img src='starImg'&gt;/Attack Abilities&lt;img src='starImg'&gt;&lt;img src='starImg'&gt;&lt;img src='starImg'&gt;&lt;img src='starImg'&gt;&lt;img src='starImg'&gt;/Regenerative Abilities&lt;img src='starImg'&gt;/Class Features" stringId="$013163" />
+    <String string="&lt;font color='#FFFFFF'&gt;Scattershot&lt;/font&gt;&lt;br&gt;Fires a lethal spread of projectiles." stringId="$013164" />
+    <String string="&lt;font color='#FFFFFF'&gt;Burst Fire&lt;/font&gt;&lt;br&gt;Focuses the gunner's Willpower in an escalating cascade of damage." stringId="$013165" />
+    <String string="&lt;font color='#FFFFFF'&gt;Arcane Barrage&lt;/font&gt;&lt;br&gt;Damages all enemies in a line, then detonates for massive critical damage. Skill enhanced by a summoned construct." stringId="$013166" />
+    <String string="Only an elin can be a reaper, and the account must have an existing character of level 40 or higher. " stringId="$013167" />
+    <String string="Only high elf and castanic females can be gunners." stringId="$013168" />
+    <String string="The character level-up support event is active!" stringId="$013169" />
     <String string="Back" stringId="$014001" />
     <String string="Pause" stringId="$014002" />
     <String string="Continue" stringId="$014003" />
     <String string="Faster" stringId="$014004" />
     <String string="Slower" stringId="$014005" />
-    <String string="&quot;TERA&quot; and &quot;TERA : The Exiled Realm of Arborea&quot; are trademarks of Bluehole Studio Inc. Copyright © 2007-2014 Bluehole Studio Inc. All rights reserved." stringId="$014006" />
+    <String string="&quot;TERA&quot; and &quot;TERA : The Exiled Realm of Arborea&quot; are trademarks of Bluehole, Inc. Copyright © 2007–2015 Bluehole, Inc. All rights reserved. DAT:31.04.00.SJM-PC.2015-03-10T10:59:06" stringId="$014006" />
     <String string="HP" stringId="$021001" />
     <String string="MP" stringId="$021002" />
     <String string="Loot options" stringId="$021003" />
@@ -772,9 +796,10 @@ This page is accessible only for 30 days once you enter the game." stringId="$01
     <String string="Minimize the Avatar Weapons window" stringId="$051008" />
     <String string="Exchange" stringId="$051009" />
     <String string="&lt;font color='#3FCBE4'&gt;Dismantling&lt;/font&gt;&lt;br&gt;Dismantle equipment to obtain feedstock (an enchantment material) of the same tier." stringId="$051010" />
-    <String string="&lt;font color='#3FCBE4'&gt;Fusing Crystals&lt;/font&gt;&lt;br&gt;Combine fine crystals to obtain other fine or superb crystals." stringId="$051011" />
+    <String string="&lt;font color='#3FCBE4'&gt;Fusing Crystals&lt;/font&gt;&lt;br&gt;Combine fine crystals to obtain other fine or dyad crystals." stringId="$051011" />
     <String string="&lt;font color='#3FCBE4'&gt;Enchanting&lt;/font&gt;&lt;br&gt;Open enchant window to add bonuses to your equipment." stringId="$051012" />
     <String string="Change Enchantment Bonuses" stringId="$051013" />
+    <String string="CN Circulated Gold Tooltip" stringId="$051014" />
     <String string="Bank" stringId="$061001" />
     <String string="Banked" stringId="$061002" />
     <String string="Sort" stringId="$061003" />
@@ -866,7 +891,10 @@ This page is accessible only for 30 days once you enter the game." stringId="$01
     <String string="Glyph Points" stringId="$082047" />
     <String string="View All Skills" stringId="$082048" />
     <String string="Basic View" stringId="$082049" />
-    <String string="Combined View" stringId="$082050" />
+    <String string="Column View" stringId="$082050" />
+    <String string="Set a greeting msessage" stringId="$082051" />
+    <String string="&lt;font color='#80e71c'&gt;[Click to obtain]&lt;/font&gt;" stringId="$082052" />
+    <String string="&lt;font color='#80e71c'&gt;[Click to upgrade]&lt;/font&gt;" stringId="$082053" />
     <String string="Chain trigger skill" stringId="$083001" />
     <String string="Display only in combat" stringId="$083002" />
     <String string="Display time" stringId="$083003" />
@@ -946,21 +974,23 @@ This page is accessible only for 30 days once you enter the game." stringId="$01
     <String string="Time Limit" stringId="$094003" />
     <String string="Progress" stringId="$094004" />
     <String string="Reward" stringId="$094005" />
-    <String string="" stringId="$094006" />
+    <String string="Go" stringId="$094006" />
     <String string="Attended {count} of the last {total} days" stringId="$094007" />
     <String string=" days" stringId="$094008" />
     <String string="{count}" stringId="$094009" />
-    <String string="Vanguard badges needed:" stringId="$094010" />
+    <String string="Vanguard badges:" stringId="$094010" />
     <String string="All" stringId="$094011" />
     <String string="Source limits: " stringId="$094012" />
     <String string="Story" stringId="$094013" />
-    <String string="Dungeon" stringId="$094014" />
+    <String string="Party" stringId="$094014" />
     <String string="PvP" stringId="$094015" />
     <String string="General" stringId="$094016" />
     <String string="Receive Reward" stringId="$094017" />
     <String string="[Vanguard Badge]&lt;br&gt;This task earns you one vanguard badge." stringId="$094018" />
     <String string="Remaining vanguard badges" stringId="$094019" />
     <String string="Reward Earned" stringId="$094020" />
+    <String string="Recover Production Points" stringId="$094021" />
+    <String string="Check Quest" stringId="$094022" />
     <String string="Edge Increase" stringId="$101000" />
     <String string="MP cost" stringId="$101001" />
     <String string="HP cost" stringId="$101002" />
@@ -970,14 +1000,14 @@ This page is accessible only for 30 days once you enter the game." stringId="$01
     <String string="Charmed" stringId="$101006" />
     <String string="Physical" stringId="$101007" />
     <String string="Type" stringId="$101008" />
-    <String string="Guild hall size" stringId="$101009" />
+    <String string="Skycastle size" stringId="$101009" />
     <String string="Selling guild [Guildmaster]" stringId="$101010" />
     <String string="Purchasing guild [Guildmaster]" stringId="$101011" />
     <String string="None" stringId="$101012" />
     <String string="Total buying price" stringId="$101013" />
     <String string="Crafted item" stringId="$101014" />
     <String string="Enchantable" stringId="$101015" />
-    <String string="Untradeable" stringId="$101016" />
+    <String string="Untradable" stringId="$101016" />
     <String string="Mortgagable" stringId="$101017" />
     <String string="shop selling" stringId="$101018" />
     <String string="shop buying" stringId="$101019" />
@@ -1038,8 +1068,8 @@ This page is accessible only for 30 days once you enter the game." stringId="$01
     <String string="If enchanting fails" stringId="$101075" />
     <String string="{Grade}" stringId="$101076" />
     <String string="Type" stringId="$101077" />
-    <String string="Shop Sell value" stringId="$101078" />
-    <String string="Unidentified effect x {count}" stringId="$101079" />
+    <String string="Sale value" stringId="$101078" />
+    <String string="Unidentified effect ×{count}" stringId="$101079" />
     <String string="Stat Totals when Equipped" stringId="$101080" />
     <String string="Drag to move effect icon" stringId="$101081" />
     <String string="hr" stringId="$101082" />
@@ -1056,15 +1086,15 @@ This page is accessible only for 30 days once you enter the game." stringId="$01
     <String string="Hard" stringId="$101093" />
     <String string="May be destroyed upon death." stringId="$101094" />
     <String string="Stackable" stringId="$101095" />
-    <String string="Cannot stack with crystals that have the same effect." stringId="$101096" />
+    <String string="Cannot stack with crystals that have the same effect" stringId="$101096" />
     <String string="Grant magic" stringId="$101097" />
     <String string="You can equip Foundation Stones." stringId="$101098" />
     <String string="This will be activated if you enchant it." stringId="$101099" />
     <String string="Core" stringId="$101100" />
     <String string="Dismantles into tier {Rank} feedstock ×{ItemCount}." stringId="$101101" />
-    <String string="Enchantment Finished" stringId="$101102" />
-    <String string="Available for Masterwork Enchantment" stringId="$101103" />
-    <String string="Available for Awakened Enchantment" stringId="$101104" />
+    <String string="Enchantment Completed" stringId="$101102" />
+    <String string="Eligible for Masterwork Enchantment" stringId="$101103" />
+    <String string="Eligible for Awakened Enchantment" stringId="$101104" />
     <String string="Cost" stringId="$101105" />
     <String string="Close" stringId="$102001" />
     <String string="Unlocked window" stringId="$102002" />
@@ -1144,13 +1174,9 @@ This page is accessible only for 30 days once you enter the game." stringId="$01
     <String string="Auto-sort" stringId="$102076" />
     <String string="To discard, drag item here." stringId="$102077" />
     <String string="To change channels, open System menu and select Channel." stringId="$102078" />
-    <String string="Enchanting target
-Place an item to enchant here." stringId="$102079" />
-    <String string="Enchanting material
-Place an enchanting material here
-Enchanting material should be the same type as the target, and should not be enchanted already." stringId="$102080" />
-    <String string="Enchanting scroll
-Choose an enchanting type by placing a enchanting scroll here." stringId="$102081" />
+    <String string="Enchanting target Place an item to enchant here." stringId="$102079" />
+    <String string="Enchanting material Place an enchanting material here Enchanting material should be the same type as the target, and should not be enchanted already." stringId="$102080" />
+    <String string="Enchanting scroll Choose an enchanting type by placing a enchanting scroll here." stringId="$102081" />
     <String string="Shop profits. Click Transact to collect your gold." stringId="$102082" />
     <String string="Remaining buying funds" stringId="$102083" />
     <String string="Set to match your screen ratio. If you're unsure what ratio you have, select &quot;Aspect ratio.&quot;" stringId="$102084" />
@@ -1280,8 +1306,7 @@ Choose an enchanting type by placing a enchanting scroll here." stringId="$10208
     <String string="," stringId="$102208" />
     <String string="Acquisition Date" stringId="$102209" />
     <String string="" stringId="$102210" />
-    <String string="[To combine remaining time, drag an identical item here.]
-&lt;font color='#c51919'&gt;If either item is soulbound, the result will be soulbound.&lt;/font&gt;" stringId="$102211" />
+    <String string="[To combine remaining time, drag an identical item here.] &lt;font color='#c51919'&gt;If either item is soulbound, the result will be soulbound.&lt;/font&gt;" stringId="$102211" />
     <String string="Enigmatic Reset" stringId="$102212" />
     <String string="Target Item" stringId="$102213" />
     <String string="Required Items" stringId="$102214" />
@@ -1294,19 +1319,19 @@ Choose an enchanting type by placing a enchanting scroll here." stringId="$10208
     <String string="RE Consumption" stringId="$102221" />
     <String string="For {Gender}s" stringId="$102222" />
     <String string="Can {@pvppve:declare and surrender GvG/declare, surrender, and change guild state}." stringId="$102223" />
-    <String string="Attack is based on your power and your equipment's attack modifiers. This stat affects how much damage you deal." stringId="$102224" />
-    <String string="Defense is based on your endurance and your equipment's defense modifiers. This stat inversely affects how much damage you take." stringId="$102225" />
-    <String string="Impact is the product of your impact factor and your equipment's impact modifiers. This stat affects your ability to knockdown and stun your opponent." stringId="$102226" />
-    <String string="Balance is the product of your balance factor and your equipment's balance modifiers. This stat affects your ability to resist being knocked down or stunned." stringId="$102227" />
+    <String string="Attack is based on your Power and your equipment's attack modifiers. This stat affects how much damage you deal." stringId="$102224" />
+    <String string="Defense is based on your Endurance and your equipment's defense modifiers. This stat inversely affects how much damage you take." stringId="$102225" />
+    <String string="Impact is the product of your Impact Factor and your equipment's impact modifiers. This stat affects your ability to knockdown and stagger your opponent." stringId="$102226" />
+    <String string="Balance is the product of your Balance Factor and your equipment's balance modifiers. This stat affects your ability to resist being knocked down or staggered." stringId="$102227" />
     <String string="Your chance to critically hit an opponent." stringId="$102228" />
     <String string="Your chance to avoid being critically hit by an opponent." stringId="$102229" />
-    <String string="How much damage your crits do." stringId="$102230" />
+    <String string="Damage multiplier on critical hits." stringId="$102230" />
     <String string="Class-based stat affecting your attack skills." stringId="$102231" />
     <String string="Class-based stat affecting your defense." stringId="$102232" />
     <String string="Class-based stat affecting your impact." stringId="$102233" />
     <String string="Class-based stat affecting your balance." stringId="$102234" />
-    <String string="This stat affects attack speed." stringId="$102235" />
-    <String string="Your current movement speed." stringId="$102236" />
+    <String string="This stat affects Attack Speed." stringId="$102235" />
+    <String string="Your current Movement Speed." stringId="$102236" />
     <String string="How well you resist weakening effects such as stat decreases and other green-bordered effects." stringId="$102237" />
     <String string="How well you resist periodic damage and other purple-bordered effects." stringId="$102238" />
     <String string="How well you resist stun and other red-bordered effects." stringId="$102239" />
@@ -1316,14 +1341,14 @@ Choose an enchanting type by placing a enchanting scroll here." stringId="$10208
     <String string="&lt;With {count} of set:&gt;" stringId="$102243" />
     <String string="Requires {NPCGuildName} ranking of {Point} or more." stringId="$102244" />
     <String string="This stat affects maximum HP." stringId="$102245" />
-    <String string="This stat affects attack power." stringId="$102246" />
-    <String string="This stat affects knockdown occurrence/crit power increase." stringId="$102247" />
+    <String string="This stat affects attack Power." stringId="$102246" />
+    <String string="This stat affects knockdown occurrence/crit Power increase." stringId="$102247" />
     <String string="This stat affects resistance to knockdown and crits." stringId="$102248" />
     <String string="This stat affects the probability of a critical hit." stringId="$102249" />
     <String string="This stat affects the probability of a critical hit or resistance maximization." stringId="$102250" />
-    <String string="This stat affects crit damage." stringId="$102251" />
-    <String string="This stat affects decreases in critical hits or power maximization." stringId="$102252" />
-    <String string="This stat affects attack speed." stringId="$102253" />
+    <String string="This stat affects Crit Power." stringId="$102251" />
+    <String string="This stat affects decreases in critical hits or Power maximization." stringId="$102252" />
+    <String string="This stat affects Attack Speed." stringId="$102253" />
     <String string="When hitting from behind" stringId="$102254" />
     <String string="When getting hit from behind" stringId="$102255" />
     <String string="Enchantment advantage" stringId="$102256" />
@@ -1400,7 +1425,7 @@ Choose an enchanting type by placing a enchanting scroll here." stringId="$10208
     <String string="Heart" stringId="$111049" />
     <String string="Request Message" stringId="$111050" />
     <String string="Request Date" stringId="$111051" />
-    <String string="Accept/Decline/Cancel" stringId="$111052" />
+    <String string="Accept/Decline" stringId="$111052" />
     <String string="Online" stringId="$111053" />
     <String string="Busy" stringId="$111054" />
     <String string="Offline" stringId="$111055" />
@@ -1425,7 +1450,7 @@ Choose an enchanting type by placing a enchanting scroll here." stringId="$10208
     <String string="Level:" stringId="$121003" />
     <String string="Gold:" stringId="$121004" />
     <String string="One party member's approval" stringId="$121005" />
-    <String string="Guilds that fail to maintain at least two (2) members will immediately disband and all guild assets will be lost." stringId="$121006" />
+    <String string="All items in a guild bank are permanently deleted when a guild disbands. Guilds that fail to maintain at least two (2) members will immediately disband." stringId="$121006" />
     <String string="Guild Name" stringId="$121007" />
     <String string="Apply" stringId="$121008" />
     <String string="Minimum level: 8" stringId="$121009" />
@@ -1465,7 +1490,7 @@ Choose an enchanting type by placing a enchanting scroll here." stringId="$10208
     <String string="Message of the Day" stringId="$123009" />
     <String string="Guild Master:" stringId="$123010" />
     <String string="Guild creation date" stringId="$123011" />
-    <String string="Total members:" stringId="$123012" />
+    <String string="Total Members:" stringId="$123012" />
     <String string="Guild level:" stringId="$123013" />
     <String string="Level duration:" stringId="$123014" />
     <String string="Guild history" stringId="$123015" />
@@ -1478,71 +1503,72 @@ Choose an enchanting type by placing a enchanting scroll here." stringId="$10208
     <String string="Policy Point(s)" stringId="$123022" />
     <String string="Guild Point(s)" stringId="$123023" />
     <String string="Open guild recruitment" stringId="$123024" />
-    <String string="Guild ad" stringId="$123025" />
+    <String string="Guild Ad" stringId="$123025" />
     <String string="Enter" stringId="$123026" />
     <String string="Temporary Bank" stringId="$123027" />
     <String string="Change Guild Name" stringId="$123028" />
-    <String string="GvG" stringId="$123029" />
+    <String string="GvG Battles" stringId="$123029" />
     <String string="View other guilds" stringId="$123030" />
-    <String string="Guild history" stringId="$123031" />
-    <String string="Guild bank log" stringId="$123032" />
+    <String string="Guild History" stringId="$123031" />
+    <String string="Guild Bank Log" stringId="$123032" />
     <String string="Opposing guild" stringId="$123033" />
     <String string="Sent message" stringId="$123034" />
     <String string="Received message" stringId="$123035" />
     <String string="Write an advertisement for your guild" stringId="$123036" />
-    <String string="Cooldown for declaring GvG against the same guild: &lt;font color='#{fontColor1}'&gt;{data1}&lt;/font&gt;. &lt;br&gt;     Earn &lt;font color='#{fontColor2}'&gt;{data2}&lt;/font&gt; for killing a member of the opposing guild. &lt;br&gt;     Earn &lt;font color='#{fontColor3}'&gt;{data3}&lt;/font&gt; for killing the guild master. &lt;br&gt;     Minimum points required to win: &lt;font color='#{fontColor4}'&gt;{data4} &lt;/font&gt;" stringId="$123037" />
+    <String string="Cooldown for initiating a GvG battle against the same guild: &lt;font color='#{fontColor1}'&gt;{data1}&lt;/font&gt;. &lt;br&gt;     Earn &lt;font color='#{fontColor2}'&gt;{data2}&lt;/font&gt; for killing a member of the opposing guild. &lt;br&gt;     Earn &lt;font color='#{fontColor3}'&gt;{data3}&lt;/font&gt; for killing the guild master. &lt;br&gt;     Minimum points required to win: &lt;font color='#{fontColor4}'&gt;{data4} &lt;/font&gt;" stringId="$123037" />
     <String string="Last online" stringId="$123038" />
     <String string=" hour(s) " stringId="$123039" />
     <String string=" minute(s) " stringId="$123040" />
     <String string=" second(s)" stringId="$123041" />
-    <String string="person" stringId="$123042" />
+    <String string=" " stringId="$123042" />
     <String string="Kill points: " stringId="$123043" />
     <String string="Time left: " stringId="$123044" />
     <String string="Battle History" stringId="$123045" />
-    <String string="Number of GvG battle declarations:" stringId="$123046" />
-    <String string="(Current number of declarations / Maximum allowed number of declarations)" stringId="$123047" />
+    <String string="Number of GvG Battles:" stringId="$123046" />
+    <String string="(Declarations/Maximum)" stringId="$123047" />
     <String string="Guild state" stringId="$123048" />
     <String string="Pacifist" stringId="$123049" />
     <String string="Battle Ready" stringId="$123050" />
-    <String string="Possessed Chips" stringId="$123051" />
+    <String string="Possessed Fame" stringId="$123051" />
     <String string="Total Accounts" stringId="$123052" />
-    <String string="Active Accounts for Guild War" stringId="$123053" />
-    <String string="Availability for GvG" stringId="$123054" />
-    <String string="Guild Competition Information" stringId="$123055" />
+    <String string="Active GvG Accounts" stringId="$123053" />
+    <String string="GvG Battle Availability" stringId="$123054" />
+    <String string="Crusade Info" stringId="$123055" />
     <String string="Current League" stringId="$123056" />
-    <String string="Current Season Ranking" stringId="$123057" />
-    <String string="Owned Competition Coins" stringId="$123058" />
-    <String string="Last Season Ranking" stringId="$123059" />
+    <String string="Current Season Rank" stringId="$123057" />
+    <String string="Owned Prestige" stringId="$123058" />
+    <String string="Last Season Rank" stringId="$123059" />
     <String string="Available" stringId="$123060" />
     <String string="Not Available" stringId="$123061" />
     <String string="Declared" stringId="$123062" />
-    <String string="Got Declared" stringId="$123063" />
-    <String string="War Time left: " stringId="$123064" />
-    <String string="Tactics Chip" stringId="$123065" />
-    <String string="List" stringId="$123066" />
-    <String string="Guild War Information" stringId="$123067" />
+    <String string="Declared against" stringId="$123063" />
+    <String string="GvG Battle Time left: " stringId="$123064" />
+    <String string="Fame" stringId="$123065" />
+    <String string="Active GvG Battles" stringId="$123066" />
+    <String string="GvG Battle Info" stringId="$123067" />
     <String string="View History" stringId="$123068" />
-    <String string="Declare New GvG" stringId="$123069" />
+    <String string="Initiate a GvG Battle" stringId="$123069" />
     <String string="Wager" stringId="$123070" />
     <String string="Surrender" stringId="$123071" />
-    <String string="Location Scan" stringId="$123072" />
-    <String string="Cancel Declaration" stringId="$123073" />
+    <String string="Locate" stringId="$123072" />
+    <String string="Cancel" stringId="$123073" />
     <String string="Accept" stringId="$123074" />
-    <String string="Additional Betting" stringId="$123075" />
-    <String string="Drop" stringId="$123076" />
-    <String string="Ongoing GvG: {count}" stringId="$123077" />
-    <String string="GvGs on hold: {count}" stringId="$123078" />
+    <String string="Raise Wager" stringId="$123075" />
+    <String string="Decline" stringId="$123076" />
+    <String string="Ongoing GvG Battles: {count}" stringId="$123077" />
+    <String string="GvG Battles on hold: {count}" stringId="$123078" />
     <String string="Guild Members in Battle: {count}" stringId="$123079" />
     <String string="Members" stringId="$123080" />
-    <String string="Surrender. You may surrender after &lt;font color='#80E71C' &gt;1&lt;/font&gt; hour after guild war started." stringId="$123081" />
-    <String string="Locate opponent guild members. You may use this function every &lt;font color='#80E71C' &gt;5&lt;/font&gt; minutes." stringId="$123082" />
-    <String string="Locate opponent guild members." stringId="$123083" />
+    <String string="You may surrender &lt;font color='#80E71C' &gt;1&lt;/font&gt; hour after a GvG battle starts." stringId="$123081" />
+    <String string="Locate opposing guild members. You may use this skill every &lt;font color='#80E71C' &gt;5&lt;/font&gt; minutes." stringId="$123082" />
+    <String string="Locate opposing guild members." stringId="$123083" />
     <String string="Cooldown" stringId="$123084" />
     <String string="Waiting for Response" stringId="$123085" />
     <String string="Elapsed Time" stringId="$123086" />
-    <String string="GvG K/D" stringId="$123087" />
-    <String string="You may declare guild battle when you meet the following conditions.&lt;BR&gt;* You may declare up to 3 guild battles at the same time.&lt;BR&gt;* You must have more than 1 tactics chip to declare guild battle." stringId="$123088" />
-    <String string="Rank {rank}&lt;BR&gt;Different amount of guild competition score will be granted according yo your guild's rank." stringId="$123089" />
+    <String string="GvG Battle K/D" stringId="$123087" />
+    <String string="You may initiate a GvG Battle against another guild when you meet the following conditions.&lt;BR&gt;* You have declared fewer than 3 GvG Battles.&lt;BR&gt;* You have at least 1 Fame.&lt;br&gt; (Fame is only given to guilds with 30–100 qualifying accounts)." stringId="$123088" />
+    <String string="Tier {rank}&lt;BR&gt;Crusade points are based on tier." stringId="$123089" />
+    <String string="Teleport to a guild member who is engaged in battle.&lt;BR&gt;You may not use this skill while you are battling an opponent guild member." stringId="$123090" />
     <String string="Guild Level" stringId="$124001" />
     <String string="Guild" stringId="$124002" />
     <String string="Current level:" stringId="$124003" />
@@ -1565,7 +1591,7 @@ Choose an enchanting type by placing a enchanting scroll here." stringId="$10208
     <String string="Guild Flag" stringId="$125009" />
     <String string="Current Guild Flag" stringId="$125010" />
     <String string="Select Flag" stringId="$125011" />
-    <String string="&lt;font color='#{fontColor5}'&gt;You may only register &lt;/font&gt;&lt;font color='#{fontColor4}'&gt;BMP&lt;/font&gt; &lt;font color='#{fontColor5}'&gt;file &lt;/font&gt;&lt;font color='#{fontColor3}'&gt;size of &lt;/font&gt;&lt;font color='#{fontColor2}'&gt;128x128&lt;/font&gt; &lt;font color='#{fontColor1}'&gt;for Guild Flag. &lt;/font&gt;&lt;font color='#{fontColor5}'&gt;Please place your file to the following directory of &lt;font color='#{fontColor6}'&gt;TERA/S1Game/GuildFlagUpload&lt;/font&gt; &lt;font color='#{fontColor7}'&gt; and register the flag.&lt;/font&gt;" stringId="$125012" />
+    <String string="&lt;font color='#{fontColor5}'&gt;Guild flags use &lt;/font&gt;&lt;font color='#{fontColor4}'&gt;.BMP&lt;/font&gt; &lt;font color='#{fontColor5}'&gt;files &lt;/font&gt;&lt;font color='#{fontColor3}'&gt;of &lt;/font&gt;&lt;font color='#{fontColor2}'&gt;128x128&lt;/font&gt; &lt;font color='#{fontColor1}'&gt; pixels. &lt;/font&gt;&lt;font color='#{fontColor5}'&gt;Copy the file to your &lt;font color='#{fontColor6}'&gt;TERA/Client/S1Game/GuildFlagUpload&lt;/font&gt; &lt;font color='#{fontColor7}'&gt; directory and save the flag.&lt;/font&gt;" stringId="$125012" />
     <String string="Remove flag" stringId="$125013" />
     <String string="Register Flag" stringId="$125014" />
     <String string="Order" stringId="$126001" />
@@ -1578,12 +1604,12 @@ Choose an enchanting type by placing a enchanting scroll here." stringId="$10208
     <String string="Vanarchy" stringId="$126008" />
     <String string="Total Praise" stringId="$126009" />
     <String string="Praise" stringId="$126010" />
-    <String string="Apply to Guild" stringId="$126011" />
+    <String string="Apply" stringId="$126011" />
     <String string="Guilds on Server" stringId="$126012" />
     <String string="Total number of guilds on server" stringId="$126013" />
     <String string="Guild Ad" stringId="$126014" />
     <String string="Guild List" stringId="$126015" />
-    <String string="GvG History" stringId="$126016" />
+    <String string="GvG Status" stringId="$126016" />
     <String string="Declaring Guild" stringId="$126017" />
     <String string="Opposing Guild" stringId="$126018" />
     <String string="Result" stringId="$126019" />
@@ -1598,66 +1624,68 @@ Choose an enchanting type by placing a enchanting scroll here." stringId="$10208
     <String string="No data." stringId="$126028" />
     <String string="My guild only" stringId="$126029" />
     <String string="Owner Guild: " stringId="$126030" />
-    <String string="GvG battle declarations" stringId="$126031" />
-    <String string="Start a guild-versus-guild (GvG) battle" stringId="$127001" />
+    <String string="Declare GvG" stringId="$126031" />
+    <String string="Start a GvG Battle against another guild" stringId="$127001" />
     <String string="OK" stringId="$127002" />
-    <String string="Declare battle" stringId="$127003" />
-    <String string="Enter opposing guild name" stringId="$127004" />
+    <String string="Initiate a GvG Battle" stringId="$127003" />
+    <String string="Enter opposing guild's name" stringId="$127004" />
     <String string="Let's battle!" stringId="$127005" />
     <String string="Invalid guild name." stringId="$127006" />
-    <String string="Declare a GvG guild battle to occur with opposing guild for [{guildwardate}]." stringId="$127007" />
+    <String string="Initiate a GvG Battle against an opposing guild for [{guildwardate}]." stringId="$127007" />
     <String string="Win condition: [{guildwargoalscore}]" stringId="$127008" />
     <String string="Earn [{guildmasterpkscore}] for guild master kills." stringId="$127009" />
     <String string="Earn [{guildmemberpkscore}] for guild member kills." stringId="$127010" />
     <String string="PvP in PvP zones without declaration" stringId="$127011" />
     <String string="You cannot join an opposing guild member's group" stringId="$127012" />
     <String string="This is a guild group; you will be removed from the group." stringId="$127013" />
-    <String string="When you click &quot;Declare battle,&quot; your guild will enter GvG battle for &lt;font color='#{fontColor1}'&gt; {data1}&lt;/font&gt;.&lt;br&gt;&lt;br&gt;GvG guild battle conditions:&lt;br&gt;Win by achieving &lt;font color='#{fontColor2}'&gt;[{data2}]&lt;/font&gt; points.&lt;br&gt;Earn &lt;font color='#{fontColor3}'&gt; [{data3}]&lt;/font&gt; points for killing the guild master.&lt;br&gt;Earn &lt;font color='#{fontColor4}'&gt; [{data4}]&lt;/font&gt; points for killing guild members.&lt;br&gt;Able to PvP in PvP zone without additional declaration.&lt;br&gt;Unable to join an opposing guild member's group." stringId="$127014" />
-    <String string="Target guild name" stringId="$127015" />
-    <String string="Declaration message" stringId="$127016" />
+    <String string="When you click &quot;Initiate GvG Battle,&quot; your guild will enter GvG battle for &lt;font color='#{fontColor1}'&gt; {data1}&lt;/font&gt;.&lt;br&gt;&lt;br&gt;GvG guild battle conditions:&lt;br&gt;Win by achieving &lt;font color='#{fontColor2}'&gt;[{data2}]&lt;/font&gt; points.&lt;br&gt;Earn &lt;font color='#{fontColor3}'&gt; [{data3}]&lt;/font&gt; points for killing the guild master.&lt;br&gt;Earn &lt;font color='#{fontColor4}'&gt; [{data4}]&lt;/font&gt; points for killing guild members.&lt;br&gt;Able to PvP in PvP zone without additional declaration.&lt;br&gt;Unable to join an opposing guild member's group." stringId="$127014" />
+    <String string="Guild name" stringId="$127015" />
+    <String string="Taunt" stringId="$127016" />
     <String string="Bind on Summon" stringId="$127017" />
-    <String string="Bets" stringId="$127018" />
-    <String string="Register for GvG Opponent" stringId="$127019" />
-    <String string="Previous Bettings" stringId="$127020" />
+    <String string="Bet Fame" stringId="$127018" />
+    <String string="Confirm Target Guild" stringId="$127019" />
+    <String string="Previous Wagers" stringId="$127020" />
     <String string="Amount Change" stringId="$127021" />
     <String string="GvG Surrender" stringId="$128001" />
     <String string="Surrender and end a current GvG battle. Select the guild name with whom you wish to end battle." stringId="$128002" />
     <String string="Time left: " stringId="$128003" />
-    <String string="You declared GvG against [{guilddata1}]. You cannot surrender." stringId="$128004" />
-    <String string="[{guilddata2}] declared GvG against you." stringId="$128005" />
+    <String string="You intiated a GvG battle against [{guilddata1}]. You cannot surrender." stringId="$128004" />
+    <String string="[{guilddata2}] intiated GvG against you." stringId="$128005" />
     <String string="End battle" stringId="$128006" />
-    <String string="Parts Title" stringId="$128007" />
-    <String string="Parts Location" stringId="$128008" />
-    <String string="Roof" stringId="$128009" />
-    <String string="Wall" stringId="$128010" />
-    <String string="Bridge" stringId="$128011" />
-    <String string="Function" stringId="$128012" />
-    <String string="Checkout" stringId="$128013" />
-    <String string="Equip" stringId="$128014" />
-    <String string="End Edit" stringId="$128015" />
+    <String string="Feature:" stringId="$128007" />
+    <String string="Location:" stringId="$128008" />
+    <String string="Keep" stringId="$128009" />
+    <String string="Bailey" stringId="$128010" />
+    <String string="Wing" stringId="$128011" />
+    <String string="NPCs" stringId="$128012" />
+    <String string="Purchase" stringId="$128013" />
+    <String string="Prepare" stringId="$128014" />
+    <String string="Exit" stringId="$128015" />
     <String string="Apply" stringId="$128016" />
-    <String string="[{guildName}]'s Airborne Castle" stringId="$128017" />
-    <String string="(Rank {rank})" stringId="$128018" />
-    <String string="Equip" stringId="$128019" />
-    <String string="Owned" stringId="$128020" />
-    <String string="Cooldown: {hour} hours" stringId="$128021" />
-    <String string=" {minute} minute" stringId="$128022" />
-    <String string="Checkout Parts" stringId="$128023" />
-    <String string="Current Competition Coins" stringId="$128024" />
-    <String string="Remaining Competition Coins" stringId="$128025" />
-    <String string="Checkout" stringId="$128026" />
+    <String string="{guildName} Hall" stringId="$128017" />
+    <String string=" (grade {rank})" stringId="$128018" />
+    <String string="Prepared: " stringId="$128019" />
+    <String string="Owned: " stringId="$128020" />
+    <String string="Cooldown: {hour} hr" stringId="$128021" />
+    <String string=" {minute} min" stringId="$128022" />
+    <String string="Buy Features" stringId="$128023" />
+    <String string="Current Prestige" stringId="$128024" />
+    <String string="Remaining Prestige" stringId="$128025" />
+    <String string="Purchase" stringId="$128026" />
     <String string="All" stringId="$128027" />
     <String string="Reset" stringId="$128028" />
     <String string="Preview" stringId="$128029" />
     <String string="Zoom in/out" stringId="$128030" />
-    <String string="Rotate Horizontally" stringId="$128031" />
-    <String string="Rotate Vertically" stringId="$128032" />
-    <String string="Chosen Part: " stringId="$128033" />
+    <String string="Turn" stringId="$128031" />
+    <String string="Altitude" stringId="$128032" />
+    <String string="Selected: " stringId="$128033" />
+    <String string="You can't build features you don't own." stringId="$128034" />
+    <String string="No features built or being previewed." stringId="$128035" />
+    <String string="Preview disabled. Please select a feature to preview." stringId="$128036" />
     <String string="GvG guild battle!" stringId="$129001" />
     <String string="GvG win!" stringId="$129002" />
     <String string="GvG loss." stringId="$129003" />
     <String string="GvG was a draw." stringId="$129004" />
-    <String stringId="$129005" />
     <String string="Recent Trade Log" stringId="$131001" />
     <String string="Traded" stringId="$131002" />
     <String string="Traded with" stringId="$131003" />
@@ -1669,12 +1697,12 @@ Choose an enchanting type by placing a enchanting scroll here." stringId="$10208
     <String string="Cancel" stringId="$132005" />
     <String string="Trade history" stringId="$132006" />
     <String string="Fee" stringId="$132007" />
-    <String string="GvG" stringId="$133001" />
+    <String string="Crusade" stringId="$133001" />
     <String string="Cutthroat League" stringId="$133002" />
     <String string="Challenger League" stringId="$133003" />
     <String string="Hall of Fame" stringId="$133004" />
     <String string="No data." stringId="$133005" />
-    <String string="See my guild" stringId="$133006" />
+    <String string="My guild" stringId="$133006" />
     <String string="Purchasing Contract" stringId="$141001" />
     <String string="Name search" stringId="$141002" />
     <String string="Search" stringId="$141003" />
@@ -1728,7 +1756,7 @@ Choose an enchanting type by placing a enchanting scroll here." stringId="$10208
     <String string="Cancel" stringId="$153006" />
     <String string="Create All" stringId="$153007" />
     <String string="Close" stringId="$153008" />
-    <String string="x {ProductCount}" stringId="$153009" />
+    <String string="× {ProductCount}" stringId="$153009" />
     <String string="Add to favorites" stringId="$153010" />
     <String string="Remove from favorites" stringId="$153011" />
     <String string="Full List" stringId="$153012" />
@@ -1788,7 +1816,7 @@ Choose an enchanting type by placing a enchanting scroll here." stringId="$10208
     <String string="You do not have the recipe." stringId="$153066" />
     <String string="Right-click the additive in the right slot to enhance your crafting results. Each crafting attempt consumes one additive. Right-click additive in left-slot to stop using it." stringId="$153067" />
     <String string="An additive cannot be used for this recipe." stringId="$153068" />
-    <String string="(above Level {level})" stringId="$153069" />
+    <String string="(Above Level {level})" stringId="$153069" />
     <String string="Success" stringId="$154001" />
     <String string="Fail" stringId="$154002" />
     <String string="Enchant" stringId="$155001" />
@@ -1824,11 +1852,11 @@ Choose an enchanting type by placing a enchanting scroll here." stringId="$10208
     <String string="Enchant failed." stringId="$155031" />
     <String string="&lt;font size='15'&gt;Auto-Enchant Warning &lt;/font&gt;&lt;font color='#cccccc' size='13'&gt;&lt;br&gt;&lt;br&gt;- In Auto-Enchant mode, the consumed items and the alkahest do not change automatically through the enchantment stages.&lt;br&gt;&lt;br&gt;- Auto-Enchant ends when your item is enchanted to the maximum bonus or when you run out of materials.&lt;br&gt;&lt;br&gt;- Already enchanted or higher item level (ilevel) gear are excluded from Auto-Enchant.&lt;/font&gt;" stringId="$155032" />
     <String string="Add item to enchant." stringId="$155033" />
-    <String string="&lt;br&gt;Register equipment to awaken.&lt;br&gt;&lt;font color='#CCCCCC' size='13'&gt;You may only awaken +12 equipment suitable for awakening.&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font size='25' color='#FFCC00'&gt;Awakening succeeds at 100% rate.&lt;/font&gt;&lt;br&gt;&lt;br&gt;You need feedstock of the same tier with target equipment and &lt;font color='#009900'&gt;Masterwork Alkahests&lt;/font&gt;.&lt;br&gt;&lt;font size='13' color='#ff0000'&gt;Enchantment stones invested for awakening are not accumulated to the equipment.&lt;/font&gt;&lt;br&gt;" stringId="$155034" />
-    <String string="&lt;img src='arrowUp'&gt;&lt;br&gt;Register equipment to awaken enchant.&lt;br&gt;&lt;font color='#CCCCCC' size='13'&gt;Only awakened equipment is suitable for awakened enchantment.&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font size='21' color='#ff0000'&gt;On failure, enchant stage returns to +12&lt;/font&gt;&lt;br&gt;&lt;br&gt;You need feedstock of the same tier with target equipment and &lt;font color='#009900'&gt;Masterwork Alkahests&lt;/font&gt;.&lt;br&gt;&lt;font size='13' color='#ff0000'&gt;Feedstock invested for awakened enchantment are not accumulated to the equipment.&lt;/font&gt;&lt;br&gt;&lt;img src='arrowDown'&gt;" stringId="$155035" />
+    <String string="&lt;br&gt;Add equipment for Awakening.&lt;br&gt;&lt;font color='#CCCCCC' size='13'&gt;Only +12 equipment suitable for Awakening will work.&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font size='25' color='#FFCC00'&gt;Awakening always succeeds.&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font size='13' color='#ff0000'&gt;Feedstock invested for awakening will not be returned upon dismantling the equipment.&lt;/font&gt;&lt;br&gt;" stringId="$155034" />
+    <String string="&lt;img src='arrowUp'&gt;&lt;br&gt;Choose equipment for Awakened enchanting.&lt;br&gt;&lt;font color='#CCCCCC' size='13'&gt;Only certain items are suitable for Awakened enchanting.&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font size='21' color='#ff0000'&gt;On failure, enchant bonus returns to +12&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;font size='13' color='#ff0000'&gt;Feedstock invested for Awakened enchanting will not be returned upon dismantling the equipment.&lt;/font&gt;&lt;br&gt;&lt;img src='arrowDown'&gt;" stringId="$155035" />
     <String string="Amount of Feedstock" stringId="$155036" />
-    <String string="Awakening" stringId="$155037" />
-    <String string="Awakened Enchantment" stringId="$155038" />
+    <String string="Awaken Item" stringId="$155037" />
+    <String string="Awakened Enchanting" stringId="$155038" />
     <String string="Maximum" stringId="$155039" />
     <String string="Feedstock" stringId="$155040" />
     <String string="Masterwork Alkahest" stringId="$155041" />
@@ -1837,12 +1865,12 @@ Choose an enchanting type by placing a enchanting scroll here." stringId="$10208
     <String string="Invest &lt;font color='#4ecd30' &gt;double&lt;/font&gt; the amount ({count} feedstock)" stringId="$155044" />
     <String string="Invest &lt;font color='#00aeef' &gt;6 times&lt;/font&gt; the amount ({count} feedstock)" stringId="$155045" />
     <String string="Invest &lt;font color='#FFCC00' &gt;12 times&lt;/font&gt; the amount({count} feedstock)" stringId="$155046" />
-    <String string="You need feedstock of the same or higher tier as the target equipment.&lt;br&gt;&lt;font color='#80e71c'&gt;The more feedstock you invest, the better the chance of success.&lt;/font&gt;&lt;br&gt;&lt;br&gt;+0 - +3 : minimum /&lt;font color='#4ecd30'&gt;double&lt;/font&gt; investment recommended&lt;br&gt;+4 - +8 : &lt;font color='#00aeef'&gt;6 times&lt;/font&gt;/&lt;font color='#FFCC00'&gt;12 times&lt;/font&gt; investment recommended&lt;br&gt;+9 - +11 : &lt;font color='#FFCC00'&gt;12 times&lt;/font&gt; investment recommended" stringId="$155047" />
-    <String string="You need ten more alkahests than the tier of the target equipment.&lt;br&gt;&lt;br&gt;+0 - +8 : &lt;font color='#00aeef'&gt;alkahest&lt;/font&gt;of that tier recommended&lt;br&gt;+9 - +11 : &lt;font color='#4ecd30'&gt;masterwork alkahest&lt;/font&gt; or &lt;font color='#00aeef'&gt;alkahest&lt;/font&gt; of a higher tier recommended" stringId="$155048" />
-    <String string="This process will enchant {ItemName} with the optimal choices of feedstock and alkahests. &lt;BR&gt;&lt;BR&gt;&lt;font color='#80e71c'&gt;As the enchantment increases, the feedstock quantity may increase for optimal enchantment.&lt;/font&gt;&lt;br&gt;Auto-enchantment will continue until the item reaches maximum enchantment or you run out of alkahest or feedstock." stringId="$155049" />
-    <String string="You need feedstock of the same tier as the target equipment.&lt;br&gt;&lt;font color='#c00005'&gt;Feedstock invested for awakened enchantment are not accumulated to the equipment.&lt;/font&gt;" stringId="$155050" />
-    <String string="You may use &lt;font color='#4ecd30'&gt;masterwork alkahests&lt;/font&gt; only." stringId="$155051" />
-    <String string="Attmept once with the materials you chose." stringId="$155052" />
+    <String string="You need feedstock of the same tier as the target equipment.&lt;br&gt;&lt;font color='#80e71c'&gt;The more feedstock you invest, the better the chance of success.&lt;/font&gt;&lt;br&gt;&lt;br&gt;+0 - +3 : minimum /&lt;font color='#4ecd30'&gt;double&lt;/font&gt; investment recommended&lt;br&gt;+4 - +8 : &lt;font color='#00aeef'&gt;6 times&lt;/font&gt;/&lt;font color='#FFCC00'&gt;12 times&lt;/font&gt; investment recommended&lt;br&gt;+9 - +11 : &lt;font color='#FFCC00'&gt;12 times&lt;/font&gt; investment recommended" stringId="$155047" />
+    <String string="You need ten more alkahests than the tier of the target equipment.&lt;br&gt;&lt;br&gt;+0 - +8 : &lt;font color='#00aeef'&gt;alkahest&lt;/font&gt; of the same tier recommended&lt;br&gt;+9 - +11 : &lt;font color='#4ecd30'&gt;masterwork alkahest&lt;/font&gt; or &lt;font color='#00aeef'&gt;alkahest&lt;/font&gt; of a higher tier recommended" stringId="$155048" />
+    <String string="This process will enchant the target equipment with the optimal choices of feedstock and alkahests. &lt;BR&gt;&lt;BR&gt;&lt;font color='#80e71c'&gt;As the enchantment increases, the feedstock quantity may increase for optimal enchantment.&lt;/font&gt;&lt;br&gt;Auto-enchantment will continue until the item reaches maximum enchantment or you run out of alkahest or feedstock." stringId="$155049" />
+    <String string="You need feedstock of the same tier as the target equipment.&lt;br&gt;&lt;font color='#c00005'&gt;Feedstock invested in Awakened enchanting will not be refunded upon dismantling.&lt;/font&gt;" stringId="$155050" />
+    <String string="Requires &lt;font color='#4ecd30'&gt;masterwork&lt;/font&gt;, &lt;font color='#4ecd30'&gt;extensive&lt;/font&gt;, or &lt;font color='#4ecd30'&gt;premium&lt;/font&gt; alkahests." stringId="$155051" />
+    <String string="Attempt once with the materials you chose." stringId="$155052" />
     <String string="Need more alkahests." stringId="$155053" />
     <String string="{count}" stringId="$155054" />
     <String string="Have {count}" stringId="$155055" />
@@ -1851,10 +1879,16 @@ Choose an enchanting type by placing a enchanting scroll here." stringId="$10208
     <String string="Choose alkahests to use." stringId="$155058" />
     <String string="You need at least &lt;font color='#FFCC00'&gt;{count}&lt;/font&gt; of &lt;font color='#FFCC00'&gt;{name}&lt;/font&gt;." stringId="$155059" />
     <String string="To enchant &lt;font color='#FFCC00'&gt;once&lt;/font&gt;, you need &lt;font color='#FFCC00'&gt;{count}&lt;/font&gt; alkahests." stringId="$155060" />
-    <String string="Feedstock quantity: &lt;font color='#FFCC00'&gt;2 to 4&lt;/font&gt; per enchant attempt." stringId="$155061" />
-    <String string="Alkahest quantity: &lt;font color='#FFCC00'&gt;10 plus the item's tier&lt;/font&gt; per enchant attempt." stringId="$155062" />
-    <String string="Cancel Awakening" stringId="$155063" />
-    <String string="Cancel Awakened Enchantment" stringId="$155064" />
+    <String string="Minimum feedstock quantity: &lt;font color='#FFCC00'&gt;2 to 4&lt;/font&gt; per attempt." stringId="$155061" />
+    <String string="Alkahest quantity: &lt;font color='#FFCC00'&gt;10 plus the item's tier&lt;/font&gt; per attempt." stringId="$155062" />
+    <String string="Cancel" stringId="$155063" />
+    <String string="Cancel" stringId="$155064" />
+    <String string="Feedstock of the same tier is needed for Awakening.&lt;br&gt;&lt;font color='#ff0000'&gt;Feedstock will not be returned upon dismantling.&lt;/font&gt;" stringId="$155065" />
+    <String string="&lt;font color='#4ecd30'&gt;Masterwork Alkahests&lt;/font&gt; or &lt;font color='#00aeef'&gt;Premium or Extensive Alkahests&lt;/font&gt; are needed for Awakening. &lt;br&gt;&lt;font color='#FFCC00'&gt;The higher the quality of the alkahests, the fewer you need.&lt;/font&gt;" stringId="$155066" />
+    <String string="&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font size='25' color='#FFCC00'&gt;Gear can be Awakened." stringId="$155067" />
+    <String string="Masterwork Gear Info" stringId="$155068" />
+    <String string=" required." stringId="$155069" />
+    <String string=" (where you get them.)" stringId="$155070" />
     <String string="Incubator" stringId="$161001" />
     <String string="Incubation skill level" stringId="$161002" />
     <String string="Available incubator slot" stringId="$161003" />
@@ -1966,7 +2000,7 @@ Choose an enchanting type by placing a enchanting scroll here." stringId="$10208
     <String string="Total" stringId="$173008" />
     <String stringId="$173009" />
     <String string="Reward" stringId="$181001" />
-    <String string="x {ItemCount}" stringId="$181002" />
+    <String string="× {ItemCount}" stringId="$181002" />
     <String string="Close" stringId="$181003" />
     <String string="Reward for extras" stringId="$181004" />
     <String string="Accept" stringId="$181005" />
@@ -2063,7 +2097,7 @@ Choose an enchanting type by placing a enchanting scroll here." stringId="$10208
     <String string="Select item" stringId="$197014" />
     <String string="Review item" stringId="$197015" />
     <String string="The party leader must distribute this item." stringId="$197016" />
-    <String string="Can be unbound {Count} times" stringId="$197017" />
+    <String string="Can be liberated {Count} times" stringId="$197017" />
     <String string="Binds to equipment" stringId="$197018" />
     <String string="Bound to {ItemName}" stringId="$197019" />
     <String string="Recipient" stringId="$201001" />
@@ -2119,6 +2153,7 @@ Choose an enchanting type by placing a enchanting scroll here." stringId="$10208
     <String string="Delivery Status" stringId="$202018" />
     <String string="You cannot delete posts that contains unclaimed item(s)." stringId="$202019" />
     <String string="Date of Deletion" stringId="$202020" />
+    <String string="Collect All" stringId="$202021" />
     <String string="Put an item inside and take a chance!" stringId="$211001" />
     <String string="Start your engine. You will either get a new item, or lose the old one." stringId="$211002" />
     <String string="Vroom!" stringId="$211003" />
@@ -2140,11 +2175,11 @@ Choose an enchanting type by placing a enchanting scroll here." stringId="$10208
     <String string="Endurance" stringId="$221007" />
     <String string="Impact Factor" stringId="$221008" />
     <String string="Balance Factor" stringId="$221009" />
-    <String string="Movement" stringId="$221010" />
-    <String string="Attack speed" stringId="$221011" />
+    <String string="Movement Speed" stringId="$221010" />
+    <String string="Attack Speed" stringId="$221011" />
     <String string="Crit Rate" stringId="$221012" />
-    <String string="Crit resist" stringId="$221013" />
-    <String string="Crit power" stringId="$221014" />
+    <String string="Crit Resist" stringId="$221013" />
+    <String string="Crit Power" stringId="$221014" />
     <String string="Combat" stringId="$221015" />
     <String string="Attack" stringId="$221016" />
     <String string="Defense" stringId="$221017" />
@@ -2159,7 +2194,7 @@ Choose an enchanting type by placing a enchanting scroll here." stringId="$10208
     <String string="Mining" stringId="$221026" />
     <String string="Bugs" stringId="$221027" />
     <String string="Energy" stringId="$221028" />
-    <String string="{power} time{@select:{power}/s//s}" stringId="$221029" />
+    <String string="{Power} time{@select:{Power}/s//s}" stringId="$221029" />
     <String string="Enhancement Points" stringId="$221030" />
     <String string="Instances" stringId="$221031" />
     <String string="{guildtitle} of [{guildname}] " stringId="$221032" />
@@ -2182,7 +2217,7 @@ Choose an enchanting type by placing a enchanting scroll here." stringId="$10208
     <String string="Death(s)" stringId="$221049" />
     <String string="Assist(s)" stringId="$221050" />
     <String string="Total score" stringId="$221051" />
-    <String string="Season reset" stringId="$221052" />
+    <String string="No rank" stringId="$221052" />
     <String string="No history" stringId="$221053" />
     <String string="Attack" stringId="$221054" />
     <String string="Defense" stringId="$221055" />
@@ -2205,8 +2240,7 @@ Choose an enchanting type by placing a enchanting scroll here." stringId="$10208
     <String string="Infamy" stringId="$221072" />
     <String string="Including inventory" stringId="$221073" />
     <String string="Profile" stringId="$221074" />
-    <String string="Dungeon/
-PvP Stats" stringId="$221075" />
+    <String string="Dungeon/ PvP Stats" stringId="$221075" />
     <String string="Reputation" stringId="$221076" />
     <String string="Hair" stringId="$221077" />
     <String string="Face" stringId="$221078" />
@@ -2240,19 +2274,19 @@ PvP Stats" stringId="$221075" />
     <String string="Destruction" stringId="$221106" />
     <String string="Tenaciousness" stringId="$221107" />
     <String string="Acceleration" stringId="$221108" />
-    <String string="Circulation power" stringId="$221109" />
+    <String string="Circulation Power" stringId="$221109" />
     <String string="HP recovery per second" stringId="$221110" />
     <String string="MP recovery per second" stringId="$221111" />
     <String string="Power" stringId="$221112" />
     <String string="Impact modifier" stringId="$221113" />
     <String string="Impact absorption" stringId="$221114" />
-    <String string="Attack power" stringId="$221115" />
+    <String string="Attack Power" stringId="$221115" />
     <String string="Movement" stringId="$221116" />
     <String string="Probability of critical hit" stringId="$221117" />
     <String string="Probability of maximization" stringId="$221118" />
     <String string="Probability of critical hit/resistance maximization" stringId="$221119" />
     <String string="Power maximization" stringId="$221120" />
-    <String string="Crit/power maximization decrease" stringId="$221121" />
+    <String string="Crit/Power maximization decrease" stringId="$221121" />
     <String string="HP absorption rate" stringId="$221122" />
     <String string="Damage reflection rate" stringId="$221123" />
     <String string="Accuracy" stringId="$221124" />
@@ -2270,8 +2304,8 @@ PvP Stats" stringId="$221075" />
     <String string="RE recovery per second" stringId="$221136" />
     <String string="Damage reflection" stringId="$221137" />
     <String string="HP absorption" stringId="$221138" />
-    <String string="PvP attack power" stringId="$221139" />
-    <String string="PvP defense power" stringId="$221140" />
+    <String string="PvP attack Power" stringId="$221139" />
+    <String string="PvP defense Power" stringId="$221140" />
     <String string="Periodic damage" stringId="$221141" />
     <String string="Stun" stringId="$221142" />
     <String string="Attack Speed Augmentation " stringId="$221143" />
@@ -2325,8 +2359,8 @@ PvP Stats" stringId="$221075" />
     <String string="Resolution" stringId="$231022" />
     <String string="Full screen" stringId="$231023" />
     <String string="Display" stringId="$231024" />
-    <String string="Player view distance" stringId="$231025" />
-    <String string="Player limit" stringId="$231026" />
+    <String string="PC view distance" stringId="$231025" />
+    <String string="PC limit" stringId="$231026" />
     <String string="Lurid Display" stringId="$231027" />
     <String string="Graphics Quality" stringId="$231028" />
     <String string="Lock FPS" stringId="$231029" />
@@ -2522,7 +2556,7 @@ PvP Stats" stringId="$221075" />
     <String string="View pet information" stringId="$231219" />
     <String string="Basic settings" stringId="$231220" />
     <String string="Additional settings" stringId="$231221" />
-    <String string="GvG background music" stringId="$231222" />
+    <String string="Guild background music" stringId="$231222" />
     <String string="Scale all UI" stringId="$231223" />
     <String string="Scale combat elements" stringId="$231224" />
     <String string="HP/MP bars" stringId="$231225" />
@@ -2561,16 +2595,16 @@ PvP Stats" stringId="$221075" />
     <String string="Display warnings for harmful effects" stringId="$231258" />
     <String string="Display warnings for boss enrage" stringId="$231259" />
     <String string="Display warnings for massive damage received" stringId="$231260" />
-    <String string="Received damage vs. total HP" stringId="$231261" />
+    <String string="Received damage vs. maximum HP" stringId="$231261" />
     <String string="Display warnings when near death" stringId="$231262" />
-    <String string="Minimum HP vs. total HP" stringId="$231263" />
+    <String string="Minimum HP vs. maximum HP" stringId="$231263" />
     <String string="Party Notices" stringId="$231264" />
     <String string="Display used skill" stringId="$231265" />
     <String string="Display warnings for harmful effects" stringId="$231266" />
     <String string="Display warnings for massive damage received" stringId="$231267" />
-    <String string="Received damage vs. total HP" stringId="$231268" />
+    <String string="Received damage vs. maximum HP" stringId="$231268" />
     <String string="Display warnings when near death" stringId="$231269" />
-    <String string="Minimum HP vs. total HP" stringId="$231270" />
+    <String string="Minimum HP vs. maximum HP" stringId="$231270" />
     <String string="Extend upward" stringId="$231271" />
     <String string="Extend downward" stringId="$231272" />
     <String string="Reset UI scale" stringId="$231273" />
@@ -2601,11 +2635,16 @@ PvP Stats" stringId="$221075" />
     <String string="Use upswept hairdo" stringId="$231298" />
     <String string="Display Your HP" stringId="$231299" />
     <String string="Camera maximum range limit" stringId="$231300" />
+    <String string="Display boss monster's attack range" stringId="$231301" />
+    <String string="Display monster's attack range" stringId="$231302" />
+    <String string="Show Main Menu only in UI Mode" stringId="$231303" />
+    <String string="Gamepad Setup" stringId="$231304" />
+    <String string="Turn off automatic gamepad detection" stringId="$231305" />
     <String string="AP" stringId="$235000" />
     <String string="World Map" stringId="$241001" />
     <String string="Battleground Map" stringId="$241002" />
     <String string="Route Map" stringId="$241003" />
-    <String string="Guild Hall Map" stringId="$241004" />
+    <String string="Skycastle Map" stringId="$241004" />
     <String string="Teleport" stringId="$241005" />
     <String string="(Unexplored)" stringId="$241006" />
     <String string="Undiscovered" stringId="$241007" />
@@ -2811,7 +2850,7 @@ PvP Stats" stringId="$221075" />
     <String string="If you remove location tracking number of a quest, the quest will also disappear from the quest tracker." stringId="$241208" />
     <String string="Remove" stringId="$241209" />
     <String string="Cancel" stringId="$241210" />
-    <String string="You died during GvG. Please choose your resurrection point." stringId="$241211" />
+    <String string="You died during a GvG battle. Choose your resurrection point." stringId="$241211" />
     <String string="Teleport" stringId="$251001" />
     <String string="Name" stringId="$251002" />
     <String string="Coordinates" stringId="$251003" />
@@ -2846,7 +2885,7 @@ PvP Stats" stringId="$221075" />
     <String string="Ranged classes" stringId="$261017" />
     <String string="Ranged classes aim attacks through the crosshairs at the center of the screen. Press mouse &lt;FONT SIZE='18' COLOR='#FDFD02'&gt;left/right button&lt;/FONT&gt; or &lt;FONT SIZE='18' COLOR='#FDFD02'&gt;shortcut buttons&lt;/FONT&gt; to shoot a ranged attack." stringId="$261018" />
     <String string="Charged skills" stringId="$261019" />
-    <String string="Charged skills build up more power while holding down the mouse &lt;FONT SIZE='18' COLOR='#FDFD02'&gt;left/right button&lt;/FONT&gt; or &lt;FONT SIZE='18' COLOR='#FDFD02'&gt;[SpaceBar]/shortcut button&lt;/FONT&gt;." stringId="$261020" />
+    <String string="Charged skills build up more Power while holding down the mouse &lt;FONT SIZE='18' COLOR='#FDFD02'&gt;left/right button&lt;/FONT&gt; or &lt;FONT SIZE='18' COLOR='#FDFD02'&gt;[SpaceBar]/shortcut button&lt;/FONT&gt;." stringId="$261020" />
     <String string="Dodge and defense" stringId="$261021" />
     <String string="You can dodge or defend without disrupting the hit count of your combo skills." stringId="$261022" />
     <String string="Other players" stringId="$261023" />
@@ -2895,8 +2934,7 @@ PvP Stats" stringId="$221075" />
     <String string="Enter Team Name" stringId="$272002" />
     <String string="Require a password" stringId="$272003" />
     <String string="Enter password" stringId="$272004" />
-    <String string="Selected team is private.
-Enter password." stringId="$272005" />
+    <String string="Selected team is private. Enter password." stringId="$272005" />
     <String string="Check reward" stringId="$272006" />
     <String string="Medal" stringId="$272007" />
     <String string="Winning Rewards" stringId="$272008" />
@@ -2906,12 +2944,18 @@ Enter password." stringId="$272005" />
     <String string="" stringId="$272012" />
     <String string="item(s)" stringId="$272013" />
     <String string="Contest point" stringId="$272014" />
+    <String string="Special Achievements do not count toward laurels." stringId="$272015" />
+    <String string="Crusade score excludes special achievements: {Score}" stringId="$272016" />
+    <String string="{Name}'s score: {CompareScore}\nMy score: {TotalScore}" stringId="$272017" />
+    <String string="See More" stringId="$272018" />
+    <String stringId="$272019" />
+    <String stringId="$272020" />
+    <String stringId="$272021" />
     <String string="Battle group" stringId="$273001" />
     <String string="Queue for Battle" stringId="$273002" />
     <String string="Invite" stringId="$273003" />
     <String string="Leave" stringId="$273004" />
-    <String string="Matching opponents.
-Please wait." stringId="$273005" />
+    <String string="Matching opponents. Please wait." stringId="$273005" />
     <String string="Close" stringId="$273006" />
     <String string="Appoint Legate" stringId="$273007" />
     <String string="Party 1" stringId="$273008" />
@@ -2940,7 +2984,7 @@ Please wait." stringId="$273005" />
     <String string="Battle Plan" stringId="$275008" />
     <String string="No" stringId="$275009" />
     <String string="Legate" stringId="$275010" />
-    <String string="Number of players" stringId="$275011" />
+    <String string="Members" stringId="$275011" />
     <String string="Status" stringId="$275012" />
     <String string="New team" stringId="$275013" />
     <String string="Join in" stringId="$275014" />
@@ -2994,13 +3038,10 @@ Please wait." stringId="$273005" />
     <String string="Wins /" stringId="$278003" />
     <String string="Draws /" stringId="$278004" />
     <String string="Losses" stringId="$278005" />
-    <String string="Skill Use Window" stringId="$278006" />
+    <String string="Skill Window" stringId="$278006" />
     <String string="Battleground Matching" stringId="$279001" />
     <String string="Join the Battlegrounds" stringId="$279002" />
-    <String string="   Check the battleground description to confirm which versions will not progress quests.
-   Different battlegrounds have different queue requirements. Skilled or experienced players can queue as group leader.
-   If your group changes, you need to cancel your current request and queue again.
-   Your character profile displays your PvP record for all battlegrounds. Have fun, and try not to die!" stringId="$279003" />
+    <String string="   Check the battleground description to confirm which versions will not progress quests.    Different battlegrounds have different queue requirements. Skilled or experienced players can queue as group leader.    If your group changes, you need to cancel your current request and queue again.    Your character profile displays your PvP record for all battlegrounds. Have fun, and try not to die!" stringId="$279003" />
     <String string="Refresh" stringId="$279004" />
     <String string="Queue for Battleground" stringId="$279005" />
     <String string="Able to lead the battle" stringId="$279006" />
@@ -3059,21 +3100,21 @@ Please wait." stringId="$273005" />
     <String string="Financial info" stringId="$282008" />
     <String string="Term extension" stringId="$282009" />
     <String string="Close" stringId="$282010" />
-    <String string="Guild hall info" stringId="$291001" />
-    <String string="Guild hall model" stringId="$291002" />
-    <String string="Guild hall size" stringId="$291003" />
+    <String string="Skycastle info" stringId="$291001" />
+    <String string="Skycastle model" stringId="$291002" />
+    <String string="Skycastle size" stringId="$291003" />
     <String string="Selling guild" stringId="$291004" />
     <String string="Selling guild master" stringId="$291005" />
-    <String string="Guild hall value" stringId="$291006" />
+    <String string="Skycastle value" stringId="$291006" />
     <String string="Monthly maintenance cost" stringId="$291007" />
     <String string="Total buying price" stringId="$291008" />
     <String string="Select list to see pledge of candidates." stringId="$291009" />
     <String string="Buy" stringId="$291010" />
     <String string="Close" stringId="$291011" />
-    <String string="Guild hall sales application" stringId="$292001" />
+    <String string="Skycastle sales application" stringId="$292001" />
     <String string="Expected selling price" stringId="$292002" />
     <String string="Sale commission" stringId="$292003" />
-    <String string="Expected selling price for guild hall" stringId="$292004" />
+    <String string="Expected selling price for Skycastle" stringId="$292004" />
     <String string="should be set above {AgitGold}." stringId="$292005" />
     <String string="Advertisement" stringId="$292006" />
     <String string="(less than 20 letters)" stringId="$292007" />
@@ -3315,6 +3356,7 @@ Please wait." stringId="$273005" />
     <String string="Buy Now Price" stringId="$321158" />
     <String string="Premium Benefits" stringId="$321159" />
     <String string="Expiration Date:" stringId="$321160" />
+    <String string="Awakened" stringId="$321161" />
     <String string="(Recommended Proficiency: {Prof})" stringId="$321999" />
     <String string="Negotiating" stringId="$322001" />
     <String string="Make an offer." stringId="$322002" />
@@ -3383,8 +3425,7 @@ Please wait." stringId="$273005" />
     <String string="Instance Matching" stringId="$331021" />
     <String string="Advertisement for raid" stringId="$331022" />
     <String string="Register party" stringId="$332001" />
-    <String string="Listing your party.
-Enter your goal for the party." stringId="$332002" />
+    <String string="Listing your party. Enter your goal for the party." stringId="$332002" />
     <String string="Recruiting" stringId="$332003" />
     <String string="Meeting location" stringId="$332004" />
     <String string="Confirm" stringId="$332005" />
@@ -3439,7 +3480,7 @@ Enter your goal for the party." stringId="$332002" />
     <String string="[Registration fee]" stringId="$351016" />
     <String string="Please select competition type" stringId="$351017" />
     <String string="Election" stringId="$351018" />
-    <String string="GvG competition" stringId="$351019" />
+    <String string="Crusade" stringId="$351019" />
     <String string="Please select next desired province." stringId="$351020" />
     <String string="Please select {Count}{@ordinal:{Count}} desired province." stringId="$351021" />
     <String string="Please write a statement." stringId="$351022" />
@@ -3448,7 +3489,7 @@ Enter your goal for the party." stringId="$332002" />
     <String string="Registration is over." stringId="$351025" />
     <String string="{Count}{@ordinal:{Count}} Vanarch Competition Status" stringId="$361001" />
     <String string="Vote" stringId="$361002" />
-    <String string="GvG" stringId="$361003" />
+    <String string="Crusade" stringId="$361003" />
     <String string="Ranking" stringId="$361004" />
     <String string="Poll" stringId="$361005" />
     <String string="Name" stringId="$361006" />
@@ -3608,8 +3649,7 @@ Enter your goal for the party." stringId="$332002" />
     <String string="[Competition type]" stringId="$451003" />
     <String string="[Registration fee]" stringId="$451004" />
     <String string="[Desired province]" stringId="$451005" />
-    <String string="Do you want to register as a vanarch candidate?
-&lt;font color='#{noticeColor}'&gt;(Application cannot be canceled once you apply.)&lt;/font&gt;" stringId="$451006" />
+    <String string="Do you want to register as a vanarch candidate? &lt;font color='#{noticeColor}'&gt;(Application cannot be canceled once you apply.)&lt;/font&gt;" stringId="$451006" />
     <String string="Apply" stringId="$451007" />
     <String string="Cancel" stringId="$451008" />
     <String string="Controller configuration" stringId="$460001" />
@@ -3660,8 +3700,7 @@ Enter your goal for the party." stringId="$332002" />
     <String string="Refresh" stringId="$461004" />
     <String string="Find Group" stringId="$461005" />
     <String string="Close" stringId="$461006" />
-    <String string="Valkyon's Call
-(Additional rewards possible)" stringId="$461007" />
+    <String string="Valkyon's Call (Additional rewards possible)" stringId="$461007" />
     <String string="Recommended item level" stringId="$461008" />
     <String string="Unable to enter this instance" stringId="$461009" />
     <String string="Number of allowable instances" stringId="$461010" />
@@ -3683,8 +3722,7 @@ Enter your goal for the party." stringId="$332002" />
     <String string="Rookie to this instance." stringId="$461026" />
     <String string="Assign party members' role" stringId="$461027" />
     <String string="No applicants" stringId="$461028" />
-    <String string="    Your reward for completing the dungeon will depend on your account type.        &lt;ul&gt;         &lt;li&gt;Standard: 1 Valkyon's Response.&lt;/li&gt;&lt;li&gt;Founder: 1 Valkyon's Response.&lt;/li&gt;&lt;li&gt;Elite: 2 Valkyon's Responses.&lt;/li&gt;       &lt;/ul&gt; 
-    Blast from the Past queues level 60 players into level 20–53 dungeons to aid lower-level players. Players will have their stats and gear equalized to the difficulty of the dungeon, but retain their skills and glyph points." stringId="$461029" />
+    <String string="    Your reward for completing the dungeon will depend on your account type.        &lt;ul&gt;         &lt;li&gt;Standard: 1 Valkyon's Response.&lt;/li&gt;&lt;li&gt;Founder: 1 Valkyon's Response.&lt;/li&gt;&lt;li&gt;Elite: 2 Valkyon's Responses.&lt;/li&gt;       &lt;/ul&gt;      Blast from the Past queues level 60 - 65 players into level 20–53 dungeons to aid lower-level players. Players will have their stats and gear equalized to the difficulty of the dungeon, but retain their skills and glyph points." stringId="$461029" />
     <String string="Required BP" stringId="$461030" />
     <String string="Recommended Equipment" stringId="$461031" />
     <String string="The higher the difficulty level of the dungeon,&lt;br&gt;&lt;img src='img://__Icon_System.starIcon1' width='12' height='12'&gt; the more battle experience is required. Any player can easily challenge level 3 dungeons or lower." stringId="$461032" />
@@ -3696,10 +3734,8 @@ Enter your goal for the party." stringId="$332002" />
     <String string="Prologue" stringId="$462006" />
     <String string="Keyboard" stringId="$462007" />
     <String string="Controller" stringId="$462008" />
-    <String string="In the prologue, you will learn basic controls and master action combat as you explore the Island of Dawn alongside the first explorers.
-If you skip the prologue, you will start in a beginner zone at the northern dock of the Island of Dawn." stringId="$462009" />
-    <String string="Only controllers for Xbox360 and PS3 are supported.
-If you are not sure what a controller is, please select keyboard." stringId="$462010" />
+    <String string="In the prologue, you will learn basic controls and master action combat as you explore the Island of Dawn alongside the first explorers. If you skip the prologue, you will start in a beginner zone at the northern dock of the Island of Dawn." stringId="$462009" />
+    <String string="Only controllers for Xbox360 and PS3 are supported. If you are not sure what a controller is, please select keyboard." stringId="$462010" />
     <String string="Loot Box" stringId="$463001" />
     <String string="Select one of the four hidden surprises." stringId="$463002" />
     <String string="Congratulations! Your prizes are in your inventory." stringId="$463003" />
@@ -3708,7 +3744,8 @@ If you are not sure what a controller is, please select keyboard." stringId="$46
     <String string="OK" stringId="$463006" />
     <String string="Uses: " stringId="$463007" />
     <String string="[TERA] Updated Information" stringId="$464001" />
-    <String string="Review the latest news in Main Menu &gt; System Menu &gt; Welcome Message." stringId="$464002" />
+    <String string="For more news, go to http://tera-europe.com/." stringId="$464002" />
+    <String string="Press [ESC] to close the window." stringId="$464003" />
     <String string="Overview" stringId="$470001" />
     <String string="My Alliance" stringId="$470002" />
     <String string="Standings" stringId="$470003" />
@@ -3921,15 +3958,15 @@ If you are not sure what a controller is, please select keyboard." stringId="$46
     <String string="Active" stringId="$490007" />
     <String string="Passive" stringId="$490008" />
     <String string="Enter your pet name" stringId="$490009" />
-    <String string="Valkyon Outfitters" stringId="$500001" />
+    <String string="TERA Shop" stringId="$500001" />
     <String string="Sort by" stringId="$500002" />
     <String string="Display" stringId="$500003" />
     <String string="Race" stringId="$500004" />
     <String string="Reset" stringId="$500005" />
     <String string="Add to Cart" stringId="$500006" />
     <String string="Buy all checked items" stringId="$500007" />
-    <String string="Refresh EMP" stringId="$500008" />
-    <String string="Buy EMP" stringId="$500009" />
+    <String string="Check TERA Thalers" stringId="$500008" />
+    <String string="Buy TERA Thalers" stringId="$500009" />
     <String string="Equip" stringId="$500010" />
     <String string="Buy" stringId="$500011" />
     <String string="Store " stringId="$500012" />
@@ -3960,10 +3997,10 @@ If you are not sure what a controller is, please select keyboard." stringId="$46
     <String string="Discount" stringId="$500037" />
     <String string="Amount Due" stringId="$500038" />
     <String string="Result" stringId="$500039" />
-    <String string="Normal EMP cost:" stringId="$500040" />
+    <String string="Normal Tera Thalers cost:" stringId="$500040" />
     <String string="You have:" stringId="$500041" />
-    <String string="Additional EMP needed:" stringId="$500042" />
-    <String string="EMP" stringId="$500043" />
+    <String string="Additional Tera Thalers needed:" stringId="$500042" />
+    <String string="Tera Thalers" stringId="$500043" />
     <String string="Federation Bills" stringId="$500044" />
     <String string="Get This Item" stringId="$500045" />
     <String string="Open Item Claim" stringId="$500046" />
@@ -3976,8 +4013,8 @@ If you are not sure what a controller is, please select keyboard." stringId="$46
     <String string="Class:" stringId="$500053" />
     <String string="Price:" stringId="$500054" />
     <String string="[Contents]" stringId="$500055" />
-    <String string="Refresh EMP" stringId="$500056" />
-    <String string="Buy EMP" stringId="$500057" />
+    <String string="Refresh Tera Thalers" stringId="$500056" />
+    <String string="Buy Tera Thalers" stringId="$500057" />
     <String string="Emotes" stringId="$510001" />
     <String string="Customize your chat:" stringId="$510002" />
     <String string="Save" stringId="$510003" />
@@ -4092,6 +4129,7 @@ If you are not sure what a controller is, please select keyboard." stringId="$46
     <String string="Identical Pet Infusion Bonus" stringId="$620018" />
     <String string="Change Name" stringId="$620019" />
     <String string="Fee" stringId="$620020" />
+    <String string="Help" stringId="$620021" />
     <String string="Point Cost: {Point} Points" stringId="$630000" />
     <String string="Stackable" stringId="$630001" />
     <String string="Not Stackable" stringId="$630002" />
@@ -4103,10 +4141,10 @@ If you are not sure what a controller is, please select keyboard." stringId="$46
     <String string="Ally Support Skill" stringId="$630008" />
     <String string="Enemy Interference Skill" stringId="$630009" />
     <String string="Special Skill" stringId="$630010" />
-    <String string="In the Monkeydrome, only party leaders can select and use skills while waiting for the next round. Party members can only check the list of available skills." stringId="$630011" />
+    <String string="In the Monkeydrome, only party leaders can select and use skills while waiting for the next round. Party members can only read the list of available skills." stringId="$630011" />
     <String string="Used Points" stringId="$630012" />
     <String string="Balance" stringId="$630013" />
-    <String string="Collect" stringId="$630014" />
+    <String string="Confirm" stringId="$630014" />
     <String string="Change equipment enchantments" stringId="$640000" />
     <String string="Target Item" stringId="$640001" />
     <String string="Required Item" stringId="$640002" />
@@ -4120,12 +4158,32 @@ If you are not sure what a controller is, please select keyboard." stringId="$46
     <String string="Cancel" stringId="$650002" />
     <String string="Fusion Success!" stringId="$650003" />
     <String string="Failure" stringId="$650004" />
-    <String string="-Fuse three fine crystals of the same rank to get a random fine crystal of the same rank.&lt;br&gt;-Fuse with &lt;font color='#009900'&gt;crystal structure&lt;/font&gt; for a chance to obtain crystal of next rank.&lt;br&gt;-Fuse with &lt;font color='#00BFFF'&gt;superb structure&lt;/font&gt; for a chance to obtain a &lt;font color='#00BFFF'&gt;suberb&lt;/font&gt; crystal." stringId="$650005" />
+    <String string="-Fuse three fine crystals of the same rank to get a random fine crystal of the same rank.&lt;br&gt;-Fuse with a &lt;font color='#009900'&gt;crystal structure&lt;/font&gt; for a chance to obtain crystal of next rank. (Crystals and structure may be destroyed with no effect)&lt;br&gt;-Fuse with a &lt;font color='#00BFFF'&gt;dyad structure&lt;/font&gt; to obtain a &lt;font color='#00BFFF'&gt;dyad crystal&lt;/font&gt; with two effects." stringId="$650005" />
     <String string="Crystal to sacrifice" stringId="$650006" />
     <String string="Fuse More of the Same" stringId="$650007" />
     <String string="Right-click three crystals to fuse." stringId="$650008" />
     <String string="Crystal Upgrade!" stringId="$650009" />
-    <String string="Superb!" stringId="$650010" />
+    <String string="Dyad!" stringId="$650010" />
+    <String string="Combine" stringId="$660001" />
+    <String string="Close" stringId="$660002" />
+    <String string="Combination" stringId="$660003" />
+    <String string="Check your items in your inventory." stringId="$660004" />
+    <String string="Ранг" stringId="$700000" />
+    <String string="Имя" stringId="$700001" />
+    <String string="Класс" stringId="$700002" />
+    <String string="Убийств/Смертей/Помощь" stringId="$700003" />
+    <String string="Общий счет" stringId="$700004" />
+    <String string="Очки доблести Белликариума" stringId="$700005" />
+    <String string="Очки доблести Душегубов" stringId="$700006" />
+    <String string="Личный рейтинг" stringId="$700007" />
+    <String string="Ранг" stringId="$700008" />
+    <String string="Время битвы" stringId="$700009" />
+    <String string="Время до выхода с арены" stringId="$700010" />
+    <String string="Покинуть арену" stringId="$700011" />
+    <String string="Убийств" stringId="$700012" />
+    <String string="Смертей" stringId="$700013" />
+    <String string="Обзор" stringId="$700014" />
+    <String string="Рейтинг в реальном времени" stringId="$700015" />
     <String string="Bone Structure" stringId="$901000" />
     <String string="Eyes" stringId="$901001" />
     <String string="Nose" stringId="$901002" />
@@ -4230,6 +4288,7 @@ If you are not sure what a controller is, please select keyboard." stringId="$46
     <String string="Gape" stringId="$921310" />
     <String string="tight" stringId="$921311" />
     <String string="open" stringId="$921312" />
+    <String string="Willpower" stringId="$921313" />
     <String string="Reserved" stringId="$922000" />
     <String string="Reserved" stringId="$922001" />
     <String string="Reserved" stringId="$922002" />

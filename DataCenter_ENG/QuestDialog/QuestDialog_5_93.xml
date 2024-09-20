@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="5" id="93" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="60" id="100" prevId="0" villagerId="1014">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="5" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="60" prevId="0" villagerId="1014">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="60" id="2" prevId="0" villagerId="1014">
-         
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1014">
         <Page social="0">The tuwangis in Mighty Frog Pond are getting a little hoppity. It's time to put them down.&lt;BR&gt;&lt;BR&gt;Eliminate the {@LinkCreature:5#7#tuwangi warfroggers}, {@LinkCreature:5#8#keen hat tuwangis}, and {@LinkCreature:5#9#stonehammer tuwangis}.&lt;BR&gt;&lt;BR&gt;Report to Zelia at the Tuwangi Garrison when mission is complete.</Page>
-    
     </Text>
-    <Text huntingZoneId="205" id="3" prevId="2" villagerId="1011">
-         
+    <Text id="3" huntingZoneId="205" prevId="2" villagerId="1011">
         <Page social="5">More of the violent tuwangis defeated. Check.&lt;BR&gt;&lt;BR&gt;Keep up the great work!</Page>
-    
     </Text>
-    <Text huntingZoneId="205" id="4" villagerId="1011">
-         
+    <Text id="4" huntingZoneId="205" villagerId="1011">
         <Page social="0">If only someone would go out into the world and take care of things they said they'd take care of instead of reporting to me empty-handed.&lt;BR&gt;&lt;BR&gt;Hmm? Oh, no, I certainly couldn't be talking about you.</Page>
-    
     </Text>
 </QuestDialog>

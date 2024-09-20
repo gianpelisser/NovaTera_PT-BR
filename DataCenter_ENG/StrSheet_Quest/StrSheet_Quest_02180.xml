@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="60803001" string="Market Research" />
-    <String id="60803002" string="Use teleport masters to move to camps that you have visited before." />
-    <String id="60803003" string="Well done!" />
-    <String id="60803004" string="&quot;I get what you're saying.&quot;" />
-    <String id="60803005" string="Go to Tryphena." />
-    <String id="60803006" string="&quot;How profitable.&quot;" />
-    <String id="60803007" string="Deliver the information to Rhales." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="60801001" string="Back to the Beach" />
+    <String id="60801002" string="We're counting on you." />
+    <String id="60801003" string="You're more capable than I thought." />
+    <String id="60801004" string="Hunt five arachnen stalkers and five Red Lash enforcers." />
+    <String id="60801005" string="&quot;Hey, some profit for me.&quot;" />
+    <String id="60801006" string="Claim your reward from Ebbra." />
 </StrSheet_Quest>

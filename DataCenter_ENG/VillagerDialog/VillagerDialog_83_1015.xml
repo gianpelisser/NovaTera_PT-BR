@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="83" id="1015" voiceTypeId="12">
-    <Text huntingZoneId="83" id="1" endSocial="14" prevId="0" villagerId="1015">
-         
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1015" huntingZoneId="83" voiceTypeId="12" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="83" prevId="0" villagerId="1015" endSocial="14">
         <Page social="4">To be sure, shining rocks are pretty and sell well, but you can't eat them. Hunters like me offer products you can actually use.</Page>
-    
     </Text>
 </VillagerDialog>

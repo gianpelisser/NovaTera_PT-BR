@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="221" id="1035" voiceTypeId="41">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1035" huntingZoneId="221" voiceTypeId="41">
     <Text huntingZoneId="221" id="1" endSocial="14" prevId="0" villagerId="1035">
          
+         
         <Page social="4">I think the treasure of the ancient gods is buried here!&lt;BR&gt;&lt;BR&gt;The rumors and secrets about the Mysterium and the treasure here have been around for ages.&lt;BR&gt;&lt;BR&gt;The story is just asking for a dramatic finish! I can provide that!</Page>
+    
     
     </Text>
 </VillagerDialog>

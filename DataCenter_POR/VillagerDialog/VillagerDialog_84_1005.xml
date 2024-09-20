@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="84" id="1005" voiceTypeId="173">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1005" huntingZoneId="84" voiceTypeId="173">
     <Text id="1" endSocial="14">
          
+         
         <Page social="4" voiceTypeId="0">Welcome to Kaiator. How may I help you?&lt;BR&gt;&lt;BR&gt;{@linkcreature:84#1069#Flight Master#}&lt;BR&gt;{@linkcreature:84#1088#Kaiator Command Center (speak to the gatekeeper to enter)#}&lt;BR&gt;{@linkcreature:84#1057#Bank and Post, Trade Broker#}&lt;BR&gt;{@linkcreature:84#1049#Merchant and Crystal Merchant#}&lt;BR&gt;{@linkcreature:84#1015#Hall of Power#}&lt;BR&gt;{@linkcreature:84#1008#Hall of Strength#}&lt;BR&gt;{@linkcreature:84#1802#Chamber of Artisans#}&lt;BR&gt;{@linkcreature:84#1104#Token Rewards#}&lt;BR&gt;{@linkcreature:84#1156#Dye Merchant#}&lt;BR&gt;{@linkcreature:84#1183#Guild Battle Goods Merchant#}&lt;BR&gt;{@linkcreature:84#1204#Merchant#}&lt;BR&gt;{@linkcreature:84#1132#Inventory Manager#}&lt;BR&gt;{@linkcreature:84#1602#Valkyon Forum#}&lt;BR&gt;{@linkcreature:84#220044#Alliance Recruiter#}&lt;BR&gt;{@linkcreature:84#220045#Alliance Recruiter#}&lt;BR&gt;{@linkcreature:84#220046#Alliance Recruiter#}&lt;BR&gt;{@linkcreature:84#22008#Alliance Taskmaster#}</Page>
+    
     
     </Text>
 </VillagerDialog>

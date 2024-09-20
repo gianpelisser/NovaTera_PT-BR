@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="487" id="91" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="203" id="100" prevId="0" villagerId="1032">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="487" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1032">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="203" id="2" prevId="0" villagerId="1032">
-         
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1032">
         <Page social="5">We're still mopping up Scions down in the bastion and could use some help, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Head into the bastion and kill {@LinkCreature:487#1001#devan assassins}, {@LinkCreature:487#1002#shamans}, {@LinkCreature:487#1003#butchers}, and {@LinkCreature:487#1004#bodyguards}.&lt;BR&gt;&lt;BR&gt;Report back to me when you're done.</Page>
-    
     </Text>
-    <Text huntingZoneId="203" id="3" prevId="2" villagerId="1032">
-         
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1032">
         <Page social="5">Great to work with you again. You're an incredible soldier.</Page>
-    
     </Text>
-    <Text huntingZoneId="203" id="4" villagerId="1032">
-         
+    <Text id="4" huntingZoneId="203" villagerId="1032">
         <Page social="0">The sooner you get down there, the sooner the Scions stop breathing.</Page>
-    
     </Text>
 </QuestDialog>

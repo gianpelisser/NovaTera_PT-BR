@@ -1,33 +1,45 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="11" id="27" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="11" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="211" id="100" prevId="0" villagerId="1016">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="211" id="2" prevId="0" villagerId="1016">
          
+         
         <Page social="4">Nagas, piratas e traficantes de escravos. Os piratas do Red Lash são uma má notícia. Na verdade, toda a costa é uma má notícia.&lt;BR&gt;&lt;BR&gt;Mas não vou embora até ficar rico! Esta costa me deve algum tesouro - me deve por todo o derramamento de sangue, todo o sacrifício, toda a dor.&lt;NEXTPAGEBUTTON&gt;"Espere... tesouro?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Olhe, eu sei que estou em uma situação difícil. Eu provavelmente seria um escravo pirata - ou pior - se não fosse por &lt;PCCLASS:lcase&gt;s como você.&lt;BR&gt;&lt;BR&gt;Eu fui atacado da última vez que fui atrás desses baús de tesouro. No entanto, gostaria de ver alguém tentar lhe atacar.&lt;BR&gt;&lt;BR&gt;Traga-me o que está dentro e eu vou separar a sucata. Pelo jeito, tenho jeito para avaliar antiguidades.</Page>
+    
     
     </Text>
     <Text huntingZoneId="211" id="3" prevId="2" villagerId="1029">
          
+         
         <Page social="4">(O baú antigo já está aberto e cheio de lodo).</Page>
+    
     
     </Text>
     <Text huntingZoneId="211" id="4" prevId="3" villagerId="1030">
          
+         
         <Page social="4">(O baú antigo já está aberto e cheio de lodo).</Page>
+    
     
     </Text>
     <Text huntingZoneId="211" id="5" prevId="4" villagerId="1016">
          
+         
         <Page social="4">Os baús estavam cheios de lodo? Onde está o tesouro? Espere um pouco...&lt;BR&gt;&lt;BR&gt;Oh, estou vendo como é. Você pega os bens para si e finge que os baús não valiam nada.&lt;BR&gt;&lt;BR&gt;Acho que você é que está cheio de lodo. &lt;NEXTPAGEBUTTON&gt;"Não é nada disso."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Como queiram, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;Agora, saiam. Tenho um plano para fazer...</Page>
+    
     
     </Text>
 </QuestDialog>

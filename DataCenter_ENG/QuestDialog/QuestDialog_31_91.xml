@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="31" id="91" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="73" id="100" prevId="0" villagerId="1009">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="31" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1009">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="73" id="2" prevId="0" villagerId="1009">
-         
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1009">
         <Page social="0">The sheer volume of ossugons around here boggles the mind. Cut their numbers and kill {@LinkCreature:31#1#ossugon frostwalkers} and {@LinkCreature:31#2#icelords}, as well as {@LinkCreature:31#3#frigid ossugons} and {@LinkCreature:31#6#deathfrost cavaliers}.&lt;BR&gt;&lt;BR&gt;Report to Dyfed when you've finished.</Page>
-    
     </Text>
-    <Text huntingZoneId="231" id="3" prevId="2" villagerId="1017">
-         
+    <Text id="3" huntingZoneId="231" prevId="2" villagerId="1017">
         <Page social="4">Good work! Here's a token of our appreciation.</Page>
-    
     </Text>
-    <Text huntingZoneId="231" id="4" villagerId="1017">
-         
+    <Text id="4" huntingZoneId="231" villagerId="1017">
         <Page social="0">There are ossugons all over the Frost Wastes and Deathfrost Plains.</Page>
-    
     </Text>
 </QuestDialog>

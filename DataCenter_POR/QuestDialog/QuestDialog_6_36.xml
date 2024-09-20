@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="6" id="36" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="6" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="206" id="100" prevId="0" villagerId="1034">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="206" id="2" prevId="0" villagerId="1034">
          
+         
         <Page social="5">Percebemos que os Gutrends mantêm sua força comendo os {@LinkCreature:6#2011#hillwalker warthogs} e os {@LinkCreature:6#2031#scavenging bears}. E nós, é claro, mas já estamos fazendo o que podemos para ficar fora da cadeia alimentar deles.&lt;BR&gt;&lt;BR&gt;Se você for até lá e destruir a fonte de alimento deles, talvez eles finalmente procurem outro lugar e possamos nos livrar deles.</Page>
+    
     
     </Text>
     <Text huntingZoneId="206" id="3" prevId="2" villagerId="1034">
          
+         
         <Page social="5">Ótimo! Agora eles vão procurar outro lugar ou morrerão tentando continuar atrás de nós.</Page>
+    
     
     </Text>
 </QuestDialog>

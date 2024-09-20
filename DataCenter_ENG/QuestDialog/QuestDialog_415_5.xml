@@ -1,97 +1,57 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="415" id="5" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="415" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
-         
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
         <Page social="0">The expedition members who survived the landing must regroup on the beach, and then find Commander Elleon.</Page>
-    
     </Text>
-    <Text huntingZoneId="415" id="3" prevId="2" villagerId="1005">
-         
+    <Text id="3" huntingZoneId="415" prevId="2" villagerId="1005">
         <Page social="4">I'm getting too old for this, &lt;PCCLASS:lcase&gt;. The reefs, the weather, and those hostiles up on the cliffs have put us in complete disarray.&lt;BR&gt;&lt;BR&gt;Not exactly the triumphant landing that Commander Elleon planned, eh?&lt;BR&gt;&lt;BR&gt;We've got to get ourselves organized and get off this beach!&lt;NEXTPAGEBUTTON&gt;"I'm ready for action!"&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="4">Good to hear. Our first priority is the wounded. You know the drill: triage and then treatment.&lt;BR&gt;&lt;BR&gt;The medics are strewn across the beach like everything else, and I need status reports. Talk to the medics, deliver supplies to them, and then get back here immediately!</Page>
-    
     </Text>
-    <Text huntingZoneId="415" id="4" prevId="3" villagerId="1050">
-         
+    <Text id="4" huntingZoneId="415" prevId="3" villagerId="1050">
         <Page social="4">Just adding the breath that the seas stole away. Tell Ahdun it's mostly drownings and near-drownings.</Page>
-    
     </Text>
-    <Text huntingZoneId="415" id="5" prevId="3" villagerId="1051">
-         
+    <Text id="5" huntingZoneId="415" prevId="3" villagerId="1051">
         <Page social="4">You brought bandages? Good. Tell Ahdun there's something with teeth out in the deep water.&lt;NEXTPAGEBUTTON&gt;"Keep up the good work."&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="4">About half the troops made it ashore, but only a quarter are in any shape to fight.&lt;BR&gt;&lt;BR&gt;Tell Ahdun that if anyone else was coming in, they'd be here by now.</Page>
-    
     </Text>
-    <Text huntingZoneId="415" id="6" prevId="3" villagerId="1052">
-         
+    <Text id="6" huntingZoneId="415" prevId="3" villagerId="1052">
         <Page social="0">What kind of idiot quartermaster puts the medics on one ship, but their supplies on another?&lt;BR&gt;&lt;BR&gt;Oh! That's why you're here. I'll take those supplies—and tell Ahdun I need more.</Page>
-    
     </Text>
-    <Text huntingZoneId="415" id="7" prevId="4" villagerId="1005">
-         
+    <Text id="7" huntingZoneId="415" prevId="4" villagerId="1005">
         <Page social="4">Look at this beach, &lt;PCNAME&gt;. Able-bodied troops are few and far between.&lt;BR&gt;&lt;BR&gt;I'll get the walking wounded to help the medics out. We need to get you ready to fight.&lt;NEXTPAGEBUTTON&gt;"Are we under attack?"&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="4">Not at the moment, but does this beach look safe to you?&lt;BR&gt;&lt;BR&gt;Commander Elleon went ahead with the scouts, but he thought he had an entire expedition behind him. We've got to establish contact with him and regroup.&lt;BR&gt;&lt;BR&gt;I'm not sending you onward looking like a drowned rat, though. The quartermaster, Popomin, can gear you up with whatever's washed ashore. Hurry, &lt;PCNAME&gt;!</Page>
-    
     </Text>
-    <Text huntingZoneId="415" id="8" prevId="7" villagerId="1007">
-         
+    <Text id="8" huntingZoneId="415" prevId="7" villagerId="1007">
         <Page social="4">Don't kill me! I'm a noncombatant!&lt;BR&gt;&lt;BR&gt;Wait a minute—you're one of ours! You aren't groaning and coughing up seawater like everyone else, so I figured...never mind.&lt;BR&gt;&lt;BR&gt;You want gear? Sorry—no &lt;PCCLASS:lcase&gt; gear has washed ashore, unless the centurions grabbed it. Check with them.</Page>
-    
     </Text>
-    <Text huntingZoneId="415" id="9" prevId="8" villagerId="1053">
-         
+    <Text id="9" huntingZoneId="415" prevId="8" villagerId="1053">
         <Page social="4">Gear for &lt;font color='#FF0000'&gt;&lt;PCCLASS:lcase&gt;s&lt;/font&gt;...let's see.&lt;BR&gt;&lt;BR&gt;Hey, you’re in luck! Take this and put it on.&lt;BR&gt;&lt;BR&gt;It's not exactly ready for inspection, but it'll keep you safe.</Page>
-    
     </Text>
-    <Text huntingZoneId="415" id="10" prevId="9" villagerId="1053">
-         
+    <Text id="10" huntingZoneId="415" prevId="9" villagerId="1053">
         <Page social="4">Now you look like a proper &lt;PCCLASS:lcase&gt;, not a drowning victim.&lt;BR&gt;&lt;BR&gt;Report to the adjutant—and tell her that only the wounded are left on the beach.</Page>
-    
     </Text>
-    <Text huntingZoneId="415" id="11" prevId="10" villagerId="1003">
-         
+    <Text id="11" huntingZoneId="415" prevId="10" villagerId="1003">
         <Page social="4">Bah! Storms and shipwrecks! Enemies you can't just stab!&lt;BR&gt;&lt;BR&gt;I've got just a handful of troopers here. Are the rest of them still coming ashore?&lt;NEXTPAGEBUTTON&gt;"No, I don't think so."&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="4">Heavy casualties, and we aren't even off the beach. Never seen a storm so sudden.&lt;BR&gt;&lt;BR&gt;We're in complete disarray, and my staff is shell-shocked. Go prod them back to the land of the living and get me some options—pronto. I think the tide is coming in.</Page>
-    
     </Text>
-    <Text huntingZoneId="415" id="12" prevId="11" villagerId="1055">
-         
+    <Text id="12" huntingZoneId="415" prevId="11" villagerId="1055">
         <Page social="4">I'm a soldier, not a fish. If I get out of this alive, I'm moving to the desert.&lt;NEXTPAGEBUTTON&gt;"The adjutant sent me."&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="4">Yeah? Well, tell her that no amount of shouting is gonna end this rain or get our provisions off the ocean floor.&lt;BR&gt;&lt;BR&gt;My advice? Start praying.&lt;NEXTPAGEBUTTON&gt;"Anything more tangible?"&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="4">I hear echoes of something roaring up on top of the cliffs. It'd be suicide to go up there unprepared.</Page>
-    
     </Text>
-    <Text huntingZoneId="415" id="13" prevId="11" villagerId="1056">
-         
+    <Text id="13" huntingZoneId="415" prevId="11" villagerId="1056">
         <Page social="4">If you can run and fight, why aren't you with Akrak or Elleon?&lt;NEXTPAGEBUTTON&gt;"The adjutant sent me."&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="4">She did? Tell her our supplies are in disarray, but don't wait for us to get organized.&lt;NEXTPAGEBUTTON&gt;"Why not?"&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="4">When we do figure out what little washed ashore, it's just gonna be bad news. Press on before we know the worst of it, I say.</Page>
-    
     </Text>
-    <Text huntingZoneId="415" id="14" prevId="12" villagerId="1003">
-         
+    <Text id="14" huntingZoneId="415" prevId="12" villagerId="1003">
         <Page social="4">So we shouldn't move, but we shouldn't wait. Remind me why I have assistants?&lt;BR&gt;&lt;BR&gt;In any case, it's Akrak's decision, not mine. Report to him immediately.</Page>
-    
     </Text>
-    <Text huntingZoneId="415" id="15" prevId="14" villagerId="1002">
-         
+    <Text id="15" huntingZoneId="415" prevId="14" villagerId="1002">
         <Page social="4">By the gods, &lt;PCCLASS:lcase&gt;, you look ready for battle. Let's put you to work.&lt;BR&gt;&lt;BR&gt;Specifically, I need you to find Elleon.&lt;NEXTPAGEBUTTON&gt;"The commander?"&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="4">Yes, Commander Elleon and a few scouts headed into the cave just as the storm was brewing. He probably has no idea how bad things are down here.&lt;BR&gt;&lt;BR&gt;Elleon is the best fighter I've ever seen, so I'm sure he's alive and well, but I need to know what he's found. And he needs to know that his expedition is scattered across the beach and the bottom of the sea.</Page>
-    
     </Text>
 </QuestDialog>

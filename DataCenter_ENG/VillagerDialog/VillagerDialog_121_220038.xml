@@ -1,13 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="121" id="220038" voiceTypeId="0">
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="220038" huntingZoneId="121" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
     <Text id="1" endSocial="14">
-         
         <Page social="4" voiceTypeId="0">For the Enlightened Union!</Page>
-    
     </Text>
     <Text id="6" endSocial="14">
-         
         <Page social="4" voiceTypeId="0">Sorry, you'll need to come back later.</Page>
-    
     </Text>
 </VillagerDialog>

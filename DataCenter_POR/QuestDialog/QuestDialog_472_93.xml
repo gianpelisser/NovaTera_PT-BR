@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="472" id="93" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="472" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="472" id="100" prevId="0" villagerId="1001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="472" id="2" prevId="0" villagerId="1001">
          
+         
         <Page social="0">Ordens da missão&lt;BR&gt;&lt;BR&gt;A operação de escravidão no Labirinto Dourado tem que acabar.&lt;BR&gt;&lt;BR&gt;Destrua os {@LinkCreature:472#6#Mutiladores de Sihran}, {@LinkCreature:472#17#escravizadores brutais} e {@LinkCreature:472#5002#gulas afogados}.&lt;BR&gt;&lt;BR&gt;Relate-me quando a missão estiver concluída.</Page>
+    
     
     </Text>
     <Text huntingZoneId="472" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="5">Escravidão - você está tornando isso ruim para os negócios deles, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
     <Text huntingZoneId="472" id="4" villagerId="1001">
          
+         
         <Page social="0">Elimine os caídos. Eles são simplesmente assustadores.</Page>
+    
     
     </Text>
 </QuestDialog>

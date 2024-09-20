@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="8" id="32" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="8" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="208" id="100" prevId="0" villagerId="1022">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="208" id="2" prevId="0" villagerId="1022">
          
+         
         <Page social="4">Chegou a hora de cortar as entranhas da operação gula. Derrubem {@LinkCreature:8#8011#Glauka}, o líder deles, e mostrem aos gulas que somos a força dominante nessa região.&lt;BR&gt;&lt;BR&gt;Atenção, Glauka é um bastardo durão. Ele teve que ser assim para chegar até aqui. Certifique-se de que você voltará vivo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="3" prevId="2" villagerId="1022">
          
+         
         <Page social="4">Isso parece... pesado. Da próxima vez, pedirei um troféu mais leve e menos incômodo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="4" villagerId="1022">
          
+         
         <Page social="0">Glauka está na Caverna da Matança. Ele me intimida, mas você me intimida ainda mais.</Page>
+    
     
     </Text>
 </QuestDialog>

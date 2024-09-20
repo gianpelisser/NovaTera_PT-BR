@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="999924001" string="Urgent: Lime Time" />
-    <String id="999924002" string="[Spring Valley] Gather lime from deposits around the hot springs." />
-    <String id="999924003" string="Lime Deposit" />
-    <String id="999924004" string="Complete Vanguard Initiative orders and claim your prize!" />
-    <String id="999924005" string="Lime Deposit" />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="999806001" string="Option: Storm the Armory!" />
+    <String id="999806002" string="[Sabex Armory] Attack Sabex Armory with your allies and kill Yateveo." />
+    <String id="999806003" string="Claim your reward!" />
 </StrSheet_Quest>

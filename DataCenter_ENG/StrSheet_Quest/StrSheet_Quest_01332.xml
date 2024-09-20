@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4735001" string="Faerie Fury" />
-    <String id="4735002" string="Kill the {@Creature:47#2002#argonomorph faeries} who are interfering with the planting of faerie saplings." />
-    <String id="4735003" string="That wasn't an easy job. Thanks." />
-    <String id="4735004" string="Kill {@creature:47#2002#argonomorph faeries} in the {@Rgn:47015$$Petrified Mushroom Field}." />
-    <String id="4735005" string="&quot;It's an honor to serve.&quot;" />
-    <String id="4735006" string="Report back to {@creature:247#1018$$Lenton} in {@Rgn:47008$$Eastwatch}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4731001" string="Snake, Rattle, and Roll" />
+    <String id="4731002" string="Check on the Temporary Patrol Camp." />
+    <String id="4731003" string="We're safe for now, but short-handed." />
+    <String id="4731004" string="Kill the {@creature:47#4002#argonomorph naga wyrmlings} south of the {@Rgn:47005$$Argon Frontier}." />
+    <String id="4731005" string="&quot;Good luck.&quot;" />
+    <String id="4731006" string="Meet {@creature:247#1021$$Shannow} at the {@Rgn:47009$$Temporary Patrol Camp}." />
 </StrSheet_Quest>

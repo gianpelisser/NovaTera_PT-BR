@@ -1,77 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="48" id="1" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
         <Page social="0">You returned to Kaiator, delivering a research report to Tamur. Tamur expressed his gratitude for your role in avenging his father's death, but quickly turned to matters of war. In an effort to stave off disaster along the Khanovar Front, Tamur sent you to assist forces there. You delivered aid to the battlefield, and then took command of a siege weapon to fend off an argon assault.</Page>
-    
     </Text>
-    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
-         
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
         <Page social="0">Return to {@Rgn:84001$$Kaiator} and deliver the research report to Commander Tamur.</Page>
-    
     </Text>
-    <Text huntingZoneId="528" id="3" prevId="2" villagerId="5005">
-         
+    <Text id="3" huntingZoneId="528" prevId="2" villagerId="5005">
         <Page social="4">Thank...thank you for avenging my father. My duties required me to put my vengeance on hold.&lt;NEXTPAGEBUTTON&gt;"Your father understood duty."&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="4">I hope so. What brings you back to Kaiator?&lt;BR&gt;&lt;BR&gt;Eh? A report from our friends in the Mysterium? Let me review this. We'll speak again.&lt;BR&gt;&lt;BR&gt;Incidentally, Gislan wanted a moment of your time.</Page>
-    
     </Text>
-    <Text huntingZoneId="528" id="4" prevId="3" villagerId="5026">
-         
+    <Text id="4" huntingZoneId="528" prevId="3" villagerId="5026">
         <Page social="4">Thank you, &lt;PCNAME&gt;. {@Creature:246#2008$$Hasmina} is a bright young officer like you. We're grateful to you for saving her life.&lt;NEXTPAGEBUTTON&gt;"I'd never abandon a comrade."&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="4">Of course. I'd ask that you keep an eye on Hasmina. Survivors often bear terrible guilt. We can't afford to lose a soldier like her.&lt;BR&gt;&lt;BR&gt;Ah, it looks like Tamur wants to speak with you again. Farewell.</Page>
-    
     </Text>
-    <Text huntingZoneId="528" id="5" prevId="4" villagerId="5005">
-         
+    <Text id="5" huntingZoneId="528" prevId="4" villagerId="5005">
         <Page social="4">Adeldur's report is as cheery as a zompori's moan. The argon threat intensifies, but we don't know what they hope to accomplish in the near term.&lt;BR&gt;&lt;BR&gt;Head to the {@Rgn:48001$$Khanovar Front}. We must bolster our forces up there.&lt;NEXTPAGEBUTTON&gt;"Understood, sir."&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="4">Take this scroll to hasten your journey. I'll meet you there.</Page>
-    
     </Text>
-    <Text huntingZoneId="248" id="6" prevId="5" villagerId="2003">
-         
+    <Text id="6" huntingZoneId="248" prevId="5" villagerId="2003">
         <Page social="12">Welcome to Khanovar! Argons and casualties are our specialities!&lt;BR&gt;&lt;BR&gt;The fighting's bogged down at the moment. Speculation runs rampant, but nobody knows why the argons fell back.&lt;BR&gt;&lt;BR&gt;You should check in with {@Creature:248#2004$$Charti}. Good luck.</Page>
-    
     </Text>
-    <Text huntingZoneId="248" id="7" prevId="6" villagerId="2004">
-         
+    <Text id="7" huntingZoneId="248" prevId="6" villagerId="2004">
         <Page social="4">I lost half my forces stopping an argon surge yesterday. They came out of nowhere, hammered us, and withdrew. Not a peep from them since. Maddening.&lt;BR&gt;&lt;BR&gt;Make your way to {@Rgn:48002$$Khanovar Citadel}. {@Creature:248#2001$$Commander Tamur} is waiting there. Done talking.</Page>
-    
     </Text>
-    <Text huntingZoneId="248" id="8" prevId="7" villagerId="2001">
-         
+    <Text id="8" huntingZoneId="248" prevId="7" villagerId="2001">
         <Page social="4">Things look bad. I hope you're ready for a fight.&lt;BR&gt;&lt;BR&gt;We took heavy casualties at {@Rgn:48008$$Magthulk Crater}. Lost a lot of our best smiths.&lt;NEXTPAGEBUTTON&gt;"How can I help?"&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="4">{@Creature:248#2009$$Caerok} needs medical supplies at once. I'm sending you to deliver the supplies. Make yourself useful while you're there.</Page>
-    
     </Text>
-    <Text huntingZoneId="248" id="9" prevId="8" villagerId="2009">
-         
+    <Text id="9" huntingZoneId="248" prevId="8" villagerId="2009">
         <Page social="0">Blessings be upon you, &lt;PCCLASS:lcase&gt;. Thank you for the supplies. I can save more lives thanks to these.&lt;BR&gt;&lt;BR&gt;The argons hit our emplacement hard. Jekahb's trying to rally our survivors. Check in with him.</Page>
-    
     </Text>
-    <Text huntingZoneId="248" id="10" prevId="9" villagerId="2005">
-         
+    <Text id="10" huntingZoneId="248" prevId="9" villagerId="2005">
         <Page social="4">I'll deal with our casualties. We dispatched the siege weapons to {@Rgn:48002$$Kanobia Camp}. Those argonomorph giants will chew our forces up if we don't stop them!&lt;BR&gt;&lt;BR&gt;Find Karakhir and get those guns into the fight!</Page>
-    
     </Text>
-    <Text huntingZoneId="248" id="11" prevId="10" villagerId="2006">
-         
+    <Text id="11" huntingZoneId="248" prevId="10" villagerId="2006">
         <Page social="4">I know your work, &lt;PCNAME&gt;. My father spoke well of you.&lt;BR&gt;&lt;BR&gt;No time to chat, though. We've developed a new siege weapon just in time for a major argon push.&lt;BR&gt;&lt;BR&gt;Climb in there and let 'em have it!</Page>
-    
     </Text>
-    <Text huntingZoneId="48" id="12" prevId="11" villagerId="2000">
-         
+    <Text id="12" huntingZoneId="48" prevId="11" villagerId="2000">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="248" id="13" prevId="12" villagerId="2006">
-         
+    <Text id="13" huntingZoneId="248" prevId="12" villagerId="2006">
         <Page social="8">Hah! That ought to silence my father's criticisms.&lt;BR&gt;&lt;BR&gt;Well done, &lt;PCNAME&gt;. Blasting those argonomorph giants takes a lot of pressure off our lines.&lt;BR&gt;&lt;BR&gt;Good working with you. Best of luck out here.</Page>
-    
     </Text>
 </QuestDialog>

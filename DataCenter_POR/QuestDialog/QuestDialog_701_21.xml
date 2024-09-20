@@ -1,64 +1,88 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="701" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="701" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="210" id="100" prevId="0" villagerId="2011">
          
+         
         <Page social="0">Conforme solicitado por Stefanna, você entregou óleo de bronzeamento a um Castanic que está se bronzeando.</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="2" prevId="0" villagerId="2011">
          
+         
         <Page social="6">Olá, &lt;PCNAME&gt;. Está se divertindo ao sol? &lt;BR&gt;&lt;BR&gt;Infelizmente, eu mesmo não posso relaxar. Estou atrasado em meus pedidos de entrega e não posso fazer uma pausa até que todos tenham seu óleo de bronzeamento.&lt;BR&gt;&lt;BR&gt;Suponho que você não poderia me ajudar com isso...?</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="3" prevId="2" villagerId="2011">
          
+         
         <Page social="4">Muito obrigado, &lt;PCNAME&gt;! Agora vamos ver...&lt;BR&gt;&lt;BR&gt;Tenho quatro clientes diferentes esperando pelo óleo de bronzear, mas este é o que está esperando há mais tempo. Aqui. Você poderia levar esse frasco de óleo bronzeador para ela?</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="4" prevId="2" villagerId="2011">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="210" id="5" prevId="2" villagerId="2011">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="210" id="6" prevId="2" villagerId="2011">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="210" id="7" prevId="2" villagerId="2011">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="210" id="8" prevId="3" villagerId="2201">
          
+         
         <Page social="4">Você não é a Stefanna. Isso é... decepcionante. Ela disse algo sobre mim?</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="9" prevId="3" villagerId="2203">
          
+         
         <Page social="4">Já era hora! Eu estava começando a arder!</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="10" prevId="3" villagerId="2116">
          
+         
         <Page social="4">Por que você demorou tanto? Ah, estou vendo: Stefanna está relaxando na praia enquanto você faz os recados dela. Típico.</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="11" prevId="3" villagerId="2118">
          
+         
         <Page social="4">Ah, finalmente o óleo bronzeador da Stefanna! Você já experimentou? Você simplesmente precisa! É o melhor de todos!</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="12" prevId="11" villagerId="2011">
          
+         
         <Page social="4">Muito obrigado, &lt;PCNAME&gt;! Está muito quente lá fora para fazer entregas. Você deveria fazer uma pausa.&lt;BR&gt;&lt;BR&gt;Aqui, coloque isso - vai manter o sol longe de seus olhos.</Page>
+    
     
     </Text>
 </QuestDialog>

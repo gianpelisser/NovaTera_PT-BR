@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="122" id="2" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="122" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="122" id="100" prevId="0" villagerId="220021">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="122" id="2" prevId="0" villagerId="220021">
          
+         
         <Page social="1">Os rivais da União Iluminada estão dificultando as coisas para nós, meu amigo.&lt;BR&gt;&lt;BR&gt;Recentemente, recebemos informações de que membros da Ordem de Ferro e do Coletivo de Comerciantes Livres estão invadindo nossas operações, aparentemente para fomentar a confusão. Sua principal tática parece ser atrair monstros para a área, presumivelmente para garantir a negação.&lt;BR&gt;&lt;BR&gt;Por favor, reúna evidências de suas atividades. Patrulhe os desertos e a área de invasão do tor e procure por criaturas não nativas, como os {@linkcreature:122#202#tor mugatos} e {@linkcreature:122#205#oasis ghilliedhus}. Mate pelo menos três de cada um, como prova de sua presença.&lt;BR&gt;&lt;BR&gt;Antes de ir, considere fazer uma festa e treinar alguns amigos. &lt;font color='#660000'&gt;Qualquer grupo que inclua alguém de nível 60 e alguém que ainda não esteja no nível 65 que concluir essa tarefa se beneficiará da recompensa bônus.&lt;/font&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="122" id="3" prevId="2" villagerId="220021">
          
+         
         <Page social="0">Obrigado, amigo &lt;PCNAME&gt;!&lt;BR&gt;Sua ajuda tem sido inestimável para a União Iluminada!</Page>
+    
     
     </Text>
 </QuestDialog>

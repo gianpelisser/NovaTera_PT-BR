@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="7" id="28" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="207" id="100" prevId="0" villagerId="1100">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1100">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="207" id="2" prevId="0" villagerId="1100">
-         
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1100">
         <Page social="5">It's our job to provide protection for the Mysterium researchers, so when they need some dangerous research ingredient, it's our job to get it. Now they want kumas cores! Can you believe it?&lt;BR&gt;&lt;BR&gt;I need someone highly skilled. Like you, &lt;PCNAME&gt;. Gather a party and get a couple cores from the {@LinkCreature:7#4#torpid kumases} for me, would you?</Page>
-    
     </Text>
-    <Text huntingZoneId="207" id="3" prevId="2" villagerId="1100">
-         
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1100">
         <Page social="5">Great, you've got the cores. What'll they ask for next? Only Shara knows.</Page>
-    
     </Text>
-    <Text huntingZoneId="207" id="4" villagerId="1100">
-         
+    <Text id="4" huntingZoneId="207" villagerId="1100">
         <Page social="0">Do you have the cores? These Mysterium folk are breathing down my neck.</Page>
-    
     </Text>
 </QuestDialog>

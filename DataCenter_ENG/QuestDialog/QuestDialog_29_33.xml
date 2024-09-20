@@ -1,19 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="29" id="33" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="229" id="100" prevId="0" villagerId="1021">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="29" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="229" prevId="0" villagerId="1021">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="229" id="2" prevId="0" villagerId="1021">
-         
+    <Text id="2" huntingZoneId="229" prevId="0" villagerId="1021">
         <Page social="5">I...I didn't even hear it approach. I just turned around and there it was—the biggest, ugliest vulcan I've ever seen glaring down at me.&lt;BR&gt;&lt;BR&gt;I'm not proud of what I did next, but what else could I do? I ran and I ran fast. Blast and damnation! How did it sneak up us?&lt;BR&gt;&lt;BR&gt;That thing killed my comrades, my friends! It would have made mincemeat out me as well. But you...you can defeat the {@LinkCreature:29#8002#vulcan devastator} and its {@LinkCreature:29#4041#dreadnaughts}, right? Don't do it for me. I'm a worthless slug. Do it for my friends. They deserved better.</Page>
-    
     </Text>
-    <Text huntingZoneId="229" id="3" prevId="2" villagerId="1021">
-         
+    <Text id="3" huntingZoneId="229" prevId="2" villagerId="1021">
         <Page social="5">There's a keg of something tasty waiting for you if I ever get home to Castanica, &lt;PCNAME&gt;. I'll have it sent to wherever you're deployed.&lt;BR&gt;&lt;BR&gt;Well fought and well done!</Page>
-    
     </Text>
 </QuestDialog>

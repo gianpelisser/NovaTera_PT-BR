@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="39" id="27" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="39" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="239" id="100" prevId="0" villagerId="1024">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="239" id="2" prevId="0" villagerId="1024">
          
+         
         <Page social="4">São os {@LinkCreature:39#110#guardian ovoliths} que realmente me fazem estremecer. Você consegue ouvi-los? Sim, consigo. Mesmo quando estou dormindo.&lt;BR&gt;&lt;BR&gt;Não posso sair por aí e matá-los, mas recompensaria quem o fizesse.&lt;BR&gt;&lt;BR&gt;Traga-me seus corações para que eu saiba que estão mortos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="239" id="3" prevId="2" villagerId="1024">
          
+         
         <Page social="4">Cada coração significa um deles a menos.&lt;BR&gt;&lt;BR&gt;Talvez eu possa sonhar com outra coisa agora. Aceite isso como agradecimento.</Page>
+    
     
     </Text>
     <Text huntingZoneId="239" id="4" villagerId="1024">
          
+         
         <Page social="0">Você já matou os {@LinkCreature:39#110#guardian ovoliths}? Ainda há algum vivo?</Page>
+    
     
     </Text>
 </QuestDialog>

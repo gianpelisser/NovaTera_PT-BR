@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="213" id="1103" voiceTypeId="8">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1103" huntingZoneId="213" voiceTypeId="8">
     <Text huntingZoneId="213" id="1" endSocial="14" prevId="0" villagerId="1103">
          
+         
         <Page social="4">Posso lhe dar um resumo básico da expedição, mas você realmente deveria verificar seus pedidos com Lam.&lt;BR&gt;&lt;BR&gt;A expedição está estudando as propriedades únicas da ilha, enquanto o que resta de nossa guarnição afasta os demônios ao sul.&lt;BR&gt;&lt;BR&gt;Fique de olhos e ouvidos atentos e lembre-se de quanto já custou trazê-lo até aqui.</Page>
+    
     
     </Text>
 </VillagerDialog>

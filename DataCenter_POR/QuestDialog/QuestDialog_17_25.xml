@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="17" id="25" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="17" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="217" id="100" prevId="0" villagerId="1021">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="217" id="2" prevId="0" villagerId="1021">
          
+         
         <Page social="5">Os cultistas negligenciam a terra e assassinam nossos administradores. Está vendo o sudoeste ali? Todos os dias vejo aqueles javalis gordos arrancarem as raízes das plantas e sujarem o solo. As terras agrícolas se transformam em poços de poeira! Os porcos deveriam estar na floresta, que é o lugar deles. Isso nunca teria acontecido antes.&lt;BR&gt;&lt;BR&gt;Não posso correr com eles porque não é o trabalho do exército! Em vez disso, eu tenho que matar meus vizinhos! A natureza está de cabeça para baixo.&lt;BR&gt;&lt;BR&gt;Guardei algum dinheiro da minha última colheita antes... disso. Mate aqueles {@LinkCreature:17#300050#wary gutspiller warthogs} e {@LinkCreature:17#104#forked tusk warthogs} e ele será seu.</Page>
+    
     
     </Text>
     <Text huntingZoneId="217" id="3" prevId="2" villagerId="1021">
          
+         
         <Page social="5">A natureza sorri, amigo. Esse foi um bom trabalho. Gostaria de ainda ser um fazendeiro, um caçador. O dinheiro valia a pena, só para vê-los correr!</Page>
+    
     
     </Text>
 </QuestDialog>

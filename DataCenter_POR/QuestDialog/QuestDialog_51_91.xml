@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="51" id="91" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="51" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="79" id="100" prevId="0" villagerId="1027">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="79" id="2" prevId="0" villagerId="1027">
          
+         
         <Page social="5">Thulsa manipulou os wendigos e os colocou contra nós. Não temos escolha a não ser matá-los para garantir nosso domínio sobre o Vale das Torres.&lt;BR&gt;&lt;BR&gt;Mata os wendigos dominados {@LinkCreature:51#1011#ragers}, {@LinkCreature:51#1021#warlords} e {@LinkCreature:51#1031#shamans}.&lt;BR&gt;&lt;BR&gt;Relate a Thenuvia na Base de Gelo Defiance quando a missão estiver concluída.</Page>
+    
     
     </Text>
     <Text huntingZoneId="251" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="5">Você recebeu os agradecimentos da federação!</Page>
+    
     
     </Text>
     <Text huntingZoneId="251" id="4" villagerId="1001">
          
+         
         <Page social="0">Parece que você ainda não completou sua missão.</Page>
+    
     
     </Text>
 </QuestDialog>

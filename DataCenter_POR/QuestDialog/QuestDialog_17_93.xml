@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="17" id="93" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="17" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="67" id="100" prevId="0" villagerId="1015">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="67" id="2" prevId="0" villagerId="1015">
          
+         
         <Page social="5">Nós recuperaremos os nossos de Heavens Fall. Cace-os nas áreas ao redor do Posto Avançado Sombrio e recupere os suprimentos.&lt;BR&gt;&lt;BR&gt;Tire os {@LinkCreature:17#300551#colhedores de cabeça de barril}.</Page>
+    
     
     </Text>
     <Text huntingZoneId="217" id="3" prevId="2" villagerId="1009">
          
+         
         <Page social="5">Obrigado por trazer esses suprimentos de volta, &lt;PCNAME&gt;. Você foi de grande ajuda.</Page>
+    
     
     </Text>
     <Text huntingZoneId="217" id="4" villagerId="1009">
          
+         
         <Page social="0">Você deve recuperar os suprimentos, não importa o que aconteça. Boa sorte.</Page>
+    
     
     </Text>
 </QuestDialog>

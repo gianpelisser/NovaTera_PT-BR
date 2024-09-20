@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="35" id="27" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="35" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="235" id="100" prevId="0" villagerId="1005">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="235" id="2" prevId="0" villagerId="1005">
          
+         
         <Page social="12">Este lugar está repleto de túmulos - covas com lápides improvisadas. Os mortos merecem algo melhor.&lt;BR&gt;&lt;BR&gt;A culpa é dos andarilhos vulcanos. Eles são animais sedentos de sangue. Agora eu também tenho sede de sangue! &lt;BR&gt;&lt;BR&gt;Aliás, meu dever está aqui. Traga-me os chifres dos vulcanos e poderemos colocar essas almas para descansar... juntos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="235" id="3" prevId="2" villagerId="1005">
          
+         
         <Page social="7">Nossos companheiros podem finalmente descansar em paz. Vocês tiraram um peso pesado do meu coração. Não tenho palavras para lhe agradecer.</Page>
+    
     
     </Text>
     <Text huntingZoneId="235" id="4" villagerId="1005">
          
+         
         <Page social="0">Matem os vulcanos! &lt;BR&gt;&lt;BR&gt;Se não for pelos mortos, façam-no pelos vivos, para que possam ver outro dia.</Page>
+    
     
     </Text>
 </QuestDialog>

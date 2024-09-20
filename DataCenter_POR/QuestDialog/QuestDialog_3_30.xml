@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="3" id="30" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="3" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="59" id="100" prevId="0" villagerId="1012">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="59" id="2" prevId="0" villagerId="1012">
          
+         
         <Page social="4">A Floresta do Esquecimento nunca foi tão perigosa antes. Oh, claro, anos atrás, talvez, mas não na memória recente.&lt;BR&gt;&lt;BR&gt;Não são apenas os devas, os espíritos da terra estão agressivos e os mortos andam mais uma vez. Deve estar tudo ligado, só não posso provar ainda.&lt;BR&gt;&lt;BR&gt;Você poderia passar pelo Cemitério de Berzerad e me trazer esporos de {@LinkCreature:3#2#Agitated Sporewalkers}? Isso me daria um lugar para começar minha pesquisa.</Page>
+    
     
     </Text>
     <Text huntingZoneId="59" id="3" prevId="2" villagerId="1012">
          
+         
         <Page social="4">Excelente trabalho. Isso não deve ter sido fácil. Deixe-me aplicar essa solução reagente e... nossa! &lt;NEXTPAGEBUTTON&gt;"O que é isso?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Esses esporos não são naturais ou elementais, eles são fundidos com a energia da alma - almas de nossos mortos.&lt;BR&gt;&lt;BR&gt;Essa não é uma ocorrência natural, mas explica por que eles são tão violentos! Talvez haja uma maneira de reverter isso, mas, por enquanto, você simplesmente terá de matá-los.</Page>
+    
     
     </Text>
     <Text huntingZoneId="59" id="4" villagerId="1012">
          
+         
         <Page social="0">Se você procurar no &lt;font color='#660000'&gt;Cemitério de Berzerad&lt;/font&gt;, encontrará muitos sporewalkers. Basta me trazer os esporos deles.</Page>
+    
     
     </Text>
 </QuestDialog>

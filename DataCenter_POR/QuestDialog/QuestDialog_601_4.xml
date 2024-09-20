@@ -1,74 +1,102 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="601" id="4" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="601" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="77" id="100" prevId="0" villagerId="3001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="77" id="2" prevId="0" villagerId="3001">
          
+         
         <Page social="4">Um de nossos objetivos de pesquisa é determinar a finalidade dos enormes cogumelos metálicos espalhados pela Floresta Tirkai.&lt;BR&gt;&lt;BR&gt;Determinamos nossos melhores pesquisadores de campo para a tarefa. Gostaria de receber informações atualizadas sobre o progresso deles. Preciso que você enfrente a estrada e colete os relatórios deles para mim.</Page>
+    
     
     </Text>
     <Text huntingZoneId="247" id="3" prevId="2" villagerId="3509">
          
+         
         <Page social="4">Ah, desculpe-me, &lt;PCNAME&gt;. Um colega pegou minhas anotações emprestadas.  Deve estar próximo, no entanto.&lt;BR&gt;&lt;BR&gt;Deixe-me marcar isso em seu mapa....</Page>
+    
     
     </Text>
     <Text huntingZoneId="247" id="4" prevId="2" villagerId="3509">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="247" id="5" prevId="2" villagerId="3509">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="247" id="6" prevId="2" villagerId="3506">
          
+         
         <Page social="4">Sim, esse Relatório foi indispensável para nossas investigações.&lt;BR&gt;&lt;BR&gt;Terminamos com ele, mas escrevemos um adendo que esclarece as questões. Se eu puder me lembrar de quem o tem....</Page>
+    
     
     </Text>
     <Text huntingZoneId="247" id="7" prevId="6" villagerId="3503">
          
+         
         <Page social="4">Sim, de fato. O Relatório de Ecologia de Tirkai foi muito útil para nossas investigações.&lt;BR&gt;&lt;BR&gt;Não precisamos mais dele, mas escrevemos um adendo. Seria prudente incluí-lo. Ele está nesta estação, aqui.</Page>
+    
     
     </Text>
     <Text huntingZoneId="247" id="8" prevId="7" villagerId="3510">
          
+         
         <Page social="4">É verdade, é verdade, meu adendo é bastante esclarecedor, mas não o possuo mais.&lt;BR&gt;&lt;BR&gt;Uma de nossas equipes de campo o levou. Deixe-me marcar seu mapa.</Page>
+    
     
     </Text>
     <Text huntingZoneId="247" id="9" prevId="7" villagerId="3510">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="247" id="10" prevId="7" villagerId="3510">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="247" id="11" prevId="7" villagerId="3505">
          
+         
         <Page social="4">O adendo sobre contaminação? Absolutamente.&lt;BR&gt;&lt;BR&gt;Fizemos uma cópia para nosso uso. O diretor pode ficar com o original.&lt;BR&gt;&lt;BR&gt;Tome-o com nossos agradecimentos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="247" id="12" prevId="11" villagerId="3504">
          
+         
         <Page social="4">O adendo sobre contaminação? Absolutamente.&lt;BR&gt;&lt;BR&gt;Fizemos uma cópia para nosso uso. O diretor pode ficar com o original.&lt;BR&gt;&lt;BR&gt;Tome-o com nossos agradecimentos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="77" id="13" prevId="12" villagerId="3001">
          
+         
         <Page social="4">Excelente trabalho, &lt;PCNAME&gt;. Espero que a viagem não tenha sido muito perigosa...&lt;BR&gt;&lt;BR&gt;Assim que entendermos por que os argons mudaram de Val Tirkai, poderemos identificar uma necessidade a ser explorada ou uma vulnerabilidade a ser atingida.&lt;BR&gt;&lt;BR&gt;O Invalesco agradece.</Page>
+    
     
     </Text>
     <Text huntingZoneId="77" id="14" villagerId="3001">
          
+         
         <Page social="0">Preciso dessa pesquisa, &lt;PCNAME&gt;. Vidas dependem dela.</Page>
+    
     
     </Text>
 </QuestDialog>

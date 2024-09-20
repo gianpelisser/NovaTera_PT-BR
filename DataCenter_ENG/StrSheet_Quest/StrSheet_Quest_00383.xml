@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="1292001" string="North Mistmoor" />
-    <String id="1292002" string="Proof of Kills: Northern Sector" />
-    <String id="1292003" string="&quot;For the federation!&quot;" />
-    <String id="1292004" string="Eliminate the slavers and pirates in the northern region of Mistmoor Island." />
-    <String id="1292005" string="Report to Munam at the Vindicator Basecamp." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="1282001" string="Suppression Orders: Abraxis" />
+    <String id="1282002" string="Proof of Kill: Abraxis" />
+    <String id="1282003" string="&quot;For the federation!&quot;" />
+    <String id="1282004" string="Defeat Abraxis on Mistmoor Island." />
+    <String id="1282005" string="Report to the reward coordinator." />
 </StrSheet_Quest>

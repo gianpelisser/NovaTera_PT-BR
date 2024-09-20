@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="6395001" string="Snow Fighting" />
-    <String id="6395002" string="Win in the Wintera Snowfield." />
-    <String id="6395003" string="How did you like that? Just like being a kid again, eh?" />
-    <String id="6395004" string="&quot;That was fun!&quot;" />
-    <String id="6395005" string="Find {@linkcreature:63#9004} in Velika." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="6389001" string="Embrace Infamy" />
+    <String id="6389002" string="&quot;Very well.&quot;" />
+    <String id="6389003" string="Meet with {@LinkCreature:63#1260} near the {@Rgn:63002}." />
+    <String id="6389004" string="&quot;I'll bear that in mind.&quot;" />
+    <String id="6389005" string="Speak with {@LinkCreature:63#1260} again." />
 </StrSheet_Quest>

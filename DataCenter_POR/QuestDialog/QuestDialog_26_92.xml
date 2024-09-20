@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="26" id="92" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="26" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="69" id="100" prevId="0" villagerId="1016">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="69" id="2" prevId="0" villagerId="1016">
          
+         
         <Page social="5">A interferência dessas criaturas locais está afetando nossos esforços de pesquisa. Como vou conseguir fazer alguma coisa enquanto {@LinkCreature:26#2004#mossy teraliths} e {@LinkCreature:26#4000#patient lithikumases} rondam por aí?&lt;BR&gt;&lt;BR&gt;A federação o recompensará se você nos mantiver seguros e matar alguns. Apresente-se a Naerie quando tiver feito isso.</Page>
+    
     
     </Text>
     <Text huntingZoneId="226" id="3" prevId="2" villagerId="1004">
          
+         
         <Page social="5">Nossos agradecimentos, meu amigo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="226" id="4" villagerId="1004">
          
+         
         <Page social="0">Não pode haver indenização sem prova de ação. Você tem provas de que essas criaturas foram mortas?</Page>
+    
     
     </Text>
 </QuestDialog>

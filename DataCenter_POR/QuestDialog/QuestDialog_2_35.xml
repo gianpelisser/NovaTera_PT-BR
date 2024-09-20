@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="2" id="35" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="2" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="202" id="100" prevId="0" villagerId="1019">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="202" id="2" prevId="0" villagerId="1019">
          
+         
         <Page social="4">Ei, &lt;PCCLASS:lcase&gt;... tem jeito para os negócios? &lt;BR&gt;&lt;BR&gt;Bem, não se preocupe - tenho "jeito" suficiente para nós dois. Já posso dizer que esta será uma parceria lucrativa, estou certo? &lt;BR&gt;&lt;BR&gt;Hemming, em Faevine Vale, quer alguns &lt;font color='#660000'&gt;cogumelos das nuvens&lt;/font&gt;. Sou micologista, então geralmente é o que eu quero. Mas os redcaps tomaram conta do vale e não consigo chegar perto do lugar! &lt;NEXTPAGEBUTTON&gt;"Redcaps, shmedcaps."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Esse é o espírito! Pegue os cogumelos e leve-os para Hemming com meus cumprimentos&lt;BR&gt;&lt;BR&gt;Mantenha o pagamento. Cultivei Hemming como um cliente de longo prazo, então você tem direito a um pouco de "pagamento de risco".</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="3" prevId="2" villagerId="1007">
          
+         
         <Page social="4">Cogumelos vermelhos no vale? O problema das fadas é pior do que eu pensava! &lt;BR&gt;&lt;BR&gt;Aquela Hailas conhece muito bem os cogumelos. Esses são ótimos! &lt;BR&gt;&lt;BR&gt;Aqui está a quantidade habitual. Graças a você... e a Hailas!</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="4" villagerId="1007">
          
+         
         <Page social="0">Os &lt;font color='#660000'&gt;cogumelos da nuvem&lt;/font&gt; de Faevine Vale são uma iguaria. Não posso viver sem eles!</Page>
+    
     
     </Text>
 </QuestDialog>

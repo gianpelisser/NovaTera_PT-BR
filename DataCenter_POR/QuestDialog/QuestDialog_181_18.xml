@@ -1,34 +1,46 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="181" id="18" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="18" huntingZoneId="181" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0">&lt;PCNAME&gt; destruiu o Regulador da Barreira de Tempestades e retornou à Highwatch com Paesyn, Rhodos e Halran pouco antes de o laboratório entrar em colapso.&lt;BR&gt;Hagand especulou que todas as condições para reativar o teletransporte haviam sido atendidas e convidou &lt;PCNAME&gt; para fazer as honras. Com uma nova pedra de relatividade no lugar, o mecanismo funcionou, projetando um forte raio de luz para o céu. O teletransporte apareceu e, momentos depois, os reforços da federação chegaram de Velika.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="183" id="3" prevId="2" villagerId="1021">
          
+         
         <Page social="4">A capitã Zolyn desapareceu? &lt;BR&gt;&lt;BR&gt;Não se preocupe: nós a encontraremos e a traremos de volta em segurança.&lt;BR&gt;&lt;BR&gt;Mas precisamos fazer o teleportal funcionar. As coisas estão indo de mal a pior no campo de batalha e precisamos de reforços.&lt;BR&gt;&lt;BR&gt;Hagand explicará o que precisa ser feito.&lt;NEXTPAGEBUTTON&gt;"Ok, vou falar com ele."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="183" id="4" prevId="3" villagerId="1004">
          
+         
         <Page social="4">Bem-vindo de volta, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Fui informado de sua perda, e você tem minha promessa de que a Highwatch fará tudo o que puder para ajudá-lo a encontrar o Capitão Zolyn.&lt;BR&gt;&lt;BR&gt;A preocupação imediata, porém, é o teleportal. Acredito que todas as condições são adequadas para reativá-lo - e eu queria que você tivesse a honra de fazê-lo.&lt;BR&gt;&lt;BR&gt;Meu amigo, por favor, coloque uma Pedra da Relatividade no repositório e reabra o teleportal da Highwatch!&lt;NEXTPAGEBUTTON&gt;"Será uma honra. Obrigado."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="183" id="5" prevId="4" villagerId="2114">
          
+         
         <Page social="4">Quem abriu esse portal de teletransporte? &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;Eu sabia desde o momento em que o vi que você estava destinado a grandes coisas - mas você continua a exceder minhas expectativas! &lt;BR&gt;&lt;BR&gt;Tenho que voltar para Velika, mas não pude resistir a ver a terra natal dos baraka por mim mesmo.&lt;BR&gt;&lt;BR&gt;Por favor, ajude Dougal a proteger a área. Com vocês dois aqui, tenho plena confiança de que esta guerra está praticamente ganha!&lt;NEXTPAGEBUTTON&gt;"Sim, senhor. Obrigado, senhor."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="183" id="6" prevId="5" villagerId="1020">
          
+         
         <Page social="4">&lt;PCNAME&gt;! Uma palavra, se me permite?&lt;BR&gt;&lt;BR&gt;Primeiro, quero lhe agradecer por seus esforços. Graças a você, a Highwatch tem uma chance novamente.&lt;BR&gt;&lt;BR&gt;Mas estamos apenas começando essa nova fase da guerra... e você está fadado a desempenhar um papel ainda mais importante. A própria Mystel ordenou isso.&lt;NEXTPAGEBUTTON&gt;"Ainda há muito a fazer, sim."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
 </QuestDialog>

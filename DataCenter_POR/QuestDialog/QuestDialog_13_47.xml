@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="47" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="47" huntingZoneId="13" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="213" id="100" prevId="0" villagerId="1128">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="213" id="2" prevId="0" villagerId="1128">
          
+         
         <Page social="4">Esses {@LinkCreature:13#300541#rockcrawlers} estão comendo as relíquias por aqui.&lt;BR&gt;&lt;BR&gt;Cada vez que um deles pulveriza um afloramento, Eria solta um grito agudo. Para o bem de todos os nossos ouvidos, você pode sair e recuperar alguns fragmentos de relíquias deles antes que seja tarde demais?</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="3" prevId="2" villagerId="1128">
          
+         
         <Page social="4">Isso deve ser suficiente por enquanto. Eu vi a Eria olhando para você em volta de um pilar enquanto você lutava... Acho que ela é fã do seu trabalho.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="4" villagerId="1128">
          
+         
         <Page social="0">Vou precisar de mais do que apenas promessas para pacificar essa mulher. Acho que Leander está com aquelas orelhas compridas completamente cheias de tecido para bloquear os gritos de Eria.&lt;BR&gt;&lt;BR&gt;Por favor, &lt;PCNAME&gt;, eu lhe imploro. Ajude um pobre soldado e me traga algo que eu possa usar.</Page>
+    
     
     </Text>
 </QuestDialog>

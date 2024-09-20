@@ -1,19 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="123" id="9" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="123" id="100" prevId="0" villagerId="9001">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="123" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="123" prevId="0" villagerId="9001">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="123" id="2" prevId="0" villagerId="9001">
-         
+    <Text id="2" huntingZoneId="123" prevId="0" villagerId="9001">
         <Page social="1">This task is simple, but not easy.&lt;BR&gt;&lt;BR&gt;Take a team and penetrate deep into the Enlightened Union territory. Past the Tor Encroachment, you'll find a hazard zone full of giant beasts. The bookish union can't deal with them. If you kill one of each, they'll understand how much stronger we are.</Page>
-    
     </Text>
-    <Text huntingZoneId="123" id="3" prevId="2" villagerId="9001">
-         
+    <Text id="3" huntingZoneId="123" prevId="2" villagerId="9001">
         <Page social="0">Successful? Of course you were.&lt;BR&gt;&lt;BR&gt;Good to see the Iron Order full of &lt;PCClass:lcase&gt;s like you.&lt;BR&gt;&lt;BR&gt;Now about that reward.</Page>
-    
     </Text>
 </QuestDialog>

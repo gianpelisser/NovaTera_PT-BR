@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="123" id="6" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="123" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="123" id="100" prevId="0" villagerId="220020">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="123" id="2" prevId="0" villagerId="220020">
          
+         
         <Page social="0">Descobrimos um item único na área: o noctênio cristalino. Isso pode ser exatamente o que eu preciso para romper e desbloquear o poder do noctênio.&lt;BR&gt;&lt;BR&gt;Você terá que quebrar fragmentos do {@linkcreature:123#501#crystalline noctenium} - e por quebrar, quero dizer golpeá-lo com todo o poder que a arma do seu &lt;PCCLass:lcase&gt; puder reunir.</Page>
+    
     
     </Text>
     <Text huntingZoneId="123" id="3" prevId="2" villagerId="220020">
          
+         
         <Page social="4">Excelente. Espero que a tarefa não tenha sido muito difícil.</Page>
+    
     
     </Text>
     <Text huntingZoneId="123" id="4" villagerId="220020">
          
+         
         <Page social="0">Minha pesquisa é fundamental para o sucesso contínuo da Iron Order.</Page>
+    
     
     </Text>
 </QuestDialog>
