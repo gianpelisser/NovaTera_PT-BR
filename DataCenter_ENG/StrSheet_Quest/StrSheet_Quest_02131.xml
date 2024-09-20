@@ -1,17 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="60415001" string="The Pause that Refreshes" />
-    <String id="60415002" string="Now I'll have time to compound those potions!" />
-    <String id="60415003" string="Now, what was I doing again?" />
-    <String id="60415004" string="&quot;Okay. Must be good tea.&quot;" />
-    <String id="60415005" string="Find {@LinkCreature:230#3002#Ersilla}." />
-    <String id="60415006" string="Collect flower seeds." />
-    <String id="60415007" string="Find {@LinkCreature:230#3013#bellflowers} in the {@Rgn:30009$$Fallen Shrine Site} and collect their seeds." />
-    <String id="60415008" string="Collect flower seeds." />
-    <String id="60415009" string="Find {@LinkCreature:230#3014#silver bellflowers} and collect their seeds." />
-    <String id="60415010" string="Collect flower seeds." />
-    <String id="60415011" string="Find {@LinkCreature:230#3015#primroses} and collect their seeds." />
-    <String id="60415012" string="&quot;I doubt it.&quot;" />
-    <String id="60415013" string="Deliver the flower seeds to {@LinkCreature:230#3002#Ersilla}." />
-    <String id="60415014" string="Deliver the flower seeds to {@LinkCreature:230#3002#Ersilla}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="60413001" string="The Seed Vault" />
+    <String id="60413002" string="Good to see you again!" />
+    <String id="60413003" string="We work well together!" />
+    <String id="60413004" string="" />
+    <String id="60413005" string="" />
+    <String id="60413006" string="" />
+    <String id="60413007" string="Meet {@LinkCreature:230#3026#Lilis} by the {@Rgn:9017001$$Sun Lighthouse}." />
+    <String id="60413008" string="&quot;Count on me!&quot;" />
+    <String id="60413009" string="Seed Pods" />
+    <String id="60413010" string="Destroy oak barrels to find ancient seed pods." />
+    <String id="60413011" string="Deliver the pods to {@LinkCreature:230#3026#Lilis}." />
+    <String id="60413012" string="&quot;Tell me if they do!&quot;" />
+    <String id="60413013" string="Seed Pods" />
+    <String id="60413014" string="Destroy oak barrels to find ancient seed pods." />
+    <String id="60413015" string="Deliver the pods to {@LinkCreature:230#3026#Lilis}." />
+    <String id="60413016" string="&quot;Useful!&quot;" />
+    <String id="60413017" string="Seed Pods" />
+    <String id="60413018" string="Destroy oak barrels to find ancient seed pods." />
+    <String id="60413019" string="Deliver the pods to {@LinkCreature:230#3026#Lilis}." />
+    <String id="60413020" string="&quot;I hope so.&quot;" />
 </StrSheet_Quest>

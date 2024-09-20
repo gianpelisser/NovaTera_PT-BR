@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="38" id="22" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="238" id="100" prevId="0" villagerId="1013">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1013">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="238" id="2" prevId="0" villagerId="1013">
-         
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1013">
         <Page social="5">The living machines near the ruins to the east are remnants of the giants' lost empire. Poihon, our engineer, longed to study them, but his duties have taken him to Wyvern Watch.&lt;BR&gt;&lt;BR&gt;If you'd...dismantle a few, I could save any working parts for him to analyze. It would thrill his furry little heart to have them.</Page>
-    
     </Text>
-    <Text huntingZoneId="238" id="3" prevId="2" villagerId="1013">
-         
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1013">
         <Page social="6">Thank you, &lt;PCNAME&gt;. These will add much to our knowledge.</Page>
-    
     </Text>
-    <Text huntingZoneId="238" id="4" villagerId="1013">
-         
+    <Text id="4" huntingZoneId="238" villagerId="1013">
         <Page social="0">It would help to have more fragments, if you can get them.</Page>
-    
     </Text>
 </QuestDialog>

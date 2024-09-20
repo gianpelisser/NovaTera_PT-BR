@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="12" id="26" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="12" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="62" id="100" prevId="0" villagerId="1023">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="62" id="2" prevId="0" villagerId="1023">
          
+         
         <Page social="9">Você faz parte do regimento local - a Espada de Kaia? Pode me ajudar? &lt;BR&gt;&lt;BR&gt;Meus filhos saíram de casa há alguns dias e estou começando a ficar preocupado. Pode dar uma olhada neles para mim?</Page>
+    
     
     </Text>
     <Text huntingZoneId="62" id="3" prevId="2" villagerId="1007">
          
+         
         <Page social="4">Você está procurando os filhos de Wynne? Zebedeu e Zebulon? &lt;BR&gt;&lt;BR&gt;Desculpe, não quis lhe dar esperanças. Não os vi nem de perto nem de longe. Eu tento ficar de olho em tudo por aqui, mas não sou nenhum Balder. Não consigo ver tudo.&lt;BR&gt;&lt;BR&gt;Verifique com {@LinkCreature:212#1001#Munam}. Não se deixe enganar por seu jeito rude. Ele é o maior fofoqueiro que já conheci.</Page>
+    
     
     </Text>
     <Text huntingZoneId="212" id="4" prevId="3" villagerId="1001">
          
+         
         <Page social="4">Você disse que está aqui a pedido do Wynne? Como assim, as crianças desapareceram? Há tantas coisas acontecendo que ainda não recebi um relatório sobre isso. Havia uma criança perambulando por aqui há alguns dias. Por que você não pergunta aos guardas enquanto dá uma olhada no acampamento? Desculpe-me por não ser de grande ajuda. De qualquer forma, é ótimo tê-lo de volta inteiro.</Page>
+    
     
     </Text>
 </QuestDialog>

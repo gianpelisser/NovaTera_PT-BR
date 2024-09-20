@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="528" id="5008" voiceTypeId="112">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5008" huntingZoneId="528" voiceTypeId="112">
     <Text id="1" endSocial="14">
          
+         
         <Page social="4">Are you through with all your business here? &lt;BR&gt;&lt;BR&gt;Shall I take you to the &lt;font color='#0000FF'&gt;Entrance to Kaiator's Headquarters&lt;/font&gt;?</Page>
+    
     
     </Text>
 </VillagerDialog>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="39" id="33" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="39" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="239" id="100" prevId="0" villagerId="1015">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="239" id="2" prevId="0" villagerId="1015">
          
+         
         <Page social="4">Você sabia que não há antídoto conhecido para a mordida do {@LinkCreature:39#160#dreadfang arachnen}? Acabei de receber ordens para obter amostras de veneno - a federação quer colocar alguns pesquisadores na tarefa.&lt;BR&gt;&lt;BR&gt;Eu quero você nesse trabalho, portanto, se estiver disposto, traga-me algumas presas. Deve haver muito veneno aí dentro.</Page>
+    
     
     </Text>
     <Text huntingZoneId="239" id="3" prevId="2" villagerId="1015">
          
+         
         <Page social="4">Muito bem. Vou enviá-los aos acadêmicos da federação imediatamente.&lt;BR&gt;&lt;BR&gt;Esta é uma vitória para todos nós.</Page>
+    
     
     </Text>
     <Text huntingZoneId="239" id="4" villagerId="1015">
          
+         
         <Page social="0">Toda vez que um desses {@LinkCreature:39#160#dreadfang arachnens} morde um dos nossos, eles morrem.&lt;BR&gt;&lt;BR&gt;Não há muito tempo a perder.</Page>
+    
     
     </Text>
 </QuestDialog>

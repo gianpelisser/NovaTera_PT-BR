@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4983001" string="Suppression Orders: Volsurus" />
-    <String id="4983002" string="Proof of Kill: Volsurus" />
-    <String id="4983003" string="&quot;Thank you!&quot;" />
-    <String id="4983004" string="Kill {@LinkCreature:49#3$$Volsurus}." />
-    <String id="4983005" string="Report to Ayva in Kanstria." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4972001" string="(Guild) Suppression Orders: Argon War Machines" />
+    <String id="4972002" string="Proof of Kill: Argon War Machines" />
+    <String id="4972003" string="&quot;Victory for Valkyon!&quot;" />
+    <String id="4972004" string="Kill the massive argons around {@Rgn:49001}." />
+    <String id="4972005" string="Report to Ayva in Kanstria." />
 </StrSheet_Quest>

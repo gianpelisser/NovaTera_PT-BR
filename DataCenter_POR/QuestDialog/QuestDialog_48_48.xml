@@ -1,23 +1,31 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="48" id="48" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="48" huntingZoneId="48" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="48" id="100" prevId="0" villagerId="1012">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="48" id="2" prevId="0" villagerId="1012">
          
+         
         <Page social="4">&lt;PCNAME&gt;! Preciso de sua ajuda novamente.&lt;NEXTPAGEBUTTON&gt;"O que você encontrou?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">O navashad que continua a destruir nossas forças não é senciente ou mágico. Os argons usam a tecnologia deles para controlar seus tentáculos.&lt;BR&gt;&lt;BR&gt;Se você matar esses controladores, a máquina de guerra dos argons ficará indefesa. Eu vi Nauti, um dos zariiks, usando o navashad.&lt;NEXTPAGEBUTTON&gt;"Eu cuido disso."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="3" prevId="2" villagerId="1012">
          
+         
         <Page social="6">Você conseguiu! A navashad parou! Sem aqueles colossais braços de metal causando estragos em nossas forças, temos uma chance aqui.&lt;NEXTPAGEBUTTON&gt;"Precisamos pará-lo permanentemente."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">É verdade. Não sei o que dá poder à navashad, mas farei com que encontrar a fonte seja a prioridade máxima de nossas vanguardas.&lt;BR&gt;&lt;BR&gt;Grande trabalho, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
 </QuestDialog>

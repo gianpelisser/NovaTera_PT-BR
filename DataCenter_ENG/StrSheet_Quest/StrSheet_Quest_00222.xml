@@ -1,35 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="804001" string="Fraya's Faith" />
-    <String id="804002" string="&quot;Got it.&quot;" />
-    <String id="804003" string="Speak with Elleon about a solution to the problem." />
-    <String id="804004" string="&quot;Understood.&quot;" />
-    <String id="804005" string="Relate Elleon's message to Fraya in Castanica." />
-    <String id="804006" string="&quot;Consider it done.&quot;" />
-    <String id="804007" string="Bring Fraya's request to Sophilia." />
-    <String id="804008" string="&quot;I understand.&quot;" />
-    <String id="804009" string="Deliver Sophilia's orders to Officer Karina at Avenger Outpost." />
-    <String id="804010" string="&quot;I'm on my way.&quot;" />
-    <String id="804011" string="Go to Elleon near Avenger Outpost in the northwestern corner of the Hungry Caverns." />
-    <String id="804012" string="&quot;I'm on my way.&quot;" />
-    <String id="804013" string="Enter the Golden Labyrinth through the area near the closed door and speak with Runshia." />
-    <String id="804014" string="&quot;On my way.&quot;" />
-    <String id="804015" string="Speak with Jelena who's been scouting the area." />
-    <String id="804016" string="Use the eastern obelisk to open the gate and eliminate Berylheart at the gate." />
-    <String id="804017" string="&quot;I'll do it.&quot;" />
-    <String id="804018" string="Return to Jelena near the gate to the Chamber of Trial." />
-    <String id="804019" string="Eliminate all the monsters past the Chamber of Trial and make your way through." />
-    <String id="804020" string="I'd be dead if it weren't for you" />
-    <String id="804021" string="Speak with Elleon and start protecting him." />
-    <String id="804022" string="&quot;Right away!&quot;" />
-    <String id="804023" string="Speak with Elleon again." />
-    <String id="804024" string="Protect the teleportal in the Chamber of the Wild and eliminate Valgmore and Varcerbus." />
-    <String id="804025" string="&quot;You can count on me!&quot;" />
-    <String id="804026" string="Report to Elleon at the Chamber of the Wild." />
-    <String id="804027" string="&quot;Got it.&quot;" />
-    <String id="804028" string="Speak with Elleon in Chamber of the Wild again." />
-    <String id="804029" string="&quot;Understood.&quot;" />
-    <String id="804030" string="Return to Castanica and speak with Elleon." />
-    <String id="804031" string="&quot;For the federation!&quot;" />
-    <String id="804032" string="Speak with Fraya in Castanica." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="803001" string="The Long Goodbye" />
+    <String id="803002" string="Read the rescue orders." />
+    <String id="803003" string="Hennika!" />
+    <String id="803004" string="Detrian" />
+    <String id="803005" string="Tell Karina that Detrian is missing." />
+    <String id="803006" string="Bring news about Hennika to Detrian at Avenger Outpost." />
+    <String id="803007" string="&quot;I'll find him.&quot;" />
+    <String id="803008" string="Check with Karina about Detrian's whereabouts." />
+    <String id="803009" string="&quot;I won't.&quot;" />
+    <String id="803010" string="Check with Loxetrius at Vanguard Post Alpha." />
+    <String id="803011" string="Eliminate the gula skinners and slavering auric imps in the Hungry Caverns Catacombs." />
+    <String id="803012" string="&quot;Return to the dream, my friend.&quot;" />
+    <String id="803013" string="Search the half-eaten corpse." />
+    <String id="803014" string="&quot;Back before you can blink.&quot;" />
+    <String id="803015" string="Report back to Loxetrius at Vanguard Post Alpha." />
+    <String id="803016" string="&quot;I'll check it out.&quot;" />
+    <String id="803017" string="Report to Rendia at Vanguard Post Beta." />
+    <String id="803018" string="Detrian" />
+    <String id="803019" string="There's someone in the cell on the right. It's Detrian!" />
+    <String id="803020" string="Find the first cell." />
+    <String id="803021" string="&quot;I'll save her, Detrian. I promise.&quot;" />
+    <String id="803022" string="Speak to Detrian." />
+    <String id="803023" string="Detrian" />
+    <String id="803024" string="Fight the aberrant gulons and rescue the abducted villagers from the second cell." />
+    <String id="803025" string="Move on to the second cell." />
+    <String id="803026" string="Eliminate the aberrant gulons in the Cavern of Tears." />
+    <String id="803027" string="&quot;No time to talk. Run!&quot;" />
+    <String id="803028" string="&quot;No time to talk. Run!&quot;" />
+    <String id="803029" string="&quot;No time to talk. Run!&quot;" />
+    <String id="803030" string="&quot;No time to talk. Run!&quot;" />
+    <String id="803031" string="&quot;No time to talk. Run!&quot;" />
+    <String id="803032" string="Free the abductees from their cell." />
+    <String id="803033" string="&quot;I'll find his sword.&quot;" />
+    <String id="803034" string="Speak with Hennika." />
+    <String id="803035" string="Eliminate vulgar inquisitors in the Hungry Caverns Depths, and retrieve Detrian's sword." />
+    <String id="803036" string="&quot;He'll be proud of you.&quot;" />
+    <String id="803037" string="Deliver Detrian's sword to Hennika at Avenger Outpost." />
+    <String id="803038" string="Deliver Detrian's sword to Hennika at Avenger Outpost." />
+    <String id="803039" string="&quot;She's had to grow up fast.&quot;" />
+    <String id="803040" string="Report to Karina." />
 </StrSheet_Quest>

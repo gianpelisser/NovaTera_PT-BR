@@ -1,38 +1,52 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="487" id="1" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="487" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="203" id="100" prevId="0" villagerId="1007">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="203" id="2" prevId="0" villagerId="1007">
          
+         
         <Page social="4">Nossos batedores deram suas vidas por essa informação.&lt;BR&gt;&lt;BR&gt;O relatório revelou a localização do &lt;FONT COLOR='#0080FF'&gt;&lt;A href="markmap:loc=7001#119975,25514,2814&amp;type=1&amp;name=Bastion Entrance"&gt;bastion entrance&lt;/A&gt;&lt;/FONT&gt; e nos deu o nome de seu comandante-{@LinkCreature:487#101}.&lt;BR&gt;&lt;BR&gt;Obtenha suas instruções finais de {@LinkCreature:203#1006} em {@Rgn:3005} e depois vá para lá.</Page>
+    
     
     </Text>
     <Text huntingZoneId="203" id="3" prevId="2" villagerId="1006">
          
+         
         <Page social="4">O Centurião {@LinkCreature:203#1007} o enviou? Bom.&lt;BR&gt;&lt;BR&gt;Um de nossos batedores, {@LinkCreature:203#1033}, está em posição fora do bastião. Ele indicará a entrada. Quando você estiver lá dentro, encontre {@LinkCreature:487#1111}.&lt;BR&gt;&lt;BR&gt;Vamos lutar contra os Scions!</Page>
+    
     
     </Text>
     <Text huntingZoneId="203" id="4" prevId="3" villagerId="1033">
          
+         
         <Page social="4">Pare aí mesmo! &lt;NEXTPAGEBUTTON&gt;"Estou do seu lado."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="9">Desculpe-me, &lt;PCCLASS:lcase&gt;. Estou sentindo muita dor, mas meus olhos ainda estão atentos.&lt;BR&gt;&lt;BR&gt;A entrada fica à direita daqui. Pegue o caminho à minha esquerda para a entrada da caverna. Eu vi os inimigos entrando e saindo, provavelmente por meio de um &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7001#119975,25514,2814&amp;type=1&amp;name=Teleportal"&gt;teleportal&lt;/A&gt;&lt;/font&gt;. Grapine está lá dentro disfarçado.&lt;BR&gt;&lt;BR&gt;Esses desgraçados mataram a maior parte da minha unidade - não seja gentil com eles!</Page>
+    
     
     </Text>
     <Text huntingZoneId="487" id="5" prevId="4" villagerId="1111">
          
+         
         <Page social="4">Os Scions estão acumulando armas e poder. Não conheço todo o plano, mas Murdranak acha que vai governar Arcádia em nome de outra pessoa.&lt;BR&gt;&lt;BR&gt;Como as coisas ficaram tão ruins?&lt;NEXTPAGEBUTTON&gt;"Por que eles acumulam esse poder?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Ouvi muitas histórias para poder afirmar com certeza, mas as mais confiáveis falam de um ritual - uma apoteose.&lt;BR&gt;&lt;BR&gt;Cuidado, &lt;PCNAME&gt;-{@LinkCreature:487#101#Murdranak} comanda um {@LinkCreature:487#3006#vulcano ensanguentado}.&lt;BR&gt;&lt;BR&gt;Você precisará matar o golem {@LinkCreature:487#1006#Soulcrusher} que está bloqueando o caminho primeiro.</Page>
+    
     
     </Text>
     <Text huntingZoneId="203" id="6" prevId="5" villagerId="1007">
          
+         
         <Page social="4">Suas mortes me trazem grande conforto.&lt;BR&gt;&lt;BR&gt;Dispensado!</Page>
+    
     
     </Text>
 </QuestDialog>

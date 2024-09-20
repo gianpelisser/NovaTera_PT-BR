@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="12" id="30" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="12" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="212" id="100" prevId="0" villagerId="1008">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="212" id="2" prevId="0" villagerId="1008">
          
+         
         <Page social="5">O Sindicato Kazuur - um grupo de gula, imagine canibais malucos - vendeu alguns escravos para Dirken.&lt;BR&gt;&lt;BR&gt;Agora, não seria interessante se se espalhasse a notícia de que negociar com Dirken poderia ser letal? Nada diminui os lucros como a sua própria morte, se é que você me entende.&lt;BR&gt;&lt;BR&gt;Vá para a parte norte da Costa Desolada e acabe com os {@LinkCreature:12#7#gula brawlers}. A notícia se espalhará.</Page>
+    
     
     </Text>
     <Text huntingZoneId="212" id="3" prevId="2" villagerId="1008">
          
+         
         <Page social="5">Somos o próximo time dos sonhos, &lt;PCNAME&gt;. Eu os monto, você os derruba.&lt;BR&gt;&lt;BR&gt;Hmmm. Só de dizer isso já fico com sede...</Page>
+    
     
     </Text>
 </QuestDialog>

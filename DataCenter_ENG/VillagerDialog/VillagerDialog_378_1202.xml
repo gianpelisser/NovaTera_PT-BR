@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="378" id="1202" voiceTypeId="20">
-    <Text huntingZoneId="378" id="1" endSocial="14" prevId="0" villagerId="1202">
-         
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1202" huntingZoneId="378" voiceTypeId="20" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="378" prevId="0" villagerId="1202" endSocial="14">
         <Page social="4">Sorry, he’s having a break as you can see. The exarch will soon let us know what to do. Come back then.</Page>
-    
     </Text>
 </VillagerDialog>

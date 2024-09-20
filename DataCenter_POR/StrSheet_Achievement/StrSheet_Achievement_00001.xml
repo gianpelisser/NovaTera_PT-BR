@@ -1,6 +1,17 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Achievement xmlns="https://vezel.dev/novadrop/dc/StrSheet_Achievement" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Achievement StrSheet_Achievement.xsd">
     <String id="999000" string="Total" />
+    <String id="999001" string="Achievement Status" />
+    <String id="999002" string="Nearing Completion" />
+    <String id="999003" string="Recent Achievements" />
+    <String id="999010" string="Achievement Grades" />
+    <String id="999011" string="Laurels" />
+    <String id="999020" string="Rewards" />
+    <String id="999021" string="Titles" />
+    <String id="999022" string="Other Rewards" />
+    <String id="999023" string="Mounts and Pets" />
+    <String id="999024" string="Items" />
+    <String id="999025" string="Gold" />
     <String id="999100" string="Normal" />
     <String id="999101" string="Nível" />
     <String id="999102" string="Diversos" />
@@ -35,7 +46,5 @@
     <String id="999606" string="Guildas e alianças" />
     <String id="999607" string="Festival" />
     <String id="999608" string="Conquistas do legado" />
-    <String id="999997" string="Efeitos da realização" />
-    <String id="999998" string="Conquistas recentes" />
     <String id="999999" string="Compare as conquistas com {UserName}" />
 </StrSheet_Achievement>

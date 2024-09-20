@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="487" id="92" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="203" id="100" prevId="0" villagerId="1032">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="487" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="203" prevId="0" villagerId="1032">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="203" id="2" prevId="0" villagerId="1032">
-         
+    <Text id="2" huntingZoneId="203" prevId="0" villagerId="1032">
         <Page social="5">Some of the Scion heavy hitters still lurk in the bastion. Until we've secured those tunnels, Oblivion Woods isn't safe.&lt;BR&gt;&lt;BR&gt;Take out {@LinkCreature:487#2002#bastion mystics}, {@LinkCreature:487#2003#sorcerers}, {@LinkCreature:487#2004#reapers}, {@LinkCreature:487#3001#lancers}, and {@LinkCreature:487#3002#slayers}.&lt;BR&gt;&lt;BR&gt;Report back to me when you've sent 'em all back to the Dream.</Page>
-    
     </Text>
-    <Text huntingZoneId="203" id="3" prevId="2" villagerId="1032">
-         
+    <Text id="3" huntingZoneId="203" prevId="2" villagerId="1032">
         <Page social="5">I'm glad we had a veteran like you around. I could've sent a squad of less-experienced soldiers to do that job—and probably lost most of them. Thanks.</Page>
-    
     </Text>
-    <Text huntingZoneId="203" id="4" villagerId="1032">
-         
+    <Text id="4" huntingZoneId="203" villagerId="1032">
         <Page social="0">Don't come back until you've got enough badges to make me proud.</Page>
-    
     </Text>
 </QuestDialog>

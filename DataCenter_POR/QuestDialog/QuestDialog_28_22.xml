@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="22" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="28" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="228" id="100" prevId="0" villagerId="1008">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="228" id="2" prevId="0" villagerId="1008">
          
+         
         <Page social="5">O mau cheiro de Blightwood é lendário. Nós o combatemos usando &lt;font color='#660000'&gt;roseira brava&lt;/font&gt;. O cheiro mascara o fedor e permite que você respire sem vomitar.&lt;BR&gt;&lt;BR&gt;Eu bem que poderia usar mais. Não é difícil de encontrar, mas tenho trabalho a fazer. Pagarei muito bem se você conseguir algumas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="228" id="3" prevId="2" villagerId="1008">
          
+         
         <Page social="5">Oh, oh! Muito bem. Isso vai durar por algum tempo. Terei até um bom lucro vendendo alguns para os outros.&lt;BR&gt;&lt;BR&gt;Por favor, aceite isso como um agradecimento. Você salvou meu nariz, e isso não é mentira.</Page>
+    
     
     </Text>
     <Text huntingZoneId="228" id="4" villagerId="1008">
          
+         
         <Page social="0">Você encontrou os botões de rosa perfumados? O mau cheiro está me deixando positivamente doente!</Page>
+    
     
     </Text>
 </QuestDialog>

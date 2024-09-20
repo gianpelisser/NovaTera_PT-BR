@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="37" id="27" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="37" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="237" id="100" prevId="0" villagerId="1016">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="237" id="2" prevId="0" villagerId="1016">
          
+         
         <Page social="9">O Posto de Pesquisa Runicar quer suprimentos, mas já faz uma eternidade que nós mesmos não somos reabastecidos.&lt;BR&gt;&lt;BR&gt;Os ceifadores eldritch, por outro lado, parecem ter um excelente equipamento. Killian deve ter melhores linhas de suprimento...&lt;BR&gt;&lt;BR&gt;Não há razão para não nos beneficiarmos da dedicação de Killian à logística, não é? Peguem os suprimentos dos ceifadores e levem-nos para Runicar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="237" id="3" prevId="2" villagerId="1010">
          
+         
         <Page social="14">Agora nosso acampamento pode fazer seu trabalho. Já era hora de vermos alguns suprimentos por aqui!</Page>
+    
     
     </Text>
     <Text huntingZoneId="237" id="4" villagerId="1010">
          
+         
         <Page social="0">O que é isso?</Page>
+    
     
     </Text>
 </QuestDialog>

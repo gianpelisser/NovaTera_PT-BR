@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="242" id="1014" voiceTypeId="174">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1014" huntingZoneId="242" voiceTypeId="174">
     <Text huntingZoneId="242" id="1" endSocial="14" prevId="0" villagerId="1014">
          
+         
         <Page social="4">I've heard stories about the nagas—everyone has, I suppose. Still, I never imagined how awful they really are.</Page>
+    
     
     </Text>
 </VillagerDialog>

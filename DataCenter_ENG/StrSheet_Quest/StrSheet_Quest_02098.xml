@@ -1,28 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="60209001" string="They Hate Me in That Tunnel" />
-    <String id="60209002" string="Head into the catacombs and root out the argons!" />
-    <String id="60209003" string="You fight like Kaia!" />
-    <String id="60209004" string="" />
-    <String id="60209005" string="" />
-    <String id="60209006" string="" />
-    <String id="60209007" string="" />
-    <String id="60209008" string="Use the &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=8001#53250,3806,253&amp;type=1&amp;name=Teleportal&quot;&gt;teleportal&lt;/A&gt;&lt;/font&gt; to report to Baruster in the Argon Catacombs." />
-    <String id="60209009" string="&quot;I'll handle it.&quot;" />
-    <String id="60209010" string="Argon Plating" />
-    <String id="60209011" string="Kill the {@LinkCreature:418#1011#chamas reavers} and {@LinkCreature:418#1012#energized yusul slashers} and collect their plating." />
-    <String id="60209012" string="Deliver the argon plating to {@LinkCreature:418#2001#Baruster}." />
-    <String id="60209013" string="&quot;Thanks!&quot;" />
-    <String id="60209014" string="Argon Plating" />
-    <String id="60209015" string="Kill the {@LinkCreature:418#1021#manaathol sentinels} and {@LinkCreature:418#1022#energized manaathol sentinels} and collect their plating." />
-    <String id="60209016" string="Deliver the argon plating to {@LinkCreature:418#2001#Baruster}." />
-    <String id="60209017" string="&quot;Appreciate it.&quot;" />
-    <String id="60209018" string="Argon Plating" />
-    <String id="60209019" string="Speak with {@LinkCreature:418#2002$$Tibonel} to open the portal. Then kill {@LinkCreature:418#1061#hulrap miners} and collect their plating." />
-    <String id="60209020" string="Deliver the argon plating to {@LinkCreature:418#2001#Baruster}." />
-    <String id="60209021" string="&quot;Thanks.&quot;" />
-    <String id="60209022" string="Argon Plating" />
-    <String id="60209023" string="Kill the {@LinkCreature:418#1051#chamas reapers} and collect their plating." />
-    <String id="60209024" string="Deliver the argon plating to {@LinkCreature:418#2001#Baruster}." />
-    <String id="60209025" string="&quot;Appreciate it.&quot;" />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="60207001" string="Strike First, Strike Hard" />
+    <String id="60207002" string="Head to {@Rgn:48003$$Peril Cavern} and crush the argons!" />
+    <String id="60207003" string="Outstanding! We need more fighters like you!" />
+    <String id="60207004" string="" />
+    <String id="60207005" string="" />
+    <String id="60207006" string="Report to {@LinkCreature:248#3010#Orveras} at {@Rgn:48003$$Peril Cavern}." />
+    <String id="60207007" string="&quot;As ordered.&quot;" />
+    <String id="60207008" string="Kill {@LinkCreature:48#6#vulnaq threshers} in the {@Rgn:48007$$Argon Bulwark}." />
+    <String id="60207009" string="Destroy the {@LinkCreature:48#400#zolnaj transporters} in {@Rgn:48005$$Valgurati Stronghold}." />
+    <String id="60207010" string="&quot;Victory for Valkyon!&quot;" />
+    <String id="60207011" string="Report back to {@LinkCreature:248#3010#Orveras}." />
 </StrSheet_Quest>

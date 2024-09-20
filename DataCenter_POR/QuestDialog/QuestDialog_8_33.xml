@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="8" id="33" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="8" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="208" id="100" prevId="0" villagerId="1022">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="208" id="2" prevId="0" villagerId="1022">
          
+         
         <Page social="4">Ainda há muito o que fazer, &lt;PCNAME&gt;. Rendia pediu reforços e eu seria cruel se mandasse alguém além de você.&lt;BR&gt;&lt;BR&gt;Vá para o Posto Beta da Vanguarda e ajude a pacificar as câmaras inferiores.</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="3" prevId="2" villagerId="1014">
          
+         
         <Page social="4">Loxetrius o enviou. Isso é bom. Eu estava começando a pensar que ele estava acumulando todos os reforços.</Page>
+    
     
     </Text>
 </QuestDialog>

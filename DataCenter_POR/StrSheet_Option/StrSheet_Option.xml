@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='utf-8'?>
 <StrSheet_Option xmlns="https://vezel.dev/novadrop/dc/StrSheet_Option" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Option StrSheet_Option.xsd">
     <String string="Em janela" readableId="SMT_OPTION_WINDOW_MODE" />
     <String string="Tela cheia" readableId="SMT_OPTION_FULL_SCREEN_MODE" />
@@ -21,6 +20,7 @@
     <String string="Social" readableId="SMT_MENU_COMMUNITY" />
     <String string="Valkyon Outfitters" readableId="SMT_MENU_INGAMESTORE" />
     <String string="Acesso à Web" readableId="SMT_MENU_WEB_SERVICE" />
+    <String string="TERA Shop" readableId="SMT_MENU_STORE" />
     <String string="Opções" readableId="SMT_MENU_SYSTEM_OPTION" />
     <String string="Deslogar" readableId="SMT_MENU_EXIT" />
     <String string="Guilda" readableId="SMT_MENU_GUILD_LIST" />
@@ -64,7 +64,28 @@
     <String string="Gerenciamento de Raid" readableId="SMT_MENU_PARTYWINDOW_RAIDCONFIG" />
     <String string="Procurar por Campos de Batalha" readableId="SMT_MENU_BF_MATCHING_WINDOW" />
     <String string="" readableId="SMT_MENU_SERVER_BOARD" />
+    <String string="Crusade" readableId="SMT_MENU_GUILD_COMPETITION" />
     <String string="Dicas de jogos" readableId="SMT_MENU_GAMETIP_BOARD" />
+    <String string="Evento Matching" readableId="SMT_MENU_EVENTMATCHING" />
+    <String string="FAQ" readableId="SMT_MENU_FAQ" />
+    <String string="Pesquisa" readableId="SMT_MENU_SURVEY" />
+    <String string="Reportar um problema" readableId="SMT_MENU_CUSTOMERSERVICE" />
+    <String string="Remodel" readableId="SMT_MENU_CUSTOMIZE_PARTS" />
+    <String string="Alterar aparência" readableId="SMT_MENU_CHANGE_ITEM_EXTERIOR" />
+    <String string="Restaurar a aparência" readableId="SMT_MENU_RESTORE_ITEM_EXTERIOR" />
+    <String string="Pet de Combate" readableId="SMT_MENU_EXTENDED_SERVANT" />
+    <String string="Resetar instâncias" readableId="SMT_MENU_DUNGEON_RESET" />
+    <String string=" Circulated Gold Auction House" readableId="SMT_MENU_EXCHANGE_COUNTER" />
+    <String string="Equipamento" readableId="SMT_MENU_EQUIPMENT" />
+    <String string="Grupo" readableId="SMT_MENU_PARTY" />
+    <String string="Encomenda postal" readableId="SMT_MENU_POST" />
+    <String string="Em andamento" readableId="SMT_MENU_TAG_MATCHING" />
+    <String string="Pode recrutar" readableId="SMT_MENU_TAG_RECRUIT" />
+    <String string="Novo" readableId="SMT_MENU_TAG_NEW" />
+    <String string="Procurar Masmorras (DG)" readableId="SMT_MENU_DUNGEON_MATCHING" />
+    <String string="Procurar Campos de Batalhas (PVP)" readableId="SMT_MENU_BF_MATCHING" />
+    <String string="Menu do Sistema" readableId="SMT_MENU_SYSTEM_MENU" />
+    <String string="Guild &amp; Alliance" readableId="SMT_MENU_GUILDUNION" />
     <String string="Proporção de aspecto" readableId="SMT_RR_ALL" />
     <String string="Wide 16:9" readableId="SMT_RR_16_9" />
     <String string="Wide 16:10" readableId="SMT_RR_16_10" />
@@ -82,7 +103,7 @@
     <String string="Loja de suprimentos" readableId="SMT_MENU_HOMUN" />
     <String string="Conquistas" readableId="SMT_MENU_ACHIEVEMENT" />
     <String string="Aliança" readableId="SMT_MENU_UNION" />
-    <String string="Gestos" readableId="SMT_MENU_SOCIALWINDOOW" />
+    <String string="Gestos" readableId="SMT_MENU_SOCIALWINDOW" />
     <String string="Ordens da Iniciativa de Vanguarda" readableId="SMT_MENU_PLAYGUIDE" />
     <String string="Banco" readableId="SMT_WAREHOUSE_TITLE" />
     <String string="Inventário de Pets" readableId="SMT_USER_WAREHOUSE_TITLE" />

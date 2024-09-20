@@ -1,51 +1,70 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="87" id="5" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="87" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="87" id="100" prevId="0" villagerId="1009">
          
+         
         <Page social="0">&lt;img src='img://__Quest_Mission.870501'/&gt;&lt;BR&gt;Você se infiltrou no território orcano com as dicas que adquiriu em Lost Woods. Você obteve informações sobre a invasão orcana de Pora Elinu na casa de Rahto, em território orcano.</Page>
+    
     
     </Text>
     <Text huntingZoneId="87" id="2" prevId="0" villagerId="1009">
          
+         
         <Page social="0">&lt;img src='img://__Quest_Mission.870501'/&gt;&lt;BR&gt;Então você está entrando em território orcano? Talvez você possa obter ajuda de um espião que conheço.&lt;BR&gt;&lt;BR&gt;Ele está disfarçado de orcano, mas tenho certeza de que você pode identificá-lo imediatamente, com seus sentidos aguçados.</Page>
+    
     
     </Text>
     <Text huntingZoneId="87" id="3" prevId="2" villagerId="1043">
          
+         
         <Page social="4">Psst! Ei! Aqui! &lt;BR&gt;&lt;BR&gt;Não sou realmente um orcano. Sou um espião, trabalhando para Mirvan, reunindo informações disfarçado.&lt;BR&gt;&lt;BR&gt;Mirvan subiu o caminho até aqui, para a Fortaleza dos Orcs. Se ela começar a causar problemas lá em cima, precisará de sua ajuda.</Page>
+    
     
     </Text>
     <Text huntingZoneId="87" id="4" prevId="3" villagerId="1027">
          
+         
         <Page social="4">Você ainda está vivo! Que bom. Eu precisava de uma mãozinha.&lt;BR&gt;&lt;BR&gt;Acho que esse lugar é importante de alguma forma para os orcs. É muito bem guardado, mas eles estão mantendo distância daquele altar. Preciso saber por quê.&lt;BR&gt;&lt;BR&gt;Rahto, o capitão orcano, deve ter alguma informação sobre esse altar. Preciso que você as obtenha.</Page>
+    
     
     </Text>
     <Text huntingZoneId="87" id="5" prevId="4" villagerId="1028">
          
+         
         <Page social="4">[O diário é, em sua maior parte, sem sentido, mas há alguns registros interessantes sobre Rahto recebendo selos vermelhos de alguém, aqui no altar. Então, de repente, os registros mostram um novo intelecto. O diário de Rahto fala sobre o uso dos selos para obter a liderança de sua tribo e emprestar-lhes poder - mas isso deixa Rahto com uma fome voraz].</Page>
+    
     
     </Text>
     <Text huntingZoneId="87" id="6" prevId="5" villagerId="1027">
          
+         
         <Page social="4">Estive examinando esse altar e acho que ele é uma espécie de teletransporte. Provavelmente foi assim que os orcs conseguiram levar tantas tropas para a área sem serem vistos. O que você descobriu?&lt;BR&gt;&lt;BR&gt;Hm. Se Rahto controla e dá poder aos orcs com esses selos vermelhos, eliminar Rahto deve não apenas enfraquecê-los, mas fazê-los perder o interesse. Assim que eles desaparecerem, poderemos liberar Pora Elinu. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Vale a pena tentar...&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Muito bem, já aprendemos tudo o que podíamos aqui.&lt;BR&gt;&lt;BR&gt;Eu vou começar a procurar Rahto. Você cria uma distração eliminando o maior número possível desses xamãs de Bleakrock e depois diz ao nosso espião para voltar à base e se apresentar à Princesa Rida. A missão aqui está cumprida.</Page>
+    
     
     </Text>
     <Text huntingZoneId="87" id="7" prevId="6" villagerId="1043">
          
+         
         <Page social="4">Bem, se Rahto não estiver em território orcano, ele pode estar supervisionando a invasão de Pora Elinu diretamente.&lt;BR&gt;&lt;BR&gt;Eu entregarei o relatório de Mirvan à princesa. Você deve seguir para o norte e encontrar Mirvan.</Page>
+    
     
     </Text>
     <Text huntingZoneId="87" id="8" prevId="7" villagerId="1011">
          
+         
         <Page social="4">Nosso espião está a caminho? Está bem. Parece que você está tendo mais sorte do que eu. Rahto não está em território orcano.&lt;BR&gt;&lt;BR&gt;Eu descobri que os orcs estão equipando basiliscos com aqueles selos vermelhos, para usá-los como uma arma secreta em seu próximo ataque a Pora Elinu. Se não podemos deter Rahto, temos que deter aqueles basiliscos.&lt;BR&gt;&lt;BR&gt;Eu vou procurar um caminho livre para Pora Elinu. Você vai matar alguns desses basiliscos; isso vai atrasar um pouco o Rahto.</Page>
+    
     
     </Text>
     <Text huntingZoneId="87" id="9" prevId="8" villagerId="1039">
          
+         
         <Page social="4">Você está começando a me impressionar, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Tudo bem, não há tempo para isso. O caminho atrás de nós é o único caminho para Pora Elinu. É arriscado, mas estamos ficando sem opções. Enquanto procuro Rahto, preciso que você chegue a Pora Elinu e localize a Princesa Arin.&lt;BR&gt;&lt;BR&gt;A propósito: Encontrei algumas coisas nas lojas orcanas que acho que você poderia usar. São todas suas. Boa sorte!</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+
 <StrSheet_Region xmlns="https://vezel.dev/novadrop/dc/StrSheet_Region" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Region StrSheet_Region.xsd">
     <String id="1" string="O Mundo" />
     <String id="101" string="Arun" />
@@ -106,6 +106,10 @@
     <String id="6013" string="Vindicator Camp" />
     <String id="6017" string="Crescentia Gate" />
     <String id="6464" string="Nearby Town" />
+    <String id="6465" string="Travel to Skycastle" />
+    <String id="6466" string="Skycastle" />
+    <String id="6467" string="Upper Plaza of Velika" />
+    <String id="6468" string="Symposium of Elders in Allemantheia" />
     <String id="7001" string="Celestial Hills" />
     <String id="7002" string="Omphalos Plains" />
     <String id="7003" string="Muricai Ruins" />
@@ -162,6 +166,8 @@
     <String id="10014" string="Dolme's Horn Workshop" />
     <String id="10015" string="East Beach Tavern" />
     <String id="10016" string="Beach Party" />
+    <String id="10017" string="Nakatam Tower" />
+    <String id="10018" string="Gruber's Hideout" />
     <String id="11001" string="Jagged Coast" />
     <String id="11002" string="Jungle Road" />
     <String id="11003" string="Jungle Patrol Camp" />
@@ -764,7 +770,7 @@
     <String id="70102" string="Beach Party (Dragonturtle Beach)" />
     <String id="70103" string="Rootstock (Fairground)" />
     <String id="70104" string="Pond Faire (Tuwangi Garrison)" />
-	<String id="70105" string="Bloody banquet (Tree of Wisdom)" />
+    <String id="70105" string="Bloody banquet (Tree of Wisdom)" />
     <String id="71001" string="Bastion" />
     <String id="71002" string="Bastion Pegasus Platform" />
     <String id="72001" string="Allemantheia" />
@@ -951,6 +957,7 @@
     <String id="117003" string="Playground" />
     <String id="117004" string="Loading Dock" />
     <String id="117005" string="Sanctum of Restoration" />
+    <String id="118001" string="Battle Royal" />
     <String id="119001" string="Monkeydrome" />
     <String id="172001" string="Savage Reach" />
     <String id="172011" string="Eerie Rise" />
@@ -1024,6 +1031,7 @@
     <String id="182300" string="Hina Hot Springs" />
     <String id="182400" string="Kazan's Ridge" />
     <String id="182500" string="Emerald Hills" />
+    <String id="182838" string="" />
     <String id="183001" string="Highwatch Outskirts" />
     <String id="183002" string="Highwatch" />
     <String id="183003" string="Sanctuary of Illumination" />
@@ -1038,9 +1046,6 @@
     <String id="183012" string="Oriyn's Vigil" />
     <String id="183013" string="Hall of Accord" />
     <String id="183014" string="Teleporte" />
-	<!--PVP TOURNAMENT-->
-	<String id="183015" string="Saida (Highwatch)" />
-	
     <String id="191001" string="Trellum Consurgo" />
     <String id="200001" string="Flight Master" />
     <String id="200002" string="Teleporte" />
@@ -1050,6 +1055,9 @@
     <String id="200006" string="Merchant" />
     <String id="200007" string="Reputation Merchant" />
     <String id="200008" string="Token Rewards" />
+    <String id="248001" string="Khanovar Front" />
+    <String id="249001" string="Argonea" />
+    <String id="250001" string="Granarkus" />
     <String id="818001" string="Secret Lab" />
     <String id="818002" string="Laboratory Approach Corridor" />
     <String id="818003" string="Experiment Cages" />
@@ -1265,6 +1273,8 @@
     <String id="9055005" string="Nest of Nimistrix" />
     <String id="9055008" string="Entrada Ravenous Gorge" />
     <String id="9055009" string="Nest of Nimistrix" />
+    <String id="9057001" string="Akeron's inferno (hard)" />
+    <String id="9057002" string="Entrance to Akeron's inferno" />
     <String id="9061001" string="Ruin of the Giants" />
     <String id="9065001" string="Twilight Valley" />
     <String id="9071001" string="Necromancer Tomb" />
@@ -1341,13 +1351,6 @@
     <String id="9094003" string="Second Trial Terrace" />
     <String id="9094004" string="Third Trial Terrace" />
     <String id="9094005" string="Final Terrace" />
-	
-	<String id="7088001" string="Saleron's Sky Garden" />
-    <String id="7088002" string="First Trial Terrace" />
-    <String id="7088003" string="Second Trial Terrace" />
-    <String id="7088004" string="Third Trial Terrace" />
-    <String id="7088005" string="Final Terrace" />
-	
     <String id="9095001" string="Crucible of Flame" />
     <String id="9095002" string="Crucible Foundation" />
     <String id="9095003" string="Crucible Bower" />
@@ -1406,6 +1409,12 @@
     <String id="9151001" string="Noctenium Research Grounds" />
     <String id="9711001" string="The Abscess (Difícil)" />
     <String id="9711002" string="Entrada The Abscess" />
+    <String id="9713001" string="Ghillieglade Entrance" />
+    <String id="9713002" string="Ghillieglade Entrance" />
+    <String id="9713003" string="Gatekeeper's Grotto" />
+    <String id="9713004" string="Guardian's Plaza" />
+    <String id="9713005" string="Banyakas’s Sanctum" />
+    <String id="9714001" string="Velik's Sanctuary" />
     <String id="9716001" string="Sky Ark Elkaras" />
     <String id="9716002" string="Sky Ark Elkaras - Platform" />
     <String id="9716003" string="Sky Ark Elkaras - Control Room" />
@@ -1446,6 +1455,10 @@
     <String id="9743101" string="Solonesome Cage" />
     <String id="9743111" string="Unceremonious Landing" />
     <String id="9743121" string="Vacant Stair" />
+    <String id="9757001" string="Archeron's Purgatory" />
+    <String id="9757003" string="Akeron's Right Hand" />
+    <String id="9757004" string="Akeron's ples" />
+    <String id="9757005" string="Horror Theater" />
     <String id="9766001" string="Shattered Fleet" />
     <String id="9766002" string="Entrada the Shattered Fleet" />
     <String id="9766003" string="Entrada the Shattered Fleet" />
@@ -1489,6 +1502,7 @@
     <String id="9801004" string="Kaiator " />
     <String id="9802001" string="Nexus Traverse" />
     <String id="9803001" string="Nexus Traverse" />
+    <String id="9804001" string="Kelsaik's Nest" />
     <String id="9808001" string="Sabex Armory" />
     <String id="9808002" string="Pikes and Spikes" />
     <String id="9808003" string="Forge" />
@@ -1556,6 +1570,10 @@
     <String id="9873008" string="Chamber of Anguish (Solo)" />
     <String id="9873009" string="Altar of Death (Solo)" />
     <String id="9873010" string="Tomb of Torment (Solo)" />
+    <String id="9885001" string="Dreadspire" />
+    <String id="9885002" string="Challenge" />
+    <String id="9885003" string="Entrance to the Dreadspire" />
+    <String id="9885004" string="Dreadspire - Upper Levels" />
     <String id="9887001" string="Bastion of Lok (Solo)" />
     <String id="9887002" string="Bastion of Lok (Solo)" />
     <String id="9887003" string="Atel Akaad Stronghold (Solo)" />
@@ -1579,6 +1597,10 @@
     <String id="9975001" string="Kelsaik's Raid (20-Pessoas)" />
     <String id="9975002" string="Guardian's Chamber (20-Pessoas)" />
     <String id="9975003" string="Kelsaik's Hall (20-Pessoas)" />
+    <String id="9979001" string="Saravash's Den" />
+    <String id="9979002" string="Saravash's Catchment" />
+    <String id="9979003" string="Feldrenen Forest" />
+    <String id="9979004" string="Threat Camp" />
     <String id="9990001" string="Attack!" />
     <String id="9990002" string="Defend!" />
     <String id="9990003" string="Danger!" />

@@ -1,18 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="18201001" string="Barreling In" />
-    <String id="18201002" string="Investigate the suspicious barrel." />
-    <String id="18201003" string="Archdeva Listening Post" />
-    <String id="18201004" string="You hear voices coming from deeper inside the cave." />
-    <String id="18201005" string="Enter the Archdeva Listening Post by moving the {@LinkCreature:182#2029#suspicious barrel}." />
-    <String id="18201006" string="Kill Transformed Mihog." />
-    <String id="18201007" string="Archdeva Listening Post" />
-    <String id="18201008" string="Madat is waiting near the exit." />
-    <String id="18201009" string="Return to the exit." />
-    <String id="18201010" string="&quot;She left this way, then.&quot;" />
-    <String id="18201011" string="Ask Madat if he saw an archdeva." />
-    <String id="18201012" string="&quot;Got it.&quot;" />
-    <String id="18201013" string="Talk to Dougal." />
-    <String id="18201014" string="&quot;She can't have gotten far.&quot;" />
-    <String id="18201015" string="Ask Zolyn if the archdeva got away." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="18118001" string="War is Nigh" />
+    <String id="18118002" string="&quot;Okay, I'll talk to him.&quot;" />
+    <String id="18118003" string="Report to Dougal that Zolyn is missing." />
+    <String id="18118004" string="&quot;It would be my honor. Thank you.&quot;" />
+    <String id="18118005" string="Talk to Hagand." />
+    <String id="18118006" string="Use the Relativity Stone Repository to activate the teleportal." />
+    <String id="18118007" string="&quot;Yes, sir. Thank you, sir.&quot;" />
+    <String id="18118008" string="Talk to Seir from Velika." />
+    <String id="18118009" string="&quot;There is much still left to do, yes.&quot;" />
+    <String id="18118010" string="Talk to Halran." />
 </StrSheet_Quest>

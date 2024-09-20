@@ -1,84 +1,116 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="605" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="605" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="63" id="100" prevId="0" villagerId="3002">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="2" prevId="0" villagerId="3002">
          
+         
         <Page social="4">Você gostaria de fazer alguns trabalhos manuais hoje? Por favor, diga "sim!"&lt;BR&gt;&lt;BR&gt;Maravilhoso! É meu dia de folga. Não oficialmente. Na verdade... eu disse a {@LinkCreature:63#3003#Elthienne} que estou doente, então tenho certeza de que ela precisará de suas habilidades de artesão.&lt;BR&gt;&lt;BR&gt;Veja? Nós dois ganhamos!</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="3003">
          
+         
         <Page social="0">É bom vê-lo!&lt;BR&gt;&lt;BR&gt;Taratia está doente e Barian precisa de um artesão altamente qualificado hoje. Na verdade, tenho certeza de que ele ficará mais feliz em trabalhar com você. E um dia sem a Taratia me incomodando é como um dia de férias. Entregue seu trabalho concluído para {@LinkCreature:63#3001#Barian}.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="4" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="5" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="6" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="7" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="8" prevId="2" villagerId="3001">
          
+         
         <Page social="5">Trabalho fabuloso, como de costume.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3002#Taratia} vai acertar as contas com você. Ouvi dizer que ela está se sentindo bem o suficiente para fazer pagamentos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="9" villagerId="3001">
          
+         
         <Page social="0">Faça lingotes de linsteel e traga-os para mim.&lt;BR&gt;&lt;BR&gt;Oh, a propósito, você está interessado em se juntar às Mãos de Velika? Eu já lhe perguntei isso? Não está interessado? &lt;BR&gt;&lt;BR&gt;Eu entendo, soldado, você está muito ocupado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="10" prevId="8" villagerId="3001">
          
+         
         <Page social="5">Obrigado, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Veja {@LinkCreature:63#3002#Taratia} para o pagamento. Ouvi dizer que ela está se sentindo bem o suficiente para pagar as contas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="11" villagerId="3001">
          
+         
         <Page social="0">Faça um pouco de aerosilex e traga-o para mim. Não deve ser problema se você tiver as habilidades necessárias... e eu sei que você tem.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="12" prevId="10" villagerId="3001">
          
+         
         <Page social="5">&lt;PCNAME&gt;, isso foi rápido! &lt;BR&gt;&lt;BR&gt;Diga a {@LinkCreature:63#3002#Taratia} Eu disse que você merece uma gorjeta, especialmente porque ela está de folga hoje.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="13" villagerId="3001">
          
+         
         <Page social="0">Faça um pouco de couro de boi e traga-o para mim assim que terminar. Preciso dele para uma armadura em que estou trabalhando.&lt;BR&gt;&lt;BR&gt;Elthienne planeja enviar um membro das Mãos de Velika para uma missão perigosa. Nós, Mãos, nos certificamos de que nossos membros estejam bem protegidos em campo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="14" prevId="12" villagerId="3001">
          
+         
         <Page social="5">Espero que você volte em breve, &lt;PCNAME&gt;. Seu trabalho é de primeira linha.&lt;BR&gt;&lt;BR&gt;Oh, você vai dizer a {@LinkCreature:63#3002#Taratia} que eu disse que ela é um saco de esterco de hiena mentiroso? Claro, ela está doente. Nem todos nós podemos tirar um dia de saúde mental, você sabe.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="15" villagerId="3001">
          
+         
         <Page social="0">Faça um pouco de sylvacloth e traga-o para mim.&lt;BR&gt;&lt;BR&gt;Obrigado por todo o seu trabalho duro, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="16" prevId="14" villagerId="3002">
          
+         
         <Page social="4">Bom trabalho. Você está me dando uma corrida pelo meu dinheiro, isso é certo.&lt;BR&gt;&lt;BR&gt;Acho que é melhor eu não tirar muitos dias "doentes" com você por perto. Vou ficar sem emprego!</Page>
+    
     
     </Text>
 </QuestDialog>

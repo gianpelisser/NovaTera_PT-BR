@@ -1,65 +1,91 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="1" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="30" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0">O principal pesquisador de {@Rgn:71001$$Bastion} pediu que você o visitasse para desvendar uma profecia ligada à morte do deus Balder.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="1">Já faz muito tempo, &lt;PCNAME&gt;. Talvez você não se lembre de mim.&lt;BR&gt;&lt;BR&gt;Seu talento pode desvendar um quebra-cabeça que impede nosso trabalho aqui em Veritas. Por favor, venha até o Sanctum Mysterium em {@Rgn:72001$$Allemantheia}, e eu lhe explicarei.&lt;BR&gt;&lt;BR&gt;-{@LinkCreature:72#1111$$Ryshan} &lt;NEXTPAGEBUTTON&gt;"Do que se trata?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="3" prevId="2" villagerId="1111">
          
+         
         <Page social="1">É um prazer vê-lo em segurança. Ouvi dizer que Thulsa não existe mais? Muito bem! &lt;BR&gt;&lt;BR&gt;Agora, vamos ao que interessa. {@LinkCreature:71#1101$$Alais}, o diretor de pesquisa da cidade de {@Rgn:71001$$Bastion} em {@Rgn:30001$$$Balder's Refuge}, solicitou alguém com experiência em... assuntos divinos, digamos assim. Pensei em você.&lt;NEXTPAGEBUTTON&gt;"Refúgio de Balder?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="1">Não é muito conhecido fora de Allemantheia.&lt;BR&gt;&lt;BR&gt;Era o lar dos deuses Balder e Seren, e foi onde Balder foi morto. É um lugar lindo, com muitos presentes para o mundo, mas também alguns quebra-cabeças que Alais não consegue resolver.&lt;NEXTPAGEBUTTON&gt;"Por que você precisa de mim?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">O Alais é ótimo em uma biblioteca, mas não tem muita experiência no campo. Você, por outro lado? Já esteve frente a frente com os próprios deuses.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:71#1101$$Alais} parece achar isso importante.&lt;BR&gt;&lt;BR&gt;Antes de ir, confirme sua identidade no Identificador atrás de mim. Todo cuidado é pouco!</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="4" prevId="3" villagerId="1446">
          
+         
         <Page social="1">Sim, eu me lembro de quando você interveio na briga entre mim e minha irmã. Ouvi dizer que você se tornou um grande herói de guerra.&lt;BR&gt;&lt;BR&gt;Mas você ainda é apenas um soldado, enquanto eu sou uma princesa entre meu povo, divinamente selecionada por minha força e sabedoria. O que quer que precise ser feito no {@Rgn:30001$$Refúgio de Balder}, eu posso cuidar disso.&lt;BR&gt;&lt;BR&gt;Seu lugar é em um campo de batalha, não guardando um bando de arqueólogos.&lt;NEXTPAGEBUTTON&gt;"Pelo menos deixe-me acompanhá-lo até lá."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Não! &lt;BR&gt;&lt;BR&gt;Ou seja, eu posso me proteger.&lt;BR&gt;&lt;BR&gt;E, além disso, não estarei viajando de pégaso!</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="5" prevId="4" villagerId="1445">
          
+         
         <Page social="1">(Uma linha, rabiscada com tinta mais fresca, chama sua atenção.)&lt;BR&gt;&lt;BR&gt;("O Sol aguardará dois: um do solo e forte, e outro do ar e sábio. Por meio da força e da sabedoria, eles despertarão uma esperança há muito perdida.")</Page>
+    
     
     </Text>
     <Text huntingZoneId="71" id="6" prevId="5" villagerId="1114">
          
+         
         <Page social="1">Obrigado, &lt;PCCLASS:lcase&gt;.&lt;BR&gt;&lt;BR&gt;Você não abriu isso, abriu? &lt;NEXTPAGEBUTTON&gt;"Não, Princesa."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Bom.&lt;BR&gt;&lt;BR&gt;Como princesa dos elin, eu canalizo a vontade da deusa Seren. Quando ela me envia uma profecia ou visão, eu a escrevo aqui. Algumas delas são pessoais.&lt;BR&gt;&lt;BR&gt;Um, obrigada, &lt;PCNAME&gt;. Teria sido embaraçoso se isso caísse em mãos... indiscretas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="71" id="7" prevId="6" villagerId="1101">
          
+         
         <Page social="1">Elsine, da Bacia da Bênção, me disse que você se saiu bem quando encontrou os {@LinkCreature:226#1105$$cenotáfios} que registravam seus feitos. Provavelmente isso lhe parece ter acontecido há muito tempo, não é? &lt;BR&gt;&lt;BR&gt;Sua conexão com esses cenotáfios é o motivo de você estar aqui. Quando o deus Balder morreu, os outros deuses proibiram as raças mortais de entrar em seu refúgio. Agora, a proibição foi suspensa em todas as partes do Refúgio de Balder, com exceção de uma.&lt;BR&gt;&lt;BR&gt;Para quebrar o selo do Templo de Balder, precisamos de você e de mais uma pessoa.&lt;NEXTPAGEBUTTON&gt;"Princesa Rida?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="1">Rida? Sim. Imaginei que seria a Rida ou a irmã dela.&lt;BR&gt;&lt;BR&gt;As duas irmãs seriam adequadas. Imagino que Rida seja um pouco teimosa? &lt;NEXTPAGEBUTTON&gt;"As duas são teimosas."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Arin tem uma mentalidade mais política do que Rida, então talvez seja melhor ficarmos com Rida.&lt;BR&gt;&lt;BR&gt;Para desbloquear o templo, precisamos de um "herói da terra" - que seria você - e um "espírito sábio do ar". Rida servirá para isso.&lt;BR&gt;&lt;BR&gt;Vocês precisarão trabalhar juntos. Você consegue convencê-la?</Page>
+    
     
     </Text>
     <Text huntingZoneId="71" id="8" prevId="7" villagerId="1114">
          
+         
         <Page social="1">Nós dois? Hmm. Isso explica algo que eu estava pensando.&lt;BR&gt;&lt;BR&gt;Você é um lutador capaz, então vou permitir. Você pode me proteger enquanto eu descubro como abrir o templo. Seren deve ter dito a {@LinkCreature:71#1101$$Alais} que estaríamos chegando.&lt;BR&gt;&lt;BR&gt;Quanto você sabe sobre esse lugar?&lt;NEXTPAGEBUTTON&gt;"Era o lar de Balder."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="1">Não é apenas o lar de Balder, mas também o lar de Seren, patrona dos elin. O refúgio está repleto da beleza natural de Seren e da bondade de Balder. As próprias criações de Balder ainda cuidam e protegem o mais sagrado dos solos sagrados.&lt;BR&gt;&lt;BR&gt;Também é um alvo. Um clã de baraka cuida de um arquivo que sobrou do antigo império dos gigantes. Ouvi dizer que alguns dos baraka estavam aqui quando Balder morreu.&lt;BR&gt;&lt;BR&gt;Considere o que isso significa.&lt;NEXTPAGEBUTTON&gt;"Eles seriam... muito velhos?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Tão velhos que já estariam mortos! E o que quer que os mantenha vivos não é nada comparado ao que está preservando o próprio templo.&lt;BR&gt;&lt;BR&gt;É o legado de Balder. Se você está explorando o refúgio comigo, preciso saber que o tratará com respeito.&lt;BR&gt;&lt;BR&gt;Pergunte a Alais o que precisamos fazer, e pense em respeito, hmm?</Page>
+    
     
     </Text>
     <Text huntingZoneId="71" id="9" prevId="8" villagerId="1101">
          
+         
         <Page social="1">Rida está disposto? Excelente! Elsine estava certa sobre você.&lt;BR&gt;&lt;BR&gt;O refúgio já nos ensinou muito. Quem sabe quais segredos Balder is Temple contém? &lt;BR&gt;&lt;BR&gt;Quanto mais cedo abrirmos o templo, mais cedo poderemos aprender seus segredos e colocá-los em uso para a federação.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="61" id="1500" voiceTypeId="97">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1500" huntingZoneId="61" voiceTypeId="97">
     <Text id="1" endSocial="14">
          
+         
         <Page social="4">Se você tiver algum &lt;font color='#FF8040'&gt;Distintivo Arco-Íris&lt;/font&gt;, como você gostaria de negociar comigo?&lt;BR&gt;&lt;BR&gt;Preciso de alguns para minha coleção. Se você trouxer alguns, trocarei por coisas que possam ser úteis para sua viagem.&lt;BR&gt;&lt;BR&gt;Diga, você está interessado?</Page>
+    
     
     </Text>
 </VillagerDialog>

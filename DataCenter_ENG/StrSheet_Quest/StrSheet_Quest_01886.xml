@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="12310001" string="Tor Beasts" />
-    <String id="12310002" string="Infiltrate the Enlightened Union territory and kill beasts." />
-    <String id="12310003" string="&quot;For the Iron Order!&quot;" />
-    <String id="12310004" string="Report back to {@linkcreature:123#9001#Frateko} in Fort Dragonfall." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="12309001" string="Bigger Tor Beasts" />
+    <String id="12309002" string="Infiltrate the Enlightened Union territory and hunt huge beasts." />
+    <String id="12309003" string="&quot;For the Iron Order!&quot;" />
+    <String id="12309004" string="Report back to {@linkcreature:123#9001#Frateko} in Fort Dragonfall." />
 </StrSheet_Quest>

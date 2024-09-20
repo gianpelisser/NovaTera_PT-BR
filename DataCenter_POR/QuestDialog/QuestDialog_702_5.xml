@@ -1,66 +1,91 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="702" id="5" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="702" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="219" id="100" prevId="0" villagerId="7000">
          
+         
         <Page social="0">Você preparou um prato e o deu a Melsa.</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="2" prevId="0" villagerId="7000">
          
+         
         <Page social="4">Bem-vindo de volta, &lt;PCNAME&gt;! Voltou para Rootstock para se divertir mais um pouco, hein? &lt;BR&gt;&lt;BR&gt;Alguma chance de você voltar mais tarde? Estou meio atolado; ficamos sem comida ontem à noite, então preciso fazer muito mais hoje.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Alguma coisa que eu possa fazer para ajudar?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Nossa! Tem certeza? Sim! Sem dúvida! Eu já sei que você é um ótimo cozinheiro, &lt;PCNAME&gt;, então você seria de grande ajuda!</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="3" prevId="2" villagerId="7000">
          
+         
         <Page social="4">Por enquanto, não preciso de nada muito complexo, mas não tenho tempo para fazer isso sozinho. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Apenas me diga o que você precisa.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="4" prevId="2" villagerId="7000">
          
+         
         <Page social="4">A semente de espiga estourada foi muito popular ontem, então que tal você preparar um lote dela?</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="5" prevId="2" villagerId="7000">
          
+         
         <Page social="4">A salada de raiz de lama foi muito boa, então eu poderia usar um pouco mais dela!</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="6" prevId="2" villagerId="7000">
          
+         
         <Page social="4">Pigling é sempre um grande sucesso. Acenda a churrasqueira!</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="7" prevId="3" villagerId="7000">
          
+         
         <Page social="4">Nossa, que semente de espiga saborosa! Bem salgada também, então vamos vender muita cerveja com isso! &lt;BR&gt;&lt;BR&gt;Olha, &lt;PCNAME&gt;, já que você me ajudou, deixe-me dar isso a você. Você pode usá-lo sempre que quiser. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Eu não fiz muita coisa.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="8" villagerId="7000">
          
+         
         <Page social="0">Não se esqueça: Tenha sempre a receita à mão, e você não terá como errar!</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="9" prevId="3" villagerId="7000">
          
+         
         <Page social="4">Você fez salada de raiz de lama suficiente para alimentar um exército, &lt;PCNAME&gt;! Bom trabalho! &lt;BR&gt;&lt;BR&gt;Ouça: Já que você me ajudou, deixe-me lhe dar isto. Você pode usá-lo sempre que quiser. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Eu não fiz muita coisa.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="10" villagerId="7000">
          
+         
         <Page social="0">Em caso de dúvida, sempre verifique a receita.</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="11" prevId="3" villagerId="7000">
          
+         
         <Page social="4">Não sei o que acontece com as lutas de monstros que deixam as pessoas com fome de leitão grelhado, mas isso deve satisfazê-las! &lt;BR&gt;&lt;BR&gt;Olha, &lt;PCNAME&gt;, já que você me ajudou, deixe-me dar isso a você. Você pode usá-lo a qualquer momento. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Eu não fiz muita coisa.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="12" villagerId="7000">
          
+         
         <Page social="0">Quando estiver em dúvida, verifique a receita. Esse é o meu segredo!</Page>
+    
     
     </Text>
 </QuestDialog>

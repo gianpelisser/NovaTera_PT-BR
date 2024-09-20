@@ -1,47 +1,65 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="608" id="9" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="608" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="62" id="100" prevId="0" villagerId="1701">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="62" id="2" prevId="0" villagerId="1701">
          
+         
         <Page social="4">Prazer em vê-lo, &lt;PCNAME&gt;&lt;BR&gt;&lt;BR&gt;Eu adoro fazer negócios. Mas sabe o que eu odeio? Atrasos. É uma coisa pequena, mas alguns de meus parceiros de negócios me devem livros contábeis atualizados dos últimos tempos.&lt;BR&gt;&lt;BR&gt;Pode lembrá-los gentilmente? E estou falando sério: gentilmente.</Page>
+    
     
     </Text>
     <Text huntingZoneId="62" id="3" prevId="2" villagerId="1702">
          
+         
         <Page social="4">Ei, o que o traz aqui? &lt;NEXTPAGEBUTTON&gt;"Jax quer livros contábeis atualizados."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Aqui! Aqui! Pelos titãs, não me mate!</Page>
+    
     
     </Text>
     <Text huntingZoneId="62" id="4" prevId="3" villagerId="1703">
          
+         
         <Page social="4">E aí, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"Jax quer livros contábeis atualizados."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Eu tenho uma família... por favor. Pegue-o! Leve para o Jax e diga a ele que eu nunca, nunca vou me atrasar!</Page>
+    
     
     </Text>
     <Text huntingZoneId="62" id="5" prevId="4" villagerId="1704">
          
+         
         <Page social="4">Mais um dia no paraíso, hein, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"Jax quer livros contábeis atualizados."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">E ele o enviou para... espere! Isso não precisa terminar assim - deixe-me assinar rapidamente! Está quase pronto!</Page>
+    
     
     </Text>
     <Text huntingZoneId="62" id="6" prevId="5" villagerId="1705">
          
+         
         <Page social="4">O que posso fazer por você? &lt;NEXTPAGEBUTTON&gt;"Jax quer livros contábeis atualizados."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Não me machuque! Não na cara! Olhe, pegue o livro de registro... e diga ao Jax que eu sinto muito!</Page>
+    
     
     </Text>
     <Text huntingZoneId="62" id="7" prevId="6" villagerId="1701">
          
+         
         <Page social="4">Você voltou rapidamente. Sem problemas, espero?&lt;BR&gt;&lt;BR&gt;Aqui está uma coisinha pelo seu tempo.</Page>
+    
     
     </Text>
 </QuestDialog>

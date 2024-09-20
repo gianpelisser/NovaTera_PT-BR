@@ -1,36 +1,49 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="2" id="2" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="2" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="202" id="100" prevId="0" villagerId="1004">
          
+         
         <Page social="0">Você conheceu o guardião da floresta Maon, que mantinha boas relações com os fey na Fey Forest. Maon marcou um encontro com Lillix, uma líder entre as fadas. Ela lhe disse que Seravy, líder dos unicórnios, havia passado por uma mudança misteriosa e agora estava quebrando a paz que havia feito entre os fey e os madeireiros de Lumbertown.&lt;BR&gt;&lt;BR&gt;A pedido de Lillix, você deu a Seravy uma substância que clareou a mente dele. Seravy prometeu fazer o possível para restaurar a paz, assim como Volos, o líder dos centauros.</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="2" prevId="0" villagerId="1004">
          
+         
         <Page social="0">Klaon o enviou para encontrar Maon? Bom - talvez Maon possa colocar algum juízo na cabeça das fadas.&lt;BR&gt;&lt;BR&gt;Você provavelmente encontrará Maon em sua cabana. É sobre a ponte oeste - basta seguir a estrada.&lt;BR&gt;&lt;BR&gt;Oh! Quase me esqueci. Dê a ele este maço de flores. Por alguma razão, ele gosta muito delas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="3" prevId="2" villagerId="1020">
          
+         
         <Page social="0">Artful graceblooms! Como você sabia! Tantos, tantos usos! &lt;BR&gt;&lt;BR&gt;Você não pode me enganar - eu sei que Klaon o enviou. E vejamos... isso significa que ele quer que o derramamento de sangue termine... e que ele não tem falado com Lillix ultimamente.&lt;NEXTPAGEBUTTON&gt;"Quem é Lillix?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="4" prevId="3" villagerId="1002">
          
+         
         <Page social="4">Essência Gracebloom! Que presente maravilhoso! Nossos problemas não são fáceis de resolver, mas se Maon confia em você, então eu também confio.&lt;BR&gt;&lt;BR&gt;Até recentemente, era {@LinkCreature:2#206#Seravy} quem fazia a paz entre os lenhadores e os fey, mas ele mudou. Ele está incitando os fey a uma guerra total contra as raças da federação.&lt;NEXTPAGEBUTTON&gt;"Há algo que eu possa fazer?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">De fato... oh, sim! Maon esperto! A própria essência da flor da graça é a solução! &lt;BR&gt;&lt;BR&gt;Seravy está excepcionalmente agressivo agora, mas se você conseguir se aproximar dele com a essência da flor da graça, isso deve limpar sua mente o suficiente para que ele volte a ser o que era antes.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, {@LinkCreature:2#206#Seravy} é a chave para restaurar a paz. Estamos dependendo de você.</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="5" prevId="4" villagerId="1037">
          
+         
         <Page social="0">Em nome de Isren, agradeço-lhe por restaurar minha mente. Farei o que puder para reconstruir a paz que conquistei há tanto tempo. Espero que sua federação e os madeireiros estejam dispostos a fazer o mesmo.&lt;BR&gt;&lt;BR&gt;Comece o processo de cura falando com Volos; ele pode transmitir sua mensagem de paz aos fey. Leve com você uma de minhas lágrimas, como prova de minha bênção.</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="6" prevId="5" villagerId="1012">
          
+         
         <Page social="0">Se Seravy confiou a você algo tão valioso como uma de suas lágrimas, então suas palavras podem valer a pena ser ouvidas.&lt;BR&gt;&lt;BR&gt;Muito bem, &lt;PCRACE:lcase&gt;, instruirei os fey a serem mais tolerantes com os lenhadores. É uma pena que mais deles não compartilhem seu senso de honra.</Page>
+    
     
     </Text>
 </QuestDialog>

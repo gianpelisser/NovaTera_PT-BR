@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="27" id="33" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="27" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="227" id="100" prevId="0" villagerId="1021">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="227" id="2" prevId="0" villagerId="1021">
          
+         
         <Page social="5">Minhas ordens são para me infiltrar na fortaleza e reunir informações sobre as legiões de Thulsa e seus conspiradores. A missão é dificultada pela presença dos {@LinkCreature:27#6#merciless iskaragards} e {@LinkCreature:27#7#savage iskaragards}.&lt;BR&gt;&lt;BR&gt;Se você puder enfrentá-los por algum tempo, poderemos prosseguir. Você provavelmente deveria matar um bom número deles para chamar a atenção para si mesmo. Boa sorte!</Page>
+    
     
     </Text>
     <Text huntingZoneId="227" id="3" prevId="2" villagerId="1021">
          
+         
         <Page social="5">A perda dos iskaragards deixou as sentinelas confusas. Há vários pontos fracos a serem explorados agora, graças a você.&lt;BR&gt;&lt;BR&gt;Sua luta acabou, mas nossa missão está apenas começando. Até logo!</Page>
+    
     
     </Text>
 </QuestDialog>

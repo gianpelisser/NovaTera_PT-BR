@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="12" id="33" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="12" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="212" id="100" prevId="0" villagerId="1003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="212" id="2" prevId="0" villagerId="1003">
          
+         
         <Page social="5">Você sabe por que a chamam de "Costa Desolada"? Porque nada mais pode viver lá.&lt;BR&gt;&lt;BR&gt;Se for fauna, os {@LinkCreature:12#9#Açougueiros do chicote vermelho} a matam para comer. E se for flora, as insaciáveis {@LinkCreature:12#11#kamaras da ilha} a comem.&lt;BR&gt;&lt;BR&gt;Limpe essa praia, &lt;PCCLASS:lcase&gt;! Talvez ela possa voltar a ter a aparência do agradável litoral que costumava ser.</Page>
+    
     
     </Text>
     <Text huntingZoneId="212" id="3" prevId="2" villagerId="1003">
          
+         
         <Page social="5">Você limpou a praia sozinho? Eu não imaginaria que isso fosse possível.&lt;BR&gt;&lt;BR&gt;Eles voltarão, mas em algum lugar daquela praia está crescendo uma semente que não teria sobrevivido se não fosse por você, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
 </QuestDialog>

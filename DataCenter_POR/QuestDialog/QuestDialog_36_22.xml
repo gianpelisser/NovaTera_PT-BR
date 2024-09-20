@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="36" id="22" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="36" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="236" id="100" prevId="0" villagerId="1004">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="236" id="2" prevId="0" villagerId="1004">
          
+         
         <Page social="5">Sim, aquela carruagem deveria ter passado por aqui, mas eu certamente não a vi.&lt;BR&gt;&lt;BR&gt;Se você seguir para o norte, em direção a Allemantheia, talvez consiga descobrir o que aconteceu com ela.&lt;BR&gt;&lt;BR&gt;Tenha cuidado, porém - há uma razão para ela não ter passado por aqui. Cuidado ao andar por lá.</Page>
+    
     
     </Text>
     <Text huntingZoneId="236" id="3" prevId="2" villagerId="1026">
          
+         
         <Page social="5">(As pessoas estão mortas e os suprimentos de comida acabaram.)&lt;BR&gt;&lt;BR&gt;(Há uma arma no chão. Você provavelmente deveria levá-la de volta para Tarnan).</Page>
+    
     
     </Text>
     <Text huntingZoneId="236" id="4" prevId="3" villagerId="1004">
          
+         
         <Page social="6">Atacado? Sim, eu estava preocupado que você dissesse isso. &lt;BR&gt;&lt;BR&gt;Encontrou uma arma, no entanto? Deixe-me ver isso.&lt;NEXTPAGEBUTTON&gt;"Claro, dê uma olhada."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="12">Essa é uma arma de Tenebrara! Por que eles nos atacariam? &lt;BR&gt;&lt;BR&gt;Isso não faz sentido algum!</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="711" id="1" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="711" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0">Krakatox transformou um de seus próprios ossos nesta arma.&lt;BR&gt;&lt;BR&gt;Ela ainda pulsa com uma energia poderosa, mesmo que seu dono esteja morto.&lt;BR&gt;&lt;BR&gt;O lendário ferreiro Muhrak talvez saiba como fazer uso da energia da arma.&lt;BR&gt;&lt;BR&gt;- A Arma de Krakatox desaparece quando você aceita esta missão.</Page>
+    
     
     </Text>
     <Text huntingZoneId="411" id="3" prevId="2" villagerId="5001">
          
+         
         <Page social="4">Uau, essa energia poderosa! Onde você encontrou isso? &lt;PCNAME&gt;, dê-me um momento. Talvez eu possa fazer uma nova arma com ela.</Page>
+    
     
     </Text>
 </QuestDialog>

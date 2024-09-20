@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="37" id="30" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="37" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="237" id="100" prevId="0" villagerId="1039">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="237" id="2" prevId="0" villagerId="1039">
          
+         
         <Page social="11">Eles me enviaram até aqui para ver se os argons estavam lutando contra tudo ou apenas contra nós.&lt;BR&gt;&lt;BR&gt;Sim, é mais um castigo do que uma missão, mas tanto faz.&lt;BR&gt;&lt;BR&gt;Eu cheguei até aqui me escondendo dos monstros, mas logo à nossa frente estão esses argons parecidos com lobos chamados "athakelas". Eu não sou páreo para um argons, muito menos para um lobo-argons, mas você... você provavelmente pode enfrentá-los!</Page>
+    
     
     </Text>
     <Text huntingZoneId="237" id="3" prevId="2" villagerId="1018">
          
+         
         <Page social="18">Argons, hein? &lt;BR&gt;&lt;BR&gt;Se não precisávamos de reforços antes, com certeza precisamos deles agora.&lt;BR&gt;&lt;BR&gt;E suas orações mais fervorosas também não fariam mal.</Page>
+    
     
     </Text>
 </QuestDialog>

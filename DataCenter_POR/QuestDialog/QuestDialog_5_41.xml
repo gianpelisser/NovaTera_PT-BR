@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="5" id="41" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="5" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="205" id="100" prevId="0" villagerId="1012">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="205" id="2" prevId="0" villagerId="1012">
          
+         
         <Page social="5">Elimine os {@LinkCreature:5#4#Tuwangi Frogriders} para que os Tuwangis das Árvores reunidos a leste da entrada do pântano sob as ordens de Moong não possam atacar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="3" prevId="2" villagerId="1012">
          
+         
         <Page social="0">Podemos presumir que a maior parte do problema desaparecerá agora que os Tree Tuwangi Frogriders foram embora.</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="4" villagerId="1012">
          
+         
         <Page social="0">Não temos muito tempo. Livre-se dos {@LinkCreature:5#4#Tuwangi Frogriders} agora.</Page>
+    
     
     </Text>
 </QuestDialog>

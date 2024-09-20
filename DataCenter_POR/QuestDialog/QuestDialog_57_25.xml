@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="57" id="25" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="57" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="257" id="100" prevId="0" villagerId="1019">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="257" id="2" prevId="0" villagerId="1019">
          
+         
         <Page social="4">Os sikandaris estão nos mantendo longe do Templo de Sikander. Se quisermos acabar com isso, temos que passar por cima.&lt;BR&gt;&lt;BR&gt;Isso significa começar pelos sikandaris mais fortes. Eles querem morrer por seu deus? Vamos lhes fazer a vontade.</Page>
+    
     
     </Text>
     <Text huntingZoneId="257" id="3" prevId="2" villagerId="1019">
          
+         
         <Page social="4">Bom trabalho. Não sei o que levou os sikandaris a ficarem do lado de Killian e Thulsa, mas temos que proteger os nossos primeiro. Esse é um bom começo.&lt;BR&gt;&lt;BR&gt;Há mais a fazer. Não fique esperando por mim.</Page>
+    
     
     </Text>
 </QuestDialog>

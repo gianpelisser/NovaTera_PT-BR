@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="36" id="26" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="36" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="236" id="100" prevId="0" villagerId="1012">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="236" id="2" prevId="0" villagerId="1012">
          
+         
         <Page social="10">Diabretes. Parece um bando de jovens bonitinhos, mas são cada vez mais um problema formidável.&lt;BR&gt;&lt;BR&gt;Traga seus números e seus mestres para nós. Isso realmente nos ajudaria a nos concentrar no que é importante aqui.</Page>
+    
     
     </Text>
     <Text huntingZoneId="236" id="3" prevId="2" villagerId="1012">
          
+         
         <Page social="7">Ah, que bom, você trouxe... ouvidos. Muito bem, então.&lt;BR&gt;&lt;BR&gt;Aqui. É... uma recompensa. Pelas... orelhas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="236" id="4" villagerId="1012">
          
+         
         <Page social="0">Nós realmente precisamos que esses diabinhos saiam do nosso caminho. Já temos problemas suficientes sem esse tipo de gente para lidar.</Page>
+    
     
     </Text>
 </QuestDialog>

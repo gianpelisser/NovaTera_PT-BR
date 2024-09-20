@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="90109001" string="Onward to Glory!" />
-    <String id="90109002" string="Win in Fraywind Canyon." />
-    <String id="90109003" string="" />
-    <String id="90109004" string="&quot;It's an honor just to serve.&quot;" />
-    <String id="90109005" string="Find Surah at the Valkyon Headquarters in Velika." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="90104001" string="Win, Place, or Snow" />
+    <String id="90104002" string="Win in the Wintera Snowfield." />
+    <String id="90104003" string="" />
+    <String id="90104004" string="&quot;Thanks!&quot;" />
+    <String id="90104005" string="Find {@linkcreature:63#9005} in Velika." />
 </StrSheet_Quest>

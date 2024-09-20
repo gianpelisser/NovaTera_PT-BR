@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="11" id="71" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="71" huntingZoneId="11" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0">Ordens da missão&lt;BR&gt;&lt;BR&gt;Os piratas do cais estão conspirando contra a federação.&lt;BR&gt;&lt;BR&gt;Mate os {@LinkCreature:11#2003#Sentinelas do chicote vermelho}, {@LinkCreature:11#1008#piratas}, {@LinkCreature:11#2001#companheiros}, {@LinkCreature:11#1003#veteranos} e {@LinkCreature:11#3006#berserkers}.&lt;BR&gt;&lt;BR&gt;Apresentar-se ao coordenador de recompensas de missões de uma guilda quando a missão estiver concluída.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="3" prevId="2" villagerId="0">
          
+         
         <Page social="4">Você recebeu os agradecimentos da federação. Bênçãos para todos os membros da Guilda!</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="4" villagerId="0">
          
+         
         <Page social="0">Parece que você ainda não completou sua missão.</Page>
+    
     
     </Text>
 </QuestDialog>

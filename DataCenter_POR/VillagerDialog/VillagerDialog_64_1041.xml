@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="64" id="1041" voiceTypeId="131">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1041" huntingZoneId="64" voiceTypeId="131">
     <Text huntingZoneId="64" id="1" endSocial="14" prevId="0" villagerId="1041">
          
+         
         <Page social="4">Como posso ajudá-lo?&lt;BR&gt;&lt;BR&gt;Talvez alguns curativos ou amuletos enquanto você recarrega?</Page>
+    
     
     </Text>
 </VillagerDialog>

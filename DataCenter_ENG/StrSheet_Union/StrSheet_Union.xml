@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Union xmlns="https://vezel.dev/novadrop/dc/StrSheet_Union" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Union StrSheet_Union.xsd">
+<StrSheet_Union xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Union StrSheet_Union.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Union">
     <String id="1" string="Free Traders Collective" />
     <String id="2" string="Enlightened Union" />
     <String id="3" string="Iron Order" />
     <String id="11" string="An organization that uses noctenium as a means to financial prosperity." />
-    <String id="12" string="." />
+    <String id="12" string="Members of the capitalist Free Traders Collective earn 1 percent more gold from loot." />
     <String id="13" string="An organization that studies noctenium for academic purposes." />
-    <String id="14" string="Enlightened Union employs superior diplomatic influence." />
+    <String id="14" string="Enlightened Union employs superior diplomatic influence. Members benefit from a 5 percent increase in reputation credits." />
     <String id="15" string="An organization that uses noctenium to achieve superhuman strength." />
-    <String id="16" string="Iron Order provides superior physical advantages." />
+    <String id="16" string="Iron Order provides superior physical advantages. Members receive 5 percent additional stun resistance." />
     <String id="400" string="Exarch" />
     <String id="300" string="Commander" />
     <String id="301" string="Adjunct Commander" />
@@ -83,53 +82,26 @@
     <String id="470320" string="&lt;img src='icon_notice'&gt; &lt;FONT SIZE='18'&gt; To apply to be an Exarch candidate, you must meet all requirements. &lt;/font&gt;" />
     <String id="470321" string="Register as Exarch Candidate" />
     <String id="470322" string="Open Specialty Stores" />
-    <String id="470323" string="Allocate Specialty Stores to all villages ruled by alliances. 
-Alliance policy points will be deducted every hour. If you don't have enough alliance policy points, the allocation will be automatically canceled." />
-    <String id="470324" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;Allocate Specialty Store
-      Required Alliance Policy Points: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
-    <String id="470325" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;Allocate Specialty Store
-      Required Alliance Policy Points: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470323" string="Allocate Specialty Stores to all villages ruled by alliances.  Alliance policy points will be deducted every hour. If you don't have enough alliance policy points, the allocation will be automatically canceled." />
+    <String id="470324" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;Allocate Specialty Store       Required Alliance Policy Points: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470325" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;Allocate Specialty Store       Required Alliance Policy Points: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
     <String id="470326" string="Allocate Specialty Store" />
     <String id="470327" string="Cancel Specialty Store" />
-    <String id="470328" string="
-&lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;Cancel Specialty Store
-      Required Alliance Policy Points: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
-    <String id="470329" string="
-&lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;Cancel Specialty Store
-      Required Alliance Policy Points: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470328" string=" &lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;Cancel Specialty Store       Required Alliance Policy Points: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470329" string=" &lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;Cancel Specialty Store       Required Alliance Policy Points: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
     <String id="470330" string="Upgrade Enchanter" />
-    <String id="470331" string="Increase alliance hall enchanter success rate for 1 hour.
-" />
-    <String id="470332" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;Silver Enchanter
-      Required Alliance Policy Points: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
-    <String id="470333" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;Silver Enchanter
-      Required Alliance Policy Points: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
-    <String id="470334" string="
-&lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;Gold Enchanter
-      Required Alliance Policy Points: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
-    <String id="470335" string="
-&lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;Gold Enchanter
-      Required Alliance Policy Points: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470331" string="Increase alliance hall enchanter success rate for 1 hour. " />
+    <String id="470332" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;Silver Enchanter       Required Alliance Policy Points: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470333" string="&lt;img src='number1' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;Silver Enchanter       Required Alliance Policy Points: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470334" string=" &lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;Gold Enchanter       Required Alliance Policy Points: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470335" string=" &lt;img src='number2' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;Gold Enchanter       Required Alliance Policy Points: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
     <String id="470336" string="Silver Enchanter" />
     <String id="470337" string="Gold Enchanter" />
     <String id="470338" string="Bronze Enchanter" />
-    <String id="470339" string="
-&lt;img src='number3' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;Bronze Enchanter
-      Required Alliance Policy Points: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
-    <String id="470340" string="
-&lt;img src='number3' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;Bronze Enchanter
-      Required Alliance Policy Points: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470339" string=" &lt;img src='number3' vspace='-5'&gt; &lt;FONT SIZE='18' color='#80e71c'&gt;Bronze Enchanter       Required Alliance Policy Points: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_ok' vspace='-5'&gt; &lt;br&gt;" />
+    <String id="470340" string=" &lt;img src='number3' vspace='-5'&gt; &lt;FONT SIZE='18' color='#c00005'&gt;Bronze Enchanter       Required Alliance Policy Points: {PolicyPoint} &lt;/font&gt; &lt;img src='icon_conditionCheck_no' vspace='-5'&gt; &lt;br&gt;" />
     <String id="470341" string="Use Exarch’s Powers" />
-    <String id="470342" string="&lt;FONT SIZE='24' color='#cccccc'&gt;{SkillName} 
- &lt;FONT SIZE='18' color='#cccccc'&gt;{SkillDesc} 
-
- &lt;FONT SIZE='18' color='#80e71c'&gt;Required Points:{Point} 
-
- &lt;FONT SIZE='24' color='#ff0000'&gt;{SkillName} will be used.
-
-&lt;FONT SIZE='18' color='#80e71c'&gt;Available alliance policy points:{Current} 
-Alliance policy points balance after using the required points:{Next}
-" />
+    <String id="470342" string="&lt;FONT SIZE='24' color='#cccccc'&gt;{SkillName}   &lt;FONT SIZE='18' color='#cccccc'&gt;{SkillDesc}    &lt;FONT SIZE='18' color='#80e71c'&gt;Required Points:{Point}    &lt;FONT SIZE='24' color='#ff0000'&gt;{SkillName} will be used.  &lt;FONT SIZE='18' color='#80e71c'&gt;Available alliance policy points:{Current}  Alliance policy points balance after using the required points:{Next} " />
     <String id="470343" string="OK" />
     <String id="470344" string="Cancel" />
     <String id="470380" string="You can collect tax again in {CoolTime} hour(s)." />

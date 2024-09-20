@@ -1,31 +1,42 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="34" id="44" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="34" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="73" id="100" prevId="0" villagerId="1028">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="73" id="2" prevId="0" villagerId="1028">
          
+         
         <Page social="9">Nosso carregamento de fragmentos eldritch está pendurado em algum lugar em Bleakrock.&lt;BR&gt;&lt;BR&gt;Vá até lá e pergunte a Kilda o que temos de fazer para obtê-los ontem.</Page>
+    
     
     </Text>
     <Text huntingZoneId="83" id="3" prevId="2" villagerId="1014">
          
+         
         <Page social="4">Os fragmentos? &lt;BR&gt;&lt;BR&gt;Não é minha culpa. Os wendigos estão em fúria. Os junaidar estão invadindo os acampamentos. Um popori que estava de passagem os comeu... tudo bem, eu simplesmente não tenho nenhum no momento. Tente Forsil.</Page>
+    
     
     </Text>
     <Text huntingZoneId="83" id="4" prevId="3" villagerId="1011">
          
+         
         <Page social="4">Meus fragmentos estão todos destinados a Allemantheia. Nem se dê ao trabalho de tentar superar a oferta do Mysterium.&lt;BR&gt;&lt;BR&gt;Apenas entre nós, ouvi um boato de que o magistrado está guardando um tesouro particular.</Page>
+    
     
     </Text>
     <Text huntingZoneId="83" id="5" prevId="4" villagerId="1012">
          
+         
         <Page social="4">Não, não estou acumulando fragmentos! Ele está louco? &lt;NEXTPAGEBUTTON&gt;"Realmente não há nenhum?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Não. Sinto muito. Eles não crescem exatamente em árvores.</Page>
+    
     
     </Text>
 </QuestDialog>

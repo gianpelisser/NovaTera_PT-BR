@@ -1,0 +1,13 @@
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="99" huntingZoneId="904" voiceTypeId="0">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
+        <Page social="4">[The Path to Perfection]&lt;BR&gt;&lt;BR&gt;{@LinkCreature:191#9165#Myako} from the Treasure Hunters wants to talk to you urgently.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1600">
+        <Page social="4">Greetings! I know you're probably in a hurry, so I'll get straight to the point. As you can see, we're new here and don't know this place very well. We're looking for brave and strong warriors to carry out dangerous and highly paid missions. If you're interested, approach Velika or Kaia.</Page>
+    </Text>
+</QuestDialog>

@@ -1,79 +1,109 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="602" id="9" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="602" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="78" id="100" prevId="0" villagerId="3004">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="78" id="2" prevId="0" villagerId="3004">
          
+         
         <Page social="4">A batalha pela Frente de Khanovar se estende abaixo da superfície - e é para lá que estamos enviando você.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:248#3007#Brumbar} guarda o teletransporte para as {@Rgn:9018001$$Argon Catacombs}.&lt;BR&gt;&lt;BR&gt;Use-o e apresente-se a {@LinkCreature:418#2001#Baruster} e ele lhe dará suas ordens.</Page>
+    
     
     </Text>
     <Text huntingZoneId="418" id="3" prevId="2" villagerId="2001">
          
+         
         <Page social="4">Não temos muitos voluntários, sejam eles de Shariar ou não.&lt;BR&gt;&lt;BR&gt;Nossa missão é simples: matar argons e recuperar suas placas. Nós o reciclamos em armaduras ou armas de cerco.&lt;BR&gt;&lt;BR&gt;Simples o suficiente. Comece a matar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="418" id="4" prevId="2" villagerId="2001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="418" id="5" prevId="2" villagerId="2001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="418" id="6" prevId="2" villagerId="2001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="418" id="7" prevId="2" villagerId="2001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="418" id="8" prevId="2" villagerId="2001">
          
+         
         <Page social="4">Como dizem meus amigos castanhos, você não tem nada de ruim! &lt;BR&gt;&lt;BR&gt;Fico feliz em ver que temos alguém que realmente sabe lutar. Bom trabalho nas catacumbas, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
     <Text huntingZoneId="418" id="9" villagerId="2001">
          
+         
         <Page social="0">Cuidado com os argons! &lt;BR&gt;&lt;BR&gt;Eles podem aparecer sorrateiramente antes que você esteja pronto! Fique atento.</Page>
+    
     
     </Text>
     <Text huntingZoneId="418" id="10" prevId="8" villagerId="2001">
          
+         
         <Page social="4">Como dizem meus amigos castanhos, você não tem nada de ruim! &lt;BR&gt;&lt;BR&gt;Fico feliz em ver que temos alguém que realmente sabe lutar. Bom trabalho nas catacumbas, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
     <Text huntingZoneId="418" id="11" villagerId="2001">
          
+         
         <Page social="0">Cuidado com os argons! &lt;BR&gt;&lt;BR&gt;Eles podem aparecer sorrateiramente antes que você esteja pronto! Fique atento.</Page>
+    
     
     </Text>
     <Text huntingZoneId="418" id="12" prevId="10" villagerId="2001">
          
+         
         <Page social="4">Como dizem meus amigos castanhos, você não tem nada de ruim! &lt;BR&gt;&lt;BR&gt;Fico feliz em ver que temos alguém que realmente sabe lutar. Bom trabalho nas catacumbas, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
     <Text huntingZoneId="418" id="13" villagerId="2001">
          
+         
         <Page social="0">Cuidado com os argons! &lt;BR&gt;&lt;BR&gt;Eles podem aparecer sorrateiramente antes que você esteja pronto! Fique atento.</Page>
+    
     
     </Text>
     <Text huntingZoneId="418" id="14" prevId="12" villagerId="2001">
          
+         
         <Page social="4">Como dizem meus amigos castanhos, você não tem nada de ruim! &lt;BR&gt;&lt;BR&gt;Fico feliz em ver que temos alguém que realmente sabe lutar. Bom trabalho nas catacumbas, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
     <Text huntingZoneId="418" id="15" villagerId="2001">
          
+         
         <Page social="0">Cuidado com os argons! &lt;BR&gt;&lt;BR&gt;Eles podem aparecer sorrateiramente antes que você esteja pronto! Fique atento.</Page>
+    
     
     </Text>
 </QuestDialog>

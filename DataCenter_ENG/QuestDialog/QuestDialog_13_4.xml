@@ -1,34 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="4" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="213" id="100" prevId="0" villagerId="1014">
-         
-        <Page social="0">The search for Elleon has begun! Legate Lam introduced you to some other survivors of the first landing and the force commander, Adria. Along the way, you learned some uneasy truths about what really happened and a few sage words of advice.&lt;BR&gt;&lt;BR&gt;Adria welcomed you but warned that the mission was vital—and treacherous. The expeditionary force is not alone on the Island of Dawn...</Page>
-    
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1014">
+        <Page social="0">After arriving at the Island of Dawn as a raw recruit, Legate Lam asked you to check in with the remaining commanders on your way to the Tower Base.&lt;BR&gt;&lt;BR&gt;On the way to Dulari's camp, you had your first encounter with the animate tree spirits called ghilliedhus.</Page>
     </Text>
-    <Text huntingZoneId="213" id="2" prevId="0" villagerId="1014">
-         
-        <Page social="4">Well, first we need to see who's even still here. That's something you can do. Axelle and I are waiting for our ride out of here, but Adria is trying to get that list together.&lt;BR&gt;&lt;BR&gt;Take a quick headcount on the way down to her.&lt;BR&gt;&lt;BR&gt;I haven't seen &lt;font color='#660000'&gt;Elleon&lt;/font&gt; for a while, come to think of it. Make sure you check in with him, too.</Page>
-    
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1014">
+        <Page social="4">Axelle and I are due to rotate home soon, but Adria still insists that we report in on a regular basis. So congratulations, your first orders are as follows:&lt;BR&gt;&lt;BR&gt;Take a quick headcount on the way to the Tower Base, and tell Tribune Adria we're all fine.&lt;BR&gt;&lt;BR&gt;Although, I haven't seen &lt;font color='#660000'&gt;Elleon&lt;/font&gt; in some time, so if you see an elf with a bad attitude and a long, black scarf, tell him he's overdue for a check-in.</Page>
     </Text>
-    <Text huntingZoneId="213" id="3" prevId="2" villagerId="1003">
-         
-        <Page social="4">A headcount of who's still here? You know, I resent that. I should hardly have to be accountable to some new recruit sent in for cleanup.&lt;BR&gt;&lt;BR&gt;Oh well. I suppose it isn't your fault. Anyway, yes, add "Kishale" to that list of yours. Present and accounted for.&lt;BR&gt;&lt;BR&gt;Hey, when you get to Elleon, can you remind him about those crystals he borrowed "for just a minute"? I think he and I measure time differently.</Page>
-    
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1003">
+        <Page social="4">A new recruit? How puzzling.&lt;BR&gt;&lt;BR&gt;You are welcome here, of course. This checkpoint's mission is to protect the dock from the local wildlife. Specifically &lt;font color='#660000'&gt;ghilliedhus&lt;/font&gt;, but we stand against all threats.&lt;BR&gt;&lt;BR&gt;Travel along this road to Dulari's Camp, and dispatch a few {@linkcreature:13#300931#ghilliedhus} along the way.&lt;BR&gt;&lt;BR&gt;Take care, though. Many new recruits have fallen to their sharp claws.</Page>
     </Text>
-    <Text huntingZoneId="213" id="4" prevId="3" villagerId="1017">
-         
-        <Page social="4">Yes, I'm still here. My orders are to stay here until we get the last of these ghilliedhus cleaned up.&lt;BR&gt;&lt;BR&gt;Hey, when you run into Elleon, can you see if he'll swing by and help me?</Page>
-    
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1017">
+        <Page social="4">Hmm, those claws. You've been hunting ghilliedhus, haven't you?&lt;BR&gt;&lt;BR&gt;Elleon said something about cleaning them up at the source, but I haven't seen him for a while.&lt;BR&gt;&lt;BR&gt;Well done, recruit!</Page>
     </Text>
-    <Text huntingZoneId="213" id="5" prevId="4" villagerId="1004">
-         
-        <Page social="4">Yes, yes...I'm still here. I swear, this is the third time someone's been by counting us up. Where does she think we'll go?&lt;BR&gt;&lt;BR&gt;Anyway, there actually is a bit more to clean up here on the island, so I'm glad you're here. Adria's up at the Tower Base. I'm sure she's waiting for you.&lt;BR&gt;&lt;BR&gt;By the way, have you seen Elleon?</Page>
-    
-    </Text>
-    <Text huntingZoneId="64" id="6" prevId="5" villagerId="1001">
-         
-        <Page social="4">Oh good. Thank you for taking this headcount. I can't tell you how it....&lt;BR&gt;&lt;BR&gt;Wait, I think you forgot to put Elleon's name on this list. Didn't you see him? That's...he can't have disappeared again!&lt;BR&gt;&lt;BR&gt;You know what, speak to Jorhon. He's got some things that need handling. I'll look into this in the meantime.</Page>
-    
+    <Text id="5" huntingZoneId="213" villagerId="1017">
+        <Page social="0" />
     </Text>
 </QuestDialog>

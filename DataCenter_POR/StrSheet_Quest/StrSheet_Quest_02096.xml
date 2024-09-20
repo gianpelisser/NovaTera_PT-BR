@@ -1,14 +1,23 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="60207001" string="Atacar primeiro, atacar com força" />
-    <String id="60207002" string="Vá até {@Rgn:48003$$Peril Cavern} e esmague os argonss!" />
-    <String id="60207003" string="Excelente! Precisamos de mais lutadores como você!" />
-    <String id="60207004" string="" />
-    <String id="60207005" string="" />
-    <String id="60207006" string="Apresente-se a {@LinkCreature:248#3010#Orveras} em {@Rgn:48003$$Peril Cavern}." />
-    <String id="60207007" string="&quot;Como ordenado.&quot;" />
-    <String id="60207008" string="Mate {@LinkCreature:48#6#vulnaq threshers} no {@Rgn:48007$$Argon Bulwark}." />
-    <String id="60207009" string="Destrua os transportadores de {@LinkCreature:48#400#zolnaj} em {@Rgn:48005$$Valgurati Stronghold}." />
-    <String id="60207010" string="&quot;Vitória para Valkyon!&quot;" />
-    <String id="60207011" string="Informe a {@LinkCreature:248#3010#Orveras}." />
+    <String id="60205001" string="Distintivo de honra" />
+    <String id="60205002" string="Todos os Shariar têm um crachá. Você também deveria." />
+    <String id="60205003" string="Agora você parece um membro adequado dos Shariar." />
+    <String id="60205004" string="" />
+    <String id="60205005" string="" />
+    <String id="60205006" string="" />
+    <String id="60205007" string="Fale com {@LinkCreature:248#3001#Naveld} em {@Rgn:48002$$Khanovar Citadel}." />
+    <String id="60205008" string="&quot;Estou cuidando disso.&quot;" />
+    <String id="60205009" string="Cristal de Mana" />
+    <String id="60205010" string="Mate {@LinkCreature:48#7#zariik dazzlers} ao redor de {@Rgn:48006$$Carnage Vale} e colete seus cristais de mana." />
+    <String id="60205011" string="Entregue os cristais de mana para {@LinkCreature:248#3001#Naveld} em {@Rgn:48002$$Khanovar Citadel}." />
+    <String id="60205012" string="&quot;Sinto-me honrado.&quot;" />
+    <String id="60205013" string="Núcleo de argons" />
+    <String id="60205014" string="Mate {@LinkCreature:48#5#hulrap bashers} ao redor de {@Rgn:48006$$Carnage Vale} e colete seus núcleos." />
+    <String id="60205015" string="Entregue os núcleos de argons para {@LinkCreature:248#3001#Naveld} em {@Rgn:48002$$Khanovar Citadel}." />
+    <String id="60205016" string="&quot;Sinto-me honrado.&quot;" />
+    <String id="60205017" string="Cyasma" />
+    <String id="60205018" string="Mate {@LinkCreature:48#13#syndrene dragoons} ao redor de {@Rgn:48006$$Carnage Vale} e colete seu cyasma." />
+    <String id="60205019" string="Entregue o cyasma para {@LinkCreature:248#3001#Naveld} em {@Rgn:48002$$Khanovar Citadel}." />
+    <String id="60205020" string="&quot;Sinto-me honrado." />
 </StrSheet_Quest>

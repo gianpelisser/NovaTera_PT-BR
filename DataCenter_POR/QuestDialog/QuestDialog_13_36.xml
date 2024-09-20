@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="36" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="13" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="213" id="100" prevId="0" villagerId="1007">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="213" id="2" prevId="0" villagerId="1007">
          
+         
         <Page social="4">Tudo ao seu redor é o resultado de uma situação inevitável. Os orcs que tentaram roubar suprimentos causaram a queda do dirigível e até hoje trocam nossas caixas entre si.&lt;BR&gt;&lt;BR&gt;É imperativo que essas caixas sejam recuperadas. Se você quiser ajudar, junte pelo menos quatro e traga-as para cá.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="3" prevId="2" villagerId="1007">
          
+         
         <Page social="4">Havia a esperança de que uma caixa em particular estivesse entre as que você encontrou - uma contendo artefatos solicitados por &lt;b&gt;Sersine&lt;/b&gt;. Seus esforços são apreciados, é claro.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="4" villagerId="1007">
          
+         
         <Page social="0">O Desfiladeiro contaminado espera por esses suprimentos. Um tanto impaciente, verdade seja dita.&lt;BR&gt;&lt;BR&gt;Não se sinta pressionado. Toda a raiva é dirigida a Chione, embora injustificada.</Page>
+    
     
     </Text>
 </QuestDialog>

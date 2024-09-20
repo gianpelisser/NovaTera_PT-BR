@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="489" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="489" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="225" id="100" prevId="0" villagerId="1019">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="225" id="2" prevId="0" villagerId="1019">
          
+         
         <Page social="4">Ksharans... por que sempre tem que ser ksharans? E como é que se pronuncia? &lt;BR&gt;&lt;BR&gt;Não importa. O que importa é o seguinte: seus mercenários berserkers têm um &lt;b&gt;núcleo de escuridão&lt;/b&gt; onde todos nós temos um coração. Tragam-me eles.&lt;BR&gt;&lt;BR&gt;Minha ex-esposa era insensível. Será que ela era realmente uma ksharan?</Page>
+    
     
     </Text>
     <Text huntingZoneId="225" id="3" prevId="2" villagerId="1019">
          
+         
         <Page social="4">Ótimo, &lt;PCNAME&gt;. Acho que tenho um uso inteligente para eles.</Page>
+    
     
     </Text>
     <Text huntingZoneId="225" id="4" villagerId="1019">
          
+         
         <Page social="0">Também não gosto de lutar contra os ksharans. Seus estranhos agrupamentos de consoantes me incomodam.</Page>
+    
     
     </Text>
 </QuestDialog>

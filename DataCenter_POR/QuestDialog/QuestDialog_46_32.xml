@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="46" id="32" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="46" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="246" id="100" prevId="0" villagerId="1036">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="246" id="2" prevId="0" villagerId="1036">
          
+         
         <Page social="4">Cada andar do Raga Evala parece ter sido usado para pesquisa botânica avançada, evolução de plantas, metabolismo energético, esse tipo de coisa.&lt;BR&gt;&lt;BR&gt;Não cobriram isso em seu treinamento militar? Não é de se surpreender.&lt;BR&gt;&lt;BR&gt;Acredito que os argons estavam tentando transformar as plantas em energia pura. Eles as cultivavam em todos esses tanques de água. Obtenha algumas amostras, mas não evolua para energia pura você mesmo!</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="3" prevId="2" villagerId="1036">
          
+         
         <Page social="4">Eles estão mais adiantados do que pensávamos. O diretor deveria saber disso.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="4" villagerId="1036">
          
+         
         <Page social="0">Por favor, destrua os extratores de {@Creature:46#7004$$aquaas} nas salas ao redor e colete amostras.&lt;BR&gt;&lt;BR&gt;Quero saber se as plantas podem realmente evoluir para energia pura.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="5" prevId="3" villagerId="1103">
          
+         
         <Page social="4">Evidências de que as plantas podem se auto-sintetizar? Isso significaria energia ilimitada para os argonss...</Page>
+    
     
     </Text>
 </QuestDialog>

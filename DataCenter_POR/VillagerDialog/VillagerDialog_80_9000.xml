@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="80" id="9000" voiceTypeId="167">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="9000" huntingZoneId="80" voiceTypeId="167">
     <Text id="1" endSocial="14">
          
+         
         <Page social="4">Yep yep! You trade me Federation Bills, I trade you lots of cool stuff...really cool stuff...really really cool stuff you can't get anywhere else!</Page>
+    
     
     </Text>
 </VillagerDialog>

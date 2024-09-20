@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4729001" string="Rage On" />
-    <String id="4729002" string="Limpe essa base para nós." />
-    <String id="4729003" string="Vou me certificar de relatar o fato. Muito obrigado." />
-    <String id="4729004" string="Mate {@creature:47#3002#argononomorph wendigos} perto do {@Rgn:47012$$Argon Shield Emitter}." />
-    <String id="4729005" string="&quot;Fico feliz em ajudar.&quot;" />
-    <String id="4729006" string="Informe a {@creature:247#1020$$Lecias} na {@Rgn:47007$$$Blightroar Research Station}." />
+    <String id="4725001" string="Cogumelos venenosos" />
+    <String id="4725002" string="Mate os {@Creature:47#1003#argon mugatos} que interrompem nosso trabalho e junte-se a nós para remover os cogumelos petrificados." />
+    <String id="4725003" string="Elas explodem muito bem, não é mesmo?" />
+    <String id="4725004" string="Ao matar {@creature:47#1003#argon mugatos} na {@Rgn:47003$$Bridgehead}, use bombas ou armas para quebrar {@creature:47#7004#spore emitters}." />
+    <String id="4725005" string="Obrigado." />
+    <String id="4725006" string="Vá para {@Rgn:47008$$Eastwatch} e se apresente a {@creature:247#1018$$Lenon Timbus}." />
 </StrSheet_Quest>

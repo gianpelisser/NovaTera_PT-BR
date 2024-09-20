@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="38" id="35" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="38" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="238" id="100" prevId="0" villagerId="1031">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="238" id="2" prevId="0" villagerId="1031">
          
+         
         <Page social="5">Minhas ordens dizem Thunder Hold. Há muito trabalho importante a ser feito, relíquias gigantescas espalhadas por aí, pesquisa suficiente para manter um arqueólogo feliz por toda a vida.&lt;BR&gt;&lt;BR&gt;Eu sei - isto não é a Fortaleza do Trovão. Os príons nos expulsaram e agora estou preso aqui.&lt;BR&gt;&lt;BR&gt;As relíquias ainda estão lá, é claro. Talvez você esteja disposto a coletar algumas para mim?</Page>
+    
     
     </Text>
     <Text huntingZoneId="238" id="3" prevId="2" villagerId="1031">
          
+         
         <Page social="6">Obrigado, &lt;PCNAME&gt;. Talvez esta postagem não seja uma perda total.</Page>
+    
     
     </Text>
     <Text huntingZoneId="238" id="4" villagerId="1031">
          
+         
         <Page social="0">Lamento que tenha vindo de Thunder Hold, mas precisarei de mais do que isso.</Page>
+    
     
     </Text>
 </QuestDialog>

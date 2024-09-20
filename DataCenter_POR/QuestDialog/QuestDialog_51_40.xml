@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="51" id="40" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="51" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="251" id="100" prevId="0" villagerId="1001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="251" id="2" prevId="0" villagerId="1001">
          
+         
         <Page social="4">Miseráveis wendigos! Encomendei vários barris de vinho fortificado de prata da Allemantheian, um dos favoritos dos soldados daqui - foi preciso negociar bastante com os cavalos. Ontem à noite, os wendigos invadiram nosso depósito de suprimentos. O que você acha que eles levaram? &lt;BR&gt;&lt;BR&gt;Esse vinho é para os meus homens, e pretendo que eles o apreciem.&lt;BR&gt;&lt;BR&gt;Caça através do Uivo do Wendigo e recupere esses barris. Eu o compensarei pessoalmente pelo seu tempo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="251" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="4">Muito bem! &lt;BR&gt;&lt;BR&gt;Você encontrou tudo o que havia para encontrar, eu espero. Tenho certeza de que os wendigos beberam o resto.&lt;BR&gt;&lt;BR&gt;Em todo caso, obrigado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="251" id="4" villagerId="1001">
          
+         
         <Page social="0">Encontre os barris de vinho. Se você matar alguns wendigos no processo, melhor ainda!</Page>
+    
     
     </Text>
 </QuestDialog>

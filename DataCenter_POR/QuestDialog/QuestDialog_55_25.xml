@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="55" id="25" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="55" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="255" id="100" prevId="0" villagerId="1019">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="255" id="2" prevId="0" villagerId="1019">
          
+         
         <Page social="4">As fadas costumavam guardar o Cajado de Isren. Desde que os argonss e as tropas de Thulsa chegaram, as fadas se voltaram contra nós.&lt;BR&gt;&lt;BR&gt;Os unicórnios e seus lacaios urisk vasculham a Floresta Darkquaver, atacando viajantes e soldados. Isso não é normal para unicórnios.&lt;BR&gt;&lt;BR&gt;Preciso que você descubra por que eles estão agindo dessa forma.</Page>
+    
     
     </Text>
     <Text huntingZoneId="255" id="3" prevId="2" villagerId="1019">
          
+         
         <Page social="4">Esses fragmentos são estranhos. Eles emanam energia de argons, mas não há muitos argonss na Floresta Darkquaver.&lt;BR&gt;&lt;BR&gt;Essas pedras estão influenciando as raças feéricas? Preciso informar isso imediatamente.</Page>
+    
     
     </Text>
     <Text huntingZoneId="255" id="4" villagerId="1019">
          
+         
         <Page social="0">Os Urisks são numerosos, mas não são particularmente duráveis. Os unicórnios, entretanto, são inimigos perigosos. Seja cauteloso e você sobreviverá.</Page>
+    
     
     </Text>
 </QuestDialog>

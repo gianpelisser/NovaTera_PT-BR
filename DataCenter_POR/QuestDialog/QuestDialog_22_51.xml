@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="22" id="51" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="51" huntingZoneId="22" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="222" id="100" prevId="0" villagerId="8001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="222" id="2" prevId="0" villagerId="8001">
          
+         
         <Page social="4">Ok, talvez eu tenha sido um pouco... desdenhoso... com relação ao enorme monstro da abóbora. Desculpe-me por isso.&lt;BR&gt;&lt;BR&gt;Mas acabei de descobrir a origem dos ataques: Gourdo.&lt;BR&gt;&lt;BR&gt;Na maior parte do ano, ele é um espírito inofensivo. Mas, na época da colheita, ele cresce em poder - e sempre teve um talento especial para invocações. Ele nos enterrará sob seus servos.&lt;BR&gt;&lt;BR&gt;Precisamos acalmar Gourdo de alguma forma. Você sabe... aplacar o espírito furioso, como em qualquer história de fantasmas. Você sabe como aplacar um espírito? &lt;NEXTPAGEBUTTON&gt;"Sou melhor lutando do que aplacando."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">A esta altura, aceitarei toda a ajuda que puder obter. Mantenham todos os convidados (não convidados) fora do salão de festas.&lt;BR&gt;&lt;BR&gt;Se vocês virem Gourdo, dispersem-no. Se você fizer isso, ele será o problema do ano que vem.&lt;BR&gt;&lt;BR&gt;Uma última coisa. Leve isto - é uma coisinha para mais tarde.</Page>
+    
     
     </Text>
     <Text huntingZoneId="222" id="3" prevId="2" villagerId="8001">
          
+         
         <Page social="5">Estou contratando-o para ser o segurança de todas as nossas festas, &lt;PCNAME&gt;. Bem, não temos muitas festas. Muito estudo, tarefas, estudo, tarefas... mas, mesmo assim, você é bom em manter a ralé do lado de fora.&lt;BR&gt;&lt;BR&gt;Como é Halloween, você merece um presente! Pegue isso e fique à vontade para aproveitar a festa!</Page>
+    
     
     </Text>
     <Text huntingZoneId="222" id="4" villagerId="8001">
          
+         
         <Page social="0">Mantenham os tuwangis longe dos doces! &lt;BR&gt;&lt;BR&gt;E se virem o Gourdo, expulsem-no. Com certeza não o convidamos para a festa.</Page>
+    
     
     </Text>
 </QuestDialog>

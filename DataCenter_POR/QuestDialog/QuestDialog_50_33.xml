@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="50" id="33" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="50" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="250" id="100" prevId="0" villagerId="1008">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="250" id="2" prevId="0" villagerId="1008">
          
+         
         <Page social="4">A pesquisa de Linkia mencionou essa rainha de argons - Shandra Manaya. Obviamente, ela seria um alvo muito bom a ser atingido.&lt;BR&gt;&lt;BR&gt;Para isso, estou enviando você para ajudar {@LinkCreature:250#1003}. Se conseguirmos descobrir a localização da rainha, nós a mataremos. Ou morreremos tentando.</Page>
+    
     
     </Text>
     <Text huntingZoneId="250" id="3" prevId="2" villagerId="1003">
          
+         
         <Page social="6">Não estou prometendo nada, mas a segurança por aqui é bastante rígida. Com rainha ou sem rainha, os argons não querem que ninguém atrapalhe a festa.&lt;BR&gt;&lt;BR&gt;Se você puder matar Dulixan e seus observadores prismáticos flutuantes, eu estudarei a entrada para Medhvan.</Page>
+    
     
     </Text>
     <Text huntingZoneId="250" id="4" prevId="3" villagerId="1008">
          
+         
         <Page social="6">Excelente! Nossa! Meu sangue ferve só de pensar em colocar minhas garras na garganta daquele infeliz! &lt;BR&gt;&lt;BR&gt;Eu vou levar essa informação para Kaiator imediatamente. Bom trabalho, soldado!</Page>
+    
     
     </Text>
 </QuestDialog>

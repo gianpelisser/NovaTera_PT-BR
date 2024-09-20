@@ -1,49 +1,67 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="191" id="7" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="191" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="191" id="100" prevId="0" villagerId="2142">
          
+         
         <Page social="0">Rhodos ordenou que as tropas avançassem até Trellum Consurgo, mas os canhões de cerco dos arquidevanos precisam ser destruídos primeiro. Você consertou uma arma de cerco e atirou nela, mas suas armas não conseguiram alcançar os canhões mais altos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="191" id="2" prevId="0" villagerId="2142">
          
+         
         <Page social="4">Malditos sejam os arquidevas! &lt;BR&gt;&lt;BR&gt;Com certeza deve haver uma maneira de salvar os partas. Se não houver, vamos nos debruçar sobre nosso próprio sangue para derrotar nossos inimigos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="191" id="3" prevId="2" villagerId="2110">
          
+         
         <Page social="4">É verdade! &lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, certamente seu povo mágico é tão forte quanto os arquidevas. Será que eles não conseguem pensar em uma maneira de desfazer sua magia?</Page>
+    
     
     </Text>
     <Text huntingZoneId="191" id="4" prevId="3" villagerId="2141">
          
+         
         <Page social="4">Lamentavelmente, o processo de transfiguração é irreversível. Podemos encontrar um meio de impedir a mudança ou de bloquear a consagração, mas não podemos salvar aqueles que caíram.</Page>
+    
     
     </Text>
     <Text huntingZoneId="191" id="5" prevId="4" villagerId="2110">
          
+         
         <Page social="4">Se não pudermos salvá-los, então devemos vingá-los.&lt;BR&gt;&lt;BR&gt;Venha, &lt;PCNAME&gt;! Escolha um canhão de cerco e o escolte até a Expansão Infernal.&lt;BR&gt;&lt;BR&gt;Vamos assaltar a fortaleza!</Page>
+    
     
     </Text>
     <Text huntingZoneId="191" id="6" villagerId="7">
          
+         
         <Page social="0">(Uma arma de cerco robusta, que ronca enquanto aguarda um operador).</Page>
+    
     
     </Text>
     <Text huntingZoneId="191" id="7" prevId="5" villagerId="2138">
          
+         
         <Page social="4">Antes de invadirmos a fortaleza, precisamos derrubar seus canhões de cerco.&lt;BR&gt;&lt;BR&gt;Repare um deles, monte-o e abra fogo. Mas mire bem alto. O desfiladeiro é mais largo do que parece.</Page>
+    
     
     </Text>
     <Text huntingZoneId="191" id="8" prevId="7" villagerId="1601">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="191" id="9" prevId="8" villagerId="2138">
          
+         
         <Page social="4">Infelizmente, não podemos acertar suas armas no topo da muralha.&lt;BR&gt;&lt;BR&gt;Relacione-se com Rhodos. Ele terá que tomar a decisão sobre esse problema.</Page>
+    
     
     </Text>
 </QuestDialog>

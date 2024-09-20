@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="122" id="5" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="122" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="122" id="100" prevId="0" villagerId="220020">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="122" id="2" prevId="0" villagerId="220020">
          
+         
         <Page social="1">A União Iluminada notou uma mudança acentuada na assinatura energética de áreas com grandes concentrações de noctênio. Isso produziu um efeito colateral inesperado.&lt;BR&gt;&lt;BR&gt;Ao utilizar essa energia, parece que podemos fabricar armas mais poderosas.&lt;BR&gt;&lt;BR&gt;Meu amigo, por favor, procure fluxos de noctênio e colete pelo menos três amostras da energia do noctênio arúnico.</Page>
+    
     
     </Text>
     <Text huntingZoneId="122" id="3" prevId="2" villagerId="220020">
          
+         
         <Page social="0">Essa energia é perfeita para nossos objetivos. Os pesquisadores do sindicato ficarão muito satisfeitos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="122" id="4" villagerId="220020">
          
+         
         <Page social="0">Para a melhoria do sindicato!</Page>
+    
     
     </Text>
 </QuestDialog>

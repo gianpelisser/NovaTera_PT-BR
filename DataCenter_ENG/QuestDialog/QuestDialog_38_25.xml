@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="38" id="25" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="238" id="100" prevId="0" villagerId="1017">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="238" prevId="0" villagerId="1017">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="238" id="2" prevId="0" villagerId="1017">
-         
+    <Text id="2" huntingZoneId="238" prevId="0" villagerId="1017">
         <Page social="5">Craterview Outpost needs lumber to fortify their palisade. There's no lumber to be had from Elenea, and Fanise says we can't cut these trees. "Delicate ecology," and all that.&lt;BR&gt;&lt;BR&gt;So here's my plan. You've seen those great arbosks to the southwest, have you not? I couldn't defeat one, but there's a lot of lumber walking around out there, &lt;PCNAME&gt;, if you're willing to help me out.&lt;BR&gt;&lt;BR&gt;Oh, and watch out for the imps!</Page>
-    
     </Text>
-    <Text huntingZoneId="238" id="3" prevId="2" villagerId="1008">
-         
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1008">
         <Page social="5">This lumber's going to build better defenses, now that we may have to defend against Killian. Not that we could, probably...</Page>
-    
     </Text>
-    <Text huntingZoneId="238" id="4" villagerId="1008">
-         
+    <Text id="4" huntingZoneId="238" villagerId="1008">
         <Page social="0">It's going to take more lumber than this to build up our palisade.</Page>
-    
     </Text>
 </QuestDialog>

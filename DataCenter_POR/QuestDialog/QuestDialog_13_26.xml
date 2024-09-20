@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="26" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="13" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="64" id="100" prevId="0" villagerId="1023">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="64" id="2" prevId="0" villagerId="1023">
          
+         
         <Page social="4">Os pesquisadores insistem que Jirash interrompa os ataques de {@LinkCreature:13#2#sporewalkers} em seus suprimentos. Adria ordena que todos os sentinelas permaneçam em seus postos.&lt;BR&gt;&lt;BR&gt;Aqueles que não são pesquisadores nem sentinelas ainda podem ajudar. Os espíritos buscam cristais de mana, que foram tomados de outros espíritos.&lt;BR&gt;&lt;BR&gt;Recuperem o maior número possível de cristais e tragam-nos para cá.</Page>
+    
     
     </Text>
     <Text huntingZoneId="64" id="3" prevId="2" villagerId="1023">
          
+         
         <Page social="4">Exatamente o que eles queriam. Pesquisadores e sentinelas comemoram! Talvez agora Jirash possa se juntar à verdadeira luta - onde quer que você esteja indo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="64" id="4" villagerId="1023">
          
+         
         <Page social="0">Os {@LinkCreature:13#2#sporewalkers} estão logo abaixo. Cuidado com seus braços. Eles giram, batem e desferem golpes pesados nos incautos. Talvez o recruta já saiba disso, uma vez que ainda não há cristais de mana para devolver.&lt;BR&gt;&lt;BR&gt;Procure-os e traga-os de volta. Retornar antes disso é inútil.</Page>
+    
     
     </Text>
 </QuestDialog>

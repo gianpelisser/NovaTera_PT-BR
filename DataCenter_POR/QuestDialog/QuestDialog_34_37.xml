@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="34" id="37" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="34" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="234" id="100" prevId="0" villagerId="1004">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="234" id="2" prevId="0" villagerId="1004">
          
+         
         <Page social="4">Aqueles terríveis {@LinkCreature:34#1010#gigantes do gelo} atacaram uma equipe de mineração e fugiram com seus fragmentos eldritch.&lt;BR&gt;&lt;BR&gt;Não sei o que os gigantes fariam com os fragmentos, mas nós os queremos de volta.&lt;BR&gt;&lt;BR&gt;Os fragmentos, é claro. Os gigantes, nem tanto.</Page>
+    
     
     </Text>
     <Text huntingZoneId="234" id="3" prevId="2" villagerId="1004">
          
+         
         <Page social="4">Com essa remessa de fragmentos devolvida em segurança, podemos retirar esse carregamento e pagar pelo reabastecimento.&lt;BR&gt;&lt;BR&gt;Os gigantes não são horríveis? Difícil imaginar que os baraka civilizados sejam sequer remotamente aparentados.&lt;BR&gt;&lt;BR&gt;Bem, obrigado!</Page>
+    
     
     </Text>
     <Text huntingZoneId="234" id="4" villagerId="1004">
          
+         
         <Page social="0">Oh, eles estão por perto. Vasculhe a Geleira Uivante e o Campo de Neve Gritante.</Page>
+    
     
     </Text>
 </QuestDialog>

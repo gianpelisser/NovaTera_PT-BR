@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="56" id="23" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="56" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="256" id="100" prevId="0" villagerId="1006">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="256" id="2" prevId="0" villagerId="1006">
          
+         
         <Page social="4">Mekonaris, devas, mortos-vivos e agora kulkaris? Chega! &lt;BR&gt;&lt;BR&gt;Essa tribo de Bleakrock é apenas um capanga de quem está no comando. Tenho certeza de que eles estão aqui em troca de pilhagem, mas quero que sejam detidos.&lt;BR&gt;&lt;BR&gt;Vá até o leste e mate todos os xamãs preciosos que puder. Não sangrem o nariz deles - quebrem-no!</Page>
+    
     
     </Text>
     <Text huntingZoneId="256" id="3" prevId="2" villagerId="1006">
          
+         
         <Page social="4">Excelente trabalho! Entreguem seus cajados a Keallach. A perda deles é o nosso ganho!</Page>
+    
     
     </Text>
     <Text huntingZoneId="256" id="4" villagerId="1006">
          
+         
         <Page social="0">Os xamãs são líderes kulkari. Mate uma dúzia ou mais e esses valentões voltarão correndo para debaixo de suas pedras!</Page>
+    
     
     </Text>
     <Text huntingZoneId="256" id="5" prevId="3" villagerId="1023">
          
+         
         <Page social="4">Oh, eles são poderosos! Hmm, sim! Podemos usá-los. Meus agradecimentos, &lt;PCCLASS:lcase&gt;.</Page>
+    
     
     </Text>
 </QuestDialog>

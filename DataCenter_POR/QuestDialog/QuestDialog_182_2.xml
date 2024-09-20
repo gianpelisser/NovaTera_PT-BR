@@ -1,47 +1,65 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="182" id="2" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="182" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0">Perseguiu a feiticeira arquidevana para evitar que os detalhes dos aliados chegassem aos arquidevais, e a feiticeira se matou para não dar nenhuma informação a &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="1">Encontre Zolyn, que saiu correndo para encontrar o Feiticeiro Arcdeva.&lt;NEXTPAGEBUTTON&gt;"Eu vou."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="182" id="3" prevId="2" villagerId="2010">
          
+         
         <Page social="1">Alguém deve ter visto para onde foi o Feiticeiro Arcdeva.&lt;NEXTPAGEBUTTON&gt;"Claro."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="182" id="4" prevId="3" villagerId="2031">
          
+         
         <Page social="1">Archdeva? Eu a vi. Foi para a extremidade oeste do acampamento.&lt;NEXTPAGEBUTTON&gt;"Obrigado."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="182" id="5" prevId="4" villagerId="2043">
          
+         
         <Page social="1">Archdeva? Skyshrine. Suba a rampa. &lt;NEXTPAGEBUTTON&gt;"Obrigado."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="182" id="6" prevId="5" villagerId="2005">
          
+         
         <Page social="1">Você certamente fez um trabalho rápido com aquele demokron que deixei para você...&lt;BR&gt;&lt;BR&gt;Quem são vocês, forasteiros? E por que vieram a esta terra? &lt;NEXTPAGEBUTTON&gt;"Rendam-se!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="1">Render-se? Com nossa vitória tão próxima? &lt;NEXTPAGEBUTTON&gt;"O que você quer dizer com isso?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Não. Você realmente não sabe, não é? E nunca saberá! &lt;BR&gt;&lt;BR&gt;Nós, arquidevas, dedicamos nossas vidas a serviço de Lakan. Ainda assim, talvez você consiga me torturar para obter informações... e isso não pode acontecer, não é mesmo? &lt;NEXTPAGEBUTTON&gt;"Revele sua trama e eu pouparei sua vida."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="182" id="7" prevId="6" villagerId="2006">
          
+         
         <Page social="1">Você encontrou a feiticeira? O que ela disse? &lt;NEXTPAGEBUTTON&gt;"Ela preferiu... não falar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="1">Suponho que a boa notícia é que ela não teve tempo de enviar uma mensagem aos seus mestres. Mas eles saberão que algo aconteceu quando os relatórios dela pararem de chegar.&lt;BR&gt;&lt;BR&gt;Ela lhe deu alguma pista de há quanto tempo estava espionando o acampamento khiriano? &lt;NEXTPAGEBUTTON&gt;"Ela mencionou uma vitória iminente..."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Isso pode ter sido apenas bravata, ou...&lt;BR&gt;&lt;BR&gt;Você e Rhodos deveriam comparar suas anotações. Se alguém sabe o que os arquidevas estão tramando aqui, esse alguém é ele.&lt;NEXTPAGEBUTTON&gt;"Sim, eu sei."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
 </QuestDialog>

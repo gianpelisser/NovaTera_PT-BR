@@ -1,84 +1,116 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="605" id="14" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="605" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="63" id="100" prevId="0" villagerId="3002">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="2" prevId="0" villagerId="3002">
          
+         
         <Page social="4">Uma pergunta para você, &lt;PCNAME&gt;. Você acha que doeria mais ser eviscerado ou ter os dedos de sua mão esquerda cortados um a um? Claro, o primeiro provavelmente o mataria, mas veja, é por isso que acho que doeria menos.&lt;BR&gt;&lt;BR&gt;Por que a mão esquerda? Achei que isso seria óbvio - ele é canhoto. &lt;BR&gt;&lt;BR&gt;Você vai perguntar a {@LinkCreature:63#3003#Elthienne} o que ela acha?</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="3003">
          
+         
         <Page social="4">Ela perguntou o quê? Essa criança vai ser a minha morte. Mas acho que não é comigo que devo me preocupar no momento. O namorado dela deve ter feito algo realmente ruim dessa vez.&lt;BR&gt;&lt;BR&gt;Em outras notícias, as Mãos precisam de alguém para ir até Basilisk Crag em uma pequena viagem de caça. Interessado?</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="4" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="5" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="6" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="7" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="8" prevId="2" villagerId="3002">
          
+         
         <Page social="5">Você está de volta! Eu queria lhe dizer que decidi optar pela opção três - tortura com risadas de troncos.&lt;BR&gt;&lt;BR&gt;Eu sabia que você aprovaria.&lt;BR&gt;&lt;BR&gt;Obrigado por isso. Veja {@LinkCreature:63#3003#Elthienne} para seu pagamento.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="9" villagerId="3002">
          
+         
         <Page social="0">As Mãos precisam montar algumas armas improvisadas. Para isso, precisamos de escamas de {@LinkCreature:21#1#vicious dusky basilisk}. Elas são particularmente resistentes e afiadas.&lt;BR&gt;&lt;BR&gt;Vá até {@Rgn:21001#Basilisk Crag} e procure algumas para nós.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="10" prevId="8" villagerId="3002">
          
+         
         <Page social="5">Ooh, você pegou um pouco de sol, não pegou? {A região de Basilisk Crag é tão quente e seca. Não suporto aquele lugar.&lt;BR&gt;&lt;BR&gt;Diga a {@LinkCreature:63#3003#Elthienne} que você entregou a mercadoria.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="11" villagerId="3002">
          
+         
         <Page social="0">As Mãos precisam montar algumas armas improvisadas. Para isso, precisamos de escamas de {@LinkCreature:21#2#dusky basilisk}. Elas são resistentes e afiadas.&lt;BR&gt;&lt;BR&gt;Vá até {@Rgn:21001#Basilisk Crag} e procure algumas para nós.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="12" prevId="10" villagerId="3002">
          
+         
         <Page social="5">Já o superei totalmente.&lt;BR&gt;&lt;BR&gt;Quem? O Whatshisname, é claro! Não consigo nem dizer o nome dele, ele é tão idiota!&lt;BR&gt;&lt;BR&gt;Oh, você tem a balança. Ótimo!&lt;BR&gt;&lt;BR&gt;Fale com {@LinkCreature:63#3003#Elthienne}. E não dê ouvidos se ela disser que eu estarei "rastejando de volta" em pouco tempo. Ela não sabe nada sobre o amor.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="13" villagerId="3002">
          
+         
         <Page social="0">As Mãos precisam montar algumas armas improvisadas. Para isso, precisamos das garras de {@LinkCreature:21#3#vicious orisk}. Elas têm centímetros de espessura e são afiadas como navalhas.&lt;BR&gt;&lt;BR&gt;Vá até {@Rgn:21001#Basilisk Crag} e tenha cuidado! Não danifique as garras.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="14" prevId="12" villagerId="3002">
          
+         
         <Page social="5">O quê? Oh, oi &lt;PCNAME&gt;. Não, eu não estava chorando. Eu estou bem. &lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} terá... bem, você sabe. Apenas vá embora.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="15" villagerId="3002">
          
+         
         <Page social="0">As Mãos precisam montar algumas armas improvisadas, portanto, precisamos de garras {@LinkCreature:21#4#brutal orisk}. Elas são grossas, resistentes e afiadas. São perfeitas para a fabricação de armas.&lt;BR&gt;&lt;BR&gt;Vá até {@Rgn:21001#Basilisk Crag} e mire alto. Você não vai querer danificar essas garras.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="16" prevId="14" villagerId="3003">
          
+         
         <Page social="4">Ah, que maravilha! Vamos começar a trabalhar na montagem das armas. É incrível a quantidade de armas que usamos. Não temos dinheiro para armas sofisticadas como as suas. As nossas quebram e se desgastam, e tudo muito cedo.&lt;BR&gt;&lt;BR&gt;Acho que isso significa que estamos fazendo certo! Ou algo assim...</Page>
+    
     
     </Text>
 </QuestDialog>

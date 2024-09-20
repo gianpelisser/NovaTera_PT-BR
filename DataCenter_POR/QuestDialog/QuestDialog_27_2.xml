@@ -1,61 +1,84 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="27" id="2" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="27" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="518" id="100" prevId="0" villagerId="1001">
          
+         
         <Page social="0">As forças de Thulsa ameaçaram as torres em Essênia que a federação usa para bloquear o avanço de argons. Você foi a Essênia para restaurar os escudos mágicos que mantinham cada torre segura.&lt;BR&gt;&lt;BR&gt;Você foi a uma torre controlada pelo inimigo e deteve as forças de Thulsa, mas elas já haviam sabotado o escudo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="518" id="2" prevId="0" villagerId="1001">
          
+         
         <Page social="0">Nossas torres em Essênia eram nossa melhor defesa contra o avanço dos argons, mas as forças de Thulsa as capturaram. Quem sabe o que Thulsa planeja fazer com as torres? &lt;BR&gt;&lt;BR&gt;De acordo com o Mysterium, os escudos caíram logo antes da chegada das forças de Thulsa. Se Thulsa souber como reativar esses escudos, ele estará protegido e perderemos essas torres para sempre! &lt;BR&gt;&lt;BR&gt;Vá a Tria e fale com Raeren para receber suas ordens de marcha.</Page>
+    
     
     </Text>
     <Text huntingZoneId="70" id="3" prevId="2" villagerId="1013">
          
+         
         <Page social="4">Reforços? Esplêndido. Suponho que você não trouxe um batalhão de runicars com você? Não? É uma pena.&lt;BR&gt;&lt;BR&gt;As forças de Thulsa estão barricadas em uma fortaleza repleta de proteções místicas e arcanas.&lt;BR&gt;&lt;BR&gt;Rorise, aqui, projetou a fortaleza. Ela pode lhe dizer como tudo funciona.</Page>
+    
     
     </Text>
     <Text huntingZoneId="70" id="4" prevId="3" villagerId="1026">
          
+         
         <Page social="4">As proteções da fortaleza deveriam ser alimentadas pelo Núcleo, mas nós as desativamos. As forças de Thulsa não têm essa fonte de energia - apenas o próprio deus das trevas. Essa é sua força... e talvez sua fraqueza.&lt;BR&gt;&lt;BR&gt;Lubdock comandou os arcanistas na primeira onda. Ele está em Castra Mysterium, em Silent Hills, tentando descobrir uma maneira de passar pelo escudo para nossas tropas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="227" id="5" prevId="4" villagerId="1027">
          
+         
         <Page social="4">Se Thulsa estiver alimentando os escudos da fortaleza, eles estarão procurando uma maneira de ativar os escudos do Núcleo. Se isso acontecer, os infiltrados que eu enviei morrerão.&lt;BR&gt;&lt;BR&gt;Se você chegar à Estação de Libertação rápido o suficiente, Velnen poderá deter os infiltrados antes que eles cheguem à fortaleza.&lt;BR&gt;&lt;BR&gt;Tenha cuidado - a rota entre aqui e o Vale da Serenidade está repleta de {@LinkCreature:27#2#ancient bladegolems}.</Page>
+    
     
     </Text>
     <Text huntingZoneId="227" id="6" prevId="5" villagerId="1008">
          
+         
         <Page social="4">Teríamos prazer em detê-los, mas eles já partiram. Sem dúvida, já estão na metade do caminho para a fortaleza.&lt;BR&gt;&lt;BR&gt;Não queremos que eles morram por causa de um erro de comunicação. Se você conseguir abrir caminho através dos {@LinkCreature:27#3#ancient speargolems} para chegar à equipe, poderá salvá-los!</Page>
+    
     
     </Text>
     <Text huntingZoneId="227" id="7" prevId="6" villagerId="1023">
          
+         
         <Page social="5">Prevenido é prevenido, e ainda temos um trabalho a fazer. Ainda podemos impedir que Thulsa controle o ponto crucial do núcleo.&lt;BR&gt;&lt;BR&gt;Minha equipe lançará um ataque de diversão. Você entra sorrateiramente no canto nordeste da fortaleza e encontra o ponto crucial do Núcleo.&lt;NEXTPAGEBUTTON&gt;"Onde posso encontrá-lo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">O ponto crucial do Núcleo está dentro de uma grande {@LinkCreature:227#1028#pedra de proteção}. Ative-a e desbloqueie o núcleo. Se tivermos isso, enfraqueceremos consideravelmente as defesas deles e aumentaremos nosso próprio conhecimento ao mesmo tempo.&lt;BR&gt;&lt;BR&gt;No Mysterium, chamamos isso de sinergia de propósito.</Page>
+    
     
     </Text>
     <Text huntingZoneId="227" id="8" prevId="7" villagerId="1031">
          
+         
         <Page social="4">(Os fragmentos estão espalhados pelo chão. As forças de Thulsa claramente não queriam que você recuperasse o núcleo central. Persiga {@LinkCreature:27#6#merciless iskaragards} e {@LinkCreature:27#7#savage iskaragards} para ver se eles têm algum componente recuperável).</Page>
+    
     
     </Text>
     <Text huntingZoneId="227" id="9" prevId="8" villagerId="1023">
          
+         
         <Page social="4">Muito bem feito. Com o Core crux em nossa posse, Thulsa deve se esforçar ainda mais para manter o escudo. A luta ainda não acabou, mas pelo menos temos uma chance agora.&lt;BR&gt;&lt;BR&gt;Leve o núcleo para Raeren em Tria. Está fora de nossas mãos agora e muito acima de nossos salários.</Page>
+    
     
     </Text>
     <Text huntingZoneId="227" id="10" villagerId="1023">
          
+         
         <Page social="0">O Core Crux é a maior barreira que enfrentamos. Com ele em nossas mãos, as legiões de Thulsa ficarão vulneráveis.</Page>
+    
     
     </Text>
     <Text huntingZoneId="70" id="11" prevId="9" villagerId="1013">
          
+         
         <Page social="4">Um dispositivo notável. Sem dúvida, os sábios de Allemantheia vão molhar as vestes de emoção.&lt;BR&gt;&lt;BR&gt;Quanto a você, salvou muitas vidas hoje e nos deu a abertura de que precisávamos. Você é um bom soldado, &lt;PCNAME&gt;. Temos sorte de contar com você.</Page>
+    
     
     </Text>
 </QuestDialog>

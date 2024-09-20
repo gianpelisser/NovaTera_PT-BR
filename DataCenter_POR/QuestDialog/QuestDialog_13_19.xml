@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="19" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="19" huntingZoneId="13" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="213" id="100" prevId="0" villagerId="1110">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="213" id="2" prevId="0" villagerId="1110">
          
+         
         <Page social="4">Terrons são espíritos primordiais - embora não se saiba por que os titãs os inventaram.&lt;BR&gt;&lt;BR&gt;De qualquer forma, os terrons são particularmente sensíveis a correntes mágicas. Se pudéssemos examiná-los, talvez pudéssemos entender por que fomos atacados.&lt;BR&gt;&lt;BR&gt;Os {@LinkCreature:13#300944#terrons} estão reunidos em pequenos grupos ao longo da linha das árvores. Mate-os e colete o terronita que eles carregam para estudo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="3" prevId="2" villagerId="1110">
          
+         
         <Page social="4">Isso deve ser suficiente. E as risadas incessantes pararam - um bônus bem-vindo.&lt;BR&gt;&lt;BR&gt;Vamos ver. Leander demonstrou essa técnica... como foi? &lt;BR&gt;&lt;BR&gt;Ah! Aí está. Um teste simples, mas esclarecedor. Os terrons carregam a corrupção da magia negra.&lt;BR&gt;&lt;BR&gt;Interessante.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="4" villagerId="1110">
          
+         
         <Page social="0">As amostras já foram coletadas? &lt;BR&gt;&lt;BR&gt;Minhas escassas habilidades devem ser adequadas para essa tarefa, mas ela será em vão se não tiver algo para estudar.</Page>
+    
     
     </Text>
 </QuestDialog>

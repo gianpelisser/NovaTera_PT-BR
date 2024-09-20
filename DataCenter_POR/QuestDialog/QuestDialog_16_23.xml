@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="16" id="23" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="16" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="216" id="100" prevId="0" villagerId="1008">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="216" id="2" prevId="0" villagerId="1008">
          
+         
         <Page social="5">Acreditamos que os novos soldados aqui são mercenários, portanto, o dinheiro é seu objetivo principal.&lt;BR&gt;&lt;BR&gt;Para serem tão organizados, no entanto, não podem estar trabalhando de forma independente. Mais importante ainda, achamos que identificamos seu líder. Encontre {@LinkCreature:16#1007#Captain Kirithia} e traga-me sua cabeça. Isso deve dar uma guinada na roda deles.</Page>
+    
     
     </Text>
     <Text huntingZoneId="216" id="3" prevId="2" villagerId="1008">
          
+         
         <Page social="5">Maravilhoso! &lt;BR&gt;&lt;BR&gt;Bom trabalho. Tenho certeza de que veremos os frutos disso em breve.</Page>
+    
     
     </Text>
     <Text huntingZoneId="216" id="4" villagerId="1008">
          
+         
         <Page social="0">O quê, você pensou que eu estava sendo figurativo? &lt;BR&gt;&lt;BR&gt;Não, eu literalmente quero a cabeça da mulher! &lt;BR&gt;&lt;BR&gt;Agora vá, rápido, e pegue-a!</Page>
+    
     
     </Text>
 </QuestDialog>

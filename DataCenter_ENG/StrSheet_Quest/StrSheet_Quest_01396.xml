@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4934001" string="Eloquent Dissonance" />
-    <String id="4934002" string="Go to {@Creature:76#1025} to get help." />
-    <String id="4934003" string="We'd best make good use of this lull." />
-    <String id="4934004" string="&quot;These are stable, right?&quot;" />
-    <String id="4934005" string="Talk to {@LinkCreature:76#1025}." />
-    <String id="4934006" string="&quot;I'm on it.&quot;" />
-    <String id="4934007" string="Speak with {@LinkCreature:249#1005}." />
-    <String id="4934008" string="Use the harmonic charge to destroy the zolnaj transporter in the {@Rgn:49004}." />
-    <String id="4934009" string="&quot;We'll win. I know it.&quot;" />
-    <String id="4934010" string="Report back to {@LinkCreature:76#1024}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4930001" string="Up and Down, Site to Site" />
+    <String id="4930002" string="I'll see you at the Southern Teleport Platform. Good luck." />
+    <String id="4930003" string="It takes iteris shards to power the platform." />
+    <String id="4930004" string="&quot;I'll find an iteris shard.&quot;" />
+    <String id="4930005" string="Meet {@LinkCreature:249#1017} at the Southern Teleport Platform." />
+    <String id="4930006" string="&quot;I'll see you there.&quot;" />
+    <String id="4930007" string="Mine iteris shards from {@Collection:149} near the {@Rgn:49002}." />
+    <String id="4930008" string="Deliver the shard to {@LinkCreature:249#1017}." />
+    <String id="4930009" string="&quot;Remarkable. Thank you!&quot;" />
+    <String id="4930010" string="Speak with {@LinkCreature:76#1018}." />
 </StrSheet_Quest>

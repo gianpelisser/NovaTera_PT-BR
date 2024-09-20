@@ -1,143 +1,201 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="607" id="7" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="607" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="72" id="100" prevId="0" villagerId="1703">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="72" id="2" prevId="0" villagerId="1703">
          
+         
         <Page social="4">A ciência da fusão... alguns dizem que estamos na periferia, mas isso é apenas inveja! Inveja, eu digo!&lt;BR&gt;&lt;BR&gt;A ciência da fusão é a chave para o poder supremo! Afaste-se de seus relógios insignificantes e grimórios empoeirados. Abrace o futuro! &lt;BR&gt;&lt;BR&gt;Mas estude primeiro. Haverá um teste.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="3" prevId="2" villagerId="1711">
          
+         
         <Page social="4">A ciência da fusão combina &lt;font color='#0000FF'&gt;mágica e maquinário&lt;/font&gt;. (Detalhes omitidos.)&lt;BR&gt;&lt;BR&gt;O exemplo mais bem-sucedido da ciência da fusão é o &lt;font color='#0000FF'&gt;Core&lt;/font&gt;, que combina a energia da Flor da Vida com uma forma de vida mecanicamente aumentada. (Detalhes omitidos.)&lt;BR&gt;Os elementos mais cruciais da ciência da fusão são os componentes materiais usados para canalizar a &lt;font color='#0000FF'&gt;mágica&lt;/font&gt;, e sua criação é uma questão de grande delicadeza. (Detalhes omitidos.)</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="4" prevId="3" villagerId="1703">
          
+         
         <Page social="4">Você parece confiante.&lt;BR&gt;&lt;BR&gt;Pronto para abraçar o futuro? Vamos ver o quanto você estudou.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="5" prevId="3" villagerId="1703">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="72" id="6" prevId="3" villagerId="1703">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="72" id="7" prevId="3" villagerId="1703">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="72" id="8" prevId="4" villagerId="1703">
          
+         
         <Page social="0">Na ciência da fusão, os componentes materiais canalizam essa força. O que é isso?</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="9" prevId="4" villagerId="1703">
          
+         
         <Page social="0">Estou desapontado. Você estava destinado a fazer mais do que isso! &lt;NEXTPAGEBUTTON&gt;"Eu sei, e farei melhor."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Talvez sim. Até lá, volte para o Collegium Arcane e estude mais.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="10" prevId="4" villagerId="1703">
          
+         
         <Page social="0">Sua cabeça está presa ao seu corpo? &lt;NEXTPAGEBUTTON&gt;"Eu gostaria que estivesse certo."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Sabe o que eu gostaria? Que você voltasse para o Collegium Arcane e estudasse mais.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="11" prevId="4" villagerId="1703">
          
+         
         <Page social="0">Errado, errado, errado.&lt;NEXTPAGEBUTTON&gt;"Adormeci enquanto estudava..."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Volte para o Collegium Arcane e estude mais. E fique acordado dessa vez!</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="12" prevId="4" villagerId="1703">
          
+         
         <Page social="0">É isso mesmo! O futuro é seu! &lt;NEXTPAGEBUTTON&gt;"Isso foi bem fácil."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Sim, mas o futuro não tem lugar para os estúpidos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="13" prevId="4" villagerId="1703">
          
+         
         <Page social="0">A ciência da fusão combina quais dois elementos?</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="14" prevId="4" villagerId="1703">
          
+         
         <Page social="0">Pelo visto, você tem andado com os engenheiros mecânicos. Errado! &lt;NEXTPAGEBUTTON&gt;"Posso tentar de novo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">É claro, mas volte ao Collegium Arcane e leia o livro correto dessa vez!</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="15" prevId="4" villagerId="1703">
          
+         
         <Page social="0">Correto! Você realmente estudou! &lt;NEXTPAGEBUTTON&gt;"Essas perguntas são meio básicas..."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Eu sei que são. Você está apenas provando que não pulou a leitura.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="16" prevId="4" villagerId="1703">
          
+         
         <Page social="0">Ou você está brincando comigo ou está com os hormônios à flor da pele. De qualquer forma, está errado! &lt;NEXTPAGEBUTTON&gt;"Vou estudar mais."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">A essa altura, vou pegar o que puder. Volte para o Collegium Arcane e estude mais.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="17" prevId="4" villagerId="1703">
          
+         
         <Page social="0">Aqui está minha reação: Errado!&lt;NEXTPAGEBUTTON&gt;"Eu posso fazer melhor!"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Você tem uma chance de agir: volte para o Collegium Arcane e estude mais.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="18" prevId="4" villagerId="1703">
          
+         
         <Page social="0">Qual é o exemplo mais bem-sucedido de ciência de fusão?</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="19" prevId="4" villagerId="1703">
          
+         
         <Page social="0">Você pensou: "Vou responder a primeira coisa que vier à minha cabeça"? Errado! &lt;NEXTPAGEBUTTON&gt;"Eu deveria ir para os livros."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">De fato, você deveria. Volte para o Collegium Arcane e estude mais.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="20" prevId="4" villagerId="1703">
          
+         
         <Page social="0">Viajar com o Pégaso é algo insignificante! Uma moda passageira, eu digo! &lt;NEXTPAGEBUTTON&gt;"Isso foi abordado no livro?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Sim, não que você saiba. Volte para o Collegium Arcane e estude mais.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="21" prevId="4" villagerId="1703">
          
+         
         <Page social="0">Uma resposta correta! Excelente.&lt;NEXTPAGEBUTTON&gt;"É também o único exemplo."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Talvez, mas é por isso que estudamos, &lt;PCNAME&gt;!</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="22" prevId="4" villagerId="1703">
          
+         
         <Page social="0">Pedras mágicas? Um termo tuwangi para muitas coisas que cobrem a paisagem do nosso mundo! Errado! &lt;NEXTPAGEBUTTON&gt;"Posso fazer uma nova tentativa?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Você pode "refazer" o que quiser, mas primeiro volte para o Collegium Arcane e estude mais.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="23" prevId="18" villagerId="1703">
          
+         
         <Page social="4">Não há fim para o aprendizado.&lt;BR&gt;Continue estudando, e talvez o futuro seja seu!</Page>
+    
     
     </Text>
 </QuestDialog>

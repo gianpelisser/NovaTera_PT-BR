@@ -1,31 +1,42 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="472" id="26" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="472" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="208" id="100" prevId="0" villagerId="1021">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="208" id="2" prevId="0" villagerId="1021">
          
+         
         <Page social="4">Vovô me deu esse mapa. "Avil", ele dizia, "este mapa mostra exatamente onde Baracos, o Senhor do Labirinto, guarda seus tesouros."&lt;BR&gt;&lt;BR&gt;Minha irmã disse que vovô diria quase qualquer coisa para nos levar para a cama, mas ela é uma bruxa amarga. Eu acredito! &lt;BR&gt;&lt;BR&gt;Vocês estão se aprofundando no Labirinto Dourado. Você pode ficar de olho nesses tesouros escondidos? &lt;NEXTPAGEBUTTON&gt;"Você não quer vir?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Obrigado, não. Quando eu era criança, minha irmã uma vez me jogou em um poço, e havia jacarés bebês no fundo.&lt;BR&gt;&lt;BR&gt;Desde então, não suporto nada escamoso.&lt;BR&gt;&lt;BR&gt;Eu ficaria arrasado antes de entrarmos pela porta, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
     <Text huntingZoneId="472" id="3" prevId="2" villagerId="1017">
          
+         
         <Page social="0">(Artigos diversos velhos, bandagens em desintegração e uma adaga enferrujada. Tudo sem valor).</Page>
+    
     
     </Text>
     <Text huntingZoneId="472" id="4" prevId="2" villagerId="1018">
          
+         
         <Page social="0">(Um bracelete que brilha levemente está em meio a alguns pedaços de madeira).</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="5" prevId="3" villagerId="1021">
          
+         
         <Page social="4">Um punhal enferrujado e um bracelete brilhante? Talvez o vovô estivesse contando histórias, afinal.</Page>
+    
     
     </Text>
 </QuestDialog>

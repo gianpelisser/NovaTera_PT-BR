@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="473" id="25" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="473" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="251" id="100" prevId="0" villagerId="1035">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="251" id="2" prevId="0" villagerId="1035">
          
+         
         <Page social="4">Os capitães da Guarda da Torre, Durzured e Vardas, estão localizados em Secundus. Eles são alvos de alto valor - o topo da cadeia de comando dos guardas.&lt;BR&gt;&lt;BR&gt;Abatê-los.</Page>
+    
     
     </Text>
     <Text huntingZoneId="251" id="3" prevId="2" villagerId="1035">
          
+         
         <Page social="4">Bom trabalho, &lt;PCNAME&gt;. Com seus guardas em desordem, a torre está vulnerável aos nossos sabotadores.&lt;BR&gt;&lt;BR&gt;Eu mal posso esperar para ver aquela monstruosidade venenosa ser fechada.</Page>
+    
     
     </Text>
 </QuestDialog>

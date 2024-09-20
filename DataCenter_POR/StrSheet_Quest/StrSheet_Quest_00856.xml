@@ -1,9 +1,11 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="3036001" string="Administração adequada" />
-    <String id="3036002" string="É muito perigoso. Tome cuidado." />
-    <String id="3036003" string="Obrigado, amigo." />
-    <String id="3036004" string="Mate {@linkcreature:30#190#brass stewards} no {@Rgn:30008$$Arquivo Inferior}." />
-    <String id="3036005" string="&quot;Para a federação.&quot;" />
-    <String id="3036006" string="Informe a {@linkcreature:230#1020$$Ronush} no {@Rgn:30008$$$Arquivo Inferior}." />
+    <String id="3032001" string="Sempre saiba onde está sua toalha" />
+    <String id="3032002" string="Isso vai pegar!" />
+    <String id="3032003" string="Eu aprecio essa mortalha em um nível mais profundo do que você." />
+    <String id="3032004" string="Retire a cobertura." />
+    <String id="3032005" string="Leve a mortalha de amortecimento para o {@linkcreature:230#1018#veteran itinerant miner}." />
+    <String id="3032006" string="Leve a mortalha de amortecimento para o {@linkcreature:230#1017#novice itinerant miner}." />
+    <String id="3032007" string="&quot;Boa sorte com isso.&quot;" />
+    <String id="3032008" string="Fale com {@linkcreature:230#1016$$Leshoff}." />
 </StrSheet_Quest>

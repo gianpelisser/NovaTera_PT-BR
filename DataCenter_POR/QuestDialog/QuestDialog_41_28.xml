@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="41" id="28" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="41" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="241" id="100" prevId="0" villagerId="1017">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="241" id="2" prevId="0" villagerId="1017">
          
+         
         <Page social="0">Muitos de seus soldados se envenenaram ao comer plantas desconhecidas. Sei de algo que vai ajudar.&lt;BR&gt;&lt;BR&gt;Em ambos os lados da fortaleza da Garra Negra há &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7013#-25525,64884,1811&amp;type=1&amp;name=Caves"&gt;cavernas&lt;/A&gt;&lt;/font&gt;. Em seu interior, crescem &lt;font color='#660000'&gt;talos de azurebond&lt;/font&gt;, cujas flores neutralizam muitos tipos de veneno. Traga alguns para {@LinkCreature:241#1019$$Hoorik} para fazer antídotos para seus soldados.&lt;BR&gt;&lt;BR&gt;Afinal de contas, agora somos amigos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="241" id="3" prevId="2" villagerId="1019">
          
+         
         <Page social="0">Preparei um antídoto com o suco das flores de azurebond. Dê-o a {@LinkCreature:241#1003#Jaebel}. Ela talvez confie mais nele se vier de você.</Page>
+    
     
     </Text>
     <Text huntingZoneId="241" id="4" villagerId="1019">
          
+         
         <Page social="0">A entrada da caverna fica perto da fortaleza da Black Claw. As flores crescem em seu interior.</Page>
+    
     
     </Text>
     <Text huntingZoneId="241" id="5" prevId="3" villagerId="1003">
          
+         
         <Page social="4">Você disse que foi o Hoorik que enviou? Ele parece amigável, mas vou tentar primeiro, por via das dúvidas.&lt;BR&gt;&lt;BR&gt;Eeeurgh. Isso é nojento, mas estou me sentindo bem. Duvido que faça mal a alguém. Se isso realmente ajudar meus soldados, enviarei a Kabalka um presente especial de carne de kamara! Obrigado por sua ajuda, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
 </QuestDialog>

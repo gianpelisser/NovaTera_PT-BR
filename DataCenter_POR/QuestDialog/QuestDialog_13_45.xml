@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="45" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="45" huntingZoneId="13" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="64" id="100" prevId="0" villagerId="1006">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="64" id="2" prevId="0" villagerId="1006">
          
+         
         <Page social="4">Sorcha é uma pesquisadora júnior cheia de ideias malucas! Depois de ouvir Eria falar sobre uma profecia ridícula, ela saiu sozinha, determinada a explorar o poder do Desfiladeiro Maculado.&lt;BR&gt;&lt;BR&gt;Já faz algum tempo que ela não aparece e estou preocupado. Posso contar com sua ajuda para trazê-la de volta em segurança? Bem, você e mais alguns amigos...</Page>
+    
     
     </Text>
     <Text huntingZoneId="64" id="3" prevId="2" villagerId="1007">
          
+         
         <Page social="4">Sorcha trouxe uma pedra de teletransporte móvel com ela, então Hermaiorni pode fazer uma triangulação inteligente e teletransportá-lo para lá. Mas corra - quem sabe em que encrenca ela está metida? &lt;BR&gt;&lt;BR&gt;Fale com a Mestre de Teleporte Hermaiorni e ela o enviará adiante. E não se esqueça de se preparar para batalhas inesperadas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="64" id="4" prevId="3" villagerId="1050">
          
+         
         <Page social="4">Sorcha... sempre com tanta pressa. Eria e eu dissemos a ela que não era o momento certo para agir de acordo com a profecia, mas não havia como impedi-la.&lt;BR&gt;&lt;BR&gt;Se você e sua equipe estiverem prontos, posso levá-los até a última posição conhecida dela.</Page>
+    
     
     </Text>
 </QuestDialog>

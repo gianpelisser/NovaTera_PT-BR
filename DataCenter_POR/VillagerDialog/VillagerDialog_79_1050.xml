@@ -1,13 +1,17 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="79" id="1050" voiceTypeId="173">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1050" huntingZoneId="79" voiceTypeId="173">
     <Text id="1" endSocial="14">
          
+         
         <Page social="4">An out-of-control ally is more dangerous than a fearless foe. We must remain careful.</Page>
+    
     
     </Text>
     <Text id="101" endSocial="0">
          
+         
         <Page social="0">Understood!</Page>
+    
     
     </Text>
 </VillagerDialog>

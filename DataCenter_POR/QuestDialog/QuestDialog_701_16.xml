@@ -1,77 +1,107 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="701" id="16" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="701" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="210" id="100" prevId="0" villagerId="2008">
          
+         
         <Page social="0">Elesa explicou todas as coisas que você pode fazer na festa na praia.</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="2" prevId="0" villagerId="2008">
          
+         
         <Page social="4">Ok... por onde começar? &lt;BR&gt;&lt;BR&gt;Ah! Primeiro, você deve ir para a frente da taverna e encontrar o pequeno popori chamado Langon. Ele pode lhe ensinar tudo sobre como construir coisas com a areia da praia. Ele é um artista e tanto!</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="3" prevId="2" villagerId="2010">
          
+         
         <Page social="4">Olá? Hehe, está vendo os castelos de areia lá atrás? Eu mesmo os construí! Posso lhe mostrar como fazê-los também. Hehe!&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;Comece coletando areia molhada na praia e depois faça o que estou fazendo agora. Quando terminar, você terá um castelo de areia.&lt;BR&gt;Você deveria tentar, &lt;PCNAME&gt;! Faça, oh, três castelos de areia, e veremos como você se sai.</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="4" prevId="3" villagerId="2010">
          
+         
         <Page social="6">Hehe, você já experimentou? &lt;BR&gt;&lt;BR&gt;Divertido, não? Hehe.&lt;BR&gt;&lt;BR&gt;Mas, você sabe, é um tipo de jogo para crianças, como eu. Wahmel tem um jogo que eu quero experimentar - mas sou muito jovem. Fica logo ali dentro da cerca. Você deveria experimentá-lo!</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="5" prevId="4" villagerId="2005">
          
+         
         <Page social="4">Bem-vindo, &lt;PCCLASS:lcase&gt;! Está procurando um jogo divertido? Bem, então você veio ao lugar certo.&lt;BR&gt;&lt;BR&gt;Qual é o jogo, você pergunta?&lt;BR&gt;&lt;BR&gt;Ele se chama &amp;quot;melon bash!&amp;quot;&lt;NEXTPAGEBUTTON&gt;&amp;quot;O que é um melon bash?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Você nunca jogou uma partida de melão? Bem, prepare-se para experimentar seu novo esporte favorito! &lt;BR&gt;&lt;BR&gt;Tudo o que você precisa fazer é esmagar três melancias antes que o tempo acabe! Qualquer um pode fazer isso com um olho fechado, certo? &lt;BR&gt;&lt;BR&gt;Bem, que tal tornarmos isso mais interessante e você usar uma venda o tempo todo? &lt;BR&gt;&lt;BR&gt;Oh, e não dê ouvidos às melancias. Elas tentarão convencê-lo de que não são melancias, mas garanto que estão mentindo!</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="6" prevId="5" villagerId="2005">
          
+         
         <Page social="4">O que você acha? É como eu lhe disse, não é? &lt;BR&gt;&lt;BR&gt;Quer dar mais uma volta, ou está procurando um novo desafio? Bem, se você quer saber, sugiro os canhões de respingo de Chelton, bem perto da praia!</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="7" prevId="6" villagerId="2001">
          
+         
         <Page social="4">Bem-vindo, &lt;PCRACE:lcase&gt;.&lt;BR&gt;&lt;BR&gt;Este é o campo de tiro do Splash Cannon! As regras são simples.&lt;BR&gt;&lt;BR&gt;Primeiro, avise-me que está interessado e eu o colocarei em um dos canhões que você vê na praia ali.&lt;BR&gt;&lt;BR&gt;Depois, você vai atirar em monstros. Atire! Atire! Atire! Os vermelhos valem mais do que os azuis!&lt;BR&gt;&lt;BR&gt;Recapitulando: Vermelho, bom; azul, não tão bom. Entendeu? Então vamos começar!</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="8" prevId="7" villagerId="2001">
          
+         
         <Page social="4">Como foi isso? &lt;BR&gt;&lt;BR&gt;Haha. Não se preocupe. Continue assim - você vai pegar o jeito, eu prometo!&lt;BR&gt;&lt;BR&gt;Quer tentar algo novo? Vá até o outro lado da praia e procure por Stefanna.</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="9" prevId="8" villagerId="2011">
          
+         
         <Page social="4">Seja bem-vindo. Meu nome é Stefanna. Tenho certeza de que você já ouviu falar de mim: a esteticista e designer de moda mundialmente famosa? Não? Bem, nem todo mundo se preocupa com moda... obviamente.&lt;BR&gt;&lt;BR&gt;Então, o que a traz aqui? Sei que muitos castanhos ficam com a pele bronzeada nessa época do ano, mas não acho que você precise de um bronzeado, &lt;PCNAME&gt;. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Estou procurando algo divertido para fazer.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Hm. Divertido de fazer. Ah! Você deveria ir ver meu parceiro Dolme. Ele é um escultor de chifres e está fazendo sua própria exposição de chifres. Você deveria ir se apresentar!</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="10" prevId="9" villagerId="2004">
          
+         
         <Page social="4">Saudações. Você me parece familiar. Já nos conhecemos antes? Haha.&lt;BR&gt;Se estiver procurando algo que torne a festa na praia mais divertida para você, veio ao lugar certo. Para ser honesto com você, coisas como canhões, melancias e castelos de areia servem apenas para ganhar dinheiro dos turistas. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Então, o que você faz no festival?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Sou um tradicionalista: Eu moo chifres. É apenas a parte mais importante da festa na praia. Na verdade, &lt;PCNAME&gt;, deixe-me fazer algo incrível para você, como uma demonstração. A primeira coisa de que precisaremos são alguns chifres úteis. Por que você não traz um molar de um javali?</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="11" prevId="10" villagerId="2004">
          
+         
         <Page social="4">Um excelente exemplar! &lt;BR&gt;&lt;BR&gt;Agora, por favor, espere aqui um pouco enquanto eu preparo algo para você. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Ok. Mal posso esperar para vê-lo!&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">...e terminou!&lt;BR&gt;&lt;BR&gt;Não está ótimo? Bem, eu não sei o que você esperava de um pequeno dente de javali.&lt;BR&gt;&lt;BR&gt;Oh, bem, não é uma perda total. Leve-o para Ramsay no Tear of the Viper - a taverna na praia - e ele lhe dará um drinque de graça por ele!</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="12" villagerId="2004">
          
+         
         <Page social="0">Vá buscar uma buzina e eu farei algo excelente para você.</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="13" prevId="11" villagerId="2007">
          
+         
         <Page social="4">Ah! Que gracinha! Isso é para mim? &lt;BR&gt;&lt;BR&gt;Opa, é tão bem feito! E você quer que eu fique com ele? Obrigado!&lt;BR&gt;&lt;BR&gt;Aqui: um presente para você. É o mínimo que eu poderia fazer. E sempre que quiser outro, basta me trazer mais uma dessas grandes esculturas de chifre.&lt;BR&gt;&lt;BR&gt;Desfrute do festival!</Page>
+    
     
     </Text>
 </QuestDialog>

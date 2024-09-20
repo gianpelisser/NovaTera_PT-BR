@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="26" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="4" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="204" id="100" prevId="0" villagerId="1001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="204" id="2" prevId="0" villagerId="1001">
          
+         
         <Page social="4">Os {@LinkCreature:4#1051#devan war golems} e os {@LinkCreature:4#1052#fallen devan protectors} estão andando por aí como se fossem donos do lugar.&lt;BR&gt;&lt;BR&gt;Mate-os e, se houver partes de shadmetal em suas armaduras, pegue-as.&lt;BR&gt;&lt;BR&gt;Fyrmount é nossa mina, &lt;PCNAME&gt;. Mostre a eles... minerando-os.</Page>
+    
     
     </Text>
     <Text huntingZoneId="204" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="4">Ainda está de pé, hein? Continue assim e estaremos de volta às minas antes que você perceba, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
     <Text huntingZoneId="204" id="4" villagerId="1001">
          
+         
         <Page social="0">Explosão e maldição! Não o incomoda ter o inimigo vagando por aí como se fosse o dono do lugar?</Page>
+    
     
     </Text>
 </QuestDialog>

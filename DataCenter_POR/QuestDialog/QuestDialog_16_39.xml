@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="16" id="39" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="16" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="216" id="100" prevId="0" villagerId="1009">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="216" id="2" prevId="0" villagerId="1009">
          
+         
         <Page social="4">Eu preciso investigar essa Cerimônia da Bênção, mas não consigo passar pela multidão de vampiros.&lt;BR&gt;&lt;BR&gt;Se você pudesse se livrar dos {@LinkCreature:16#2403#corredores de vampiros} e dos {@LinkCreature:16#2404#soldados de vampiros} no &lt;font color='#660000'&gt;jardim da mansão&lt;/font&gt;, isso ajudaria.&lt;BR&gt;&lt;BR&gt;Quando terminar, apresente-se a Segodun - ele já está no jardim.</Page>
+    
     
     </Text>
     <Text huntingZoneId="216" id="3" prevId="2" villagerId="1011">
          
+         
         <Page social="4">Pelo visto, conseguiu passar. Bom trabalho! &lt;BR&gt;&lt;BR&gt;Leve isso pelo trabalho que você fez.</Page>
+    
     
     </Text>
 </QuestDialog>

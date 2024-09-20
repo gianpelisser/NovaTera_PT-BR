@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="12" id="31" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="12" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="212" id="100" prevId="0" villagerId="1008">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="212" id="2" prevId="0" villagerId="1008">
          
+         
         <Page social="4">Podemos estar com falta de pessoal aqui, mas na verdade estamos com excesso de suprimentos, &lt;PCNAME&gt;. Muitas dessas coisas vão apodrecer na selva.&lt;BR&gt;&lt;BR&gt;Isso não beneficia ninguém! Não posso tolerar tal desperdício.&lt;BR&gt;&lt;BR&gt;Estou no serviço de suprimentos esta semana e recebi este bilhete anônimo: "Troque suprimentos por moedas - passagem secreta para o oeste."&lt;BR&gt;&lt;BR&gt;Não estou dizendo para fazer o acordo, nem para não fazer o acordo. Estou dizendo que você deve ver quem aparece em qualquer "passagem secreta" que você encontrar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="212" id="3" prevId="2" villagerId="1009">
          
+         
         <Page social="4">Ótimos suprimentos, sim... obrigado.&lt;BR&gt;&lt;BR&gt;Você gosta de trabalhar com Dirken, não é? Ele é muito duro, sim!</Page>
+    
     
     </Text>
     <Text huntingZoneId="212" id="4" villagerId="1009">
          
+         
         <Page social="0">Você não é o Dirken! E sem suprimentos? Indignação! &lt;BR&gt;&lt;BR&gt;Nós reclamamos com Dirken! E talvez o matemos, sim?</Page>
+    
     
     </Text>
     <Text huntingZoneId="212" id="5" prevId="3" villagerId="1008">
          
+         
         <Page social="4">Espere... eles pensaram que estávamos trabalhando com Dirken? &lt;BR&gt;&lt;BR&gt;Um, &lt;PCNAME&gt;, isso não é exatamente bom para nossas carreiras.&lt;BR&gt;&lt;BR&gt;Espere um minuto. Isso significa que a Dirken está vendendo suprimentos da federação para os piratas, não é?</Page>
+    
     
     </Text>
 </QuestDialog>

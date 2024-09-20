@@ -1,34 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="11" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
-         
-        <Page social="0">You were ordered to redeploy to the Tainted Gorge to go on the offensive. En route, you came across a crashed courier named Chione, who asked you to deliver some orders for her. You delivered the orders to Riel and prepared for the next stage.</Page>
-    
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1009">
+        <Page social="0">Councillor Teil told you of Elleon's suspicions about the Tainted Gorge, and sent you to investigate. Along the way, you helped secure supplies from a crashed airship, and rescued its pilot from Orcans.</Page>
     </Text>
-    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
-         
-        <Page social="4">I think Elleon may have gone on to explore the Tainted Gorge. If he's not there, we could probably still find a clue as to what he's looking for.&lt;BR&gt;&lt;BR&gt;Get further instructions from Adria.</Page>
-    
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1009">
+        <Page social="4">Elleon and I are concerned about the demons in the Tainted Gorge. It's a dangerous area, and one that cost us a lot to secure.&lt;BR&gt;&lt;BR&gt;I'm sending you down there to look for Elleon, &lt;PCNAME&gt;, but also to help out however you can.&lt;BR&gt;&lt;BR&gt;{@linkcreature:64#1033$$Bipi} handles logistics for our forward outposts. Talk to her before you head out, and she'll get you squared away.</Page>
     </Text>
-    <Text huntingZoneId="64" id="3" prevId="2" villagerId="1001">
-         
-        <Page social="4">Okay, I want you to head over to the Tainted Gorge. There'll be some kind of clue out there, I'm sure.&lt;BR&gt;&lt;BR&gt;Redeploying some of our troops to the Tainted Gorge is probably a good idea, anyway. We keep trying to pull out, but somehow the threat out there never dies down.&lt;BR&gt;&lt;BR&gt;Talk to Bipi first, though. She needs some help.</Page>
-    
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1033">
+        <Page social="4">I greet you, &lt;PCCLASS:lcase&gt;, with the worst of news. Our supply airship has crashed, and we've lost contact with its pilot.&lt;BR&gt;&lt;BR&gt;{@linkcreature:213#1007$$Chione} is smart and resourceful, but no soldier. A relief team is forming, but you are here now. Head east along this road and thin the ranks of the Dark Claw orcans, and recover any supplies you can while looking for Chione.&lt;BR&gt;&lt;BR&gt;Why are you still here?</Page>
     </Text>
-    <Text huntingZoneId="64" id="4" prevId="3" villagerId="1033">
-         
-        <Page social="4">That flighty silly girl!&lt;BR&gt;&lt;BR&gt;I do need help, thank you. Chione's airship crashed en route to the Tainted Gorge. She was carrying vital supplies and Leander's report, but she couldn't fight her way out of a pillow fort.&lt;BR&gt;&lt;BR&gt;Head east from the Tower Base and link up with her.&lt;BR&gt;&lt;BR&gt;Time is of the essence.</Page>
-    
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1007">
+        <Page social="4">At last, a friendly face.&lt;BR&gt;&lt;BR&gt;It was a routine flight, until the explosion. After the crash, Terrons sprang from the wreckage, but they were definitely not on the manifest.&lt;BR&gt;&lt;BR&gt;I will wait here with the supplies you've recovered. The orcans seem content merely to watch me...for now.</Page>
     </Text>
-    <Text huntingZoneId="213" id="5" prevId="4" villagerId="1007">
-         
-        <Page social="4">The report? Oh yes, it's safe and sealed!&lt;BR&gt;&lt;BR&gt;Edan's supposed to read it. I've got a bit of a mess here though, so I can't take it onward.&lt;BR&gt;&lt;BR&gt;Perhaps you could!</Page>
-    
-    </Text>
-    <Text huntingZoneId="213" id="6" prevId="5" villagerId="1134">
-         
-        <Page social="4">Leander's report, eh? Let's take a look....&lt;BR&gt;&lt;BR&gt;Demons, as we suspected—though we didn't dream they'd be this powerful. The Tainted Gorge is crawling with our enemies, but they're not fighting us. They're looking for something.&lt;BR&gt;&lt;BR&gt;Whatever it is, we'd best get to it before they do!</Page>
-    
+    <Text id="5" huntingZoneId="213" villagerId="1007">
+        <Page social="0">Be careful, &lt;PCCLASS:lcase&gt;. These orcans are not what they appear.&lt;BR&gt;&lt;BR&gt;Help me gather these supplies, and we can talk more.</Page>
     </Text>
 </QuestDialog>

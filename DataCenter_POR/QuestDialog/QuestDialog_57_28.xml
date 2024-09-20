@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="57" id="28" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="57" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="257" id="100" prevId="0" villagerId="1022">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="257" id="2" prevId="0" villagerId="1022">
          
+         
         <Page social="4">&lt;PCNAME&gt;, Khulil diz que estamos isolados de Sonacria no Acampamento Ponte Quebrada por dois combatentes sikandari, Ctholak e Pothika.&lt;BR&gt;&lt;BR&gt;Eles massacraram todos que os enfrentaram. Sabendo disso, eles ainda precisam morrer. Sonacria deve ser informada sobre o envolvimento de Killian e a crescente presença de Atel Akaad.&lt;BR&gt;&lt;BR&gt;Pela federação!</Page>
+    
     
     </Text>
     <Text huntingZoneId="257" id="3" prevId="2" villagerId="1008">
          
+         
         <Page social="4">Você conseguiu passar? Parece que você não tem nada de ruim! &lt;BR&gt;&lt;BR&gt;Eu suspeitava do envolvimento de Killian - aquele maluco adora o caos e a desordem - mas a conexão com o Atel Akaad me assusta.&lt;BR&gt;&lt;BR&gt;Bem, não há nada a fazer além do nosso dever. Pronto para uma luta?</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="68" id="1021" voiceTypeId="46">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1021" huntingZoneId="68" voiceTypeId="46">
     <Text huntingZoneId="68" id="1" endSocial="14" prevId="0" villagerId="1021">
          
+         
         <Page social="4">The Popori Kingdom has much wisdom to share. We only wish it were more acceptable.&lt;BR&gt;&lt;BR&gt;And mind yourself if they send you for ears...</Page>
+    
     
     </Text>
 </VillagerDialog>

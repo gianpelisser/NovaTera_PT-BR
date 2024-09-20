@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="34" id="39" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="34" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="234" id="100" prevId="0" villagerId="1004">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="234" id="2" prevId="0" villagerId="1004">
          
+         
         <Page social="4">Não são apenas os inimigos de duas pernas que devemos temer. Os barsicores são ferozes. Eles podem comer uma família inteira em uma única refeição! &lt;BR&gt;&lt;BR&gt;Como estamos ficando sem famílias, quero que você mate alguns {@LinkCreature:34#1110#frosthunter bariscores}. Que suas mortes sirvam de lição para outros predadores.</Page>
+    
     
     </Text>
     <Text huntingZoneId="234" id="3" prevId="2" villagerId="1004">
          
+         
         <Page social="4">Você sabia que a carne de barsicore tem um gosto horrível? É como carne de carneiro podre, só que pior.&lt;BR&gt;&lt;BR&gt;Bem, eu só precisava que você os matasse. Vamos deixar que as criaturas do lixo comam o que puderem.</Page>
+    
     
     </Text>
     <Text huntingZoneId="234" id="4" villagerId="1004">
          
+         
         <Page social="0">Você pode fazer isso! Eu acredito em você.&lt;BR&gt;&lt;BR&gt;Os baricores não são tão grandes assim. São menores do que uma dúzia de baraka, facilmente.</Page>
+    
     
     </Text>
 </QuestDialog>

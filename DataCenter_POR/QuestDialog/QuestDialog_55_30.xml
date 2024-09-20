@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="55" id="30" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="55" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="255" id="100" prevId="0" villagerId="1010">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="255" id="2" prevId="0" villagerId="1010">
          
+         
         <Page social="4">Se Thulsa estiver realmente por trás de tudo isso, isso explicaria os ksharans de que temos notícia.&lt;BR&gt;&lt;BR&gt;Arast, no Acampamento do Crepúsculo, disse que viu um ksharan perto de seu posto. Os ksharans são mortos-vivos criados por meio de artifícios de argons. Eles são definitivamente uma ameaça.&lt;BR&gt;&lt;BR&gt;Confirme a presença deles e informe diretamente a Arast.</Page>
+    
     
     </Text>
     <Text huntingZoneId="255" id="3" prevId="2" villagerId="1025">
          
+         
         <Page social="4">Esses são definitivamente amuletos de Thulsan. Thulsa lançou sua rede de forma ampla e reuniu vários aliados para proteger seu trabalho.&lt;BR&gt;&lt;BR&gt;Isso explica por que os unseelie são tão ousados. Eles acham que Thulsa os apoiará. Tolos.&lt;BR&gt;&lt;BR&gt;A única lealdade de Thulsa é para consigo mesmo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="255" id="4" villagerId="1025">
          
+         
         <Page social="0">Preciso saber se as estradas são seguras. Certifique-se de que estejam desobstruídas ou traga algo tangível que possamos compartilhar com o comando.</Page>
+    
     
     </Text>
 </QuestDialog>

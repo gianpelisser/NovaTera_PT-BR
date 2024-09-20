@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="122" id="8" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="122" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="122" id="100" prevId="0" villagerId="9001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="122" id="2" prevId="0" villagerId="9001">
          
+         
         <Page social="1">A União Iluminada precisa de seus serviços, amigo.&lt;BR&gt;&lt;BR&gt;Estamos ouvindo rumores preocupantes dos desertos de Tor Exsul - rumores que sugerem que a Coletividade dos Mercadores Livres pode estar adaptando algumas das feras locais para usá-las como tropas de choque contra nós.&lt;BR&gt;&lt;BR&gt;Precisamos de mais informações. Por favor, use o Portão da União Iluminada para entrar nas terras controladas pelo Coletivo de Comerciantes Livres. Uma vez lá, mate pelo menos três {@linkcreature:121#202#Aurum mugatos} e três {@linkcreature:121#205#badlands ghilliedhus}, depois informe a Dyrio suas descobertas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="122" id="3" prevId="2" villagerId="9001">
          
+         
         <Page social="0">Você teve um desempenho admirável, meu amigo, e por isso tem a gratidão da União Iluminada!</Page>
+    
     
     </Text>
 </QuestDialog>

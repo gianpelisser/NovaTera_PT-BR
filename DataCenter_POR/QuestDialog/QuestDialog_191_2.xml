@@ -1,34 +1,46 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="191" id="2" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="191" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="191" id="100" prevId="0" villagerId="2102">
          
+         
         <Page social="0">&lt;PCNAME&gt; lutou até a plataforma do dirigível e, em seguida, embarcou em um deles para atacar os partas de cima.</Page>
+    
     
     </Text>
     <Text huntingZoneId="191" id="2" prevId="0" villagerId="2102">
          
+         
         <Page social="4">Quero que você fique atrás do inimigo usando suas estranhas máquinas voadoras. &lt;BR&gt;&lt;BR&gt;Nós os cercaremos e nos encontraremos no meio!</Page>
+    
     
     </Text>
     <Text huntingZoneId="191" id="3" prevId="2" villagerId="2132">
          
+         
         <Page social="4">Para chegar à plataforma do dirigível, você terá de lutar contra os arquidevas no vale ao norte.&lt;BR&gt;&lt;BR&gt;Uma vez livre, você pode embarcar em sua nave.</Page>
+    
     
     </Text>
     <Text huntingZoneId="191" id="4" prevId="3" villagerId="2133">
          
+         
         <Page social="4">Eu o vi lutando. Você se comporta bem. Fico feliz em saber que Seir ainda escolhe os melhores.&lt;BR&gt;&lt;BR&gt;Precisamos recuperar algumas peças sobressalentes para o dirigível. Ele não pode partir sem elas.&lt;BR&gt;&lt;BR&gt;Encontre as caixas e leve-as para Garog.</Page>
+    
     
     </Text>
     <Text huntingZoneId="191" id="5" prevId="4" villagerId="2103">
          
+         
         <Page social="4">Louvado seja Kaia, você os encontrou! &lt;BR&gt;&lt;BR&gt;Eu vou colocar o dirigível para funcionar. Você subirá a bordo. O ataque pode finalmente começar!</Page>
+    
     
     </Text>
     <Text huntingZoneId="191" id="6" villagerId="2103">
          
+         
         <Page social="0">Essa missão não vai a lugar algum sem essas partes.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="18" id="33" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="18" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="218" id="100" prevId="0" villagerId="1008">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="218" id="2" prevId="0" villagerId="1008">
          
+         
         <Page social="4">Será que posso lhe pedir um favor, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Nema quer que eu colete &lt;font color='#660000'&gt;fragmentos marcados&lt;/font&gt; dos corpos de {@LinkCreature:18#14#piledriver golems}. O problema é que eles me aterrorizam. E não posso contar para Nema, porque ela também me aterroriza.&lt;BR&gt;&lt;BR&gt;Você se importaria de coletá-los para mim e trazê-los de volta para cá?</Page>
+    
     
     </Text>
     <Text huntingZoneId="218" id="3" prevId="2" villagerId="1008">
          
+         
         <Page social="4">Oh, obrigado! Eu realmente não queria chatear a Nema.&lt;BR&gt;&lt;BR&gt;Poderia talvez não contar isso a ela?</Page>
+    
     
     </Text>
     <Text huntingZoneId="218" id="4" villagerId="1008">
          
+         
         <Page social="0">Oh, por favor, se apresse. Nema já está esperando por mim há algum tempo.</Page>
+    
     
     </Text>
 </QuestDialog>

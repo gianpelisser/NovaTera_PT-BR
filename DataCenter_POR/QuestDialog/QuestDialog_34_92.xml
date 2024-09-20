@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="34" id="92" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="34" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="83" id="100" prevId="0" villagerId="1004">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="83" id="2" prevId="0" villagerId="1004">
          
+         
         <Page social="34">Apesar de nossos melhores esforços, o problema dos wendigos está crescendo. Se eles querem uma briga, nós a daremos a eles.&lt;BR&gt;&lt;BR&gt;Caça os {@LinkCreature:34#500#wendigo frostweavers}, {@LinkCreature:34#510#frostmages}, {@LinkCreature:34#610#ragers}, {@LinkCreature:34#600#crushers}, {@LinkCreature:34#700#battlemasters} e {@LinkCreature:34#710#warlords}.&lt;BR&gt;&lt;BR&gt;Relacione-se com Rodena quando o feito estiver concluído.</Page>
+    
     
     </Text>
     <Text huntingZoneId="234" id="3" prevId="2" villagerId="1002">
          
+         
         <Page social="4">Uma luta duramente conquistada, &lt;PCNAME&gt;. Seu sangue é apreciado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="234" id="4" villagerId="1002">
          
+         
         <Page social="0">Os wendigos recusam todas as súplicas e ofertas. Eles forçaram nossa mão, assim como nós devemos forçar a sua. Leve a luta até eles.</Page>
+    
     
     </Text>
 </QuestDialog>

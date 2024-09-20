@@ -1,49 +1,67 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="604" id="14" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="604" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="71" id="100" prevId="0" villagerId="3005">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="71" id="2" prevId="0" villagerId="3005">
          
+         
         <Page social="4">Ei, quer um pouco de trabalho relaxante? &lt;BR&gt;&lt;BR&gt;{@LinkCreature:71#3003#Ruma} está com falta de remédios.</Page>
+    
     
     </Text>
     <Text huntingZoneId="71" id="3" prevId="2" villagerId="3003">
          
+         
         <Page social="4">É bom vê-lo, amigo.&lt;BR&gt;&lt;BR&gt;Sempre fora de alguma coisa, com todos os cortes, hematomas e mordidas de preguiça.&lt;BR&gt;&lt;BR&gt;Traga o que encontrar para Buran. E obrigado!</Page>
+    
     
     </Text>
     <Text huntingZoneId="71" id="4" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="71" id="5" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="71" id="6" prevId="2" villagerId="3005">
          
+         
         <Page social="4">Isso é muito bom! &lt;BR&gt;&lt;BR&gt;Obrigado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="71" id="7" villagerId="3005">
          
+         
         <Page social="0">A planta sombra da lua que {@LinkCreature:71#3003#Ruma} precisa cresce ao redor do Jardim de Seren.</Page>
+    
     
     </Text>
     <Text huntingZoneId="71" id="8" prevId="6" villagerId="3005">
          
+         
         <Page social="4">Aah, que cheiro agradável! Muito fresco.</Page>
+    
     
     </Text>
     <Text huntingZoneId="71" id="9" villagerId="3005">
          
+         
         <Page social="0">A lótus do luar é um ótimo desinfetante.&lt;BR&gt;&lt;BR&gt;Deve haver algumas perto do Lago de Seren.</Page>
+    
     
     </Text>
 </QuestDialog>

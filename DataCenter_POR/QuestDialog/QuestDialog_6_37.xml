@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="6" id="37" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="6" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="206" id="100" prevId="0" villagerId="1019">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="206" id="2" prevId="0" villagerId="1019">
          
+         
         <Page social="5">Não tenho notícias de {@LinkCreature:206#1006#Ethia} há algum tempo. Eu estava trabalhando com ela antes de vir para cá, mas pelo que me lembro, ela não teve muita ajuda.&lt;BR&gt;&lt;BR&gt;Eu tenho que ficar aqui, mas seria um grande favor se você pudesse ir ver como as coisas estão indo.&lt;BR&gt;&lt;BR&gt;Eu tenho certeza de que ela vai precisar de ajuda lá fora.</Page>
+    
     
     </Text>
     <Text huntingZoneId="206" id="3" prevId="2" villagerId="1006">
          
+         
         <Page social="5">Sim! Sim, precisamos de ajuda. Não tenho certeza de quem você é, mas vou aprender seu nome eventualmente.&lt;BR&gt;&lt;BR&gt;Primeiro, vamos falar sobre o que você vai fazer por nós.</Page>
+    
     
     </Text>
 </QuestDialog>

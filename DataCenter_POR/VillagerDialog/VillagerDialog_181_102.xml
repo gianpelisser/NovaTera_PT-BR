@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="181" id="102" voiceTypeId="0">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="102" huntingZoneId="181" voiceTypeId="0">
     <Text id="1" endSocial="0">
          
+         
         <Page social="0" voiceTypeId="0">&lt;img src='img://__Image_Dungeon_9054.9054'/&gt;Este teleportal leva você para &lt;font color='#0000FF'&gt;Bathysmal Rise&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;(Esta é uma instância de 5 jogadores.) &lt;/font&gt;</Page>
+    
     
     </Text>
 </VillagerDialog>

@@ -203,7 +203,11 @@
         <HuntingZone id="888" name="{@Rgn:9888001$$Sinestral Manor (1 person)}" kind="solo" step="7" />
         <HuntingZone id="889" name="{@Rgn:9889001$$Cultists' Refuge (1 person)}" kind="solo" step="12" />
         <HuntingZone id="901" name="Bellicarium" kind="solo" step="99" />
-        <HuntingZone id="1022" name="Nexus" kind="solo" step="23" />
+        <HuntingZone id="904" kind="solo" name="Treasure Hunters (Season 1)" step="99" />
+        <HuntingZone id="905" kind="solo" name="Bounty Hunters (Season 1)" step="99" />
+        <HuntingZone id="979" kind="solo" name="{@Rgn:9979001$$Saravash's Lair}" step="26" />
+        <HuntingZone id="8000" kind="solo" name="Letter from the Valkyon Federation Vanguard" step="98" />
+		<HuntingZone id="1022" name="Nexus" kind="solo" step="23" />
         <HuntingZone id="9999" name="Vanguard Initiative" kind="solo" step="98" />
     </QuestHuntingZoneList>
     <StoryGroupList>
@@ -364,6 +368,9 @@
         <StoryGroup id="608" name="Avatar Weapons">
             <Quest id="368" />
         </StoryGroup>
+        <StoryGroup id="609" name="Avatar Weapons">
+            <Quest id="369" />
+        </StoryGroup>
         <StoryGroup id="17" name="Balder's Refuge">
             <Quest id="3001" />
             <Quest id="3002" />
@@ -499,6 +506,9 @@
             <Quest id="8706" />
             <Quest id="8707" />
             <Quest id="8708" />
+        </StoryGroup>
+        <StoryGroup id="7004" name="Nakatam Tower">
+            <Quest id="1099" />
         </StoryGroup>
     </StoryGroupList>
 </QuestGroupList>

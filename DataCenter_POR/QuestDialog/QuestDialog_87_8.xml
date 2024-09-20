@@ -1,34 +1,46 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="87" id="8" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="87" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="87" id="100" prevId="0" villagerId="1030">
          
+         
         <Page social="0">&lt;img src='img://__Quest_Mission.870801'/&gt;&lt;BR&gt;Depois de consolar os espíritos daqueles que morreram na guerra contra os orcs, você se dirigiu a Kaiator em busca de batalhas maiores.</Page>
+    
     
     </Text>
     <Text huntingZoneId="87" id="2" prevId="0" villagerId="1030">
          
+         
         <Page social="4">&lt;img src='img://__Quest_Mission.870801'/&gt;&lt;BR&gt;Agora que os orcs perderam seu líder, eles são apenas um bando de músculos burros sem cérebro. Eles não terão nenhuma chance contra o nosso contra-ataque. &lt;PCNAME&gt;, você é realmente um herói.&lt;BR&gt;&lt;BR&gt;Mas há algo mais que preciso lhe pedir. Aqueles que morreram aqui... seus espíritos não podem descansar até que entendam que foram vingados. Somente uma pessoa pode tranquilizar seus espíritos: a pessoa que os vingou. O salvador de Pora Elinu.&lt;BR&gt;&lt;BR&gt;Você, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Por favor, retorne a Pora Elinu, encontre-se com Sujai e realize a Cerimônia de Luto.</Page>
+    
     
     </Text>
     <Text huntingZoneId="87" id="3" prevId="2" villagerId="1024">
          
+         
         <Page social="4">É hora de curar. Coloque esta flor no queimador de incenso.</Page>
+    
     
     </Text>
     <Text huntingZoneId="87" id="4" prevId="3" villagerId="1025">
          
+         
         <Page social="5">(Quando você coloca a flor no incensário, surge um aroma puro e sutil).</Page>
+    
     
     </Text>
     <Text huntingZoneId="87" id="5" prevId="4" villagerId="1024">
          
+         
         <Page social="4">&lt;PCNAME&gt;, você é uma pessoa maravilhosa. Obrigado.&lt;BR&gt;&lt;BR&gt;Levará tempo para que tudo volte a ser como antes.&lt;BR&gt;&lt;BR&gt;A Princesa Rida viajou até Kaiator para pedir ajuda e deixou a reconstrução de Pora Elinu para minha senhora Arin. A notícia de seus feitos chegou à Princesa Rida. Ela me pediu para enviá-lo a ela imediatamente.&lt;BR&gt;&lt;BR&gt;Espero que você tenha tudo o que precisa. Por favor, dê meus cumprimentos à Princesa Rida. Até logo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="84" id="6" prevId="5" villagerId="10031">
          
+         
         <Page social="4">&lt;PCNAME&gt;! Eu soube de tudo o que você fez por Pora Elinu! Você é tão corajoso! &lt;BR&gt;&lt;BR&gt;Estou muito feliz por ter confiado em você. Muito obrigado.&lt;BR&gt;&lt;BR&gt;Este foi apenas o começo de suas aventuras, &lt;PCNAME&gt;. Você tem muito mais coisas grandiosas para fazer, para deixar ainda mais pessoas tão felizes quanto você nos deixou. Você sempre será lembrado como o Salvador de Pora Elinu. Obrigado por tudo!</Page>
+    
     
     </Text>
 </QuestDialog>

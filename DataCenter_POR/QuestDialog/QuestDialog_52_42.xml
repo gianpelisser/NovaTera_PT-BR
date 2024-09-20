@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="42" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="52" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="252" id="100" prevId="0" villagerId="1034">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="252" id="2" prevId="0" villagerId="1034">
          
+         
         <Page social="4">Os argonss estão aqui. É claro.&lt;BR&gt;&lt;BR&gt;Não sei se eles estão trabalhando para Thulsa ou vice-versa.&lt;BR&gt;&lt;BR&gt;Mas a presença deles é... antinatural. Ela contamina este lugar, que é praticamente sagrado para o meu povo!&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, puna os argons e seu líder, Tarnos, por pisarem em nossa fornalha!</Page>
+    
     
     </Text>
     <Text huntingZoneId="252" id="3" prevId="2" villagerId="1034">
          
+         
         <Page social="4">Obrigado por proteger a fornalha. Nossos ancestrais aprovam sua bravura.&lt;BR&gt;&lt;BR&gt;E um dia, essa bravura será recompensada - com juros!</Page>
+    
     
     </Text>
 </QuestDialog>

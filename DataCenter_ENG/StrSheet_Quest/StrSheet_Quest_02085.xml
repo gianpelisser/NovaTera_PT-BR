@@ -1,25 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="60114001" string="Bring 'Em Back Alive" />
-    <String id="60114002" string="We can't let the argons hold our people." />
-    <String id="60114003" string="Words of gratitude seem inadequate to the miracle you wrought." />
-    <String id="60114004" string="" />
-    <String id="60114005" string="" />
-    <String id="60114006" string="" />
-    <String id="60114007" string="Meet {@LinkCreature:246#3002#Arnan} at {@Rgn:46015$$Hexheart Chamber} in the {@Rgn:46002$$Raga Evala}." />
-    <String id="60114008" string="&quot;As ordered.&quot;" />
-    <String id="60114009" string="{@LinkCreature:246#3002}" />
-    <String id="60114010" string="Teleport Scroll" />
-    <String id="60114011" string="Operate the transmogrification pod controls west of the camp to rescue the prisoner, and then use the teleport scroll." />
-    <String id="60114012" string="&quot;This will get you to safety.&quot;" />
-    <String id="60114013" string="{@LinkCreature:246#3002}" />
-    <String id="60114014" string="Teleport Scroll" />
-    <String id="60114015" string="Operate the transmogrification pod controls west of the camp to rescue the prisoner, and then use the teleport scroll." />
-    <String id="60114016" string="&quot;This will get you to safety.&quot;" />
-    <String id="60114017" string="{@LinkCreature:246#3002}" />
-    <String id="60114018" string="Teleport Scroll" />
-    <String id="60114019" string="Operate the transmogrification pod controls west of the camp to rescue the prisoner, and then use the teleport scroll." />
-    <String id="60114020" string="&quot;This will get you to safety." />
-    <String id="60114021" string="&quot;The honor is mine.&quot;" />
-    <String id="60114022" string="Speak to {@LinkCreature:246#3002#Arnan} in {@Rgn:46015$$Hexheart Chamber}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="60112001" string="One-stop Shopping at Argon Depot" />
+    <String id="60112002" string="Some of our finest minds work out of the {@Rgn:46016$$Mindcrown Chamber}." />
+    <String id="60112003" string="Now, let us see what we can see." />
+    <String id="60112004" string="" />
+    <String id="60112005" string="" />
+    <String id="60112006" string="" />
+    <String id="60112007" string="Meet {@LinkCreature:246#3003#Ashinne} at the {@Rgn:46016$$Mindcrown Chamber}." />
+    <String id="60112008" string="&quot;Consider it done.&quot;" />
+    <String id="60112009" string="Altered Sikandari Feather" />
+    <String id="60112010" string="Hunt {@LinkCreature:46#301#argonomorph sikandaris} near the {@Rgn:46008} and collect their feathers." />
+    <String id="60112011" string="Deliver the feathers to {@LinkCreature:246#3003#Ashinne}." />
+    <String id="60112012" string="&quot;Understood.&quot;" />
+    <String id="60112013" string="Tainted Fiend Heart" />
+    <String id="60112014" string="Hunt the {@LinkCreature:46#303#argonomorph blood fiends} that appeared in the {@Rgn:46006} and collect their hearts." />
+    <String id="60112015" string="Deliver the hearts to {@LinkCreature:246#3003#Ashinne}." />
+    <String id="60112016" string="&quot;I'm on it.&quot;" />
+    <String id="60112017" string="Argonified Fey Focus" />
+    <String id="60112018" string="Hunt {@LinkCreature:46#304#argonomorph jalmaraks} in the {@Rgn:46007$$Raga Evala Depths} and collect their foci." />
+    <String id="60112019" string="Deliver the foci to {@LinkCreature:246#3003#Ashinne}." />
+    <String id="60112020" string="&quot;My pleasure.&quot;" />
 </StrSheet_Quest>

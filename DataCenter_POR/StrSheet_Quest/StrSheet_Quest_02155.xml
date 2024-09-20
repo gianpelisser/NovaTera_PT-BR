@@ -1,25 +1,29 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="60520001" string="Reino Craftania" />
-    <String id="60520002" string="&quot;Interessante...&quot;" />
-    <String id="60520003" string="" />
-    <String id="60520004" string="" />
-    <String id="60520005" string="" />
-    <String id="60520006" string="" />
-    <String id="60520007" string="Fale com {@LinkCreature:63#3003#Elthienne}." />
-    <String id="60520008" string="&quot;Estou cuidando disso.&quot;" />
-    <String id="60520009" string="&quot;Como solicitado.&quot;" />
-    <String id="60520010" string="Entregue três lingotes de krysteel para {@LinkCreature:63#3001#Barian}." />
-    <String id="60520011" string="" />
-    <String id="60520012" string="&quot;Estou a caminho.&quot;" />
-    <String id="60520013" string="Entregue três peças de deosilex a {@LinkCreature:63#3001#Barian}." />
-    <String id="60520014" string="" />
-    <String id="60520015" string="&quot;Com certeza.&quot;" />
-    <String id="60520016" string="Entregue três peças de couro de zalis para {@LinkCreature:63#3001#Barian}." />
-    <String id="60520017" string="" />
-    <String id="60520018" string="&quot;Eu sou artesanal!&quot;" />
-    <String id="60520019" string="Entregue três peças de verdracloth para {@LinkCreature:63#3001#Barian}." />
-    <String id="60520020" string="" />
-    <String id="60520021" string="&quot;Tudo bem, mas sem mais apelidos&quot;." />
-    <String id="60520022" string="Solicite seu pagamento a {@LinkCreature:63#3002#Taratia}." />
+    <String id="60518001" string="Caçador de Monstros" />
+    <String id="60518002" string="&quot;Sim.&quot;" />
+    <String id="60518003" string="" />
+    <String id="60518004" string="" />
+    <String id="60518005" string="" />
+    <String id="60518006" string="" />
+    <String id="60518007" string="Diga a {@LinkCreature:63#3003#Elthienne} que você quer ajudar." />
+    <String id="60518008" string="&quot;Com certeza.&quot;" />
+    <String id="60518009" string="Carne Naga" />
+    <String id="60518010" string="Caçar {@LinkCreature:7#1#mercenários naga} nas {@Rgn:7001#Celestial Hills} e entregar a carne deles para {@LinkCreature:63#3002#Taratia} em Velika." />
+    <String id="60518011" string="" />
+    <String id="60518012" string="&quot;Fico feliz por ter ajudado.&quot;" />
+    <String id="60518013" string="Gordura de Kumas" />
+    <String id="60518014" string="Caçar {@LinkCreature:7#3#kumases indolentes} nas {@Rgn:7001#Celestial Hills} e entregar sua gordura para {@LinkCreature:63#3002#Taratia} em Velika." />
+    <String id="60518015" string="" />
+    <String id="60518016" string="&quot;Fico feliz por ter ajudado.&quot;" />
+    <String id="60518017" string="Gordura de Kumas" />
+    <String id="60518018" string="Caça {@LinkCreature:7#4#torpid kumases} nas {@Rgn:7001#Celestial Hills} e entrega sua gordura para {@LinkCreature:63#3002#Taratia} em Velika." />
+    <String id="60518019" string="" />
+    <String id="60518020" string="&quot;Fico feliz por ter ajudado.&quot;" />
+    <String id="60518021" string="Juggernaut Jerky" />
+    <String id="60518022" string="Cace {@LinkCreature:7#23#juggernaut mercenários} em {@Rgn:7001#Celestial Hills} e entregue carne seca para {@LinkCreature:63#3002#Taratia} em Velika." />
+    <String id="60518023" string="" />
+    <String id="60518024" string="&quot;Fico feliz por ter ajudado.&quot;" />
+    <String id="60518025" string="&quot;Aguente firme.&quot;" />
+    <String id="60518026" string="Consulte {@LinkCreature:63#3003#Elthienne}." />
 </StrSheet_Quest>

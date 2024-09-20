@@ -1,36 +1,49 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="26" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="30" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="230" id="100" prevId="0" villagerId="1006">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="230" id="2" prevId="0" villagerId="1006">
          
+         
         <Page social="1">&lt;PCCLASS&gt;, gostaria de lhe dar uma palavra.&lt;BR&gt;&lt;BR&gt;Os ghilliedhus azureroot estão em flor, e seu pólen pode causar erupções cutâneas.&lt;BR&gt;&lt;BR&gt;Poderia perguntar a Lashinuk se ele tem um tratamento?</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="3" prevId="2" villagerId="1007">
          
+         
         <Page social="1">Ah, sim. O pólen é um mecanismo de defesa. Felizmente, há um tratamento.&lt;BR&gt;&lt;BR&gt;Posso fazer um lote se você for ao {@Rgn:30005$$Seren's Garden} e encontrar algumas plantas de sombra da lua.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="4" prevId="3" villagerId="1007">
          
+         
         <Page social="1">Isso é o suficiente.&lt;BR&gt;&lt;BR&gt;Os elfos superiores fazem chá com as folhas secas, mas se você amassá-las enquanto ainda estão frescas, elas são um remédio calmante.&lt;BR&gt;&lt;BR&gt;Deixe-me triturá-las.&lt;NEXTPAGEBUTTON&gt;"Muito perfumadas."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Não são? &lt;BR&gt;&lt;BR&gt;Espalhe isso duas vezes por dia. Deve reduzir a erupção cutânea em poucas horas.&lt;BR&gt;&lt;BR&gt;Oh, é para um amigo seu? Tenho certeza de que é.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="5" villagerId="1007">
          
+         
         <Page social="0">Você encontrou alguma planta de sombra da lua?</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="6" prevId="4" villagerId="1006">
          
+         
         <Page social="1">Graças aos titãs, você está de volta. A coceira estava me enlouquecendo.&lt;BR&gt;&lt;BR&gt;Perdoe-me por ser brusco, mas, por favor, aceite meus agradecimentos... e depois vá embora para que eu possa passar este creme.</Page>
+    
     
     </Text>
 </QuestDialog>

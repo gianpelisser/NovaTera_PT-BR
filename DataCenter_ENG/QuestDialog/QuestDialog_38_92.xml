@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="38" id="92" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="74" id="100" prevId="0" villagerId="1036">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="38" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="74" prevId="0" villagerId="1036">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="74" id="2" prevId="0" villagerId="1036">
-         
+    <Text id="2" huntingZoneId="74" prevId="0" villagerId="1036">
         <Page social="5">I just love lists, don't you? The way you can think you're almost done, only to discover there are more pages than you thought? Warms my heart.&lt;BR&gt;&lt;BR&gt;Okay! I need you to go kill some {@LinkCreature:38#12#gluttonous fangspawns}. That'd be pretty swell of you.&lt;BR&gt;&lt;BR&gt;Check in with Elmaire at Craterview Outpost in Sienna Canyon when you've handled that.</Page>
-    
     </Text>
-    <Text huntingZoneId="238" id="3" prevId="2" villagerId="1009">
-         
+    <Text id="3" huntingZoneId="238" prevId="2" villagerId="1009">
         <Page social="5">Good job. Here's your reward.&lt;BR&gt;&lt;BR&gt;Keep up the good work!</Page>
-    
     </Text>
-    <Text huntingZoneId="238" id="4" villagerId="1009">
-         
+    <Text id="4" huntingZoneId="238" villagerId="1009">
         <Page social="0">You haven't completed your mission.</Page>
-    
     </Text>
 </QuestDialog>

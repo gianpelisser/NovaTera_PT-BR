@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns="https://vezel.dev/novadrop/dc/QuestGroupList" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="https://vezel.dev/novadrop/dc" elementFormDefault="qualified" targetNamespace="https://vezel.dev/novadrop/dc/QuestGroupList" xsi:schemaLocation="https://vezel.dev/novadrop/dc ../DataCenter.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="QuestGroupList">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="QuestHuntingZoneList" type="QuestGroupList_QuestHuntingZoneList" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="StoryGroupList" type="QuestGroupList_StoryGroupList" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="QuestGroupList" type="QuestGroupList" />
+  <xs:complexType name="QuestGroupList_QuestHuntingZoneList">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="HuntingZone" type="QuestGroupList_QuestHuntingZoneList_HuntingZone" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType dc:keys="id" name="QuestGroupList_QuestHuntingZoneList_HuntingZone">
+    <xs:attribute name="id" type="xs:int" />
+    <xs:attribute name="kind" type="xs:string" />
+    <xs:attribute name="name" type="xs:string" />
+    <xs:attribute name="step" type="xs:int" />
+  </xs:complexType>
+  <xs:complexType name="QuestGroupList_StoryGroupList">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="StoryGroup" type="QuestGroupList_StoryGroupList_StoryGroup" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="QuestGroupList_StoryGroupList_StoryGroup">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Quest" type="QuestGroupList_StoryGroupList_StoryGroup_Quest" />
+    </xs:sequence>
+    <xs:attribute name="id" type="xs:int" />
+    <xs:attribute name="name" type="xs:string" />
+  </xs:complexType>
+  <xs:complexType name="QuestGroupList_StoryGroupList_StoryGroup_Quest">
+    <xs:attribute name="id" type="xs:int" />
+  </xs:complexType>
+</xs:schema>

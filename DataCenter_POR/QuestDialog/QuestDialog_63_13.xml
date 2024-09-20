@@ -1,16 +1,24 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="63" voiceTypeId="0">
     <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
     <Text id="100" huntingZoneId="63" prevId="0" villagerId="1600">
+         
         <Page social="0" />
+    
     </Text>
     <Text id="2" huntingZoneId="63" prevId="0" villagerId="1600">
+         
         <Page social="4">Saudações, viajante!!! Meu nome é Byako. Sou uma das pleiades da Grande Deusa Elinu. Fui enviado para cá em uma missão importante, cujos detalhes não posso revelar a você, pelo menos por enquanto. Preciso de lutadores excepcionalmente fortes e, por isso, proponho um pequeno teste. Se você for bem-sucedido, trabalharemos com você novamente. Tenho alguns rumores não confirmados, mas estou bastante ocupado para verificá-los pessoalmente... De acordo com eles, os fragmentos da poderosa runa Uruz foram encontrados no Bastion of Lok. Os rumores também dizem que ela torna o mana quase inesgotável, portanto, nos ajudará na batalha contra os deuses... ... uhm... Quero dizer, contra... como eles são chamados, hmmm, oh, Argons! Argons, sim! Traga-me alguns desses fragmentos. Será a prova perfeita de que podemos fazer negócios com vocês!</Page>
+    
     </Text>
     <Text id="3" huntingZoneId="63" prevId="2" villagerId="1600">
+         
         <Page social="4">Uau, eu não esperava ver você novamente. Então os rumores são verdadeiros?! Isso é muito incrível e assustador ao mesmo tempo... Não vamos falar de coisas ruins, pegue sua recompensa e espere por mais notícias, se estiver interessado, é claro!</Page>
+    
     </Text>
     <Text id="4" huntingZoneId="63" villagerId="1600">
+         
         <Page social="0">Quem diabos é esse assassino de Deus?</Page>
+    
     </Text>
 </QuestDialog>

@@ -1,23 +1,31 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="61" id="81" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="81" huntingZoneId="61" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0">(Você recebeu uma carta de Elleon.)&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;,&lt;BR&gt;&lt;BR&gt;Nossas batalhas ainda não terminaram. Para derrotar Thulsa e resgatar Serion, precisamos nos preparar.&lt;BR&gt;Encontre-me em {@Rgn:61004} em {@Rgn:61001}. Fiquem seguros.&lt;BR&gt;&lt;BR&gt;-{@linkcreature:61#1104}</Page>
+    
     
     </Text>
     <Text huntingZoneId="61" id="3" prevId="2" villagerId="1104">
          
+         
         <Page social="3">Obrigado por ter vindo.&lt;BR&gt;&lt;BR&gt;Nossas próximas batalhas serão mais duras e enfrentaremos inimigos mais fortes do que qualquer coisa que tenhamos lutado no passado.&lt;BR&gt;&lt;BR&gt;Devemos nos preparar.&lt;NEXTPAGEBUTTON&gt;"Como nos preparamos?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="4">Precisamos encantar nossos equipamentos em um grau mais alto do que nunca. Para conseguir essa façanha, precisamos encantar o equipamento até +9. Em algum momento, precisaremos de obra-prima de Alkahest para melhorar o desempenho, mas não vamos nos precipitar.&lt;NEXTPAGEBUTTON&gt;"Certo."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="12">Infelizmente, tudo o que posso lhe dar agora é matéria-prima de nível 1 e alguns alkahests.&lt;BR&gt;Não jogue fora essa matéria-prima de nível baixo. Você pode combinar a matéria-prima para obter uma de nível superior.&lt;BR&gt;&lt;BR&gt;Boa sorte, meu amigo!</Page>
+    
     
     </Text>
 </QuestDialog>

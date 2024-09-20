@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="224" id="1031" voiceTypeId="132">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1031" huntingZoneId="224" voiceTypeId="132">
     <Text id="1" endSocial="0">
          
+         
         <Page social="0">Thank you for stopping the ritual. I'll make sure that the Magic Stone is destroyed.</Page>
+    
     
     </Text>
 </VillagerDialog>

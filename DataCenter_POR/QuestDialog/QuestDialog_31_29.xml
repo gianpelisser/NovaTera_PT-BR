@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="31" id="29" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="31" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="231" id="100" prevId="0" villagerId="1010">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="231" id="2" prevId="0" villagerId="1010">
          
+         
         <Page social="4">Eu sempre recebo as piores missões de reconhecimento.&lt;BR&gt;&lt;BR&gt;Agora o Georrif quer que eu vá até aquelas fragatas congeladas, mas o caminho está cheio de {@LinkCreature:31#3#frigid ossugons} e {@LinkCreature:31#7#deathfrost cavaliers}! Não vou conseguir voltar vivo! &lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, para a segurança de seus colegas soldados da federação... hummm, eu... você poderia abrir caminho?</Page>
+    
     
     </Text>
     <Text huntingZoneId="231" id="3" prevId="2" villagerId="1010">
          
+         
         <Page social="4">Mas agora que a área está realmente limpa, não há mais emoção.&lt;BR&gt;&lt;BR&gt;O que estou dizendo? Muito obrigado. Você é um salvador de vidas!</Page>
+    
     
     </Text>
 </QuestDialog>

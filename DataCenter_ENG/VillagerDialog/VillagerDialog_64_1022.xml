@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="64" id="1022" voiceTypeId="110">
-    <Text huntingZoneId="64" id="1" endSocial="14" prevId="0" villagerId="1022">
-         
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1022" huntingZoneId="64" voiceTypeId="110" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="64" prevId="0" villagerId="1022" endSocial="14">
         <Page social="4">I'm here to be...diplomatic. When words fail, or when danger threatens the councilor, my blade negotiates a quick end to hostilities. &lt;BR&gt;&lt;BR&gt;True, I'd rather be at the argon front protecting all the federation. Still, I'm honor-bound to serve here, and so I shall.</Page>
-    
     </Text>
 </VillagerDialog>

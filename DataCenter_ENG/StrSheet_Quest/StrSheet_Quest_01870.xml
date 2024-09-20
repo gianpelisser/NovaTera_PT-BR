@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="12208001" string="Fact Finding through Collective Slaying" />
-    <String id="12208002" string="Slay beasts in Free Traders Collective territory." />
-    <String id="12208003" string="&quot;The honor of service is mine.&quot;" />
-    <String id="12208004" string="Report to {@linkcreature:122#9001#Derene}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="12207001" string="Test of Collective Bravery" />
+    <String id="12207002" string="Enter Free Traders Collective territory and slay huge beasts." />
+    <String id="12207003" string="&quot;It has been my honor to serve the Enlightened Union.&quot;" />
+    <String id="12207004" string="Report to {@linkcreature:122#9001#Derene}." />
 </StrSheet_Quest>

@@ -1,11 +1,47 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4524001" string="Pilares suspeitos" />
-    <String id="4524002" string="As implicações são assustadoras." />
-    <String id="4524003" string="Obrigado por isso." />
-    <String id="4524004" string="Lute contra {@creature:45#2001#argonomorph blood fiends} na parte leste do {@Rgn:45003$$Vale of the Reaper}." />
-    <String id="4524005" string="Quebre os pilares de cyadal na parte leste do {@Rgn:45003$$Vale of the Reaper} e colete amostras." />
-    <String id="4524006" string="&quot;É uma honra servir.&quot;" />
-    <String id="4524007" string="Coletar amostras." />
-    <String id="4524008" string="Entregue as amostras para Rennie em {@Rgn:45007$$Field Base Tenacity}." />
+    <String id="4501001" string="Construindo um Mysterium" />
+    <String id="4501002" string="&quot;Obrigado.&quot;" />
+    <String id="4501003" string="[{@Rgn:45010$$value Watchpoint}] Pergunte a {@LinkCreature:245#1022$$Laskan} sobre o paradeiro de Yasring." />
+    <String id="4501004" string="&quot;Eu cuidarei disso.&quot;" />
+    <String id="4501005" string="[{@Rgn:45001$$Thrallhold} Entrance] Pergunte a Yasring sobre sua pesquisa." />
+    <String id="4501006" string="&quot;Entendido.&quot;" />
+    <String id="4501007" string="[Entregar a carta de Yasring para {@LinkCreature:245#2002$$$Mitiel}." />
+    <String id="4501008" string="&quot;Muito bem.&quot;" />
+    <String id="4501009" string="[Fale com {@Rgn:45006$$Reciprocidade de Base de Campo}]." />
+    <String id="4501010" string="&quot;É isso mesmo.&quot;" />
+    <String id="4501011" string="[{@Rgn:45006$$Reciprocidade de Base de Campo}] Fale com {@LinkCreature:245#2004$$$Kupan} sobre o carregamento de armadura que está faltando." />
+    <String id="4501012" string="Caravana de Churimon" />
+    <String id="4501013" string="Você encontrou o Churimon." />
+    <String id="4501014" string="Vá para o &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=7023#12796, -53224, -4084&amp;type=1&amp;name=Rendezvous Site&quot;&gt;rendezvous site&lt;/A&gt;&lt;/font&gt; e encontre Churimon." />
+    <String id="4501015" string="&quot;É claro.&quot;" />
+    <String id="4501016" string="[{@Rgn:45006$$Field Base Reciprocity}] Encontre {@LinkCreature:245#2005$$$Churimon} e localize o carregamento." />
+    <String id="4501017" string="&quot;Vou usar esta pedra para tração.&quot;" />
+    <String id="4501018" string="[{@Rgn:45006$$Reciprocidade de Base de Campo}] Investigue a {@LinkCreature:245#2012#Carruagem de Mystério}." />
+    <String id="4501019" string="&quot;Eu farei isso.&quot;" />
+    <String id="4501020" string="Diga a {@LinkCreature:245#2005$$Churimon} que você liberou a carruagem." />
+    <String id="4501021" string="&quot;Muito bem.&quot;" />
+    <String id="4501022" string="[{@Rgn:45009$$Camp Insanity}] Faça o check-in com {@LinkCreature:245#2009$$$Ronalt}." />
+    <String id="4501023" string="&quot;Partiremos imediatamente.&quot;" />
+    <String id="4501024" string="Fale com {@LinkCreature:245#2011$$Churimon}." />
+    <String id="4501025" string="&quot;Entendi.&quot;" />
+    <String id="4501026" string="[{@Rgn:45009$$Camp Insanity}] Fale com {@LinkCreature:245#2009$$$Ronalt} novamente." />
+    <String id="4501027" string="Site de pesquisa" />
+    <String id="4501028" string="Você chegou ao local da pesquisa." />
+    <String id="4501029" string="Encontre Ronalt no &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=7023#-6907, -47629, -3938&amp;type=1&amp;name=Research Site&quot;&gt;sítio de pesquisa&lt;/A&gt;&lt;/font&gt;." />
+    <String id="4501030" string="&quot;Imediatamente.&quot;" />
+    <String id="4501031" string="Fale com {@LinkCreature:245#2010$$Ronalt}." />
+    <String id="4501032" string="&quot;Parece bom.&quot;" />
+    <String id="4501033" string="[{@Rgn:45005$$Skyfields}] Colete amostras de &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=7023#813, -53203, -3631&amp;type=1&amp;name=Argonized Plants&quot;&gt;plantas argônticas&lt;/A&gt;&lt;/font&gt;." />
+    <String id="4501034" string="Entregue as amostras à Ronalt." />
+    <String id="4501035" string="&quot;Vou experimentar.&quot;" />
+    <String id="4501036" string="[{@Rgn:45009$$Camp Insanity}] Fale com {@LinkCreature:245#2009$$$Ronalt}." />
+    <String id="4501037" string="&quot;Aqui não vai nada&quot;." />
+    <String id="4501038" string="[{@Rgn:45005$$Skyfields}] Use a poção de desargonificação em um {@LinkCreature:245#2028#argonomorph tuwangi} e observe os resultados." />
+    <String id="4501039" string="&quot;Com certeza.&quot;" />
+    <String id="4501040" string="Envie um relatório para {@LinkCreature:245#2009$$Ronalt}." />
+    <String id="4501041" string="&quot;Vou para lá, então&quot;." />
+    <String id="4501042" string="[{@Rgn:45007$$Field Base Tenacity}] Obtenha a opinião de {@LinkCreature:245#2002#Mitiel} sobre o resultado da poção." />
+    <String id="4501043" string="&quot;Droga. Vou para lá em seguida&quot;." />
+    <String id="4501044" string="Entregar a pesquisa de Ronalt a Rancien." />
 </StrSheet_Quest>

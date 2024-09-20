@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="702" id="15" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="15" huntingZoneId="702" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="205" id="100" prevId="0" villagerId="2001">
          
+         
         <Page social="0">Você fez um dragão em um palito para a Pond Faire.</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="2" prevId="0" villagerId="2001">
          
+         
         <Page social="4">Tuwangi está com fome. &lt;BR&gt;&lt;PCNAME&gt;, você mata, você grelha e nós compartilhamos! &lt;NEXTPAGEBUTTON&gt;Fale sobre a ponta curta do bastão.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="3" prevId="2" villagerId="2001">
          
+         
         <Page social="4">O dragão torna o tuwangi feroz e forte. É o melhor alimento para os tuwangis. &lt;NEXTPAGEBUTTON&gt;Uh, os dragões são... ah, deixa pra lá.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="4" villagerId="2001">
          
+         
         <Page social="0">Mate o dragão!</Page>
+    
     
     </Text>
 </QuestDialog>

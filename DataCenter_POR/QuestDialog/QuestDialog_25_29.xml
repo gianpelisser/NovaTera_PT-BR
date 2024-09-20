@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="25" id="29" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="25" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="225" id="100" prevId="0" villagerId="1009">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="225" id="2" prevId="0" villagerId="1009">
          
+         
         <Page social="4">O Atel Akaad está suspeitamente calmo. Apesar de terem deixado para trás uma retaguarda, eu esperava mais luta da parte deles. Algo está se formando.&lt;BR&gt;&lt;BR&gt;A única maneira de saber é obter os relatórios de reconhecimento dos {@LinkCreature:25#2031#devan deathmasters} que eles deixaram para trás. Acredito que você possa seguir em frente e encontrar uma maneira de "adquiri-los".</Page>
+    
     
     </Text>
     <Text huntingZoneId="225" id="3" prevId="2" villagerId="1009">
          
+         
         <Page social="4">Esses são todos os relatórios de observação? Hmm... aqui está algo. A Maldição de Lok! Esta é realmente a calmaria antes da tempestade. Eles estão se preparando para realizar um ataque em grande escala. Precisamos de reforços! Isso é mais do que uma pessoa pode suportar. Cutuque o Rendalf com isso; talvez ele possa acender uma fogueira.</Page>
+    
     
     </Text>
     <Text huntingZoneId="225" id="4" villagerId="1009">
          
+         
         <Page social="0">Tire a porcaria daqui! Mais relatórios de reconhecimento! Precisamos de toda a inteligência que pudermos obter.</Page>
+    
     
     </Text>
     <Text huntingZoneId="225" id="5" prevId="3" villagerId="1027">
          
+         
         <Page social="10">Estou bem aqui, Culetta! Você não precisa de mensageiros e requisições oficiais. Hmph. Estou a cinco metros de distância.&lt;BR&gt;&lt;BR&gt;O que é tão importante que... isso é verdade? &lt;BR&gt;&lt;BR&gt;Os chefes guerreiros ossugon estão reunindo todos os cultistas restantes para atacar esse reduto! Não podemos nos dar ao luxo de perder esse ponto de apoio. Vou pedir reforços imediatamente.&lt;BR&gt;&lt;BR&gt;Obrigado por sua ajuda, &lt;PCNAME&gt;. Diga, se não estiver ocupado...</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="12" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="12" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="62" id="100" prevId="0" villagerId="1018">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="62" id="2" prevId="0" villagerId="1018">
          
+         
         <Page social="4">Parece que você está precisando de umas boas férias na praia, &lt;PCNAME&gt;. Portanto, tenho a tarefa certa para você.&lt;BR&gt;&lt;BR&gt;No Porto Cutthroat há um marinheiro chamado &lt;font color='#660000'&gt;Dirken&lt;/font&gt;. Ele está instigando problemas entre a Espada de Kaia e os piratas que chamam aquele porto de lar.&lt;BR&gt;&lt;BR&gt;Sim, eles são piratas de verdade, embora a maioria deles esteja presa em terra porque uma luta com algumas nagas deixou seus navios no fundo do oceano.&lt;BR&gt;&lt;BR&gt;Não podemos deixar um porto estrategicamente importante cair no caos, por razões óbvias. Portanto, mantenha a paz e seja discreto - os Justicars também estão à espreita.</Page>
+    
     
     </Text>
     <Text huntingZoneId="62" id="3" prevId="2" villagerId="1026">
          
+         
         <Page social="4">Dirken é um empresário ocupado. Ele não tem tempo para as "Prostitutas de Kaia" ou como vocês se chamam.</Page>
+    
     
     </Text>
     <Text huntingZoneId="62" id="4" prevId="3" villagerId="1024">
          
+         
         <Page social="4">Uau, &lt;PCCLASS:lcase&gt;. Um pouco sensível, não é? Espada de Kaia... era isso que eu queria dizer. Escorregão da língua.&lt;BR&gt;&lt;BR&gt;De qualquer forma, se você é militar, deixe-me adivinhar: você vai "requisitar" algo de nós, pessoas cumpridoras da lei e trabalhadoras, certo? &lt;BR&gt;&lt;BR&gt;Se você me perguntar, vale a pena ganhar algum dinheiro para que você brinque de soldado em outro lugar.</Page>
+    
     
     </Text>
 </QuestDialog>

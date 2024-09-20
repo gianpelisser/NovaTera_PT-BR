@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="415" id="12" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="415" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0">Entre na caverna e encontre Elleon.&lt;BR&gt;&lt;BR&gt;As tropas na praia estão seguras - por enquanto.</Page>
+    
     
     </Text>
     <Text huntingZoneId="416" id="3" prevId="2" villagerId="5010">
          
+         
         <Page social="4">Você é o &lt;PCNAME&gt;, certo? Seus treinadores em Velika falaram muito bem de você.&lt;BR&gt;&lt;BR&gt;Esperemos que eles não estivessem apenas sendo educados. O topo do penhasco está repleto de demônios e já sofremos baixas.&lt;BR&gt;&lt;BR&gt;Poderíamos recuar, mas isso apenas atrairia os demônios para a praia e eles nos massacrariam.&lt;BR&gt;&lt;BR&gt;Em vez disso, avançamos! Se conseguirmos vencer uma ou duas batalhas aqui em cima, poderemos enganar os demônios e fazê-los pensar que somos uma força de combate a ser reconhecida. Eles não podem pressionar uma vantagem que não sabem que têm!</Page>
+    
     
     </Text>
 </QuestDialog>

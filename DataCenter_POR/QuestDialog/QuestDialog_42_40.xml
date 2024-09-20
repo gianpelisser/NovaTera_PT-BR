@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="42" id="40" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="42" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="242" id="100" prevId="0" villagerId="1035">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="242" id="2" prevId="0" villagerId="1035">
          
+         
         <Page social="4">Já está cansado de matar mekonari? Eu também não. No terceiro nível, muitos deles precisam ser mortos.&lt;BR&gt;&lt;BR&gt;Posso contar com você?</Page>
+    
     
     </Text>
     <Text huntingZoneId="242" id="3" prevId="2" villagerId="1035">
          
+         
         <Page social="5">Você é uma fera, &lt;PCNAME&gt;! Um verdadeiro predador de ponta! Fique aqui e limpe todo esse templo fedorento.</Page>
+    
     
     </Text>
 </QuestDialog>

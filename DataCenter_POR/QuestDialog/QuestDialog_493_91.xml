@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="493" id="91" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="493" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="204" id="100" prevId="0" villagerId="1005">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="204" id="2" prevId="0" villagerId="1005">
          
+         
         <Page social="0">Precisamos de alguns núcleos de pragas mutantes do Esconderijo de Akasha.&lt;BR&gt;&lt;BR&gt;Vocês os encontrarão com {@LinkCreature:493#5005#Akasha}, {@LinkCreature:493#5004#Shargrim} e {@LinkCreature:493#5003#Lugribar}.&lt;BR&gt;&lt;BR&gt;Relatem a Tifane quando terminarem.</Page>
+    
     
     </Text>
     <Text huntingZoneId="204" id="3" prevId="2" villagerId="1006">
          
+         
         <Page social="5">Excelente trabalho. Por favor, continue nos ajudando a coletar núcleos de pragas mutantes.</Page>
+    
     
     </Text>
     <Text huntingZoneId="204" id="4" villagerId="1006">
          
+         
         <Page social="0">Precisamos reunir mais núcleos de pragas mutantes.</Page>
+    
     
     </Text>
 </QuestDialog>

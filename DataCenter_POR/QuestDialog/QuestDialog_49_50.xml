@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="49" id="50" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="50" huntingZoneId="49" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="249" id="100" prevId="0" villagerId="1019">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="249" id="2" prevId="0" villagerId="1019">
          
+         
         <Page social="4">Você está vendo a torre lá em cima - aquela com a escuridão azul saindo pelo topo? Essa é a Torre de Cyasma.&lt;BR&gt;&lt;BR&gt;Preciso estudá-la para encontrar uma maneira de feri-los, mas a entrada é fortemente vigiada. Preciso que você mate o mestre da torre e seus defensores kalash. Se você conseguir mantê-los ocupados, poderei fazer toda a minha pesquisa de uma só vez.&lt;BR&gt;&lt;BR&gt;Encontre Ginea quando terminar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="76" id="3" prevId="2" villagerId="1024">
          
+         
         <Page social="6">Graças a você, conseguimos nos manter firmes e enfraquecer consideravelmente nosso inimigo. Não pensei que fosse possível.&lt;BR&gt;&lt;BR&gt;Também estamos mais perto de encontrar essa rainha argônica - Shandra Manaya.&lt;NEXTPAGEBUTTON&gt;"Alguma novidade sobre ela?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Minha irmã mais nova está no rastro dela, então é para lá que você vai em seguida. Apresente-se a {@LinkCreature:250#1006} no Posto Avançado de Shroud.&lt;BR&gt;&lt;BR&gt;E, por favor, cuide bem dela.</Page>
+    
     
     </Text>
     <Text huntingZoneId="250" id="4" prevId="3" villagerId="1006">
          
+         
         <Page social="6">Bem-vindo à porta dos fundos dos argonss. Meu irmão fala muito bem de você.&lt;BR&gt;&lt;BR&gt;Vamos ao que interessa.</Page>
+    
     
     </Text>
 </QuestDialog>

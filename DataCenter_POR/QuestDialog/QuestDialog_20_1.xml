@@ -1,43 +1,59 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="20" id="1" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="20" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0">A Deusa Velik, a divindade guardiã de Velika, desejava vê-lo. Você respondeu às breves perguntas da Sacerdotisa Ciebel e, em seguida, obteve uma audiência com Velik. Ela o alertou sobre uma ameaça oculta a Velika e pediu sua ajuda.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0">Ordens da Missão&lt;BR&gt;&lt;BR&gt;Retornar a Velika imediatamente e se apresentar ao General Samael. Todas as outras ordens estão canceladas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="1137">
          
+         
         <Page social="4">Ah, &lt;PCNAME&gt;. Parece que a própria Velik gostaria de recompensá-lo pelo trabalho que você fez aqui.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#1167#A Sacerdotisa de Velik, Ciebel}, está esperando por você perto do ídolo da deusa. Sugiro que não a deixe esperando.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="4" prevId="3" villagerId="1167">
          
+         
         <Page social="4">&lt;PCNAME&gt;, finalmente. Que tipo de soldado você é? Velik está procurando soldados que sejam capazes de mais do que a simples obediência às ordens. A Federação Valkyon precisa de campeões - mais do que imagina.&lt;BR&gt;&lt;BR&gt;Você é um seguidor obediente ou um pensador independente? &lt;NEXTPAGEBUTTON&gt;"Um pensador obediente."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Excelente resposta! Bem dito.&lt;BR&gt;&lt;BR&gt;Talvez haja uma necessidade mais profunda de pessoas como você do que qualquer um imagina. Nosso mundo está chegando a um ponto decisivo. Como o Sonho tomará forma? &lt;BR&gt;&lt;BR&gt;Serão soldados como você que decidirão.&lt;BR&gt;&lt;BR&gt;Obrigado, &lt;PCNAME&gt;. Foi uma conversa muito agradável.&lt;BR&gt;&lt;BR&gt;Velik vai recebê-lo agora.</Page>
+    
     
     </Text>
     <Text huntingZoneId="409" id="5" prevId="4" villagerId="1001">
          
+         
         <Page social="4">Finalmente nos encontramos, &lt;PCNAME&gt;. Observei sua breve, mas ilustre, carreira. Você serviu com coragem, honra e, acima de tudo, compaixão.&lt;BR&gt;&lt;BR&gt;Eu preciso de soldados como você.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="6" prevId="5" villagerId="1167">
          
+         
         <Page social="4">Você retornou. Lembre-se do que a deusa lhe disse. Você deve defender a cidade - e o próprio Sonho.&lt;BR&gt;&lt;BR&gt;Volte agora para Samael. Adeus.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="7" prevId="6" villagerId="1137">
          
+         
         <Page social="4">Você conheceu a deusa? &lt;NEXTPAGEBUTTON&gt;"Conheci."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Você deveria se sentir humilde. Ela não se encontra com qualquer um, você sabe.&lt;BR&gt;&lt;BR&gt;Ela deve ver algo especial em você.&lt;BR&gt;&lt;BR&gt;Eu me pergunto o quê. Hah!</Page>
+    
     
     </Text>
 </QuestDialog>

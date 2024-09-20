@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="56" id="33" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="56" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="256" id="100" prevId="0" villagerId="1011">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="256" id="2" prevId="0" villagerId="1011">
          
+         
         <Page social="4">Killian deve ter projetado esse ritual. Ninguém é mais versado em dor - tenho certeza de que Thulsa sabia disso.&lt;BR&gt;&lt;BR&gt;Killian enviou um espectro cruel para torturar as vítimas - antes e depois de morrerem - e canalizar toda essa miséria para obter poder.&lt;BR&gt;&lt;BR&gt;Bem, chega. Matem esse espectro!</Page>
+    
     
     </Text>
     <Text huntingZoneId="256" id="3" prevId="2" villagerId="1011">
          
+         
         <Page social="4">Que se danem os destinos, você conseguiu! Eu podia ouvir Vaelmir gritando daqui! &lt;BR&gt;&lt;BR&gt;Não há consolo para os mortos, mas não se atreva a pagar por suas próprias bebidas quando voltarmos à cidade.</Page>
+    
     
     </Text>
 </QuestDialog>

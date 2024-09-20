@@ -1,41 +1,56 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="36" id="25" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="36" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="236" id="100" prevId="0" villagerId="1004">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="236" id="2" prevId="0" villagerId="1004">
          
+         
         <Page social="18">Eu já suspeitava dos Tenebrara há algum tempo. Estou enviando um batedor para ficar de olho, caso eu esteja certo.&lt;BR&gt;&lt;BR&gt;Vá se encontrar com Pastin e descubra o que está acontecendo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="236" id="3" prevId="2" villagerId="1028">
          
+         
         <Page social="5">Hmm? Oh, Tarnan o enviou para coletar o relatório?&lt;BR&gt;&lt;BR&gt;Bem, vejamos. Estou observando esses sacerdotes de Tenebrara há alguns dias. Eles estão lançando feitiço após feitiço. Alguns deles parecem exaustos.&lt;BR&gt;&lt;BR&gt;Não tenho certeza de qual é a motivação deles, mas tenho certeza de que seus feitiços estão afetando todos os animais próximos. Não podemos simplesmente deixá-los continuar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="236" id="4" prevId="3" villagerId="1028">
          
+         
         <Page social="10">Isso não deve ter sido fácil. Obrigado, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Agora que conseguimos controlar esses feitiços, devemos descobrir o que causou a súbita mudança de comportamento dos Tenebrara.&lt;BR&gt;&lt;BR&gt;Pesquise os documentos na base deles. Veja se você consegue encontrar alguma pista.</Page>
+    
     
     </Text>
     <Text huntingZoneId="236" id="5" prevId="4" villagerId="1111">
          
+         
         <Page social="1">(Há um pergaminho neste armário de arquivos.)&lt;NEXTPAGEBUTTON&gt;Leia o pergaminho.&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="2">(O pergaminho diz:&lt;BR&gt;&lt;BR&gt;Thulsa não os abandonou, mas vocês se deixaram enfraquecer.&lt;BR&gt;&lt;BR&gt;Vocês devem se reagrupar e reunir suas forças antes de poderem continuar.&lt;BR&gt;&lt;BR&gt;-Killian)</Page>
+    
     
     </Text>
     <Text huntingZoneId="236" id="6" prevId="5" villagerId="1028">
          
+         
         <Page social="9">Killian? Ele deve ter colocado os líderes de Tenebrara do seu lado. Isso explica muita coisa.&lt;BR&gt;&lt;BR&gt;Infelizmente, isso significa que a situação é pior do que eu pensava.&lt;BR&gt;&lt;BR&gt;Você pode colocar Tarnan a par do que está acontecendo?</Page>
+    
     
     </Text>
     <Text huntingZoneId="236" id="7" prevId="6" villagerId="1004">
          
+         
         <Page social="10">Killian?&lt;BR&gt;&lt;BR&gt;Oh, isso é terrível. Preciso falar com Melrasa imediatamente.&lt;BR&gt;&lt;BR&gt;Obrigado. Sem sua ajuda, não teríamos essa... notícia horrível.</Page>
+    
     
     </Text>
 </QuestDialog>

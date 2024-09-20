@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="529" id="1009" voiceTypeId="94">
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1009" huntingZoneId="529" voiceTypeId="94" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
     <Text id="1" endSocial="14">
-         
         <Page social="4">Welcome to the Kaiator Consul's Office. This is where the consul conducts the business of managing the entire city. The administrative affairs of guilds are also processed here.</Page>
-    
     </Text>
 </VillagerDialog>

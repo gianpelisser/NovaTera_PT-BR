@@ -1,40 +1,55 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="493" id="1" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="493" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0">Fraya, a nova encarnação do Core, retornou a Allemantheia e usou seu poder para localizar Akasha. Você e Elleon foram a Fyrmount para invadir o esconderijo de Akasha e confrontá-la.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="5">Caro &lt;PCNAME&gt;,&lt;BR&gt;&lt;BR&gt;Nós salvamos o Núcleo, mas Akasha e Thulsa não vão parar até que Allemantheia esteja em ruínas.&lt;BR&gt;&lt;BR&gt;Fraya diz que Thulsa está se escondendo, mas Akasha ainda está em Fyrmount. Eu adoraria degolá-la, mas aquela última luta exigiu muito de mim.&lt;BR&gt;&lt;BR&gt;Preciso de sua ajuda. Mais uma vez, para a brecha! Vamos acabar com a ameaça de Akasha.&lt;BR&gt;&lt;BR&gt;Encontre-se comigo no Acampamento da Reserva Shuriana, em Fyrmount.&lt;BR&gt;&lt;BR&gt;Elleon.</Page>
+    
     
     </Text>
     <Text huntingZoneId="204" id="3" prevId="2" villagerId="1101">
          
+         
         <Page social="5">Fraya diz que o Esconderijo de Akasha fica bem no subsolo. E adivinhe quem encontrou o teletransporte para nos levar até lá? Por favor, por favor... não precisa fazer continência. A prostração será suficiente. Ha!&lt;BR&gt;&lt;BR&gt;Outra coisa: houve muitos seqüestros nos últimos dias. Seja o que for que Akasha esteja tramando, deve precisar de vítimas sacrificiais.&lt;NEXTPAGEBUTTON&gt;"O que estamos esperando?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="5">De fato. Não vale a pena dar a ela tempo para planejar outra fuga, não é? &lt;BR&gt;&lt;BR&gt;Tome o caminho à direita até o {@LinkCreature:204#1501#teleportal}.</Page>
+    
     
     </Text>
     <Text huntingZoneId="493" id="4" prevId="3" villagerId="1001">
          
+         
         <Page social="5">Está sentindo a energia negra - a maneira como ela pulsa? É assustador, não é? &lt;BR&gt;&lt;BR&gt;Essa é a assinatura do argons.&lt;NEXTPAGEBUTTON&gt;"Akasha tem argonss?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="5">Talvez, ou talvez os argonss tenham Akasha. Não importa.&lt;BR&gt;&lt;BR&gt;Os argonss são apenas um de nossos problemas. Ela tem portões que trancam tudo, e a chave é a força vital de suas criações mais horrendas.&lt;BR&gt;&lt;BR&gt;Turion, seu campeão da pestilência, liga o primeiro portão. Adanok, seu servo mais sedento de sangue, guarda o segundo. Vamos lá. Vou procurar nossos próximos obstáculos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="493" id="5" prevId="4" villagerId="1006">
          
+         
         <Page social="5">Há poucos soldados de seu calibre, mas não se deixe levar pela arrogância. Temos que passar por Nadaim, o Campeão da Peste, para abrir o terceiro portão. Depois, visitaremos um velho amigo - Karascha!"&lt;NEXTPAGEBUTTON&gt;"Karascha? O demônio da Ilha da Aurora?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">De fato. Aquele demônio quase me matou.&lt;BR&gt;&lt;BR&gt;Se Akasha escolheu ressuscitar Karascha... talvez ela soubesse que viríamos aqui. É quase como se ela estivesse nos provocando.&lt;BR&gt;&lt;BR&gt;Não importa. Temos um desafio e tanto pela frente.</Page>
+    
     
     </Text>
     <Text huntingZoneId="493" id="6" prevId="5" villagerId="1005">
          
+         
         <Page social="5">Está sentindo essa energia? Muito mais forte aqui do que na entrada. Este deve ser o teletransporte que nos leva a Akasha! &lt;BR&gt;&lt;BR&gt;Esperemos que não seja uma viagem só de ida, não é?</Page>
+    
     
     </Text>
 </QuestDialog>

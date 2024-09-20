@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="57" id="92" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="80" id="100" prevId="0" villagerId="1016">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="57" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="80" prevId="0" villagerId="1016">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="80" id="2" prevId="0" villagerId="1016">
-         
+    <Text id="2" huntingZoneId="80" prevId="0" villagerId="1016">
         <Page social="0">Killian and the Atel Akaad aren't taking the hint. Be a good &lt;PCCLASS:lcase&gt; and send them a message they can understand.&lt;BR&gt;&lt;BR&gt;Take out the {@LinkCreature:57#1#sikandari stalwarts}, {@LinkCreature:57#5#geilrik hellhounds}, {@LinkCreature:57#13#Lokian bloodchargers}, {@LinkCreature:57#16#bloodmaguses}, {@LinkCreature:57#26#bloodspillers}, {@LinkCreature:57#21#bloodshapers}, and {@LinkCreature:57#23#eldritch vanquishers}.&lt;BR&gt;&lt;BR&gt;Report to Vevina at Crimson Hammer Camp when mission is complete.</Page>
-    
     </Text>
-    <Text huntingZoneId="257" id="3" prevId="2" villagerId="1007">
-         
+    <Text id="3" huntingZoneId="257" prevId="2" villagerId="1007">
         <Page social="4">You've earned the thanks of the federation!</Page>
-    
     </Text>
-    <Text huntingZoneId="257" id="4" villagerId="1007">
-         
+    <Text id="4" huntingZoneId="257" villagerId="1007">
         <Page social="0">It looks like you haven't completed your mission yet.</Page>
-    
     </Text>
 </QuestDialog>

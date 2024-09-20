@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Achievement xmlns="https://vezel.dev/novadrop/dc/StrSheet_Achievement" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Achievement StrSheet_Achievement.xsd">
     <String id="1001" string="A morte é apenas..." />
     <String id="1002" string="Você experimentou o gosto da morte. Não é agradável." />
@@ -431,6 +431,7 @@
     <String id="79806" string="Preyed on a Priest" />
     <String id="79807" string="Mistreated a Mystic" />
     <String id="79808" string="Roteou um Reaper" />
+    <String id="79809" string="Battle with a Gunner" />
     <String id="80001" string="Eu vi primeiro" />
     <String id="80002" string="Saqueou 10 itens." />
     <String id="80003" string="Saqueou 10 itens." />
@@ -2300,6 +2301,7 @@
     <String id="382002" string="Aumentou sua reputação com Agnitor para &quot;Reverenciado&quot;." />
     <String id="382003" string="Aumentou sua reputação com Agnitor para Reverenciado." />
     <String id="382004" string="Federação Valkyon" />
+    <String id="382005" string="За гранью..." />
     <String id="382800" string="Agnitor: Reverenciado" />
     <String id="382801" string="Peneirando os destroços" />
     <String id="382802" string="Ominosamente Silent Spring" />
@@ -2840,7 +2842,7 @@
     <String id="463002" string="Obteve o primeiro lugar no ranking do Champions' Skyring." />
     <String id="463003" string="Obteve o primeiro lugar no ranking do Champions' Skyring." />
     <String id="463004" string="Federação Valkyon" />
-	<String id="463005" string="O caçador de recompensas" />
+    <String id="463005" string="O caçador de recompensas" />
     <String id="463800" string="Obteve o primeiro lugar no ranking do Champions' Skyring." />
     <String id="464001" string="No topo das paradas" />
     <String id="464002" string="Alcançou uma classificação entre os cinco primeiros no Champions' Skyring." />
@@ -3169,7 +3171,7 @@
     <String id="523002" string="Visite o Sky Pond em Rootstock." />
     <String id="523003" string="Visite o Sky Pond em Rootstock." />
     <String id="523004" string="Federação Valkyon" />
-	<String id="523005" string="Flor colhida do céu" />
+    <String id="523005" string="Flor colhida do céu" />
     <String id="523800" string="O lótus celestial é colhido." />
     <String id="524001" string="Croakfest" />
     <String id="524002" string="Abra um frogspawn colorido, o prêmio de nível 1 do minijogo de percussão Pond Faire." />
@@ -3396,6 +3398,18 @@
     <String id="711004" string="Federação Valkyon" />
     <String id="711501" string="Cirurgião" />
     <String id="711800" string="Derrote o Nightmare Krakatox no Abscess 50 vezes." />
+    <String id="712001" string="Out of the Darkness, Into the Light" />
+    <String id="712002" string="First on server to defeat Nightmare Darkan in Sky Cruiser Endeavor (Hard)." />
+    <String id="712003" string="First on server to defeat Nightmare Darkan in Sky Cruiser Endeavor (Hard)." />
+    <String id="712004" string="Valkyon Federation" />
+    <String id="712501" string="Stormchaser" />
+    <String id="712800" string="First on server to defeat Nightmare Darkan in Sky Cruiser Endeavor (Hard)" />
+    <String id="713001" string="Trumped Tower" />
+    <String id="713002" string="Defeated Thulsa seven times in the 10th challenge of Dreadspire" />
+    <String id="713003" string="Defeated Thulsa seven times in the 10th challenge of Dreadspire" />
+    <String id="713004" string="Valkyon Federation" />
+    <String id="713501" string="Towering Achievement" />
+    <String id="713800" string="Defeat Thulsa seven times in the 10th floor of Phantasmagoria Tower" />
     <String id="766001" string="Eu vi três navios" />
     <String id="766002" string="Derrotou Barbosa, Capitão da Frota Despedaçada" />
     <String id="766003" string="Forma de navio" />
@@ -5422,6 +5436,415 @@
     <String id="1691802" string="Não precisa de um barco maior" />
     <String id="1691803" string="Ataque cardíaco puro" />
     <String id="1691804" string="Estourar as bolhas" />
+    <String id="1692001" string="Relaxing by the Pool" />
+    <String id="1692002" string="Defeated Nightmare Fulminar in 5 minutes in Bathysmal Rise (Hard)." />
+    <String id="1692003" string="Defeated Nightmare Fulminar in 5 minutes in Bathysmal Rise (Hard)." />
+    <String id="1692004" string="Valkyon Federation" />
+    <String id="1692800" string="Defeated Nightmare Fulminar in 5 minutes" />
+    <String id="1692801" string="I Name Thee Bowsre" />
+    <String id="1692802" string="Time and Tide Waits for No Fish" />
+    <String id="1692803" string="Heart Attack" />
+    <String id="1692804" string="Bubble Pop" />
+    <String id="1692805" string="Watch out for Electric Shock" />
+    <String id="1693001" string="Things Fall Apart" />
+    <String id="1693002" string="Defeated Darkan in Sky Cruiser Endeavor." />
+    <String id="1693003" string="Defeated Darkan in Sky Cruiser Endeavor." />
+    <String id="1693004" string="Valkyon Federation" />
+    <String id="1693800" string="Defeated Darkan" />
+    <String id="1694001" string="On Wings of Demokrons" />
+    <String id="1694002" string="Defeated Darkan 10 times in Sky Cruiser Endeavor." />
+    <String id="1694003" string="Defeated Darkan 10 times in Sky Cruiser Endeavor." />
+    <String id="1694004" string="Valkyon Federation" />
+    <String id="1694800" string="Defeated Darkan 10 times" />
+    <String id="1695001" string="Demokron Massacre" />
+    <String id="1695002" string="Defeated 20 of each high-grade demokrons listed below." />
+    <String id="1695003" string="Defeated 20 of each high-grade demokrons listed below." />
+    <String id="1695004" string="Valkyon Federation" />
+    <String id="1695800" string="Kill 20 Quadrliars." />
+    <String id="1695801" string="Kill 20 Barbed Lacerases." />
+    <String id="1695802" string="Kill 20 Hulking Sulcatas." />
+    <String id="1696001" string="Rock Solid Defense" />
+    <String id="1696002" string="Defeated Perimos in 5 minutes in Sky Cruiser Endeavor." />
+    <String id="1696003" string="Defeated Perimos in 5 minutes in Sky Cruiser Endeavor." />
+    <String id="1696004" string="Valkyon Federation" />
+    <String id="1696800" string="Defeated Perimos in 5 minutes" />
+    <String id="1697001" string="Stand Your Ground" />
+    <String id="1697002" string="Defeated Darkan without getting hit by his push attack skill." />
+    <String id="1697003" string="Defeated Darkan without getting hit by his push attack skill." />
+    <String id="1697004" string="Valkyon Federation" />
+    <String id="1697800" string="Defeat Darkan without being pushed" />
+    <String id="1698001" string="Sky Captain" />
+    <String id="1698002" string="Completed the achievements listed below." />
+    <String id="1698003" string="Completed the achievements listed below." />
+    <String id="1698004" string="Valkyon Federation" />
+    <String id="1698800" string="Demokron Massacre" />
+    <String id="1698801" string="Rock Solid Defense" />
+    <String id="1698802" string="Stand Your Ground" />
+    <String id="1699001" string="Fiery Endeavor" />
+    <String id="1699002" string="Defeated Nightmare Darkan in Sky Cruiser Endeavor (Hard)." />
+    <String id="1699003" string="Defeated Nightmare Darkan in Sky Cruiser Endeavor (Hard)." />
+    <String id="1699004" string="Valkyon Federation" />
+    <String id="1699800" string="Defeat Nightmare Darkan" />
+    <String id="1700001" string="Wings of Fire" />
+    <String id="1700002" string="Defeated Nightmare Darkan 10 times in Sky Cruiser Endeavor (Hard)." />
+    <String id="1700003" string="Defeated Nightmare Darkan 10 times in Sky Cruiser Endeavor (Hard)." />
+    <String id="1700004" string="Valkyon Federation" />
+    <String id="1700800" string="Defeated Nightmare Darkan 10 times" />
+    <String id="1701001" string="Boneless Victory" />
+    <String id="1701002" string="Defeated all demokrons before Putrion was summoned." />
+    <String id="1701003" string="Defeated all demokrons before Putrion was summoned." />
+    <String id="1701004" string="Valkyon Federation" />
+    <String id="1701800" string="Defeated all demokrons before Putrion is summoned" />
+    <String id="1702001" string="Body Heat" />
+    <String id="1702002" string="Survived 2 stacks of Scorched Scar in Sky Cruiser Endeavor (Hard)." />
+    <String id="1702003" string="Survived 2 stacks of Scorched Scar in Sky Cruiser Endeavor (Hard)." />
+    <String id="1702004" string="Valkyon Federation" />
+    <String id="1702800" string="Survived 2 stacks of Scorched Scar" />
+    <String id="1703001" string="Unmarked by Darkness" />
+    <String id="1703002" string="Defeated Nightmare Darkan without suffering from Dark Heart in Sky Cruiser Endeavor (Hard)" />
+    <String id="1703003" string="Defeated Nightmare Darkan without suffering from Dark Heart in Sky Cruiser Endeavor (Hard)" />
+    <String id="1703004" string="Valkyon Federation" />
+    <String id="1703800" string="Defeated Nightmare Darkan without suffering from Dark Heart" />
+    <String id="1704001" string="Powered Up" />
+    <String id="1704002" string="Defeated Nightmare Darkan in 15 minutes in Sky Cruiser Endeavor (Hard)" />
+    <String id="1704003" string="Defeated Nightmare Darkan in 15 minutes in Sky Cruiser Endeavor (Hard)" />
+    <String id="1704004" string="Valkyon Federation" />
+    <String id="1704800" string="Defeated Nightmare Darkan in 15 minutes" />
+    <String id="1705001" string="Sky Commander" />
+    <String id="1705002" string="Completed the achievements listed below." />
+    <String id="1705003" string="Completed the achievements listed below." />
+    <String id="1705004" string="Valkyon Federation" />
+    <String id="1705800" string="Boneless Victory" />
+    <String id="1705801" string="Body Heat" />
+    <String id="1705802" string="Unmarked by Darkness" />
+    <String id="1705803" string="Powered Up" />
+    <String id="1706001" string="Powered Through" />
+    <String id="1706002" string="Defeated Nightmare Darkan in 10 minutes in Sky Cruiser Endeavor (Hard)" />
+    <String id="1706003" string="Defeated Nightmare Darkan in 10 minutes in Sky Cruiser Endeavor (Hard)" />
+    <String id="1706004" string="Valkyon Federation" />
+    <String id="1706800" string="Defeated Nightmare Darkan in 10 minutes" />
+    <String id="1707001" string="Going the Distance" />
+    <String id="1707002" string="Defeated Nightmare Darkan 77 times in Sky Cruiser Endeavor (Hard)" />
+    <String id="1707003" string="Defeated Nightmare Darkan 77 times in Sky Cruiser Endeavor (Hard)" />
+    <String id="1707004" string="Valkyon Federation" />
+    <String id="1707501" string="Determined" />
+    <String id="1707800" string="Defeated Nightmare Darkan 77 times" />
+    <String id="1707801" string="70 раз побежден Кошмарный Каприма." />
+    <String id="1708001" string="Nakatam Tower Security Guard" />
+    <String id="1708002" string="Completed &quot;The Lightkeepers&quot; quest." />
+    <String id="1708003" string="Completed &quot;The Lightkeepers&quot; quest." />
+    <String id="1708004" string="Valkyon Federation" />
+    <String id="1708501" string="Lightkeeper" />
+    <String id="1708800" string="The Lightkeepers" />
+    <String id="1709001" string="What's in The Box?" />
+    <String id="1709002" string="Acquired rewards from treasure chests in the 4th, 9th, and 14th challenges in Dreadspire." />
+    <String id="1709003" string="Acquired rewards from treasure chests in the 4th, 9th, and 14th challenges in Dreadspire." />
+    <String id="1709004" string="Valkyon Federation" />
+    <String id="1709800" string="Montori's Haul: 4th Challenge" />
+    <String id="1709801" string="Montori's Haul: 9th Challenge" />
+    <String id="1709802" string="Montori's Haul: 14th Challenge" />
+    <String id="1710001" string="Faster than a Speeding Arrow" />
+    <String id="1710002" string="Defeated Thulsa without taking damage from Thulsa's Plaything in Dreadspire." />
+    <String id="1710003" string="Defeated Thulsa without taking damage from Thulsa's Plaything in Dreadspire." />
+    <String id="1710004" string="Valkyon Federation" />
+    <String id="1710501" string="Going for Speed" />
+    <String id="1710800" string="Defeated Thulsa without taking damage from Thulsa's Plaything" />
+    <String id="1711001" string="Yo, Elleon, I did it!" />
+    <String id="1711002" string="First on the server to complete the 20th challenge in Dreadspire." />
+    <String id="1711003" string="First on the server to complete the 20th challenge in Dreadspire." />
+    <String id="1711501" string="Stairmaster" />
+    <String id="1711800" string="First on the server to complete the 20th challenge in Dreadspire" />
+    <String id="1712001" string="Shatter the Phantom of the Queen" />
+    <String id="1712002" string="Completed the 20th challenge in Dreadspire." />
+    <String id="1712003" string="Completed the 20th challenge in Dreadspire." />
+    <String id="1712800" string="Completed the 20th challenge in Dreadspire" />
+    <String id="1713001" string="Lead Gunner" />
+    <String id="1713002" string="Server's first gunner to reach level 30." />
+    <String id="1713003" string="Server's first gunner to reach level 30." />
+    <String id="1713004" string="Valkyon Federation" />
+    <String id="1713501" string="Lead Gunner" />
+    <String id="1713800" string="Server's first gunner to reach level 30." />
+    <String id="1714001" string="Gunner Secundus" />
+    <String id="1714002" string="Server's first gunner to reach level 58." />
+    <String id="1714003" string="Server's first gunner to reach level 58." />
+    <String id="1714004" string="Valkyon Federation" />
+    <String id="1714501" string="Gunner Secundus" />
+    <String id="1714800" string="Server's first gunner to reach level 58." />
+    <String id="1715001" string="Gunner Prime" />
+    <String id="1715002" string="Server's first gunner to reach level 60." />
+    <String id="1715003" string="Server's first gunner to reach level 60." />
+    <String id="1715004" string="Valkyon Federation" />
+    <String id="1715501" string="Gunner Prime" />
+    <String id="1715800" string="Server's first gunner to reach level 60." />
+    <String id="1716001" string="Prone to Violence" />
+    <String id="1716002" string="Used &quot;Retaliate&quot; to kill 1000 monsters." />
+    <String id="1716003" string="Used &quot;Retaliate&quot; to kill 1000 monsters." />
+    <String id="1716004" string="Valkyon Federation" />
+    <String id="1716800" string="Used &quot;Retaliate&quot; to kill 1000 monsters. (100%)" />
+    <String id="1717001" string="Ready, Aim, Fire" />
+    <String id="1717002" string="Use the &quot;Shotgun&quot; skill 500 times" />
+    <String id="1717003" string="Use the &quot;Shotgun&quot; skill 500 times" />
+    <String id="1717004" string="Valkyon Federation" />
+    <String id="1717501" string="Loose Cannon" />
+    <String id="1717800" string="Use the &quot;Shotgun&quot; skill 500 times" />
+    <String id="1718001" string="BOOM! HEADSHOT!" />
+    <String id="1718002" string="Use the &quot;Light of Elimination&quot; skill 200 times" />
+    <String id="1718003" string="Use the &quot;Light of Elimination&quot; skill 200 times" />
+    <String id="1718004" string="Valkyon Federation" />
+    <String id="1718501" string="Walking Cannon" />
+    <String id="1718800" string="Use the &quot;Light of Elimination&quot; skill 200 times" />
+    <String id="1719001" string="Abused a Gunner" />
+    <String id="1719002" string="Won a duel against a gunner" />
+    <String id="1719003" string="Won a duel against a gunner" />
+    <String id="1719004" string="Valkyon Federation" />
+    <String id="1719800" string="Won a duel against a gunner" />
+    <String id="1720001" string="Cutting-Edge Gunner" />
+    <String id="1720002" string="Server's first gunner to reach level 65." />
+    <String id="1720003" string="Server's first gunner to reach level 65." />
+    <String id="1720004" string="Valkyon Federation" />
+    <String id="1720501" string="A Cut Above" />
+    <String id="1720800" string="Server's first gunner to reach level 65." />
+    <String id="1756001" string="Congratulations on the 4th Anniversary!" />
+    <String id="1756002" string="[Event] Use a 4th Anniversary Celebration Firework." />
+    <String id="1756003" string="[Event] Use a 4th Anniversary Celebration Firework." />
+    <String id="1756004" string="Valkyon Federation" />
+    <String id="1756501" string="Spending 2015 With TERA" />
+    <String id="1756800" string="[Event] Use a 4th Anniversary Celebration Firework." />
+    <String id="8000001" string="Very Selective Service" />
+    <String id="8000002" string="Completed the achievements listed below:" />
+    <String id="8000003" string="Completed the achievements listed below:" />
+    <String id="8000004" string="Valkyon Federation" />
+    <String id="8000800" string="Valkyon Wants You Story Group" />
+    <String id="8000801" string="Valkyon Wants You to Return Story Group" />
+    <String id="8001001" string="Conspiracy Theory 101" />
+    <String id="8001002" string="Completed the quests listed below:" />
+    <String id="8001003" string="Completed the quests listed below:" />
+    <String id="8001004" string="Valkyon Federation" />
+    <String id="8001800" string="Cultists' Conspiracy Story Group" />
+    <String id="8002001" string="Infectious Laughter" />
+    <String id="8002002" string="Completed the quests listed below:" />
+    <String id="8002003" string="Completed the quests listed below." />
+    <String id="8002004" string="Valkyon Federation" />
+    <String id="8002800" string="Insanity Epidemic Story Group" />
+    <String id="8003001" string="Fully Armed and Operational" />
+    <String id="8003002" string="Completed the quests listed below:" />
+    <String id="8003003" string="Completed the quests listed below:" />
+    <String id="8003004" string="Valkyon Federation" />
+    <String id="8003800" string="Phantom Menace Story Group" />
+    <String id="8004001" string="Sister Acts" />
+    <String id="8004002" string="Completed the quests listed below:" />
+    <String id="8004003" string="Completed the quests listed below:" />
+    <String id="8004004" string="Valkyon Federation" />
+    <String id="8004800" string="The Popori Kingdom Story Group" />
+    <String id="8005001" string="Reanimaniacs" />
+    <String id="8005002" string="Completed the quests listed below:" />
+    <String id="8005003" string="Completed the quests listed below:" />
+    <String id="8005004" string="Valkyon Federation" />
+    <String id="8005800" string="Samael's Apparition Story Group " />
+    <String id="8006001" string="Plague Doctors" />
+    <String id="8006002" string="Completed the quests listed below:" />
+    <String id="8006003" string="Completed the quests listed below:" />
+    <String id="8006004" string="Valkyon Federation" />
+    <String id="8006800" string="Allemantheia Story Group " />
+    <String id="8006801" string="Traces of the Gods Story Group Completed" />
+    <String id="8007001" string="Subtle Imperfections" />
+    <String id="8007002" string="Completed the quests listed below:" />
+    <String id="8007003" string="Completed the quests listed below:" />
+    <String id="8007004" string="Valkyon Federation" />
+    <String id="8007800" string="The Desert Jewel (Fraya's Fury) Story Group " />
+    <String id="8007801" string="To the Wild Jungle Story Group " />
+    <String id="8007802" string="Castanica Story Group " />
+    <String id="8008001" string="If You Want to Make an Omelette..." />
+    <String id="8008002" string="Completed the quests listed below:" />
+    <String id="8008003" string="Completed the quests listed below:" />
+    <String id="8008004" string="Valkyon Federation" />
+    <String id="8008800" string="Danger in Kaiator Story Group " />
+    <String id="8009001" string="The Empty Nest" />
+    <String id="8009002" string="Completed the quests listed below:" />
+    <String id="8009003" string="Completed the quests listed below:" />
+    <String id="8009004" string="Valkyon Federation" />
+    <String id="8009800" string="Beast of Destruction Story Group " />
+    <String id="8009801" string="Event Mission Story Group " />
+    <String id="8010001" string="Queen's Farewell Tour" />
+    <String id="8010002" string="Completed the quests listed below:" />
+    <String id="8010003" string="Completed the quests listed below:" />
+    <String id="8010004" string="Valkyon Federation" />
+    <String id="8010800" string="Argon War Story Group " />
+    <String id="8010801" string="Balder's Refuge Story Group " />
+    <String id="8010802" string="Intro to Noctenium Story Group " />
+    <String id="8011001" string="Traces of the Gods" />
+    <String id="8011002" string="Completed the quests listed below:" />
+    <String id="8011003" string="Completed the quests listed below:" />
+    <String id="8011004" string="Valkyon Federation" />
+    <String id="8012001" string="Mine Over Matter" />
+    <String id="8012002" string="Completed the quests listed below:" />
+    <String id="8012003" string="Completed the quests listed below:" />
+    <String id="8012004" string="Valkyon Federation" />
+    <String id="8013001" string="Prophet Margin" />
+    <String id="8013002" string="Completed the quests listed below:" />
+    <String id="8013003" string="Completed the quests listed below:" />
+    <String id="8013004" string="Valkyon Federation" />
+    <String id="8499001" string="Come Back, Shane!" />
+    <String id="8499002" string="Completed the quests listed below:" />
+    <String id="8499003" string="Completed the quests listed below:" />
+    <String id="8499004" string="Valkyon Federation" />
+    <String id="8499800" string="Complete &quot;Ride Off into the Sunset&quot; quest." />
+    <String id="8500001" string="Valkyon Wants You Story Group Completed" />
+    <String id="8500002" string="Following Call of Valkyon Story Group" />
+    <String id="8500003" string="Following Call of Valkyon Story Group" />
+    <String id="8500004" string="Valkyon Federation" />
+    <String id="8500800" string="Completed &quot;Valkyon Federation Headquarters&quot; quest." />
+    <String id="8500801" string="Complete &quot;Strife in the Fey Forest&quot; quest." />
+    <String id="8500802" string="Complete &quot;Faeries in a Fix&quot; quest." />
+    <String id="8500803" string="Complete &quot;Dark Hunger&quot; quest." />
+    <String id="8500804" string="Complete &quot;Devan Uprising&quot; quest." />
+    <String id="8500805" string="Complete &quot;Pulling Back the Veil&quot; quest." />
+    <String id="8500806" string="Complete &quot;Ride Off into the Sunset&quot; quest." />
+    <String id="8501001" string="Conspiracy Theory 101" />
+    <String id="8501002" string="Following Call of Valkyon Story Group" />
+    <String id="8501003" string="Following Call of Valkyon Story Group" />
+    <String id="8501004" string="Valkyon Federation" />
+    <String id="8501800" string="Complete &quot;Emergency Support&quot; quest." />
+    <String id="8501801" string="Complete &quot;The Force Behind the Gutrends&quot; quest." />
+    <String id="8501802" string="Complete &quot;Going on the Offensive&quot; quest." />
+    <String id="8501803" string="Complete &quot;From the Mouths of Scions&quot; quest." />
+    <String id="8501804" string="Complete &quot;Some Gave All&quot; quest." />
+    <String id="8501805" string="Complete &quot;Scruffy Kumas Herders&quot; quest." />
+    <String id="8501806" string="Completed &quot;Cultists' Conspiracy&quot; quest." />
+    <String id="8501807" string="Complete &quot;For Valor Above and Beyond&quot; quest." />
+    <String id="8502001" string="Infectious Laughter" />
+    <String id="8502002" string="Following Call of Valkyon Story Group" />
+    <String id="8502003" string="Following Call of Valkyon Story Group" />
+    <String id="8502004" string="Valkyon Federation" />
+    <String id="8502800" string="Complete &quot;Circle the Wagons&quot; quest." />
+    <String id="8502801" string="Complete &quot;Rock Causes Violence&quot; quest." />
+    <String id="8502802" string="Complete &quot;Blood Will Always Tell&quot; quest." />
+    <String id="8502803" string="Complete &quot;A Manor Invasion&quot; quest." />
+    <String id="8502804" string="Complete &quot;Discredit Where Credit Is Due&quot; quest." />
+    <String id="8503001" string="Fully Armed and Operational" />
+    <String id="8503002" string="Following Call of Valkyon Story Group" />
+    <String id="8503003" string="Following Call of Valkyon Story Group" />
+    <String id="8503004" string="Valkyon Federation" />
+    <String id="8503800" string="Complete &quot;Revelation of the Goddess&quot; quest." />
+    <String id="8503801" string="Complete &quot;These Aren't the Weapons We're Looking For&quot; quest." />
+    <String id="8503802" string="Complete &quot;The Mystery Deepens&quot; quest." />
+    <String id="8503803" string="Complete &quot;Enemies in the Midst&quot; quest." />
+    <String id="8503804" string="Complete &quot;Sic Semper Proditores&quot; quest." />
+    <String id="8503805" string="Complete &quot;Relic of a Bygone Age&quot; quest." />
+    <String id="8503806" string="Complete &quot;The Fall of the Betrayer&quot; quest." />
+    <String id="8504001" string="Sister Acts" />
+    <String id="8504002" string="Following Call of Valkyon Story Group" />
+    <String id="8504003" string="Following Call of Valkyon Story Group" />
+    <String id="8504004" string="Valkyon Federation" />
+    <String id="8504800" string="Complete &quot;A Tale of Two Tails&quot; quest." />
+    <String id="8504801" string="Complete &quot;Belling the Cat&quot; quest." />
+    <String id="8504802" string="Complete &quot;The Domain of Witches&quot; quest." />
+    <String id="8504803" string="Complete &quot;The Precocious Apprentice&quot; quest." />
+    <String id="8505001" string="Reanimaniacs" />
+    <String id="8505002" string="Following Call of Valkyon Story Group" />
+    <String id="8505003" string="Following Call of Valkyon Story Group" />
+    <String id="8505004" string="Valkyon Federation" />
+    <String id="8505800" string="Complete &quot;Secrets Not Meant To Be Known&quot; quest." />
+    <String id="8505801" string="Complete &quot;A Race through Dark Places&quot; quest." />
+    <String id="8505802" string="Complete &quot;Dark Dreams Sundered&quot; quest." />
+    <String id="8505803" string="Complete &quot;Final Fury&quot; quest." />
+    <String id="8505804" string="Complete &quot;The Guardian of Velika&quot; quest." />
+    <String id="8506001" string="Plague Doctors" />
+    <String id="8506002" string="Following Call of Valkyon Story Group" />
+    <String id="8506003" string="Following Call of Valkyon Story Group" />
+    <String id="8506004" string="Valkyon Federation" />
+    <String id="8506800" string="Complete &quot;The Desert Jewel&quot; quest." />
+    <String id="8506801" string="Complete &quot;Rotten to the Core&quot; quest." />
+    <String id="8506802" string="Complete &quot;The Traitor of Acarum&quot; quest." />
+    <String id="8506803" string="Complete &quot;Where's Kaidun?&quot; quest." />
+    <String id="8506804" string="Complete &quot;Freeing Kaidun&quot; quest." />
+    <String id="8507001" string="Subtle Imperfections" />
+    <String id="8507002" string="Following Call of Valkyon Story Group" />
+    <String id="8507003" string="Following Call of Valkyon Story Group" />
+    <String id="8507004" string="Valkyon Federation" />
+    <String id="8507800" string="Complete &quot;Fraya's Fury&quot; quest." />
+    <String id="8507801" string="Complete &quot;Unveil the Mask&quot; quest." />
+    <String id="8507802" string="Complete &quot;Seeking the Core&quot; quest." />
+    <String id="8507803" string="Complete &quot;Rescue the Core&quot; quest." />
+    <String id="8507804" string="Complete &quot;Fraya's Faith&quot; quest." />
+    <String id="8507805" string="Complete &quot;Search and Destroy&quot; quest." />
+    <String id="8507806" string="Complete &quot;Purging the Plague&quot; quest." />
+    <String id="8508001" string="If You Want to Make an Omelette..." />
+    <String id="8508002" string="Following Call of Valkyon Story Group" />
+    <String id="8508003" string="Following Call of Valkyon Story Group" />
+    <String id="8508004" string="Valkyon Federation" />
+    <String id="8508800" string="Complete &quot;The Gauntlet Thrown Down&quot; quest." />
+    <String id="8508801" string="Complete &quot;The Indomitable Spirit&quot; quest." />
+    <String id="8508802" string="Complete &quot;Drowned In Blood&quot; quest." />
+    <String id="8508803" string="Complete &quot;Sikander's Bane&quot; quest." />
+    <String id="8509001" string="The Empty Nest" />
+    <String id="8509002" string="Following Call of Valkyon Story Group" />
+    <String id="8509003" string="Following Call of Valkyon Story Group" />
+    <String id="8509004" string="Valkyon Federation" />
+    <String id="8509800" string="Complete &quot;The Imprisoned God&quot; quest." />
+    <String id="8509801" string="Complete &quot;Fragment of Hope&quot; quest." />
+    <String id="8509802" string="Complete &quot;Into the Furnace&quot; quest." />
+    <String id="8509803" string="Complete &quot;Labyrinth of Terror&quot; quest." />
+    <String id="8509804" string="Complete &quot;Materials for Miracles&quot; quest." />
+    <String id="8509805" string="Complete &quot;Thulsa's Doom&quot; quest." />
+    <String id="8509806" string="Complete &quot;The Harbinger of Annihilation&quot; quest." />
+    <String id="8510001" string="Queen's Farewell Tour" />
+    <String id="8510002" string="Following Call of Valkyon Story Group" />
+    <String id="8510003" string="Following Call of Valkyon Story Group" />
+    <String id="8510004" string="Valkyon Federation" />
+    <String id="8510800" string="Complete &quot;Cleansing Tirkai&quot; quest." />
+    <String id="8510801" string="Complete &quot;Confident Support&quot; quest." />
+    <String id="8510802" string="Complete &quot;Building a Mysterium&quot; quest." />
+    <String id="8510803" string="Complete &quot;Three Towers&quot; quest." />
+    <String id="8510804" string="Complete &quot;Sole Survivor&quot; quest." />
+    <String id="8510805" string="Complete &quot;Fire for Effect&quot; quest." />
+    <String id="8510806" string="Complete &quot;The Goddess of War&quot; quest." />
+    <String id="8510807" string="Complete &quot;Into the Heart of Darkness&quot; quest." />
+    <String id="8510808" string="Complete &quot;Crossing the Streams&quot; quest." />
+    <String id="8510809" string="Complete &quot;Finding the Flame&quot; quest." />
+    <String id="8510810" string="Complete &quot;An End to War&quot; quest." />
+    <String id="8511001" string="Mine Over Matter" />
+    <String id="8511002" string="Following Call of Valkyon Story Group" />
+    <String id="8511003" string="Following Call of Valkyon Story Group" />
+    <String id="8511004" string="Valkyon Federation" />
+    <String id="8511800" string="Complete &quot;Like a Brother to Me&quot; quest." />
+    <String id="8511801" string="Complete &quot;The Long Goodbye&quot; quest." />
+    <String id="8511802" string="Complete &quot;Miner Problems, Indeed&quot; quest." />
+    <String id="8512001" string="Unnatural Treasure" />
+    <String id="8512002" string="Following Call of Valkyon Story Group" />
+    <String id="8512003" string="Following Call of Valkyon Story Group" />
+    <String id="8512004" string="Valkyon Federation" />
+    <String id="8512800" string="Complete &quot;Dagon's Treasure&quot; quest." />
+    <String id="8512801" string="Complete &quot;A New Breed&quot; quest." />
+    <String id="8513001" string="Event Mission Story Group Completed" />
+    <String id="8513002" string="Following Call of Valkyon Story Group" />
+    <String id="8513003" string="Following Call of Valkyon Story Group" />
+    <String id="8513004" string="Valkyon Federation" />
+    <String id="8513800" string="Complete &quot;Saleron's Summons&quot; quest." />
+    <String id="8513801" string="Complete &quot;Ukenul's Gifts&quot; quest." />
+    <String id="8514001" string="All About the Noctenium" />
+    <String id="8514002" string="Following Call of Valkyon Story Group" />
+    <String id="8514003" string="Following Call of Valkyon Story Group" />
+    <String id="8514004" string="Valkyon Federation" />
+    <String id="8514800" string="Complete &quot;Tell Me of Noctenium&quot; quest." />
+    <String id="8514801" string="Complete &quot;Noctenium Knowledge&quot; quest." />
+    <String id="8514802" string="Complete &quot;Access and Allies&quot; quest." />
+    <String id="8515001" string="Traces of the Gods" />
+    <String id="8515002" string="Following Call of Valkyon Story Group" />
+    <String id="8515003" string="Following Call of Valkyon Story Group" />
+    <String id="8515004" string="Valkyon Federation" />
+    <String id="8515800" string="Complete &quot;Shakan, Not Stirred&quot; quest." />
+    <String id="8515801" string="Complete &quot;Visions of Destiny&quot; quest." />
+    <String id="8515802" string="Complete &quot;Zenobia's Loss&quot; quest." />
+    <String id="8516001" string="Prophet Margin" />
+    <String id="8516002" string="Following Call of Valkyon Story Group" />
+    <String id="8516003" string="Following Call of Valkyon Story Group" />
+    <String id="8516004" string="Valkyon Federation" />
+    <String id="8516800" string="Complete &quot;To the Garden of the Sun&quot; quest." />
+    <String id="8516801" string="Complete &quot;Keepers of the Sun&quot; quest." />
+    <String id="8516802" string="Complete &quot;Seren's Lake&quot; quest." />
+    <String id="8516803" string="Complete &quot;Into the Light&quot; quest." />
+    <String id="8516804" string="Complete &quot;Under Balder's Eye&quot; quest." />
     <String id="9000001" string="Para o Novo Continente!" />
     <String id="9000002" string="Concluiu as metas listadas abaixo." />
     <String id="9000003" string="Concluiu as metas listadas abaixo." />
@@ -5498,6 +5921,27 @@
     <String id="9010800" string="Concluiu a missão &quot;Acrofóbico&quot;." />
     <String id="9010801" string="Derrote o Abyssal Fish sem receber o efeito Abyssal Fear em Bathysmal Rise." />
     <String id="9010802" string="Derrote Fulminar em Bathysmal Rise em 3 minutos" />
+    <String id="9011001" string="Even Higher" />
+    <String id="9011002" string="Completed the goals listed below." />
+    <String id="9011003" string="Completed the goals listed below." />
+    <String id="9011004" string="Valkyon Federation" />
+    <String id="9011800" string="Completed &quot;Well Done, Soldier!&quot; quest." />
+    <String id="9011801" string="Defeated Nimistrix in Ravenous Gorge." />
+    <String id="9011802" string="Defeat Fulminar in Bathysmal Rise." />
+    <String id="9012001" string="Master Ravager" />
+    <String id="9012002" string="Completed the goals listed below." />
+    <String id="9012003" string="Completed the goals listed below." />
+    <String id="9012004" string="Valkyon Federation" />
+    <String id="9012800" string="Completed &quot;Well Done, Soldier!&quot; quest." />
+    <String id="9012801" string="Defeated Nimistrix in Ravenous Gorge." />
+    <String id="9012802" string="Defeat Fulminar in Bathysmal Rise." />
+    <String id="9013001" string="Pieces of Cake" />
+    <String id="9013002" string="Completed the goals listed below." />
+    <String id="9013003" string="Completed the goals listed below." />
+    <String id="9013004" string="Valkyon Federation" />
+    <String id="9013800" string="Completed &quot;Well Done, Soldier!&quot; quest." />
+    <String id="9013801" string="Defeated Nimistrix in Ravenous Gorge." />
+    <String id="9013802" string="Defeat Fulminar in Bathysmal Rise." />
     <String id="9500001" string="Missão &quot;Skydock&quot; concluída." />
     <String id="9500002" string="Missões &quot;Skydock&quot; concluídas." />
     <String id="9500003" string="Missões &quot;Skydock&quot; concluídas." />
@@ -5608,6 +6052,36 @@
     <String id="9521003" string="Derrote Fulminar em Bathysmal Rise em 3 minutos." />
     <String id="9521004" string="Federação Valkyon" />
     <String id="9521800" string="Derrote Fulminar em Bathysmal Rise em 3 minutos." />
+    <String id="9522001" string="Fear of Drowning" />
+    <String id="9522002" string="Defeated Nightmare Fulminar 10 times in Bathysmal Rise (Hard)." />
+    <String id="9522003" string="Defeated Nightmare Fulminar 10 times in Bathysmal Rise (Hard)." />
+    <String id="9522004" string="Valkyon Federation" />
+    <String id="9522800" string="Defeated Nightmare Fulminar 10 times" />
+    <String id="9523001" string="Get Your Sky Legs" />
+    <String id="9523002" string="Defeated Darkan 10 times." />
+    <String id="9523003" string="Defeated Darkan 10 times." />
+    <String id="9523004" string="Valkyon Federation" />
+    <String id="9523800" string="Defeated Darkan 10 times" />
+    <String id="9524001" string="Tear Down These Walls" />
+    <String id="9524002" string="Destroyed all of Nightmare Fulminar's barriers in Bathysmal Rise (Hard)." />
+    <String id="9524003" string="Destroyed all of Nightmare Fulminar's barriers in Bathysmal Rise (Hard)." />
+    <String id="9524004" string="Valkyon Federation" />
+    <String id="9524800" string="Destroyed all of Nightmare Fulminar's barriers" />
+    <String id="9525001" string="Highstepping" />
+    <String id="9525002" string="Defeat Darkan in 10 minutes in Sky Cruiser Endeavor." />
+    <String id="9525003" string="Defeat Darkan in 10 minutes in Sky Cruiser Endeavor." />
+    <String id="9525004" string="Valkyon Federation" />
+    <String id="9525800" string="Defeat Darkan in 10 minutes." />
+    <String id="9526001" string="Just a Quick Dip" />
+    <String id="9526002" string="Defeat Nightmare Fulminar in 10 minutes in Bathysmal Rise (Hard)." />
+    <String id="9526003" string="Defeat Nightmare Fulminar in 10 minutes in Bathysmal Rise (Hard)." />
+    <String id="9526004" string="Valkyon Federation" />
+    <String id="9526800" string="Defeat Nightmare Fulminar in 10 minutes" />
+    <String id="9527001" string="Oh How Time Flies" />
+    <String id="9527002" string="Defeat Darkan in 7 minutes in Sky Cruiser Endeavor." />
+    <String id="9527003" string="Defeat Darkan in 7 minutes in Sky Cruiser Endeavor." />
+    <String id="9527004" string="Valkyon Federation" />
+    <String id="9527800" string="Defeat Darkan in 7 minutes." />
     <String id="9811001" string="Limpar a infecção" />
     <String id="9811002" string="Derrote Krakatox no Abscesso 1 vez." />
     <String id="9811003" string="Derrote o Krakatox." />
@@ -5669,6 +6143,17 @@
     <String id="11301004" string="Federação Valkyon" />
     <String id="11301501" string="Caçador de tesouros" />
     <String id="11301800" string="Os dez melhores jogadores de dungeon." />
+    <String id="11401001" string="Время - золото!" />
+    <String id="11401002" string="За 2 с половиной минуты победить Фульминара в Глубинном Храме." />
+    <String id="11401003" string="За 2 с половиной минуты победить Фульминара в Глубинном Храме." />
+    <String id="11401004" string="TERA TEAM" />
+    <String id="11401800" string="За 2 с половиной минуты победить Фульминара в Глубинном Храме." />
+    <String id="11501001" string="Пришел, увидел, победил." />
+    <String id="11501002" string="За 2 минуты победить Фульминара в Глубинном Храме." />
+    <String id="11501003" string="За 2 минуты победить Фульминара в Глубинном Храме." />
+    <String id="11501004" string="TERA TEAM" />
+    <String id="11501501" string="Молния" />
+    <String id="11501800" string="За 2 минуты победить Фульминара в Глубинном Храме." />
     <String id="98101001" string="Compartilhando uma célula" />
     <String id="98101002" string="Derrote o Possessed Risalke na Prisão de Lakan 1 vez." />
     <String id="98101003" string="Interrompa o ritual de invocação de Risalke na Prisão de Lakan e derrote os devas." />
@@ -5687,174 +6172,168 @@
     <String id="98103800" string="Derrote o Possessed Risalke." />
     <String id="98103801" string="Inventário extra" />
     <String id="98103802" string="Obtenha um desconto de 5% do comerciante em Cutthroat Harbor." />
-	
-	<String id="98190001" string="Elite do mundo Arborea!" />
-	<String id="98190002" string="Você se tornou o proprietário do conjunto VIP Elite." />
+    <String id="98190001" string="Elite do mundo Arborea!" />
+    <String id="98190002" string="Você se tornou o proprietário do conjunto VIP Elite." />
     <String id="98190003" string="Um conjunto exclusivo que confirma seu status VIP." />
-	<String id="98190004" string="Federação Valkyon" />
-	<String id="98190005" string="~VIP Elite" />
-	<String id="98190006" string="Associação Tera VIP." />
-	
-	<String id="98200001" string="Muito e muito mais!" /> 
-    <String id="98200002" string="Você se tornou o proprietário do conjunto VIP-Grand." /> 
-    <String id="98200003" string="Um conjunto exclusivo que confirma seu status VIP." /> 
-    <String id="98200004" string="Federação Valkyon" /> 
-    <String id="98200005" string="~VIP-Grandiose~." /> 
-    <String id="98200006" string="Associação Tera VIP." /> 
-
-	<String id="98270001" string="Os bônus nunca são escassos!" /> 
-    <String id="98270002" string="Você se tornou o proprietário de um conjunto VIP-Bônus." /> 
-    <String id="98270003" string="Um conjunto exclusivo que confirma seu status VIP." /> 
-    <String id="98270004" string="Federação Valkyon" /> 
-    <String id="98270005" string="~Bônus VIP~" /> 
-    <String id="98270006" string="Associação Tera VIP." /> 
-	
-	<String id="98280001" string="Magnus do mundo Arborea!" /> 
-    <String id="98280002" string="Você se tornou o proprietário do conjunto VIP-Magnus." /> 
-    <String id="98280003" string="Um conjunto exclusivo que confirma seu status de Magnus." /> 
-    <String id="98280004" string="Federação Valkyon" /> 
-    <String id="98280005" string="~VIP-Magnus~" /> 
-    <String id="98280006" string="Associação Tera Magnuses." /> 
-	
-	<String id="98210001" string="Um bom livro não fica pior, não importa o quanto você leia." /> 
-    <String id="98210002" string="Você se tornou o proprietário do conjunto VIP-Malus." /> 
-    <String id="98210003" string="A justiça é uma arma. Ela pode ser usada para causar danos." /> 
-    <String id="98210004" string="Federação Valkyon" /> 
-    <String id="98210005" string="Bungo sutorei doggusu" /> 
-    <String id="98210006" string="Pare de sentir pena de si mesmo." /> 
-	
-	<String id="98220001" string="Para a glória de Arborea!" /> 
-    <String id="98220002" string="Você se tornou o proprietário do conjunto VIP-Magnus." /> 
-    <String id="98220003" string="Há o bem e o mal neste mundo, e não há razão para nada disso." /> 
-    <String id="98220004" string="Federação Valkyon" /> 
-    <String id="98220005" string="2B ou não 2B" /> 
-    <String id="98220006" string="Deve-se demonstrar respeito por aqueles que passam no teste." /> 
-	
-	<String id="98230001" string="Até mais, querida!" /> 
-    <String id="98230002" string="Você se tornou o proprietário do conjunto VIP-Grandis." /> 
-    <String id="98230003" string="Preciso de suas roupas, sapatos e uma motocicleta." /> 
-    <String id="98230004" string="Federação Valkyon" /> 
-    <String id="98230005" string="Eu voltarei" /> 
-    <String id="98230006" string="Você esqueceu de dizer &quot;por favor&quot;." /> 
-	
-	<String id="98240001" string="Vença a pressa" /> 
-    <String id="98240002" string="Você se tornou proprietário de um kit de acesso antecipado." /> 
-    <String id="98240003" string="Um dos primeiros jogadores no mundo de Arborea." /> 
-    <String id="98240004" string="Federação Valkyon" /> 
-    <String id="98240005" string="Fundador" /> 
-    <String id="98240006" string="Nenhum aventureiro jamais pôs os pés aqui!" /> 
-	
-	<String id="98250001" string="Apenas o começo ..." /> 
-    <String id="98250002" string="Nível 3 do programa de afiliados." /> 
-    <String id="98250003" string="Número de associados: 2000+." /> 
-    <String id="98250004" string="Federação Valkyon" /> 
-    <String id="98250005" string="Um aventureiro experiente" /> 
-    <String id="98250006" string="Em breve, toda a Arborea saberá de suas façanhas!" /> 
-	
-	<String id="98260001" string="Conquistador de mundos." /> 
-    <String id="98260002" string="Nível 4 do programa de afiliados." /> 
-    <String id="98260003" string="Número de associados: 4000+." /> 
-    <String id="98260004" string="Federação Valkyon" /> 
-    <String id="98260005" string="Uma lenda de outro mundo" /> 
-    <String id="98260006" string="Não há uma única criação em Arborea que não seja baseada em uma lenda." /> 
-	
-	<String id="98290001" string="A morte é minha vida!" />
+    <String id="98190004" string="Federação Valkyon" />
+    <String id="98190005" string="~VIP Elite" />
+    <String id="98190006" string="Associação Tera VIP." />
+    <String id="98200001" string="Muito e muito mais!" />
+    <String id="98200002" string="Você se tornou o proprietário do conjunto VIP-Grand." />
+    <String id="98200003" string="Um conjunto exclusivo que confirma seu status VIP." />
+    <String id="98200004" string="Federação Valkyon" />
+    <String id="98200005" string="~VIP-Grandiose~." />
+    <String id="98200006" string="Associação Tera VIP." />
+    <String id="98210001" string="Um bom livro não fica pior, não importa o quanto você leia." />
+    <String id="98210002" string="Você se tornou o proprietário do conjunto VIP-Malus." />
+    <String id="98210003" string="A justiça é uma arma. Ela pode ser usada para causar danos." />
+    <String id="98210004" string="Federação Valkyon" />
+    <String id="98210005" string="Bungo sutorei doggusu" />
+    <String id="98210006" string="Pare de sentir pena de si mesmo." />
+    <String id="98220001" string="Para a glória de Arborea!" />
+    <String id="98220002" string="Você se tornou o proprietário do conjunto VIP-Magnus." />
+    <String id="98220003" string="Há o bem e o mal neste mundo, e não há razão para nada disso." />
+    <String id="98220004" string="Federação Valkyon" />
+    <String id="98220005" string="2B ou não 2B" />
+    <String id="98220006" string="Deve-se demonstrar respeito por aqueles que passam no teste." />
+    <String id="98230001" string="Até mais, querida!" />
+    <String id="98230002" string="Você se tornou o proprietário do conjunto VIP-Grandis." />
+    <String id="98230003" string="Preciso de suas roupas, sapatos e uma motocicleta." />
+    <String id="98230004" string="Federação Valkyon" />
+    <String id="98230005" string="Eu voltarei" />
+    <String id="98230006" string="Você esqueceu de dizer &quot;por favor&quot;." />
+    <String id="98240001" string="Vença a pressa" />
+    <String id="98240002" string="Você se tornou proprietário de um kit de acesso antecipado." />
+    <String id="98240003" string="Um dos primeiros jogadores no mundo de Arborea." />
+    <String id="98240004" string="Federação Valkyon" />
+    <String id="98240005" string="Fundador" />
+    <String id="98240006" string="Nenhum aventureiro jamais pôs os pés aqui!" />
+    <String id="98250001" string="Apenas o começo ..." />
+    <String id="98250002" string="Nível 3 do programa de afiliados." />
+    <String id="98250003" string="Número de associados: 2000+." />
+    <String id="98250004" string="Federação Valkyon" />
+    <String id="98250005" string="Um aventureiro experiente" />
+    <String id="98250006" string="Em breve, toda a Arborea saberá de suas façanhas!" />
+    <String id="98260001" string="Conquistador de mundos." />
+    <String id="98260002" string="Nível 4 do programa de afiliados." />
+    <String id="98260003" string="Número de associados: 4000+." />
+    <String id="98260004" string="Federação Valkyon" />
+    <String id="98260005" string="Uma lenda de outro mundo" />
+    <String id="98260006" string="Não há uma única criação em Arborea que não seja baseada em uma lenda." />
+    <String id="98270001" string="Os bônus nunca são escassos!" />
+    <String id="98270002" string="Você se tornou o proprietário de um conjunto VIP-Bônus." />
+    <String id="98270003" string="Um conjunto exclusivo que confirma seu status VIP." />
+    <String id="98270004" string="Federação Valkyon" />
+    <String id="98270005" string="~Bônus VIP~" />
+    <String id="98270006" string="Associação Tera VIP." />
+    <String id="98280001" string="Magnus do mundo Arborea!" />
+    <String id="98280002" string="Você se tornou o proprietário do conjunto VIP-Magnus." />
+    <String id="98280003" string="Um conjunto exclusivo que confirma seu status de Magnus." />
+    <String id="98280004" string="Federação Valkyon" />
+    <String id="98280005" string="~VIP-Magnus~" />
+    <String id="98280006" string="Associação Tera Magnuses." />
+    <String id="98290001" string="A morte é minha vida!" />
     <String id="98290002" string="Você já morreu 100 vezes. Bem, neste caso, apenas para o necromante..." />
     <String id="98290003" string="Você já morreu 100 vezes. Bem, neste caso, apenas para o necromante..." />
     <String id="98290004" string="Federação Valkyon" />
     <String id="98290501" string="Anjo caído" />
     <String id="98290800" string="Falecimentos:" />
-	
-	<String id="98300001" string="Um verdadeiro Warrior" />
+    <String id="98300001" string="Um verdadeiro Warrior" />
     <String id="98300002" string="Você completou todos os 3 pontos." />
     <String id="98300003" string="Você completou todos os 3 pontos." />
     <String id="98300004" string="Federação Valkyon" />
-	<String id="98300501" string="Lenda de Arborea" />
+    <String id="98300501" string="Lenda de Arborea" />
     <String id="98300800" string="150 vitórias em Corsairs' Stronghold" />
-	<String id="98300801" string="125 vitórias no Champions' Skyring" />
-	<String id="98300802" string="100 vitórias no Fraywind Canyon" />
-	
-	<String id="98310001" string="Cerveja, cerveja e cerveja de novo!" />
+    <String id="98300801" string="125 vitórias no Champions' Skyring" />
+    <String id="98300802" string="100 vitórias no Fraywind Canyon" />
+    <String id="98310001" string="Cerveja, cerveja e cerveja de novo!" />
     <String id="98310002" string="Bebida 1000 Lein's Dark Root Beer." />
     <String id="98310003" string="Bebida 1000 Lein's Dark Root Beer." />
     <String id="98310004" string="Federação Valkyon" />
     <String id="98310501" string="O estalajadeiro" />
     <String id="98310800" string="Drunk Lein's Dark Root Beer:" />
-	
-	<String id="98320001" string="Mestre de Dungeon Duplo" />
+    <String id="98320001" string="Mestre de Dungeon Duplo" />
     <String id="98320002" string="Você enfrentou todas as condições listadas abaixo." />
     <String id="98320003" string="Você enfrentou todas as condições listadas abaixo." />
     <String id="98320004" string="Federação Valkyon" />
     <String id="98320501" string="Combinação perfeita" />
     <String id="98320800" string="Derrote Darkan no Sky Cruiser Intrepid 100 vezes." />
     <String id="98320801" string="Derrote o Nightmare Krakatox no Abscess 100 vezes" />
-	
-	<String id="98330001" string="Cruzeiro da Morte" />
+    <String id="98330001" string="Cruzeiro da Morte" />
     <String id="98330002" string="Derrote Darkan no Sky Cruiser Intrepid 50 vezes." />
     <String id="98330003" string="Derrote Darkan no Sky Cruiser Intrepid 50 vezes." />
     <String id="98330004" string="Federação Valkyon" />
     <String id="98330501" string="Capitão do cruzador" />
     <String id="98330800" string="Derrote Darkan no Sky Cruiser Intrepid 50 vezes." />
-	
-	<String id="98340001" string="Não é nem um pouco Aladdin..." />
+    <String id="98340001" string="Não é nem um pouco Aladdin..." />
     <String id="98340002" string="Usou &quot;Habilidade do piloto: Tapete Sunsilk&quot; 1 vez." />
     <String id="98340003" string="Usou &quot;Habilidade do piloto: Tapete Sunsilk&quot; 1 vez." />
     <String id="98340004" string="Federação Valkyon" />
     <String id="98340501" string="Carpete? Aqui!" />
     <String id="98340800" string="Usou &quot;Habilidade do piloto: Tapete Sunsilk&quot; 1 vez" />
-	
-	<String id="98350001" string="O que poderia ser melhor do que um campo de batalha?" />
+    <String id="98350001" string="O que poderia ser melhor do que um campo de batalha?" />
     <String id="98350002" string="Você conseguiu realizar todas as conquistas listadas abaixo." />
     <String id="98350003" string="Você conseguiu realizar todas as conquistas listadas abaixo." />
     <String id="98350004" string="Federação Valkyon" />
     <String id="98350501" string="God of War" />
     <String id="98350800" string="Governante de Arun" />
     <String id="98350801" string="Governante de Shara do Sul" />
-	<String id="98350802" string="Governante de Shara do Norte" />
-	
-	<String id="98360001" string="Assistente gentil" />
+    <String id="98350802" string="Governante de Shara do Norte" />
+    <String id="98360001" string="Assistente gentil" />
     <String id="98360002" string="Você se tornou o proprietário do conjunto de molas VIP." />
     <String id="98360003" string="Uma conquista exclusiva para os ajudantes mais gentis." />
     <String id="98360004" string="Federação Valkyon" />
     <String id="98360005" string="Para Akeron!" />
     <String id="98360006" string="Associação Tera VIP." />
-	
-	<String id="98370001" string="Investidor experiente" />
+    <String id="98370001" string="Investidor experiente" />
     <String id="98370002" string="Você se tornou o proprietário do conjunto de molas VIP." />
     <String id="98370003" string="Uma conquista exclusiva para os investidores mais experientes." />
     <String id="98370004" string="Federação Valkyon" />
     <String id="98370005" string="Herói dedicado" />
     <String id="98370006" string="Associação Tera VIP." />
-	
-	<String id="98380001" string="Como o Tio Patinhas" />
+    <String id="98380001" string="Como o Tio Patinhas" />
     <String id="98380002" string="Você se tornou o proprietário do conjunto de molas VIP." />
     <String id="98380003" string="Uma conquista exclusiva para os mais ricos." />
     <String id="98380004" string="Federação Valkyon" />
     <String id="98380005" string="Mais louco" />
     <String id="98380006" string="Associação Tera VIP." />
-	
-	<String id="98390001" string="Camarada sênior" />
+    <String id="98390001" string="Camarada sênior" />
     <String id="98390002" string="Você deu uma lição aos heróis novatos." />
     <String id="98390003" string="Somente aqueles que conhecem os segredos do mundo de Arborea são capazes de fazer isso." />
     <String id="98390004" string="Federação Valkyon" />
     <String id="98390005" string="Mentor" />
     <String id="98390006" string="Federação Valkyon" />
-
-	<String id="98790001" string="No Test No Life" />
+    <String id="98400001" string="I'm in charge here!" />
+    <String id="98400002" string="Win on the Iron Cage 200 times." />
+    <String id="98400003" string="Win on the Iron Cage 200 times." />
+    <String id="98400004" string="Valkyon Federation" />
+    <String id="98400501" string="Ring Boss" />
+    <String id="98400800" string="200 wins on the Iron Cage" />
+    <String id="98410001" string="And you know what it is..." />
+    <String id="98410002" string="You have become the owner of a VIP set 'Northern Shara'." />
+    <String id="98410003" string="An exclusive achievement for light madmen." />
+    <String id="98410004" string="Valkyon Federation" />
+    <String id="98410005" string="Light madness" />
+    <String id="98410006" string="Valkyon Federation" />
+    <String id="98420001" string="He's the only one!" />
+    <String id="98420002" string="You have become the owner of a VIP set 'Northern Arun'." />
+    <String id="98420003" string="An exclusive achievement for the chosen one." />
+    <String id="98420004" string="Valkyon Federation" />
+    <String id="98420005" string="The chosen one" />
+    <String id="98420006" string="Valkyon Federation" />
+    <String id="98790001" string="No Test No Life" />
     <String id="98790002" string="Achievement for active participation in the open beta and closed beta." />
     <String id="98790003" string="Tests are tests and nothing else." />
     <String id="98790004" string="Valkyon Federation" />
     <String id="98790005" string="No Test No Life" />
     <String id="98790006" string="Valkyon Federation" />
-	
-	<String id="98800001" string="Back to the Bug" />
+    <String id="98800001" string="Back to the Bug" />
     <String id="98800002" string="Achievement for active participation in the open beta and closed beta." />
     <String id="98800003" string="Tests are tests and nothing else." />
     <String id="98800004" string="Valkyon Federation" />
     <String id="98800005" string="Back to the Bug" />
     <String id="98800006" string="Valkyon Federation" />
-	
-	<String id="98810001" string="Beta Tester" />
+    <String id="98810001" string="Beta Tester" />
     <String id="98810002" string="Achievement for active participation in the open beta and closed beta." />
     <String id="98810003" string="Tests are tests and nothing else." />
     <String id="98810004" string="Valkyon Federation" />

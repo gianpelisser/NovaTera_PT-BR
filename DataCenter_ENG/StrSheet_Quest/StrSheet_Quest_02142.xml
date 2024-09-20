@@ -1,17 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="60507001" string="Great Expectations" />
-    <String id="60507002" string="&quot;I'll give her a hand.&quot;" />
-    <String id="60507003" string="" />
-    <String id="60507004" string="" />
-    <String id="60507005" string="Talk to {@LinkCreature:63#3002#Taratia}." />
-    <String id="60507006" string="&quot;I can help.&quot;" />
-    <String id="60507007" string="&quot;Thanks.&quot;" />
-    <String id="60507008" string="Deliver essence of wind to the Velika Crafting Guide, {@LinkCreature:63#1098#Santia}." />
-    <String id="60507009" string="" />
-    <String id="60507010" string="&quot;Thanks.&quot;" />
-    <String id="60507011" string="Deliver linmetal ore to the Velika Crafting Guide, {@LinkCreature:63#1098#Santia}." />
-    <String id="60507012" string="" />
-    <String id="60507013" string="&quot;Glad I could help.&quot;" />
-    <String id="60507014" string="Return to {@LinkCreature:63#3002#Taratia}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="60505001" string="Gath-Master" />
+    <String id="60505002" string="&quot;Wow.&quot;" />
+    <String id="60505003" string="" />
+    <String id="60505004" string="" />
+    <String id="60505005" string="Ask {@LinkCreature:63#3002#Taratia} what she needs." />
+    <String id="60505006" string="&quot;You know it.&quot;" />
+    <String id="60505007" string="&quot;Who's the gath-master now?&quot;" />
+    <String id="60505008" string="Deliver luria fibers {@LinkCreature:63#3002#Taratia}." />
+    <String id="60505009" string="" />
+    <String id="60505010" string="&quot;Who's the gath-master now?&quot;" />
+    <String id="60505011" string="Deliver gravehide to {@LinkCreature:63#3002#Taratia}." />
+    <String id="60505012" string="" />
+    <String id="60505013" string="&quot;Yes. Yes it is.&quot;" />
+    <String id="60505014" string="See {@LinkCreature:63#3003#Elthienne}." />
 </StrSheet_Quest>

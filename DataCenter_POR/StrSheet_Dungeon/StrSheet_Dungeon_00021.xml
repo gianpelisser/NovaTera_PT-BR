@@ -1,39 +1,11 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Dungeon xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd">
-    <String id="9043001" string="&lt;font size='50'&gt;Vocês foram pegos! Prepare-se para os enxames de monstros!&lt;/font&gt;" />
-    <String id="9043011" string="&lt;font size='50'&gt;Outra onda de monstros!&lt;/font&gt;" />
-    <String id="9043121" string="&lt;font size='50'&gt;Ponte de nuvem ativada.&lt;/font&gt;" />
-    <String id="9043012" string="&lt;font size='50'&gt;Ativação do atalho místico.&lt;/font&gt;" />
-    <String id="9043018" string="&lt;font size='50'&gt;A pedra de amolar foi destruída. Os monstros já convocados se tornam mais fortes.&lt;/font&gt;" />
-    <String id="9043020" string="&lt;font size='50'&gt;Os monstros serão convocados em breve.&lt;/font&gt;" />
-    <String id="9043021" string="&lt;font size='50'&gt;Ponte móvel ativada.&lt;/font&gt;" />
-    <String id="9043026" string="&lt;font size='50'&gt;A entrada para Mockinghall se fechará em 10 segundos.&lt;/font&gt;" />
-    <String id="9043029" string="&lt;font size='50'&gt;As barras que cercam o atuador da ponte desapareceram.&lt;/font&gt;" />
-    <String id="9043030" string="&lt;font size='50'&gt;A porta está aberta.&lt;/font&gt;" />
-    <String id="9043033" string="&lt;font size='50'&gt;Os monstros aparecerão em 20 segundos.&lt;/font&gt;" />
-    <String id="9043034" string="&lt;font size='50'&gt;Os monstros aparecerão em 10 segundos.&lt;/font&gt;" />
-    <String id="9043035" string="&lt;font size='50'&gt;Os monstros aparecerão em 5 segundos.&lt;/font&gt;" />
-    <String id="9043036" string="&lt;font size='50'&gt;Os monstros estão surgindo agora.&lt;/font&gt;" />
-    <String id="9043037" string="&lt;font size='50'&gt;Felbane está se recuperando em uma velocidade impressionante. Sua imunidade a armas de cerco desaparece.&lt;/font&gt;" />
-    <String id="9043038" string="&lt;font size='50'&gt;Os ataques do Bandersnatch estão ficando mais rápidos.&lt;/font&gt;" />
-    <String id="9043039" string="&lt;font size='50'&gt;Como você não derrotou Kagrom em 20 segundos, Morgak será convocado novamente.&lt;/font&gt;" />
-    <String id="9043040" string="&lt;font size='50'&gt;Como você não derrotou Morgak em 20 segundos, Kagrom será convocado novamente.&lt;/font&gt;" />
-    <String id="9043041" string="&lt;font size='50'&gt;Foi liberado!&lt;/font&gt;" />
-    <String id="9043042" string="&lt;font size='50'&gt;A gaiola ao redor de Morgak se fechará em 10 segundos.&lt;/font&gt;" />
-    <String id="9043043" string="&lt;font size='50'&gt;A gaiola ao redor de Kagrom se fechará em 10 segundos.&lt;/font&gt;" />
-    <String id="9043044" string="&lt;font size='50'&gt;Quebre a armadilha antes que o tempo acabe.&lt;/font&gt;" />
-    <String id="9043045" string="&lt;font size='50'&gt;A porta de entrada se fechará em breve.&lt;/font&gt;" />
-    <String id="9043047" string="&lt;font size='50'&gt;O mestre Keye apareceu.&lt;/font&gt;" />
-    <String id="9043048" string="&lt;font size='50'&gt;O atalho místico do Mestre Keye foi ativado.&lt;/font&gt;" />
-    <String id="9043049" string="&lt;font size='50'&gt;As escadas para a galeria superior se abrem.&lt;/font&gt;" />
-    <String id="9043050" string="&lt;font size='50'&gt;Jack de um olho está acelerando.&lt;/font&gt;" />
-    <String id="9043052" string="&lt;font size='50'&gt;Você recebeu um poder especial.&lt;/font&gt;" />
-    <String id="9043053" string="&lt;font size='50'&gt;Fique longe do dispositivo perigoso no centro!&lt;/font&gt;" />
-    <String id="9043054" string="&lt;font size='50'&gt;Você tem 20 segundos para derrotar o monstro chefe restante.&lt;/font&gt;" />
-    <String id="9043055" string="&lt;font size='50'&gt;Você tem 30 segundos para derrotar o monstro chefe restante.&lt;/font&gt;" />
-    <String id="9043056" string="&lt;font size='50'&gt;Quem é você? Como você ousa invadir meu castelo!&lt;/font&gt;" />
-    <String id="9043057" string="&lt;font size='50'&gt;Vocês nunca conseguirão sair e nunca levarão o que é meu!&lt;/font&gt;" />
-    <String id="9043058" string="&lt;font size='50'&gt;Como você não derrotou Kagrom em 30 segundos, Morgak será convocado novamente.&lt;/font&gt;" />
-    <String id="9043059" string="&lt;font size='50'&gt;Como você não derrotou Morgak em 30 segundos, Kagrom será convocado novamente.&lt;/font&gt;" />
-    <String id="9043060" string="&lt;font size='50'&gt;Felbane perde a imunidade a armas de cerco e começa a lançar a magia de recuperação de PV.&lt;/font&gt;" />
+    <String id="9040001" string="Começou uma luta com alguns argonss. Mate todos os argonss." />
+    <String id="9040002" string="Mais soldados de argons estão vindo para atacá-lo. Por favor, fique alerta." />
+    <String id="9040003" string="Você derrotou todos os argonss! Bom trabalho!" />
+    <String id="9040004" string="Você falhou na missão. A missão será reiniciada." />
+    <String id="9040005" string="Você tem 3 minutos restantes. Por favor, se apresse." />
+    <String id="9040006" string="Você tem apenas 1 minuto restante." />
+    <String id="9040007" string="Você matou todos os argonss!" />
+    <String id="9040008" string="Você irá para Velika em 10 segundos." />
 </StrSheet_Dungeon>

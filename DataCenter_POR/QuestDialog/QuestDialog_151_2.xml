@@ -1,79 +1,109 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="151" id="2" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="151" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="213" id="100" prevId="0" villagerId="1150">
          
+         
         <Page social="0">Todoro e Korino o guiaram pelo Campo de Pesquisa de Noctenium. Eles explicaram a pesquisa em andamento sobre o noctenium - o que são os reinos de bolso, como extrair o noctenium do reino e para que o noctenium pode ser usado.&lt;BR&gt;&lt;BR&gt;Embora coisas úteis estivessem sendo feitas, você percebeu que os conflitos estavam se formando. Você precisaria aprender mais sobre essas alianças.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="2" prevId="0" villagerId="1150">
          
+         
         <Page social="0">A federação quer ouvir a canção do noctênio e vocês são os ouvidos dela. Hoje, eu sou o cantor.&lt;BR&gt;&lt;BR&gt;Nós, pesquisadores do Mysterium, fizemos um progresso incrível na extração de energia desse novo e estranho elemento e no desenvolvimento de maneiras delicadas de utilizá-lo. No entanto, essa canção estará incompleta se você não tocar o poder do noctênio. Você vai tocar?</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="3" prevId="2" villagerId="1150">
          
+         
         <Page social="4">Muitas guildas tentam colocar as mãos em nosso noctênio - e nem todas por motivos saborosos. O Mysterium se esforçou muito para manter esse local de pesquisa em segredo. Mas você cheira a confiança. &lt;BR&gt;&lt;BR&gt;Quando estiver pronto, posso levá-lo até lá. É só pedir. Não é necessário usar venda nos olhos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="151" id="4" prevId="3" villagerId="1001">
          
+         
         <Page social="4">Este lugar parece familiar, mas não familiar, não é? &lt;BR&gt;&lt;BR&gt;É um lugar único. Uma sobreposição do Sonho e não do Sonho. Quando a rainha de argons tomou a chama de Sikander e deixou este mundo, ela rompeu a barreira entre o Sonho e o que está fora dele. O tempo e o espaço se tornaram instáveis e formaram pequenos reinos de bolso como este.&lt;BR&gt;&lt;BR&gt;O Mysterium encontrou este cheio de um novo elemento - o noctênio - e nós o estudamos desde então.&lt;BR&gt;&lt;BR&gt;Quer saber que usos encontramos para o noctênio? Você deveria ir falar com Korino. Ele não está longe. Provavelmente está descobrindo algum novo sabor do noctênio. O noctênio dá sabor a tudo neste lugar, até certo ponto. Vá matar alguns {@linkcreature:151#205#ghilliedhus} perto de Korino e veja você mesmo!</Page>
+    
     
     </Text>
     <Text huntingZoneId="151" id="5" prevId="4" villagerId="1003">
          
+         
         <Page social="4">Você não é um pesquisador... e não está cheio de noctenium.  Portanto, você é muito menos interessante do que eu gostaria.&lt;BR&gt;&lt;BR&gt;O noctênio impregna tudo o que se encontra dentro desses espaços sobrepostos. Nossa pesquisa mostra que ele se liga ao tecido vivo para modificá-lo. Ele aumenta a predileção natural de pessoas e criaturas. Ligado ao minério, ele tem uma força tremenda.&lt;BR&gt;&lt;BR&gt;Meus pesquisadores continuam descobrindo novos usos para ele todos os dias. Seu potencial é ilimitado! O desafio é extraí-la deste reino e refiná-la. Os animais e as plantas o contêm em várias configurações e quantidades. No entanto, as maiores concentrações parecem estar em camadas na terra. É por isso que Todoro desenvolveu um extrator de noctênio.&lt;BR&gt;&lt;BR&gt;Vá até {@linkcreature:151#1002#Todoro}. Ele está verificando um de seus extratores agora. Ele pode explicar como eles funcionam.</Page>
+    
     
     </Text>
     <Text huntingZoneId="151" id="6" prevId="5" villagerId="1002">
          
+         
         <Page social="4">Meus extratores extraem o noctênio bruto das profundezas.&lt;BR&gt;&lt;BR&gt;Muitos extratores prejudicam a terra e podem romper esse reino já fraturado. Portanto, não é aconselhável ter muitos deles, mas é necessário para lidar com o noctênio.&lt;BR&gt;&lt;BR&gt;Todas as alianças dizem que estão morrendo de vontade de obter o noctênio, mas na verdade estão morrendo de vontade de obter esses extratores.</Page>
+    
     
     </Text>
     <Text huntingZoneId="151" id="7" prevId="6" villagerId="1002">
          
+         
         <Page social="4">Obviamente, quando digo "morrer", estou me referindo a "matar"! Lutas descuidadas como essa podem paralisar um extrator por muito tempo! De fato, este aqui precisa de minha atenção.&lt;BR&gt;&lt;BR&gt;Mas a extração é apenas o começo. Se estiver interessado em saber mais sobre a pesquisa do Mysterium, volte e pergunte a Korino. Ah, já que está lá, diga a ele que este extrator está fora de serviço por um tempo.&lt;BR&gt;&lt;BR&gt;Noctenium sorri, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
     <Text huntingZoneId="151" id="8" prevId="7" villagerId="1003">
          
+         
         <Page social="4">Um extrator foi derrubado? Os extratores são a principal maneira de coletar o noctênio de que precisamos! &lt;BR&gt;&lt;BR&gt;Essas alianças estão constantemente interrompendo as extrações umas das outras, tentando ganhar vantagem. Mas essa pesquisa faz parte da Federação Valkyon! Eles deveriam nos deixar fora de suas disputas! &lt;BR&gt;&lt;BR&gt;Obviamente, eles estão tentando derrubar a federação completamente. Não gosto disso.&lt;BR&gt;&lt;BR&gt;Apesar disso, ainda precisamos fazer pesquisas sobre o noctênio, então alguém-*tussa* &lt;PCName&gt; *tussa*-precisará saber de que outra forma coletamos o noctênio.</Page>
+    
     
     </Text>
     <Text huntingZoneId="151" id="9" prevId="8" villagerId="1003">
          
+         
         <Page social="4">Frant, por exemplo, descobriu que é possível obter noctênio por meio da mineração. É como minerar minério, mas esse minério é superpoderoso com noctênio.&lt;BR&gt;&lt;BR&gt;Frant descobriu que o minério aqui é extremamente durável e útil para armas e armaduras. Sua pesquisa mais recente é, de longe, a mais procurada pelo pessoal da aliança belicista. Mas ele não vai simplesmente dar informações de graça.&lt;BR&gt;&lt;BR&gt;Se você quiser ouvir sobre o novo trabalho dele, precisará oferecer-lhe um presente. Reúna algum minério de noctênio novo e leve-o até ele.</Page>
+    
     
     </Text>
     <Text huntingZoneId="151" id="10" prevId="9" villagerId="1004">
          
+         
         <Page social="4">Você me trouxe amostras de minério? Como está se sentindo? &lt;BR&gt;&lt;BR&gt;Não, eu não sou médico. E não se trata apenas de curiosidade. Nossas pesquisas mostram que o noctenium eleva certas emoções e desejos nos indivíduos.&lt;BR&gt;&lt;BR&gt;Quando manuseado com cuidado, é muito útil, mas se não, é muito perigoso. Dê-me o noctenium e eu lhe contarei quando o encontrei pela primeira vez.</Page>
+    
     
     </Text>
     <Text huntingZoneId="151" id="11" villagerId="1004">
          
+         
         <Page social="0">Preciso de mais noctenium para minha pesquisa. Sempre preciso de mais.</Page>
+    
     
     </Text>
     <Text huntingZoneId="151" id="12" prevId="10" villagerId="1004">
          
+         
         <Page social="4">Quando encontrei o noctênio pela primeira vez, tornei-me agressivo e ataquei meus próprios colegas de trabalho. Nem percebi o que estava fazendo. Graças a bons amigos como Danarun, não acabou mal.&lt;BR&gt;&lt;BR&gt;O noctênio deve ser manuseado com cuidado. Qualquer pessoa que tente consumir noctênio sem precauções é simplesmente tola. Nós, pesquisadores do Mysterium, aprendemos a manusear o noctenium com segurança e a utilizá-lo de muitas maneiras diferentes.&lt;BR&gt;&lt;BR&gt;Os resultados das minhas últimas pesquisas criaram uma poção que o torna invisível - não completamente invisível, mas com mais pesquisas, isso pode ser possível.&lt;BR&gt;&lt;BR&gt;Quer uma amostra?</Page>
+    
     
     </Text>
     <Text huntingZoneId="151" id="13" prevId="12" villagerId="1004">
          
+         
         <Page social="4">O que você acha? Muito legal? &lt;BR&gt;&lt;BR&gt;A poção falha se você usar uma habilidade ou for pego por um totem de detecção. Portanto, tenha isso em mente.&lt;BR&gt;&lt;BR&gt;O noctênio interage de várias maneiras com os tecidos vivos. Esta é apenas uma aplicação.&lt;BR&gt;&lt;BR&gt;Danarun pode lhe dizer mais sobre isso. Mas parece que ele está cercado de dentes de sabre. Ele é muito mais leitor de livros do que lutador. Faça um favor ao pobre coitado e elimine alguns {@linkcreature:151#203#noctenium sabertooths}. Isso deve aliviar o estresse dele.</Page>
+    
     
     </Text>
     <Text huntingZoneId="151" id="14" prevId="13" villagerId="1005">
          
+         
         <Page social="4">Você reduziu as feras dente de sabre para mim? Que atencioso! Obrigado.&lt;BR&gt;&lt;BR&gt;Estou tentando descobrir maneiras de usar o noctenium para melhorar o físico e a acuidade mental das pessoas. O auge de minha pesquisa resultou na infusão de noctenium. &lt;BR&gt;&lt;BR&gt;Só é preciso aprender a aplicação correta. Com a infusão, os combatentes podem atacar os inimigos com mais força. Agora eu me esforço para melhorar sua estabilidade e desempenho.&lt;BR&gt;&lt;BR&gt;Por mais que eu aprecie o fato de ter eliminado alguns dos dentes-de-sabre, odeio me impor, mas se você não estiver muito ocupado, pode se livrar de um {@linkcreature:151#301#dracoloth}, antes de retornar a Korino? A enormidade do noctênio infundido em seus tecidos está atrapalhando minhas leituras.</Page>
+    
     
     </Text>
     <Text huntingZoneId="151" id="15" prevId="14" villagerId="1003">
          
+         
         <Page social="4">Você obteve as informações solicitadas pela federação? Frant e Danarun foram úteis? Isso é bom.&lt;BR&gt;&lt;BR&gt;Só gostaria que a federação acabasse com as intromissões da aliança em nossa pesquisa.</Page>
+    
     
     </Text>
 </QuestDialog>

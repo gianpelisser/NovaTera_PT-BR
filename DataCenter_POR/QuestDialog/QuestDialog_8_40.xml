@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="8" id="40" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="8" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="208" id="100" prevId="0" villagerId="1001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="208" id="2" prevId="0" villagerId="1001">
          
+         
         <Page social="4">Os restos mortais das vítimas dos gulas estão espalhados pelas Hungry Caverns Vaults. Isso não os trará de volta ou anulará seu sofrimento, mas devemos a eles devolvê-los a seus lares.&lt;BR&gt;&lt;BR&gt;Recolha os que encontrar e traga-os para cá. Eu cuidarei do resto.</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="4">A forma como tratamos nossos mortos diz muito sobre nós como sociedade. Fico feliz por termos agido com honra. Obrigado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="4" villagerId="1001">
          
+         
         <Page social="0">Devemos devolver esses restos mortais a seus lares.</Page>
+    
     
     </Text>
 </QuestDialog>

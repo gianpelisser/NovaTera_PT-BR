@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="49" id="44" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="49" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="249" id="100" prevId="0" villagerId="1005">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="249" id="2" prevId="0" villagerId="1005">
          
+         
         <Page social="4">A segurança em argons parece frouxa. Deveríamos ir até {@Rgn:49004}.&lt;BR&gt;&lt;BR&gt;Esconda-se por lá e mate alguns ceifadores kallan. Se você for bom o suficiente, estará de volta aqui antes que os reforços deles apareçam.</Page>
+    
     
     </Text>
     <Text huntingZoneId="249" id="3" prevId="2" villagerId="1005">
          
+         
         <Page social="6">Uau. Que show! &lt;BR&gt;&lt;BR&gt;Isso provavelmente os feriu um pouco. Teremos que bater mais forte da próxima vez!</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,24 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="13" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="13" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="213" id="100" prevId="0" villagerId="1018">
          
+         
         <Page social="0">O prefeito Riel ordenou que você investigasse o paradeiro do grupo avançado. Ao chegar à entrada de Tainted Gorge, você se encontrou com a Scout Phaedra e soube que o grupo avançado está são e salvo. Phaedra então disse que você deveria ir ao posto avançado de Tainted Gorge para receber novas tarefas de Sersine.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="2" prevId="0" villagerId="1018">
          
+         
         <Page social="4">Vá até o desfiladeiro, &lt;PCNAME&gt;, mas fique de olho em Phaedra. Ela é a minha melhor infiltrada e deve estar em algum lugar onde possa monitorar as estradas.&lt;BR&gt;&lt;BR&gt;Qualquer que seja a intenção do inimigo, ela provavelmente saberá. Boa sorte e entre em campo!</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="3" prevId="2" villagerId="1005">
          
+         
         <Page social="4">O que eles fizeram? Tiraram você do treinamento? Ah, sim. Eles fizeram isso? &lt;BR&gt;&lt;BR&gt;Bem, deixe-me lhe dar uma visão geral. Este é um território inimigo, e há muitos deles. Demônios de todas as formas e tamanhos. Eles parecem estar procurando alguma coisa, mas não sei o quê.&lt;BR&gt;&lt;BR&gt;Vá para o oeste. Você verá um pequeno posto avançado na base da colina. Fale com Sersine e faça o que puder por ela!</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="4" prevId="3" villagerId="1025">
          
+         
         <Page social="4">Somos gratos por qualquer ajuda, é claro.&lt;BR&gt;&lt;BR&gt;Os demônios e seus aliados estão de fato caçando algo - e estão um pouco mais adiantados do que nós. Eles sabem o que estão procurando.&lt;BR&gt;&lt;BR&gt;Talvez seja hora de interrompermos seus planos....</Page>
     
+    
+    </Text>
+    <Text id="5" huntingZoneId="213" villagerId="1025">
+        <Page social="0" />
     </Text>
 </QuestDialog>

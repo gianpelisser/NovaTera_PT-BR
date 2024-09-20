@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="24" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="52" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="252" id="100" prevId="0" villagerId="1001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="252" id="2" prevId="0" villagerId="1001">
          
+         
         <Page social="4">A Legião de Thulsa está acordada e se dirige para o sul, vinda do Vale das Torres. Eles ainda não representam uma ameaça, mas estão se reunindo, e isso não é nada bom.&lt;BR&gt;&lt;BR&gt;Quero que você avance sobre os Preletores da Legião Maldita e seu líder, Bosskar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="252" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="4">Excelente! Você eliminou a legião sozinho. Kaia deve estar observando todos os seus movimentos!</Page>
+    
     
     </Text>
 </QuestDialog>

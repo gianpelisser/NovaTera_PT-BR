@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="23" id="28" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="23" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="223" id="100" prevId="0" villagerId="1036">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="223" id="2" prevId="0" villagerId="1036">
          
+         
         <Page social="5">Várias patrulhas foram atacadas por algumas criaturas flamejantes incomuns.&lt;BR&gt;&lt;BR&gt;Eu quero estudá-las. Persiga e mate alguns {@LinkCreature:23#9#molten fangspawns} e colete seus núcleos.&lt;BR&gt;&lt;BR&gt;Isso deve me dar uma pista para uma solução mais permanente.</Page>
+    
     
     </Text>
     <Text huntingZoneId="223" id="3" prevId="2" villagerId="1036">
          
+         
         <Page social="5">Isso vai servir muito bem. Começarei meus estudos imediatamente.&lt;BR&gt;&lt;BR&gt;Whoo - ainda quente!</Page>
+    
     
     </Text>
     <Text huntingZoneId="223" id="4" villagerId="1036">
          
+         
         <Page social="0">Se não conseguirmos os núcleos, essas criaturas podem ficar fora de controle.&lt;BR&gt;&lt;BR&gt;Imagine um exército de presas derretidas marchando sobre Pora Elinu. Agora volte para lá e me traga esses núcleos.</Page>
+    
     
     </Text>
 </QuestDialog>

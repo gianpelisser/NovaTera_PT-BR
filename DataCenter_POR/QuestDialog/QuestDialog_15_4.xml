@@ -1,39 +1,53 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="15" id="4" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="15" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="216" id="100" prevId="0" villagerId="1028">
          
+         
         <Page social="0">O plano de Jelena levou você até a mansão. Enquanto Jelena limpava o caminho dos alarmes, você matou o duque e a duquesa vampiros. Você encontrou o dispositivo que produzia os dementaliths - e o explodiu em pedaços.&lt;BR&gt;&lt;BR&gt;A sacerdotisa Scion, Akia, jurou vingança por sua intromissão. Quando você matou o aracnídeo de estimação dela, ela já havia fugido, mas você forjou uma nova amizade com Jelena.</Page>
+    
     
     </Text>
     <Text huntingZoneId="216" id="2" prevId="0" villagerId="1028">
          
+         
         <Page social="4">Os nobres usam esse teleportal para entrar e sair sem serem vistos.&lt;BR&gt;&lt;BR&gt;Eles acham que é seguro porque está ligado ao sangue deles. Graças a você, temos um pouco disso! &lt;BR&gt;&lt;BR&gt;Todos pegam um frasco. Vejo vocês do outro lado!</Page>
+    
     
     </Text>
     <Text huntingZoneId="488" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="4">Shhh! Eles estão bem no alto da escada! &lt;BR&gt;&lt;BR&gt;Você consegue sentir esse formigamento? Bem na parte de trás do seu pescoço? Deve ser a magia do dispositivo deles. Que explosão, é forte! Temos que ser rápidos.&lt;BR&gt;&lt;BR&gt;Ok, estamos todos no lugar?</Page>
+    
     
     </Text>
     <Text huntingZoneId="488" id="4" prevId="3" villagerId="1001">
          
+         
         <Page social="4">Vocês vão fazer muito barulho, então vou desativar os alarmes. Nós nos encontraremos na escada para o andar térreo.&lt;BR&gt;&lt;BR&gt;Se alguma coisa lhe causar problemas, corte-a e deixe o Sonho resolver o problema.</Page>
+    
     
     </Text>
     <Text huntingZoneId="488" id="5" prevId="4" villagerId="1005">
          
+         
         <Page social="4">Você vai estragar a festinha da {@LinkCreature:488#10#Duquesa Tirania} e do {@LinkCreature:488#13#Duque Volperon}.&lt;BR&gt;&lt;BR&gt;Eu vou preparar a porta do templo para abrir quando eles morrerem. Assim, poderemos pôr um fim a essa bagunça.</Page>
+    
     
     </Text>
     <Text huntingZoneId="15" id="6" villagerId="4">
          
+         
         <Page social="0">Muito bem. É hora de tirar esse dispositivo do bolso. Cante uma música ou conte o mais alto que puder - qualquer coisa para manter sua mente concentrada. Apenas certifique-se de destruir o alvo!</Page>
+    
     
     </Text>
     <Text huntingZoneId="216" id="7" prevId="5" villagerId="1028">
          
+         
         <Page social="4">Será esse o fim da Sinestral Manor? &lt;BR&gt;&lt;BR&gt;Nós nos livramos do duque e da duquesa e até destruímos o gerador de dementaliths. Tudo em um dia de trabalho, não é? Bom trabalho aí! &lt;BR&gt;&lt;BR&gt;Agora, talvez eu possa finalmente me esticar e respirar um pouco. Sim, é verdade.</Page>
+    
     
     </Text>
 </QuestDialog>

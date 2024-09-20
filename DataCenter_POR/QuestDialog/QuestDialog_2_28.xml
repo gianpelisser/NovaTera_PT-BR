@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="2" id="28" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="2" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="202" id="100" prevId="0" villagerId="1021">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="202" id="2" prevId="0" villagerId="1021">
          
+         
         <Page social="4">O que você quer dizer com "O que está acontecendo?" Somente o céu! Essa é uma pergunta com truque, &lt;PCCLASS:lcase&gt;?&lt;BR&gt;&lt;BR&gt;Porque eu gosto de truques!&lt;NEXTPAGEBUTTON&gt;"Quem não gosta?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Exatamente! Mas não é divertido quando você é o alvo do truque, e foi isso que aconteceu comigo! &lt;BR&gt;&lt;BR&gt;Um bando de fadas pegou meu pó de fada e não quer devolvê-lo.&lt;BR&gt;&lt;BR&gt;Você pode recuperá-lo?</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="3" prevId="2" villagerId="1021">
          
+         
         <Page social="4">Sim! Pó de fada! Direto das fadas! &lt;BR&gt;&lt;BR&gt;Olhem para mim! Estou brilhando! Estou brilhando! Isso é que é um truque, hein?&lt;BR&gt;&lt;BR&gt;Oh, não seja um mau esportista, &lt;PCNAME&gt;. Talvez não fosse exatamente o "meu" pó de fada.&lt;BR&gt;&lt;BR&gt;Mas olhe para mim - estou brilhando!</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="4" villagerId="1021">
          
+         
         <Page social="0">As fadas levaram meu pó de fada. Você não acredita em mim?</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,31 +1,42 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="33" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="33" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="73" id="100" prevId="0" villagerId="1009">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="73" id="2" prevId="0" villagerId="1009">
          
+         
         <Page social="4">Preciso de alguém que saiba o que está fazendo para entrar na Cidadela do Tormento e ajudar os pesquisadores antes que todos sejam mortos.&lt;BR&gt;&lt;BR&gt;Parece que os soldados que estão lá dentro já não são suficientes. Você gostaria da missão, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;Então se apresente a Meygren dentro da Cidadela do Tormento.</Page>
+    
     
     </Text>
     <Text huntingZoneId="233" id="3" prevId="2" villagerId="1003">
          
+         
         <Page social="4">Bem-vindo, bem-vindo. &lt;BR&gt;&lt;BR&gt;Nossa maior prioridade é desenvolver uma defesa para que as pessoas não sejam afetadas pelos feitiços malignos dos monstros, mas, infelizmente, parece que não conseguimos reunir os ingredientes necessários.&lt;NEXTPAGEBUTTON&gt;"Do que você precisa?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">O segundo e o terceiro andares abrigam uma variedade de criaturas mortas-vivas estranhas - e seus pertences, que irradiam o tipo de mana de que precisamos.&lt;BR&gt;&lt;BR&gt;Por favor, pegue as escovas de cabelo manchadas de sangue da {@LinkCreature:33#3#nobre vampira} e da {@LinkCreature:33#53#nobre vampira amaldiçoada} no segundo andar, e os relógios de bolso com cabeça de morte do {@LinkCreature:33#4# cavalheiro vampiro} no terceiro andar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="233" id="4" prevId="3" villagerId="1003">
          
+         
         <Page social="4">Você conseguiu! Com isso, posso bloquear os vampiros e sua magia hipnotizante. Obrigado, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
     <Text huntingZoneId="233" id="5" villagerId="1003">
          
+         
         <Page social="0">Você pode encontrar a {@LinkCreature:33#3#vampir noblewoman} e a {@LinkCreature:33#53#cursed vampir noblewoman} no Hall of Maidens. O {@LinkCreature:33#4#vampir gentleman} está no Hall of Masters. Felizmente, você estará a um andar de distância daquelas bonecas horríveis...</Page>
+    
     
     </Text>
 </QuestDialog>

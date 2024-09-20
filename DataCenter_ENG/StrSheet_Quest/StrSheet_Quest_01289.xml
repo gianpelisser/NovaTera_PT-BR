@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4594001" string="Hopping Mad" />
-    <String id="4594002" string="I loathe tuwangis." />
-    <String id="4594003" string="Proof of Kill: Argonomorphs" />
-    <String id="4594004" string="&quot;For the federation!&quot;" />
-    <String id="4594005" string="Kill {@creature:45#4002#argonomorph tuwangis}, {@creature:45#4003#warfroggers}, and {@creature:45#4004#wendigos} near the {@Rgn:45005$$Skyfields}." />
-    <String id="4594006" string="Report to {@Creature:245#1009} at {@Rgn:45009$$Camp Insanity}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4585001" string="Order to Subjugate Draelteryx" />
+    <String id="4585002" string="Token of Subjugating the {@linkcreature:45#4005#Draelteryx}" />
+    <String id="4585003" string="&quot;Thanks.&quot;" />
+    <String id="4585004" string="Kill {@linkcreature:45#4005#Draelteryx} and collect tokens" />
+    <String id="4585005" string="Report to Coordinator" />
 </StrSheet_Quest>

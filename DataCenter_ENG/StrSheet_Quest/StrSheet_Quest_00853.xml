@@ -1,16 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="3033001" string="Tongue Tied" />
-    <String id="3033002" string="Don't let it poison you!" />
-    <String id="3033003" string="Do you have any idea what you've just done?" />
-    <String id="3033004" string="Tentacullar Venom" />
-    <String id="3033005" string="Kill {@linkcreature:30#140#venomous tentacullars} in {@Rgn:30006$$Brightleaf Glade} and get their poison." />
-    <String id="3033006" string="Deliver the poison to the {@linkcreature:230#1018#veteran itinerant miner}." />
-    <String id="3033007" string="&quot;Understood.&quot;" />
-    <String id="3033008" string="" />
-    <String id="3033009" string="Tentacullar Venom" />
-    <String id="3033010" string="Show the poison to the {@linkcreature:230#1017$$novice itinerant miner}, a coworker of the {@linkcreature:230#1018$$veteran itinerant miner}." />
-    <String id="3033011" string="&quot;How do I get into these things?&quot;" />
-    <String id="3033012" string="&quot;For the federation.&quot;" />
-    <String id="3033013" string="Go tell {@linkcreature:230#1065$$Libinienn} what happened to the {@linkcreature:230#1018#veteran itinerant miner}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="3029001" string="Core of the Problem" />
+    <String id="3029002" string="They might even tell us how to repair the sun towers." />
+    <String id="3029003" string="I must pack a few things first." />
+    <String id="3029004" string="Brass Conservator Core" />
+    <String id="3029005" string="[{@Rgn:30007$$Balder's Pavilion}] Extract several {@linkcreature:30#180#brass conservator} cores." />
+    <String id="3029006" string="Report to {@linkcreature:230#1005$$Naisas}." />
+    <String id="3029007" string="&quot;Hope they help.&quot;" />
+    <String id="3029008" string="&quot;All part of the job.&quot;" />
+    <String id="3029009" string="Find {@linkcreature:230#1019$$Sestena}." />
 </StrSheet_Quest>

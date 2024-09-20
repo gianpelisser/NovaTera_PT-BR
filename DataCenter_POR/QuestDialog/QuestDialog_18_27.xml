@@ -1,36 +1,49 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="18" id="27" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="18" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="218" id="100" prevId="0" villagerId="1002">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="218" id="2" prevId="0" villagerId="1002">
          
+         
         <Page social="0">Problemas, problemas, problemas. Preciso da ajuda de {@LinkCreature:218#1027#Takucha}, mas não posso ir.&lt;BR&gt;&lt;BR&gt;Você vai, diga que eu o enviei. Caso contrário, nada de conversa, nada de ajuda.</Page>
+    
     
     </Text>
     <Text huntingZoneId="218" id="3" prevId="2" villagerId="1027">
          
+         
         <Page social="0">Hmm. Kunchara? Amigo de confiança. Eu ajudo.&lt;BR&gt;&lt;BR&gt;A tribo ficou furiosa. Algo sobre um feitiço. Não há como voltar atrás agora.&lt;BR&gt;&lt;BR&gt;Devo eliminar o líder, {@LinkCreature:18#101#Tukarus}. Vai, vai, vai.</Page>
+    
     
     </Text>
     <Text huntingZoneId="218" id="4" prevId="3" villagerId="1027">
          
+         
         <Page social="0">Esse é Tukarus. Lembro-me bem dele.&lt;BR&gt;&lt;BR&gt;Sempre teve cabeça grande. Ha!&lt;BR&gt;&lt;BR&gt;Levar de volta para Kunchara, sim?</Page>
+    
     
     </Text>
     <Text huntingZoneId="218" id="5" villagerId="1027">
          
+         
         <Page social="0">Perdeu-se? O {@LinkCreature:18#101#Tukarus} está voltando por ali.</Page>
+    
     
     </Text>
     <Text huntingZoneId="218" id="6" prevId="4" villagerId="1002">
          
+         
         <Page social="0">A cabeça de Tukarus? Você, hum? &lt;BR&gt;&lt;BR&gt;Ele sabia a verdade, mas não achava que Takucha o teria, er....&lt;NEXTPAGEBUTTON&gt;"Você está se sentindo bem?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Ah. Sim! Kunchara bom.&lt;BR&gt;&lt;BR&gt;Obrigado por...uh, isso.</Page>
+    
     
     </Text>
 </QuestDialog>

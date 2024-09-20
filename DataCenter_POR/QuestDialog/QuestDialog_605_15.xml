@@ -1,69 +1,95 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="605" id="15" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="15" huntingZoneId="605" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="63" id="100" prevId="0" villagerId="3002">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="2" prevId="0" villagerId="3002">
          
+         
         <Page social="4">Você está com um cheiro estranho. O que esteve fazendo? &lt;BR&gt;&lt;BR&gt;Não! Não é você, sou eu! Está vendo, ali, na minha bota? Cocô de ghillie. Devo ter pisado em algum no caminho para o trabalho. Acontece com muita frequência.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:63#3003#Elthienne} tem um trabalho para você, se estiver interessado. Vou ter que fazer uma faxina.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="3003">
          
+         
         <Page social="4">Seu timing é impecável. As Mãos requerem materiais que estão atualmente andando perto do {@Rgn:23001#Lago das Lágrimas}.&lt;BR&gt;&lt;BR&gt;Sua missão, caso decida aceitá-la, é rastrear alguns monstros e nos trazer alguns troféus.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="4" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="5" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="6" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="7" prevId="2" villagerId="3002">
          
+         
         <Page social="5">Dê uma olhada nisso! Muito para nossos propósitos.&lt;BR&gt;&lt;BR&gt;Obrigado, &lt;PCNAME&gt;. Veja {@LinkCreature:63#3003#Elthienne}.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="8" villagerId="3002">
          
+         
         <Page social="0">As Mãos precisam de uma armadura de primeira linha. O problema é que não temos dinheiro para comprá-las.&lt;BR&gt;&lt;BR&gt;Viaje até o {@Rgn:23001#Lago das Lágrimas} e exproprie algumas das {@LinkCreature:23#9#molten fangspawns}.&lt;BR&gt;&lt;BR&gt;Se elas podem proteger um fangspawn, podem nos proteger. Temos as habilidades necessárias para transformar tudo o que você conseguir em algo que possamos usar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="9" prevId="7" villagerId="3002">
          
+         
         <Page social="5">Maravilhoso! Você é demais.&lt;BR&gt;&lt;BR&gt;Diga a {@LinkCreature:63#3003#Elthienne} Eu disse que deveríamos lhe dar um bônus - não que ela me ouça.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="10" villagerId="3002">
          
+         
         <Page social="0">Estamos com pouca armadura. Acontece que esse material tem que ser substituído quando você luta constantemente com aracnídeos e kulkaris.&lt;BR&gt;&lt;BR&gt;Você se importaria de tirar algumas dos cadáveres de alguns {@LinkCreature:23#13#searing fangspawns} perto do {@Rgn:23001#Lake of Tears}?&lt;BR&gt;&lt;BR&gt;Você terá que transformá-los em cadáveres primeiro, é claro.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="11" prevId="9" villagerId="3002">
          
+         
         <Page social="5">Ah, esse é o material. Diga a {@LinkCreature:63#3003#Elthienne} que vou começar a trabalhar nisso imediatamente.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="12" villagerId="3002">
          
+         
         <Page social="0">Gostaríamos que você fosse até o {@Rgn:23001#Lago das Lágrimas} e trouxesse de volta o pó gerado pelos {@LinkCreature:23#14#lurking teraliths}.&lt;BR&gt;&lt;BR&gt;O pó forma uma argila rica e forte quando misturado com água e alguns outros ingredientes secretos.&lt;BR&gt;&lt;BR&gt;Posso usá-lo para fazer todo tipo de coisa, de cerâmica a ferramentas de espancamento. Caso você não tenha notado, sou habilidoso.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="13" prevId="11" villagerId="3003">
          
+         
         <Page social="4">Obrigado, &lt;PCNAME&gt;. Às vezes me pergunto se as Mãos de Velika são dignas de seu serviço.</Page>
+    
     
     </Text>
 </QuestDialog>

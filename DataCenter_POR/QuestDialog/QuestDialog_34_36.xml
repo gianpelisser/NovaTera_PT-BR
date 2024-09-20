@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="34" id="36" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="34" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="234" id="100" prevId="0" villagerId="1011">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="234" id="2" prevId="0" villagerId="1011">
          
+         
         <Page social="4">Nós, amani, temos nossas próprias tradições e testes. Espera-se que todo guerreiro ganhe o título de frostclaw caçando uma fera assassina.&lt;BR&gt;&lt;BR&gt;Tive o azar de escolher o {@LinkCreature:34#920#frostguard patriarch} como meu alvo. Não temo nada, mas não jogarei minha vida fora.&lt;BR&gt;&lt;BR&gt;Se eu tivesse sua garra, o teste teria terminado e poderíamos lutar contra wendigos. Você vai me ajudar?</Page>
+    
     
     </Text>
     <Text huntingZoneId="234" id="3" prevId="2" villagerId="1011">
          
+         
         <Page social="4">Uma garra de mugato. Tão simples, mas com tanto peso.&lt;BR&gt;&lt;BR&gt;Tenho uma dívida de sangue com você, &lt;PCNAME&gt;. Ou, um leitão assado, se algum dia nos encontrarmos em Kaiator! Hah!</Page>
+    
     
     </Text>
     <Text huntingZoneId="234" id="4" villagerId="1011">
          
+         
         <Page social="0">Não posso implorar. É contra minha natureza. Kaia não gosta disso.</Page>
+    
     
     </Text>
 </QuestDialog>

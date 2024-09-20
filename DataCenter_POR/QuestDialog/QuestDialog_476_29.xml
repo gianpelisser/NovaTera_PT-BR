@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="476" id="29" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="476" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="253" id="100" prevId="0" villagerId="1015">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="253" id="2" prevId="0" villagerId="1015">
          
+         
         <Page social="4">Vai entrar no Labirinto? Entre com cuidado. Algumas das estátuas são armadilhas.&lt;BR&gt;&lt;BR&gt;Estou aqui em nome de Kanmur, meu...antigo...comandante.&lt;BR&gt;&lt;BR&gt;Estou lá dentro de vez em quando, há dias, procurando o desgraçado sem honra e covarde que arrancou os chifres de Kanmur. Um palhaço louco chamado Aleister. &lt;NEXTPAGEBUTTON&gt;"Eu me lembro dele."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="5">O senhor é o &lt;PCNAME&gt;! Sim, ouvi dizer que você estava lá quando Aleister chegou a Kaiator.&lt;BR&gt;&lt;BR&gt;Não descansarei enquanto não encontrarmos e matarmos Aleister e os chifres do general estiverem onde pertencem.</Page>
+    
     
     </Text>
     <Text huntingZoneId="253" id="3" prevId="2" villagerId="1015">
          
+         
         <Page social="4">Obrigado.&lt;BR&gt;&lt;BR&gt;O corpo de um aman não é inteiro sem seus chifres.&lt;BR&gt;&lt;BR&gt;O general pode finalmente descansar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="253" id="4" villagerId="1015">
          
+         
         <Page social="0">Você encontrou Aleister? &lt;BR&gt;&lt;BR&gt;Se você o encontrar, ele é seu, mas assim que eu me curar, vou entrar para encontrar aquele palhaço e rasgá-lo em dois!</Page>
+    
     
     </Text>
 </QuestDialog>

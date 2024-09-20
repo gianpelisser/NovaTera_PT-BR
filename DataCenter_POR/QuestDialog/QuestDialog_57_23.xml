@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="57" id="23" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="57" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="257" id="100" prevId="0" villagerId="1022">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="257" id="2" prevId="0" villagerId="1022">
          
+         
         <Page social="4">Nossos batedores estão sendo despedaçados por esses cães infernais. Precisamos saber o que está acontecendo lá dentro, então abram caminho e encontrem Kalraz.&lt;BR&gt;&lt;BR&gt;Maldito seja Killian por prender essas criaturas miseráveis a essa área!</Page>
+    
     
     </Text>
     <Text huntingZoneId="257" id="3" prevId="2" villagerId="1023">
          
+         
         <Page social="4">Brutos desagradáveis, não são? &lt;BR&gt;&lt;BR&gt;Obrigado por me encontrar. Espero que você goste de lutar, &lt;PCNAME&gt;. A partir daqui, só vai piorar!</Page>
+    
     
     </Text>
 </QuestDialog>

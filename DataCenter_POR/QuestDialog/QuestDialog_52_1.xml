@@ -1,58 +1,80 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="1" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="52" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0">Thulsa se apoderou da Fornalha Divina porque os fragmentos de relíquias - complementados com o poder do Núcleo - não têm valor sem a Fornalha Divina e o lendário ferreiro Muhrak. Você entrou na Fornalha Divina na esperança de resgatar Muhrak.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0">Thulsa quer a Fornalha Divina para seus próprios fins, e seu exército conquistou a Planície dos Malditos, lar da Fornalha Divina. Mesmo que você não consiga libertar a Fornalha Divina, talvez consiga salvar o lendário ferreiro Muhrak... se ele ainda estiver vivo.&lt;BR&gt;&lt;BR&gt;Um aprendiz escapou da Fornalha Divina quando Thulsa atacou, e ele está em Habere agora. Fale com o primus de lá.</Page>
+    
     
     </Text>
     <Text huntingZoneId="79" id="3" prevId="2" villagerId="1007">
          
+         
         <Page social="4">Como Thulsa ousa profanar esta terra? Kaia reivindica Habere como sua, e eu lutarei até a morte para manter os chamados "deuses da morte" longe daqui! &lt;BR&gt;&lt;BR&gt;Mas não é por isso que você está aqui. O aprendiz que escapou? Agora que ele recuperou a consciência, claro... fale com ele o quanto quiser.</Page>
+    
     
     </Text>
     <Text huntingZoneId="79" id="4" prevId="3" villagerId="1100">
          
+         
         <Page social="4">Thulsa assumiu o controle da Câmara Fundida, que fornece calor para a fornalha principal. Ele exigiu nossa cooperação, mas o ferreiro Muhrak e seus engenheiros amani se recusaram.&lt;BR&gt;&lt;BR&gt;Então Thulsa matou todos os engenheiros com um aceno de mão! Como apagar velas...&lt;BR&gt;&lt;BR&gt;Meus olhos estavam fechados depois disso, mas acho que Muhrak escapou. De qualquer forma, houve uma grande comoção.&lt;BR&gt;&lt;BR&gt;Eles nos fizeram erguer um escudo ao redor da Câmara Fundida. Tive a sensação de que eles iriam nos matar quando terminássemos, então fugi.</Page>
+    
     
     </Text>
     <Text huntingZoneId="79" id="5" prevId="4" villagerId="1007">
          
+         
         <Page social="4">Amani morto? Aprendizes escravizados? Um ultraje! &lt;BR&gt;&lt;BR&gt;Mas tenho boas notícias. Salvamos outro retardatário - um aprendiz humano no portão oeste de Habere.&lt;BR&gt;&lt;BR&gt;Descubra o que ele sabe. Se o aprendiz puder lhe indicar a caravana que eles estão usando para transportar seus prisioneiros... então liberte esses prisioneiros!</Page>
+    
     
     </Text>
     <Text huntingZoneId="52" id="6" villagerId="1">
          
+         
         <Page social="0">Não quero ser um fardo. Só quero avisar a todos sobre a Fornalha Divina.&lt;BR&gt;&lt;BR&gt;Thulsa está lá! Thulsa, deus da morte! &lt;BR&gt;&lt;BR&gt;Vocês já sabiam disso? Ah. Lá se foi meu aviso....</Page>
+    
     
     </Text>
     <Text huntingZoneId="79" id="7" prevId="5" villagerId="1101">
          
+         
         <Page social="4">Fico feliz que alguém tenha espalhado a notícia. Os engenheiros amani estão todos mortos, mas Muhrak, o lendário ferreiro, está vivo! Ele está escondido em algum lugar da Fornalha Divina, que ele conhece como a palma de sua mão.&lt;NEXTPAGEBUTTON&gt;"Hora de um resgate..."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Para entrar na Câmara Derretida, você deve primeiro quebrar o escudo que a envolve.&lt;BR&gt;&lt;BR&gt;Sim, o escudo que fizemos. Mas os senhores de escravos de Thulsa nos obrigaram a fazer isso! E eles estavam atentos a sinais de sabotagem, por isso não há uma maneira fácil de rompê-lo.&lt;BR&gt;&lt;BR&gt;Eu consegui "liberar" seus planos, no entanto. Leve esse esquema ao Engenheiro Gaicus. Talvez ele consiga identificar uma falha.</Page>
+    
     
     </Text>
     <Text huntingZoneId="79" id="8" prevId="7" villagerId="1102">
          
+         
         <Page social="4">Vamos ver aqui... muito bem feito. Um escudo sólido, de fato.&lt;BR&gt;&lt;BR&gt;...ou não? Veja isso! Todos os caminhos arcanos levam a esta pedra bem aqui! &lt;BR&gt;&lt;BR&gt;Quebre-a e você estará acabado! Falando sobre suas falhas fatais, esse é um projeto horrível.&lt;BR&gt;&lt;BR&gt;...ou não? A falha é invisível à inspeção visual, a menos que você seja bastante baixo... esses poporis espertos! Eles construíram o escudo com uma falha de propósito! &lt;NEXTPAGEBUTTON&gt;"Para que possamos destruí-lo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Você pode destruí-lo completamente. Dê uma olhada; basta bater bem aqui. É difícil, mas você parece ter alguma experiência em trabalhos de demolição.&lt;BR&gt;&lt;BR&gt;E se você vir Muhrak lá dentro, diga a ele que eu tenho as 20 moedas de ouro dele!</Page>
+    
     
     </Text>
     <Text huntingZoneId="464" id="9" prevId="8" villagerId="5013">
          
+         
         <Page social="4">Fuga? Bah! Derrotar Thulsa deveria ser seu objetivo, &lt;PCCLASS:lcase&gt;!&lt;BR&gt;&lt;BR&gt;Levará uma eternidade para matar cada um dos lacaios amantes da morte, mas certamente podemos impedir que Thulsa use minha oficina.&lt;BR&gt;&lt;BR&gt;Fique de olho em mim enquanto eu destruo o dispositivo de controle! Boa sorte ao lidar com uma fornalha vulcânica descontrolada, Thulsa! Ha ha ha!</Page>
+    
     
     </Text>
     <Text huntingZoneId="411" id="10" prevId="9" villagerId="5001">
          
+         
         <Page social="1">Essa é a última delas... por enquanto! &lt;BR&gt;&lt;BR&gt;Toda essa morte... considere-a como um adiantamento para meus aprendizes mortos, Thulsa! &lt;BR&gt;&lt;BR&gt;Então você tem os fragmentos da relíquia... e eu acabei de destruir os controles da fornalha.&lt;BR&gt;&lt;BR&gt;Melhor que esteja fora das mãos de Thulsa, de qualquer forma. Sempre há uma solução alternativa. Deixe-me refletir sobre isso em minha oficina.</Page>
+    
     
     </Text>
 </QuestDialog>

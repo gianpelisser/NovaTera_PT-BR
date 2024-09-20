@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="23" id="24" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="23" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="223" id="100" prevId="0" villagerId="1035">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="223" id="2" prevId="0" villagerId="1035">
          
+         
         <Page social="5">&lt;BR&gt;&lt;BR&gt;Minha família produz vinho de frutas silvestres há séculos, mas aqueles {@LinkCreature:23#3#exilados de Popori} roubaram nosso estoque atual! &lt;BR&gt;&lt;BR&gt;Se não o recuperarmos, estaremos arruinados. Não poderemos pagar nossos impostos nem comprar aqueles cogumelos engraçados! Você pode nos ajudar?</Page>
+    
     
     </Text>
     <Text huntingZoneId="223" id="3" prevId="2" villagerId="1035">
          
+         
         <Page social="5">É isso aí! Esse é o nosso vinho! Você o salvou! &lt;BR&gt;&lt;BR&gt;Estou impressionado como aqueles desgraçados sarnentos ainda não o beberam! &lt;BR&gt;&lt;BR&gt;Muito obrigado!</Page>
+    
     
     </Text>
     <Text huntingZoneId="223" id="4" villagerId="1035">
          
+         
         <Page social="0">Por favor, não volte sem o vinho. Eu não poderia suportar isso.&lt;BR&gt;&lt;BR&gt;Desculpe, humor popori.</Page>
+    
     
     </Text>
 </QuestDialog>

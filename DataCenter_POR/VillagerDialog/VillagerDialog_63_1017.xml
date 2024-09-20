@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="63" id="1017" voiceTypeId="21">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1017" huntingZoneId="63" voiceTypeId="21">
     <Text huntingZoneId="63" id="1" endSocial="14" prevId="0" villagerId="1017">
          
+         
         <Page social="4">Divine power is not to be trifled with. Power can destroy or manipulate, but also heal. Help those in need, and avoid the influence of evil.&lt;BR&gt;&lt;BR&gt;This is the lessons the gods have given us.</Page>
+    
     
     </Text>
 </VillagerDialog>

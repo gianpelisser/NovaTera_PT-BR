@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="51" id="25" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="51" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="251" id="100" prevId="0" villagerId="1001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="251" id="2" prevId="0" villagerId="1001">
          
+         
         <Page social="4">O pilar draelkar mais próximo fica em Wendigo's Howl. Thulsa tem alguns lacaios de Sihranar guardando-o.&lt;BR&gt;&lt;BR&gt;Feche a garganta desses traidores, ou incendeie-os - seja lá o que for que você faça para matar pessoas - e depois destrua o pilar.&lt;BR&gt;&lt;BR&gt;Agora, rápido! Thulsa não espera por &lt;PCCLASS:lcase&gt;.</Page>
+    
     
     </Text>
     <Text huntingZoneId="251" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="4">Interessante. Os wendigos ainda são agressivos, mas parecem confusos. Aposto que não sabem com quem lutar a essa altura.&lt;BR&gt;&lt;BR&gt;Excelente. Esse é um progresso do qual podemos tirar proveito. Bom trabalho!</Page>
+    
     
     </Text>
 </QuestDialog>

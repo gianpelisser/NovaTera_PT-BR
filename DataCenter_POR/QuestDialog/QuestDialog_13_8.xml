@@ -1,31 +1,42 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="8" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="13" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="213" id="100" prevId="0" villagerId="1021">
          
+         
         <Page social="0">Eria pediu que você coletasse essências essenciais de Sporewalkers próximos para estudo. Quando ela tentou comparar as essências centrais com a corrupção em Demonbane, alguém resistiu a seus esforços.&lt;BR&gt;&lt;BR&gt;Ela estava desolada com a perspectiva de decepcionar Leander, mas Leander parecia satisfeito. Você acredita que seu inimigo pode ser encontrado no topo das Colinas de Arun.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="2" prevId="0" villagerId="1021">
          
+         
         <Page social="4">Preciso que você mate alguns sporewalkers e me traga a essência deles. Os Sporewalkers são criaturas primordiais do mundo - muito sensíveis a mudanças mágicas.&lt;BR&gt;&lt;BR&gt;Preciso saber se a magia que afetou Demonbane está afetando os habitantes da ilha.&lt;BR&gt;&lt;BR&gt;Terminei de falar! &lt;TEXTBUTTON&gt;"Eu cuidarei disso!"&lt;/TEXTBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="3" prevId="2" villagerId="1021">
          
+         
         <Page social="4">Muito bem feito! É muito mais fácil trabalhar com você do que com o Mestre Alto, Justo e Coragem.&lt;BR&gt;&lt;BR&gt;Vamos ver o que isso nos diz... Oh, nossa! &lt;NEXTPAGEBUTTON&gt;"Você está bem?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Eu... não posso fazer isso! A ira da natureza, o poder é muito forte.&lt;BR&gt;&lt;BR&gt;Alguém está resistindo a mim. Pareceu-me... feio em minha mente. Tudo o que sinto é que está vindo do leste - talvez daquela colina.&lt;BR&gt;&lt;BR&gt;Sinto muito. Não quero decepcionar Leander! Eu queria impressioná-lo descobrindo mais sobre o Demonbane, mas isso está além do meu poder.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="4" villagerId="1021">
          
+         
         <Page social="0">&lt;PCNAME&gt;, eu realmente preciso de sua ajuda. Para estabelecer uma conexão entre o que aconteceu e o Demonbane, precisamos desses núcleos!</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="5" prevId="3" villagerId="1008">
          
+         
         <Page social="4">Alguém resistiu aos esforços mágicos de Eria? Interessante. Vimos movimento no topo daquela colina - estamos chamando-a de Colinas de Arun.&lt;BR&gt;&lt;BR&gt;Um belo ponto de observação - exatamente o que um inimigo inteligente poderia escolher. Agora sabemos onde procurar!</Page>
+    
     
     </Text>
 </QuestDialog>

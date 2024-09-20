@@ -1,43 +1,60 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="701" id="11" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="701" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="230" id="100" prevId="0" villagerId="7000">
          
+         
         <Page social="0">Com o poder dos clérigos do Clã Consos, você interrompeu o Banquete de Sangue.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="2" prevId="0" villagerId="7000">
          
+         
         <Page social="0">Disseram-me que você ajudou a repelir uma pequena incursão de vampiros no templo. O Festival do Sol tem o objetivo de rejuvenescer o templo, para que o sol permaneça forte - mas os vampiros não suportam a luz de Balder. Se eles estão tentando interferir na limpeza anual do templo, isso pode significar que estão tentando enfraquecer a luz do sol... &lt;NEXTPAGEBUTTON&gt;&amp;quot;O que posso fazer para ajudar?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="0">Nahad me disse que você afastou os vampiros do templo sem muita dificuldade, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Você pode interromper as atividades deles e permitir que o Clã Consos conclua nossos rituais. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Você pode contar comigo.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Por favor, fale com Harun. Ele é o nosso melhor clérigo de batalha e está encarregado de eliminar os vampiros. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Estou a caminho.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="3" prevId="2" villagerId="7002">
          
+         
         <Page social="4">&lt;PCNAME&gt;? Fale baixo. Obrigado por ter vindo. Renmi me disse que você poderia ajudar.&lt;BR&gt;&lt;BR&gt;Temos que nos apressar - o Banquete de Sangue dos vampiros já está em andamento. Você está pronto? &lt;NEXTPAGEBUTTON&gt;&amp;quot;Estou pronto.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="0">Muito bem, e que Balder cuide de nós dois.&lt;BR&gt;&lt;BR&gt;Posso lhe conceder temporariamente os dons de Balder e imbuí-lo com o poder de um sacerdote de batalha, mas você deve usar esse poder apenas em vampiros. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Eu prometo.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Admiro sua devoção, &lt;PCNAME&gt;. &lt;NEXTPAGEBUTTON&gt;&amp;quot;O que vem a seguir?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="452" id="4" prevId="3" villagerId="7002">
          
+         
         <Page social="4">Por favor, ouça com atenção agora e explicarei como esses dons funcionam. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Estou ouvindo.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="4">Balder dá três presentes protetores que oferecem alguma proteção contra os vampiros.&lt;BR&gt;&lt;BR&gt;&amp;quot;Fear&amp;quot; faz com que os vampiros fujam.&lt;BR&gt;&lt;BR&gt;&amp;quot;Stun&amp;quot; imobiliza os vampiros temporariamente.&lt;BR&gt;&lt;BR&gt;&amp;quot;Quake&amp;quot; faz com que todos os vampiros ao seu redor caiam no chão.&lt;BR&gt;&lt;BR&gt;&amp;quot; &lt;NEXTPAGEBUTTON&gt;&amp;quot;I understand.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Há também dons que são altamente eficazes para matar vampiros.&lt;BR&gt;&lt;BR&gt;&amp;quot;Mutate&amp;quot; transforma um vampiro em um javali, o que pode ser vantajoso para você.&lt;BR&gt;&lt;BR&gt;&amp;quot;Light&amp;quot; queima todos os vampiros ao seu redor com a luz de Balder. Essa pode ser sua arma mais eficaz contra eles.&lt;BR&gt;&lt;BR&gt;Por fim, &amp;quot;Punish&amp;quot; mata um vampiro por completo. &lt;NEXTPAGEBUTTON&gt;Acordo.&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Uma vez lá dentro, você precisa impedir que os vampiros invoquem mais fantasmas, encontrar um caminho para a Sala Cerimonial e destruir seu altar profano.&lt;BR&gt;&lt;BR&gt;Está na hora. Pelo nome de Balder, vamos acabar com essa abominação!</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="5" prevId="4" villagerId="7002">
          
+         
         <Page social="4">Você realizou uma tarefa nobre hoje, &lt;PCNAME&gt;. O Clã Consos se lembrará de você pelas próximas gerações.&lt;BR&gt;&lt;BR&gt;Por favor, aceite este símbolo de nossa estima e saiba que sempre terá amigos aqui.</Page>
+    
     
     </Text>
 </QuestDialog>

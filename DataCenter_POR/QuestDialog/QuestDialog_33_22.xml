@@ -1,21 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="33" id="22" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="33" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="233" id="100" prevId="0" villagerId="1012">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="233" id="2" prevId="0" villagerId="1012">
          
+         
         <Page social="0">Posso parecer um monstro, mas já fui como você - um honrado soldado da federação, um guerreiro amani que invadiu estes salões com o próprio Kaidun.&lt;BR&gt;&lt;BR&gt;Todos nós acreditávamos que poderíamos tomar este lugar sem suar a camisa. Quando percebemos que esses salões estavam cheios de nossos piores pesadelos, já era tarde demais para recuar.&lt;BR&gt;&lt;BR&gt;A maioria enlouqueceu completamente, e alguns se transformaram em criaturas horrendas. Thulsa me amaldiçoou ao permitir que eu mantivesse minha sanidade, para que eu pudesse ver o quanto caí.&lt;NEXTPAGEBUTTON&gt;"Como posso ajudar?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Você não pode me ajudar. Meu corpo amaldiçoado pode parecer vivo, mas é apenas porque minha alma ainda está presa nele.&lt;BR&gt;&lt;BR&gt;Minha missão é libertar meus companheiros de sua miséria. Por favor, ajude-me a libertar os {@LinkCreature:33#7#eldritch defenders}. Sei que eles não gostariam de continuar como cachorros de Thulsa.</Page>
+    
     
     </Text>
     <Text huntingZoneId="233" id="3" prevId="2" villagerId="1012">
          
+         
         <Page social="0">Você não pode imaginar a agonia de ver seu próprio corpo mudar por vontade própria.&lt;BR&gt;&lt;BR&gt;Quanto a mim, não consigo mais imaginar como é a sensação de "estabilidade".&lt;BR&gt;&lt;BR&gt;Obrigado por ajudá-los. Aqui está uma recompensa por seus atos. Este lugar pode ser antigo, mas guarda muitos tesouros.</Page>
+    
     
     </Text>
 </QuestDialog>

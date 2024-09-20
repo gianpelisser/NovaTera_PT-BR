@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="23" id="30" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="23" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="223" id="100" prevId="0" villagerId="1037">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="223" id="2" prevId="0" villagerId="1037">
          
+         
         <Page social="5">Eu estava observando a extremidade sul do lago e vi alguns {@LinkCreature:23#11#malicious jesters} vestidos de forma ridícula ajudando alguns {@LinkCreature:23#12#kobold mercenários}.&lt;BR&gt;&lt;BR&gt;Esta não é uma aliança que podemos permitir. Ponha um fim a ela - e a eles.</Page>
+    
     
     </Text>
     <Text huntingZoneId="223" id="3" prevId="2" villagerId="1037">
          
+         
         <Page social="5">Lutar contra kobolds é uma coisa - lutar contra esses bobos da corte é outra. Eu odeio essas coisas.&lt;BR&gt;&lt;BR&gt;Obrigado. Teríamos perdido muitos soldados se você não tivesse resolvido isso.</Page>
+    
     
     </Text>
 </QuestDialog>

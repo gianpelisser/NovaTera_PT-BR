@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="56" id="36" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="56" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="256" id="100" prevId="0" villagerId="1021">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="256" id="2" prevId="0" villagerId="1021">
          
+         
         <Page social="4">Há outro argon aqui, dirigindo os vingadores e informando a cadeia.&lt;BR&gt;&lt;BR&gt;A menos que você queira um grupo de resgate de argon saltando sobre você, eu derramaria suas entranhas grandes, azuis e comandantes antes de chegar ao altar.&lt;BR&gt;&lt;BR&gt;E pegue seu cajado. Acho que é assim que ele controla os Vingadores.</Page>
+    
     
     </Text>
     <Text huntingZoneId="256" id="3" prevId="2" villagerId="1021">
          
+         
         <Page social="4">Você o pegou? &lt;BR&gt;&lt;BR&gt;Bom. Essas coisas podem se comunicar a grandes distâncias. Se você o matar, terá tempo de interromper as cerimônias.&lt;BR&gt;&lt;BR&gt;E esse cajado vai me ensinar como os argons se comunicam!</Page>
+    
     
     </Text>
     <Text huntingZoneId="256" id="4" villagerId="1021">
          
+         
         <Page social="0">O argons se chama Gelgatum. Procure no Raven Altar.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="12305001" string="Energize the Order" />
-    <String id="12305002" string="&quot;I sure hope so.&quot;" />
-    <String id="12305003" string="Gather Arunic noctenium energy." />
-    <String id="12305004" string="Deliver the Arunic noctenium energy to {@linkcreature:123#220020#Bilath}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="12304001" string="I Seed What You Did There" />
+    <String id="12304002" string="&quot;Glad to help.&quot;" />
+    <String id="12304003" string="Gather contaminated seeds in noctenium-infested territories." />
+    <String id="12304004" string="Deliver the contaminated seeds to {@linkcreature:123#220020#Bilath}." />
 </StrSheet_Quest>

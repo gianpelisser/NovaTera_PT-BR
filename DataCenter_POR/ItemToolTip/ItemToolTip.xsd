@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns="https://vezel.dev/novadrop/dc/ItemToolTip" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="https://vezel.dev/novadrop/dc" elementFormDefault="qualified" targetNamespace="https://vezel.dev/novadrop/dc/ItemToolTip" xsi:schemaLocation="https://vezel.dev/novadrop/dc ../DataCenter.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ItemToolTip">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Class" type="ItemToolTip_Class" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="EnchantableParts" type="ItemToolTip_EnchantableParts" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Gender" type="ItemToolTip_Gender" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Grade" type="ItemToolTip_Grade" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ItemCategory" type="ItemToolTip_ItemCategory" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Race" type="ItemToolTip_Race" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ItemToolTip" type="ItemToolTip" />
+  <xs:complexType name="ItemToolTip_Class">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Name" type="ItemToolTip_Class_Name" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ItemToolTip_Class_Name">
+    <xs:attribute name="displayText" type="xs:string" />
+    <xs:attribute name="eng" type="xs:string" />
+  </xs:complexType>
+  <xs:complexType name="ItemToolTip_EnchantableParts">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Name" type="ItemToolTip_EnchantableParts_Name" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ItemToolTip_EnchantableParts_Name">
+    <xs:attribute name="displayText" type="xs:string" />
+    <xs:attribute name="eng" type="xs:string" />
+  </xs:complexType>
+  <xs:complexType name="ItemToolTip_Gender">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Name" type="ItemToolTip_Gender_Name" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ItemToolTip_Gender_Name">
+    <xs:attribute name="displayText" type="xs:string" />
+    <xs:attribute name="eng" type="xs:string" />
+  </xs:complexType>
+  <xs:complexType name="ItemToolTip_Grade">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Name" type="ItemToolTip_Grade_Name" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ItemToolTip_Grade_Name">
+    <xs:attribute name="displayText" type="xs:string" />
+    <xs:attribute name="eng" type="xs:int" />
+  </xs:complexType>
+  <xs:complexType name="ItemToolTip_ItemCategory">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Name" type="ItemToolTip_ItemCategory_Name" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ItemToolTip_ItemCategory_Name">
+    <xs:attribute name="displayText" type="xs:string" />
+    <xs:attribute name="eng" type="xs:string" />
+  </xs:complexType>
+  <xs:complexType name="ItemToolTip_Race">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Name" type="ItemToolTip_Race_Name" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ItemToolTip_Race_Name">
+    <xs:attribute name="displayText" type="xs:string" />
+    <xs:attribute name="eng" type="xs:string" />
+  </xs:complexType>
+</xs:schema>

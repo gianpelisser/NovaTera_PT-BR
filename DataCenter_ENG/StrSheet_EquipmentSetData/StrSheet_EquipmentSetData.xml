@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_EquipmentSetData xmlns="https://vezel.dev/novadrop/dc/StrSheet_EquipmentSetData" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_EquipmentSetData StrSheet_EquipmentSetData.xsd">
+<StrSheet_EquipmentSetData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_EquipmentSetData StrSheet_EquipmentSetData.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_EquipmentSetData">
     <String id="8001" string="Patron Weapons" />
     <String id="8003" string="Patron Chest Armor" />
     <String id="8004" string="Patron Gloves" />
@@ -98,7 +97,7 @@
     <String id="9119" string="Deathwise Ring" />
     <String id="9121" string="Idoneal Weapon" />
     <String id="9123" string="Idoneal Armor" />
-    <String id="9124" string="Idoneal Handwear" />
+    <String id="9124" string="Idoneal Gloves" />
     <String id="9125" string="Idoneal Footwear" />
     <String id="80019" string="Patron Belt" />
     <String id="80119" string="Devastator Belt" />
@@ -109,17 +108,20 @@
     <String id="81019" string="Favored Belt" />
     <String id="81119" string="Advantaged Belt" />
     <String id="90019" string="Ambit Belt" />
+    <String id="90110" string="" />
     <String id="90119" string="Discovery Belt" />
+    <String id="90130" string="" />
+    <String id="90140" string="" />
+    <String id="90150" string="" />
     <String id="90619" string="Controvert Belt" />
     <String id="90719" string="Defiance Belt" />
     <String id="90819" string="Renegade Belt" />
     <String id="91219" string="Idoneal Belt" />
-	
-	<String id="91220" string="Legendary Arborean's Ring" />
+    <String id="91220" string="Legendary Arborean's Ring" />
     <String id="91221" string="Legendary Arborean's Earring" />
     <String id="91222" string="Legendary Arborean's Necklace" />
-	
-	<String id="91223" string="Crucible Flame Ring" />
+    <String id="91223" string="Crucible Flame Ring" />
     <String id="91224" string="Crucible Flame Earring" />
     <String id="91225" string="Crucible Flame Necklace" />
+    <String id="901190" string="" />
 </StrSheet_EquipmentSetData>

@@ -1,59 +1,81 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="701" id="5" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="701" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="230" id="100" prevId="0" villagerId="7000">
          
+         
         <Page social="0">Você ajudou o Clã Consos a manter o templo limpo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="2" prevId="0" villagerId="7000">
          
+         
         <Page social="4">O Clã Consos ficaria muito grato se você pudesse nos ajudar a manter o templo limpo.&lt;BR&gt;&lt;BR&gt;Por favor, use o teleportal para entrar no templo subterrâneo e fale com Davor.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Fico feliz em ajudar.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="451" id="3" prevId="2" villagerId="7000">
          
+         
         <Page social="4">É bom vê-lo, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;As preguiças estão sendo particularmente incômodas. Eu ficaria muito grato se você pudesse limpar algumas das bagunças que elas fizeram no subterrâneo do templo.&lt;BR&gt;&lt;BR&gt;Se elas oferecerem muita resistência, sinta-se à vontade para usar o autômato PEST-B-GON 8000.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Suponho que alguém tenha que fazer isso...&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="451" id="4" prevId="2" villagerId="7000">
          
+         
         <Page social="4">Obrigado por sua ajuda.</Page>
+    
     
     </Text>
     <Text huntingZoneId="451" id="5" prevId="2" villagerId="7000">
          
+         
         <Page social="4">Obrigado por sua ajuda.</Page>
+    
     
     </Text>
     <Text huntingZoneId="451" id="6" prevId="2" villagerId="7000">
          
+         
         <Page social="4">Obrigado por sua ajuda.</Page>
+    
     
     </Text>
     <Text huntingZoneId="451" id="7" prevId="3" villagerId="903">
          
+         
         <Page social="4">Um recipiente para lixo.&lt;NEXTPAGEBUTTON&gt;Depositar lixo.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="451" id="8" villagerId="903">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="451" id="9" prevId="3" villagerId="903">
          
+         
         <Page social="4">Um recipiente para lixo.&lt;NEXTPAGEBUTTON&gt;Depositar lixo.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="451" id="10" villagerId="903">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="230" id="11" prevId="9" villagerId="7000">
          
+         
         <Page social="4">Muito obrigado, &lt;PCNAME&gt;. Aceite este símbolo de nossa gratidão.</Page>
+    
     
     </Text>
 </QuestDialog>

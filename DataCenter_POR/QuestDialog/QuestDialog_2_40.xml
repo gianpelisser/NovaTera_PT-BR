@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="2" id="40" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="2" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="202" id="100" prevId="0" villagerId="1034">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="202" id="2" prevId="0" villagerId="1034">
          
+         
         <Page social="0">Até mesmo os unicórnios foram corrompidos pelo vento maligno que sopra pela Floresta Fey. Sei que Lillix teve sorte em ajudar Seravy, mas os outros unicórnios são frágeis demais para sobreviver a essa transição.&lt;BR&gt;&lt;BR&gt;Eu vejo seus olhos, &lt;PCCLASS:lcase&gt;. Você acha que não percebemos como é trágico matar os unicórnios {@LinkCreature:2#6#sullen} e {@LinkCreature:2#56#feral}? A única coisa mais trágica... é deixá-los viver.</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="3" prevId="2" villagerId="1034">
          
+         
         <Page social="4">Os espíritos puros dos unicórnios não poderiam suportar tal corrupção. Mas dizem que um pouco de cada unicórnio permanece em seu chifre.&lt;BR&gt;&lt;BR&gt;Quem sabe? Com o tempo, talvez possamos tirar esses espíritos dos chifres e dar a eles uma maneira de galopar pela floresta novamente!</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="4" villagerId="1034">
          
+         
         <Page social="0">Traga de volta os chifres dos unicórnios, &lt;PCNAME&gt;... depois de fazer o que deve ser feito.</Page>
+    
     
     </Text>
 </QuestDialog>

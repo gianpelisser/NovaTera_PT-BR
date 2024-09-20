@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="17" id="32" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="17" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="217" id="100" prevId="0" villagerId="1014">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="217" id="2" prevId="0" villagerId="1014">
          
+         
         <Page social="5">O que há de bom nos cultistas? Não são bons em pensar por si mesmos! Continuam fazendo o que estão fazendo até que alguém os impeça.&lt;BR&gt;&lt;BR&gt;Oh, não me olhe assim. Isso será uma brincadeira de filhote para você! {Os dervixes da Queda dos Céus são o orgulho e a alegria da seita. Mate-os e os outros ficarão parados com aqueles barris sobre suas cabeças e parecerão estúpidos. Bem, mais estúpidos.&lt;BR&gt;&lt;BR&gt;Dica útil? É mais fácil manter a contagem se você pegar os amuletos que todos eles usam. Eu mesmo tenho cinquenta!</Page>
+    
     
     </Text>
     <Text huntingZoneId="217" id="3" prevId="2" villagerId="1014">
          
+         
         <Page social="5">Excelente! Agora você aprendeu a Segunda Máxima de Puran: matar oficiais para matar o ímpeto.&lt;BR&gt;&lt;BR&gt;Que dia! Você aprendeu duas lições de soldado e parece que já terminei todo o meu trabalho da semana! Sugiro que façamos uma pausa. A natureza sabe que nós dois merecemos um! &lt;BR&gt;&lt;BR&gt;Você está bem, soldado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="217" id="4" villagerId="1014">
          
+         
         <Page social="0">Dervixes? Mulheres malucas com chifres e espadas e sem senso de humor?&lt;BR&gt;&lt;BR&gt;Vá! Mate!</Page>
+    
     
     </Text>
 </QuestDialog>

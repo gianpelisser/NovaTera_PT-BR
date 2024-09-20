@@ -1,21 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="2" id="41" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="2" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="202" id="100" prevId="0" villagerId="1033">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="202" id="2" prevId="0" villagerId="1033">
          
+         
         <Page social="4">Siga essa estrada para o oeste e você encontrará o Acampamento de Aron.&lt;BR&gt;&lt;BR&gt;Se você realmente se importa com a Floresta dos Feérios, &lt;PCCLASS:lcase&gt;, você irá até lá e ajudará Nemir a descobrir por que o vento maligno sopra pela floresta, sussurrando promessas sombrias para todas as fadas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="3" prevId="2" villagerId="1044">
          
+         
         <Page social="4">Não é da natureza de uma fada... acho que se pode dizer... ser violenta. Deve haver algo sinistro acontecendo.&lt;NEXTPAGEBUTTON&gt;"Um vento ruim?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Exatamente! Mas esse é o problema com o vento...&lt;BR&gt;&lt;BR&gt;...quem sabe de onde ele vem?</Page>
+    
     
     </Text>
 </QuestDialog>

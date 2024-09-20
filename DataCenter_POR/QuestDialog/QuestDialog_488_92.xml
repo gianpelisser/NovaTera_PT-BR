@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="488" id="92" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="488" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="216" id="100" prevId="0" villagerId="1011">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="216" id="2" prevId="0" villagerId="1011">
          
+         
         <Page social="0">Ordens da missão&lt;BR&gt;&lt;BR&gt;Eliminar os vampiros nobres na Sinestral Manor.&lt;BR&gt;&lt;BR&gt;Matar todos os {@LinkCreature:488#15#rebeldes vampiros nobres} e {@LinkCreature:488#16#insurgentes}.&lt;BR&gt;&lt;BR&gt;Relatar a Segodun quando a missão estiver concluída.</Page>
+    
     
     </Text>
     <Text huntingZoneId="216" id="3" prevId="2" villagerId="1011">
          
+         
         <Page social="5">Bom trabalho. Por favor, continue com o bom trabalho para a federação.</Page>
+    
     
     </Text>
     <Text huntingZoneId="216" id="4" villagerId="1011">
          
+         
         <Page social="0">Os nobres são os piores! Apresse-se e extraia suas presas!</Page>
+    
     
     </Text>
 </QuestDialog>

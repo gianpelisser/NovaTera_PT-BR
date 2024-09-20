@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="84" id="22" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="84" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="84" id="100" prevId="0" villagerId="1209">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="84" id="2" prevId="0" villagerId="1209">
          
+         
         <Page social="4">Nosso amigo Tapa nunca ouviu falar de pimenta carlams moída! É apenas o tempero mais delicioso de todos os tempos! &lt;BR&gt;&lt;BR&gt;Seu leitão grelhado é muito bom, mas um pouco de carlams polvilhado por cima o deixaria ainda melhor.&lt;BR&gt;&lt;BR&gt;A pimenta carlams cresce em Tuwangi Mire. Os grãos de pimenta mais saborosos são aqueles que foram comidos por sapos do pântano. Quando secos, eles têm o sabor mais delicioso.&lt;BR&gt;&lt;BR&gt;Quer fazer uma coisinha à parte, soldado? Pegue alguns grãos de pimenta recém-comidos e leve-os para Huchu em Pora Elinu. Ele troca os frescos por secos na mesma hora.</Page>
+    
     
     </Text>
     <Text huntingZoneId="68" id="3" prevId="2" villagerId="1012">
          
+         
         <Page social="5">Pimenta do reino fresca! Posso sentir o cheiro de barriga de sapo em você. Estes são perfeitos para secar.&lt;BR&gt;&lt;BR&gt;Em troca, eu lhe darei este saco de pimenta recém-seca e moída.&lt;BR&gt;&lt;BR&gt;Temos um acordo?</Page>
+    
     
     </Text>
     <Text huntingZoneId="68" id="4" villagerId="1012">
          
+         
         <Page social="0">Traga-me essa pimenta e eu farei com que valha a pena.</Page>
+    
     
     </Text>
     <Text huntingZoneId="84" id="5" prevId="3" villagerId="1209">
          
+         
         <Page social="4">Um saco inteiro! &lt;BR&gt;&lt;BR&gt;O Tapa vai ficar encantado com essa coisa.&lt;BR&gt;&lt;BR&gt;Obrigado, amigo.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="245" id="2002" voiceTypeId="37">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2002" huntingZoneId="245" voiceTypeId="37">
     <Text id="1" endSocial="14">
          
+         
         <Page social="4">I see no end to argon research. There's so much to learn!&lt;BR&gt;&lt;BR&gt;And field research beats being stuck in the Mysterium, that's for sure.</Page>
+    
     
     </Text>
 </VillagerDialog>

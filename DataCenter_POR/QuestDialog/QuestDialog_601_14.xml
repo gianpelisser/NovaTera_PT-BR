@@ -1,54 +1,74 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="601" id="14" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="601" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="77" id="100" prevId="0" villagerId="3001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="77" id="2" prevId="0" villagerId="3001">
          
+         
         <Page social="4">Os argonss mantêm nossos soldados e prisioneiros civis nas Três Torres.&lt;BR&gt;&lt;BR&gt;Eu já vi o que os argonss fazem com os prisioneiros. É abominável. Temos que resgatar essas pobres pessoas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="3" prevId="2" villagerId="3002">
          
+         
         <Page social="4">Eu sei que {@LinkCreature:77#3001#Nithan} já o informou. Encontre os prisioneiros e leve-os de volta para {@Rgn:46015$$Hexheart Chamber}.&lt;BR&gt;&lt;BR&gt;Teremos agentes prontos para colocá-los em segurança.&lt;BR&gt;&lt;BR&gt;Essa não é uma tarefa rotineira. Fiquem atentos e permaneçam vivos. Certamente não queremos ter que resgatá-lo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="4" prevId="2" villagerId="3002">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="246" id="5" prevId="2" villagerId="3002">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="246" id="6" prevId="2" villagerId="3002">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="246" id="7" prevId="2" villagerId="3012">
          
+         
         <Page social="4">Muito obrigado! Eu simplesmente sabia que estava... não quero nem pensar nisso.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="8" prevId="7" villagerId="3013">
          
+         
         <Page social="4">Tire-me daqui!</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="9" prevId="8" villagerId="3014">
          
+         
         <Page social="4">Obrigado por ter me tirado de lá.&lt;BR&gt;&lt;BR&gt;Pensei que eu estava morto, com certeza.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="10" prevId="9" villagerId="3002">
          
+         
         <Page social="4">Você os salvou de um destino muito pior do que a morte, &lt;PCNAME&gt;. Esse é o tipo de diferença que tentamos fazer todos os dias por aqui.&lt;BR&gt;&lt;BR&gt;Bom trabalho, soldado.</Page>
+    
     
     </Text>
 </QuestDialog>

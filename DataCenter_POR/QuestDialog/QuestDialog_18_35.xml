@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="18" id="35" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="18" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="218" id="100" prevId="0" villagerId="1007">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="218" id="2" prevId="0" villagerId="1007">
          
+         
         <Page social="4">Oh, estou tão perto! Só preciso de mais uma peça do quebra-cabeça para desvendar o mistério.&lt;BR&gt;&lt;BR&gt;Você tem sido muito útil até agora. Sinto que você deve ser o único a encerrar isso, não é? Além disso, tenho que começar a separar essas outras coisas que você trouxe.&lt;BR&gt;&lt;BR&gt;Se você puder coletar a última peça de {@LinkCreature:18#105#metatrons}, poderemos fazer essa descoberta juntos. Mais ou menos isso.</Page>
+    
     
     </Text>
     <Text huntingZoneId="218" id="3" prevId="2" villagerId="1007">
          
+         
         <Page social="4">Sim, SIM!!! Isso levará algum tempo para ser decifrado, mas valerá a pena!&lt;BR&gt;&lt;BR&gt;Você contribuiu tanto para minha pesquisa que talvez eu até lhe dê crédito quando a tornar pública!&lt;BR&gt;&lt;BR&gt;Obrigado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="218" id="4" villagerId="1007">
          
+         
         <Page social="0">Achei que você tinha ido embora. Você não encontrará relíquias importantes à minha volta! &lt;BR&gt;&lt;BR&gt;Bem, quero dizer, suponho que sim, mas não as que você está procurando.</Page>
+    
     
     </Text>
 </QuestDialog>

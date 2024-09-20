@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="41" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="13" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="213" id="100" prevId="0" villagerId="1141">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="213" id="2" prevId="0" villagerId="1141">
          
+         
         <Page social="4">Sersine olha para o desfiladeiro contaminado e vê uma terra a ser domada ou pacificada. Mas tudo o que consigo ver são os rostos de amigos mortos por demônios. O que é pior, o próprio solo aqui "reclamou" seus corpos - transformando-os lentamente em pedra e absorvendo-os.&lt;BR&gt;&lt;BR&gt;Eu estou pedindo a todos que saem em patrulha para coletar os &lt;b&gt;Amuletos de Expedição&lt;/b&gt; daqueles que ainda podem ser reconhecidos. Se conseguirem passar pelos enxames que estão lá fora, devem conseguir algo para as famílias enterrarem.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="3" prevId="2" villagerId="1141">
          
+         
         <Page social="4">Muito bem, &lt;PCNAME&gt;. Sei que as famílias vão gostar de tê-los.&lt;BR&gt;&lt;BR&gt;É uma pena que não haja mais pessoas como você por aqui - poderíamos levar a luta diretamente aos líderes deles e acabar com esse cerco!</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="4" villagerId="1141">
          
+         
         <Page social="0">Todos os dias enfrentamos ondas de demônios, espíritos e o que quer que sejam aquelas aberrações camufladas com cabeças estranhas. É preciso toda a nossa habilidade apenas para manter este acampamento e é por isso que ficamos tão felizes em ver novos recrutas como você.&lt;BR&gt;&lt;BR&gt;Por favor, se tiver a chance, ajude-nos a enviar algo de volta para casa para as famílias dos mortos. Poderíamos ter sido nós que estávamos lá fora - e um dia, em breve, pode muito bem ser!</Page>
+    
     
     </Text>
 </QuestDialog>

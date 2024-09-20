@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="12205001" string="Search for Cleaner Energy" />
-    <String id="12205002" string="&quot;The world can always use more energy.&quot;" />
-    <String id="12205003" string="Gather Arunic noctenium energy from noctenium fluxes." />
-    <String id="12205004" string="Deliver the Arunic noctenium energy to {@linkcreature:122#220020#Ishala}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="12204001" string="Exercise in Exobotany" />
+    <String id="12204002" string="&quot;It's an honor to further the aims of the union.&quot;" />
+    <String id="12204003" string="Gather contaminated seeds in noctenium-infested territories." />
+    <String id="12204004" string="Deliver the contaminated seeds to {@linkcreature:1232#220020#Ishala}." />
 </StrSheet_Quest>

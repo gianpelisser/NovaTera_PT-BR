@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="64" id="1050">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1050" huntingZoneId="64">
     <Text huntingZoneId="64" id="1" endSocial="14" prevId="0" villagerId="1050">
          
+         
         <Page social="4">Teleportation is painless and inexpensive, but requires the traveler to be familiar with the destination.&lt;BR&gt;&lt;BR&gt;Do you wish to travel to one of the outlying camps?</Page>
+    
     
     </Text>
 </VillagerDialog>

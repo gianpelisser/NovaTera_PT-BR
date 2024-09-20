@@ -1,31 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="31" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="64" id="100" prevId="0" villagerId="1006">
-         
-        <Page social="0" />
-    
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="64" prevId="0" villagerId="1048">
+        <Page social="0">You went on a patrol near Mathar Spire, climbed a cliffside, and then jumped, only to land light as a feather. When you reported back to Jorhon, he declared you fully trained and fit for duty.</Page>
     </Text>
-    <Text huntingZoneId="64" id="2" prevId="0" villagerId="1006">
-         
-        <Page social="4">I've got another task for you. It's important, but not critical. East of here there's a rock outcropping with a terrace about halfway up. Ramun mentioned some activity around our detector stone there. If you could check the area out, I'd appreciate it.&lt;BR&gt;&lt;BR&gt;On a personal note, I understand there's not only a really amazing view of our camp from up there, but also a spectacular &lt;b&gt;skyreach flower&lt;/b&gt; that blooms once a day under the arch.&lt;BR&gt;&lt;BR&gt;Climb up the &lt;b&gt;vines&lt;/b&gt; and take a look around. Please pick me one of those flowers, and use this &lt;b&gt;teleport scroll&lt;/b&gt; to return.</Page>
-    
+    <Text id="2" huntingZoneId="64" prevId="0" villagerId="1048">
+        <Page social="4">It is time for you to prove yourself, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Gyebrik, child of Karas, guards the eastern approach to Tower Base. Meet with him while I report on your progress to Jorhon.</Page>
     </Text>
-    <Text huntingZoneId="213" id="3" prevId="2" villagerId="1053">
-         
-        <Page social="4">(It looks like the detector stone Jorhon was speaking of, placed here to detect any intruders that may wander near Mathar Spire.)&lt;BR&gt;&lt;BR&gt;(Now, climb the vine to the top of the spire.)</Page>
-    
+    <Text id="3" huntingZoneId="64" prevId="2" villagerId="1024">
+        <Page social="4">A new recruit approaches, and a task is at hand. This coincidence bodes well for your future.&lt;BR&gt;&lt;BR&gt;Each day, we patrol the area around Mathar Spire, and harvest flowers on its heights. They are used to make a very special potion, and we have installed an obelisk to protect the area.&lt;NEXTPAGEBUTTON&gt;"What exactly are you asking me?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Is it not obvious? {@linkcreature:13#301194#Stonebeaks} have damaged the obelisk, and consumed pieces of it. Get them back, repair the obelisk, and harvest the flower. Do this, and Gyebrik, child of Karas, will gladly endorse you as a full member of the garrison.&lt;BR&gt;&lt;BR&gt;Those who dawdle after picking the flower will also need this featherlight potion. Use it only when the time is right.</Page>
     </Text>
-    <Text huntingZoneId="64" id="4" prevId="3" villagerId="1001">
-         
-        <Page social="4">Scratches on the stone? Very interesting. Didn't think that was possible. I'll have another patrol added to the area.&lt;BR&gt;&lt;BR&gt;And what's that you've got there?&lt;NEXTPAGEBUTTON&gt;"A skyreach flower..."&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
-        <Page social="0">Another flower? I don't mind the attention, but I've got more on my mind than sweet-smelling blossoms right now. &lt;BR&gt;&lt;BR&gt;We depend on those markers to keep our camp safe—if someone—or some thing—is investigating them, we need to be on alert.</Page>
-    
+    <Text id="4" huntingZoneId="213" prevId="3" villagerId="1053">
+        <Page social="4">(As you replace the shards,the obelisk lights up. Seems to be working.)&lt;BR&gt;&lt;BR&gt;(Now, climb those vines ahead.)</Page>
     </Text>
-    <Text huntingZoneId="64" id="5" villagerId="1001">
-         
-        <Page social="0">Anything to report?</Page>
-    
+    <Text id="5" huntingZoneId="213" villagerId="1053">
+        <Page social="0">(It seems like you need more shards.)</Page>
+    </Text>
+    <Text id="6" huntingZoneId="64" prevId="4" villagerId="1006">
+        <Page social="4">When I sent you for training, I expected you back before now.&lt;BR&gt;&lt;BR&gt;Well, what have you to say for yourself?&lt;NEXTPAGEBUTTON&gt;"I've completed my patrol, Sir."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Ah, a Skyreach Flower. You have indeed.&lt;BR&gt;&lt;BR&gt;Well, &lt;PCNAME&gt;, you've definitely completed your training to my satisfaction. Congratulations! You are now a full member of our garrison. And I think it's time you dress the part...</Page>
     </Text>
 </QuestDialog>

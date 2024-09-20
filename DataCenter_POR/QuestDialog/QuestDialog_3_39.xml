@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="3" id="39" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="3" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="203" id="100" prevId="0" villagerId="1011">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="203" id="2" prevId="0" villagerId="1011">
          
+         
         <Page social="4">Não muito longe daqui está outro batedor, {@LinkCreature:203#1010#Rasima}. Ela é muito forte, mas está sozinha.&lt;BR&gt;&lt;BR&gt;Ela nunca pediria ajuda, ela gosta de ter altitude, mas aceitará se lhe for oferecida. E traga algo para ela beber!</Page>
+    
     
     </Text>
     <Text huntingZoneId="203" id="3" prevId="2" villagerId="1010">
          
+         
         <Page social="4">Sim, estou sozinho - agora. Meu parceiro, Keleth, e eu fomos descobertos enquanto explorávamos o local. Lutamos muito, mas ele comprou minha fuga com sua vida.&lt;BR&gt;&lt;BR&gt;Honro seu sacrifício, mas preciso de um favor. Traga de volta seu {@LinkCreature:203#1029#ring} para que eu possa devolvê-lo à sua casa e agradecer à sua família.</Page>
+    
     
     </Text>
     <Text huntingZoneId="203" id="4" prevId="3" villagerId="1029">
          
+         
         <Page social="4">(O cadáver foi claramente destruído em uma batalha. Nada se destaca, exceto um simples anel de cobre).</Page>
+    
     
     </Text>
     <Text huntingZoneId="203" id="5" prevId="4" villagerId="1010">
          
+         
         <Page social="4">Eu me lembro desse anel. Keleth estava muito orgulhoso de um anel tão humilde.&lt;BR&gt;&lt;BR&gt;Isso é perfeito. Essa lembrança significará muito para seus entes queridos. Obrigado por isso. Que a Donzela do Escudo o proteja em todas as suas batalhas!</Page>
+    
     
     </Text>
 </QuestDialog>

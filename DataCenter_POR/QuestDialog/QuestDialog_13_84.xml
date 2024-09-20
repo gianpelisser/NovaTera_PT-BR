@@ -1,21 +1,40 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="84" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="84" huntingZoneId="13" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="64" id="100" prevId="0" villagerId="1049">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="64" id="2" prevId="0" villagerId="1049">
          
+         
         <Page social="4">Lutar é um trabalho árduo, e até mesmo o combatente mais mortal pode ficar fraco por causa da exaustão. Um companheiro exausto é inútil! &lt;BR&gt;&lt;BR&gt;Se você lutar sem se recarregar periodicamente em uma fogueira, sua &lt;B&gt;Stamina&lt;/B&gt; piora. E quanto pior for sua Stamina, menor será seu HP e MP máximos.&lt;BR&gt;&lt;BR&gt;Você pode verificar sua Stamina passando o cursor sobre o &lt;B&gt;ícone em forma de coração&lt;/B&gt; próximo ao topo da tela. Entendeu? &lt;NEXTPAGEBUTTON&gt;"Continue..."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Acabei de colocar uma &lt;font color='#660000'&gt;fogueira de acampamento&lt;/font&gt; em sua bolsa. Clique com o botão direito do mouse para usá-la e depois fique por perto para recarregar.&lt;BR&gt;&lt;BR&gt;&lt;font color='#660000'&gt;Fique na fogueira até que sua Stamina atinja 120%&lt;/font&gt;, depois fale comigo novamente e eu explicarei mais.</Page>
+    
     
     </Text>
     <Text huntingZoneId="64" id="3" prevId="2" villagerId="1049">
          
+         
         <Page social="4">Se você continuar lutando sem recarregar em uma fogueira, sua &lt;font color='#660000'&gt;Stamina&lt;/font&gt; piorará. E quanto pior for sua Stamina, menor será seu HP e MP máximos.&lt;BR&gt;&lt;BR&gt;Você pode verificar sua Stamina colocando o cursor sobre o ícone em forma de coração&lt;/font&gt; na parte superior da tela. Quando a porcentagem ficar baixa, é hora de recarregar.</Page>
     
+    
+    </Text>
+    <Text id="4" huntingZoneId="64" prevId="3" villagerId="1049">
+        <Page social="4">Fighting is hard work, and even the deadliest combatant can be made weak through exhaustion. An exhausted comrade is a useless one!&lt;BR&gt;&lt;BR&gt;If you fight without rest, your &lt;font color='#660000'&gt;Stamina&lt;/font&gt; worsens, lowering your maximum HP and MP.&lt;BR&gt;&lt;BR&gt;You can check your Stamina by hovering your cursor over the &lt;B&gt;heart-shaped icon&lt;/B&gt; near the top of the screen. Understood?&lt;NEXTPAGEBUTTON&gt;"Yes. How do I get it back?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Look in your bag for a &lt;font color='#660000'&gt;campfire&lt;/font&gt;. If you have none, Rutgar will sell one to you. Right-click to use it, then stand nearby to recharge.&lt;BR&gt;&lt;BR&gt;Stay at the fire until your Stamina reaches 120%, then come to me for your next lesson.</Page>
+    </Text>
+    <Text id="5" huntingZoneId="64" prevId="4" villagerId="1049">
+        <Page social="4">How do you feel? Rejuvenated?&lt;BR&gt;&lt;BR&gt;You can use a campfire any time you are not in combat, unless there is another nearby..&lt;BR&gt;&lt;BR&gt;You can put &lt;font color='#660000'&gt;firewood&lt;/font&gt; into a campfire to &lt;B&gt;prolong its use&lt;/B&gt;, but more importantly, you can use it to burn charms.&lt;BR&gt;&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Charms?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">Charms, such as this &lt;font color='#660000'&gt;onslaught charm&lt;/font&gt;, can only be used while resting.&lt;BR&gt;&lt;BR&gt;Talk to me again after you've tried &lt;font color='#660000'&gt;using the charm while resting by the campfire&lt;/font&gt;.</Page>
+    </Text>
+    <Text id="6" huntingZoneId="64" prevId="5" villagerId="1049">
+        <Page social="4">Once active, icons representing charms and other status effects appear at the top of your screen. Mouse over an icon to see its description.&lt;BR&gt;&lt;BR&gt;You can have up to three charms active at any one time, but be careful. Using another charm of the same type will replace the current one, whether you want it to or not.&lt;NEXTPAGEBUTTON&gt;"Understood."&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="0">One last thing. Charms are temporary, and their effect fades when your Stamina drops too low.&lt;BR&gt;If you're fighting, resting at a campfire every &lt;B&gt;30 minutes&lt;/B&gt; should suffice.&lt;BR&gt;&lt;BR&gt;Also, campfires placed by others show up on your minimap, and work for everyone.</Page>
     </Text>
 </QuestDialog>

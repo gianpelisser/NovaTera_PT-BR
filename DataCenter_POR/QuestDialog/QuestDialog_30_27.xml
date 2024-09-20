@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="27" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="30" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="230" id="100" prevId="0" villagerId="1013">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="230" id="2" prevId="0" villagerId="1013">
          
+         
         <Page social="1">Com destino ao jardim de Seren?&lt;BR&gt;&lt;BR&gt;Aqui está uma semente da flor Sombra da Lua do Lago das Lágrimas.&lt;BR&gt;&lt;BR&gt;Você poderia plantá-la no lago para mim?</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="3" prevId="2" villagerId="1013">
          
+         
         <Page social="1">Obrigado.&lt;BR&gt;&lt;BR&gt;As sementes teriam estragado se eu tivesse esperado pela permissão para visitar o jardim. Dizem que é muito perigoso - mas não para você, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
 </QuestDialog>

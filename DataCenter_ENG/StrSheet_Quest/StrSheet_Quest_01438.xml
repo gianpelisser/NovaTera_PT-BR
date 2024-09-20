@@ -1,13 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="5034001" string="Finish What You Started" />
-    <String id="5034002" string="I'm so close to finishing my weapon." />
-    <String id="5034003" string="Relax. I can find it for you." />
-    <String id="5034004" string="Look for {@LinkCreature:250#1001} underground in Viridian Caverns." />
-    <String id="5034005" string="&quot;This sap smells terrible.&quot;" />
-    <String id="5034006" string="Collect the sap from the rati tree in the Viridian Caverns." />
-    <String id="5034007" string="" />
-    <String id="5034008" string="Rati Tree Sap" />
-    <String id="5034009" string="Deliver the sap to {@LinkCreature:250#1001} in Viridian Caverns." />
-    <String id="5034010" string="&quot;Return in triumph, young aman!&quot;" />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="5029001" string="Path of Death" />
+    <String id="5029002" string="You deal with the arzakaars. I'll deal with logistics." />
+    <String id="5029003" string="Kill the arzakaar guardians protecting the {@Rgn:50006}." />
+    <String id="5029004" string="&quot;Sounds familiar.&quot;" />
+    <String id="5029005" string="Report back to {@LinkCreature:250#1008}." />
 </StrSheet_Quest>

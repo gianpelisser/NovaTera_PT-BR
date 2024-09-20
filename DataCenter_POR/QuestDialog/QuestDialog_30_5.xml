@@ -1,63 +1,87 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="5" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="30" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="425" id="100" prevId="0" villagerId="10007">
          
+         
         <Page social="0">Você entrou no {@Rgn:9025001$$Templo de Balder} e encontrou uma Princesa Rida muito surpresa, que de alguma forma foi trazida com você. Você superou as provas finais estabelecidas pelo guardião do templo, o {@Creature:425#8005$$$Sun Scarab}. A deusa Mystel disse a você que passar pelas provas deu ao mundo novas escolhas. Depois disso, {@Creature:71#1114$$$Rida} disse que podia sentir o mundo mudando de alguma forma - para melhor.</Page>
+    
     
     </Text>
     <Text huntingZoneId="425" id="2" prevId="0" villagerId="10007">
          
+         
         <Page social="1">&lt;PCNAME&gt;? Como chegamos até aqui? Eu estava conversando com meus conselheiros e - oh, este é o Balder is Temple, não é? &lt;BR&gt;&lt;BR&gt;Seus sentidos não estão tão bem sintonizados quanto os meus. Posso sentir algo poderoso em seu centro.&lt;BR&gt;&lt;BR&gt;O que estamos esperando? Vamos lá!</Page>
+    
     
     </Text>
     <Text huntingZoneId="425" id="3" prevId="2" villagerId="10008">
          
+         
         <Page social="1">Como eu lhe disse da última vez que nos encontramos, suas provações nunca terminam.&lt;BR&gt;&lt;BR&gt;Como seu triunfo na fonte, seu prêmio de hoje lhe concederá mais escolhas amanhã.&lt;BR&gt;&lt;BR&gt;Mostre a {@LinkCreature:425#10005$$Rida} sua chave do templo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="425" id="4" prevId="3" villagerId="10005">
          
+         
         <Page social="1">Hmm. A única parte arcana disso é aquele espelho colocado na alça.&lt;BR&gt;&lt;BR&gt;Parece que ele se encaixaria na base do espelho grande!&lt;BR&gt;&lt;BR&gt;Tome-o, &lt;PCNAME&gt;. Você realmente mereceu a honra. E certamente não é perigoso.</Page>
+    
     
     </Text>
     <Text huntingZoneId="425" id="5" prevId="4" villagerId="10009">
          
+         
         <Page social="1">(Há um espaço do tamanho do pequeno espelho).</Page>
+    
     
     </Text>
     <Text huntingZoneId="425" id="6" prevId="5" villagerId="10008">
          
+         
         <Page social="1">Antes da morte de Balder, eu vi um grande emaranhado de destinos sombrios convergindo, estrangulando os fios de luz. Alguns fios brilhantes poderiam encontrar seu caminho através desse emaranhado, mas muito poucos.&lt;BR&gt;&lt;BR&gt;Terrivelmente, o fio de Balder não estava entre eles.&lt;BR&gt;&lt;BR&gt;Mas o que os deuses não puderam fazer, vocês, mortais, ainda podem conseguir.&lt;NEXTPAGEBUTTON&gt;"O que desbloqueamos?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Nem todo o poder de Balder morreu com ele. Ele selou alguns deles. Um desses selos agora se abriu para os mortais.&lt;BR&gt;&lt;BR&gt;Sua amiga, a princesa, pode senti-lo funcionando.&lt;BR&gt;&lt;BR&gt;Despede-se por enquanto - mas não para sempre!</Page>
+    
     
     </Text>
     <Text huntingZoneId="425" id="7" prevId="6" villagerId="10005">
          
+         
         <Page social="1">Uau. "A natureza sorri." É assim que me sinto, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Está em toda parte! Eu sinto algo vivo no mundo que não estava lá antes.&lt;BR&gt;&lt;BR&gt;Os Mysterium ficarão desapontados, é claro. Acho que eles queriam algo que pudessem carregar e fazer esquemas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="8" prevId="7" villagerId="1047">
          
+         
         <Page social="1">Parabéns! Eu senti uma mudança no mundo, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Sem dúvida, nosso clã começará a envelhecer normalmente de novo. Os Consos precisarão de um novo propósito, talvez até de um novo líder.&lt;BR&gt;&lt;BR&gt;Mas não fique triste - eu não estou. Talvez eu tenha a chance de viajar!</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="9" prevId="8" villagerId="1053">
          
+         
         <Page social="1">As palavras de Mystel são enlouquecedoras! De que adiantam suas previsões quando são feitas em linguagem sem sentido? Se ela pode ver o futuro, não pode ver o futuro eu confuso com suas palavras? &lt;BR&gt;&lt;BR&gt;É por isso que fazemos pesquisas, suponho, e temos muitos assuntos novos para estudar.&lt;BR&gt;&lt;BR&gt;Você supera a descrição de Elsine, &lt;PCNAME&gt;. Eu lhe desejo felicidades.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="10" prevId="8" villagerId="1054">
          
+         
         <Page social="1">&lt;PCNAME&gt;! A lenda cresce!&lt;BR&gt;&lt;BR&gt;Ninguém sabe ao certo o que você liberou no templo, mas todos estão animados para descobrir. Eu ajudarei a catalogar os tabletes e depois procurarei mais artefatos esquecidos.&lt;BR&gt;&lt;BR&gt;Talvez nos encontremos novamente.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="11" prevId="9" villagerId="1083">
          
+         
         <Page social="1">O mundo está mais saudável, e o elfo está frustrado. Meu trabalho aqui está feito.&lt;BR&gt;&lt;BR&gt;Tempo de voltar a Poporia. Minha irmã e eu deveríamos conversar.&lt;BR&gt;&lt;BR&gt;Deixe-a ter seu estandarte. Deixe-a ser rainha, se ela quiser. Lutar contra ela é um desperdício de energia que não podemos nos dar ao luxo.&lt;NEXTPAGEBUTTON&gt;"Falou como um verdadeiro líder."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Sim. Bem, hum... eu queria que você ficasse com isso.&lt;BR&gt;&lt;BR&gt;Use-o da próxima vez que algo estiver tentando comê-lo.&lt;BR&gt;&lt;BR&gt;Não faça nenhuma besteira - a menos que eu esteja lá para ver!</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="9" id="23" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="9" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="209" id="100" prevId="0" villagerId="1005">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="209" id="2" prevId="0" villagerId="1005">
          
+         
         <Page social="4">Entendo que vocês, soldados, têm coisas mais importantes a fazer, mas a situação ficou tão ruim que vocês precisam me ajudar.&lt;BR&gt;&lt;BR&gt;As gulas causam feridas que infeccionam quase que instantaneamente. Preciso fazer um curativo de pomada para impedir que as feridas infeccionem. Vou precisar de &lt;FONT COLOR='#660000'&gt;Fibras de Shetla&lt;/FONT&gt; para fazer isso.&lt;BR&gt;&lt;BR&gt;Você pode encontrar fibras macias em todo o labirinto, ou pode comprar algumas de outras pessoas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="209" id="3" prevId="2" villagerId="1005">
          
+         
         <Page social="0">Sei que a coleta de plantas não é exatamente o que o recrutador lhe prometeu, mas você está salvando a vida de seus companheiros, &lt;PCNAME&gt;. Obrigado!</Page>
+    
     
     </Text>
     <Text huntingZoneId="209" id="4" villagerId="1005">
          
+         
         <Page social="0">Preciso de mais &lt;font color='#660000'&gt;fibra de shetla&lt;/font&gt;, &lt;PCNAME&gt;. É simples assim.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="25" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="25" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="225" id="100" prevId="0" villagerId="1006">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="225" id="2" prevId="0" villagerId="1006">
          
+         
         <Page social="4">Estamos aqui para apoiar a equipe na Dark Cathedral, mas as {@LinkCreature:25#1081#hienas sem remorso} continuam roubando a comida. Se não as impedirmos, teremos que escolher entre alimentar ou comer a equipe de Elleon.</Page>
+    
     
     </Text>
     <Text huntingZoneId="225" id="3" prevId="2" villagerId="1006">
          
+         
         <Page social="4">Obrigado! Eu gostaria de poder dizer que todos os nossos problemas estão resolvidos, mas parece que sempre há alguma coisa.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,21 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="41" id="26" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="41" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="241" id="100" prevId="0" villagerId="1017">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="241" id="2" prevId="0" villagerId="1017">
          
+         
         <Page social="0">A maioria dos orcs mais velhos não acredita que possa haver paz para nós. Eles querem continuar fazendo guerra contra a federação para sempre. &lt;NEXTPAGEBUTTON&gt;"Mas você pensa diferente. Por quê?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Karba e outros orcs sábios nos ajudaram a enxergar um novo caminho. Karba diz que não é de se admirar que a federação pense em nós como animais, quando agimos como animais. Ele diz que o único caminho a seguir é a paz, e muitos de nós acreditam nele. Fomos exilados por nossas crenças. Muitos outros foram mortos.&lt;BR&gt;&lt;BR&gt;Esta estátua é um símbolo de paz. Mostre-a aos orcs perto da arena. Se eles acreditam no que nós acreditamos, eles entenderão.</Page>
+    
     
     </Text>
     <Text huntingZoneId="241" id="3" prevId="2" villagerId="1018">
          
+         
         <Page social="0">Os orcs fizeram isso. Você sabe o significado, é claro, e nós também. Acho que devemos confiar em você, &lt;PCCLASS:lcase&gt;.</Page>
+    
     
     </Text>
 </QuestDialog>

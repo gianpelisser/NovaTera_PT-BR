@@ -1,14 +1,18 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="1022" id="32" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="1022" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0">Quantos mais você precisa matar antes que isso acabe? Será que vai acabar? Será que esta é a última? &lt;BR&gt;&lt;BR&gt;&lt;font color='#660000'&gt;- Atenção! - &lt;/font&gt;&lt;BR&gt;&lt;font color='#660000'&gt;Um máximo de 120 jogadores pode trabalhar nesta área nesta missão. Se você sair dessa área, sua missão será cancelada.&lt;/font&gt;</Page>
+    
     
     </Text>
 </QuestDialog>

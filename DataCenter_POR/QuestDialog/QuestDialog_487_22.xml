@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="487" id="22" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="487" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="203" id="100" prevId="0" villagerId="1032">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="203" id="2" prevId="0" villagerId="1032">
          
+         
         <Page social="5">Minhas ordens são para explorar o Bastion of Lok e atacar os Scions com força, mas um basilisco feriu minha perna.&lt;BR&gt;&lt;BR&gt;Não posso descer lá assim - estarei morto em instantes.&lt;BR&gt;&lt;BR&gt;Precisamos atacar os Scions em seu covil. Você vai em meu lugar?</Page>
+    
     
     </Text>
     <Text huntingZoneId="203" id="3" prevId="2" villagerId="1032">
          
+         
         <Page social="5">Estou vendo distintivos ensanguentados. Excelente. Isso significa que os Scions of Lok podem passar algum tempo lamentando seus mortos, para variar.&lt;BR&gt;&lt;BR&gt;Não teria conseguido sem você. Muito bem feito.</Page>
+    
     
     </Text>
     <Text huntingZoneId="203" id="4" villagerId="1032">
          
+         
         <Page social="0">Temos que atacar os Scions of Lok. Não posso fazer isso, &lt;PCNAME&gt;. A missão cabe a você.</Page>
+    
     
     </Text>
 </QuestDialog>

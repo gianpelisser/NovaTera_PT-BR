@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="23" id="22" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="23" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="223" id="100" prevId="0" villagerId="1012">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="223" id="2" prevId="0" villagerId="1012">
          
+         
         <Page social="5">Os poporis precisam de equipamentos, mas Velika tem sido lenta e inútil em enviar algum para cá. Acho que teremos que resolver o problema com nossas próprias mãos.&lt;BR&gt;&lt;BR&gt;Corte alguns {@LinkCreature:23#2#ironwood ghilliedhus} e colete sua casca. Esse material é um bom escudo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="223" id="3" prevId="2" villagerId="1012">
          
+         
         <Page social="5">Eu vou fazer alguns escudos.&lt;BR&gt;&lt;BR&gt;Você salvou algumas vidas hoje, &lt;PCNAME&gt;. Com sorte, isso lhe renderá uma transferência para uma região com problemas maiores do que este.&lt;BR&gt;&lt;BR&gt;Ainda assim, são os pequenos passos que damos agora que compensam muito no final.&lt;BR&gt;&lt;BR&gt;Espero.</Page>
+    
     
     </Text>
     <Text huntingZoneId="223" id="4" villagerId="1012">
          
+         
         <Page social="0">Sei que isso não é glamouroso, mas os poporis são nossos aliados. Precisamos ajudá-los da melhor forma possível.&lt;BR&gt;&lt;BR&gt;Então, volte para lá e traga um pouco de casca de árvore.</Page>
+    
     
     </Text>
 </QuestDialog>

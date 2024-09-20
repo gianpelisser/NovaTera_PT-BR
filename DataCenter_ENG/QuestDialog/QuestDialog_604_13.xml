@@ -1,64 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="604" id="13" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="71" id="100" prevId="0" villagerId="3005">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3005">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="71" id="2" prevId="0" villagerId="3005">
-         
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3005">
         <Page social="4">{@LinkCreature:230#3026#Lilis} is looking for you today.&lt;BR&gt;&lt;BR&gt;Something about seeds in the lighthouse?</Page>
-    
     </Text>
-    <Text huntingZoneId="230" id="3" prevId="2" villagerId="3026">
-         
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="3026">
         <Page social="4">Nature smiles, friend.&lt;BR&gt;&lt;BR&gt;The golems often keep old seed pods in oak barrels. They brought a fresh load last night. I'd love samples.</Page>
-    
     </Text>
-    <Text huntingZoneId="230" id="4" prevId="2" villagerId="3026">
-         
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="3026">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="230" id="5" prevId="2" villagerId="3026">
-         
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="3026">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="230" id="6" prevId="2" villagerId="3026">
-         
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="3026">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="230" id="7" prevId="2" villagerId="3026">
-         
+    <Text id="7" huntingZoneId="230" prevId="2" villagerId="3026">
         <Page social="4">Hmm. Don't know what these are. Might be a rediscovery. Let's hope they bloom!</Page>
-    
     </Text>
-    <Text huntingZoneId="230" id="8" villagerId="3026">
-         
+    <Text id="8" huntingZoneId="230" villagerId="3026">
         <Page social="0">Old oak barrels. Just break them open!</Page>
-    
     </Text>
-    <Text huntingZoneId="230" id="9" prevId="7" villagerId="3026">
-         
+    <Text id="9" huntingZoneId="230" prevId="7" villagerId="3026">
         <Page social="4">These are familiar...a medicinal plant, I think.</Page>
-    
     </Text>
-    <Text huntingZoneId="230" id="10" villagerId="3026">
-         
+    <Text id="10" huntingZoneId="230" villagerId="3026">
         <Page social="0">Old oak barrels. Just break them open!</Page>
-    
     </Text>
-    <Text huntingZoneId="230" id="11" prevId="9" villagerId="3026">
-         
+    <Text id="11" huntingZoneId="230" prevId="9" villagerId="3026">
         <Page social="4">Oh, yes! More Balder's Eye flower seeds. Still trying to grow new ones. These could do it.</Page>
-    
     </Text>
-    <Text huntingZoneId="230" id="12" villagerId="3026">
-         
+    <Text id="12" huntingZoneId="230" villagerId="3026">
         <Page social="0">Old oak barrels. Just break them open!</Page>
-    
     </Text>
 </QuestDialog>

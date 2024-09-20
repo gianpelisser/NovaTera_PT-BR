@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="20" id="93" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="65" id="100" prevId="0" villagerId="1012">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="20" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="65" prevId="0" villagerId="1012">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="65" id="2" prevId="0" villagerId="1012">
-         
+    <Text id="2" huntingZoneId="65" prevId="0" villagerId="1012">
         <Page social="0">Want more orders, do you? Well, let's see what I've got here....&lt;BR&gt;&lt;BR&gt;All right, utter darkness in the mines—kill off the {@LinkCreature:20#30140000#Lokian reapers}, {@LinkCreature:20#30143000#Lokian ebonweavers}, {@LinkCreature:20#30141000#Lokian blood mages}, {@LinkCreature:20#30120101#devan rippers}, and {@LinkCreature:20#30120100#devan outriders}.&lt;BR&gt;&lt;BR&gt;Talk to Arthgal in the Halls of Utterdark when you've finished that up.</Page>
-    
     </Text>
-    <Text huntingZoneId="220" id="3" prevId="2" villagerId="1006">
-         
+    <Text id="3" huntingZoneId="220" prevId="2" villagerId="1006">
         <Page social="4">You've done good work out there! This is a sign of our appreciation.</Page>
-    
     </Text>
-    <Text huntingZoneId="220" id="4" villagerId="1006">
-         
+    <Text id="4" huntingZoneId="220" villagerId="1006">
         <Page social="0">You've come to chat, I assume?</Page>
-    
     </Text>
 </QuestDialog>

@@ -1,13 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="208" id="1032" voiceTypeId="153">
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1032" huntingZoneId="208" voiceTypeId="153" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
     <Text id="1" endSocial="14">
-         
         <Page social="4">Still looking for clues...</Page>
-    
     </Text>
     <Text id="101" endSocial="0">
-         
         <Page social="0">Our paths diverge here, but fear not. This isn't the end.</Page>
-    
     </Text>
 </VillagerDialog>

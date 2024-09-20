@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="21" id="27" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="21" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="221" id="100" prevId="0" villagerId="1020">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="221" id="2" prevId="0" villagerId="1020">
          
+         
         <Page social="4">Precisamos de sua ajuda, por favor! &lt;BR&gt;&lt;BR&gt;{@LinkCreature:21#22#Crag Stalker reapers}, {@LinkCreature:21#23#Crag Stalker Skullcrushers}, {@LinkCreature:21#27#Crag Stalker Watchers} e {@LinkCreature:21#6#Crag Stalker Champions} roubaram as estátuas sagradas que trabalhamos tanto para adquirir e fugiram para o deserto a oeste daqui.&lt;BR&gt;&lt;BR&gt;Nós já pagamos caro por elas, não podemos deixá-las ir embora. Por favor, persigam os kulkari e recuperem essas estátuas!</Page>
+    
     
     </Text>
     <Text huntingZoneId="221" id="3" prevId="2" villagerId="1020">
          
+         
         <Page social="4">Que alívio! E nem sequer estão danificados? Brilhante! &lt;BR&gt;&lt;BR&gt;Por favor, aceite esta recompensa e meus efusivos agradecimentos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="221" id="4" villagerId="1020">
          
+         
         <Page social="0">Precisamos ter essas estátuas, &lt;PCNAME&gt;! Elas são a chave para desvendar os segredos das ruínas!</Page>
+    
     
     </Text>
 </QuestDialog>

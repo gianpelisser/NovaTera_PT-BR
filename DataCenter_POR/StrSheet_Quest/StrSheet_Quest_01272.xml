@@ -1,16 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4535001" string="Fortaleza em uma montanha" />
-    <String id="4535002" string="A eliminação dos wendigos facilitará seu caminho." />
-    <String id="4535003" string="Sua ajuda foi inestimável." />
-    <String id="4535004" string="Mate {@creature:45#4004#argonomorph wendigos} nos {@Rgn:45005$$Skyfields}." />
-    <String id="4535005" string="Procure perto da {@Rgn:45012#entrada da fortaleza} e colete uma amostra da fortaleza caída." />
-    <String id="4535006" string="Fragmento da Fortaleza de argons Caída" />
-    <String id="4535007" string="Amostra de fragmento" />
-    <String id="4535008" string="Entregue a amostra para {@creature:245#1029$$Pokara} em {@Rgn:45009$$Camp Insanity}." />
-    <String id="4535009" string="&quot;Eu cuido disso.&quot;" />
-    <String id="4535010" string="&quot;Imediatamente.&quot;" />
-    <String id="4535011" string="Vá até {@Rgn:77001} e se apresente a {@Creature:77#1009$$Borskan}." />
-    <String id="4535012" string="&quot;É claro.&quot;" />
-    <String id="4535013" string="Fale com {@Creature:77#1011$$$Ellisiana}." />
+    <String id="4530001" string="Preocupação amigável" />
+    <String id="4530002" string="Agradeço sua ajuda." />
+    <String id="4530003" string="Devo um drinque a Setahl quando o vir novamente." />
+    <String id="4530004" string="Mate {@creature:45#3003#kelba rippers} e {@creature:45#3004#athakela stalkers} a oeste e ao sul de {@Rgn:45006$$Recíproca de Base de Campo}." />
+    <String id="4530005" string="&quot;Fico feliz por poder ajudar.&quot;" />
+    <String id="4530006" string="Entre em contato com {@linkcreature:245#1029$$Pokara} em {@Rgn:45009$$Camp Insanity}." />
 </StrSheet_Quest>

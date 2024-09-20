@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="63" id="28" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="63" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="63" id="100" prevId="0" villagerId="3005">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="2" prevId="0" villagerId="3005">
          
+         
         <Page social="5">Um chapéu de festa? Ah, sim, eu me lembro de fazer isso. Não faço mais isso.&lt;BR&gt;&lt;BR&gt;Os componentes básicos são bastante abundantes: couro de sepultura e fibras de luria. Mas a fábrica de algodão de Chebikan foi incendiada e não é mais possível obter algodão de Chebikan.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Mas eu tenho isto...&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="3005">
          
+         
         <Page social="5">Você realmente tem algodão Chebikan? E ainda quer que eu faça um chapéu de festa com ele? Ok... &lt;BR&gt;&lt;BR&gt;Bem, acho que só preciso saber a cor que você quer.&lt;NEXTPAGEBUTTON&gt;&amp;quot;Vamos ver...&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="4" villagerId="3005">
          
+         
         <Page social="0">Primeiro, a fábrica de algodão Chebikan foi incendiada, depois as Mãos de Velika venderam todo o seu estoque. Agora você simplesmente não consegue obtê-lo - e mesmo que conseguisse, por que desperdiçá-lo para fazer um chapéu de festa?</Page>
+    
     
     </Text>
 </QuestDialog>

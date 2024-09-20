@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="63" id="35" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="63" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="63" id="100" prevId="0" villagerId="3006">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="2" prevId="0" villagerId="3006">
          
+         
         <Page social="5">Agora, as feras têm mente própria. Para treiná-las a obedecer aos seus comandos sutis, é preciso limitar a visão delas.&lt;BR&gt;&lt;BR&gt;O que você precisa é de um arreio de capuz - eles mantêm os olhos da fera voltados para a frente. Traga-me um desses.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="3006">
          
+         
         <Page social="5">Ah, perfeito. Isso tornará o treinamento muito mais fácil para vocês dois.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="4" villagerId="3006">
          
+         
         <Page social="0">Sim, você pode tentar treinar a fera sem o arreio, mas provavelmente perderá uma mão, uma perna ou outro apêndice útil.&lt;BR&gt;&lt;BR&gt;Sua decisão. Terminei de falar.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+
 <StrSheet_Abnormality xmlns="https://vezel.dev/novadrop/dc/StrSheet_Abnormality" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Abnormality StrSheet_Abnormality.xsd">
     <String id="1" name="Clear Conscience" tooltip="Poder e o ataque foram reduzidos para $H_W_BAD$value$COLOR_END." />
     <String id="2" name="Promo BAM Buff" tooltip="Aumenta a sua grandiosidade ao derrotar monstros grandalhões." />
@@ -21,6 +21,17 @@
     <String id="25" name="T.E.R.A TIME" tooltip="Sinta a febre! Todos os tempos de recarga de habilidades, com exceção das habilidades de aliança, diminuem em 80%, e toda a regeneração de MP aumenta imensamente." />
     <String id="26" name="Ultra-Hyper-Fire-Turbo Time" tooltip="Sinta a febre! Todos os tempos de recarga de habilidades, com exceção das habilidades de aliança, diminuem em 80%, e toda a regeneração de MP aumenta imensamente." />
     <String id="27" name="T.E.R.A TIME" tooltip="Sinta a febre! Todos os tempos de recarga de habilidades, com exceção das habilidades de aliança, diminuem em 80%, e toda a regeneração de MP aumenta imensamente." />
+    <String id="28" name="T.E.R.A TIME" tooltip="Sinta a febre! Todos os tempos de recarga de habilidades, com exceção das habilidades de aliança, diminuem em 80%, e toda a regeneração de MP aumenta imensamente." />
+    <String id="29" />
+    <String id="30" name="Blessing of Amarun" tooltip="Increases maximum HP for the first venture into the dungeon." />
+    <String id="31" name="T.E.R.A TIME Season 2" tooltip="Engage in spectacular battles! Increases skill damage by 20% when attacking." />
+    <String id="32" />
+    <String id="33" name="T.E.R.A TIME" tooltip="Sinta a febre! Todos os tempos de recarga de habilidades, com exceção das habilidades de aliança, diminuem em 80%, e toda a regeneração de MP aumenta imensamente." />
+    <String id="34" name="Blessing of Amarun" tooltip="Increases maximum HP for the first venture into the dungeon." />
+    <String id="35" />
+    <String id="36" name="4th Anniversary Buff(Increase Attack Power)" tooltip="Engage in spectacular battles! When attacking, damage increases by 20% and attack speed greatly increases as well." />
+    <String id="37" name="4th Anniversary Buff(Decreased Cooldown)" tooltip="Feel the fever! All skill cooldowns except for alliance skills decrease by 80%, and all MP regeneration increases immensely." />
+    <String id="38" />
     <String id="101" name="Retaliate" tooltip="Enquanto estiver em vigor, é imune a reações." />
     <String id="201" name="Blessing of Shakan I" tooltip="Poder aumenta em $H_W_GOOD$value$COLOR_END." />
     <String id="202" name="Blessing of Shakan II" tooltip="Poder aumenta em $H_W_GOOD$value$COLOR_END." />
@@ -50,6 +61,7 @@
     <String id="1104" name="Festival Furor II" tooltip="A EXP de combate aumenta em $H_W_GOOD$value$COLOR_END.$BREFFect persiste até a morte." />
     <String id="1105" name="Powerful Potion of Cultural Opportunity" tooltip="A Powerful Potion of Cultural Opportunity (Poção poderosa de oportunidade cultural) tem o efeito especial de aumentar sua EXP de caça em $H_W_GOOD$value$COLOR_END. O efeito não desaparece, mesmo que você morra." />
     <String id="1106" name="Adoration II" tooltip="A EXP de combate aumenta em $H_W_GOOD$value$COLOR_END. $BREffect persiste até a morte." />
+    <String id="1107" name="Adoration III" tooltip="Increases combat XP by $H_W_GOOD$value$COLOR_END.$BREffect persists through death." />
     <String id="1110" name="Traveler's Balm" tooltip="A bênção de Seren para os viajantes. A EXP de combate aumenta em $H_W_GOOD$value$COLOR_END.$O efeito persiste até a morte." />
     <String id="1120" name="Seren's Torchbearer" tooltip="A Deusa da Noite abençoa sua jornada. Você projeta uma aura sobre si mesmo e sobre os membros do grupo em um raio de 40m.$BREffect persiste até a morte." />
     <String id="1125" name="Torchlight" tooltip="Portador da tocha nas proximidades. A EXP de combate aumenta em $H_W_GOOD$value$COLOR_END.$BREFFect persiste até a morte." />
@@ -85,9 +97,11 @@
     <String id="1461" name="Toruan Snacks" tooltip="Cura $H_W_GOOD4%$COLOR_END do total de HP a cada $H_W_GOOD$tickInterval$COLOR_END." />
     <String id="1462" name="Tertas Fruit Candy" tooltip="Cura $H_W_GOOD5%$COLOR_END do total de HP a cada $H_W_GOOD$tickInterval$COLOR_END." />
     <String id="1470" name="Speed Potion" tooltip="A velocidade aumenta em $H_W_GOOD$value$COLOR_END quando estiver fora de combate." />
+    <String id="1471" name="Speed Potion" tooltip="Increases Movement Speed by $H_W_GOOD$value$COLOR_END while out of combat." />
     <String id="1480" name="Zenobia's Zeal" tooltip="A velocidade aumenta em $H_W_GOOD$value$COLOR_END quando estiver fora de combate." />
     <String id="1490" name="Rejuvenation Potion" tooltip="Cura $H_W_GOOD5%$COLOR_END do total de HP a cada $H_W_GOOD$tickInterval$COLOR_END." />
     <String id="1491" name="Valiant Potion" tooltip="Cura $H_W_GOOD6%$COLOR_END do total de HP a cada $H_W_GOOD$tickInterval$COLOR_END." />
+    <String id="1495" name="Battlefield Poison" tooltip="Decreases HP by 5000 per second." />
     <String id="1510" name="Healing Potion" tooltip="Restaura instantaneamente $H_W_GOOD50%$COLOR_END do HP total." />
     <String id="1530" name="Divine Infusion" tooltip="Restaura $H_W_GOOD5%$COLOR_END do total de MP a cada $H_W_GOOD$tickInterval$COLOR_END." />
     <String id="1610" name="Rejuvenation Orbe " tooltip="Cura $H_W_GOOD2%$COLOR_END do total de HP a cada $H_W_GOOD$tickInterval$COLOR_END." />
@@ -139,6 +153,9 @@
     <String id="2085" name="Cry of Retaliation III" tooltip="O HP máximo aumenta em $H_W_GOOD$value$COLOR_END e Poder e a resistência aumentam em $H_W_GOOD$value2$COLOR_END. A velocidade de movimento também aumenta em $H_W_GOOD$value4$COLOR_END." />
     <String id="2090" name="Pegasus Aura" tooltip="A velocidade de movimento de qualquer montaria aumenta para $H_W_GOOD$value$COLOR_END." />
     <String id="2091" name="Speed Skating" tooltip="A velocidade de movimento fora de combate aumenta em $H_W_GOOD$value$COLOR_END." />
+    <String id="2092" />
+    <String id="2094" />
+    <String id="2095" />
     <String id="2100" name="Decelerate" tooltip="Diminui a velocidade de movimento em $H_W_BAD$value$COLOR_END." />
     <String id="2400" name="Innervation Elixir" tooltip="A resistência ao Mal-estar do Desespero aumenta em $H_W_GOOD$value$COLOR_END. O efeito se acumula até cinco vezes." />
     <String id="2500" name="Healing Elixir I" tooltip="Cura $H_W_GOOD$value$COLOR_END de HP a cada $H_W_GOOD$tickInterval$COLOR_END." />
@@ -318,13 +335,11 @@
     <String id="2875" name="Heart Potion I" tooltip="Cura o HP adicional em $H_W_GOOD$value$COLOR_END ao receber o efeito de recuperação de HP." />
     <String id="2876" name="Heart Potion II" tooltip="Cura o HP adicional em $H_W_GOOD$value$COLOR_END ao receber o efeito de recuperação de HP." />
     <String id="2877" name="Heart Potion III" tooltip="Cura o HP adicional em $H_W_GOOD$value$COLOR_END ao receber o efeito de recuperação de HP." />
-	
-	<String id="2880" name="Eclipse Potion I" tooltip="Reduz o aggro em $value." />
+    <String id="2880" name="Eclipse Potion I" tooltip="Reduz o aggro em $value." />
     <String id="2881" name="Eclipse Potion II" tooltip="Reduz o aggro em $value." />
     <String id="2882" name="Eclipse Potion III" tooltip="Reduz o aggro em $value." />
     <String id="2883" name="Eclipse Potion IV" tooltip="Reduz o aggro em $value." />
     <String id="2884" name="Eclipse Potion V" tooltip="Reduz o aggro em $value." />
-	
     <String id="2890" name="Unfocusing Bomb" tooltip="Não é possível usar o bloqueio de habilidades enquanto estiver em vigor." />
     <String id="2905" name="Bramblefoot Bomb" tooltip="Não é possível usar habilidades de evasão ou movimento enquanto estiver em vigor." />
     <String id="2930" name="Panaceaic Bolster I" tooltip="A resistência não diminui durante o efeito." />
@@ -361,7 +376,7 @@
     <String id="4600" name="Crystalbind" tooltip="Evita a quebra do cristal ao morrer, consumindo um efeito. O efeito se acumula até 99 vezes." />
     <String id="4610" name="Complete Crystalbind" tooltip="Evita a quebra de cristais após a morte." />
     <String id="4611" name="" tooltip="" />
-	<String id="4612" name="Complete Crystalbind (VIP)" tooltip="Evita a quebra de cristais após a morte." />
+    <String id="4612" name="Complete Crystalbind (VIP)" tooltip="Evita a quebra de cristais após a morte." />
     <String id="4620" name="Valsekyr Crafter's Scroll" tooltip="Aumenta a velocidade de criação de todos os itens em $H_W_GOOD$value$COLOR_END." />
     <String id="4621" name="Dedicated Crafter's Scroll" tooltip="Aumenta a velocidade de criação de todos os itens em $H_W_GOOD$value$COLOR_END." />
     <String id="4630" name="Valsekyr Gatherer's Scroll" tooltip="Aumenta todas as habilidades de coleta para $H_W_GOOD$value$COLOR_END." />
@@ -394,6 +409,8 @@
     <String id="4831" name="Bravery" tooltip="Aumenta o dano da habilidade em $H_W_GOOD$value2$COLOR_END e reduz o dano recebido em $H_W_GOOD$value3$COLOR_END. Além disso, aumenta a velocidade de ataque em $H_W_GOOD$value$COLOR_END." />
     <String id="4832" name="Courage (power-up, Japan)" tooltip="Aumenta o dano da habilidade em $H_W_GOOD$value2$COLOR_END e também reduz o dano recebido em $H_W_GOOD$value3$COLOR_END. A velocidade de ataque é aumentada em $H_W_GOOD$value$COLOR_END." />
     <String id="4833" name="" tooltip="" />
+    <String id="4840" name="Protection" tooltip="Attacks draw $H_W_GOOD$value4$COLOR_END more aggro. Increases Attack Speed by $H_W_GOOD$value$COLOR_END, reduces damage taken by $H_W_GOOD$value2$COLOR_END, and reduces the chance of knockdown and stagger by $H_W_GOOD$value3$COLOR_END." />
+    <String id="4841" name="Bravery" tooltip="Increases skill damage by $H_W_GOOD$value2$COLOR_END, and reduces damage taken by $H_W_GOOD$value3$COLOR_END. Additionally increases Attack Speed by $H_W_GOOD$value$COLOR_END." />
     <String id="4850" name="Sneaky" tooltip="Você encontrou um ponto cego nas defesas deles." />
     <String id="4851" name="Kaia's Protection" tooltip="Aumenta a velocidade de ataque de outras pessoas em um raio de 20 m em $H_W_GOOD100%$COLOR_END, aumenta o poder e a resistência delas em $H_W_GOOD100 vezes$COLOR_END e diminui o tempo de recarga em $H_W_GOOD$90%$COLOR_END." />
     <String id="4852" name="Kaia's Protection" tooltip="Aumenta a velocidade de ataque em $H_W_GOOD$value$COLOR_END, aumenta Poder e a resistência em $H_W_GOOD100 vezes$COLOR_END e diminui o tempo de recarga em $H_W_GOOD$value4$COLOR_END." />
@@ -426,10 +443,11 @@
     <String id="4886" name="Bravery Potion" tooltip="Aumenta o dano da habilidade em $H_W_GOOD$value2$COLOR_END e reduz o dano recebido em $H_W_GOOD$value3$COLOR_END. Além disso, aumenta a velocidade de ataque em $H_W_GOOD$value$COLOR_END." />
     <String id="4950" name="Rookie's Crystal Lock" tooltip="Evita a quebra de cristais ao morrer. Não pode ser usado com cristalbinds." />
     <String id="4951" name="Rookie's Oversight" tooltip="Ressuscita instantaneamente se você for morto." />
-    <String id="4952" name="Rookie's Fervor" tooltip="Aumenta o dano causado em $H_W_GOOD12%$COLOR_END. Não acumula com efeitos recebidos por meio da instâncias.END.
-Does not stack with effects received via Instance Matching." />
+    <String id="4952" name="Rookie's Fervor" tooltip="Aumenta o dano causado em $H_W_GOOD12%$COLOR_END. Não acumula com efeitos recebidos por meio da instâncias.END. Does not stack with effects received via Instance Matching." />
     <String id="4953" name="Canephora Potion" tooltip="Aumenta o poder de ataque em $H_W_GOOD12%$COLOR_END. Esse efeito não acumula com os bônus da instância." />
+    <String id="4954" name="Rookie's Oversight" tooltip="Resurrects instantly if killed." />
     <String id="4955" name="" tooltip="" />
+    <String id="4956" name="Корзинка пасхальных яиц" tooltip="Мгновенно восстанавливает $H_W_GOOD15%$COLOR_END от максимального уровня HP." />
     <String id="10100" name="Virulence" tooltip="O HP diminui em $H_W_BAD$value$COLOR_END a cada $H_W_BAD$tickInterval$COLOR_END." />
     <String id="10101" name="Virulence" tooltip="O HP diminui em $H_W_BAD$value$COLOR_END a cada $H_W_BAD$tickInterval$COLOR_END." />
     <String id="10102" name="Virulence" tooltip="O HP diminui em $H_W_BAD$value$COLOR_END a cada $H_W_BAD$tickInterval$COLOR_END." />
@@ -822,6 +840,7 @@ Does not stack with effects received via Instance Matching." />
     <String id="26230" name="Glyph of Infusion" tooltip="Restaura $H_W_GOOD6%$COLOR_END do total de MP a cada $H_W_GOOD$tickInterval$COLOR_END." />
     <String id="26240" name="Glyph of Balance" tooltip="Aumenta o saldo em $H_W_GOOD1,5 vezes$COLOR_END." />
     <String id="26241" name="Glyph of Balance" tooltip="Aumenta o saldo em $H_W_GOOD2,5 vezes$COLOR_END." />
+    <String id="26250" name="Glyph of Carving" tooltip="$H_W_GOODTriples$COLOR_END Crit Rate." />
     <String id="27010" name="Glyph of Slowing" tooltip="Diminui a velocidade de movimento em $H_W_BAD$value$COLOR_END." />
     <String id="27020" name="Glyph of Influence" tooltip="Reduz o custo de MP em $H_W_GOOD$value$COLOR_END para a Explosão Metamórfica." />
     <String id="27030" name="Glyph of Influence" tooltip="Diminui o consumo de MP da próxima habilidade em cadeia em $H_W_GOOD$value$COLOR_END: Vôlei de maldições." />
@@ -865,6 +884,16 @@ Does not stack with effects received via Instance Matching." />
     <String id="29100" name="Glyph of Powerlink" tooltip="Aumenta o dano de habilidade da próxima habilidade em cadeia em $H_W_GOOD$value$COLOR_END: Shadow Burst." />
     <String id="29110" name="Glyph of Fleetfoot" tooltip="Aumenta a velocidade de movimento em $H_W_GOOD$value$COLOR_END durante o combate." />
     <String id="29111" name="Glyph of Carving" tooltip="$H_W_GOODDoubles$COLOR_END taxa de crítico para o próximo ataque." />
+    <String id="30010" name="Arcane Energy Additional Replenishment [Glyph of Influence]" tooltip="If this abnormality is shown then BTS" />
+    <String id="30020" name="Glyph of the Swift" tooltip="Increases Attack Speed by $H_W_GOOD$value$COLOR_END." />
+    <String id="30030" name="Glyph of the Slick" tooltip="Reduces knockback by 40l%. Decreases the knocked back distance from the skill action by 40%." />
+    <String id="30040" name="Arcane Energy Additional Replenishment [Glyph of Influence]" tooltip="If this abnormality is shown then BTS" />
+    <String id="30050" name="Attack Speed Increase [Glyph of the Swift]" tooltip="Increases Attack Speed by $H_W_GOOD$value$COLOR_END." />
+    <String id="30060" name="Arcane Energy Additional Replenishment [Glyph of Influence]" tooltip="If this abnormality is shown then BTS" />
+    <String id="30070" name="Arcane Energy Additional Replenishment [Glyph of Influence]" tooltip="If this abnormality is shown then BTS" />
+    <String id="30080" name="Glyph of Fleetfoot" tooltip="Increases movement speed by $H_W_GOOD$value$COLOR_END." />
+    <String id="30090" name="Glyph of Powerlink" tooltip="Increases skill damage by $H_W_GOOD$value$COLOR_END for the next attack." />
+    <String id="30100" name="Glyph of Powerlink" tooltip="Increases Power for the next chain skill by $H_W_GOOD$value$COLOR_END: Shotgun." />
     <String id="45301" name="Great Shock" tooltip="Muito chocado." />
     <String id="45302" name="Blown Over" tooltip="Chocado e derrubado." />
     <String id="45303" tooltip="A broca desaparecerá em 13 segundos." />
@@ -926,11 +955,15 @@ Does not stack with effects received via Instance Matching." />
     <String id="70236" name="Sky Lotus Drink" tooltip="Torna-o $H_W_GOOD100%$COLOR_END resistente a knockdown e imobilização por $time, mas você pode se sentir muito tonto." />
     <String id="70237" name="Lein’s Dark Root Beer" tooltip="Aumenta a velocidade de ataque em $H_W_GOOD$value$COLOR_END por $time, mas o chute pode deixá-lo muito tonto." />
     <String id="70238" name="Digory’s Honey Moongourd Drink" tooltip="Aumenta a resistência em $H_W_GOOD$value$COLOR_END por $time, mas você pode se sentir muito tonto." />
+    <String id="70239" name="Freeholds Flame Salad" tooltip="Increases max Stamina by $H_W_GOOD$value$COLOR_END." />
+    <String id="70240" name="Bleak Wings" tooltip="Stamina does not decrease." />
+    <String id="70241" name="Traditional Bleakfields BBQ" tooltip="Healing skills affecting you increase by $H_W_GOOD$value$COLOR_END." />
     <String id="70301" name="Tranquil Celerity" tooltip="Aumenta a velocidade de movimento em combate em $H_W_GOOD$value$COLOR_END. O efeito se acumula até três vezes." />
     <String id="70302" name="Tranquil Focus" tooltip="Aumenta o dano da habilidade em $H_W_GOOD$value$COLOR_END." />
     <String id="70303" name="Tranquil Vigor" tooltip="Aumenta a resistência máxima em $H_W_GOOD$value$COLOR_END. O efeito se acumula até três vezes." />
     <String id="70304" name="Tranquil Regeneration" tooltip="Cura $H_W_GOOD0,5%$COLOR_END do total de HP por pilha a cada $H_W_GOOD$tickInterval$COLOR_END. O efeito é acumulado até três vezes." />
     <String id="70305" name="Tranquil Replenishment" tooltip="Regenera $H_W_GOOD0,5%$COLOR_END do total de MP por acúmulo a cada $H_W_GOOD$tickInterval$COLOR_END. O efeito é acumulado até três vezes." />
+    <String id="81163" name="Overly-Attached Friend" tooltip="You have overused Friend Summon. You need to give your friends their space before you can use Friend Summon again." />
     <String id="82101" />
     <String id="82102" name="Potion of Shielding" tooltip="Diminui o dano de projéteis por $time." />
     <String id="82601" name="Sanguine Snag" tooltip="A magia de sangue impede o movimento." />
@@ -1003,6 +1036,8 @@ Does not stack with effects received via Instance Matching." />
     <String id="101800" name="Foe Harvest" tooltip="Atraia inimigos para você enquanto o poder estiver em vigor." />
     <String id="101801" name="Foe Harvest" tooltip="Bônus para o lançador de Binding Sword. Anormalidade invisível" />
     <String id="101900" name="Foe Harvest" tooltip="Colhido. Vulnerável por $time." />
+    <String id="160010" name="Взмах молота кузнеца: раскол" tooltip="Отметка бога раскалывает вашу броню. Снижает выносливость на $H_W_BAD$value$COLOR_END." />
+    <String id="160020" name="Взмах молота кузнеца: уязвимость" tooltip="Вас отметил бог войны: сопротивление критическим ударам снижено на 10." />
     <String id="200100" name="Leash" tooltip="Atordoado. Não pode se mover." />
     <String id="200200" name="Guardian Shout I" tooltip="Os outros membros do seu grupo recebem $H_W_GOODGuardian Power$COLOR_END quando estiverem a até 20 m de você. Termina se você for derrubado." />
     <String id="200201" name="Guardian Shout II" tooltip="Os outros membros do seu grupo recebem $H_W_GOODGuardian Power$COLOR_END quando estiverem a até 20 m de você. Termina se você for derrubado." />
@@ -1111,6 +1146,61 @@ Does not stack with effects received via Instance Matching." />
     <String id="401150" name="Combo Attack" tooltip="Aumenta a velocidade de carga do próximo ataque de carga." />
     <String id="401200" name="Tenacity" tooltip="Aumenta significativamente a resistência ao atordoamento." />
     <String id="401300" name="Unbreakable" tooltip="Seu HP não cairá abaixo de 1 enquanto isso estiver em vigor. O dano que exceder o seu HP máximo em um único golpe ainda o matará." />
+    <String id="457001" name="Not supposed to be shown" tooltip="Not supposed to be shown" />
+    <String id="457002" name="Firestone" tooltip="The stone giant is on fire. Targets within 20m gain &quot;Heat.&quot;" />
+    <String id="457003" name="Firestone" tooltip="The stone giant is on fire. Targets within 3m gain &quot;Heat.&quot;" />
+    <String id="457004" name="Heat" tooltip="The flames around the stone giant produce a blistering heat." />
+    <String id="457005" name="Withering Fire" tooltip="The stone giant's extreme heat is overwhelming you." />
+    <String id="457006" name="Fireflower" tooltip="Standing near this fireflower created by Archeron grants you the &quot;Heat&quot; abnormality. Until Heat ends, a powerful attack spreads." />
+    <String id="457007" name="Not supposed to be shown" tooltip="Not supposed to be shown(If shown, BTS)" />
+    <String id="457008" name="Not supposed to be shown" tooltip="Not supposed to be shown(If shown, BTS)" />
+    <String id="457009" name="Extinction" tooltip="Tooltip for this abnormality will not appear (isShow=Fals) If this tooltip is shown, then BTS" />
+    <String id="457010" name="Lifting the Character Up In the Air" tooltip="Tooltip for this abnormality will not appear (isShow=Fals) If this tooltip is shown, then BTS" />
+    <String id="457011" name="Impact from the Explosion" tooltip="Got hurt from the impact of the explosion. If the impact " />
+    <String id="457012" name="BAM-BAM-BAM!" tooltip="Got knocked out from taking too many powerful blows in rapid succession." />
+    <String id="457013" name="Super-Cool-Awesome Sealed Sword" tooltip="This Sealed Sword just keep healing HP by itself" />
+    <String id="457014" name="Not supposed to be shown" tooltip="If you can see this, register BTS." />
+    <String id="457015" name="Absorption" tooltip="The Lava Monster is absorbing moisture from the air around it." />
+    <String id="457016" name="Hardened" tooltip="Lying on the cooling vent hardens the Lava Monster's hide, increasing its Endurance by $H_W_GOOD$value$COLOR_END." />
+    <String id="457017" name="Aegis of Archeron" tooltip="Archeron's shield prevents all damage, but the stone giant can only step on you." />
+    <String id="457018" name="Weapon Melt" tooltip="Your gear is beginning to melt from the stone giant's extreme heat." />
+    <String id="457019" name="Archeron's Command" tooltip="Archeron has put his mark on you. His minions will focus their attacks on you." />
+    <String id="457020" name="Stay focused!" tooltip="Stay focused!" />
+    <String id="457021" name="Not supposed to be shown" tooltip="If you can see this, register BTS." />
+    <String id="457022" name="The Order from Archeron" tooltip="Currently feeling empty-headed. Take this opportunity and strike." />
+    <String id="457023" name="Stay focused!" tooltip="Stay focused!" />
+    <String id="457024" name="If you can see this, register BTS." tooltip="If you can see this, register BTS." />
+    <String id="457025" name="Not supposed to be shown" tooltip="If you can see this, register BTS." />
+    <String id="457026" name="Not supposed to be shown" tooltip="If you can see this, register BTS." />
+    <String id="457027" name="Not supposed to be shown" tooltip="If you can see this, register BTS." />
+    <String id="457028" name="Deep Breaths" tooltip="While you catch your breath, your reaction resistance decreases drastically." />
+    <String id="457029" name="Archeron's Corrosion" tooltip="Archeron causes the sword to corrode." />
+    <String id="457030" name="Archeron's Blessing-Hardened Body" tooltip="Archeron's Blessing increases Endurance by $H_W_GOOD$value$COLOR_END." />
+    <String id="457031" name="Archeron's Corrosion" tooltip="Archeron causes the sword to corrode." />
+    <String id="457032" name="Archeron's Corrosion" tooltip="Archeron causes the sword to corrode." />
+    <String id="457033" name="Archeron's Corrosion" tooltip="Archeron causes the sword to corrode." />
+    <String id="457034" name="Archeron's Blessing-Hardened Body" tooltip="Archeron's Blessing increases Endurance by $H_W_GOOD$value$COLOR_END." />
+    <String id="457035" name="Archeron's Blessing-Hardened Body" tooltip="Archeron's Blessing increases Endurance by $H_W_GOOD$value$COLOR_END." />
+    <String id="457036" name="Archeron's Blessing-Hardened Body" tooltip="Archeron's Blessing increases Endurance by $H_W_GOOD$value$COLOR_END." />
+    <String id="457037" name="Archeron's Blessing-Hardened Body" tooltip="Archeron's Blessing increases Endurance by $H_W_GOOD$value$COLOR_END." />
+    <String id="457038" name="Mystel's Divine Sword" tooltip="Increases Power by $H_W_GOOD$value$COLOR_END." />
+    <String id="457039" name="Mystel's Divine Sword" tooltip="Increases Power by $H_W_GOOD$value$COLOR_END." />
+    <String id="457040" name="Mystel's Divine Sword" tooltip="Increases Power by $H_W_GOOD$value$COLOR_END." />
+    <String id="457041" name="Mystel's Divine Sword" tooltip="Increases Power by $H_W_GOOD$value$COLOR_END." />
+    <String id="457042" name="Mystel's Waning Might" tooltip="As the power of Mystel's Divine Sword wanes, Power increases by $H_W_GOOD$value$COLOR_END." />
+    <String id="457043" name="The Lion Spirit" tooltip="Take The Lion Spirit to Divine Sword - Mystel." />
+    <String id="457044" name="Extinction" tooltip="No debuff tooltip display (isShow=False). If this tooltip displays, BTS is required! " />
+    <String id="457045" name="Big Picture" tooltip="Giving orders makes you more likely to get stunned." />
+    <String id="457046" name="Slumbering" tooltip="Deep in slumber...but awakes if attacked." />
+    <String id="457047" />
+    <String id="457048" />
+    <String id="457049" name="Pitch-Black Darkness" tooltip="Your movement keys are reversed." />
+    <String id="457050" name="Archeron's Blessing-Hardened Body" tooltip="Archeron's Blessing increases Endurance by $H_W_GOOD$value$COLOR_END." />
+    <String id="457051" name="Priestess' Blessing-Swift" tooltip="The Priestess's Blessing increases attack speed by $H_W_GOOD10%$COLOR_END." />
+    <String id="457052" name="Hand of Archeron" tooltip="Under Archeron's protection, the fimbrilisks will soon grow stronger." />
+    <String id="457053" name="Archeron's Blessing" tooltip="Became enraged by receiving Archeron's Blessing." />
+    <String id="457054" name="Bleeding" tooltip="A most palpable hit. HP will keep decreasing." />
+    <String id="457055" name="Not supposed to be shown" tooltip="Not supposed to be shown" />
     <String id="473650" name="Transferred Terror" tooltip="Atordoado. Não pode se mover." />
     <String id="475150" name="Rampancy" tooltip="Kelsaik está em alta! Ninguém pode detê-lo agora." />
     <String id="475151" name="Futility" tooltip="Diminui o dano da habilidade em $H_W_BAD$value$COLOR_END. Esse efeito afetará continuamente todos os membros do grupo até que Harbinger of Futility seja removido do membro do grupo afetado." />
@@ -1136,6 +1226,7 @@ Does not stack with effects received via Instance Matching." />
     <String id="476223" name="Double-edged Strike IV" tooltip="Diminui a resistência em $H_W_Bad$value$COLOR_END, aumenta Poder em $H_W_GOOD$value2$COLOR_END." />
     <String id="476224" name="Double-edged Strike V" tooltip="Diminui a resistência em $H_W_Bad$value$COLOR_END, aumenta Poder em $H_W_GOOD$value2$COLOR_END. O Golpe V de dois gumes não pode ser removido." />
     <String id="476225" name="Faint" tooltip="Atordoado. Não pode se mover." />
+    <String id="476226" name="Saravash's Spirit" tooltip="Stunned. Cannot move!" />
     <String id="476302" name="Blindlight" tooltip="Atordoado. Não pode se mover. O Blindlight não pode ser removido." />
     <String id="476602" name="Shocking Electricity" tooltip="Atordoado e imobilizado pela Fonte de Choque em um raio de 12 m. A Shocking Electricity não pode ser removida." />
     <String id="476611" name="Electricity Recharge First Stage" tooltip="Aumenta Poder em $H_W_GOOD$value$COLOR_END. O Electricity Recharge pode ser empilhado até 4 vezes. O primeiro estágio da Electricity Recharge não pode ser removido." />
@@ -1283,6 +1374,10 @@ Does not stack with effects received via Instance Matching." />
     <String id="601101" name="Sniper's Eye II" tooltip="Aumenta o poder em 30 e a velocidade de ataque em 4. Em PvP, essa habilidade aumenta o dano em 4,3%. Não pode ser usada em conjunto com Eagle's Eye." />
     <String id="601110" name="Eagle's Eye I" tooltip="Aumenta Poder em 30 e a velocidade de movimento em 8. Em PvP, essa habilidade aumenta o dano em 4,3%. Não pode ser usada em conjunto com Sniper's Eye." />
     <String id="601111" name="Eagle's Eye II" tooltip="Aumenta Poder em 30 e a velocidade de movimento em 8. Em PvP, essa habilidade aumenta o dano em 4,3%. Não pode ser usada em conjunto com Sniper's Eye." />
+    <String id="601130" name="Sniper's Eye(Additional Damage To Boss Monsters)" tooltip="Additional Damage To Boss Monsters (Invisible Abnormality)" />
+    <String id="601131" name="Sniper's Eye(Additional Damage To Boss Monsters)" tooltip="Additional Damage To Boss Monsters (Invisible Abnormality)" />
+    <String id="601140" name="Eagle's Eye(Additional Damage To monsters)" tooltip="Additional Damage To monsters (Invisible Abnormality)" />
+    <String id="601141" name="Eagle's Eye(Additional Damage To monsters)" tooltip="Additional Damage To monsters (Invisible Abnormality)" />
     <String id="601200" name="Concussion Trap" tooltip="Você está atordoado e imobilizado." />
     <String id="601201" name="Concussion Trap" tooltip="Você está atordoado e imobilizado." />
     <String id="601300" name="Ensnaring Trap I" tooltip="Diminui a velocidade de movimento em $H_W_BAD$value$COLOR_END." />
@@ -1497,6 +1592,7 @@ Does not stack with effects received via Instance Matching." />
     <String id="801801" name="Mana Charge" tooltip="Nenhuma dica de ferramenta de debuff é exibida (isShow=False). Se essa dica de ferramenta for exibida, o BTS será necessário!" />
     <String id="801802" name="Mana Charge" tooltip="Nenhuma dica de ferramenta de debuff é exibida (isShow=False). Se essa dica de ferramenta for exibida, o BTS será necessário!" />
     <String id="801900" name="God's Breath I" tooltip="Flutuar o inimigo no ar (anormalidade invisível)" />
+    <String id="801901" name="Zenobia's Vortex" tooltip="Lifts the target into the air. (NotShown Abnormality)" />
     <String id="801920" name="God's Breath I" tooltip="Flutuar o inimigo no ar (anormalidade invisível)" />
     <String id="802000" name="Divine Intervention" tooltip="Convoque um aliado à sua frente para um local bem na sua frente." />
     <String id="808101" name="Panic" tooltip="Em pânico! Você se move para a direção oposta ao seu comando de movimento. Não pode ser removido." />
@@ -1508,6 +1604,8 @@ Does not stack with effects received via Instance Matching." />
     <String id="808107" name="Tough Blood" tooltip="A resistência aumenta em $H_W_GOOD$value$COLOR_END." />
     <String id="808108" name="Invincible" tooltip="Não é um alvo de combate." />
     <String id="808109" name="Blood Drain" tooltip="O HP diminui em $H_W_BAD$min$COLOR_END a cada $H_W_BAD$tickInterval$COLOR_END. Esse efeito é acumulado até 5 vezes." />
+    <String id="810001" name="Gruber's Power" tooltip="Unknown power" />
+    <String id="810002" name="Relic's Power" tooltip="Power under investigation by the Mysterium" />
     <String id="811060" name="Invisibility Potion" tooltip="Não pode ser visto." />
     <String id="811061" name="Stale Invisibility Potion" tooltip="Não consigo enxergar, mas me sinto bastante doente." />
     <String id="811062" name="Remove Invisibility" />
@@ -1516,6 +1614,7 @@ Does not stack with effects received via Instance Matching." />
     <String id="813003" name="Glade's Surge" tooltip="Restaura $H_W_GOOD4%$COLOR_END do seu HP total a cada $H_W_GOOD$tickInterval$COLOR_END." />
     <String id="821100" name="Zolyn's Cry" tooltip="A alma de Zolyn que ainda permanece neste mundo está tentando deter seu corpo possuído. A velocidade de ataque diminui em $H_W_BAD$value$COLOR_END." />
     <String id="821101" name="Pity" tooltip="Você terá de pôr um fim a essa dor... para ela. Sua hesitação só aumentará a dor dela." />
+    <String id="884100" name="Rampage" tooltip="Kelsaik is rampant! No one can stop him now." />
     <String id="900100" name="Combo Attack" tooltip="A velocidade diminui em $H_W_BAD$value$COLOR_END." />
     <String id="900110" name="Combo Attack" tooltip="A velocidade diminui em $H_W_BAD$value$COLOR_END." />
     <String id="900200" name="Combo Attack" tooltip="A velocidade diminui em $H_W_BAD$value$COLOR_END." />
@@ -1573,6 +1672,7 @@ Does not stack with effects received via Instance Matching." />
     <String id="905445" name="Blood in the Water" tooltip="A perda de sangue reduz $H_W_BAD12,5%$COLOR_END do HP total a cada $H_W_BAD$tickInterval$COLOR_END." />
     <String id="905446" />
     <String id="905447" />
+    <String id="905448" name="Froth" tooltip="Decreases Movement Speed by $H_W_BAD$value$COLOR_END." />
     <String id="910000" name="Balder's Blessing" tooltip="Sob a Bênção de Balder, o número de missões diárias disponíveis aumenta, assim como a taxa de queda de itens encantados nas masmorras. Além disso, o MP é constantemente restaurado e sua resistência máxima aumenta." />
     <String id="910001" name="Velik's Blessing" tooltip="Sob a bênção de Velik, sua recompensa de EXP de caça e o número de missões diárias disponíveis aumentam. Além disso, sua resistência máxima aumenta." />
     <String id="910002" name="Gidd's Blessing" tooltip="Sob a Bênção de Gidd, sua reputação e seus créditos aumentam. (Não se aplica à reputação dos campos de batalha)." />
@@ -1592,6 +1692,7 @@ Does not stack with effects received via Instance Matching." />
     <String id="916003" name="Dark Insight" tooltip="A defesa diminui em 70%." />
     <String id="916004" name="Darkan's Wrath" tooltip="Aumenta Poder em $H_W_GOOD50%$COLOR_END e a velocidade de ataque em $H_W_GOOD30%$COLOR_END. Não pode ser removido." />
     <String id="916018" name="Dead" tooltip="Viver é para os fortes." />
+    <String id="916035" name="Elkaras_Boss2_Achievement_Exclusive" tooltip="BTS" />
     <String id="975029" name="Velik Power" tooltip="Aumenta Poder e a taxa de críticos." />
     <String id="975031" name="Hot and Cold Pack" tooltip="A mistura de fogo e gelo drena seu HP." />
     <String id="975032" name="Living Bomb Blast" tooltip="Causa dano a aliados em 20m." />
@@ -1606,6 +1707,50 @@ Does not stack with effects received via Instance Matching." />
     <String id="975430" name="Chelonian Armor" tooltip="A carapaça endurecida absorve todos os danos." />
     <String id="975431" />
     <String id="975445" />
+    <String id="988501" name="Endurance Minor" tooltip="HP Increase 1st Stage Release" />
+    <String id="988502" name="Endurance Major" tooltip="HP Increase 2nd Stage Release" />
+    <String id="988503" name="Endurance Maximus" tooltip="HP Increase 3rd Stage Release" />
+    <String id="988504" name="Endurance Minor" tooltip="Increases maximum HP by $H_W_GOOD10%$COLOR_END" />
+    <String id="988505" name="Endurance Major" tooltip="Increases maximum HP by $H_W_GOOD20%$COLOR_END" />
+    <String id="988506" name="Endurance Maximus" tooltip="Increases maximum HP by $H_W_GOOD40%$COLOR_END" />
+    <String id="988511" name="Strength Minor" tooltip="Defense Increase 1st Stage Release" />
+    <String id="988512" name="Strength Major" tooltip="Defense Increase 2nd Stage Release" />
+    <String id="988513" name="Strength Maximus" tooltip="Defense Increase 3rd Stage Release" />
+    <String id="988514" name="Strength Minor" tooltip="Increases Defense by $H_W_GOOD5%$COLOR_END." />
+    <String id="988515" name="Strength Major" tooltip="Increases Defense by $H_W_GOOD10%$COLOR_END." />
+    <String id="988516" name="Strength Maximus" tooltip="Increases Defense by $H_W_GOOD20%$COLOR_END." />
+    <String id="988521" name="Empower Minor" tooltip="Power Increase 1st Stage Release" />
+    <String id="988522" name="Empower Major" tooltip="Power Increase 2nd Stage Release" />
+    <String id="988523" name="Empower Maximus" tooltip="Power Increase 3rd Stage Release" />
+    <String id="988524" name="Empower Minor" tooltip="Increases Power by $H_W_GOOD5%$COLOR_END." />
+    <String id="988525" name="Empower Major" tooltip="Increases Power by $H_W_GOOD10%$COLOR_END." />
+    <String id="988526" name="Empower Maximus" tooltip="Increases Power by $H_W_GOOD20%$COLOR_END." />
+    <String id="988531" name="Bounty Minor" tooltip="Drop Increase 1st Stage Release" />
+    <String id="988532" name="Bounty Major" tooltip="Drop Increase 2nd Stage Release" />
+    <String id="988533" name="Bounty Maximus" tooltip="Drop Increase 3rd Stage Release" />
+    <String id="988534" name="Bounty Minor" tooltip="Increases drop rate by $H_W_GOOD25%$COLOR_END." />
+    <String id="988535" name="Bounty Major" tooltip="Increases drop rate by $H_W_GOOD50%$COLOR_END." />
+    <String id="988536" name="Bounty Maximus" tooltip="Increases drop rate by $H_W_GOOD100%$COLOR_END." />
+    <String id="988550" />
+    <String id="988551" name="Energy Collection" tooltip="Acquiring energy. The formidable energy will be dispersed." />
+    <String id="988570" name="Torpor" tooltip="Decreases Movement Speed by $H_W_BAD$value$COLOR_END. Suryati's curses cannot be removed." />
+    <String id="988571" name="Weakness" tooltip="Reduces Power by $H_W_BAD$value$COLOR_END. This effect cannot be removed." />
+    <String id="988572" name="Doom" tooltip="You die when effect ends. This effect cannot be removed." />
+    <String id="988573" name="Insanity" tooltip="Bedlam! Your movement keys are reversed. This effect cannot be removed." />
+    <String id="988574" name="Panic" tooltip="Flee in terror! Panic cannot be removed. Ends if target is knocked down." />
+    <String id="988575" name="Failure" tooltip="Cannot trigger any new skills. Effect cannot be removed" />
+    <String id="988576" name="Torpor" tooltip="Decreases Movement Speed of party members within 10m." />
+    <String id="988577" name="Weakness" tooltip="Reduces Power of all party members within 10m." />
+    <String id="988578" name="Doom" tooltip="Suryati's Curse has occured. Every party member within 20m will be instantly killed." />
+    <String id="988579" name="Insanity" tooltip="You cause Insanity in party members within 10m." />
+    <String id="988580" name="Panic" tooltip="You cause party members within 10m to flee in terror." />
+    <String id="988581" name="Failure" tooltip="Party members within 10m can't use skills." />
+    <String id="988582" name="Suryati's Curse_Waiting(Slow Down)" tooltip="In 5 seconds, Suryati's Curse_Slow Down will occur." />
+    <String id="988583" name="Suryati's Curse_Waiting(Weaken)" tooltip="In 5 seconds, Suryati's Curse_Weaken will occur." />
+    <String id="988584" name="Suryati's Curse_Waiting(Destroy)" tooltip="In 10 seconds, Suryati's Curse_Destroy will occur." />
+    <String id="988585" name="Suryati's Curse_Waiting(Confuse)" tooltip="In 5 seconds, Suryati's Curse_Confuse will occur." />
+    <String id="988586" name="Suryati's Curse_Waiting(Terrify)" tooltip="In 5 seconds, Suryati's Curse_Terrify will occur." />
+    <String id="988587" name="Suryati's Curse_Waiting(Silence)" tooltip="In 5 seconds, Suryati's Curse_Silence will occur." />
     <String id="990046" name="Pigling Barbecue" tooltip="Restaura $H_W_GOOD50%$COLOR_END de todo o HP." />
     <String id="990070" name="Adiar's Protection" tooltip="Energia sagrada de Adiar. Restaura $H_W_GOOD0,25%$COLOR_END do total de HP a cada $H_W_GOOD$tickInterval$COLOR_END." />
     <String id="990071" name="Derene's Protection" tooltip="Energia principal de Drene. Restaura $H_W_GOOD0,3%$COLOR_END do total de MP a cada $H_W_GOOD$tickInterval$COLOR_END." />
@@ -1638,6 +1783,13 @@ Does not stack with effects received via Instance Matching." />
     <String id="3000002" name="Hearty Travel" tooltip="Restaura 0,5% de seu HP máximo a cada segundo." />
     <String id="3000003" name="Restful Travel" tooltip="Restaura 0,5% de sua resistência máxima a cada segundo." />
     <String id="3000004" name="Hearty Travel" tooltip="Restaura 0,5% de seu HP máximo a cada segundo." />
+    <String id="3000005" name="" tooltip="" />
+    <String id="3000006" name="" tooltip="" />
+    <String id="3000007" name="" tooltip="" />
+    <String id="3000008" name="" tooltip="" />
+    <String id="3000009" name="" tooltip="" />
+    <String id="3000010" name="Неизвестное экслюзивное ездовое животное (восстановление HP, MP и бодрости)" tooltip="Каждую секунду восстанавливает 0,5% от максимального уровня ваших HP, MP и бодрости." />
+    <String id="3000011" name="" tooltip="" />
     <String id="4510001" />
     <String id="4510002" />
     <String id="4510003" />
@@ -1654,6 +1806,7 @@ Does not stack with effects received via Instance Matching." />
     <String id="4510014" name="Solar Orb" tooltip="O orbe solar segue você e aumenta a velocidade de movimento fora de combate em $H_W_GOOD$value$COLOR_END." />
     <String id="4510015" name="Courageous Melody" tooltip="As melodias suaves da flauta de junco tuwangi fazem com que você se sinta mais corajoso; o dano da sua habilidade aumentou em $H_W_GOOD$value$COLOR_END." />
     <String id="4510016" name="Hunting Horn" tooltip="Atenda ao chamado de clarim." />
+    <String id="5020006" name="Darkan's Wings" tooltip="Aumenta a taxa de críticos em $H_W_GOOD$value$COLOR_END e a velocidade de ataque em $H_W_GOOD$value2$COLOR_END." />
     <String id="7000001" name="Shape Change: Big Head" tooltip="Sua cabeça fica gigante!" />
     <String id="7000002" name="Physical Change: Breast" tooltip="Esse efeito só funciona com trajes de banho de 2013.$BRPode ser acumulado até 3 vezes. (mínimo -3 ~ máximo +3)" />
     <String id="7000003" name="Physical Change: Height" tooltip="Pode ser empilhado até 3 vezes. (mínimo -3 ~ máximo +3)" />
@@ -1772,13 +1925,10 @@ Does not stack with effects received via Instance Matching." />
     <String id="8000075" name="50% Gold Hunter Boost (1 Hour)" tooltip="Aumenta em 50% suas recompensas de ouro ao matar mobs por 1 hora." />
     <String id="8000076" name="100% Gold Hunter Boost (1 Hour)" tooltip="Aumenta em 100% suas recompensas de ouro ao matar mobs por 1 hora." />
     <String id="8000077" name="Kaia's Dedication" tooltip="Aumenta o dano em $H_W_GOOD$value2$COLOR_END, reduz o dano recebido em $H_W_GOOD$value3$COLOR_END. Aumenta velocidade de ataque em $H_W_GOOD$value$COLOR_END." />
-    
-	<String id="8000078" name="Efeito Premium: +100%" tooltip="Presente VIP: Bônus de Experiência: +100%, Bônus de Reputação e Valor +100%, Ouro Extra (Missões): 100%, Ouro extra (Caça): 100% enquanto estiver no status VIP. (Esse efeito substitui todos os efeitos que aumentam a quantidade de experiência adquirida)." />
-	<String id="8000079" name="Event - EXP: +400%" tooltip="O evento está sendo realizado para aumentar a EXP. Os bônus VIP são salvos ao mesmo tempo: Bônus de reputação e valor +100%, ouro extra (missões): 100%, Extra Gold (Hunting): 100%." />
+    <String id="8000078" name="Efeito Premium: +100%" tooltip="Presente VIP: Bônus de Experiência: +100%, Bônus de Reputação e Valor +100%, Ouro Extra (Missões): 100%, Ouro extra (Caça): 100% enquanto estiver no status VIP. (Esse efeito substitui todos os efeitos que aumentam a quantidade de experiência adquirida)." />
+    <String id="8000079" name="Event - EXP: +400%" tooltip="O evento está sendo realizado para aumentar a EXP. Os bônus VIP são salvos ao mesmo tempo: Bônus de reputação e valor +100%, ouro extra (missões): 100%, Extra Gold (Hunting): 100%." />
     <String id="8000080" name="Event - EXP: +300%" tooltip="O evento está sendo realizado para aumentar a EXP." />
-    <String id="8000101" name="Extra Gold (Hunting): 100% (VIP)" tooltip="Presente VIP: você recebe 100% a mais de ouro ao matar monstros se for VIP. (Esse efeito substitui todos os efeitos que aumentam a quantidade de ouro recebida)." />
-	
-	<String id="8000081" name="Experience Scroll: 100% (15 Dias)" tooltip="Aumenta a experiência obtida ao matar monstros em 100% por 15 dias. O tempo continua a contar mesmo que você não esteja jogando." />
+    <String id="8000081" name="Experience Scroll: 100% (15 Dias)" tooltip="Aumenta a experiência obtida ao matar monstros em 100% por 15 dias. O tempo continua a contar mesmo que você não esteja jogando." />
     <String id="8000082" name="Scroll of Recognition: 100% (15 Dias)" tooltip="Aumenta a reputação e os pontos de valor ganhos em 100% por 15 dias. Não afeta a reputação e os pontos de valor ganhos nas arenas. O tempo continua passando, mesmo que você não esteja jogando no momento." />
     <String id="8000083" name="Scroll of Experience: 100% (15 Dias)" tooltip="Aumenta a experiência obtida ao matar monstros em 100% por 10 dias. O tempo continua correndo, mesmo que você não esteja jogando no momento." />
     <String id="8000084" name="Scroll of the Coin Hunter: 100% (15 Dias)" tooltip="Aumenta em 100% as moedas que você recebe dos monstros durante 10 dias. O tempo continua correndo mesmo que você não esteja jogando no momento." />
@@ -1786,27 +1936,24 @@ Does not stack with effects received via Instance Matching." />
     <String id="8000086" name="Scroll of Recognition: 100% (15 Dias)" tooltip="Aumenta a reputação e os pontos de valor ganhos em 100% por 10 dias. Não afeta a reputação e os pontos de valor ganhos nas arenas. O tempo continua passando, mesmo que você não esteja jogando no momento." />
     <String id="8000087" name="Scroll of Experience: 100% (3 Dias)" tooltip="Aumenta a experiência obtida ao matar monstros em 100% por 3 dias. O tempo continua a contar mesmo que você não esteja jogando." />
     <String id="8000088" name="Scroll of Recognition: 100% (3 Dias)" tooltip="Aumenta a reputação e os pontos de valor ganhos em 100% por 3 dias. Não afeta a reputação e os pontos de valor ganhos nas arenas. O tempo continua correndo, mesmo que você não esteja jogando no momento." />
- 
     <String id="8000089" name="Additional Dungeon Support: +100% XP (VIP)" tooltip="Presente VIP: você ganha 100% a mais de EXP ao matar monstros se for um VIP. (Esse efeito substitui todos os efeitos que aumentam a quantidade de experiência obtida)." />
+    <String id="8000090" name="100% Reputation Boost (VIP)" tooltip="While VIP Pack is in use, increases your reputation and credits gained by 100%. Does not apply to battleground reputation or credits." />
     <String id="8000091" name="Additional Dungeon Support: Gold +100% (VIP)" tooltip="Presente VIP: você recebe 100% a mais de ouro ao matar monstros se for um VIP. (Esse efeito substitui todos os efeitos que aumentam a quantidade de ouro recebida)." />
-    
-	<String id="8000092" name="Experience rate: +50%" tooltip="Aplica-se a taxa de experiência, durante a qual você receberá um adicional de 50% ao matar monstros." />
+    <String id="8000092" name="Experience rate: +50%" tooltip="Aplica-se a taxa de experiência, durante a qual você receberá um adicional de 50% ao matar monstros." />
     <String id="8000093" name="Reputation and Prowess Rate: +50%" tooltip="Afeta a reputação e a taxa de proeza, durante a qual você receberá um adicional de 50% ao matar monstros." />
     <String id="8000094" name="Gold Rate (Quests): +50%" tooltip="Aplica-se a taxa de ouro, durante a qual você receberá um adicional de 50% ao concluir as missões." />
-    <String id="8000102" name="Gold Rate (Hunting): +50%" tooltip="A taxa de ouro está ativa, durante a qual você receberá um adicional de 50% ao caçar monstros." />
-    
     <String id="8000095" name="Experience rate: +100%" tooltip="Aplica-se a taxa de experiência, durante a qual você receberá um adicional de 100% ao matar monstros." />
     <String id="8000096" name="Reputation and Prowess Rate: +100%" tooltip="Afeta a reputação e a taxa de proeza, durante a qual você receberá um adicional de 100% ao matar monstros." />
     <String id="8000097" name="Gold Rate (Quests): +100%" tooltip="Há uma taxa de ouro que lhe dará um adicional de 100% ao concluir as missões." />
-    <String id="8000103" name="Gold Rate (Hunting): +100%" tooltip="A taxa de ouro está ativa, durante a qual você receberá um adicional de 100% ao caçar monstros." />
-    
     <String id="8000098" name="Experience rate: +200%" tooltip="Aplica-se a taxa de experiência, durante a qual você receberá um adicional de 200% ao matar monstros." />
     <String id="8000099" name="Reputation and Prowess Rate: +200%" tooltip="Afeta a reputação e a taxa de proeza, durante a qual você receberá um adicional de 200% ao matar monstros." />
     <String id="8000100" name="Gold Rate (Quests): +200%" tooltip="Aplica-se a taxa de ouro, durante a qual você receberá um adicional de 200% ao concluir as missões." />
+    <String id="8000101" name="Extra Gold (Hunting): 100% (VIP)" tooltip="Presente VIP: você recebe 100% a mais de ouro ao matar monstros se for VIP. (Esse efeito substitui todos os efeitos que aumentam a quantidade de ouro recebida)." />
+    <String id="8000102" name="Gold Rate (Hunting): +50%" tooltip="A taxa de ouro está ativa, durante a qual você receberá um adicional de 50% ao caçar monstros." />
+    <String id="8000103" name="Gold Rate (Hunting): +100%" tooltip="A taxa de ouro está ativa, durante a qual você receberá um adicional de 100% ao caçar monstros." />
     <String id="8000104" name="Gold Rate (Hunting): +200%" tooltip="A taxa de ouro está ativa, durante a qual você receberá um adicional de 200% ao caçar monstros." />
-
-    <String id="8000105" name="Kaya's Special Devotion (VIP)" tooltip="Aumenta o dano da habilidade em $H_W_GOOD$value2$COLOR_END e reduz o dano recebido em $H_W_GOOD$value3$COLOR_END. Aumenta a velocidade de ataque em $H_W_GOOD$value$COLOR_END." />    
-	<String id="9100020" name="" tooltip="" />
+    <String id="8000105" name="Kaya's Special Devotion (VIP)" tooltip="Aumenta o dano da habilidade em $H_W_GOOD$value2$COLOR_END e reduz o dano recebido em $H_W_GOOD$value3$COLOR_END. Aumenta a velocidade de ataque em $H_W_GOOD$value$COLOR_END." />
+    <String id="9100020" name="" tooltip="" />
     <String id="9100080" name="" tooltip="" />
     <String id="9100100" name="" tooltip="" />
     <String id="9100110" name="" tooltip="" />
@@ -1860,6 +2007,8 @@ Does not stack with effects received via Instance Matching." />
     <String id="10151032" name="Shadowy Cables" tooltip="Enredado por cabos sombrios que causam 3.454 de dano a cada 2 segundos. O alvo enredado pode ser forçado a trocar de posição com o lançador dessa habilidade a qualquer momento." />
     <String id="10151033" name="Entrapped" tooltip="Temporariamente atordoado." />
     <String id="10151040" name="Shadow Lash Cooldown Resetting Device" tooltip="Se você vir esse bônus, informe-o como um bug!" />
+    <String id="10151041" />
+    <String id="10151042" />
     <String id="10151050" name="Pendulum Struck" tooltip="Imobilizado temporariamente por um Pendulum Strike." />
     <String id="10151060" name="Cabled" tooltip="Atordoado pelo cabo do ceifador." />
     <String id="10151070" name="Spirit Gallows" tooltip="Levitado por Spirit Gallows. Todo o dano é ignorado enquanto estiver suspenso no ar, mas nenhuma ação pode ser executada." />
@@ -1958,8 +2107,7 @@ Does not stack with effects received via Instance Matching." />
     <String id="10152277" name="" tooltip="" />
     <String id="10152278" name="" tooltip="" />
     <String id="10152279" name="" tooltip="" />
-	
-	<String id="16300006" name="Physical Change: Chest" tooltip="Esse efeito só está disponível com os Maiôs de 2013.$BREmpilha até 3 vezes. (Mínimo -3 ~ Máximo +3)" />
+    <String id="16300006" name="Physical Change: Chest" tooltip="Esse efeito só está disponível com os Maiôs de 2013.$BREmpilha até 3 vezes. (Mínimo -3 ~ Máximo +3)" />
     <String id="16300007" name="Physical Change: Height" tooltip="Pode ser acumulado até 3 vezes. (Mínimo -3 ~ Máximo+3)" />
     <String id="16300008" name="Shape Change: Legs" tooltip="Suas coxas aumentaram de tamanho! $BRPode ser acumulado até 3 vezes. (Mínimo -3 ~ Máximo+3)" />
     <String id="16300009" name="Happy Ride (HP, MP)" tooltip="Seu MP e HP se regenerarão gradualmente enquanto estiver pilotando." />
@@ -1968,7 +2116,7 @@ Does not stack with effects received via Instance Matching." />
     <String id="16300012" name="Wandering Muse (HP, MP, Vigor)" tooltip="Enquanto estiver cavalgando, seu MP, HP e Vigor se regenerarão gradualmente." />
     <String id="16300013" name="Lion's Courage" tooltip="Aumenta o dano da habilidade em $H_W_GOOD$value2$COLOR_END e reduz o dano recebido em $H_W_GOOD$value3$COLOR_END. Aumenta a velocidade de ataque em $H_W_GOOD$value$ COLOR_END." />
     <String id="16300015" name="Potion of Destruction" tooltip="Aumenta o dano da habilidade em $H_W_GOOD$value$COLOR_END." />
-
+    <String id="16300017" name="VIP-удача!" tooltip="Специальный бонус для игроков с VIP-статусом. Вероятность выпадения добычи увеличивается до $H_W_GOOD100%$COLOR_END, когда у всех участников группы или рейда активен VIP-статус." />
     <String id="44300001" name="Invincible" tooltip="Invencível a danos." />
     <String id="44300002" name="Tulgey Fog" tooltip="A velocidade de movimento aumenta significativamente na névoa negra." />
     <String id="44300003" name="Whet Appetite" tooltip="Aumenta o poder dos monstros em $H_W_GOOD$value$COLOR_END." />
@@ -2377,6 +2525,9 @@ Does not stack with effects received via Instance Matching." />
     <String id="60950511" />
     <String id="60950512" />
     <String id="60950513" name="Fear Bomb" tooltip="Fuja com medo! Para monstros, o efeito do medo termina se for derrubado. No PvP, o efeito do medo termina quando atacado." />
+    <String id="71600004" name="Darkan's Flame" tooltip="Decreases HP by $H_W_BAD10%$COLOR_END of maximum every $H_W_BAD$tickInterval$COLOR_END." />
+    <String id="71600010" name="Scorched Scar" tooltip="Decreases HP by $H_W_BAD5%$COLOR_END of maximum every $H_W_BAD$tickInterval$COLOR_END." />
+    <String id="71600020" />
     <String id="74300002" name="Tulgey Fog" tooltip="A velocidade de movimento aumenta significativamente na neblina." />
     <String id="74300003" name="Whet Appetite" tooltip="Aumento dPoder em $H_W_GOOD$value$COLOR_END." />
     <String id="74300012" name="Puzzle Order: Red" tooltip="Acerte a peça vermelha do quebra-cabeça na ordem indicada pelos números no ícone ou sofrerá uma morte iminente." />
@@ -2400,6 +2551,14 @@ Does not stack with effects received via Instance Matching." />
     <String id="76600002" name="Pirate Haste" tooltip="Aumenta a velocidade de ataque." />
     <String id="76600003" name="Pirate Frenzy" tooltip="Aumenta a taxa crítica." />
     <String id="76600004" name="Pirate Malice" tooltip="Aumenta o dano crítico." />
+    <String id="76600018" name="Piratical Bent" tooltip="Increases Endurance and Power by $H_W_GOOD$10%$COLOR_END. The effect stacks up to 10 times." />
+    <String id="76600019" name="Pirate's Toughness" tooltip="Can be removed by Regression or Plague of Exhaustion." />
+    <String id="76600020" name="Completely Invisible" tooltip="No debuff tooltip display (isShow=False). If this tooltip displays, BTS is required!" />
+    <String id="76600021" name="Pirate's Fury" tooltip="Increases Power by $H_W_GOOD$value$COLOR_END." />
+    <String id="76600022" name="Pirate's Stamina" tooltip="Increases Endurance by $H_W_GOOD$value$COLOR_END." />
+    <String id="76600023" name="Pirate's Speed" tooltip="Increases attack speed by  $H_W_BAD$value$COLOR_END per overlapping hit." />
+    <String id="76600024" name="Pirate's Healing" tooltip="Heals $H_W_GOODvalue%$COLOR_END of total HP every $H_W_GOOD$tickInterval$COLOR_END." />
+    <String id="76600025" />
     <String id="77600001" name="Pirate Strength" tooltip="Aumenta Poder." />
     <String id="77600002" name="Pirate Haste" tooltip="Aumenta a velocidade de ataque." />
     <String id="77600003" name="Pirate Frenzy" tooltip="Aumenta a taxa crítica." />
@@ -2498,6 +2657,7 @@ Does not stack with effects received via Instance Matching." />
     <String id="77703445" />
     <String id="77703446" name="Abomination Tentacle Prison_Basic Abnormal Status" tooltip="Nenhuma dica de ferramenta de debuff é exibida (isShow=False). Se essa dica de ferramenta for exibida, o BTS será necessário!" />
     <String id="77703447" name="Abomination Shield Tentacles_Basic Abnormal Status" tooltip="Nenhuma dica de ferramenta de debuff é exibida (isShow=False). Se essa dica de ferramenta for exibida, o BTS será necessário!" />
+    <String id="80401500" name="Kelsaik's Armor of Doom" tooltip="Absorbs up to $H_W_GOOD$value$COLOR_END damage." />
     <String id="80900001" name="Gutripped" tooltip="A resistência e a velocidade de movimento são reduzidas em $H_W_BAD$value2$COLOR_END quando o gutripped é atingido. Não pode ser removido." />
     <String id="80900002" name="Cacophonous Slash" tooltip="Defina seus rostos como atordoados. O corte cacofônico pode ser removido." />
     <String id="80900003" name="A" />
@@ -2526,6 +2686,8 @@ Does not stack with effects received via Instance Matching." />
     <String id="81300020" name="Contaminated Dust" tooltip="Aumenta o poder de ataque em $H_W_GOOD30%$COLOR_END." />
     <String id="81300021" name="Skin Scraped on a Rock" tooltip="Diminui $H_W_BAD1,5%$COLOR_END do HP máximo a cada $H_W_BAD$tickInterval$COLOR_END." />
     <String id="81300022" name="Banyakas’s Protection" tooltip="O Banyakas está em modo de autodefesa; ele é imune a todos os tipos de dano." />
+    <String id="81300023" name="Fairie Fire of Banyakas" tooltip="" />
+    <String id="81300024" name="Fairie Fire of Banyakas" tooltip="" />
     <String id="90048060" name="Stun" tooltip="Atordoado. Não pode se mover." />
     <String id="90991001" name="Test" tooltip="Teste" />
     <String id="90991002" name="Test" tooltip="Teste" />
@@ -2571,6 +2733,10 @@ Does not stack with effects received via Instance Matching." />
     <String id="91600032" name="Putrion's Protection" tooltip="A defesa aumenta imensamente." />
     <String id="91600033" name="Lethargy" tooltip="Diminui a velocidade de ataque em $H_W_BAD$value$COLOR_END." />
     <String id="91600034" name="Lethargy" tooltip="Diminui a velocidade de ataque em $H_W_BAD$value$COLOR_END." />
+    <String id="91600035" name="Clean Up!" tooltip="Defeated all demokrons and archdevas before Putrion arrived. Good job!" />
+    <String id="91600036" />
+    <String id="91600037" />
+    <String id="91600038" name="Aeonalis Pylon recovered" tooltip="Abnormality for HP replenishment of Aeonalis Pylon" />
     <String id="97500100" name="Doomfire" tooltip="Perde $H_W_BAD7%$COLOR_END do total de HP a cada $H_W_BAD$tickInterval$COLOR_END. O alvo morre quando o efeito termina.$BRDoomfire só pode ser removido com Doomchill." />
     <String id="97500250" name="Strong Sealing" tooltip="Enquanto estiver em vigor, 100% de resistência a todos os efeitos nocivos com armadura mágica. Imune a knockdown e imobilização." />
     <String id="97500400" name="Seal of Revenge" tooltip="Você perde $H_W_BAD20%$COLOR_END do seu HP total a cada $H_W_BAD$tickInterval2$COLOR_END, e seu dano corpo a corpo diminui em $H_W_BAD$value$COLOR_END.$BRSeal of revenge não pode ser removido." />
@@ -2598,6 +2764,7 @@ Does not stack with effects received via Instance Matching." />
     <String id="97504000" name="For Nest of Kelsaik_Only_ Invincibility Around Boss_Aura" tooltip="Concede escudo invencível a aliados em um raio de 10 m" />
     <String id="97504200" name="Wrath of Kelsaik" tooltip="Aumenta Poder em $H_W_GOOD50%$COLOR_END e a velocidade de ataque em $H_W_GOOD30%$COLOR_END. Não pode ser removido." />
     <String id="97504300" name="Provocation of Kelsaik" tooltip="Aumenta Poder e a velocidade de ataque em $H_W_GOOD$value$COLOR_END. O alvo morre quando o efeito termina." />
+    <String id="97900001" name="Fading from Fatigue" tooltip="Decreases Endurance by $H_W_BAD$value$COLOR_END." />
     <String id="98000000" name="Banana destruction check" tooltip="Teste" />
     <String id="98000001" name="herb destruction check" tooltip="Teste" />
     <String id="98000002" name="corpse destruction check" tooltip="Teste" />
@@ -2622,12 +2789,9 @@ Does not stack with effects received via Instance Matching." />
     <String id="98000022" name="fake monkey death check" tooltip="Teste" />
     <String id="98000023" name="Cannot be healed." tooltip="A Fome de Ardentmaw impede a cura." />
     <String id="98000024" name="User existence check" tooltip="Teste" />
+    <String id="98000025" name="Freefall" tooltip="You do not receive any damage from falling." />
     <String id="98000030" name="Partial Invisibility" tooltip="Teste" />
     <String id="98000031" name="deleting aggro" tooltip="Teste" />
-    <String id="98000032" name="Elimination of aggression II" tooltip="Teste" />
-    <String id="98000033" name="Elimination of aggression III" tooltip="Teste" />
-    <String id="98000034" name="Elimination of aggression IV" tooltip="Teste" />
-    <String id="98000035" name="Elimination of aggression V" tooltip="Teste" />
     <String id="98000039" name="Nature's Touch" tooltip="Teste" />
     <String id="98000040" name="Nature's Warmness" tooltip="Teste" />
     <String id="98000041" name="Forest Surge" tooltip="A energia da natureza aumenta sua força. Poder aumenta em $H_W_GOOD$value$COLOR_END. Acumula até 5 vezes." />
@@ -2664,6 +2828,64 @@ Does not stack with effects received via Instance Matching." />
     <String id="98000099" name="Blown Over" tooltip="Teste" />
     <String id="98000100" name="Potion of Blessing" tooltip="Aumenta Poder em 25, a resistência em 11, a resistência em 5 e proporciona cura constante." />
     <String id="98000101" name="Potion of Verve" tooltip="Dobra a taxa de críticos, restaura 20 MP por segundo e aumenta a resistência do Thrall of Protection em 10%." />
+    <String id="98000102" name="Perfect Attendance" tooltip="Increases Power by 6%. Increases HP by 5%. Increased out-of-combat Movement Speed by 20." />
+    <String id="98000103" name="Chain of Protection III" tooltip="Attacks draw $H_W_GOOD$value4$COLOR_END more aggro. Increases Attack Speed by $H_W_GOOD$value$COLOR_END. Reduces damage taken by $H_W_GOOD$value2$COLOR_END. Decreases the chance of being knocked down or staggered by $H_W_GOOD$value3$COLOR_END." />
+    <String id="98000104" name="Chain of Attack III" tooltip="Increases skill damage by $H_W_GOOD$value2$COLOR_END. Reduces damage taken by $H_W_GOOD$value3$COLOR_END. Increases Attack Speed by $H_W_GOOD$value$COLOR_END." />
+    <String id="98000105" name="Chain of Recovery III" tooltip="Increases skill damage by $H_W_GOOD$value2$COLOR_END.Reduces damage taken by $H_W_GOOD$value3$COLOR_END. Increases Attack Speed by $H_W_GOOD$value$COLOR_END." />
+    <String id="98850001" name="Blessing of Abundance ?" tooltip="Increases reward rate by 0%." />
+    <String id="98850002" name="Blessing of Abundance I" tooltip="Increases reward rate by 25%." />
+    <String id="98850003" name="Blessing of Abundance II" tooltip="Increases reward rate by 50%." />
+    <String id="98850004" name="Blessing of Abundance III" tooltip="Increases reward rate by 75%." />
+    <String id="98850005" name="Blessing of Abundance IV" tooltip="Increases reward rate by 100%." />
+    <String id="98850006" name="Agnization" tooltip="Greatly increases Attack Speed and damage dealt by enemies. " />
+    <String id="98850010" />
+    <String id="98850011" name="Attack Speed Increase(10%)" tooltip="Increases damage dealt by $H_W_GOOD12%$COLOR_END whenever stacked. This effect cannot be canceled." />
+    <String id="98850012" name="Attack Speed Increase(20%)" tooltip="Increases damage dealt by $H_W_GOOD12%$COLOR_END whenever stacked. This effect cannot be canceled." />
+    <String id="98850013" name="Attack Speed Increase(30%)" tooltip="Increases damage dealt by $H_W_GOOD12%$COLOR_END whenever stacked. This effect cannot be canceled." />
+    <String id="98850014" name="Attack Speed Increase(40%)" tooltip="Increases damage dealt by $H_W_GOOD12%$COLOR_END whenever stacked. This effect cannot be canceled." />
+    <String id="98850015" name="Attack Speed Increase(50%)" tooltip="Increases damage dealt by $H_W_GOOD12%$COLOR_END whenever stacked. This effect cannot be canceled." />
+    <String id="98850016" name="Attack Speed Increase(60%)" tooltip="Increases damage dealt by $H_W_GOOD12%$COLOR_END whenever stacked. This effect cannot be canceled." />
+    <String id="98850017" name="Attack Speed Increase(70%)" tooltip="Increases damage dealt by $H_W_GOOD12%$COLOR_END whenever stacked. This effect cannot be canceled." />
+    <String id="98850018" name="Attack Speed Increase(80%)" tooltip="Increases damage dealt by $H_W_GOOD12%$COLOR_END whenever stacked. This effect cannot be canceled." />
+    <String id="98850019" name="Attack Speed Increase(90%)" tooltip="Increases damage dealt by $H_W_GOOD12%$COLOR_END whenever stacked. This effect cannot be canceled." />
+    <String id="98850020" name="Attack Speed Increase(100%)" tooltip="Increases damage dealt by $H_W_GOOD12%$COLOR_END whenever stacked. This effect cannot be canceled." />
+    <String id="98850021" name="Blessing of Abundance V" tooltip="Increases reward rate by 100%." />
+    <String id="98850022" />
+    <String id="98850023" name="Doomfire" tooltip="Reduces HP by $H_W_BAD3%$COLOR_END of maximum every $H_W_BAD$tickInterval$COLOR_END. Kills target when effect ends.$BRDoomfire can be removed only with Doomchill. It can be stacked up to 3 times." />
+    <String id="98850024" name="Doomchill" tooltip="Reduces HP by $H_W_BAD3%$COLOR_END of maximum every $H_W_BAD$tickInterval$COLOR_END. Kills target when effect ends.$BRDoomchill can be removed only with Doomfire. It can be stacked up to 3 times." />
+    <String id="98850025" name="Stun" tooltip="You are stunned and immobilized." />
+    <String id="98850026" name="Deathly Barrier" tooltip="Decreases HP recovery by 50%.$BRDeathly Barrier cannot be canceled. " />
+    <String id="98850027" name="Armor of Doom" tooltip="Absorbs up to $H_W_GOOD$value$COLOR_END damage. If you can't destroy it in time by applying more damage than it absorbs, all PCs will die and Kelsaik will be rampant! " />
+    <String id="98850028" />
+    <String id="98850029" name="Rampage" tooltip="Kelsaik is rampant! No one can stop him now." />
+    <String id="98850030" name="Invincibility" tooltip="Untouchable." />
+    <String id="98850031" name="Endurance Increase" tooltip="Renews every time 1 stack occurs" />
+    <String id="98850032" name="Strength Increase" tooltip="Renews every time 1 stack occurs" />
+    <String id="98850033" name="Empower Increase" tooltip="Renews every time 1 stack occurs" />
+    <String id="98850034" name="Bounty Increase" tooltip="Renews every time 1 stack occurs" />
+    <String id="98850035" name="Coloration" tooltip="For color!" />
+    <String id="98850036" name="Invincibility" tooltip="Untouchable." />
+    <String id="98850037" name="Doom" tooltip="You die when effect ends. This effect cannot be removed." />
+    <String id="98850038" name="Panic" tooltip="Flee in terror! Panic cannot be removed. Ends if target is knocked down." />
+    <String id="98850039" name="Silence" tooltip="Cannot trigger any new skills. Effect cannot be removed" />
+    <String id="98850040" name="Rage of Skulregnath" tooltip="Greatly increases Attack and Attack Speed." />
+    <String id="98850041" name="Cellular Explosion [Transmittable]" tooltip="Reduces HP by $H_W_BAD15%$COLOR_END of maximum every $H_W_BAD$tickInterval$COLOR_END. When effect ends, an additional $H_W_BAD$value2$COLOR_END HP is lost.$BRCellular Explosion [Transmittable] can spread HP reduction to other players." />
+    <String id="98850042" name="Recovery" tooltip="Recovers $H_W_GOOD3%$COLOR_END of maximum HP every $H_W_GOOD$tickInterval$COLOR_END." />
+    <String id="98850050" name="Magnetic South" tooltip="Magnetized. Able to attract all surrounding manaathols to you.$BRMagnetic South cannot be canceled." />
+    <String id="98850051" name="Magnetic North" tooltip="Magnetized. Able to attract all surrounding manaathols to you.$BRMagnetic North cannot be canceled." />
+    <String id="98850052" name="Positive" tooltip="Positively charged." />
+    <String id="98850053" name="Negative" tooltip="Negatively charged. " />
+    <String id="98850054" name="Venom" tooltip="Reduces HP by $H_W_BAD5%$COLOR_END of maximum every $H_W_BAD$tickInterval$COLOR_END. " />
+    <String id="98850055" name="Sleep" tooltip="Sleep comfortably. Ends immediately when hit." />
+    <String id="98850056" name="Chaos" tooltip="Your movement keys are reversed." />
+    <String id="98850057" name="Thulsa's Venom" tooltip="Reduces HP by $H_W_BAD5%$COLOR_END of maximum every $H_W_BAD$tickInterval$COLOR_END." />
+    <String id="98850058" name="Time to Choose" tooltip="You have 5 seconds to choose your reward." />
+    <String id="98850091" name="Greedy Thoughts" tooltip="Greedy thoughts are surging through you. Change this effect to Hateful Thoughts before the effect expires." />
+    <String id="98850092" name="Hateful Thoughts" tooltip="You are suddenly overwhelmed by alien anger. Change this effect to Desperate Thoughts before the effect expires." />
+    <String id="98850093" name="Desperate Thoughts" tooltip="You are falling into an endless pit of despair. Change this effect to Greedy Thought within 90 seconds." />
+    <String id="98850094" name="Greedy Thoughts" tooltip="Greedy thoughts are surging through you. Change this effect to Hateful Thoughts before the effect expires." />
+    <String id="98850095" name="Hateful Thoughts" tooltip="You are suddenly overwhelmed by alien anger. Change this effect to Desperate Thoughts before the effect expires." />
+    <String id="98850096" name="Desperate Thoughts" tooltip="You are falling into an endless pit of despair. Change this effect to Greedy Thoughts within 90 seconds." />
     <String id="99000000" name="Stun" tooltip="Atordoado. Não pode se mover." />
     <String id="99000010" name="Stun" tooltip="Atordoado. Não pode se mover." />
     <String id="99000020" name="Stun" tooltip="Atordoado. Não pode se mover." />
@@ -2988,6 +3210,8 @@ Does not stack with effects received via Instance Matching." />
     <String id="99070031" name="Fiery Rage" tooltip="Enfurecido! A fúria furiosa supera todo o controle!" />
     <String id="99070032" name="Fiery Rage" tooltip="Enfurecido! A fúria furiosa supera todo o controle!" />
     <String id="99070033" name="Sugar Rush" tooltip="Um kumas com doce de pedra é invencível!" />
+    <String id="99070034" name="Feather Fall" tooltip="Your body is light as a feather for 1 minute. You do not receive any damage from falling." />
+    <String id="99070035" name="Heavenly Feather - if you see this icon, it's a bug" tooltip="Your body is light as a feather. You do not receive any damage from falling." />
     <String id="990070311" name="Warm Sanctuary Blessing" tooltip="O HP é recuperado por 3 minutos. A Sanctuaty Blessing não acumula." />
     <String id="990070312" name="Bountiful Sanctuary Blessing" tooltip="O MP é recuperado por 3 minutos. A Sanctuaty Blessing não acumula." />
     <String id="990070313" name="Relentless Sanctuary Blessing" tooltip="Sua resistência não diminui por 3 minutos. A Sanctuaty Blessing não acumula." />
@@ -3006,8 +3230,6 @@ Does not stack with effects received via Instance Matching." />
     <String id="999001012" name="BTS 13" tooltip="BTS 13" />
     <String id="999001013" name="BTS 14" tooltip="BTS 14" />
     <String id="999001014" name="BTS 15" tooltip="BTS 15" />
-    <String id="999001015" name="BTS 16" tooltip="BTS 16" />
-    <String id="999001016" name="BTS 17" tooltip="BTS 17" />
     <String id="999001017" name="BTS 18" tooltip="BTS 18" />
     <String id="999001018" name="Joy of Partying" tooltip="Quanto mais membros do grupo você tiver, mais itens receberá. O aumento atual da recompensa é de 0%." />
     <String id="999001019" name="Joy of Partying" tooltip="Quanto mais membros do grupo você tiver, mais itens receberá. O aumento atual da recompensa é de 20%." />
@@ -3039,11 +3261,34 @@ Does not stack with effects received via Instance Matching." />
     <String id="999009301" />
     <String id="999009400" name="Fugitive Soldier" tooltip="Você fugiu do campo de batalha. Um soldado fugitivo não pode participar do campo de batalha durante a próxima 1 hora." />
     <String id="999009500" name="Dot damage attack" tooltip="Diminui 10% do HP máximo dos oponentes a cada 5 segundos." />
+    <String id="999009501" name="Fiery rage" tooltip="O chefe fica furioso. Cada instância do efeito aumenta o poder de ataque do chefe em $H_W_GOOD$value$COLOR_END e a velocidade de ataque em $H_W_GOOD$value2$COLOR_END." />
+    <String id="999009502" name="The Heat of the Forge" tooltip="Faz com que você perca $H_W_BAD$value$COLOR_END do nível máximo de HP a cada $H_W_GOOD$tickInterval$COLOR_END, o efeito não pode ser removido." />
+    <String id="999009503" name="Clouding of the mind" tooltip="As teclas de movimento estão bagunçadas." />
+    <String id="999009504" name="The benefit of the discoverer" tooltip="A EXP obtida durante a caçada aumenta em $H_W_GOOD$value$COLOR_END." />
     <String id="999009600" name="Stun Attack" tooltip="Atordoa o oponente a cada 15 segundos." />
-	<String id="5020006" name="Darkan's Wings" tooltip="Aumenta a taxa de críticos em $H_W_GOOD$value$COLOR_END e a velocidade de ataque em $H_W_GOOD$value2$COLOR_END." />
-	<String id="999009501" name="Fiery rage" tooltip="O chefe fica furioso. Cada instância do efeito aumenta o poder de ataque do chefe em $H_W_GOOD$value$COLOR_END e a velocidade de ataque em $H_W_GOOD$value2$COLOR_END." />
-	<String id="999009502" name="The Heat of the Forge" tooltip="Faz com que você perca $H_W_BAD$value$COLOR_END do nível máximo de HP a cada $H_W_GOOD$tickInterval$COLOR_END, o efeito não pode ser removido." />
-	<String id="999009503" name="Clouding of the mind" tooltip="As teclas de movimento estão bagunçadas." />
-	<String id="999009504" name="The benefit of the discoverer" tooltip="A EXP obtida durante a caçada aumenta em $H_W_GOOD$value$COLOR_END." />
-    <String id="98000075" name="Não pode ser curado." tooltip="Não pode ser curado por um tempo." />
+    <String id="999009700" name="Unseen Power" tooltip="Invisible to enemies. Power increases by $H_W_GOOD$value$COLOR_END." />
+    <String id="999009710" name="HP Replenishment" tooltip="Replenishes HP by 10,000." />
+    <String id="999009720" name="Cooldown Decreases" tooltip="Decreases cooldown by $H_W_GOOD70%$COLOR_END." />
+    <String id="999009730" name="Movement Speed Increases" tooltip="Movement speed increases to $H_W_GOOD$value$COLOR_END." />
+    <String id="999009740" name="MP Replenishment" tooltip="Replenishes MP." />
+    <String id="999009750" name="You Da Bomb" tooltip="Became a suicide soldier. Right-click to explode and inflict damage to everyone around you." />
+    <String id="999009751" name="Set Us Up Da Bomb" tooltip="You are on the way to destruction." />
+    <String id="999009752" />
+    <String id="999009760" />
+    <String id="999009770" />
+    <String id="999009780" />
+    <String id="999009781" />
+    <String id="999009790" name="Stagger Immunity" tooltip="Immune to stagger." />
+    <String id="999009800" name="Awesome Might" tooltip="Couldn't fully digest the awesome might and became big." />
+    <String id="999009810" name="Pollutant" tooltip="You are contaminated with industrial waste, as is anyone who gets too close to you. " />
+    <String id="999009820" name="Shield" tooltip="Protects you with a damage-absorbing barrier, and increases Power by $H_W_GOOD$value$COLOR_END." />
+    <String id="999009821" name="Miraculous Curse" tooltip="The magic of the castle has struck you from within: now you cannot use positive effects, and healing skills restore less HP." />
+    <String id="999009822" name="Flame Mark" tooltip="Subtracts $H_W_BAD8%$COLOR_END from maximum HP every $H_W_BAD$tickInterval$COLOR_END. Allows you to avoid Darkan's wrath." />
+    <String id="999009823" name="Mark of Nightmare" tooltip="Increases attack speed by $H_W_GOOD$value$COLOR_END" />
+    <String id="999009824" name="Open Wounds" tooltip="-$H_W_BAD$value$COLOR_END to stamina." />
+    <String id="999009825" name="Mark of Nightmare" tooltip="Increases attack speed by $H_W_GOOD$value$COLOR_END" />
+    <String id="999009826" name="Vengeance" tooltip="+3% damage to monsters, +$H_W_GOOD5%$COLOR_END to skill recharge speed." />
+    <String id="999009827" name="Smith's Hammer Slash: Vulnerability" tooltip="You have been marked by the God of War: Critical Resistance reduced by 10." />
+    <String id="999009828" name="Smith's Hammer Slash: Shatter" tooltip="The Mark of the God shatters your armor. Reduces Stamina by $H_W_BAD$value$COLOR_END." />
+    <String id="999009830" name="Mark of Nightmare" tooltip="Increases attack speed by $H_W_GOOD$value$COLOR_END and strength by $H_W_GOOD$value2$COLOR_END" />
 </StrSheet_Abnormality>

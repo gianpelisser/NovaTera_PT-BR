@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="191" id="10" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="191" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="191" id="100" prevId="0" villagerId="2140">
          
+         
         <Page social="0">Quando Rhodos e &lt;PCNAME&gt; confrontaram Dakuryon, ele convocou Zolyn, agora um demokron, para protegê-lo. Paesyn tentou dissuadi-la, mas a magia do arquidevano se mostrou muito forte e ela matou Paesyn. &lt;PCNAME&gt; lutou contra Zolyn enquanto Rhodos atacava Dakuryon. &lt;PCNAME&gt; acabou com a existência sombria de Zolyn enquanto Dakuryon escapava.</Page>
+    
     
     </Text>
     <Text huntingZoneId="191" id="2" prevId="0" villagerId="2140">
          
+         
         <Page social="4">Você ouviu isso? Alguém está lutando! &lt;BR&gt;&lt;BR&gt;Segure-se, Zolyn! Nós o salvaremos!</Page>
+    
     
     </Text>
     <Text huntingZoneId="821" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="4">Que tragédia sem sentido.&lt;BR&gt;&lt;BR&gt;Eu lamento por seus amiguinhos, &lt;PCNAME&gt;. Dakuryon pagará por suas mortes.&lt;BR&gt;&lt;BR&gt;Fugir, seu covarde! Nós nunca deixaremos de procurá-lo!</Page>
+    
     
     </Text>
 </QuestDialog>

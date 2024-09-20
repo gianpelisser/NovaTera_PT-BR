@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="63" id="25" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="63" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="63" id="100" prevId="0" villagerId="3005">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="2" prevId="0" villagerId="3005">
          
+         
         <Page social="5">Está procurando uma coroa? Desculpe, mas não as faço mais. O cabelo macio dos fey é muito difícil de encontrar, e as pessoas estavam ficando agressivas demais com os fey para obtê-lo.&lt;BR&gt;&lt;BR&gt;A menos que você tenha algum herdado de um tio rico ou algo assim, não há coroa para você.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="3005">
          
+         
         <Page social="5">Ok, não vou perguntar como você conseguiu isso - apenas... não me traga mais, ok? &lt;BR&gt;&lt;BR&gt;Agora, que cor você quer?</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="4" villagerId="3005">
          
+         
         <Page social="0">Deixe esses pobres feudos em paz, está bem? Você não precisa tanto assim de uma coroa.</Page>
+    
     
     </Text>
 </QuestDialog>

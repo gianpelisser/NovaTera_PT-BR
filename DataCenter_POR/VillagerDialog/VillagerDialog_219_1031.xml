@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="219" id="1031" voiceTypeId="91">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1031" huntingZoneId="219" voiceTypeId="91">
     <Text huntingZoneId="219" id="1" endSocial="5" prevId="0" villagerId="1031">
          
+         
         <Page social="6" voiceTypeId="0">Something about the grass, or the soil, or something, makes this the perfect place for raising Sona sheep.&lt;BR&gt;&lt;BR&gt;Which means the whole valley stinks. Yay.</Page>
+    
     
     </Text>
 </VillagerDialog>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="7" id="35" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="7" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="207" id="100" prevId="0" villagerId="1010">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="207" id="2" prevId="0" villagerId="1010">
          
+         
         <Page social="5">Precisamos atrasar os Scions of Lok, retardar suas pesquisas enquanto os alcançamos. Como nós, eles estão atrás dos grandes poderes dessa região. Se você roubasse as ferramentas deles, essa tarefa poderia ser impossível.&lt;BR&gt;&lt;BR&gt;Corra pelos remanescentes de Cardovek e pegue suas caixas de ferramentas. Vamos ver quanta pesquisa eles conseguem fazer apenas com suas garras!</Page>
+    
     
     </Text>
     <Text huntingZoneId="207" id="3" prevId="2" villagerId="1010">
          
+         
         <Page social="5">Hah! Um pouco de guerra de guerrilha é exatamente o que os estudiosos pediram.&lt;BR&gt;&lt;BR&gt;Agora, cabe a nós nos organizarmos. Obrigado, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
     <Text huntingZoneId="207" id="4" villagerId="1010">
          
+         
         <Page social="0">Você não pode simplesmente ficar aqui e assistir! Roubem essas caixas de ferramentas antes que os Scions ganhem uma vantagem insuperável!</Page>
+    
     
     </Text>
 </QuestDialog>

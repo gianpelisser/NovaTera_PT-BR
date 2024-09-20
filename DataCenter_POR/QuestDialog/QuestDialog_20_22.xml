@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="20" id="22" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="20" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="220" id="100" prevId="0" villagerId="1008">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="220" id="2" prevId="0" villagerId="1008">
          
+         
         <Page social="4">Ouvi dizer que você está pensando em entrar naquela caverna. Está? Maravilhoso! Para você, quero dizer. Quero dizer, ouvi dizer que é... ótima, mas eu não ficaria animado por mim por você estar entrando. Isso seria burrice.&lt;BR&gt;&lt;BR&gt;Embora...&lt;BR&gt;&lt;BR&gt;Bem, já que você está entrando, seria muito legal se você pudesse pegar alguns &lt;b&gt;esporos de cogumelos da caverna&lt;/b&gt;. Se você os vir, é claro.&lt;BR&gt;&lt;BR&gt;E então, talvez você pudesse, não sei, entregá-los a Ruanal?</Page>
+    
     
     </Text>
     <Text huntingZoneId="220" id="3" prevId="2" villagerId="1028">
          
+         
         <Page social="4">Cogumelos das cavernas? Que maravilha. Estou morrendo de fome! &lt;BR&gt;&lt;BR&gt;Foi o Nadr que mandou isso? Que cara! Ele está cuidando de mim desde que éramos verdes.</Page>
+    
     
     </Text>
     <Text huntingZoneId="220" id="4" villagerId="1028">
          
+         
         <Page social="0">Mmm... cogumelos.</Page>
+    
     
     </Text>
 </QuestDialog>

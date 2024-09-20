@@ -1,19 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="60519001" string="All For One, Am I Right?" />
-    <String id="60519002" string="&quot;I'll talk to her.&quot;" />
-    <String id="60519003" string="" />
-    <String id="60519004" string="" />
-    <String id="60519005" string="Talk to {@LinkCreature:63#3003#Elthienne}." />
-    <String id="60519006" string="&quot;I'll do my best.&quot;" />
-    <String id="60519007" string="Proof of Kill: Juggernauts" />
-    <String id="60519008" string="Thin out {@LinkCreature:9#1400#azarel's juggernauts} in {@Rgn:9002$$Azarel's Labyrinth} and deliver the proof to {@LinkCreature:63#3002#Taratia} in Velika." />
-    <String id="60519009" string="" />
-    <String id="60519010" string="&quot;I hope this helps.&quot;" />
-    <String id="60519011" string="Proof of Kill: Stalkers" />
-    <String id="60519012" string="Hunt {@LinkCreature:9#1410#labyrinthine stalkers} in {@Rgn:9002$$Azarel's Labyrinth} and deliver the proof to {@LinkCreature:63#3002#Taratia} in Velika." />
-    <String id="60519013" string="" />
-    <String id="60519014" string="&quot;I hope this helps.&quot;" />
-    <String id="60519015" string="&quot;Good luck.&quot;" />
-    <String id="60519016" string="Speak to {@LinkCreature:63#3003#Elthienne}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="60517001" string="Happy Hunting" />
+    <String id="60517002" string="&quot;Great, thanks.&quot;" />
+    <String id="60517003" string="" />
+    <String id="60517004" string="" />
+    <String id="60517005" string="" />
+    <String id="60517006" string="Go to {@LinkCreature:63#3003#Elthienne} at the Velika Merchant Guild." />
+    <String id="60517007" string="&quot;You can count on me.&quot;" />
+    <String id="60517008" string="Hunting Proof" />
+    <String id="60517009" string="Hunt {@LinkCreature:4#1011#fangspawns} in {@Rgn:4001#Fyrmount} and deliver proof of their deaths to {@LinkCreature:63#3002#Taratia} in Velika." />
+    <String id="60517010" string="" />
+    <String id="60517011" string="&quot;Thanks.&quot;" />
+    <String id="60517012" string="Hunting Proof" />
+    <String id="60517013" string="Hunt {@LinkCreature:4#1021#sulphurous groknars} in {@Rgn:4001#Fyrmount} and deliver proof of their deaths to {@LinkCreature:63#3002#Taratia} in Velika." />
+    <String id="60517014" string="" />
+    <String id="60517015" string="&quot;Thanks.&quot;" />
+    <String id="60517016" string="Hunting Proof" />
+    <String id="60517017" string="Hunt {@LinkCreature:4#2011#voracious fangspawns} in {@Rgn:4001#Fyrmount} and deliver proof of their deaths to {@LinkCreature:63#3002#Taratia} in Velika." />
+    <String id="60517018" string="" />
+    <String id="60517019" string="&quot;Thanks.&quot;" />
+    <String id="60517020" string="&quot;Thank you.&quot;" />
+    <String id="60517021" string="Speak to {@LinkCreature:63#3003#Elthienne}." />
 </StrSheet_Quest>

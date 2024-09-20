@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="15" id="28" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="15" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="215" id="100" prevId="0" villagerId="1016">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="215" id="2" prevId="0" villagerId="1016">
          
+         
         <Page social="5">Meu mestre era um estrategista experiente. Ele sempre dizia: "Um bom soldado derrota seus inimigos, mas um soldado inteligente derrota seus inimigos e toma suas coisas."&lt;NEXTPAGEBUTTON&gt;"De fato."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Preste atenção, &lt;PCNAME&gt;. Os {@LinkCreature:15#11#cruel jockeys}, os {@LinkCreature:15#12#mutant dwarf fodder} e os {@LinkCreature:15#13#scrappers} ao norte usam os pingentes mais interessantes. Esses símbolos exclusivos da vitória da federação sobre o mal terão um valor inestimável um dia. Está vendo onde quero chegar?</Page>
+    
     
     </Text>
     <Text huntingZoneId="215" id="3" prevId="2" villagerId="1016">
          
+         
         <Page social="5">Oh &lt;PCNAME&gt;, é um grande alívio conhecer um soldado com espírito empreendedor. Obrigado a você.</Page>
+    
     
     </Text>
     <Text huntingZoneId="215" id="4" villagerId="1016">
          
+         
         <Page social="0">&lt;PCNAME&gt;, a história não é escrita apenas em palavras, mas em símbolos. Esses pingentes são os símbolos da minha - nossa - futura riqueza.&lt;BR&gt;&lt;BR&gt;Vá buscá-los.</Page>
+    
     
     </Text>
 </QuestDialog>

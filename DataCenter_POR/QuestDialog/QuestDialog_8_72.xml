@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="8" id="72" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="72" huntingZoneId="8" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="4">Ordens da missão&lt;BR&gt;&lt;BR&gt;Eliminar todos os inimigos na Caverna da Fome e na Caverna da Matança e coletar provas de canibalismo.&lt;BR&gt;&lt;BR&gt;Os canibais prováveis incluem {@LinkCreature:8#3011#gula mutilator}, {@LinkCreature:8#3022#slavering auric imps}, {@LinkCreature:8#3031#gula ravagers}, {@LinkCreature:8#3041#gula overseers}, {@LinkCreature:8#3042#kobold thugs} e {@LinkCreature:8#3051#kobold hirelings}.&lt;BR&gt;&lt;BR&gt;Apresentar-se a Rameria em Castanica quando a missão estiver concluída.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="3" prevId="2" villagerId="0">
          
+         
         <Page social="4">Você recebeu os agradecimentos da federação. Sua guilda é uma inspiração para todos!</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="4" villagerId="0">
          
+         
         <Page social="0">Parece que você ainda não completou sua missão.</Page>
+    
     
     </Text>
 </QuestDialog>

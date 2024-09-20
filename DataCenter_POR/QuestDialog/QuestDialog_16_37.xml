@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="16" id="37" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="16" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="216" id="100" prevId="0" villagerId="1023">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="216" id="2" prevId="0" villagerId="1023">
          
+         
         <Page social="5">Muito bem, fiz a poção de acordo com as especificações da receita.&lt;BR&gt;&lt;BR&gt;Traga-a para {@LinkCreature:216#1010#Sadnica} e espere pelo melhor.&lt;BR&gt;&lt;BR&gt;De um jeito ou de outro, não precisaremos mais nos preocupar com ele.&lt;BR&gt;&lt;BR&gt;Não diga a Alethea que eu disse isso.</Page>
+    
     
     </Text>
     <Text huntingZoneId="216" id="3" prevId="2" villagerId="1023">
          
+         
         <Page social="4">Oh. Oh, meu Deus.&lt;BR&gt;&lt;BR&gt;Bem, você fez o melhor que pôde. Ninguém pode dizer o contrário.&lt;BR&gt;&lt;BR&gt;Dê minhas condolências a Alethea.</Page>
+    
     
     </Text>
     <Text huntingZoneId="216" id="4" prevId="3" villagerId="1005">
          
+         
         <Page social="4">Estou vendo. Então você tentou salvá-lo, mas... Entendo. &lt;BR&gt;&lt;BR&gt;Não posso pedir mais do que o que você fez. Obrigado. &lt;BR&gt;&lt;BR&gt;Posso ter um momento a sós?</Page>
+    
     
     </Text>
 </QuestDialog>

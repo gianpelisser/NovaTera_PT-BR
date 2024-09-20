@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4127001" string="Soothing Safna" />
-    <String id="4127002" string="Astrocorn fungus is curious stuff." />
-    <String id="4127003" string="I hope this makes Safna happy." />
-    <String id="4127004" string="&quot;I'll take care of it.&quot;" />
-    <String id="4127005" string="Gather astrocorn fungus near the watchpost." />
-    <String id="4127006" string="Take the astrocorn fungus to Jeulile at Feral Valley Station." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4123001" string="Some Blood Between Friends" />
+    <String id="4123002" string="We need cullar blood. Don't ask." />
+    <String id="4123003" string="Take a sip, but only if you wish to." />
+    <String id="4123004" string="Cullar Blood" />
+    <String id="4123005" string="Hunt cullars and collect their blood." />
+    <String id="4123006" string="Hunt cullars and bring their blood to {@linkcreature:241#1020$$Hoorik}." />
+    <String id="4123007" string="&quot;My pleasure!&quot;" />
 </StrSheet_Quest>

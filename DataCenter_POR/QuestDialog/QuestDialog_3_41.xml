@@ -1,39 +1,53 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="3" id="41" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="3" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="203" id="100" prevId="0" villagerId="1009">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="203" id="2" prevId="0" villagerId="1009">
          
+         
         <Page social="4">Os basiliscos estão botando ovos. O Vale Bestial já está cheio de monstros, não precisamos de mais.&lt;BR&gt;&lt;BR&gt;Se você pudesse coletar alguns ovos, poderíamos evitar o nascimento dos basiliscos e fazer alguns experimentos. Esses ovos são muito mágicos. Talvez possamos fazer algo útil.</Page>
+    
     
     </Text>
     <Text huntingZoneId="203" id="3" prevId="2" villagerId="1009">
          
+         
         <Page social="4">Nojento, mas ótimo! Dê uma olhada nesses ovos. Eles são um pouco moles e você pode até ver algo se movendo quando olha de perto. Talvez eles eclodam logo! &lt;BR&gt;&lt;BR&gt;Os ovos podem completar o elixir da ressurreição. Vou ter que experimentar uma amostra. Dê-me um minuto.&lt;BR&gt;&lt;BR&gt;(Mistura os ingredientes e faz alguma coisa.)&lt;BR&gt;&lt;BR&gt;Feito! Agora fiz meu primeiro elixir da ressurreição. Eu adoraria lhe dar a honra de tomar esse elixir primeiro, mas é uma pena que você ainda não esteja morto.&lt;BR&gt;&lt;BR&gt;(sorri para os lábios.)&lt;BR&gt;&lt;BR&gt;Bem, você pode ver como funciona se usar isso em uma {@LinkCreature:203#1023#Vítima Infeliz}. Aqui, pegue-o.</Page>
+    
     
     </Text>
     <Text huntingZoneId="203" id="4" villagerId="1009">
          
+         
         <Page social="0">Os ovos provavelmente são encontrados no Nest of the Beast.</Page>
+    
     
     </Text>
     <Text huntingZoneId="203" id="5" prevId="3" villagerId="1023">
          
+         
         <Page social="0">(O musgo cobre parcialmente a forma sem vida. Essa pessoa está morta há muito tempo. Você abre o frasco e despeja o elixir em sua boca).</Page>
+    
     
     </Text>
     <Text huntingZoneId="203" id="6" prevId="5" villagerId="1024">
          
+         
         <Page social="0">Assim que você derrama o reagente sobre o corpo, ele se dissolve no chão! Você pula de surpresa e, quando olha para o chão onde o corpo derreteu, só restam fragmentos de ossos. Talvez o corpo estivesse morto há tempo demais para ser salvo.&lt;BR&gt;&lt;BR&gt;Hmmm... Ou talvez o remédio que Parlan lhe deu... &lt;BR&gt;&lt;BR&gt;Não importa, vamos voltar e relatar o que aconteceu.</Page>
+    
     
     </Text>
     <Text huntingZoneId="203" id="7" prevId="6" villagerId="1009">
          
+         
         <Page social="4">Bem, seria inédito se o elixir funcionasse logo na primeira vez. Foi um teste e aprenderei com ele.&lt;BR&gt;&lt;BR&gt;Talvez possamos salvar as vítimas do basilisco no futuro.</Page>
+    
     
     </Text>
 </QuestDialog>

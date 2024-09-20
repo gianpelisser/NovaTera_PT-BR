@@ -1,66 +1,91 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="48" id="26" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="48" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="248" id="100" prevId="0" villagerId="1017">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="248" id="2" prevId="0" villagerId="1017">
          
+         
         <Page social="4">Minha missão é desenvolver armas que nos deem uma vantagem sobre os argons. Certamente não temos a vantagem dos números.&lt;NEXTPAGEBUTTON&gt;"Tem algum protótipo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Bem, eu tenho esses moduladores de fluxo de argons. Eles devem afetar os argonss, mas não colocar os outros em perigo.&lt;BR&gt;&lt;BR&gt;Só preciso que você o teste em campo. E que não morra.</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="3" prevId="2" villagerId="1017">
          
+         
         <Page social="4">Essa bomba só deve afetar os hulrap bashers perto de {@Rgn:48008}. Provavelmente não os matará, mas poderá torná-los dóceis.&lt;BR&gt;&lt;BR&gt;Ou poderá fazer algo totalmente diferente. Informe-me sobre qualquer erupção cutânea.</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="4" prevId="2" villagerId="1017">
          
+         
         <Page social="4">(Após selecionar a Parte 1, Página de diálogo 1)</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="5" prevId="2" villagerId="1017">
          
+         
         <Page social="4">(Após selecionar a Parte 2, Página de diálogo 1)</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="6" prevId="2" villagerId="1017">
          
+         
         <Page social="4">(Após selecionar a Parte 3, Página de diálogo 1)</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="7" prevId="2" villagerId="1017">
          
+         
         <Page social="6">Pegue esse modulador de fluxo de argons, teste-o em {@LinkCreature:48#5#hulrap bashers} e me informe.</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="8" prevId="7" villagerId="1017">
          
+         
         <Page social="6">Ele se transformou em um sapo? Extraordinário.&lt;BR&gt;&lt;BR&gt;Se ele tivesse se transformado em um leitão, logo teríamos o exército mais gordo da história.&lt;BR&gt;&lt;BR&gt;Oh, bem. De volta à prancheta de desenho.</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="9" prevId="8" villagerId="1017">
          
+         
         <Page social="6">Pegue esse modulador de fluxo de argons, teste-o em hulrap bashers e me informe.</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="10" prevId="9" villagerId="1017">
          
+         
         <Page social="6">Ele encolheu? Notável.&lt;BR&gt;&lt;BR&gt;Se eu puder ajustar a fórmula para afetar os akalaths ou gilgashes, isso poderá mudar o curso da guerra!</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="11" prevId="10" villagerId="1017">
          
+         
         <Page social="6">Pegue esse modulador de fluxo de argons, teste-o em hulrap bashers e me informe.</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="12" prevId="11" villagerId="1017">
          
+         
         <Page social="6">Mais forte? Isso é ruim.&lt;BR&gt;&lt;BR&gt;Não sei onde a fórmula deu errado. Vou revisar minhas anotações novamente. De volta à prancheta de desenho.</Page>
+    
     
     </Text>
 </QuestDialog>

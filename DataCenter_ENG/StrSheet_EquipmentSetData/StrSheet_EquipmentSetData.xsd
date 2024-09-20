@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns="https://vezel.dev/novadrop/dc/StrSheet_EquipmentSetData" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="https://vezel.dev/novadrop/dc" elementFormDefault="qualified" targetNamespace="https://vezel.dev/novadrop/dc/StrSheet_EquipmentSetData" xsi:schemaLocation="https://vezel.dev/novadrop/dc ../DataCenter.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="StrSheet_EquipmentSetData">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="String" type="StrSheet_EquipmentSetData_String" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="StrSheet_EquipmentSetData" type="StrSheet_EquipmentSetData" />
+  <xs:complexType dc:keys="id" name="StrSheet_EquipmentSetData_String">
+    <xs:attribute name="id" type="xs:int" />
+    <xs:attribute name="string" type="xs:string" />
+  </xs:complexType>
+</xs:schema>

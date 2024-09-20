@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="701" id="1" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="701" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0">O Clã Consos está preparando um festival em homenagem a Balder, o Deus do Sol.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0">[Festival do Sol]&lt;BR&gt;Todos os anos, o Clã Consos realiza um festival para Balder, o Deus do Sol. Durante esse período, eles pedem a todos que ajudem nos deveres do clero, como a limpeza do templo.&lt;BR&gt;&lt;BR&gt;Como a participação não é obrigatória, o clero está preparado para recompensar aqueles que os ajudarem.&lt;BR&gt;&lt;BR&gt;Por favor, demonstre sua devoção ao Deus do Sol durante essa época mais sagrada do ano.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="3" prevId="2" villagerId="7000">
          
+         
         <Page social="4">Olá, &lt;PCNAME&gt;. Eu sou Renmi. É com prazer que lhe dou as boas-vindas ao Festival do Deus Sol.&lt;BR&gt;&lt;BR&gt;Por favor, passe algum tempo dando uma olhada no Jardim do Sol e não hesite em perguntar a qualquer membro do Clã Consos onde sua ajuda for necessária.&lt;BR&gt;&lt;BR&gt;E quando o trabalho no templo estiver concluído e a chama do sol tiver sido reacendida, haverá uma grande celebração, para a qual você está naturalmente convidado.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4952001" string="Private Security" />
-    <String id="4952002" string="Don't let the crazy kid get himself killed." />
-    <String id="4952003" string="Ready to unlock some secrets?" />
-    <String id="4952004" string="&quot;Today's your lucky day.&quot;" />
-    <String id="4952005" string="Find {@LinkCreature:249#1018} at the Eastern Teleport Platform." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4948001" string="Clashing with Slashers" />
+    <String id="4948002" string="Watch out for their pointy ends." />
+    <String id="4948003" string="You sure showed them who's boss." />
+    <String id="4948004" string="Kill yusul slashers around the {@LinkCreature:249#1103}." />
+    <String id="4948005" string="&quot;Ready when you are.&quot;" />
+    <String id="4948006" string="Report back to {@LinkCreature:249#1018}." />
 </StrSheet_Quest>

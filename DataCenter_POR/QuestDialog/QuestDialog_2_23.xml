@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="2" id="23" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="2" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="202" id="100" prevId="0" villagerId="1031">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="202" id="2" prevId="0" villagerId="1031">
          
+         
         <Page social="4">A maioria dos refugiados que você vê são de pequenos assentamentos na Floresta Fey e do outro lado da colina, no Vale dos Titãs. A federação não tem se esforçado muito para aliviar a situação dos refugiados. As coisas estão difíceis por toda parte, eu acho.&lt;BR&gt;&lt;BR&gt;No entanto, temos que dar comida a esses pobres coitados. Alguns deles estão tentando fazer sopa com casca de árvore!"&lt;NEXTPAGEBUTTON&gt;"Posso ajudar de alguma forma?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Os refugiados precisam de carne em suas dietas, isso é certo. A melhor aposta é {@LinkCreature:2#57#Long Tusk Warthogs} e {@LinkCreature:2#7#Warthog Brutes}. Faça um churrasco com essa carne de javali e coma muito bem! &lt;BR&gt;&lt;BR&gt;No entanto, há um porém. Os javalis são um tanto... agressivos. Portanto, tome cuidado!</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="3" prevId="2" villagerId="1031">
          
+         
         <Page social="4">Eles comerão por dias com isso, &lt;PCNAME&gt;. Barrigas cheias, corações felizes, certo? &lt;BR&gt;&lt;BR&gt;Nós guardamos algumas costelas de javali para você!</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="4" villagerId="1031">
          
+         
         <Page social="0">Pense nas crianças famintas! Pense no delicioso javali grelhado! Basta trazer de volta a carne de {@LinkCreature:2#57#Long Tusk Warthog} e {@LinkCreature:2#7#Warthog Brute}.</Page>
+    
     
     </Text>
 </QuestDialog>

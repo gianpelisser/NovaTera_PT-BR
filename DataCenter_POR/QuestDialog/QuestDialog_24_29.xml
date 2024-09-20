@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="24" id="29" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="24" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="224" id="100" prevId="0" villagerId="1020">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="224" id="2" prevId="0" villagerId="1020">
          
+         
         <Page social="4">Que horror! Venho aqui para caçar relíquias e os estudiosos que vim buscar dizem que não estão mais interessados.&lt;BR&gt;&lt;BR&gt;Já ouvi falar de colecionadores que pagam uma boa grana por colares de orcs. O problema é que não estou realmente... preparado para caçar {@LinkCreature:24#11#horned orcan berserkers}. &lt;BR&gt;&lt;BR&gt;Por falar nisso, quer ganhar um dinheiro extra? &lt;BR&gt;&lt;BR&gt;Eu consigo mercadorias para vender, você consegue ouro, o acampamento ganha mais segurança e os orcs alimentam os escorpiões. Todo mundo fica feliz! O que você acha?</Page>
+    
     
     </Text>
     <Text huntingZoneId="224" id="3" prevId="2" villagerId="1020">
          
+         
         <Page social="4">Quem diria que os orcs poderiam fazer bugigangas tão bonitas? Elas devem render um bom preço. Só mais algumas e estarei a caminho da costa. Aqui está sua parte - prazer em fazer negócios!</Page>
+    
     
     </Text>
     <Text huntingZoneId="224" id="4" villagerId="1020">
          
+         
         <Page social="0">Não me venha com essa. Se você chegou até aqui, alguns orcs não vão impedi-lo.&lt;BR&gt;&lt;BR&gt;Volte para lá e não deixe muito sangue nas jóias!</Page>
+    
     
     </Text>
 </QuestDialog>

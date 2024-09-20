@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="8" id="25" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="8" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="208" id="100" prevId="0" villagerId="1001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="208" id="2" prevId="0" villagerId="1001">
          
+         
         <Page social="4">O que um gula não come, ele escraviza. E, depois de um tempo, os escravos desejam ter sido escolhidos para o açougue.&lt;BR&gt;&lt;BR&gt;Se eliminarmos um número suficiente de {@LinkCreature:8#2031#escravizadores de gula} e {@LinkCreature:8#2041#mestres de açougue}, cortaremos a operação de escravidão deles pelos joelhos!&lt;BR&gt;&lt;BR&gt;Isso vale um pouco de risco, não acha?</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="4">Muito bem feito, &lt;PCNAME&gt;. Já existe crueldade suficiente no mundo sem que os gulas a aumentem.</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="4" villagerId="1001">
          
+         
         <Page social="0">A escravidão não o incomoda? Nem um pouco?</Page>
+    
     
     </Text>
 </QuestDialog>

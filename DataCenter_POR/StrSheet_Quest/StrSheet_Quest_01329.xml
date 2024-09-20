@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4732001" string="Os fatos sobre o urso" />
-    <String id="4732002" string="Vou me sentir melhor quando eles estiverem mais distantes." />
-    <String id="4732003" string="Ah, está muito melhor. Obrigado." />
-    <String id="4732004" string="Mate {@creature:47#1002$$Argonomorph Tirkai Grizzlies} para manter os pesquisadores seguros." />
-    <String id="4732005" string="&quot;Fico feliz por ter ajudado.&quot;" />
-    <String id="4732006" string="Informe a {@creature:247#1022$$Kurana} no {@Rgn:47009$$Acampamento temporário da patrulha}." />
+    <String id="4728001" string="Horrores de Wendigo" />
+    <String id="4728002" string="Mate {@creature:47#3001# sendigos contaminados} a leste de {@Rgn:47004$$Blightroar}." />
+    <String id="4728003" string="Muito obrigado por matar os {@creature:47#3001#contaminated wendigos}." />
+    <String id="4728004" string="Mate {@creature:47#3001# sendigos contaminados} a leste de {@Rgn:47004$$Blightroar}." />
+    <String id="4728005" string="&quot;Fico feliz em ajudar.&quot;" />
+    <String id="4728006" string="Informe a {@creature:247#1004$$Rozaline} na {@Rgn:47007$$$Blightroar Research Station}." />
 </StrSheet_Quest>

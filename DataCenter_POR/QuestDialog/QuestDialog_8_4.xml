@@ -1,93 +1,130 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="8" id="4" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="8" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="61" id="100" prevId="0" villagerId="1105">
          
+         
         <Page social="0">A personificação do Core, à beira da morte, estava prestes a perder o controle das enormes energias do Core. Elleon lembrou-se de que Akasha iria transferir o poder do Core para si mesma e, por isso, construiu um dispositivo exatamente para esse fim. Você, Fraya e Elleon encontraram o dispositivo de transferência dentro do Golden Labyrinth e derrotaram os subordinados de Akasha lá. Em seguida, Fraya sacrificou seu eu mortal, usando o dispositivo para se tornar um com o Núcleo e estabilizá-lo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="61" id="2" prevId="0" villagerId="1105">
          
+         
         <Page social="5">O controle de Serion sobre a energia do Núcleo está diminuindo. Não sei quanto tempo mais ele vai durar. A última vez que perdemos o controle da energia do Núcleo, devastamos metade de um continente. Precisamos contê-lo antes que isso aconteça.&lt;NEXTPAGEBUTTON&gt;"Tem um contêiner em mente?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="5">...Há opções. Estou considerando a situação. Mas será necessário um poder enorme para conter o Núcleo. Serion poderia fornecer essa energia se estivesse sob controle, mas, do jeito que as coisas estão, precisamos de outra fonte de energia. Encontre algo - rapidamente!</Page>
+    
     
     </Text>
     <Text huntingZoneId="61" id="3" prevId="2" villagerId="1104">
          
+         
         <Page social="5">Substituição de energia - você acabou de dizer isso? &lt;BR&gt;&lt;BR&gt;Tentei impedi-la, mas ela vai fazer isso de qualquer maneira.&lt;NEXTPAGEBUTTON&gt;"Quem vai fazer o quê?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="5">Quem poderia se tornar o Núcleo? Isso significa sacrificar tudo. Como Serion, o próximo Núcleo viverá para sempre para Allemantheia, nem morto nem vivo.&lt;BR&gt;&lt;BR&gt;Uma vez que ela tenha feito isso, não há como voltar atrás.&lt;NEXTPAGEBUTTON&gt;"Espere... ela?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Esqueça que eu disse isso.&lt;BR&gt;&lt;BR&gt;É tudo especulação, a menos que consigamos energia suficiente para mover o Núcleo de um corpo para outro.&lt;BR&gt;&lt;BR&gt;Akasha pode ter tido a chave - ela queria o poder do Núcleo, então ela deve ter tido uma fonte de energia capaz de fazer isso.&lt;BR&gt;&lt;BR&gt;Em algum lugar no Labirinto Dourado no coração das Cavernas da Fome.&lt;BR&gt;&lt;BR&gt;Diga a Fraya que vamos atrás dele!</Page>
+    
     
     </Text>
     <Text huntingZoneId="61" id="4" prevId="3" villagerId="1105">
          
+         
         <Page social="5">Akasha pode ter ido embora, mas seus servos ainda estão guardando o Labirinto Dourado. Ainda assim, alguma chance é melhor do que nenhuma chance.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, alcance Elleon e, em seguida, pegue esse dispositivo. Depois de fazer isso, use este token para entrar em contato comigo.&lt;BR&gt;&lt;BR&gt;A Tribuna Sophilia saberá o caminho mais seguro para o Labirinto Dourado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="61" id="5" prevId="4" villagerId="1016">
          
+         
         <Page social="5">Karina é a única que sabe como levá-lo ao Labirinto Dourado. Ela está esperando por você no Posto Vanguarda Alfa.&lt;BR&gt;&lt;BR&gt;Espero que você entenda que estará por conta própria quando entrar lá.</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="6" prevId="5" villagerId="1001">
          
+         
         <Page social="5">Elleon me disse para esperar você, &lt;PCNAME&gt;. Ele me disse para perguntar por que ele sempre chega antes de você. Acho que ele estava brincando....&lt;BR&gt;&lt;BR&gt;De qualquer forma, ele não está muito longe. Pegue o elevador para o segundo nível e entre pela entrada norte.</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="7" prevId="6" villagerId="1032">
          
+         
         <Page social="5">Já não era sem tempo, &lt;PCNAME&gt;. Já desativei as armadilhas, então você pode ir para a &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7004#90874,57238,-1810&amp;type=1&amp;name=Labyrinth Entrance"&gt;entrada do labirinto&lt;/A&gt;&lt;/font&gt;. Temos batedores lá dentro. Encontre Runshia. Ficaremos separados, mas eu a verei de vez em quando.&lt;NEXTPAGEBUTTON&gt;"Espere... separados?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="4">Seu caminho é muito fácil, &lt;PCNAME&gt;. Vou por outro caminho, para o caso de precisarmos de uma rota de retirada rápida.&lt;NEXTPAGEBUTTON&gt;"Você vai querer isso, então."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">O token da Comandante Fraya... certo.&lt;BR&gt;&lt;BR&gt;Entre em contato com ela quando apreendermos o dispositivo de transferência do Núcleo... entendi.&lt;BR&gt;&lt;BR&gt;Oh, estou vendo. Você está me dando isso para garantir que eu apareça onde deveria, em vez de sair por aí... muito esperto, &lt;PCNAME&gt;. Você me conhece muito bem.</Page>
+    
     
     </Text>
     <Text huntingZoneId="472" id="8" prevId="7" villagerId="1001">
          
+         
         <Page social="5">Ainda não chegamos ao dispositivo de transferência do Núcleo, mas temos uma boa ideia de onde ele está. Nesse meio tempo, você tem uma convocação urgente.&lt;BR&gt;&lt;BR&gt;Não, de Jelena, não de Elleon.&lt;BR&gt;&lt;BR&gt;Ela está lutando para abrir caminho na Câmara das Provações e precisa de sua ajuda.</Page>
+    
     
     </Text>
     <Text huntingZoneId="472" id="9" prevId="8" villagerId="1003">
          
+         
         <Page social="5">Que bom que você conseguiu vir, &lt;PCNAME&gt;. Se conseguirmos passar por essas câmaras, será fácil chegar ao dispositivo. Mas não consigo abrir esta porta.&lt;BR&gt;&lt;BR&gt;Há um guardião na passagem oeste, mas não consigo atraí-lo para uma luta.&lt;BR&gt;&lt;BR&gt;Pegue esta passagem lateral; no final está o {@LinkCreature:472#1012#teleportal leste}. Ele o levará ao guardião do portão, {@LinkCreature:472#22#Berylheart}. Esperarei aqui e verei se a morte de Berylheart abrirá a porta. Tenho medo de que Elleon faça alguma besteira.</Page>
+    
     
     </Text>
     <Text huntingZoneId="472" id="10" prevId="9" villagerId="1003">
          
+         
         <Page social="5">A porta está aberta! Não sei como abrir o próximo portão, mas aqueles monstros não vão se matar! &lt;BR&gt;&lt;BR&gt;Limpe o caminho, e depois nos preocuparemos com a porta.</Page>
+    
     
     </Text>
     <Text huntingZoneId="472" id="11" prevId="10" villagerId="1019">
          
+         
         <Page social="5">O veneno é... mal consigo andar direito. Continue sem mim, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Vá até o dispositivo!&lt;NEXTPAGEBUTTON&gt;"Para onde vou?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Siga para o leste até a Chamber of the Wild. Encontre o teleportal {@LinkCreature:472#1011#west}. Isso deve levá-lo para dentro.&lt;BR&gt;&lt;BR&gt;O dispositivo de transferência deve estar lá dentro. Deve haver muitos guardas. Eu ouvi os nomes {@LinkCreature:472#19#Varcerbus} e {@LinkCreature:472#5000#Valgmore}. Cuidado!</Page>
+    
     
     </Text>
     <Text huntingZoneId="472" id="12" prevId="11" villagerId="1007">
          
+         
         <Page social="5">Temos o dispositivo! Vamos entrar em contato com a Fraya antes que algo mais dê errado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="472" id="13" prevId="12" villagerId="1007">
          
+         
         <Page social="5">Fraya deve ter voltado para Castanica. Devemos segui-la. Ela não teria ido embora sem um bom motivo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="61" id="14" prevId="13" villagerId="1104">
          
+         
         <Page social="5">Bem, evitamos a devastação continental - nada mal para um dia de trabalho.&lt;BR&gt;&lt;BR&gt;E agora Fraya estabilizou o Núcleo, de modo que Allemantheia também está segura.&lt;NEXTPAGEBUTTON&gt;"Mas você não está feliz."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="5">Estou tentando ver o lado bom. A pessoa que mais se sacrificou parece estar mais satisfeita, então quem sou eu para discordar? Ela já havia decidido se sacrificar por Allemantheia - por nosso povo.&lt;BR&gt;&lt;BR&gt;Penso no quanto me esforcei para evitar o fardo do comando e fico envergonhado.&lt;BR&gt;&lt;BR&gt;Fraya... o Núcleo, suponho, agora... quer lhe agradecer pessoalmente. Por que você não vai vê-la?</Page>
+    
     
     </Text>
     <Text huntingZoneId="61" id="15" prevId="14" villagerId="1105">
          
+         
         <Page social="5">Eu... não mais do que eu. Mais do que a Fraya. Isso levará tempo, prática. Como Serion deve ter lutado...&lt;BR&gt;&lt;BR&gt;Eu devo retornar a Allemantheia em breve. O povo do Núcleo precisa de seu poder, precisa do símbolo de Fraya.&lt;BR&gt;&lt;BR&gt;O Núcleo deve estar além de preocupações mesquinhas, mas...não posso me esquecer de Kaidun. Cuidado, Akasha e Thulsa... este Core se lembra, sabe pelo que ela se sacrificou.&lt;BR&gt;&lt;BR&gt;Obrigado, &lt;PCNAME&gt;, por tudo o que você fez.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="32" id="25" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="32" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="232" id="100" prevId="0" villagerId="1032">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="232" id="2" prevId="0" villagerId="1032">
          
+         
         <Page social="4">Os {@LinkCreature:32#4#Sihran ragers} e seus {@LinkCreature:32#5#tuwangi thumpers} mantêm nossos exércitos à distância e protegem suas cadeias de suprimentos. Elimine-os e traga-me suas etiquetas. Vamos nos certificar de que Kaidun saiba o que perdeu.</Page>
+    
     
     </Text>
     <Text huntingZoneId="232" id="3" prevId="2" villagerId="1032">
          
+         
         <Page social="4">Eu gostaria de poder ver a cara daquele traidor, Kaidun, quando ele souber que suas elites estão todas mortas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="232" id="4" villagerId="1032">
          
+         
         <Page social="0">Elimine os {@LinkCreature:32#4#Sihran ragers} e os {@LinkCreature:32#5#tuwangi thumpers} e me traga suas etiquetas.</Page>
+    
     
     </Text>
 </QuestDialog>

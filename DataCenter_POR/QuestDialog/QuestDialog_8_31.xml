@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="8" id="31" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="8" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="208" id="100" prevId="0" villagerId="1022">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="208" id="2" prevId="0" villagerId="1022">
          
+         
         <Page social="4">Até agora, &lt;PCNAME&gt;, você feriu os gulas, mas precisamos limitar o poder deles.&lt;BR&gt;&lt;BR&gt;Isso significa atingir os {@LinkCreature:8#3041#supervisores dos gulas} e os {@LinkCreature:8#3042#bandidos kobolds}. Qualquer coisa que se encaixe em suas algemas se torna um escravo e é na escravidão que eles ganham seu ouro.</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="3" prevId="2" villagerId="1022">
          
+         
         <Page social="4">Esses livros... são um tesouro de informações!&lt;BR&gt;&lt;BR&gt;Sócios de negócios, famílias de escravos que foram divididas... tudo está aqui!&lt;BR&gt;&lt;BR&gt;Eu estou enviando isso para o alto comando. Muito bem!</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="4" villagerId="1022">
          
+         
         <Page social="0">Se os impedirmos de coletar escravos, nós os impediremos de vender escravos. É simples assim.</Page>
+    
     
     </Text>
 </QuestDialog>

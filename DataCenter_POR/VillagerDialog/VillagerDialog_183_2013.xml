@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="183" id="2013" voiceTypeId="127">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2013" huntingZoneId="183" voiceTypeId="127">
     <Text id="1" endSocial="4">
          
+         
         <Page social="4" voiceTypeId="127">How may a humble baraka merchant serve your needs? If you have come seeking alchemy recipes, I believe I already have the answer to my own question...</Page>
+    
     
     </Text>
 </VillagerDialog>

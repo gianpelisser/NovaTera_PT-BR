@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="48" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="48" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="78" id="100" prevId="0" villagerId="1009">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="78" id="2" prevId="0" villagerId="1009">
          
+         
         <Page social="4">Trouxe um carregamento de leitões jovens para dar às tropas uma boa refeição caseira.&lt;BR&gt;&lt;BR&gt;Infelizmente, alguns escaparam ontem à noite. Hoje tenho muitas bocas para alimentar. Preciso dessa carne. Você acha que pode me ajudar? &lt;NEXTPAGEBUTTON&gt;"Onde eles estão?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Tente a leste da entrada da fortaleza. Eles provavelmente estão procurando comida.&lt;BR&gt;&lt;BR&gt;Feliz caçada.</Page>
+    
     
     </Text>
     <Text huntingZoneId="78" id="3" prevId="2" villagerId="1009">
          
+         
         <Page social="6">Bom trabalho, meu amigo. Nossos soldados merecem qualquer estímulo moral que possam receber.&lt;BR&gt;&lt;BR&gt;Agora, eu os defumo, asso ou grelho. Bacon de batalha?</Page>
+    
     
     </Text>
     <Text huntingZoneId="78" id="4" villagerId="1009">
          
+         
         <Page social="0">Você já encontrou os {@LinkCreature:48#100}s? Tenho barrigas famintas para encher.</Page>
+    
     
     </Text>
 </QuestDialog>

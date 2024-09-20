@@ -1,12 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4623001" string="Strange Flask" />
-    <String id="4623002" string="Please bring me what is inside the {@creature:46#7002#jermol extractor}." />
-    <String id="4623003" string="What you brought me will be helpful for my research." />
-    <String id="4623004" string="Dead Animals in the Extractor" />
-    <String id="4623005" string="Pass through the {@creature:46#201#argonomorph kulkari crusher} guarding the rooms in {@Rgn:46003$$Raga Shadi} of {@Rgn:46001#the Three Towers} and break the {@creature:46#7002#jermol extractor}. Then collect the dead animals inside the extractor." />
-    <String id="4623006" string="Go to the {@Rgn:46019$$Beastroar Chamber} and deliver the dead animals to {@linkcreature:246#1025$$Alecian}" />
-    <String id="4623007" string="&quot;I'll help.&quot;" />
-    <String id="4623008" string="&quot;It's an honor to serve.&quot;" />
-    <String id="4623009" string="Go to {@linkcreature:246#1024$$Platanok} in the {@Rgn:46020$$Shineroot Chamber}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4601001" string="The Three Towers" />
+    <String id="4601002" string="&quot;Understood.&quot;" />
+    <String id="4601003" string="[{@Rgn:46014$$Three Towers Research Base}] Deliver the report to {@LinkCreature:246#2001$$Adeldur} at the Three Towers." />
+    <String id="4601004" string="[{@Rgn:46003$$Raga Shadi}] Destroy the argon structures." />
+    <String id="4601005" string="&quot;Sounds like a plan.&quot;" />
+    <String id="4601006" string="[{@Rgn:46014$$Three Towers Research Base}] Deliver the argon building fragments to {@LinkCreature:246#2001$$Adeldur}." />
+    <String id="4601007" string="&quot;Sounds good.&quot;" />
+    <String id="4601008" string="Talk to {@LinkCreature:246#2002$$Kurance}." />
+    <String id="4601009" string="Read the missing person register." />
+    <String id="4601010" string="Yasring is on the list!" />
+    <String id="4601011" string="&quot;Thanks for the tip.&quot;" />
+    <String id="4601012" string="Talk to {@LinkCreature:246#2002$$Kurance} again." />
+    <String id="4601013" string="&quot;I guess that would be my job.&quot;" />
+    <String id="4601014" string="Follow the footprints of the missing scouts and collect their marks." />
+    <String id="4601015" string="[{@Rgn:46005$$Three Towers Depths}: {@Rgn:46016$$Mindcrown Chamber}] Deliver the marks of the missing to {@LinkCreature:246#2003$$Sleitak}." />
+    <String id="4601016" string="&quot;On my way.&quot;" />
+    <String id="4601017" string="[{@Rgn:46005$$Three Towers Depths}: {@Rgn:46016$$Mindcrown Chamber}] Talk to Scout Captain {@LinkCreature:246#2003$$Sleitak} about the missing scouts." />
+    <String id="4601018" string="&quot;I appreciate it.&quot;" />
+    <String id="4601019" string="[{@Rgn:46009$$Three Towers Spires}: {@Rgn:46013$$Exetron}] Talk to {@LinkCreature:246#2004$$Greyden} about the missing scouts." />
 </StrSheet_Quest>

@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="15101001" string="Tell Me of Noctenium " />
-    <String id="15101002" string="&quot;I'll talk to him, then.&quot;" />
-    <String id="15101003" string="Meet Adria on the Island of Dawn." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="12317001" string="Training the Order" />
+    <String id="12317002" string="Beast Heart" />
+    <String id="12317003" string="Train yourself on a beast in one of the vaults." />
+    <String id="12317004" string="Bring proof of your training back to {@linkcreature:84#22008#Kazt}." />
+    <String id="12317005" string="&quot;I've faced worse tests.&quot;" />
 </StrSheet_Quest>

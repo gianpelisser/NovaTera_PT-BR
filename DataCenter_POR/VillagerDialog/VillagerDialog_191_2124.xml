@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="191" id="2124" voiceTypeId="275">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="2124" huntingZoneId="191" voiceTypeId="275">
     <Text id="1" endSocial="4">
          
+         
         <Page social="4" voiceTypeId="275">All of this trickery is worthless. Let's just charge them!</Page>
+    
     
     </Text>
 </VillagerDialog>

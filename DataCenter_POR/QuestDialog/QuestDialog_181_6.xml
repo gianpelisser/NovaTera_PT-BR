@@ -1,43 +1,59 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="181" id="6" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="181" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0">&lt;PCNAME&gt; foi até Hagand para pedir ajuda para recarregar a Pedra da Relatividade. Hagand contou a &lt;PCNAME&gt; como ele mesmo explorou o habitat quando era jovem. Hagand preparou uma poção especial para preparar &lt;PCNAME&gt; para entrar na área perigosa.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="181" id="3" prevId="2" villagerId="1005">
          
+         
         <Page social="4">Hagand vai querer falar com você antes de partir. Procure por ele dentro do prédio que existe ali.&lt;NEXTPAGEBUTTON&gt;"Eu vou."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="181" id="4" prevId="3" villagerId="1004">
          
+         
         <Page social="4">Bem-vindo, forasteiro. Os pesquisadores que você resgatou dizem que seu nome é &lt;PCNAME&gt; e que você estava presente quando O Grande Ancião Verikam foi sequestrado. Momentoso.&lt;BR&gt;&lt;BR&gt;Agora, o que você estava fazendo nessa área? &lt;NEXTPAGEBUTTON&gt;"Estou procurando a Pedreira Diranas."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Hmm. Halran o enviou? Ou Garm? Suponho que eles não o avisaram do perigo...? &lt;BR&gt;&lt;BR&gt;Claro que não. Ouça bem: Quando visitei essa área pela última vez, ela estava sob controle de arquidevas e akanons. Consegui contornar a situação usando uma poção de invisibilidade... e, para sua sorte, ainda tenho algumas. Não tenho mais uso para ela, portanto é sua.&lt;BR&gt;&lt;BR&gt;Mas recomendo que a experimente em condições controladas primeiro.&lt;NEXTPAGEBUTTON&gt;"Não há tempo como o presente."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="181" id="5" prevId="4" villagerId="1004">
          
+         
         <Page social="4">Hmm. Você não está invisível. Quando muito, você parece um pouco verde.&lt;BR&gt;&lt;BR&gt;Como eu temia, essa poção passou da data de validade. Eu deveria tê-la jogado fora há anos.&lt;NEXTPAGEBUTTON&gt;"Há alguma maneira de fazermos uma nova?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Sempre há uma maneira, quando há uma vontade.&lt;BR&gt;&lt;BR&gt;Tenho tudo o que preciso aqui, exceto dois ingredientes. Você estaria disposto a recuperá-los? &lt;BR&gt;&lt;BR&gt;Primeiro, precisarei de Raiz Refletiva, para confundir o observador casual.&lt;BR&gt;&lt;BR&gt;Segundo, Globos Oculares Enevoados, para confundir o olhar intencional.&lt;BR&gt;Os dois são relativamente comuns nas proximidades, embora talvez sejam um pouco difíceis de obter.&lt;NEXTPAGEBUTTON&gt;"Comece, então. Trarei os ingredientes de volta."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="181" id="6" prevId="5" villagerId="1004">
          
+         
         <Page social="4">Voltar tão cedo? Há dez anos, levei uma semana para conseguir esses ingredientes! &lt;BR&gt;&lt;BR&gt;Por sorte, a poção está quase pronta. Só preciso que você seja paciente por mais um momento.&lt;NEXTPAGEBUTTON&gt;"Não tenha pressa. Faça isso direito."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="181" id="7" prevId="6" villagerId="1004">
          
+         
         <Page social="4">Terminou! &lt;BR&gt;&lt;BR&gt;&lt;BR&gt;Agora, ouça com atenção: Esta poção não durará para sempre, portanto não a beba até chegar à Pedreira de Diranas. Então, pegue as pedras e saia imediatamente.&lt;BR&gt;&lt;BR&gt;E lembre-se: Não haverá nenhum aviso quando o efeito da poção acabar.&lt;BR&gt;&lt;NEXTPAGEBUTTON&gt;"Entendo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
 </QuestDialog>

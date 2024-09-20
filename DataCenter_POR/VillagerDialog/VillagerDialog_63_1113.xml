@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="63" id="1113" voiceTypeId="67">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1113" huntingZoneId="63" voiceTypeId="67">
     <Text huntingZoneId="63" id="1" endSocial="14" prevId="0" villagerId="1113">
          
+         
         <Page social="4">Leilão, cabe a mim levar o que você está vendendo para quem está comprando. Por uma taxa modesta, é claro.</Page>
+    
     
     </Text>
 </VillagerDialog>

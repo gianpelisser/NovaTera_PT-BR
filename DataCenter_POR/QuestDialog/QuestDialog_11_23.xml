@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="11" id="23" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="11" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="211" id="100" prevId="0" villagerId="1007">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="211" id="2" prevId="0" villagerId="1007">
          
+         
         <Page social="4">Com a frota pesqueira atracada no porto e todos com medo de deixar a aldeia, não temos renda por aqui! E a situação não vai mudar tão cedo. Os velhos tempos se foram para sempre - temos que nos adaptar a um novo meio de vida.&lt;BR&gt;&lt;BR&gt;E o caminho do futuro, &lt;PCCLASS:lcase&gt;, é "esconder-se".&lt;BR&gt;&lt;BR&gt;Não, não é "esconder-se" como "tentar evitar que os piratas o encontrem". Quero dizer "esconder" como "recuperar as peles das {@LinkCreature:11#4004#spiketail kamaras} e vendê-las com um bom lucro!"</Page>
+    
     
     </Text>
     <Text huntingZoneId="211" id="3" prevId="2" villagerId="1007">
          
+         
         <Page social="4">Muito bem, &lt;PCNAME&gt;! Você está liderando pelo exemplo, mostrando a todos os pescadores como é o futuro!</Page>
+    
     
     </Text>
     <Text huntingZoneId="211" id="4" villagerId="1007">
          
+         
         <Page social="0">Olhe, você prefere ficar esperando nas docas como todo mundo, pensando "talvez hoje seja o dia em que os piratas magicamente evaporem e possamos voltar a pescar", hein? Peguem essas {@LinkCreature:11#4004#spiketail kamaras}!</Page>
+    
     
     </Text>
 </QuestDialog>

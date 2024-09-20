@@ -1,10 +1,15 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4771001" string="(Guilda) Ordem para subjugar a Floresta de Gelo Branco" />
-    <String id="4771002" string="A subjugação contínua sempre traz paz." />
-    <String id="4771003" string="Obrigado por seu trabalho árduo." />
-    <String id="4771004" string="Ficha de subjugação da Floresta de Gelo Branco" />
-    <String id="4771005" string="&quot;É uma honra servir.&quot;" />
-    <String id="4771006" string="Mate {@Creature:47#1001#Tirkai grizzlies}, {@Creature:47#1002#argonomorph Tirkai grizzlies} e {@Creature:47#1003$$argonomorph mugatos} na {@Rgn:47002$$Whitefrost Forest} e colete fichas." />
-    <String id="4771007" string="Apresente-se a Laetesha no Pathfinder Post quando a missão for concluída." />
+    <String id="4733001" string="Escotismo no acampamento escoteiro" />
+    <String id="4733002" string="Talvez haja algo útil nisso." />
+    <String id="4733003" string="Talvez tenhamos descoberto algo importante aqui." />
+    <String id="4733004" string="Antigo acampamento de escoteiros" />
+    <String id="4733005" string="Você encontrou o {@Rgn:47013$$Old Scout Camp}." />
+    <String id="4733006" string="Encontre o {@Rgn:47013$$Old Scout Camp} na estrada ao norte do {@Rgn:47009$$Temporary Patrol Camp}." />
+    <String id="4733007" string="Abra o {@WorkObject:111$$caixote de suprimentos quebrado} e pegue o que estiver dentro." />
+    <String id="4733008" string="Mate {@creature:47#6002$$Poskula}." />
+    <String id="4733009" string="{@WorkObject:111$$Caixa de suprimentos quebrada}" />
+    <String id="4733010" string="Suprimentos antigos" />
+    <String id="4733011" string="Informe o resultado a {@creature:247#1021$$Shannow} no {@Rgn:47009$$Acampamento Temporário da Patrulha}." />
+    <String id="4733012" string="&quot;Eu cumpri meu dever.&quot;" />
 </StrSheet_Quest>

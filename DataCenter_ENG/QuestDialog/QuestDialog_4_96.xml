@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="96" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="61" id="100" prevId="0" villagerId="1016">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="96" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1016">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="61" id="2" prevId="0" villagerId="1016">
-         
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1016">
         <Page social="4">There's a huge problem in Fyrmount. The giant hydrath and fimbrilisk kind.&lt;BR&gt;&lt;BR&gt;Head to Molten Reach and destroy the {@LinkCreature:4#3011#maraseps} and {@LinkCreature:4#3021#soulstalkers}.&lt;BR&gt;&lt;BR&gt;Report to Tifane at Firebase Valor when the mission is complete.</Page>
-    
     </Text>
-    <Text huntingZoneId="204" id="3" prevId="2" villagerId="1006">
-         
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1006">
         <Page social="4">That's a huge help, &lt;PCNAME&gt;. Thank you.</Page>
-    
     </Text>
-    <Text huntingZoneId="204" id="4" villagerId="1006">
-         
+    <Text id="4" huntingZoneId="204" villagerId="1006">
         <Page social="0">I'm afraid we're going to need a bit more from you. Head out and try again.</Page>
-    
     </Text>
 </QuestDialog>

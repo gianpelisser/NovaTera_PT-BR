@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="36" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="30" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="230" id="100" prevId="0" villagerId="1020">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="230" id="2" prevId="0" villagerId="1020">
          
+         
         <Page social="1">A antiga magia do deus Balder há muito tempo mantém o {@Rgn:30008$$Arquivo Inferior}, mas parece que essa magia está começando a desaparecer. &lt;BR&gt;&lt;BR&gt;Os {@LinkCreature:30#190#mordomos de bronze} do templo são um bom exemplo. Sua função original era manter o jardim do templo e afastar os monstros.&lt;BR&gt;&lt;BR&gt;Agora, os mordomos se tornaram os monstros, hostis a tudo o que vive.&lt;BR&gt;&lt;BR&gt;Para o bem de todos, os {@LinkCreature:30#190#brass stewards} devem ser eliminados.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="3" prevId="2" villagerId="1020">
          
+         
         <Page social="1">Estou um pouco triste. Os administradores eram guardiões fiéis de Balder e de seu jardim, mas nós os desmantelamos sem pensar duas vezes.&lt;BR&gt;&lt;BR&gt;Eu sei, eu sei. Eu lhe pedi para fazer isso. No entanto, sinto-me mal pelos mordomos.</Page>
+    
     
     </Text>
 </QuestDialog>

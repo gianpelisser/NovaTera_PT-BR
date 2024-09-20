@@ -1,43 +1,59 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="8" id="2" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="8" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="61" id="100" prevId="0" villagerId="1012">
          
+         
         <Page social="0">Enquanto lutava contra gulas nas Hungry Caverns, você conheceu um soldado, Detrian, que queria que você entregasse um presente à irmã mais nova dele. A irmã retribuiu o favor, enviando um presente para Detrian.&lt;BR&gt;&lt;BR&gt;Depois, Detrian marchou em direção ao seu posto nas Hungry Caverns.</Page>
+    
     
     </Text>
     <Text huntingZoneId="61" id="2" prevId="0" villagerId="1012">
          
+         
         <Page social="5">Gulas... só de pensar neles me dá arrepios.&lt;BR&gt;&lt;BR&gt;Uma coisa é enfrentar seu inimigo e cortar sua garganta ou derramar suas entranhas. Mas comer seus inimigos - quero dizer, cozinhá-los e comê-los - é simplesmente errado.&lt;BR&gt;&lt;BR&gt;As Espadas de Kaia têm tentado exterminá-los, mas eles são persistentes.&lt;NEXTPAGEBUTTON&gt;"Eu posso ajudar."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Tenho certeza de que sim, &lt;PCNAME&gt;. Vou despachá-lo para lá imediatamente.&lt;BR&gt;&lt;BR&gt;Enquanto eu preencho a papelada, pode me fazer um favor? Ele está de licença, mas precisamos que ele volte para a linha de frente assim que puder... bem... se livrar das oportunidades de recreação de Castanica.</Page>
+    
     
     </Text>
     <Text huntingZoneId="61" id="3" prevId="2" villagerId="1106">
          
+         
         <Page social="5">Ordens de chamada, não é? Já era de se esperar. &lt;BR&gt;&lt;BR&gt;Você também está indo para as Cavernas da Fome? &lt;NEXTPAGEBUTTON&gt;"Sim, estou."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Conheço essas cavernas como a palma da minha mão, mas...&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, você pode dar essa boneca para minha irmãzinha, Hennika?&lt;BR&gt;&lt;BR&gt;Prometi que a levaria para ela, mas tenho que me apresentar imediatamente, então não haverá tempo para ir para casa agora.</Page>
+    
     
     </Text>
     <Text huntingZoneId="61" id="4" prevId="3" villagerId="1107">
          
+         
         <Page social="5">Meu irmão é o melhor! Ele sempre se lembra de mim.&lt;BR&gt;&lt;BR&gt;Eu também me lembrei dele. Eu comprei esse amuleto para ele, mas agora não posso dar a ele.&lt;BR&gt;&lt;BR&gt;Mas você pode! Você está indo para o mesmo lugar que ele, certo? Apenas diga a ele que é um amuleto da sorte, porque Hennika quer que ele fique seguro.</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="5" prevId="4" villagerId="1023">
          
+         
         <Page social="5">Um amuleto? Isso é muito gentil. Assim como a Hennika. Sinto muita falta dela.&lt;BR&gt;&lt;BR&gt;Bem, é melhor continuar andando, &lt;PCNAME&gt;. Karina está esperando por você no Posto Avançado dos Vingadores.</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="6" prevId="5" villagerId="1001">
          
+         
         <Page social="5">&lt;PCNAME&gt; está aqui! Que comece a matança! &lt;BR&gt;&lt;BR&gt;Seu primeiro alvo será {@LinkCreature:8#2031#escravizadores de gula} e {@LinkCreature:8#2021#mercenários de caiman}.&lt;BR&gt;&lt;BR&gt;Relate aqui quando terminar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="7" prevId="6" villagerId="1001">
          
+         
         <Page social="5">Esse é o tipo de energia que eu gosto de ver, &lt;PCNAME&gt;. Mas estamos apenas começando.</Page>
+    
     
     </Text>
 </QuestDialog>

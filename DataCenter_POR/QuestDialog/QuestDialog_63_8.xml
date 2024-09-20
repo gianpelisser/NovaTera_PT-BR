@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="63" voiceTypeId="0">
     <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
     <Text id="100" huntingZoneId="63" prevId="0" villagerId="1600">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text id="2" huntingZoneId="63" prevId="0" villagerId="1600">
          
+         
         <Page social="4">Bom dia! As Plêiades de Elinu têm planejado recentemente uma exploração prolongada da Sinestral Manor, localizada no Vale das Presas. De acordo com alguns relatos, Malgarios, que vive lá, estava farto de um fragmento da runa de Soulu, a runa do Poder, que lhe dá a capacidade de liderar monstros menores. Algo terrível está chegando, e as Plêiades precisam colocar as mãos nesse artefato. Não é conveniente pedir ajuda a um aventureiro aleatório, mas não custa nada. Preciso de 5 fragmentos, o suficiente para arrancar toda a energia da runa do corpo vil de Malgarios! Não se preocupe com a recompensa, ela não parecerá indigna para você! Se concordar, aguardo ansiosamente sua resposta!</Page>
+    
     
     </Text>
     <Text id="3" huntingZoneId="63" prevId="2" villagerId="1600">
          
+         
         <Page social="4">Você conseguiu?! Não sei nem que palavras escolher! Sou muito grato a você! Fique com seu merecido prêmio!</Page>
+    
     
     </Text>
     <Text id="4" huntingZoneId="63" villagerId="1600">
          
+         
         <Page social="0">As nuvens de tempestade estão se formando, o Godslayer começou a agir, você precisa ganhar força e paciência para derrotá-lo...</Page>
+    
     
     </Text>
 </QuestDialog>

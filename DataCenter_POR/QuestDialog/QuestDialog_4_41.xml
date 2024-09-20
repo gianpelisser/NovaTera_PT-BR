@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="41" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="4" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="204" id="100" prevId="0" villagerId="1133">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="204" id="2" prevId="0" villagerId="1133">
          
+         
         <Page social="4">O Mysterium insiste que não sabe nada sobre os pilones escondidos em Fyrmount. Talvez você já tenha lidado com o Pilar Cruental?&lt;BR&gt;&lt;BR&gt;Quando meu povo não consegue se lembrar da resposta, temos que aprendê-la de novo. Portanto, uma investigação...&lt;NEXTPAGEBUTTON&gt;"Não sou um sábio."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">O aprendizado não é apenas para sábios, &lt;PCNAME&gt;. As interações anteriores com o Pilar Cruental provaram que a magia shuriana está envolvida.&lt;BR&gt;&lt;BR&gt;Se a magia dos shurianos se reverter, todos os pilares da rede de defesa serão inúteis.&lt;BR&gt;&lt;BR&gt;E o que é um poderoso símbolo de reversão? Um espelho... como os que {@LinkCreature:4#3041#shurian mindbenders} e seus {@LinkCreature:4#3042#hellion thralls} carregam.</Page>
+    
     
     </Text>
     <Text huntingZoneId="204" id="3" prevId="2" villagerId="1133">
          
+         
         <Page social="4">É isso - o primeiro passo para...&lt;BR&gt;&lt;BR&gt;Total! Mágica! Reversão!&lt;BR&gt;&lt;BR&gt;Nossos esquemas estão ganhando força.</Page>
+    
     
     </Text>
     <Text huntingZoneId="204" id="4" villagerId="1133">
          
+         
         <Page social="0">{@LinkCreature:4#3041#Shurian mindbenders} têm os espelhos de que precisamos para uma reversão total... mágica...!</Page>
+    
     
     </Text>
 </QuestDialog>

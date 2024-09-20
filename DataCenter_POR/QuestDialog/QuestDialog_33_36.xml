@@ -1,34 +1,46 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="33" id="36" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="33" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="233" id="100" prevId="0" villagerId="1008">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="233" id="2" prevId="0" villagerId="1008">
          
+         
         <Page social="4">Chega de lutar corredor por corredor, escada por escada. É hora de aplicar um pouco de engenhosidade de Mysterium ao problema.&lt;BR&gt;&lt;BR&gt;Tome este scrambler. Instale-o em cada um dos três dispositivos de êxtase... na ordem certa.&lt;BR&gt;&lt;BR&gt;Isso deve privar seus fantasmas invisíveis de energia. E com os fantasmas fora de cena, Thulsa perderá o controle sobre os mortos-vivos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="233" id="3" prevId="2" villagerId="1015">
          
+         
         <Page social="0">(Você instala o codificador. O dispositivo de êxtase para de zumbir, geme como se estivesse vivo e depois fica em silêncio. A atmosfera nesta câmara parece menos sufocante).</Page>
+    
     
     </Text>
     <Text huntingZoneId="233" id="4" prevId="3" villagerId="1016">
          
+         
         <Page social="0">(Você instala o codificador. O dispositivo de êxtase para de zumbir, geme como se estivesse vivo e depois fica em silêncio. A atmosfera nesta câmara parece menos sufocante).</Page>
+    
     
     </Text>
     <Text huntingZoneId="233" id="5" prevId="4" villagerId="1017">
          
+         
         <Page social="0">(Você instala o codificador. O dispositivo de êxtase para de zumbir, geme como se estivesse vivo e depois fica em silêncio. A atmosfera nesta câmara parece menos sufocante).</Page>
+    
     
     </Text>
     <Text huntingZoneId="233" id="6" prevId="5" villagerId="1008">
          
+         
         <Page social="4">Agora Thulsa terá grande dificuldade em dar aos mortos-vivos o poder necromântico de que precisam.&lt;BR&gt;&lt;BR&gt;Uma vitória impecável, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
 </QuestDialog>

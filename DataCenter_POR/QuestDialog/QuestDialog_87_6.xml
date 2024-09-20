@@ -1,44 +1,60 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="87" id="6" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="87" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="87" id="100" prevId="0" villagerId="1039">
          
+         
         <Page social="0">&lt;img src='img://__Quest_Mission.870601'/&gt;&lt;BR&gt;Você distraiu os orcs no território orcano e derrotou os basiliscos - a arma secreta de Rahto. Depois de passar pelos orcs que cercavam Pora Elinu, você entregou as descobertas do território orcano a Arin.</Page>
+    
     
     </Text>
     <Text huntingZoneId="87" id="2" prevId="0" villagerId="1039">
          
+         
         <Page social="0">&lt;img src='img://__Quest_Mission.870601'/&gt;&lt;BR&gt;O caminho atrás de nós é o único caminho para Pora Elinu. Eu sei: Está pegando fogo. Mas que escolha temos? Use suas lâminas sofisticadas para chegar a Pora Elinu. Abram caminho pelo acampamento orcan, localizem a Princesa Arin e vejam o que podem fazer para ajudar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="87" id="3" prevId="2" villagerId="1023">
          
+         
         <Page social="4">Bem-vindo. Você percorreu um caminho tão longo e perigoso.&lt;BR&gt;&lt;BR&gt;Pelo que está me dizendo, localizar o capitão orcano é de extrema importância. Vou consultar meus conselheiros.&lt;BR&gt;&lt;BR&gt;Enquanto isso, seria útil se você pudesse ajudar Meilyn. Ela é nossa única médica, e o grande número de feridos a deixou um pouco sobrecarregada.</Page>
+    
     
     </Text>
     <Text huntingZoneId="87" id="4" prevId="3" villagerId="1013">
          
+         
         <Page social="4">Você não parece estar muito machucado. Do que precisa? &lt;BR&gt;&lt;BR&gt;Oh, Arin o enviou? Ótimo, estou precisando de ajuda. No momento, Pora Elinu é um hospital temporário para os feridos. Muitas pessoas foram feridas ou mortas. Isso me deixa muito triste.&lt;BR&gt;&lt;BR&gt;Eu estou com as mãos ocupadas, cuidando dos feridos. Você pode pegar algumas flores de cílios de cadáveres para mim? &lt;BR&gt;&lt;BR&gt;Eu sei: nome assustador. Mas é um ótimo remédio para pacientes que perderam muito sangue.</Page>
+    
     
     </Text>
     <Text huntingZoneId="87" id="5" prevId="4" villagerId="1013">
          
+         
         <Page social="4">Obrigado. Isso deve diminuir o sangramento e aliviar a dor por um tempo.&lt;BR&gt;&lt;BR&gt;Por enquanto, estou bem. A Princesa Arin está esperando por você lá fora.</Page>
+    
     
     </Text>
     <Text huntingZoneId="87" id="6" villagerId="1013">
          
+         
         <Page social="0">O quê, você não consegue encontrá-las? Há flores de cílios de cadáveres por toda parte. Eu consigo ver três daqui!</Page>
+    
     
     </Text>
     <Text huntingZoneId="87" id="7" prevId="5" villagerId="1023">
          
+         
         <Page social="4">&lt;PCNAME&gt;, seja bem-vindo. Talvez tenhamos alguma informação sobre esse Rahto.&lt;BR&gt;&lt;BR&gt;Fale com o capitão da guarda Koro para obter os detalhes. Ele está esperando por você na outra extremidade da varanda.&lt;BR&gt;&lt;BR&gt;E, por favor, leve esses suprimentos para ele. Ele está esperando por eles.</Page>
+    
     
     </Text>
     <Text huntingZoneId="87" id="8" prevId="7" villagerId="1010">
          
+         
         <Page social="5">Oh, suprimentos preciosos! Obrigado!&lt;BR&gt;&lt;BR&gt;Aqui, você deveria guardar essas botas para você. Você poderia usá-las.</Page>
+    
     
     </Text>
 </QuestDialog>

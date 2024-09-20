@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="22" id="30" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="22" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="222" id="100" prevId="0" villagerId="1008">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="222" id="2" prevId="0" villagerId="1008">
          
+         
         <Page social="5">Aconteceu alguma coisa com os {@LinkCreature:22#13#marms de sangue}! Eles estão correndo por aí amaldiçoando os alunos e animando os brinquedos! &lt;BR&gt;&lt;BR&gt;Se não os detivermos, pode ser o dollpocalypse!</Page>
+    
     
     </Text>
     <Text huntingZoneId="222" id="3" prevId="2" villagerId="1006">
          
+         
         <Page social="5">Os marmanjos de sangue se voltaram contra as crianças?&lt;BR&gt;&lt;BR&gt;Vocês os detiveram, no entanto? Nossa, é muita informação de uma vez só.&lt;BR&gt;&lt;BR&gt;Isso significa que ainda há bonecos animados circulando por aí? Ou a loucura acabou?</Page>
+    
     
     </Text>
 </QuestDialog>

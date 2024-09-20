@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="37" id="36" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="37" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="237" id="100" prevId="0" villagerId="1015">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="237" id="2" prevId="0" villagerId="1015">
          
+         
         <Page social="9">Meu objetivo é estudar as relíquias de príons, mas os Gutrends fugiram com elas.&lt;BR&gt;&lt;BR&gt;Suspeito que as relíquias ainda estejam em algum lugar dentro da caverna deles. Você poderia recuperá-las para mim?</Page>
+    
     
     </Text>
     <Text huntingZoneId="237" id="3" prevId="2" villagerId="1015">
          
+         
         <Page social="7">Muito obrigado. Isso deve aumentar meu conhecimento sobre Saleron e a raça prion.&lt;BR&gt;&lt;BR&gt;Você foi muito útil, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
     <Text huntingZoneId="237" id="4" villagerId="1015">
          
+         
         <Page social="0">Você estava procurando relíquias de príons para mim. Você já as conseguiu?</Page>
+    
     
     </Text>
 </QuestDialog>

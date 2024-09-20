@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="100" id="62" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="62" huntingZoneId="100" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="84" id="100" prevId="0" villagerId="1606">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="84" id="2" prevId="0" villagerId="1606">
          
+         
         <Page social="0">A próxima etapa é triturar os escaravelhos até formar o pó usado para a gravação. Aqui, pegue este escaravelho e triture-o até virar pó.</Page>
+    
     
     </Text>
     <Text huntingZoneId="84" id="3" prevId="2" villagerId="1606">
          
+         
         <Page social="0">Você está indo bem, &lt;PCNAME&gt;. Muito bem, pegue esse pó e esse design e pratique em seu tempo livre. Enquanto isso, deixe-me mostrar o que vem a seguir no processo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="84" id="4" villagerId="1606">
          
+         
         <Page social="0">Você já terminou de esmagar os escaravelhos?</Page>
+    
     
     </Text>
 </QuestDialog>

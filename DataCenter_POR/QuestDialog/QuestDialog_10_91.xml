@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="10" id="91" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="10" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="61" id="100" prevId="0" villagerId="1012">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="61" id="2" prevId="0" villagerId="1012">
          
+         
         <Page social="4">A agitação dos Naga fez com que os animais corressem desenfreados pela região de Boan Strand. Infelizmente, precisamos tratar os sintomas e também a causa. Vá eliminar os rebanhos desenfreados de {@LinkCreature:10#20#frillfang sabertooths}, {@LinkCreature:10#4#lumbering kamaras}, {@LinkCreature:10#7#vicious mycanars} e {@LinkCreature:10#9#longtusk slashers}. E, como não queremos desperdiçar uma oportunidade, colete seus corações para Briale.</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="3" prevId="2" villagerId="1007">
          
+         
         <Page social="4">Graças a você, a Castanica está segura e aberta para negócios!</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="4" villagerId="1007">
          
+         
         <Page social="0">Sei que você tem muito a fazer, mas sabemos que você está à altura, &lt;PCNAME&gt;. Pela federação!</Page>
+    
     
     </Text>
 </QuestDialog>

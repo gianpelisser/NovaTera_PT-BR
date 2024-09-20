@@ -1,38 +1,52 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="48" id="2" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="48" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0">Tamur veio até você com um problema. Kaia, desolada com o enorme número de baixas, decidiu arriscar a vida em um ataque ousado contra os argons na Manopla de Khanovar. Tamur implorou para que você intercedesse, lembrando que Kaia poderia ser morta, o que abalaria o moral da tropa. Kaia se recusou a mudar de ideia, mas concordou em levar você e Hasmina para a batalha. Vocês lutaram heroicamente, mas o grande número de argons superou até mesmo a força de Kaia. Kaia se retirou com relutância, para alívio de Tamur.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0">Apresente-se a {@Creature:248#2001$$$Tamur} na Cidadela de Khanovar para receber uma redistribuição prioritária.</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="3" prevId="2" villagerId="2001">
          
+         
         <Page social="10">Obrigado... obrigado por vingar meu pai. Meus deveres exigiram que eu deixasse minha vingança de lado. &lt;NEXTPAGEBUTTON&gt;"Seu pai entendia o dever."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="10">É verdade. &lt;BR&gt;&lt;BR&gt;No entanto, temos outra crise no momento. {&lt;@Creature:248#2010$$Kaia} insiste em entrar em campo para tentar acabar com essa guerra.&lt;BR&gt;&lt;BR&gt;Você, mais do que ninguém, sabe que os deuses podem morrer tão facilmente quanto qualquer mortal. Não podemos perder Kaia. Isso abalaria o moral! &lt;BR&gt;&lt;BR&gt;Faça-me um favor - tente convencê-la a não ir.</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="4" prevId="3" villagerId="2010">
          
+         
         <Page social="4">Não tente me impedir, &lt;PCNAME&gt;. Por muito tempo, nós, deuses guardiões, observamos os acontecimentos do mundo, mas não fizemos nada.&lt;BR&gt;&lt;BR&gt;Conheço os riscos, mas isso não invalida meu dever para com nossos soldados.&lt;NEXTPAGEBUTTON&gt;"Pelo menos, deixe-me lutar ao seu lado!"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Muito bem. Se isso silenciar as objeções de Tamur, junte-se a mim. Com você e {@Creature:248#2011$$Hasmina} ao meu lado, ninguém poderá nos enfrentar! &lt;BR&gt;&lt;BR&gt;Vamos embora quando você estiver preparado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="5" prevId="4" villagerId="2010">
          
+         
         <Page social="4">Posso ouvir a canção da batalha - um som que não ouvia há muito tempo.&lt;BR&gt;&lt;BR&gt;Mostraremos aos argonautas o poder de nossa coragem!</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="6" prevId="5" villagerId="2001">
          
+         
         <Page social="10">Tenha coragem, meu amigo. Você, Hasmina e {@Creature:248#2010$$Kaia} enfrentaram nossos inimigos e sobreviveram. Esse exemplo inspirará nossas tropas nos próximos anos.&lt;BR&gt;&lt;BR&gt;Eu estou enviando você e Hasmina para Kanstria. Ela está esperando lá fora para informá-lo.</Page>
+    
     
     </Text>
 </QuestDialog>

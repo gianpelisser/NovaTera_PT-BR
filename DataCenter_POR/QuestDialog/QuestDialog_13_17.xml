@@ -1,39 +1,46 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="17" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="17" huntingZoneId="13" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="64" id="100" prevId="0" villagerId="1001">
          
+         
         <Page social="0">Adria e Teil agradeceram pelo seu valoroso serviço, mas disseram que suas habilidades são necessárias em outro lugar.&lt;BR&gt;&lt;BR&gt;Eles o encaminharam para o mestre de voo, que o colocou em um pégaso e o enviou em um voo vertiginoso para Velika, onde o Legado Troius o recebeu pessoalmente!</Page>
+    
     
     </Text>
     <Text huntingZoneId="64" id="2" prevId="0" villagerId="1001">
          
+         
         <Page social="4">Está se espalhando a notícia de tudo o que você fez por nós aqui, &lt;PCNAME&gt;. E está chegando a alguns ouvidos muito bem conectados.&lt;BR&gt;&lt;BR&gt;Apresentem-se ao &lt;b&gt;Conselheiro Teil&lt;/b&gt;, ele está ansioso para falar com vocês.</Page>
+    
     
     </Text>
     <Text huntingZoneId="64" id="3" prevId="2" villagerId="1009">
          
+         
         <Page social="4">Em nome da Federação Valkyon, gostaria de estender nossos agradecimentos por tudo o que você fez. Adria, Sersine e Leander falam muito bem de você.&lt;BR&gt;&lt;BR&gt;No entanto, a Federação precisa de bons soldados em outros lugares. Com a morte de Karascha, podemos nos contentar com isso aqui. É hora de você ir para Velika! &lt;BR&gt;&lt;BR&gt;Encontre Taleb na base da plataforma {@LinkCreature:213#1001#pegasus} nos penhascos do leste. Ele cuidará de sua...viagem.&lt;NEXTPAGEBUTTON&gt;"Sim, senhor!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="4" prevId="3" villagerId="1001">
          
+         
         <Page social="4">Eu estava esperando por você, &lt;PCNAME&gt;. Já montou em um pégaso? Ah, claro que sim... quando você chegou.&lt;BR&gt;&lt;BR&gt;Bem, eu prometo que a experiência nunca fica monótona. Não é barata, mas a exaltação nunca é! &lt;BR&gt;&lt;BR&gt;O Mestre de Voo Leiyane vai lhe dar uma sela.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="5" prevId="4" villagerId="1016">
          
+         
         <Page social="4">Normalmente, usamos o Pégaso para longas distâncias - como para voltar ao continente e à capital, Velika.&lt;BR&gt;&lt;BR&gt;Basta clicar no botão &lt;font color='#660000'&gt;Voo&lt;/font&gt; e escolher seu destino. É muito fácil! Para sua primeira viagem, você pode selecionar &lt;B&gt;Velika&lt;/B&gt; como seu destino.&lt;BR&gt;&lt;BR&gt;Oh, e por favor, desligue todos os dispositivos mágicos até que você tenha alcançado sua altitude de cruzeiro.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="6" prevId="5" villagerId="1097">
          
+         
         <Page social="4">Bem-vindo a Velika, Cidade das Rodas! Não sei o que você fez pela federação, mas é o suficiente para ter um Embaixador pessoalmente esperando por você.&lt;BR&gt;&lt;BR&gt;O Embaixador Troius está logo à frente e parece muito ansioso para falar com você.</Page>
     
-    </Text>
-    <Text huntingZoneId="63" id="7" prevId="6" villagerId="1107">
-         
-        <Page social="4">Salve, &lt;PCNAME&gt;! O Comandante Seir me pediu que lhe desse as boas-vindas pessoalmente a Velika. Somos gratos por seus tremendos esforços na Island of Dawn.&lt;BR&gt;&lt;BR&gt;São recrutas como você que guiarão a Federação Valkyon para um futuro mais brilhante!</Page>
     
     </Text>
 </QuestDialog>

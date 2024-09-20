@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="9" id="25" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="9" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="209" id="100" prevId="0" villagerId="1008">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="209" id="2" prevId="0" villagerId="1008">
          
+         
         <Page social="4">Como os mugatos são pragas, talvez seja necessária uma solução para removê-los.&lt;BR&gt;&lt;BR&gt;Os mugatos marcam seu território com uma mistura de ossos de suas vítimas e seus "restos".&lt;BR&gt;&lt;BR&gt;Ainda bem que você não é do tipo glamouroso, &lt;PCNAME&gt;. Porque precisamos do que está naquelas &lt;font color='#660000'&gt;pilhas de mugato&lt;/font&gt;. &lt;NEXTPAGEBUTTON&gt;"Você está brincando, certo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Os mugatos odeiam o cheiro do almíscar de mugato tanto quanto nós. É por isso que eles marcam seu território com ele.&lt;BR&gt;&lt;BR&gt;O ideal seria esfregarmos o produto em nós mesmos. Mas isso não me tornaria muito querido pelas tropas, não é mesmo? &lt;BR&gt;&lt;BR&gt;Podíamos espalhá-lo pelo perímetro da base. Marcar nosso próprio território, se preferir.</Page>
+    
     
     </Text>
     <Text huntingZoneId="209" id="3" prevId="2" villagerId="1008">
          
+         
         <Page social="4">Tudo bem, &lt;PCNAME&gt;. Sei que você foi bem-sucedido. Basta dizer que é óbvio que você está carregando bastante almíscar de mugato.&lt;BR&gt;&lt;BR&gt;A tampa está bem fechada, certo? Não há rachaduras no frasco? Não há resíduos do lado de fora? &lt;BR&gt;&lt;BR&gt;Talvez seja melhor deixar o frasco aí. Não há necessidade de você se aproximar mais. É verdade.</Page>
+    
     
     </Text>
     <Text huntingZoneId="209" id="4" villagerId="1008">
          
+         
         <Page social="0">Olhe, eu não gosto disso mais do que você. Mas prefiro cavar em meio a fezes de mugato do que me tornar fezes de mugato, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
 </QuestDialog>

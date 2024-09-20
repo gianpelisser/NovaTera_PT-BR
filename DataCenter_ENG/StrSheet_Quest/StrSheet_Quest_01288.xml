@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4593001" string="Looking out for Lookout Point" />
-    <String id="4593002" string="Look out for yourself out there." />
-    <String id="4593003" string="Proof of Kill: Argon Rear Guard" />
-    <String id="4593004" string="&quot;Pleasure to help.&quot;" />
-    <String id="4593005" string="Kill {@LinkCreature:45#3001#argonomorph Lokian archers} and {@LinkCreature:45#3002#reavers}, as well as {@LinkCreature:45#3003#kelba rippers} and {@LinkCreature:45#3004#athakela stalkers} near {@Rgn:45004$$Lookout Point}." />
-    <String id="4593006" string="Report to {@Creature:245#1004} at {@Rgn:45008$$Field Base Valiance}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4584001" string="Suppression Orders: Skyfields" />
+    <String id="4584002" string="Continuous subjugation always brings peace." />
+    <String id="4584003" string="Fine work out there, soldier." />
+    <String id="4584004" string="Proof of Kill: Argonomorphs" />
+    <String id="4584005" string="&quot;Victory for Valkyon!&quot;" />
+    <String id="4584006" string="Kill {@LinkCreature:45#4002#argonomorph tuwangis}, {@LinkCreature:45#4003#warfroggers}, and {@LinkCreature:45#4004#wendigos} in the {@Rgn:45005$$Skyfields}." />
+    <String id="4584007" string="Report to Laetesha at Pathfinder Post." />
 </StrSheet_Quest>

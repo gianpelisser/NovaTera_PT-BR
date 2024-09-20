@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="25" id="31" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="25" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="225" id="100" prevId="0" villagerId="1009">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="225" id="2" prevId="0" villagerId="1009">
          
+         
         <Page social="0">Esses cultistas começaram a convocar demônios. Os demônios agora estão se preparando para deixar a Catedral. Se deixarmos isso acontecer, todo o nosso trabalho de subjugar os monstros será em vão.&lt;BR&gt;&lt;BR&gt;Eliminar os {@LinkCreature:25#2051#cruel fimbrilisks}. Não tente fazer isso sozinho - não se esqueça de trazer seus companheiros.</Page>
+    
     
     </Text>
     <Text huntingZoneId="225" id="3" prevId="2" villagerId="1009">
          
+         
         <Page social="4">Bom trabalho! Ainda há mais cultistas do que eu consigo contar, mas já é um começo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="225" id="4" villagerId="1009">
          
+         
         <Page social="0">Elimine os fimbrilisks cruéis e traga de volta o núcleo das criaturas.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="41" id="27" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="41" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="241" id="100" prevId="0" villagerId="1005">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="241" id="2" prevId="0" villagerId="1005">
          
+         
         <Page social="10">Safna estava vindo para cá para me confrontar? Ainda bem que você o encontrou primeiro. Você pode ter salvado a vida dele - e não de panteras. &lt;BR&gt;&lt;BR&gt;Bem, se ele ainda quiser &lt;font color='#660000'&gt;fungo de milho gigante&lt;/font&gt;, &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7013#-19135,69664,1799&amp;type=1&amp;name=Fungo de milho gigante"&gt;procure por aqui&lt;/A&gt;&lt;/font&gt; e você poderá encontrar alguns.</Page>
+    
     
     </Text>
     <Text huntingZoneId="241" id="3" prevId="2" villagerId="1005">
          
+         
         <Page social="4">Não estou vendo nenhuma venenosa - elas devem deixar Safna feliz. Eu as entregarei. Parece ser o mínimo que posso fazer. E aceite isso por me ajudar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="241" id="4" villagerId="1005">
          
+         
         <Page social="0">&lt;font color='#660000'&gt;O fungo Astrocorn&lt;/font&gt; cresce aqui e ali na parte norte do Feral Valley.</Page>
+    
     
     </Text>
 </QuestDialog>

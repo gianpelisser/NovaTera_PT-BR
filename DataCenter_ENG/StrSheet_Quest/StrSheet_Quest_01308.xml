@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4672001" string="(Guild) Suppression Orders: Sikandari" />
-    <String id="4672002" string="Continual suppression keeps us safe." />
-    <String id="4672003" string="Thank you for your hard work." />
-    <String id="4672004" string="Proof of Kill: Sikandaris" />
-    <String id="4672005" string="&quot;For the federation.&quot;" />
-    <String id="4672006" string="Defeat {@LinkCreature:46#302#argonomorph fiends}, {@LinkCreature:46#301#argonomorph sikandaris}, {@LinkCreature:46#303#argonomorph blood fiends}, and {@LinkCreature:46#304#argonomorph jalmaraks} in the {@Rgn:46005}." />
-    <String id="4672007" string="Report to the nearest coordinator." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4633001" string="Mystery Machine" />
+    <String id="4633002" string="Please get component samples from the {@creature:46#7006#jurnagg portals} for me." />
+    <String id="4633003" string="Good work! I’ll report the research results soon." />
+    <String id="4633004" string="Break {@linkcreature:46#7006#jurnagg portals} in the {@Rgn:46009$$Three Towers Spires} and collect an argon component." />
+    <String id="4633005" string="&quot;Always happy to break stuff.&quot;" />
+    <String id="4633006" string="Collect grellok spire parts." />
+    <String id="4633007" string="Go to the {@Rgn:46017$$Shadowspark Chamber} and deliver argon component to {@creature:246#1034$$Hogird}." />
 </StrSheet_Quest>

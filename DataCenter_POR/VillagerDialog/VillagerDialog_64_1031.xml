@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="64" id="1031" voiceTypeId="5">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1031" huntingZoneId="64" voiceTypeId="5">
     <Text huntingZoneId="64" id="1" endSocial="14" prevId="0" villagerId="1031">
          
+         
         <Page social="4">Researchers need garrison troops for protection, but the reverse...not so much. When Elleon was in charge, the "brains" knew their place. Now we've got his brother Leander telling us what to do. Not my first choice to lead, but I'm just this guy.&lt;BR&gt;&lt;BR&gt;Since we're not the only ones exploring this island, we need a leader who's not afraid to get his hands dirty.</Page>
+    
     
     </Text>
 </VillagerDialog>

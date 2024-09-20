@@ -1,44 +1,60 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="24" id="32" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="24" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="224" id="100" prevId="0" villagerId="1009">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="224" id="2" prevId="0" villagerId="1009">
          
+         
         <Page social="5">Uma de minhas patrulhas não deu notícias e, com todos os perigos do deserto, quem sabe o que os está impedindo? Há muitas maneiras de morrer por lá.&lt;BR&gt;&lt;BR&gt;A rota deles os levou para o norte. Vá até lá e veja se consegue encontrar algum sinal deles.</Page>
+    
     
     </Text>
     <Text huntingZoneId="224" id="3" prevId="2" villagerId="1026">
          
+         
         <Page social="0">(Esse cadáver está muito mutilado, como se tivesse sido atacado por uma fera selvagem).</Page>
+    
     
     </Text>
     <Text huntingZoneId="224" id="4" prevId="2" villagerId="1027">
          
+         
         <Page social="0">(Um ferimento profundo de facada divide o peito desse cadáver. Parece a marca de uma lâmina orcana).</Page>
+    
     
     </Text>
     <Text huntingZoneId="224" id="5" prevId="2" villagerId="1028">
          
+         
         <Page social="0">(Inúmeras feridas cobrem esse cadáver).</Page>
+    
     
     </Text>
     <Text huntingZoneId="224" id="6" prevId="2" villagerId="1029">
          
+         
         <Page social="0">(Esse cadáver parece intocado, mas todos os odres de água próximos estão vazios).</Page>
+    
     
     </Text>
     <Text huntingZoneId="224" id="7" prevId="3" villagerId="1009">
          
+         
         <Page social="5">Eu esperava que houvesse alguns sobreviventes, pelo menos. Droga! &lt;BR&gt;&lt;BR&gt;Obrigado por ter recuperado as medalhas deles. Nunca devemos nos esquecer de nossos companheiros caídos.&lt;BR&gt;&lt;BR&gt;Tenho mais um soldado lá fora, sozinho, neste momento. Pode lhe dar uma mão? &lt;BR&gt;&lt;BR&gt;Encontre Qasimir perto da entrada da Vila do Vento de Areia... se ele ainda estiver lá.</Page>
+    
     
     </Text>
     <Text huntingZoneId="224" id="8" prevId="7" villagerId="1014">
          
+         
         <Page social="4">Mortos? Todos eles? Explosão. Stadrian deve estar se sentindo péssimo com a perda deles.&lt;BR&gt;&lt;BR&gt;Aquela patrulha deveria parar aqui e ajudar contra os kulkaris.&lt;BR&gt;&lt;BR&gt;Sente-se à altura do desafio?</Page>
+    
     
     </Text>
 </QuestDialog>

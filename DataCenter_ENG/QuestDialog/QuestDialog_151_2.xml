@@ -1,79 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="151" id="2" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="213" id="100" prevId="0" villagerId="1150">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="151" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1150">
         <Page social="0">Todoro and Korino guided you through their Noctenium Research Grounds. They explained their research on noctenium in progress—what the pocket realms are, how to pull noctenium out of the realm, and what noctenium can be used for.&lt;BR&gt;&lt;BR&gt;Although useful things were being made, you realized conflicts were brewing. You would need to learn more about these alliances.</Page>
-    
     </Text>
-    <Text huntingZoneId="213" id="2" prevId="0" villagerId="1150">
-         
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1150">
         <Page social="0">The federation wants to hear the song of noctenium and you are their ears. Today, I am the singer.&lt;BR&gt;&lt;BR&gt;We Mysterium researchers have made amazing progress in extracting energy from this strange new element and developing ticklish ways to utilize it. Yet this song is incomplete unless you touch the noctenium's power. Will you?</Page>
-    
     </Text>
-    <Text huntingZoneId="213" id="3" prevId="2" villagerId="1150">
-         
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1150">
         <Page social="4">Many guilds try to get their paws on our noctenium—and not all for tasty reasons. The Mysterium took great lengths to keep this research location secret. You smell trusty-worthy, though.&lt;BR&gt;&lt;BR&gt;When you're ready, I can take you there. Just ask. No blindfolds required.</Page>
-    
     </Text>
-    <Text huntingZoneId="151" id="4" prevId="3" villagerId="1001">
-         
+    <Text id="4" huntingZoneId="151" prevId="3" villagerId="1001">
         <Page social="4">This place feels familiar but not familiar, doesn't it?&lt;BR&gt;&lt;BR&gt;It’s a unique place. An overlap of the Dream and not of the Dream. When the argon queen took Sikander's flame and left this world she ruptured the barrier between the Dream and what lies outside. Time and space became unstable and formed little pocket realms like this one.&lt;BR&gt;&lt;BR&gt;The Mysterium found this one full of a new element—noctenium—and we've been studying it ever since.&lt;BR&gt;&lt;BR&gt;Want to know what uses we found for noctenium? You should go see Korino. He isn't far. Probably finding some new taste of noctenium. Noctenium flavors everything in this place to some degree. Go kill a few {@linkcreature:151#205#ghilliedhus} around Korino and see for yourself!</Page>
-    
     </Text>
-    <Text huntingZoneId="151" id="5" prevId="4" villagerId="1003">
-         
+    <Text id="5" huntingZoneId="151" prevId="4" villagerId="1003">
         <Page social="4">You're not a researcher...and you're not full of noctenium.  So you are far less interesting than I would want.&lt;BR&gt;&lt;BR&gt;Noctenium infuses everything found inside these overlaid spaces. Our research shows it bonds with living tissue to change it. It augments the natural predilection of people and creatures. Bonded with ore, it has tremendous strength.&lt;BR&gt;&lt;BR&gt;My researchers keep discovering new uses for it every day. It has unlimited potential! The challenge is extracting it from this realm and refining it. The animals and plants contain it in various configurations and quantities. Yet the largest concentrations seem to be layered in the land. That's why Todoro developed a noctenium extractor.&lt;BR&gt;&lt;BR&gt;Go to {@linkcreature:151#1002#Todoro}. He's checking on one of his extractors now. He can explain how they work.</Page>
-    
     </Text>
-    <Text huntingZoneId="151" id="6" prevId="5" villagerId="1002">
-         
+    <Text id="6" huntingZoneId="151" prevId="5" villagerId="1002">
         <Page social="4">My extractors pull raw noctenium from deep within.&lt;BR&gt;&lt;BR&gt;Too many extractors hurt the land and may rupture this already fractured realm. So, it's not wise to have too many of them, but necessary for handling noctenium.&lt;BR&gt;&lt;BR&gt;Alliances say they're dying to get noctenium, but really they're dying to get these extractors.</Page>
-    
     </Text>
-    <Text huntingZoneId="151" id="7" prevId="6" villagerId="1002">
-         
+    <Text id="7" huntingZoneId="151" prevId="6" villagerId="1002">
         <Page social="4">Obviously, by "dying" I mean "killing!" Careless fights like that can shut down an extractor for ages! In fact, this one needs my attention.&lt;BR&gt;&lt;BR&gt;But extraction is only the beginning. If you're interested in more of the Mysterium's research go back and ask Korino. Oh while you're there, tell him this extractor is out of commission for a while.&lt;BR&gt;&lt;BR&gt;Noctenium smiles, &lt;PCNAME&gt;.</Page>
-    
     </Text>
-    <Text huntingZoneId="151" id="8" prevId="7" villagerId="1003">
-         
+    <Text id="8" huntingZoneId="151" prevId="7" villagerId="1003">
         <Page social="4">An extractor down? Extractors are the key way to collect the noctenium we need!&lt;BR&gt;&lt;BR&gt;These alliances are constantly interrupting each others' extraction trying to gain a leg up on each other. But this research is part of the Valkyon Federation! They're supposed to leave us out of their squabbles!&lt;BR&gt;&lt;BR&gt;Obviously, they're aiming to bring down the federation completely. I don’t like it.&lt;BR&gt;&lt;BR&gt;Regardless, we still need to perform research on noctenium, so someone—*cough* &lt;PCName&gt; *cough*—will need to learn how else we collect noctenium.</Page>
-    
     </Text>
-    <Text huntingZoneId="151" id="9" prevId="8" villagerId="1003">
-         
+    <Text id="9" huntingZoneId="151" prevId="8" villagerId="1003">
         <Page social="4">Frant, for instance, discovered you can get noctenium by mining. Just like mining ore, but this ore is superpowered with noctenium.&lt;BR&gt;&lt;BR&gt;Frant found the ore here is extremely durable and useful for weaponry and armor. His latest research is by far the most sought after by those warmongering alliance folk. But he won't just hand out information freely.&lt;BR&gt;&lt;BR&gt;If you want to hear about his new work, you'll need to offer him a gift. Gather some new noctenium ore and take it to him.</Page>
-    
     </Text>
-    <Text huntingZoneId="151" id="10" prevId="9" villagerId="1004">
-         
+    <Text id="10" huntingZoneId="151" prevId="9" villagerId="1004">
         <Page social="4">You brought me ore samples? How do you feel?&lt;BR&gt;&lt;BR&gt;No, I'm not a physician. And it's not just idle curiosity. Our research shows noctenium elevates certain emotions and desires in individuals.&lt;BR&gt;&lt;BR&gt;When handled carefully, it is very useful, but if not, it is very dangerous. Give me the noctenium, and I will tell you about when I first encountered it.</Page>
-    
     </Text>
-    <Text huntingZoneId="151" id="11" villagerId="1004">
-         
+    <Text id="11" huntingZoneId="151" villagerId="1004">
         <Page social="0">I need more noctenium for my research. I always need more.</Page>
-    
     </Text>
-    <Text huntingZoneId="151" id="12" prevId="10" villagerId="1004">
-         
+    <Text id="12" huntingZoneId="151" prevId="10" villagerId="1004">
         <Page social="4">When I first encountered noctenium, I turned warlike and attacked my own coworkers. I didn't even realize what I was doing. Thanks to good friends like Danarun, it didn’t end badly.&lt;BR&gt;&lt;BR&gt;Noctenium has to be handled carefully. Anyone trying to consume noctenium without precautions is just fool-hardy. We Mysterium researchers learned how to safely handle noctenium and how to utilize it in many different ways.&lt;BR&gt;&lt;BR&gt;My latest research results created a potion that makes you invisible—not completely invisible, but with more research, that may be possible.&lt;BR&gt;&lt;BR&gt;Would you like a sample?</Page>
-    
     </Text>
-    <Text huntingZoneId="151" id="13" prevId="12" villagerId="1004">
-         
+    <Text id="13" huntingZoneId="151" prevId="12" villagerId="1004">
         <Page social="4">What do you think? Pretty awesome?&lt;BR&gt;&lt;BR&gt;The potion fails if you use a skill or get caught by a detection totem. So, keep that in mind.&lt;BR&gt;&lt;BR&gt;Noctenium interacts in a variety of ways with living tissue. This is just one application.&lt;BR&gt;&lt;BR&gt;Danarun can tell you more on that. But it looks like he's surrounded by sabertooths. He's a lot more book reader than fighter. Do the poor guy a favor and clear out some {@linkcreature:151#203#noctenium sabertooths}. It should ease his stress.</Page>
-    
     </Text>
-    <Text huntingZoneId="151" id="14" prevId="13" villagerId="1005">
-         
+    <Text id="14" huntingZoneId="151" prevId="13" villagerId="1005">
         <Page social="4">Did you pare down the sabertooth beasts for me? How thoughtful! Thank you.&lt;BR&gt;&lt;BR&gt;I am attempting to ascertain ways to use noctenium to enhance people's physiques and mental acuity. The pinnacle of my research resulted in the noctenium infusion. &lt;BR&gt;&lt;BR&gt;One simply needs to learn proper application. With the infusion, combatants can attack enemies more powerfully. Now I strive for improving its stability and performance.&lt;BR&gt;&lt;BR&gt;As appreciative as I am for clearing away some of the sabertooths, I hate to impose, but if you aren’t too busy, can you get rid of a {@linkcreature:151#301#dracoloth}, before returning to Korino? The enormity of the noctenium infused in their tissue is throwing off my readings.</Page>
-    
     </Text>
-    <Text huntingZoneId="151" id="15" prevId="14" villagerId="1003">
-         
+    <Text id="15" huntingZoneId="151" prevId="14" villagerId="1003">
         <Page social="4">Did you get the information the federation asked for? Were Frant and Danarun helpful? That's good.&lt;BR&gt;&lt;BR&gt;I just wish the federation would put a stop to the alliance intrusions into our research.</Page>
-    
     </Text>
 </QuestDialog>

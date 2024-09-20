@@ -1,19 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="29" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="13" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="64" id="100" prevId="0" villagerId="1001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="64" id="2" prevId="0" villagerId="1001">
          
+         
         <Page social="4">Essa base era o coração de nossos esforços aqui na ilha. Há acampamentos de pesquisa espalhados e nossos soldados no Desfiladeiro Contaminado, mas era aqui que a federação se sentia confiante de que estávamos fazendo a diferença.&lt;BR&gt;&lt;BR&gt;De qualquer forma, desculpe a nostalgia. Como eu disse, Jorhon tem muito trabalho a fazer.</Page>
+    
     
     </Text>
     <Text huntingZoneId="64" id="3" prevId="2" villagerId="1006">
          
+         
         <Page social="4">Parece que a federação recebeu nossa solicitação de mais pessoas... um pouco tarde. Mas, mesmo assim, fico feliz pela ajuda. Estamos todos ansiosos para sair desta ilha.</Page>
     
+    
+    </Text>
+    <Text id="4" huntingZoneId="64" prevId="3" villagerId="1029">
+        <Page social="4">KNOWING HOW TO MAKE THINGS GO BOOM IS IMPORTANT, ESPECIALLY WHEN YOU'RE FACING HORDES OF ENEMIES!&lt;BR&gt;&lt;BR&gt;NOW GET OUT OF HERE AND KILL SOME STUFF FOR FREEDOM!</Page>
     </Text>
 </QuestDialog>

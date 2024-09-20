@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="63" voiceTypeId="0">
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="8" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
     <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
     <Text id="100" huntingZoneId="63" prevId="0" villagerId="1600">
-         
         <Page social="0" />
-    
     </Text>
     <Text id="2" huntingZoneId="63" prevId="0" villagerId="1600">
-         
         <Page social="4">Good day! Elinu's Pleiades have recently been planning a prolongued exploration of the Sinestral Manor, which is located in the Valley of the Fang. According to some reports, Malgarios, who lives there, was fed up with a fragment of the rune of Soulu, the rune of Might, which gives him the ability to lead smaller monsters. Something terrible is coming, and the Pleiades need to get their hands on this artifact. It's not convenient to ask a random adventurer for help, but it doesn't hurt. I need 5 shards, enough to rip all the rune's energy out of Malgarios' vile body! Do not worry about the reward, it will not seem unworthy to you! If you agree, I'm looking forward to your reply!</Page>
-    
     </Text>
     <Text id="3" huntingZoneId="63" prevId="2" villagerId="1600">
-         
         <Page social="4">Did you succeed?! I don't even know what words to choose! I am very grateful to you! Keep your well-deserved reward!</Page>
-    
     </Text>
     <Text id="4" huntingZoneId="63" villagerId="1600">
-         
         <Page social="0">The storm-clouds are gathering, the Godslayer has begun to act, you need to gain strength and patience to defeat him ...</Page>
-    
     </Text>
 </QuestDialog>

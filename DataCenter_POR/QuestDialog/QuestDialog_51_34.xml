@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="51" id="34" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="51" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="251" id="100" prevId="0" villagerId="1037">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="251" id="2" prevId="0" villagerId="1037">
          
+         
         <Page social="4">O trabalho árduo de nossos batedores valeu a pena. Achamos que localizamos de onde estão vindo os pilares. A Prefeita Thenuvia precisa dessa informação o mais rápido possível.&lt;BR&gt;&lt;BR&gt;Naturalmente, há apenas um soldado a quem eu confiaria essa informação - você!</Page>
+    
     
     </Text>
     <Text huntingZoneId="251" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="4">Kaia preserve Ghabar e todas as vanguardas! Essa é uma ótima notícia!&lt;BR&gt;&lt;BR&gt;Se conseguirmos impedir que esses pilones cheguem ao campo de batalha, Thulsa terá que empenhar suas forças - e então poderemos destroçá-los! Hah!</Page>
+    
     
     </Text>
 </QuestDialog>

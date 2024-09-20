@@ -1,77 +1,107 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="48" id="1" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="48" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0">Você retornou a Kaiator, entregando um relatório de pesquisa a Tamur. Tamur expressou sua gratidão pelo seu papel na vingança da morte do pai dele, mas logo tratou de assuntos de guerra. Em um esforço para evitar o desastre na frente de Khanovar, Tamur o enviou para ajudar as forças de lá. Você entregou ajuda ao campo de batalha e, em seguida, assumiu o comando de uma arma de cerco para se defender de um ataque de argons.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0">Retorne a {@Rgn:84001$$Kaiator} e entregue o relatório de pesquisa ao Comandante Tamur.</Page>
+    
     
     </Text>
     <Text huntingZoneId="528" id="3" prevId="2" villagerId="5005">
          
+         
         <Page social="4">Obrigado... obrigado por vingar meu pai. Meus deveres exigiram que eu deixasse minha vingança de lado."&lt;NEXTPAGEBUTTON&gt;"Seu pai entendia o dever."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Espero que sim. O que o traz de volta a Kaiator?&lt;BR&gt;&lt;BR&gt;Eh? Um relatório de nossos amigos no Mysterium? Deixe-me revisar isso. Voltaremos a nos falar.&lt;BR&gt;&lt;BR&gt;Incidentalmente, Gislan queria um momento de seu tempo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="528" id="4" prevId="3" villagerId="5026">
          
+         
         <Page social="4">Obrigado, &lt;PCNAME&gt;. {@Creature:246#2008$$Hasmina} é uma jovem oficial brilhante como você. Somos gratos a você por salvar a vida dela.&lt;NEXTPAGEBUTTON&gt;"Eu nunca abandonaria um camarada."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Claro que sim. Peço que fique de olho em Hasmina. Os sobreviventes geralmente carregam uma culpa terrível. Não podemos nos dar ao luxo de perder um soldado como ela.&lt;BR&gt;&lt;BR&gt;Ah, parece que Tamur quer falar com você novamente. Até logo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="528" id="5" prevId="4" villagerId="5005">
          
+         
         <Page social="4">O relatório de Adeldur é tão alegre quanto o gemido de um zompori. A ameaça do argons se intensifica, mas não sabemos o que eles esperam conseguir a curto prazo.&lt;BR&gt;&lt;BR&gt;Vá para a {@Rgn:48001$$Khanovar Front}. Precisamos reforçar nossas forças lá.&lt;NEXTPAGEBUTTON&gt;"Entendido, senhor."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Pegue este pergaminho para acelerar sua jornada. Eu o encontrarei lá.</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="6" prevId="5" villagerId="2003">
          
+         
         <Page social="12">Bem-vindo a Khanovar! Argons e baixas são nossas especialidades!&lt;BR&gt;&lt;BR&gt;Os combates estão parados no momento. As especulações correm soltas, mas ninguém sabe por que os argons recuaram.&lt;BR&gt;&lt;BR&gt;Você deveria se informar com {@Creature:248#2004$$Charti}. Boa sorte.</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="7" prevId="6" villagerId="2004">
          
+         
         <Page social="4">Perdi metade das minhas forças ao parar um surto de argons ontem. Eles apareceram do nada, nos atacaram e se retiraram. Desde então, nem um pio deles. É de enlouquecer.&lt;BR&gt;&lt;BR&gt;Vá até {@Rgn:48002$$Khanovar Citadel}. O Comandante Tamur está esperando lá. Terminou de falar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="8" prevId="7" villagerId="2001">
          
+         
         <Page social="4">As coisas parecem ruins. Espero que você esteja pronto para lutar.&lt;BR&gt;&lt;BR&gt;Temos muitas baixas em {@Rgn:48008$$ Cratera Magthulk}. Perdemos muitos de nossos melhores ferreiros.&lt;NEXTPAGEBUTTON&gt;"Como posso ajudar?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">O Caerok precisa de suprimentos médicos imediatamente. Estou enviando você para entregar os suprimentos. Torne-se útil enquanto estiver lá.</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="9" prevId="8" villagerId="2009">
          
+         
         <Page social="0">Que as bênçãos estejam com você, &lt;PCCLASS:lcase&gt;. Obrigado pelos suprimentos. Graças a eles, posso salvar mais vidas.&lt;BR&gt;&lt;BR&gt;Os argons atingiram em cheio nossa posição. Jekahb está tentando reunir nossos sobreviventes. Entre em contato com ele.</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="10" prevId="9" villagerId="2005">
          
+         
         <Page social="4">Eu cuidarei de nossas baixas. Enviamos as armas de cerco para o {@Rgn:48002$$Kanobia Camp}. Esses gigantes argonomorfos vão mastigar nossas forças se não os detivermos! &lt;BR&gt;&lt;BR&gt;Encontre Karakhir e leve essas armas para a luta!</Page>
+    
     
     </Text>
     <Text huntingZoneId="248" id="11" prevId="10" villagerId="2006">
          
+         
         <Page social="4">Conheço seu trabalho, &lt;PCNAME&gt;. Meu pai falou bem de você.&lt;BR&gt;&lt;BR&gt;Não há tempo para conversar, no entanto. Desenvolvemos uma nova arma de cerco bem a tempo para uma grande investida em argons.&lt;BR&gt;&lt;BR&gt;Entre lá e deixe que eles a peguem!</Page>
+    
     
     </Text>
     <Text huntingZoneId="48" id="12" prevId="11" villagerId="2000">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="248" id="13" prevId="12" villagerId="2006">
          
+         
         <Page social="8">Hah! Isso deve silenciar as críticas de meu pai.&lt;BR&gt;&lt;BR&gt;Bem feito, &lt;PCNAME&gt;. Derrubar aqueles gigantes argonomorfos tira muita pressão de nossas linhas.&lt;BR&gt;&lt;BR&gt;Foi bom trabalhar com você. Boa sorte por aqui.</Page>
+    
     
     </Text>
 </QuestDialog>

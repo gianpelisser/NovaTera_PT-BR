@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Teleport xmlns="https://vezel.dev/novadrop/dc/StrSheet_Teleport" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Teleport StrSheet_Teleport.xsd">
     <String string="Posto Avançado: Leander" stringId="1" />
     <String string="Posto Avançado: Tainted Gorge" stringId="2" />
@@ -192,7 +192,8 @@
     <String string="{@Rgn:19117}" stringId="1915" />
     <String string="{@Rgn:19118}" stringId="1916" />
     <String string="{@Rgn:9809010}" stringId="1917" />
-	<String string="{@Rgn:9716002}" stringId="1918" />
+    <String string="{@Rgn:9716002}" stringId="1918" />
+    <String string="{@Rgn:6465}" stringId="6465" />
     <String string="{@Rgn:30019}" stringId="9025" />
     <String string="Entrada: Manaya's Core, Argon Corpus" stringId="9026" />
     <String string="{@Rgn:9050000}" stringId="9050" />
@@ -208,7 +209,11 @@
     <String string="{@Rgn:8000039}" stringId="9093" />
     <String string="{@Rgn:9094001}" stringId="9094" />
     <String string="Entrada: The Abscess" stringId="9711" />
+    <String string="{@Rgn:9716001}" stringId="9716" />
+    <String string="{@Rgn:9777002}" stringId="9777" />
     <String string="{@Rgn:9808001}" stringId="9808" />
     <String string="{@Rgn:9809001}" stringId="9809" />
+    <String string="{@Rgn:9885003}" stringId="9885" />
+    <String string="Saravash's Den Entrance" stringId="9979" />
     <String string="{@Rgn:1810041}" stringId="18110" />
 </StrSheet_Teleport>

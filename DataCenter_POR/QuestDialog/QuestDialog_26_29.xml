@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="26" id="29" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="26" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="226" id="100" prevId="0" villagerId="1006">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="226" id="2" prevId="0" villagerId="1006">
          
+         
         <Page social="5">Talvez haja alguém que possa ajudar a identificar a origem da vida não natural na bacia. Encontre {@LinkCreature:226#1012#Vardin} e explique o que descobrimos com os corações. Ele pode ser difícil de convencer, então mate alguns {@LinkCreature:26#2006#micanares contaminados} para que Vardin tenha algo com que compará-los.&lt;BR&gt;&lt;BR&gt;Vá rápido. O equilíbrio deve ser preservado!</Page>
+    
     
     </Text>
     <Text huntingZoneId="226" id="3" prevId="2" villagerId="1012">
          
+         
         <Page social="5">Sua história soa fantástica, mas olhar para essas amostras dificulta a argumentação.&lt;BR&gt;&lt;BR&gt;As relíquias poderiam ser a fonte da magia? É difícil dizer. Os rumores sobre a Fonte de Shara também atribuem poderes incríveis a essa relíquia. Para ser honesto, eu apostaria na fonte antes das relíquias.</Page>
+    
     
     </Text>
     <Text huntingZoneId="226" id="4" villagerId="1012">
          
+         
         <Page social="0">Sua notícia é intrigante, mas sem algo que a corrobore, é pouco mais que uma história de taberna.</Page>
+    
     
     </Text>
 </QuestDialog>

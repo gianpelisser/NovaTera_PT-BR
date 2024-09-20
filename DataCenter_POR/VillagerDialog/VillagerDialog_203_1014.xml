@@ -1,13 +1,17 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="203" id="1014" voiceTypeId="4">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1014" huntingZoneId="203" voiceTypeId="4">
     <Text huntingZoneId="203" id="1" endSocial="14" prevId="0" villagerId="1014">
          
+         
         <Page social="4">Visiting these woods is either very brave or very foolish. I've been called both. How about you?</Page>
+    
     
     </Text>
     <Text huntingZoneId="203" id="99" endSocial="14" prevId="0" villagerId="1014">
          
+         
         <Page social="4" />
+    
     
     </Text>
 </VillagerDialog>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="32" id="91" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="32" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="73" id="100" prevId="0" villagerId="1009">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="73" id="2" prevId="0" villagerId="1009">
          
+         
         <Page social="0">Aqueles ragers de Sihran tomaram o Monte Tyrannas e estão atrapalhando nossa cadeia de suprimentos.&lt;BR&gt;&lt;BR&gt;Preciso que você elimine os {@LinkCreature:32#1#fighters} e {@LinkCreature:32#3#berserkers} de Sihran, e aqueles {@LinkCreature:32#2#tuwangi hornheads} para atrasá-los.&lt;BR&gt;&lt;BR&gt;Deixe Kamese saber se você tiver sucesso.</Page>
+    
     
     </Text>
     <Text huntingZoneId="232" id="3" prevId="2" villagerId="1030">
          
+         
         <Page social="4">Muito bem! Enviaremos soldados para terminar o resto.</Page>
+    
     
     </Text>
     <Text huntingZoneId="232" id="4" villagerId="1030">
          
+         
         <Page social="0">Precisarei de provas para receber o prêmio.</Page>
+    
     
     </Text>
 </QuestDialog>

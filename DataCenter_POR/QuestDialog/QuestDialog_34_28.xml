@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="34" id="28" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="34" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="234" id="100" prevId="0" villagerId="1002">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="234" id="2" prevId="0" villagerId="1002">
          
+         
         <Page social="4">Não há nada mais aterrorizante do que um ataque maciço de wendigos. Suas predações se tornam mais ousadas a cada dia.&lt;BR&gt;&lt;BR&gt;Precisamos proteger essa área se quisermos ter sucesso. Preciso que você mate alguns {@LinkCreature:34#610#wendigo ragers} e {@LinkCreature:34#710#warlords} para enfraquecer a força deles.&lt;BR&gt;&lt;BR&gt;Mova-se rapidamente e não os atraia de volta à nossa posição.</Page>
+    
     
     </Text>
     <Text huntingZoneId="234" id="3" prevId="2" villagerId="1002">
          
+         
         <Page social="4">Bem lutado. Enquanto os wendigos estão lambendo suas feridas, podemos reforçar nossa posição.</Page>
+    
     
     </Text>
 </QuestDialog>

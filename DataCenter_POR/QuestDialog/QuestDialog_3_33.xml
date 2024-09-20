@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="3" id="33" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="3" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="203" id="100" prevId="0" villagerId="1007">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="203" id="2" prevId="0" villagerId="1007">
          
+         
         <Page social="0">Alguém está ajudando os devas, alguém com muito poder. Ele precisa ser detido. Infiltre-se na Deva Silva e mate {@LinkCreature:3#15#ebonheart sorcerers} e {@LinkCreature:3#14#reavers of resurrection} e traga-me seus frios corações negros.&lt;BR&gt;&lt;BR&gt;Nós os ensinaremos a se aliar aos inimigos da federação!</Page>
+    
     
     </Text>
     <Text huntingZoneId="203" id="3" prevId="2" villagerId="1007">
          
+         
         <Page social="4">Obrigado, &lt;PCNAME&gt;. Seja qual for a trama nefasta que eles planejaram, dormirei melhor sabendo que ela foi interrompida.</Page>
+    
     
     </Text>
     <Text huntingZoneId="203" id="4" villagerId="1007">
          
+         
         <Page social="0">É uma missão difícil, mas estamos lutando pela sobrevivência de Crescentia. Isso tem que ser feito.</Page>
+    
     
     </Text>
 </QuestDialog>

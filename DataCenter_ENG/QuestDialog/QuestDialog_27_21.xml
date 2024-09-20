@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="27" id="21" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="70" id="100" prevId="0" villagerId="1020">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="70" prevId="0" villagerId="1020">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="70" id="2" prevId="0" villagerId="1020">
-         
+    <Text id="2" huntingZoneId="70" prevId="0" villagerId="1020">
         <Page social="5">My husband, {@LinkCreature:227#1019#Jordal}, recently joined the garrison. We had little time for farewells. Would you take this necklace to him at &lt;font color='#660000'&gt;Castra Mysterium&lt;/font&gt;?&lt;BR&gt;&lt;BR&gt;Tell him that he is loved and constantly in my thoughts.</Page>
-    
     </Text>
-    <Text huntingZoneId="227" id="3" prevId="2" villagerId="1019">
-         
+    <Text id="3" huntingZoneId="227" prevId="2" villagerId="1019">
         <Page social="13">Remember her? If things don't get better, she's going to have to remember me! I'm supposed to report to Castra Mysterium, and I won't make it alive. Not without help.&lt;BR&gt;&lt;BR&gt;Could you clear a path through the {@LinkCreature:27#1#loamy sporewalkers} and let {@LinkCreature:227#1006#Ellahne} know we haven't deserted, that we're not cowards?</Page>
-    
     </Text>
-    <Text huntingZoneId="227" id="4" prevId="3" villagerId="1006">
-         
+    <Text id="4" huntingZoneId="227" prevId="3" villagerId="1006">
         <Page social="5">Hmph. Excuses don't make up for missing a movement. Jordal knows where we're at. He should make his way here with all due speed.&lt;BR&gt;&lt;BR&gt;Perhaps now that you've done his fighting for him, he'll at least show up.</Page>
-    
     </Text>
 </QuestDialog>

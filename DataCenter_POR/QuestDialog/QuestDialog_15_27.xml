@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="15" id="27" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="15" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="215" id="100" prevId="0" villagerId="1011">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="215" id="2" prevId="0" villagerId="1011">
          
+         
         <Page social="5">Estamos usando bandagens como loucos por aqui e estamos com poucos materiais para fazer mais. Por acaso você tem algum fio de sylva à mão? &lt;BR&gt;&lt;BR&gt;Não? Pode me arranjar um pouco? Pegue-o naquelas plantas marrons e nodosas perto daqui. Só não coma os cogumelos, pois ouvi dizer que eles fazem você ver coisas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="215" id="3" prevId="2" villagerId="1011">
          
+         
         <Page social="5">Isso é uma grande ajuda! Aqui está uma pequena coisa para você.</Page>
+    
     
     </Text>
     <Text huntingZoneId="215" id="4" villagerId="1011">
          
+         
         <Page social="0">Já mencionei que estamos ficando sem bandagens?</Page>
+    
     
     </Text>
 </QuestDialog>

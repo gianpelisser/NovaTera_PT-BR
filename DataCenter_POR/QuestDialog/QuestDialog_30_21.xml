@@ -1,34 +1,46 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="30" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="71" id="100" prevId="0" villagerId="1105">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="71" id="2" prevId="0" villagerId="1105">
          
+         
         <Page social="1">Não, não, não! &lt;BR&gt;&lt;BR&gt;Outro dispositivo de análise quebrado? Eu mal o toquei! O Vice-Diretor Deresk vai me matar se eu pedir outro! &lt;BR&gt;&lt;BR&gt;Pode consertar esse {@LinkCreature:71#1110#dispositivo de análise} ou pedir para {@LinkCreature:71#1108$$Adean} fazer isso?</Page>
+    
     
     </Text>
     <Text huntingZoneId="71" id="3" prevId="2" villagerId="1110">
          
+         
         <Page social="1">(O {@LinkCreature:71#1110#dispositivo de análise} faz um barulho de moagem e um estranho líquido violeta escorre dele.&lt;BR&gt;&lt;BR&gt;Está definitivamente quebrado. Leve-o para {@LinkCreature:71#1108$$Adean}, o comerciante de equipamentos).</Page>
+    
     
     </Text>
     <Text huntingZoneId="71" id="4" prevId="3" villagerId="1108">
          
+         
         <Page social="1">{@LinkCreature:71#1105$$Mienne} do {@LinkCreature:71#1110$$ dispositivo de análise}? Vamos dar uma olhada.&lt;BR&gt;&lt;BR&gt;Bem, não é de se admirar. Quando foi sintonizado pela última vez? &lt;BR&gt;&lt;BR&gt;Aqui, conecte isso naquela tomada ali. Se funcionar, leve-o para {@LinkCreature:71#1102$$Deresk} e diga a ele para não economizar na manutenção.</Page>
+    
     
     </Text>
     <Text huntingZoneId="71" id="5" prevId="4" villagerId="1111">
          
+         
         <Page social="1">(O dispositivo zumbe baixinho.)</Page>
+    
     
     </Text>
     <Text huntingZoneId="71" id="6" prevId="5" villagerId="1102">
          
+         
         <Page social="1">Manutenção? Por quê? &lt;BR&gt;&lt;BR&gt;Antes de dá-lo à Mienne, eu o usei por quatro anos e nunca tive problemas com ele!</Page>
+    
     
     </Text>
 </QuestDialog>

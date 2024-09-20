@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="31" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="30" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="230" id="100" prevId="0" villagerId="1016">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="230" id="2" prevId="0" villagerId="1016">
          
+         
         <Page social="1">Você sabe por que está aqui, &lt;PCNAME&gt;? Seu destino é me ajudar, pupilo favorito do grande Feiticeiro Oshar. Sou capaz de muito mais do que loções para arrepiar os cabelos.&lt;BR&gt;&lt;BR&gt;Estou tentando encontrar uma maneira de proteger um soldado - ou um estudante dos mistérios eldritch - da eletrocussão.&lt;BR&gt;&lt;BR&gt;Você pode me ajudar a fazer história antielétrica?</Page>
          
+         
         <Page social="0">Peço apenas que cada um de nós use seus pontos fortes. Eu tenho uma mente engenhosa e uma vontade indomável. Você... você é muito bom em matar coisas, pelo que me disseram.&lt;BR&gt;&lt;BR&gt;Preciso de uma mecha de cabelo das preguiças que correm desenfreadas por esse suposto jardim. Sim, realmente... preguiças.&lt;BR&gt;&lt;BR&gt;Minha teoria tem a ver com pelo úmido e eletricidade estática. É magia simpática. Você não entenderia.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="3" prevId="2" villagerId="1016">
          
+         
         <Page social="1">Você tem talento para a violência, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Finalmente, agora posso criar minha obra-prima: a mortalha de amortecimento.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="4" villagerId="1016">
          
+         
         <Page social="0">Preciso de muito mais pêlos de preguiça para tecer uma mortalha de amortecimento!&lt;BR&gt;&lt;BR&gt;...para completar meu experimento, quero dizer! Definitivamente, isso!</Page>
+    
     
     </Text>
 </QuestDialog>

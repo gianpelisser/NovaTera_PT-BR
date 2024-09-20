@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="487" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="487" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="203" id="100" prevId="0" villagerId="1022">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="203" id="2" prevId="0" villagerId="1022">
          
+         
         <Page social="0">Cultistas naquela caverna, hein? Coisas fascinantes.&lt;BR&gt;&lt;BR&gt;Ouçam, porém, eles carregam fichas com ônix incrustadas nelas. Ônix é muito valioso.&lt;BR&gt;&lt;BR&gt;Traga-me essas fichas, e eu lhe pagarei com prazer por elas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="203" id="3" prevId="2" villagerId="1022">
          
+         
         <Page social="5">Eh, eles são menores do que eu esperava.&lt;BR&gt;&lt;BR&gt;Mesmo assim, você fez o trabalho, e eu agradeço. Fique com isso e obrigado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="203" id="4" villagerId="1022">
          
+         
         <Page social="0">Eu pagarei por eles. Eu pagarei.&lt;BR&gt;&lt;BR&gt;Vamos lá, agora.</Page>
+    
     
     </Text>
 </QuestDialog>

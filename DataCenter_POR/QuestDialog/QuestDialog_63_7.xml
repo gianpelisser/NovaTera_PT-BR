@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="63" id="7" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="63" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="63" id="100" prevId="0" villagerId="1100">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="2" prevId="0" villagerId="1100">
          
+         
         <Page social="5">Estou curioso para ver o que você tem. Você é como a maioria dos recrutas que passam por aqui ou é algo diferente? &lt;BR&gt;&lt;BR&gt;Vamos ver até onde você vai com Haidehr - ele é nosso duelista e talvez o melhor de Velika. Então saberei com o que tenho que trabalhar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="1070">
          
+         
         <Page social="5">Pronto para provar seu valor, não é mesmo? Não há melhor maneira do que um duelo, se você quer saber.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="63" voiceTypeId="0">
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
     <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
     <Text id="100" huntingZoneId="63" prevId="0" villagerId="1600">
-         
         <Page social="0" />
-    
     </Text>
     <Text id="2" huntingZoneId="63" prevId="0" villagerId="1600">
-         
         <Page social="4">Oh hello! Glad to see you again! We have received information about the location of another great rune - the Algiz Rune. According to ancient scriptures found in Velika's library, this artifact gave the wearer tremendous stamina and protection! So, let's move on to the place of research. This time our goal is the Golden Labyrinth. I have no idea how the rune got to Barakos, but he became somehow invincible, and an unusual aura emanates from him ... Surely it is Algiz who gives him strength! I really hope you can help me this time!</Page>
-    
     </Text>
     <Text id="3" huntingZoneId="63" prevId="2" villagerId="1600">
-         
         <Page social="4">Are you already done?! However! I was expecting it to take longer ... Thanks for the help! Hey hey, where did you go? Don't forget the reward!</Page>
-    
     </Text>
     <Text id="4" huntingZoneId="63" villagerId="1600">
-         
         <Page social="0">Only the second rune ... How much time it takes to search for them. The key is to do it in time...</Page>
-    
     </Text>
 </QuestDialog>

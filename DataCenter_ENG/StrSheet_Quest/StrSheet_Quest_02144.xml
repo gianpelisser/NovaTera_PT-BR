@@ -1,17 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="60509001" string="Things and Stuff" />
-    <String id="60509002" string="&quot;Thanks.&quot;" />
-    <String id="60509003" string="" />
-    <String id="60509004" string="" />
-    <String id="60509005" string="Talk to {@LinkCreature:63#3002#Taratia} about a job." />
-    <String id="60509006" string="&quot;I'm here to serve.&quot;" />
-    <String id="60509007" string="&quot;Thank you.&quot;" />
-    <String id="60509008" string="Deliver essence of ice to the Velika crafting guide, {@LinkCreature:63#1098#Santia}." />
-    <String id="60509009" string="" />
-    <String id="60509010" string="&quot;I got the goods.&quot;" />
-    <String id="60509011" string="Deliver shadmetal ore to the Velika crafting guide, {@LinkCreature:63#1098#Santia}." />
-    <String id="60509012" string="" />
-    <String id="60509013" string="&quot;Thank you.&quot;" />
-    <String id="60509014" string="Return to {@LinkCreature:63#3002#Taratia} for compensation." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="60507001" string="Great Expectations" />
+    <String id="60507002" string="&quot;I'll give her a hand.&quot;" />
+    <String id="60507003" string="" />
+    <String id="60507004" string="" />
+    <String id="60507005" string="Talk to {@LinkCreature:63#3002#Taratia}." />
+    <String id="60507006" string="&quot;I can help.&quot;" />
+    <String id="60507007" string="&quot;Thanks.&quot;" />
+    <String id="60507008" string="Deliver essence of wind to the Velika Crafting Guide, {@LinkCreature:63#1098#Santia}." />
+    <String id="60507009" string="" />
+    <String id="60507010" string="&quot;Thanks.&quot;" />
+    <String id="60507011" string="Deliver linmetal ore to the Velika Crafting Guide, {@LinkCreature:63#1098#Santia}." />
+    <String id="60507012" string="" />
+    <String id="60507013" string="&quot;Glad I could help.&quot;" />
+    <String id="60507014" string="Return to {@LinkCreature:63#3002#Taratia}." />
 </StrSheet_Quest>

@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="63" id="6" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="63" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="63" id="100" prevId="0" villagerId="1007">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="2" prevId="0" villagerId="1007">
          
+         
         <Page social="5">Gostaria que você se apresentasse na Legião de Armas. Apresente-se a Midian na porta oeste e receba o treinamento que precisar. Os mestres de lá são os melhores.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="1100">
          
+         
         <Page social="5">Hmm. Vire-se. Sim. Sim, você vai se sair bem. Podemos fazer muito com você.&lt;BR&gt;&lt;BR&gt;Há muitos novos recrutas aqui, recém-saídos de suas aventuras, arrogantes e falsamente seguros de si. Evite essa armadilha e você viverá mais.</Page>
+    
     
     </Text>
 </QuestDialog>

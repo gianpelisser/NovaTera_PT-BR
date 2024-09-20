@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="364" id="1002" voiceTypeId="59">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1002" huntingZoneId="364" voiceTypeId="59">
     <Text huntingZoneId="364" id="1" endSocial="14" prevId="0" villagerId="1002">
          
+         
         <Page social="4">We're not open for business now. Our exarch must first lay out the policies in order to start the business.</Page>
+    
     
     </Text>
 </VillagerDialog>

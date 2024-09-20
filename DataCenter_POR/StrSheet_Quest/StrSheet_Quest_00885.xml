@@ -1,24 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="3121001" string="Uma maçã podre" />
-    <String id="3121002" string="Esse emblema deve mudar algumas opiniões." />
-    <String id="3121003" string="Obrigado por tudo o que você fez!" />
-    <String id="3121004" string="Karihne" />
-    <String id="3121005" string="Emblema da Acarum" />
-    <String id="3121006" string="Arvo convence." />
-    <String id="3121007" string="&quot;Você pode contar comigo.&quot;" />
-    <String id="3121008" string="Karihne" />
-    <String id="3121009" string="Emblema da Acarum" />
-    <String id="3121010" string="Convencer o Shekkram." />
-    <String id="3121011" string="&quot;Obrigado.&quot;" />
-    <String id="3121012" string="Karihne" />
-    <String id="3121013" string="Emblema da Acarum" />
-    <String id="3121014" string="Convença Peivan." />
-    <String id="3121015" string="&quot;Obrigado.&quot;" />
-    <String id="3121016" string="&quot;Estarei aí em breve!&quot;" />
-    <String id="3121017" string="Relatório para Acarum Aide Karihne." />
-    <String id="3121018" string="Karihne" />
-    <String id="3121019" string="Carta para Gron" />
-    <String id="3121020" string="Vá até a Glacial Bay Research Station e fale com o Comissário Gron." />
-    <String id="3121021" string="&quot;Eu fiz o que pude.&quot;" />
+    <String id="3093001" string="Recompensa Arkai" />
+    <String id="3093002" string="{Penas: 30#220$$Arkai} Penas" />
+    <String id="3093003" string="&quot;Para a federação.&quot;" />
+    <String id="3093004" string="Elimine {@linkcreature:30#220#arkais} que habitam {@Rgn:30001$$Refúgio de Balder}." />
+    <String id="3093005" string="Informe a Aneilon." />
 </StrSheet_Quest>

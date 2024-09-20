@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="36" id="39" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="39" huntingZoneId="36" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="236" id="100" prevId="0" villagerId="1012">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="236" id="2" prevId="0" villagerId="1012">
          
+         
         <Page social="17">Os servos de Killian têm aparecido por perto ultimamente. Eles ainda não fizeram nada, mas isso só me deixa ainda mais ansioso.&lt;BR&gt;&lt;BR&gt;Temos que detê-los antes que possam executar os planos horríveis que Killian lhes fez em uma lavagem cerebral.&lt;BR&gt;&lt;BR&gt;Se você se livrasse dos domadores de feras, isso provavelmente enfraqueceria significativamente os planos deles.</Page>
+    
     
     </Text>
     <Text huntingZoneId="236" id="3" prevId="2" villagerId="1012">
          
+         
         <Page social="7">Ótimo trabalho. Devo dizer que me sinto muito melhor sabendo que estou a uma distância maior do que uma cusparada de qualquer coisa relacionada ao Killian.</Page>
+    
     
     </Text>
 </QuestDialog>

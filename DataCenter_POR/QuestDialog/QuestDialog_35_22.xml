@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="35" id="22" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="35" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="235" id="100" prevId="0" villagerId="1003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="235" id="2" prevId="0" villagerId="1003">
          
+         
         <Page social="6">Thulsa invadiu essa região porque as minas de Croskurn são ricas em minério de mana - o mesmo usado para alimentar os escudos de Allemantheia.&lt;BR&gt;&lt;BR&gt;Podemos supor que Thulsa está planejando um ataque em uma escala à qual a federação pode não sobreviver.&lt;NEXTPAGEBUTTON&gt;"Ele pode ser detido?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="5">Aqueles que querem ver nossa morte verão isso em breve se perdermos a fé.&lt;BR&gt;&lt;BR&gt;Primeiro e mais importante, recupere o minério de mana coletado pela legião... antes que ele chegue a Thulsa.</Page>
+    
     
     </Text>
     <Text huntingZoneId="235" id="3" prevId="2" villagerId="1003">
          
+         
         <Page social="5">Parabéns! &lt;BR&gt;&lt;BR&gt;Pode-se dizer com segurança que você paralisou o plano de Thulsa.</Page>
+    
     
     </Text>
     <Text huntingZoneId="235" id="4" villagerId="1003">
          
+         
         <Page social="0">Por favor, pegue esse minério antes que ele se torne combustível para a fúria de Thulsa.</Page>
+    
     
     </Text>
 </QuestDialog>

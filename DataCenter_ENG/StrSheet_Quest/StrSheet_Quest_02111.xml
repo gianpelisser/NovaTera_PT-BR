@@ -1,23 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="60304001" string="Argonian Safari" />
-    <String id="60304002" string="By clear trails, I mean slay argons." />
-    <String id="60304003" string="A pleasure to watch you work!" />
-    <String id="60304004" string="" />
-    <String id="60304005" string="" />
-    <String id="60304006" string="" />
-    <String id="60304007" string="Go to {@Rgn:50002$$Shroud Outpost} in {@Rgn:50001$$Granarkus} and find {@LinkCreature:250#3001#Derik}." />
-    <String id="60304008" string="&quot;It'll be a pleasure.&quot;" />
-    <String id="60304009" string="Argon Hide" />
-    <String id="60304010" string="Hunt {@LinkCreature:50#5#athakela prowlers} around {@Rgn:50002$$Shroud Outpost} and collect their hides." />
-    <String id="60304011" string="Bring argon hides to {@LinkCreature:250#3001#Derik}." />
-    <String id="60304012" string="&quot;I suppose.&quot;" />
-    <String id="60304013" string="Argon Hide" />
-    <String id="60304014" string="Hunt {@LinkCreature:50#10#zomgul gatherers} in Granarkus and take their hides." />
-    <String id="60304015" string="Bring argon hides to {@LinkCreature:250#3001#Derik}." />
-    <String id="60304016" string="&quot;No thanks.&quot;" />
-    <String id="60304017" string="Argon Hide" />
-    <String id="60304018" string="Hunt {@LinkCreature:50#4#kalash devastators} north of {@Rgn:50002$$Shroud Outpost} and skin them." />
-    <String id="60304019" string="Bring argon hides to {@LinkCreature:250#3001#Derik}." />
-    <String id="60304020" string="&quot;Quite a few.&quot;" />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="60302001" string="Varmint Hunting" />
+    <String id="60302002" string="Kill all you want. They breed like mad!" />
+    <String id="60302003" string="Good hunting!" />
+    <String id="60302004" string="" />
+    <String id="60302005" string="" />
+    <String id="60302006" string="" />
+    <String id="60302007" string="Find {@LinkCreature:76#3010#Beiran} at {@Rgn:76001$$Kanstria}'s gate." />
+    <String id="60302008" string="&quot;Wish me luck!&quot;" />
+    <String id="60302009" string="Eliminate {@LinkCreature:49#20#zariik workers} east of the {@Rgn:49004$$Melgatol Portal}." />
+    <String id="60302010" string="Eliminate {@LinkCreature:49#19#zariik spodas} near the {@Rgn:49005$$Kassian Tree}." />
+    <String id="60302011" string="Eliminate {@LinkCreature:49#15#yusul slashers} southeast of the {@Rgn:49005$$Kassian Tree}." />
+    <String id="60302012" string="&quot;Very strange.&quot;" />
+    <String id="60302013" string="Report to {@LinkCreature:76#3010#Beiran} at the gate to {@Rgn:76001$$Kanstria}." />
 </StrSheet_Quest>

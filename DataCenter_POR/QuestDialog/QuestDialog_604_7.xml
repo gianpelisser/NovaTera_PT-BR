@@ -1,69 +1,95 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="604" id="7" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="7" huntingZoneId="604" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="71" id="100" prevId="0" villagerId="3006">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="71" id="2" prevId="0" villagerId="3006">
          
+         
         <Page social="4">Há algumas espécies aqui no Refúgio de Balder que estão extintas no resto do mundo.&lt;BR&gt;&lt;BR&gt;Quer ajudar a recuperá-las? Fale com {@LinkCreature:71#3018#Meiga}.</Page>
+    
     
     </Text>
     <Text huntingZoneId="71" id="3" prevId="2" villagerId="3018">
          
+         
         <Page social="4">É claro que você pode ajudar! &lt;BR&gt;&lt;BR&gt;Deixe-me ver quem precisa de você hoje.</Page>
+    
     
     </Text>
     <Text huntingZoneId="71" id="4" prevId="2" villagerId="3018">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="71" id="5" prevId="2" villagerId="3018">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="230" id="6" prevId="2" villagerId="3003">
          
+         
         <Page social="4">Que bom vê-lo, &lt;PCNAME&gt;! Nossa piscina de reprodução está cheia.&lt;BR&gt;&lt;BR&gt;Vá para o norte até o riacho e traga um dos bebês de volta.</Page>
+    
     
     </Text>
     <Text huntingZoneId="604" id="7" villagerId="7">
          
+         
         <Page social="0">Greep!&lt;BR&gt;&lt;BR&gt;Greep!</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="8" prevId="6" villagerId="3024">
          
+         
         <Page social="4">O programa de criação de focas está indo bem. No entanto, precisamos de alguém para contar os novos filhotes de foca.&lt;BR&gt;&lt;BR&gt;Sabe o que é divertido?</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="9" prevId="8" villagerId="3033">
          
+         
         <Page social="4">Aar! Aar!&lt;BR&gt;&lt;BR&gt;Aaar-aar!</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="10" prevId="9" villagerId="3034">
          
+         
         <Page social="4">Aaar! Aar!</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="11" prevId="10" villagerId="3035">
          
+         
         <Page social="4">Aaarr! Aar-aar!</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="12" prevId="11" villagerId="3003">
          
+         
         <Page social="4">&lt;BR&gt;&lt;BR&gt;Bom trabalho!</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="13" prevId="12" villagerId="3024">
          
+         
         <Page social="4">Bom trabalho! &lt;BR&gt;&lt;BR&gt;Aaah, eu consigo pensar em trabalhos piores do que nadar nesse rio e contar as focas.</Page>
+    
     
     </Text>
 </QuestDialog>

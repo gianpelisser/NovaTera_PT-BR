@@ -1,28 +1,38 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="50" id="2" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="50" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0">Shandra Manaya pegou a chama de Sikander e se retirou para seu covil. Você a matou lá, encerrando a Guerra de Argon, mas ela pronunciou o nome "Manahan" antes de morrer.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0">Kaia veio a {@Rgn:76001$$Kanstria} para saber notícias de Shandra Manaya. Encontre-a e pergunte sobre a chama de Sikander.</Page>
+    
     
     </Text>
     <Text huntingZoneId="76" id="3" prevId="2" villagerId="1040">
          
+         
         <Page social="1">&lt;PCNAME&gt;! O que aconteceu?&lt;BR&gt;&lt;BR&gt;Você viu Shandra Manaya?&lt;NEXTPAGEBUTTON&gt;"Sim, e ela está com a chama de Sikander."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="0">Deve ser por isso que os argonss levaram o cadáver de Kelsaik. Eu não tinha ideia de que parte de Sikander permanecia dentro de Kelsaik - e não tenho ideia do que ela planeja fazer com ele.&lt;BR&gt;&lt;BR&gt;Manahan, você criou algo tão sem coração. Não é à toa que Arun e Shara o prenderam.&lt;NEXTPAGEBUTTON&gt;"Espere... quem é Manahan?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Manahan é um nome antigo, &lt;PCNAME&gt;... um nome que é melhor esquecer.&lt;BR&gt;&lt;BR&gt;Foque na tarefa que tem em mãos. A chama de Sikander é a personificação da própria criação. Pense no Núcleo... e depois multiplique-o por mil.&lt;BR&gt;&lt;BR&gt;Nas mãos de Shandra Manaya, a chama de Sikander poderia destruir tanto quanto criar. Rastreie Shandra Manaya e recupere a chama de Sikander a qualquer custo!</Page>
+    
     
     </Text>
     <Text huntingZoneId="528" id="4" prevId="3" villagerId="5009">
          
+         
         <Page social="1">Eu senti a morte de Shandra Manaya - uma onda de dor que se espalhou pelo mundo. A Guerra de Argon terminou e nós vencemos! &lt;BR&gt;&lt;BR&gt;O mundo inteiro lhe deve a própria existência. Você fez o que ninguém mais, deus ou mortal, poderia fazer. Salve &lt;PCNAME&gt;, destruidor de argons, destruidor de deuses, campeão da Federação Valkyon!&lt;BR&gt;&lt;BR&gt;Nos próximos meses, tentaremos descobrir por que Shandra Manaya queria a chama de Sikander. Tenho minhas suspeitas, mas o importante é que o plano de Shandra Manaya morreu quando ela o fez.</Page>
+    
     
     </Text>
 </QuestDialog>

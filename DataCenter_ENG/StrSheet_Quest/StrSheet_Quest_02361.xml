@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="999923001" string="Checking IDs" />
-    <String id="999923002" string="[Spring Valley] Kill Spring Valley Intruders and collect their talismans." />
-    <String id="999923003" string="Mysterious Talisman" />
-    <String id="999923004" string="Complete Vanguard Initiative orders and claim your prize!" />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="999805001" string="Option: Clear Argon Corpus" />
+    <String id="999805002" string="[Argon Corpus] Kill Meldita in Argon Corpus with your allies!" />
+    <String id="999805003" string="Claim your reward!" />
 </StrSheet_Quest>

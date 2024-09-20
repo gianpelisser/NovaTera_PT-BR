@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="23" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="52" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="252" id="100" prevId="0" villagerId="1006">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="252" id="2" prevId="0" villagerId="1006">
          
+         
         <Page social="4">Os batedores de Thulsa nos cercaram, e é apenas uma questão de tempo até que mais lacaios de Thulsa apareçam.&lt;BR&gt;&lt;BR&gt;A menos que ataquemos primeiro.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, repila a brigada de batedores e mostre a eles que não vamos ceder terreno sem lutar!</Page>
+    
     
     </Text>
     <Text huntingZoneId="252" id="3" prevId="2" villagerId="1006">
          
+         
         <Page social="4">Você não apenas salvou Habere de Thulsa, mas acho que acabou de abrir uma rota de suprimentos para o Remote Lodge, &lt;PCNAME&gt;. Obrigado!</Page>
+    
     
     </Text>
 </QuestDialog>

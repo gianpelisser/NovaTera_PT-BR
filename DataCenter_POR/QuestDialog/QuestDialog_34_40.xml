@@ -1,36 +1,49 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="34" id="40" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="34" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="234" id="100" prevId="0" villagerId="1012">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="234" id="2" prevId="0" villagerId="1012">
          
+         
         <Page social="4">Por favor, me ajude! Meu filho saiu andando por aí. Temo que ele esteja tentando caçar.&lt;BR&gt;&lt;BR&gt;O coração de Shalim é enorme, mas ele não é páreo para um urso ou um barsicore, sem falar nos outros perigos que existem por aqui.&lt;BR&gt;&lt;BR&gt;Poderia me ajudar a encontrá-lo? Ele tem uma mania de adorar heróis. Se você provar sua força, ele o seguirá de bom grado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="234" id="3" prevId="2" villagerId="1014">
          
+         
         <Page social="4">Voltar para o meu pai? Ah! Ele nunca mandaria alguém como você atrás de mim. Ele é um grande caçador. Você... bem, não é.&lt;BR&gt;&lt;BR&gt;Por que essa veia está saltando na sua testa? Olhe, se você puder matar um {@LinkCreature:34#910#frostguard mugato cub}, eu considerarei a possibilidade.</Page>
+    
     
     </Text>
     <Text huntingZoneId="234" id="4" prevId="3" villagerId="1014">
          
+         
         <Page social="4">Uau! Esse é um mugato morto! &lt;BR&gt;&lt;BR&gt;Talvez eu o tenha julgado mal, &lt;PCCLASS:lcase&gt;! Posso ficar com você? Eu poderia aprender a lutar como você faz.&lt;BR&gt;&lt;BR&gt;Eu só como cinco vezes por dia e meus roncos são até relaxantes.&lt;NEXTPAGEBUTTON&gt;"Volte para seu pai."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Não quero voltar. Eu não quero voltar. Ele nunca me deixa fazer nada. "Limpe isso." "Cozinhe isto." "Pare de esconder minhas armas."&lt;BR&gt;&lt;BR&gt;Só quero mostrar a ele que também sou um grande caçador.&lt;BR&gt;&lt;BR&gt;Tudo bem. Já que você disse isso, eu vou voltar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="234" id="5" villagerId="1014">
          
+         
         <Page social="0">Vamos lá. É apenas um filhote de mugato. Pensei que você fosse um caçador poderoso...&lt;BR&gt;&lt;BR&gt;Você não deveria se gabar! Kaia fará com que suas partes importantes caiam se você se gabar!</Page>
+    
     
     </Text>
     <Text huntingZoneId="234" id="6" prevId="4" villagerId="1012">
          
+         
         <Page social="4">Shalim é incrivelmente teimoso. Se ele conseguir aprender a ter disciplina, será um ótimo caçador.&lt;BR&gt;&lt;BR&gt;Na verdade, eu não era melhor quando tinha a idade dele. Não sei como meu pai conseguiu.&lt;BR&gt;&lt;BR&gt;Em todo caso, obrigado por encontrar Shalim.</Page>
+    
     
     </Text>
 </QuestDialog>

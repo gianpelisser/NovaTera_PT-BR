@@ -1,10 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4572001" string="(Guilda) Ordens de supressão: Argonomorfos" />
-    <String id="4572002" string="Os Argonomorfos são os piores." />
-    <String id="4572003" string="Obrigado por sua ajuda." />
-    <String id="4572004" string="Prova de morte: Argonomorfos" />
-    <String id="4572005" string="&quot;Vitória para Valkyon!&quot;" />
-    <String id="4572006" string="Mate {@LinkCreature:45#2001#argonomorph blood fiends}, {@LinkCreature:45#2002#horntoads} e {@LinkCreature:45#2003#frogmasters} no {@Rgn:45003$$Vale of the Reaper}." />
-    <String id="4572007" string="Apresente-se a Laetesha no Pathfinder Post." />
+    <String id="4536001" string="Tuwangis e sapos" />
+    <String id="4536002" string="Há muitos deles para contar." />
+    <String id="4536003" string="Já está cheirando melhor por aqui." />
+    <String id="4536004" string="Mate {@creature:45#2003#argonomorph frogmasters} e {@creature:45#2002#argonomorph horntoads} no {@Rgn:45003$$Vale of the Reaper}." />
+    <String id="4536005" string="&quot;Estou apenas cumprindo meu dever.&quot;" />
+    <String id="4536006" string="Apresente-se a {@Creature:245#1001$$Abia} em {@Rgn:45007$$Field Base Tenacity}." />
 </StrSheet_Quest>

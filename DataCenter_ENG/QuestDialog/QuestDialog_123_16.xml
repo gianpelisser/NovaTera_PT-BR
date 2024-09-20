@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="123" id="16" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="84" id="100" prevId="0" villagerId="22002">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="123" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="84" prevId="0" villagerId="22002">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="84" id="2" prevId="0" villagerId="22002">
-         
-        <Page social="1">This hall needs to show off our prowess.&lt;BR&gt;&lt;BR&gt;In order for our alliance to let the world know of its power, we need you to kill some very challenging monsters and bring a trophy back I can display in the hall.&lt;BR&gt;&lt;BR&gt;What can you hunt? &lt;BR&gt;&lt;BR&gt;Balder's Temple (Normal)—{@linkcreature:425#8005#Auricadis}&lt;BR&gt;Balder’s Temple (1 person)—{@linkcreature:825#6000#Nightmare Glaciernus}&lt;BR&gt;Manaya's Core—{@linkcreature:727#2007#Shandra Manaya}</Page>
-    
+    <Text id="2" huntingZoneId="84" prevId="0" villagerId="22002">
+        <Page social="1">This hall needs to show off our prowess.&lt;BR&gt;&lt;BR&gt;In order for our alliance to let the world know of its power, we need you to kill a very challenging monster and bring a trophy back I can display in the hall.&lt;BR&gt;&lt;BR&gt;What can you hunt? Take your pick.&lt;BR&gt;&lt;BR&gt;Balder's Temple (Normal)—{@linkcreature:425#8005#Auricadis}&lt;BR&gt;Balder’s Temple (1 person)—{@linkcreature:825#6000#Nightmare Glaciernus}&lt;BR&gt;Argon Core—{@linkcreature:426#20000#Meldita}&lt;BR&gt;Manaya's Core—{@linkcreature:727#2007#Shandra Manaya}</Page>
     </Text>
-    <Text huntingZoneId="84" id="3" prevId="2" villagerId="22002">
-         
+    <Text id="3" huntingZoneId="84" prevId="2" villagerId="22002">
         <Page social="4">Thank you.&lt;BR&gt;&lt;BR&gt;Displaying this trophy will show the Iron Order to be the greatest power.&lt;BR&gt;&lt;BR&gt;&lt;pcname&gt;, we appreciate your help. Thank you.</Page>
-    
     </Text>
-    <Text huntingZoneId="84" id="4" villagerId="22002">
-         
+    <Text id="4" huntingZoneId="84" villagerId="22002">
         <Page social="0">For the Iron Order!</Page>
-    
     </Text>
 </QuestDialog>

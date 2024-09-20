@@ -1,19 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="701" id="15" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="15" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
         <Page social="0">You have received an invitation to the &amp;quot;Castanica Beach Party&amp;quot; from Elesa of Serpentis Isle.</Page>
-    
     </Text>
-    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
-         
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
         <Page social="0">Hey, &lt;PCNAME&gt;! Remember me? I haven't seen you in forever!&lt;BR&gt;&lt;BR&gt;I'm hanging out in Castanica these days, at the big beach party! Are you coming to that? I'd sure love to see you again!&lt;BR&gt;&lt;BR&gt;If you don't see me on the beach, stop in at the West Beach Tavern, and ask the bartender if she's seen me!&lt;BR&gt;&lt;BR&gt;Can't wait!&lt;BR&gt;–S</Page>
-    
     </Text>
-    <Text huntingZoneId="210" id="3" prevId="2" villagerId="2008">
-         
+    <Text id="3" huntingZoneId="210" prevId="2" villagerId="2008">
         <Page social="4">Welcome, friend &lt;PCRACE:lcase&gt;! This is your first time to come to the Beach Party, right?&lt;BR&gt;&lt;BR&gt;Did you bring your invitation? I'm joking—you don't need one! Everyone is welcome!&lt;BR&gt;&lt;BR&gt;Let me tell you all about the fun and exciting things you can do during the beach party!</Page>
-    
     </Text>
 </QuestDialog>

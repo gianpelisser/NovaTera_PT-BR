@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="49" id="53" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="53" huntingZoneId="49" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="249" id="100" prevId="0" villagerId="1021">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="249" id="2" prevId="0" villagerId="1021">
          
+         
         <Page social="4">Ei! Parece que você consegue se virar sozinho. Pode me dar uma mão? &lt;BR&gt;&lt;BR&gt;Eu deveria estar minerando fragmentos, mas esses malditos refinadores de kelba vão me despedaçar.&lt;BR&gt;&lt;BR&gt;Faça o seguinte: se você os remover, eu lhe pagarei em fragmentos de iteris.</Page>
+    
     
     </Text>
     <Text huntingZoneId="249" id="3" prevId="2" villagerId="1021">
          
+         
         <Page social="6">Veja, é por isso que você é um soldado e eu sou um mineiro. Você sobreviveu. Eu não teria sobrevivido.&lt;BR&gt;&lt;BR&gt;Como prometido, aqui está seu pagamento. Escolhi os melhores para você.</Page>
+    
     
     </Text>
 </QuestDialog>

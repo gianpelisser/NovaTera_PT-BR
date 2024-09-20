@@ -1,31 +1,42 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="181" id="1" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="181" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="183" id="100" prevId="0" villagerId="1001">
          
+         
         <Page social="0">&lt;PCNAME&gt; informou ao Sábio Braga que Verikam foi raptado e que a Arcana de Oriyn está agora nas mãos de Dakuryon.&lt;BR&gt;A pedido de Braga, Skald Omeros canta um poema para dar a notícia, e todos os Barakas de Highwatch ficam chocados.</Page>
+    
     
     </Text>
     <Text huntingZoneId="183" id="2" prevId="0" villagerId="1001">
          
+         
         <Page social="4">Aqui está o que preciso que você faça, &lt;PCNAME&gt;: Vá falar com Braga, o Sábio da cidade, e diga a ele que Verikam foi sequestrado e que a Arcana de Oriyn foi roubada! &lt;BR&gt;Entrarei em contato com o Comandante Seir imediatamente e pedirei reforços.&lt;NEXTPAGEBUTTON&gt;"Imediatamente."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="183" id="3" prevId="2" villagerId="1014">
          
+         
         <Page social="4">Oh, dia doloroso! Verikam foi raptado?&lt;BR&gt;&lt;BR&gt;Fui um tolo ao deixar o lado do Alto Ancião!&lt;BR&gt;&lt;BR&gt;Se ao menos eu estivesse com ele-!&lt;NEXTPAGEBUTTON&gt;"Eu estava lá; nada poderia tê-lo salvo."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Eu... estou inclinado a acreditar em você, forasteiro. Você parece ser uma pessoa competente.&lt;BR&gt;&lt;BR&gt;E com a Arcana de Oriyn também desaparecida, precisamos da sabedoria coletiva de todos os barakas para decidir sobre um curso de ação. Enquanto eu faço isso, por favor, vá até a ágora e procure Skald Omeros. Conte a ele o que aconteceu e peça-lhe para espalhar a notícia pela ágora e pela cidade. A notícia logo chegará a todos os lugares.&lt;NEXTPAGEBUTTON&gt;"Entendi."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="183" id="4" prevId="3" villagerId="1015">
          
+         
         <Page social="4">Eu... estou vendo. Este é realmente um dia trágico para toda a Highwatch, e não devemos poupar esforços para recuperar nosso Alto Ancião, são e salvo.&lt;BR&gt;&lt;BR&gt;Eu me dirigirei ao povo e pedirei que espalhem a notícia.&lt;BR&gt;&lt;BR&gt;Por favor, informe ao Wiseguard Braga que estarei direcionando todos os entrevistados a ele.&lt;NEXTPAGEBUTTON&gt;"Muito agradecido."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="183" id="5" prevId="4" villagerId="1014">
          
+         
         <Page social="4">Obrigado, &lt;PCNAME&gt;. Eu tenho providenciado relatórios sobre a força de nossas forças aqui.&lt;BR&gt;&lt;BR&gt;Com dois dos mais importantes ícones culturais desaparecidos, temo que a Highwatch esteja vulnerável.&lt;BR&gt;&lt;BR&gt;Você deve se preparar também.&lt;NEXTPAGEBUTTON&gt;"Vou me preparar."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
 </QuestDialog>

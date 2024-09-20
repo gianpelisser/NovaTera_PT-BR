@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="608" id="3" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="608" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="62" id="100" prevId="0" villagerId="1704">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="62" id="2" prevId="0" villagerId="1704">
          
+         
         <Page social="4">Expandir os mercados significa expandir os lucros. Precisamos que você faça uma pequena pesquisa de mercado, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Encontre Tryphena em um acampamento perto do Labirinto de Azarel e pergunte a ela sobre "oportunidades de mercado". Ela saberá o que você quer dizer.</Page>
+    
     
     </Text>
     <Text huntingZoneId="209" id="3" prevId="2" villagerId="1005">
          
+         
         <Page social="4">Você é um dos homens de Jax, não é? &lt;BR&gt;&lt;BR&gt;Diga a eles que notei muito tráfego nessa área, e que parte dele tem uma alta relação valor/risco. Eles saberão do que estou falando.</Page>
+    
     
     </Text>
     <Text huntingZoneId="62" id="4" prevId="3" villagerId="1704">
          
+         
         <Page social="4">Relação alto valor/risco, disse ela...&lt;BR&gt;&lt;BR&gt;Leve este símbolo de nossa gratidão e lembre-se: a pesquisa de mercado pode ser lucrativa.</Page>
+    
     
     </Text>
 </QuestDialog>

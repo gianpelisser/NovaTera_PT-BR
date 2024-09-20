@@ -1,35 +1,48 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="16" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="13" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="213" id="100" prevId="0" villagerId="1025">
          
+         
         <Page social="0">Karascha, o líder dos demônios, ameaçou a segurança da expedição e a conclusão bem-sucedida de seus objetivos.&lt;BR&gt;&lt;BR&gt;Você entrou no covil de Karascha com outros soldados e o matou. As últimas palavras de Karascha revelaram que a morte do líder dos demônios foi apenas para distraí-lo de um objetivo maior, e que Karascha retornará. Para a alegria de Leander, você também obteve um documento que diz que Elleon ainda vive.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="2" prevId="0" villagerId="1025">
          
+         
         <Page social="4">Tudo levou a este momento, &lt;PCNAME&gt;. Karascha comanda as forças que derrotaram a primeira expedição, mas ele não escapou ileso.&lt;BR&gt;&lt;BR&gt;O covarde se esconde em catacumbas sob a árvore gigante - se esse códice for confiável.&lt;BR&gt;&lt;BR&gt;Entre nas catacumbas por meio do {@LinkCreature:213#1015#teleportal} no santuário a noroeste. Encontre Karascha - e acabe com ele.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="3" prevId="2" villagerId="1025">
          
+         
         <Page social="4">Mesmo a essa distância, sentimos uma mudança na energia do desfiladeiro. Karascha está morto, então? &lt;NEXTPAGEBUTTON&gt;"Karascha tinha esta carta."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Outra missiva? Vamos examinar isso... oh, meu Deus! Precisamos levar isso para Leander imediatamente - Leander!</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="4" prevId="3" villagerId="1037">
          
+         
         <Page social="4">A morte de Karascha causou comoção em toda a Island of Dawn. Lembraremos de sua morte com grande satisfação.&lt;NEXTPAGEBUTTON&gt;"Também encontramos isto."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="4">O quê? Outro documento capturado para traduzir? Vamos dar uma olhada.&lt;BR&gt;&lt;BR&gt;Hmmm, não foi escrito por Karascha. O que é isso? Pode ser? &lt;NEXTPAGEBUTTON&gt;"O que é?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Diz: "Elleon escapou de nossas mãos. Nós notificamos agentes em Arun para encontrá-lo e silenciá-lo de uma vez por todas."&lt;BR&gt;&lt;BR&gt;Ele não fugiu - ele foi capturado! Mas parece que ele conseguiu escapar.&lt;BR&gt;&lt;BR&gt;Temos que contar para Adria imediatamente, &lt;PCNAME&gt;. Até sabermos em quem confiar, não conte a mais ninguém.</Page>
+    
     
     </Text>
     <Text huntingZoneId="64" id="5" prevId="4" villagerId="1001">
          
+         
         <Page social="4">Então Elleon foi capturado. Pelo menos sabemos que ele fugiu - se ao menos isso pudesse nos dizer para onde ele foi.&lt;BR&gt;&lt;BR&gt;Não conte a ninguém sobre isso. Não precisamos que todos fiquem preocupados. Diga apenas que ele fugiu - eles acreditarão nisso.</Page>
+    
     
     </Text>
 </QuestDialog>

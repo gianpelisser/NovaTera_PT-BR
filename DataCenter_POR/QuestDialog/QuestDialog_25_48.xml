@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="25" id="48" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="48" huntingZoneId="25" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="225" id="100" prevId="0" villagerId="1028">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="225" id="2" prevId="0" villagerId="1028">
          
+         
         <Page social="0">Esses {@LinkCreature:25#2091#Lokian zealots} e {@LinkCreature:25#2092#fanatics} me impedem de concluir minha investigação da catedral.&lt;BR&gt;&lt;BR&gt;Sou um oficial de inteligência, não um soldado, &lt;PCNAME&gt;. Você pode me abrir um caminho?</Page>
+    
     
     </Text>
     <Text huntingZoneId="225" id="3" prevId="2" villagerId="1028">
          
+         
         <Page social="4">Obrigado! Agora posso prosseguir com minha missão.</Page>
+    
     
     </Text>
 </QuestDialog>

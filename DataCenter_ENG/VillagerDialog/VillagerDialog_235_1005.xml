@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="235" id="1005" voiceTypeId="3">
-    <Text huntingZoneId="235" id="1" endSocial="14" prevId="0" villagerId="1005">
-         
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1005" huntingZoneId="235" voiceTypeId="3" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="235" prevId="0" villagerId="1005" endSocial="14">
         <Page social="4">Still in one piece? You must be very strong. I wish I had a hundred more just like you.</Page>
-    
     </Text>
 </VillagerDialog>

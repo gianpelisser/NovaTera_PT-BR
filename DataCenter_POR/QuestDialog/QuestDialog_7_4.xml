@@ -1,39 +1,53 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="7" id="4" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="7" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="207" id="100" prevId="0" villagerId="1001">
          
+         
         <Page social="0">O General Samael lhe ensinou a usar os glyphs como recompensa por suas conquistas nas Colinas Celestiais.</Page>
+    
     
     </Text>
     <Text huntingZoneId="207" id="2" prevId="0" villagerId="1001">
          
+         
         <Page social="4">Leve isto para Dougal em Velika. Diga a ele que eu o enviei. Por favor, se apresse.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="1160">
          
+         
         <Page social="4">É raro ver palavras tão brilhantes escritas pelas mãos de Mattin. Você certamente o impressionou, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Entregue esta pequena epístola a Samael. Ele é tão difícil de conquistar quanto Mattin, mas se alguma coisa pode fazer isso, este relatório pode.&lt;BR&gt;&lt;BR&gt;Bem feito, &lt;PCNAME&gt;. Esse é exatamente o tipo de ação que precisamos de nossos soldados neste momento.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="4" prevId="3" villagerId="1137">
          
+         
         <Page social="4">Hmm. Bem, este é um relatório e tanto. Acho que você não é tão perspicaz quanto eu esperava. Eu o subestimei. Prometo que não farei isso no futuro.&lt;BR&gt;&lt;BR&gt;Precisamos de mais do que apenas soldados, precisamos de líderes. Dougal acha que você está pronto para uma comissão. Dificilmente vou argumentar contra isso, não depois de feitos como esses. Vamos, não é todo dia que se pode ser um herói.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="5" villagerId="1137">
          
+         
         <Page social="0">Você tem algo a relatar?</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="6" prevId="4" villagerId="1138">
          
+         
         <Page social="4">&lt;PCNAME&gt;! Por que demorou tanto? &lt;BR&gt;&lt;BR&gt;Vamos começar a cerimônia.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="7" prevId="6" villagerId="1138">
          
+         
         <Page social="4">Agora, como oficial, você deve aprender a usar os glyphs.&lt;BR&gt;&lt;BR&gt;Os glyphs têm poderes diferentes de acordo com as classes. Os glyphs concederão poder adicional às suas habilidades.</Page>
+    
     
     </Text>
 </QuestDialog>

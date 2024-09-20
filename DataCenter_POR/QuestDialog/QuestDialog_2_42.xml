@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="2" id="42" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="2" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="202" id="100" prevId="0" villagerId="1023">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="202" id="2" prevId="0" villagerId="1023">
          
+         
         <Page social="4">Minha irmã! Você viu minha irmã? &lt;BR&gt;&lt;BR&gt;Ela fugiu para a floresta. Nós... nós tivemos uma discussão. Ela sempre volta quando se acalma, mas já se passaram dois dias! &lt;BR&gt;&lt;BR&gt;Dizem que a floresta não é mais segura, mas você parece corajoso. Você pode encontrar minha irmã {@LinkCreature:202#1028#Jerelyn}?</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="3" prevId="2" villagerId="1028">
          
+         
         <Page social="4">(É um cadáver. Você percebe que o colar dela se quebrou, restando um pequeno segmento da corrente. Há marcas de lama por toda parte).</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="4" prevId="3" villagerId="1023">
          
+         
         <Page social="13">Jerelyn! Jerelyn! Não! &lt;BR&gt;&lt;BR&gt;Não posso acreditar que ela não esteja voltando...&lt;BR&gt;&lt;BR&gt;É tudo culpa minha... apenas uma discussão estúpida, estúpida...</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="5" villagerId="1023">
          
+         
         <Page social="0">Tenho uma confissão a fazer, &lt;PCNAME&gt;. Estávamos discutindo por causa de um colar que ambos cobiçávamos.&lt;BR&gt;&lt;BR&gt;Poderia recuperá-lo para mim? Quero enterrar Jerelyn com ele.&lt;BR&gt;&lt;BR&gt;O mínimo que posso fazer é deixá-la vencer nossa última discussão.</Page>
+    
     
     </Text>
 </QuestDialog>

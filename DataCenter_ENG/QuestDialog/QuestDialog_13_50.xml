@@ -1,26 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="50" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="213" id="100" prevId="0" villagerId="1026">
-         
-        <Page social="0">Demons called dark raiders have started to appear in the eastern part of Tainted Gorge.&lt;BR&gt;&lt;BR&gt;These demons are servants of the evil god Lok and have not been seen above ground since Lok walked the world. Verus asked you to eliminate the dark raiders and ascertain the reason behind their sudden appearance. You find Lok's token and delivered it to Verus, who recalled a legend about Lok's return. Perhaps there's a correlation between Tainted Gorge and that legend.</Page>
-    
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="50" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="0">Sersine sent you out to uncover any possible link between the kariagons and disc reapers, and you returned with evidence of a dark conspiracy involving the dead god Lok.</Page>
     </Text>
-    <Text huntingZoneId="213" id="2" prevId="0" villagerId="1026">
-         
-        <Page social="4">If you want to make a difference here, you need to recognize opportunities when they come your way. To the east there's a group of creatures we need to know more about.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:13#300951#Dark raiders} rarely travel without minions, and they seem to be chummy with those wandering cultists. Find out why, and report back right away!</Page>
-    
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="4">Elleon was right, there's more to the Tainted Gorge than we first suspected. If you want to make a difference here, you must recognize opportunities when they come your way.&lt;BR&gt;&lt;BR&gt;To the east are creatures we need to know more about. {@linkcreature:13#6#Kariagons} rarely travel without minions, and here they have enslaved otherwise peaceful terrons. They are working in concert with the {@linkcreature:13#7#disc reapers} surrounding this camp, and it stands to reason that they are all connected.&lt;BR&gt;&lt;BR&gt;Kill as many as necessary to find out how.</Page>
     </Text>
-    <Text huntingZoneId="213" id="3" prevId="2" villagerId="1026">
-         
-        <Page social="4">Hmmm... This is Lok's token! What? It looks as if it was recently made.&lt;BR&gt;&lt;BR&gt;The demons that disappeared when Lok went missing have appeared again and with Lok's token... Oh, no....&lt;BR&gt;&lt;BR&gt;Does this mean that Lok has returned?&lt;NEXTPAGEBUTTON&gt;"Lok's return?"&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
-        <Page social="4">&amp;quot;Lok will return some day. And the world will be filled with Lok's blessings...&amp;quot;&lt;BR&gt;&lt;BR&gt;It's the belief of the dark devas. I've heard that there are insane people even on the continent who believe such nonsense. Hmmm...this is strange. Well, I must first report this to Sersine. Great job.</Page>
-    
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1025">
+        <Page social="4">Hmm...most unexpected. These are exact replicas of an ancient, now forbidden item.&lt;BR&gt;&lt;BR&gt;Do they still teach the legend of Lok in your home town, &lt;PCNAME&gt;? For if the dark god has returned as prophesied, demons are the least of our problems.&lt;NEXTPAGEBUTTON&gt;"Lok?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">Yes, Lok, God of Betrayals. The tokens do more than just control creatures, they corrupt them from the inside. And these are newly minted, meaning this problem stretches much further than the Island of Dawn.&lt;BR&gt;&lt;BR&gt;You have done good work here today, but I fear it is far from over.</Page>
     </Text>
-    <Text huntingZoneId="213" id="4" villagerId="1026">
-         
-        <Page social="0">Those {@LinkCreature:13#300951#dark raiders} won't give up their secrets easily. All the same, we need to know them. Find out if they're carrying anything suspicious—the hard way!</Page>
-    
+    <Text id="4" huntingZoneId="213" villagerId="1025">
+        <Page social="0">We must know how the kariagons and disc reapers are connected. Please complete your task.</Page>
     </Text>
 </QuestDialog>

@@ -1,51 +1,70 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="172" id="3" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="172" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="63" id="100" prevId="0" villagerId="1566">
          
+         
         <Page social="0">Ajude Canen a preparar os recrutas que embarcarão na Elkaia. Os recrutas parecem desconfortáveis em uma expedição tão longa.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="2" prevId="0" villagerId="1566">
          
+         
         <Page social="4">Esta não é a primeira missão ao norte, você sabe. Enviamos outro grupo há pouco tempo.&lt;BR&gt;&lt;BR&gt;Ninguém gosta de falar sobre isso, mas tememos o pior. Cuide de você, &lt;PCNAME&gt;. A federação não pode se dar ao luxo de perder você também.&lt;BR&gt;&lt;BR&gt;Por favor, verifique com Caenia para ter certeza de que todo o pessoal está preparado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="1532">
          
+         
         <Page social="4">&lt;PCNAME&gt;? Eu o saúdo. Já li sobre suas façanhas. É bom trabalhar com um soldado como você.&lt;BR&gt;&lt;BR&gt;Infelizmente, alguns dos outros são tão formidáveis quanto um balde de maçãs. Você pode reuni-los? Acho que sua presença pode inspirá-los.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="4" prevId="3" villagerId="1535">
          
+         
         <Page social="4">Estômago... com cólicas. Deuses do céu, o que comemos? &lt;BR&gt;&lt;BR&gt;Não posso voltar... assim...&lt;BR&gt;&lt;BR&gt;Encontre... Tilda. Traga-nos uma cura.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="5" prevId="4" villagerId="1564">
          
+         
         <Page social="4">Esses tolos! Eu os avisei para não beberem meus elixires. A concentração é muito forte. Eles estão envenenados! &lt;NEXTPAGEBUTTON&gt;"Qual é a cura?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Bem, todo o meu estoque está carregado a bordo da arca do céu. Não tenho nenhum tônico.&lt;BR&gt;&lt;BR&gt;Poderíamos usar ervas maceradas... isto é, já mastigadas.&lt;BR&gt;&lt;BR&gt;Desgostoso, eu sei, mas isso salvará suas vidas.&lt;BR&gt;&lt;BR&gt;Provavelmente.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="6" prevId="5" villagerId="1535">
          
+         
         <Page social="4">Ai! Que cataplasma imundo é esse? É pior do que sangue de vampiro! &lt;BR&gt;&lt;BR&gt;E quanto a Actol? Machuque-o, ou melhor, ajude-o também.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="7" villagerId="1535">
          
+         
         <Page social="0">O que o boticário disse?</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="8" prevId="6" villagerId="1536">
          
+         
         <Page social="4">Eu sabia que Eduyar tinha pegado o elixir errado. Minhas entranhas parecem que um dracoloth está se agitando por dentro.&lt;BR&gt;&lt;BR&gt;Gack! O que é isso? Está tentando acelerar meu retorno ao Sonho?</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="9" prevId="8" villagerId="1532">
          
+         
         <Page social="4">Envenenados? E você os salvou alimentando-os... Hah! &lt;BR&gt;&lt;BR&gt;Isso vai ensiná-los a roubar nossos suprimentos. Muito bem conduzido.</Page>
+    
     
     </Text>
 </QuestDialog>

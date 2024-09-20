@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="7" id="24" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="7" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="207" id="100" prevId="0" villagerId="1002">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="207" id="2" prevId="0" villagerId="1002">
          
+         
         <Page social="5">Os ataques dos orcs nos impediram de fazer nossas viagens regulares de suprimentos para a Fazenda de Godric. Graças a você, provavelmente poderemos retomá-las.&lt;BR&gt;&lt;BR&gt;Leve esses suprimentos para {@LinkCreature:207#1005#Heroth}. Ele está pastoreando os últimos fazendeiros da região e cuidando de alguns figurões do Mysterium. Esses suprimentos devem ser uma injeção bem-vinda em seu moral.</Page>
+    
     
     </Text>
     <Text huntingZoneId="207" id="3" prevId="2" villagerId="1005">
          
+         
         <Page social="5">Rações? Rações de verdade? Não ratos secos ou ervas daninhas que uma cabra pisoteou semanas atrás? Estou impressionado! &lt;BR&gt;&lt;BR&gt;Eu sabia que Drustan não se esqueceria de nós aqui. Ele é um bom oficial - cuida de suas tropas. Agradeço por ter vindo com isso, &lt;PCNAME&gt;. Meus soldados precisam delas.</Page>
+    
     
     </Text>
 </QuestDialog>

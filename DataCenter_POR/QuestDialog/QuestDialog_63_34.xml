@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="63" id="34" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="63" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="63" id="100" prevId="0" villagerId="3006">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="2" prevId="0" villagerId="3006">
          
+         
         <Page social="5">Para domar uma fera, você deve primeiro saber o que ela come.&lt;BR&gt;&lt;BR&gt;Se você a alimentar com algo que ela goste, como bifes de urso Tirkai, ela confiará em você.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="3006">
          
+         
         <Page social="5">Depois que Val Tirkai caiu nas mãos dos argonss, ficou difícil obter os bifes aqui em Velika, mas você obviamente conseguiu.&lt;BR&gt;&lt;BR&gt;Você ganhará a confiança da fera com isso.&lt;NEXTPAGEBUTTON&gt;4&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="4" villagerId="3006">
          
+         
         <Page social="0">Domar uma fera não é uma tarefa simples, e o caminho mais curto para seus corações é através de seus estômagos.</Page>
+    
     
     </Text>
 </QuestDialog>

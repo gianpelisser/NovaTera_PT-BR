@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="411" id="4" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="411" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0">A carta curiosa diz: "Vá até o lendário Ferreiro Muhrak."&lt;BR&gt;&lt;BR&gt;&lt;font color='#FF0000'&gt;- Essa carta desaparece quando você aceita essa missão.&lt;BR&gt;- Essa missão foi criada para aqueles que não possuem equipamentos da Nightforge.&lt;/font&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="411" id="3" prevId="2" villagerId="5001">
          
+         
         <Page social="4">&lt;PCNAME&gt;, eu sabia que esta carta despertaria sua curiosidade. Você está pronto para fazer algo incrível?</Page>
+    
     
     </Text>
 </QuestDialog>

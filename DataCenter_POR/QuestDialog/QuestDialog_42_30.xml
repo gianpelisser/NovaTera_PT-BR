@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="42" id="30" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="42" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="242" id="100" prevId="0" villagerId="1041">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="242" id="2" prevId="0" villagerId="1041">
          
+         
         <Page social="5">Os nagas costumavam vir aqui ocasionalmente para adorar Dagon e depois seguir seu caminho. Agora eles vêm e lutam conosco.&lt;BR&gt;&lt;BR&gt;A resposta pode estar nos {@LinkCreature:42#200#Dagonite slayers}. Se você matar um número suficiente deles, talvez encontremos alguma verificação, documentação... quem sabe? &lt;BR&gt;&lt;BR&gt;No mínimo, os nagas estariam morrendo, e nós sempre somos a favor disso.</Page>
+    
     
     </Text>
     <Text huntingZoneId="242" id="3" prevId="2" villagerId="1041">
          
+         
         <Page social="4">Vamos ver essas ordens...&lt;BR&gt;&lt;BR&gt;"Nós, anciões da Ilha Serpentis...completamos a missão..." Sim, era isso que estávamos procurando.&lt;BR&gt;&lt;BR&gt;Obrigado, &lt;PCNAME&gt;. A federação lhe deve muito.</Page>
+    
     
     </Text>
     <Text huntingZoneId="242" id="4" villagerId="1041">
          
+         
         <Page social="0">Por que os nagas ficaram? Você acha que os {@LinkCreature:42#200#Dagonite slayers} podem saber? Você acha que matar alguns deles pode nos dar a resposta?</Page>
+    
     
     </Text>
 </QuestDialog>

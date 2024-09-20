@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="15" id="91" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="67" id="100" prevId="0" villagerId="1015">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="15" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="67" prevId="0" villagerId="1015">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="67" id="2" prevId="0" villagerId="1015">
-         
+    <Text id="2" huntingZoneId="67" prevId="0" villagerId="1015">
         <Page social="0">Mission Orders&lt;BR&gt;&lt;BR&gt;{@LinkCreature:15#14#Blood Fiends} are killing livestock and travelers near the Knoll of Screams. Clear the roads and secure the area.&lt;BR&gt;&lt;BR&gt;Report to Moimui at Camp Redemption when mission is complete.</Page>
-    
     </Text>
-    <Text huntingZoneId="215" id="3" prevId="2" villagerId="1023">
-         
+    <Text id="3" huntingZoneId="215" prevId="2" villagerId="1023">
         <Page social="5">I'll be sure to mention you in my report, &lt;PCNAME&gt;. Perhaps my superiors will see fit to place you on the kingdom guard.</Page>
-    
     </Text>
-    <Text huntingZoneId="215" id="4" villagerId="1023">
-         
+    <Text id="4" huntingZoneId="215" villagerId="1023">
         <Page social="0">Kill Blood Fiends. Bring me their hearts. Simple, isn't it?</Page>
-    
     </Text>
 </QuestDialog>

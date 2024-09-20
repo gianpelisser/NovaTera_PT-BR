@@ -1,48 +1,66 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="49" id="2" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="49" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0">A Mysterium pediu sua ajuda para atacar a Cyasma Spire, uma estrutura de argons repleta de energia. Lá dentro, você encontrou o único sobrevivente de uma missão anterior, infiltrou-se na torre e destruiu grande parte da infraestrutura de argons. Você também chamou a atenção de alguém realmente poderoso.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0">{O @@Creature:249#2006$$Celtan} diz que os argonss começaram a se multiplicar quando o {@Rgn:49003$$Agnurok Engine} apareceu. Talvez você encontre uma resposta lá dentro.</Page>
+    
     
     </Text>
     <Text huntingZoneId="249" id="3" prevId="2" villagerId="2004">
          
+         
         <Page social="4">Faz tempo que não nos vemos, meu amigo. Este local pode muito bem ser o posto avançado mais importante do norte de Shara.&lt;BR&gt;&lt;BR&gt;Se estivermos certos, grande parte da energia que move a máquina de guerra de argons está lá dentro... e nós vamos tirá-la. Pegue este transdutor reverso. Ele deve inverter a polaridade da energia - matando sabe-se lá quantos argonss.&lt;NEXTPAGEBUTTON&gt;"Fantástico!"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">De fato. É claro que grande parte de nosso plano se baseia em hipóteses não testadas, mas talvez alguém que tenha lutado contra deuses - e sobrevivido - esteja disposto a improvisar um pouco, não é?</Page>
+    
     
     </Text>
     <Text huntingZoneId="249" id="4" prevId="3" villagerId="2011">
          
+         
         <Page social="9">Ainda não lhe agradeci por sua ajuda no Portal de Melgatol.&lt;BR&gt;&lt;BR&gt;Estou mais forte agora, em grande parte devido ao seu apoio. Então, obrigado.&lt;BR&gt;&lt;BR&gt;O ousado plano de Ronalt exige que nos infiltremos nessa estrutura. Acha que estou pronto?</Page>
+    
     
     </Text>
     <Text huntingZoneId="249" id="5" prevId="4" villagerId="2014">
          
+         
         <Page social="0">(Você sente um formigamento na pele ao se aproximar do teletransporte).</Page>
+    
     
     </Text>
     <Text huntingZoneId="413" id="6" prevId="5" villagerId="2002">
          
+         
         <Page social="9">Argh... minha cabeça está doendo. A natureza dói.&lt;BR&gt;&lt;BR&gt;Tome cuidado aqui. Os argonss não brincam. Meu esquadrão mal conseguiu chegar à próxima câmara. Fique nas passagens laterais. Talvez você evite lutar.&lt;BR&gt;&lt;BR&gt;Tire as bobinas de cyasma e depois use o transdutor. Boa sorte.</Page>
+    
     
     </Text>
     <Text huntingZoneId="249" id="7" prevId="6" villagerId="2002">
          
+         
         <Page social="8">Ouvimos os gritos dos argonss. Você realmente os atingiu onde era importante.&lt;BR&gt;&lt;BR&gt;Você nos deu uma nova esperança, &lt;PCNAME&gt;. Muito obrigado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="528" id="8" prevId="7" villagerId="5005">
          
+         
         <Page social="4">É melhor que os escribas aprendam seu nome, meu amigo, porque você está forjando uma lenda toda vez que entra em campo.&lt;NEXTPAGEBUTTON&gt;"Estou apenas cumprindo meu dever."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Vamos lá, sem falsa modéstia. Você é um excelente soldado.&lt;BR&gt;&lt;BR&gt;Olha, eu preciso que você vá para Granarkus. O Mysterium relatou novas leituras do que eles estão chamando de rainha de argons.&lt;BR&gt;&lt;BR&gt;Imagine isso. Se conseguirmos derrubá-la, poderemos acabar com essa guerra!</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
 <StrSheet_Passivity xmlns="https://vezel.dev/novadrop/dc/StrSheet_Passivity" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Passivity StrSheet_Passivity.xsd">
     <String id="10000" name="Speed Boost" tooltip="$H_S_GOODAumenta a velocidade de movimento fora de combate.$COLOR_END$BRAumenta sua velocidade de movimento fora de combate em $value." />
     <String id="10001" name="Speed Boost" tooltip="$H_S_GOODAumenta a velocidade de movimento fora de combate.$COLOR_END$BRAumenta sua velocidade de movimento fora de combate em $value." />
     <String id="10002" name="Speed Boost" tooltip="$H_S_GOODAumenta a velocidade de movimento fora de combate.$COLOR_END$BRAumenta sua velocidade de movimento fora de combate em $value." />
+    <String id="10003" name="Speed Boost" tooltip="$H_S_GOODAumenta a velocidade de movimento fora de combate.$COLOR_END$BRAumenta sua velocidade de movimento fora de combate em $value." />
     <String id="11010" name="Merciless Leap" tooltip="$H_S_GOODAumenta o dano do Leaping Strike.$COLOR_END$BRSeu Leaping Strike causa 5x mais dano contra inimigos derrubados." />
     <String id="11020" name="Staggering Riposte" tooltip="$H_S_GOODStaggering Counter ativado.$COLOR_END$BRQuando for atingido, você pode contra-atacar com Staggering Counter." />
     <String id="12010" name="Delete_Shield Counter I" tooltip="Ganhe uma chance de contra-ataque ao usar Stand Fast. Você não pode ser derrubado ou atordoado, e recebe apenas metade do dano enquanto usa esta habilidade." />
@@ -53,6 +53,24 @@
     <String id="90001" name="Veil of Shadows" tooltip="$H_S_GOODRevival.$COLOR_END$BRYou do not die when you take lethal damage. Instead, you are knocked down, and enter the veil of shadows, where you immediately regain 15% of your HP. While in the veil, all damage is reduced by 50% but you cannot recover HP normally. You recover up to 30% of max HP when the effect ends. Veil of Shadows will only activate once every 10 minutes." />
     <String id="90003" name="Vampiric Whipsaw" tooltip="$H_S_GOODRecupera HP a cada golpe.$COLOR_END$BRRecupera 1,5% do seu HP total cada vez que você acerta um alvo com Whipsaw." />
     <String id="90005" name="Brutal Smite" tooltip="$H_S_GOODAumenta o dano de Smite contra alvos derrubados.$COLOR_END$BRDobra o dano causado com Smite quando ataca alvos derrubados." />
+    <String id="91001" name="Warfreak" tooltip="$H_S_GOODAumenta a Velocidade de Movimento após matar um inimigo$COLOR_END$BRAumenta a Velocidade de Movimento em 50% por 5 segundos após causar um golpe fatal. Após alcançar o nível 10, também adiciona 100 de Willpower." />
+    <String id="91002" name="Unified Theory Expert" tooltip="$H_S_GOODWillpower Focada$COLOR_END$BRApós o nível 10, gunner ganha Willpower ao derrotar inimigos, que pode ser usada para fortalecer as habilidades Burst Fire, Bombardment, and Balder's Vengeance. Willpower pode ser armazenada por até 60 segundos, decai rapidamente. Derrotar um inimigo reinicia essa contagem." />
+    <String id="91003" name="Battlefield Awareness" tooltip="$H_S_GOODReseta Cooldown da habilidade Scattershot$COLOR_END$BRScattershot fica imediatamente disponível após usar Rolling Reload." />
+    <String id="91004" name="Reload_Shotgun" tooltip="$H_S_GOODReseta Cooldown da habilidade$COLOR_END$BRRedefine o tempo de recarga para Scattershot." />
+    <String id="91005" name="Reload_Timebomb Shot" tooltip="$H_S_GOODReseta Cooldown da habilidade$COLOR_END$BRRedefine o tempo de recarga para Time Bomb." />
+    <String id="91006" name="Reload_Arcane Impact Shot" tooltip="$H_S_GOODReseta Cooldown da habilidade$COLOR_END$BRRedefine o tempo de recarga para Arcane Barrage." />
+    <String id="91007" name="Reload_Aimed Fire" tooltip="$H_S_GOODReseta Cooldown da habilidade$COLOR_END$BRRedefine o tempo de recarga para Aimed Fire." />
+    <String id="91008" name="Activate Emergency Barrier I" tooltip="$H_S_GOODRedução de Dano$COLOR_END$BRProtege parcialmente o gunner de um ataque fatal de um inimigo. Consome 1000 MP, dura 6 segundos, e só pode ser ativado uma vez a cada 10 minutos." />
+    <String id="91009" name="Activate Emergency Barrier II" tooltip="$H_S_GOODRedução de Dano$COLOR_END$BRProtege parcialmente o gunner de um ataque fatal de um inimigo. Consome 1000 MP, dura 6 segundos, e só pode ser ativado uma vez a cada 10 minutos." />
+    <String id="91010" name="Activate Emergency Barrier III" tooltip="$H_S_GOODRedução de Dano$COLOR_END$BRProtege parcialmente o gunner de um ataque fatal de um inimigo. Consome 1000 MP, dura 6 segundos, e só pode ser ativado uma vez a cada 10 minutos." />
+    <String id="91011" name="Activate Emergency Barrier IV" tooltip="$H_S_GOODRedução de Dano$COLOR_END$BRProtege parcialmente o gunner de um ataque fatal de um inimigo. Consome 1000 MP, dura 6 segundos, e só pode ser ativado uma vez a cada 10 minutos." />
+    <String id="91012" name="Activate Emergency Barrier V" tooltip="$H_S_GOODRedução de Dano$COLOR_END$BRProtege parcialmente o gunner de um ataque fatal de um inimigo. Consome 1000 MP, dura 6 segundos, e só pode ser ativado uma vez a cada 10 minutos." />
+    <String id="91013" name="Activate Emergency Barrier VI" tooltip="$H_S_GOODRedução de Dano$COLOR_END$BRProtege parcialmente o gunner de um ataque fatal de um inimigo. Consome 1000 MP, dura 6 segundos, e só pode ser ativado uma vez a cada 10 minutos." />
+    <String id="91014" name="Activate Emergency Barrier VII" tooltip="$H_S_GOODRedução de Dano$COLOR_END$BRProtege parcialmente o gunner de um ataque fatal de um inimigo. Consome 1000 MP, dura 6 segundos, e só pode ser ativado uma vez a cada 10 minutos." />
+    <String id="91015" name="Activate Emergency Barrier VIII" tooltip="$H_S_GOODRedução de Dano$COLOR_END$BRProtege parcialmente o gunner de um ataque fatal de um inimigo. Consome 1000 MP, dura 6 segundos, e só pode ser ativado uma vez a cada 10 minutos." />
+    <String id="91016" name="Reload_Electric Shot" tooltip="$H_S_GOODReseta Cooldown da habilidade$COLOR_END$BRRedefine o tempo de recarga para Electric Bomb." />
+    <String id="91017" name="Enhanced Burst Fire" tooltip="$H_S_GOODAumenta o dano da habilidade Burst Fire$COLOR_END$BRBurst Fire causa mais dano a minions." />
+    <String id="91018" name="Enhanced Burst Fire" tooltip="$H_S_GOODAumenta o dano da habilidade Burst Fire$COLOR_END$BRBurst Fire causa mais dano a minions." />
     <String id="4000001" name="Increases attack speed" tooltip="$H_S_GOODIncreases attack speed.$COLOR_END$BRIncreases attack speed by $value." />
     <String id="4000002" name="Increases crit rate" tooltip="$H_S_GOODIncreases crit rate.$COLOR_END$BRIncreases crit rate by $value." />
     <String id="4000003" name="More Aggro" tooltip="$H_S_GOODIncreases aggro.$COLOR_END$BRYour attacks draw $value more aggro." />

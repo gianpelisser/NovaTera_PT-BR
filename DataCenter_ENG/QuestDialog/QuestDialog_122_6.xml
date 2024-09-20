@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="122" id="6" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="122" id="100" prevId="0" villagerId="220020">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="122" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="122" prevId="0" villagerId="220020">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="122" id="2" prevId="0" villagerId="220020">
-         
+    <Text id="2" huntingZoneId="122" prevId="0" villagerId="220020">
         <Page social="0">So, my friend...this will seem like an odd request, but the Enlightened Union needs bananas.&lt;BR&gt;&lt;BR&gt;Our research into the effect of noctenium on plant life has raised the question of whether or not noctenium contamination might have consequences for the animals that eat those plants. Because bananas are a staple of many of the animals in this area, we have chosen them to test our hypotheses.&lt;BR&gt;&lt;BR&gt;Collect a minimum of five contaminated bananas from {@linkcreature:122#503#banana trees}. You might have to employ some measure of force.</Page>
-    
     </Text>
-    <Text huntingZoneId="122" id="3" prevId="2" villagerId="220020">
-         
+    <Text id="3" huntingZoneId="122" prevId="2" villagerId="220020">
         <Page social="4">These should serve quite nicely, friend &lt;PCNAME&gt;. Thank you! Our researchers will be quite pleased.</Page>
-    
     </Text>
-    <Text huntingZoneId="122" id="4" villagerId="220020">
-         
+    <Text id="4" huntingZoneId="122" villagerId="220020">
         <Page social="0">The Enlightened Union will prevail!</Page>
-    
     </Text>
 </QuestDialog>

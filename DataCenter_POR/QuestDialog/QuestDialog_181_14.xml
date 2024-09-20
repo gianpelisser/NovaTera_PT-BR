@@ -1,50 +1,69 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="181" id="14" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="181" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="181" id="100" prevId="0" villagerId="1010">
          
+         
         <Page social="0">&lt;PCNAME&gt; encontrou um batedor do Posto Baaldaz e descobriu a localização do Posto Temporário de Archdeva. Usando a agulha da verdade, &lt;PCNAME&gt; apreendeu um mapa de magia negra.</Page>
+    
     
     </Text>
     <Text huntingZoneId="181" id="2" prevId="0" villagerId="1010">
          
+         
         <Page social="4">Um de meus batedores relatou atividade arquidevânica nas proximidades de Verdantfire Rift. Eles estão escavando alguma coisa, mas não sabemos o quê.&lt;BR&gt;&lt;BR&gt;Veja o batedor; seu nome é Marat. Ele conhece todos os acampamentos e patrulhas de arquidevais da região. Ele saberá onde encontrar o que você procura.&lt;NEXTPAGEBUTTON&gt;"Vou falar com ele."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="181" id="3" prevId="2" villagerId="1110">
          
+         
         <Page social="4">Saudações, forasteiro. Bem-vindo à nossa terra.&lt;BR&gt;&lt;BR&gt;Desculpo dizer que não vi nenhum tipo de aparelho que pudesse afetar a Barreira da Tormenta de alguma forma, mas suspeito que somente os oficiais de maior confiança deles saberiam onde encontrá-lo.&lt;BR&gt;&lt;BR&gt;Hm. Por sorte, há um oficial de alto escalão em seu acampamento na caverna, logo após a Fenda do Fogo Verde. Siga o caminho logo após a colina e olhe para a sua esquerda. Você verá a entrada da caverna.&lt;NEXTPAGEBUTTON&gt;"Deixe comigo."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="181" id="4" prevId="3" villagerId="208">
          
+         
         <Page social="4">O que foi isso que você...?&lt;BR&gt;&lt;BR&gt;Estou me sentindo estranha... como se tivesse bebido vinho demais... já estamos na praia? Quero trabalhar meu bronzeado.&lt;BR&gt;&lt;BR&gt;Não podemos ficar muito tempo... preciso voltar para a Energia Celo... é meu turno! Onde fica, mesmo?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="4">A entrada... ela sempre muda... precisamos do mapa mutável... &lt;NEXTPAGEBUTTON&gt;"Certo! O mapa! Onde você o colocou?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Está dentro deste baú... mas você já deve saber disso. Por que você não...? &lt;BR&gt;&lt;BR&gt;Espere... quem é você? Como você entrou aqui?&lt;NEXTPAGEBUTTON&gt;Volte atrás&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="181" id="5" prevId="4" villagerId="1014">
          
+         
         <Page social="4">Oh, obrigado, forasteiro! &lt;BR&gt;&lt;BR&gt;Mas, por favor: Há mais prisioneiros lá em cima. Está vendo aquela escada? Eles estão todos lá em cima.&lt;BR&gt;&lt;BR&gt;Por favor, você tem que ajudá-los também!&lt;NEXTPAGEBUTTON&gt;"Não se preocupe."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="181" id="6" prevId="5" villagerId="1012">
          
+         
         <Page social="4">Livre! &lt;BR&gt;&lt;BR&gt;Obrigado, forasteiro! Você me salvou! &lt;NEXTPAGEBUTTON&gt;"Eu os atrairei. Quando eu fizer isso, corra!"&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="181" id="7" prevId="6" villagerId="1013">
          
+         
         <Page social="4">Eu o ajudarei a combatê-los! Só que... preciso... recuperar minhas forças...&lt;NEXTPAGEBUTTON&gt;"Teremos muito tempo para isso depois. Eu tenho isso."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="181" id="8" prevId="7" villagerId="1001">
          
+         
         <Page social="4">Eu estava esperando por você, &lt;PCNAME&gt;!&lt;BR&gt;Hagand me contou sobre a pesquisa dele sobre as devastones que você reuniu para ele.&lt;BR&gt;&lt;BR&gt;Ele acha que os arquidevas as usam para sua magia de sangue, o que explica por que eles estavam tão interessados em protegê-las.&lt;BR&gt;&lt;BR&gt;Se conseguirmos encontrar o laboratório deles, provavelmente poderemos resgatar algumas de suas vítimas.&lt;NEXTPAGEBUTTON&gt;"Eu tenho um mapa do laboratório deles."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Você sabe onde ele está? Excelente! &lt;BR&gt;&lt;BR&gt;Talvez agora possamos chegar ao fundo da questão... e reativar o teletransporte para Velika! &lt;NEXTPAGEBUTTON&gt;"Você pode estar certo. Só há uma maneira de descobrir."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="23" id="34" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="23" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="223" id="100" prevId="0" villagerId="1007">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="223" id="2" prevId="0" villagerId="1007">
          
+         
         <Page social="5">O Bosque Abençoado é cuidado por teraliths - mas, em vez de protegê-lo, eles o estão destruindo! &lt;BR&gt;&lt;BR&gt;Corram para lá e matem os {@LinkCreature:23#14#teraliths espreitadores}.&lt;BR&gt;&lt;BR&gt;Tragam de volta as pedras de selamento em seus corpos. Nossos arcanistas precisarão delas mais tarde.</Page>
+    
     
     </Text>
     <Text huntingZoneId="223" id="3" prevId="2" villagerId="1007">
          
+         
         <Page social="5">É uma pena que os teraliths sejam tão caros. Elas são terrivelmente caras de se fazer.&lt;BR&gt;&lt;BR&gt;Oh, bem. A natureza segue em frente.</Page>
+    
     
     </Text>
     <Text huntingZoneId="223" id="4" villagerId="1007">
          
+         
         <Page social="0">Não é apenas uma questão de destruir os teraliths. Se os arcanistas não recuperarem as pedras, será muito mais caro fazer novas.</Page>
+    
     
     </Text>
 </QuestDialog>

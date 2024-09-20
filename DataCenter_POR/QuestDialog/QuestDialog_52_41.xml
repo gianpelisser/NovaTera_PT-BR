@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="41" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="52" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="252" id="100" prevId="0" villagerId="1035">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="252" id="2" prevId="0" villagerId="1035">
          
+         
         <Page social="4">Você viu os guardas Ksharan de Thulsa? &lt;BR&gt;&lt;BR&gt;Eles tomaram o Centro de Comando Central a nordeste da fornalha, e não podemos retomar a instalação sem lidar com eles.&lt;BR&gt;&lt;BR&gt;Mata os arciprestes e vanguardas Ksharan e traga-me seus amuletos. Você acha que consegue lidar com isso, &lt;PCNAME&gt;?</Page>
+    
     
     </Text>
     <Text huntingZoneId="252" id="3" prevId="2" villagerId="1035">
          
+         
         <Page social="4">Eu estava certo - eu sabia que você conseguiria! &lt;BR&gt;&lt;BR&gt;Estamos um passo mais perto de tomar este lugar do inimigo. Bom trabalho!</Page>
+    
     
     </Text>
     <Text huntingZoneId="252" id="4" villagerId="1035">
          
+         
         <Page social="0">Traga-me provas de que derrotou os ksharans.&lt;BR&gt;&lt;BR&gt;Sei que é difícil, mas tenho muita fé em você.</Page>
+    
     
     </Text>
 </QuestDialog>

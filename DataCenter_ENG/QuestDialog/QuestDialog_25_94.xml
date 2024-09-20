@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="25" id="94" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="66" id="100" prevId="0" villagerId="1008">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="66" prevId="0" villagerId="1008">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="66" id="2" prevId="0" villagerId="1008">
-         
+    <Text id="2" huntingZoneId="66" prevId="0" villagerId="1008">
         <Page social="0">Okay, I've got another list for you.&lt;BR&gt;&lt;BR&gt;This time you're after {@LinkCreature:25#2011#ossugon warchiefs}, {@LinkCreature:25#2021#ossugon legates}, {@LinkCreature:25#2031#devan deathmasters}, {@LinkCreature:25#2041#Lokian snipers}, {@LinkCreature:25#2042#Lokian blood reapers}, {@LinkCreature:25#2061#devan vanguards}, {@LinkCreature:25#2071#dark deacons}, {@LinkCreature:25#2091#Lokian zealots}, and {@LinkCreature:25#2092#Lokian fanatics}.&lt;BR&gt;&lt;BR&gt;And you'll be reporting to...Culetta, looks like. So go see her when you're done.</Page>
-    
     </Text>
-    <Text huntingZoneId="225" id="3" prevId="2" villagerId="1009">
-         
+    <Text id="3" huntingZoneId="225" prevId="2" villagerId="1009">
         <Page social="4">There's no dross in you! Well done!</Page>
-    
     </Text>
-    <Text huntingZoneId="225" id="4" villagerId="1009">
-         
+    <Text id="4" huntingZoneId="225" villagerId="1009">
         <Page social="0">Not dead, eh? Then why aren't you hunting cultists?</Page>
-    
     </Text>
 </QuestDialog>

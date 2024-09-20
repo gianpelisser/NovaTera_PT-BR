@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="18" id="30" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="18" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="218" id="100" prevId="0" villagerId="1022">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="218" id="2" prevId="0" villagerId="1022">
          
+         
         <Page social="4">Não temos muito tempo, então vou direto ao assunto.&lt;BR&gt;&lt;BR&gt;Kunchara lhe disse que transformou os kulkari com um feitiço. Bem, ele lançou um feitiço, mas não causou o dano que ele pensa que causou.&lt;BR&gt;&lt;BR&gt;Como acontece com muitas coisas, a culpa recai sobre os cultistas.&lt;NEXTPAGEBUTTON&gt;"Mas Tukarus..."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Tukarus pensou a mesma coisa que Kunchara, mas ambos estavam errados. Não posso explicar agora, mas confie em mim.&lt;BR&gt;&lt;BR&gt;Para consertar isso, preciso de sangue de {@LinkCreature:18#21#Lokian skullcleavers} e {@LinkCreature:18#22#priests}.&lt;BR&gt;&lt;BR&gt;Eu lhe contarei o resto quando você voltar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="218" id="3" prevId="2" villagerId="1022">
          
+         
         <Page social="4">Isso é exatamente o que eu precisava. Obrigado.&lt;BR&gt;&lt;BR&gt;A explicação? Oh, não. Ainda estou muito ocupado. Mas em outra ocasião. De verdade.</Page>
+    
     
     </Text>
     <Text huntingZoneId="218" id="4" villagerId="1022">
          
+         
         <Page social="0">Quanto mais tempo você ficar aqui, mais os cultistas poderão avançar em suas conspirações.</Page>
+    
     
     </Text>
 </QuestDialog>

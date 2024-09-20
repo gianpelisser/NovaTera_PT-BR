@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="38" id="40" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="38" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="238" id="100" prevId="0" villagerId="1024">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="238" id="2" prevId="0" villagerId="1024">
          
+         
         <Page social="5">Os malditos príons nos levaram para fora do campo. Largamos tudo e corremos. E eu quero dizer tudo mesmo. Agora todas as nossas ferramentas estão lá fora, e nós estamos aqui. &lt;BR&gt;&lt;BR&gt;Você consegue encontrá-las antes que algo grande e feio pise nelas?</Page>
+    
     
     </Text>
     <Text huntingZoneId="238" id="3" prevId="2" villagerId="1024">
          
+         
         <Page social="6">Você os encontrou! E eles não estão quebrados! Este é um bom dia, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
     <Text huntingZoneId="238" id="4" villagerId="1024">
          
+         
         <Page social="0">Tenho medo de que algo aconteça com nossas ferramentas de escavação se elas ficarem lá fora por muito tempo.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="11" id="32" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="11" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="211" id="100" prevId="0" villagerId="1027">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="211" id="2" prevId="0" villagerId="1027">
          
+         
         <Page social="4">Eles me mandaram descer a passagem leste em uma missão de reconhecimento, mas me deparei com os {@LinkCreature:11#3006#Red Lash berserkers} antes de chegar muito longe.&lt;BR&gt;&lt;BR&gt;Não consigo passar por eles sorrateiramente e não consigo matá-los. Estou preso.&lt;BR&gt;&lt;BR&gt;Pode passar por eles - apenas interrompê-los por um tempo para que eu possa fazer meu reconhecimento? Detesto voltar para a base de mãos vazias.</Page>
+    
     
     </Text>
     <Text huntingZoneId="211" id="3" prevId="2" villagerId="1027">
          
+         
         <Page social="4">Isso é muita carnificina, &lt;PCNAME&gt;. Irei até lá quando o sangue parar de pingar.</Page>
+    
     
     </Text>
 </QuestDialog>

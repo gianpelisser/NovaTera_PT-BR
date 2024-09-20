@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="471" id="91" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="471" id="100" prevId="0" villagerId="1011">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="471" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="471" prevId="0" villagerId="1011">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="471" id="2" prevId="0" villagerId="1011">
-         
+    <Text id="2" huntingZoneId="471" prevId="0" villagerId="1011">
         <Page social="0">Mission Orders&lt;BR&gt;&lt;BR&gt;Eliminate the ksharans in the Necromancer Tomb.&lt;BR&gt;&lt;BR&gt;Kill all {@LinkCreature:471#105#ksharan battleragers}, {@LinkCreature:471#54#ksharan magisters}, {@LinkCreature:471#55#ksharan berserkers}, {@LinkCreature:471#56#ksharan myrmidons}, {@LinkCreature:471#5#ksharan destroyers}, and {@LinkCreature:471#6#ksharan defenders}.&lt;BR&gt;&lt;BR&gt;Report to Valona when mission is complete.</Page>
-    
     </Text>
-    <Text huntingZoneId="471" id="3" prevId="2" villagerId="1011">
-         
+    <Text id="3" huntingZoneId="471" prevId="2" villagerId="1011">
         <Page social="5">Great job. Keep eradicating the foul ksharans.</Page>
-    
     </Text>
-    <Text huntingZoneId="471" id="4" villagerId="1011">
-         
+    <Text id="4" huntingZoneId="471" villagerId="1011">
         <Page social="0">Soon, we'll have control. If you get to work.</Page>
-    
     </Text>
 </QuestDialog>

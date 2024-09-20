@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="3049001" string="Mowing Down the Competition" />
-    <String id="3049002" string="This will definitely sell!" />
-    <String id="3049003" string="You should consider a career in marketing." />
-    <String id="3049004" string="&quot;For the federation.&quot;" />
-    <String id="3049005" string="Collect &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=7015#-14741.8672,86906.8828,-441.2695&amp;type=1&amp;name=Lamenting Grass&quot;&gt;lamenting grass&lt;/A&gt;&lt;/FONT&gt; on the bridge near Lok’s Spear." />
-    <String id="3049006" string="Deliver the lamenting grass to {@linkcreature:230#1036$$Filine}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="3045001" string="The Eternal Omelet" />
+    <String id="3045002" string="It makes sense. Eggs often symbolize rebirth and unending cycles." />
+    <String id="3045003" string="Anyone know how to prepare eggs?" />
+    <String id="3045004" string="&quot;Glad to help.&quot;" />
+    <String id="3045005" string="Collect eggs from {@linkcreature:30#1000#Arkai Perch$$Arkaina}." />
+    <String id="3045006" string="Deliver the eggs to {@linkcreature:230#1036$$Filine}." />
 </StrSheet_Quest>

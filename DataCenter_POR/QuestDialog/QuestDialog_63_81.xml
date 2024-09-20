@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="63" id="81" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="81" huntingZoneId="63" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0">(Você recebeu uma carta de Dougal.&lt;BR&gt;&lt;BR&gt;Em um esforço para reforçar nossas forças de combate, estamos incentivando os soldados a encantar suas armas. Retorne a {@Rgn:63009} em {@Rgn:63001} imediatamente para obter suprimentos de encantamento.&lt;BR&gt;&lt;BR&gt;-{@linkcreature:63#1160})</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="1160">
          
+         
         <Page social="0">Um bom soldado como você entende o valor de uma boa arma, mas às vezes é mais inteligente encantar sua arma existente em vez de trocá-la por uma nova.&lt;BR&gt;&lt;BR&gt;Fale com {@linkcreature:63#1605} na Oficina de Criação para saber mais.&lt;BR&gt;&lt;BR&gt;Não se esqueça do alkahest. Você deve comprar 20 do alkahest de nível 3 antes de vê-lo. Mukhem, no Beco das Boreas, os vende.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="4" prevId="3" villagerId="1605">
          
+         
         <Page social="0">Dougal me disse que você passaria por aqui. Estou sentindo o cheiro do alkahest, então parece que está tudo pronto.&lt;BR&gt;&lt;BR&gt;Pronto para aprender sobre equipamentos de encantamento?</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="5" villagerId="1605">
          
+         
         <Page social="0">Não posso lhe ensinar a encantar equipamentos sem alkahest. Compre alguns em {@linkcreature:63#1103}. Eles não são tão caros.</Page>
+    
     
     </Text>
 </QuestDialog>

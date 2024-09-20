@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="72" id="1001" voiceTypeId="12">
-    <Text huntingZoneId="72" id="1" endSocial="14" prevId="0" villagerId="1001">
-         
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1001" huntingZoneId="72" voiceTypeId="12" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="72" prevId="0" villagerId="1001" endSocial="14">
         <Page social="4">We are honored to recognize your patronage to our shop. We stock the finest goods in Allemantheia and make them available at a very fine price.&lt;BR&gt;&lt;BR&gt;Please take your time and make your selections.</Page>
-    
     </Text>
 </VillagerDialog>

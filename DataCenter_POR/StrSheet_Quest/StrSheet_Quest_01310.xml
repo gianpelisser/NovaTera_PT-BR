@@ -1,10 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4681001" string="Ordens de supressão: Kulkaris" />
-    <String id="4681002" string="A supressão contínua nos mantém seguros." />
-    <String id="4681003" string="Obrigado por seu trabalho árduo." />
-    <String id="4681004" string="Prova de morte: Kulkaris" />
-    <String id="4681005" string="&quot;É uma honra servir.&quot;" />
-    <String id="4681006" string="Mate {@LinkCreature:46#201#argonomorph kulkari crusher}, {@LinkCreature:46#202#argonomorph kulkari shaman} e {@LinkCreature:46#203#argonomorph Lokian slayer} e colete fichas." />
-    <String id="4681007" string="Apresente-se ao coordenador mais próximo." />
+    <String id="4635001" string="Shamans No More" />
+    <String id="4635002" string="Tire os {@creature:46#202#argonomorph kulkari shamans} de seu provável sofrimento." />
+    <String id="4635003" string="Não quero nem pensar em por que os argonss criaram {@creature:46#202#argonomorph kulkari shamans}." />
+    <String id="4635004" string="Mate os {@creature:46#202#argonomorph kulkari shamans} que estão guardando as salas na parte {@Rgn:46002$$Raga Evala} das {@Rgn:46001$$the Three Towers}." />
+    <String id="4635005" string="&quot;Pelo menos eles não são mais argonss&quot;." />
+    <String id="4635006" string="Retorne à {@Rgn:46020$$Shineroot Chamber} e se apresente ao {@creature:246#1024$$Platanok}." />
 </StrSheet_Quest>

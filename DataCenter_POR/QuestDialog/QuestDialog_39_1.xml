@@ -1,92 +1,128 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="39" id="1" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="39" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="75" id="100" prevId="0" villagerId="1023">
          
+         
         <Page social="0">Quando Fraya percebeu que o material usado para criar os morbolitos poderia ter vindo do Mysterium, ela o convocou para Allemantheia. Malachai, o arcanista-chefe do Mysterium, ofereceu-se para liderar a investigação.&lt;BR&gt;&lt;BR&gt;Quando as evidências da produção das pedras foram encontradas no Covil de Arachnen, você foi até lá e destruiu o dispositivo de produção.&lt;BR&gt;&lt;BR&gt;Malachai subitamente comandou a investigação, fazendo com que Fraya desconfiasse de sua lealdade.&lt;BR&gt;&lt;BR&gt;Fraya perseguiu Malachai, mas ele escapou de Allemantheia.</Page>
+    
     
     </Text>
     <Text huntingZoneId="75" id="2" prevId="0" villagerId="1023">
          
+         
         <Page social="5">Só de pensar que alguém no Mysterium poderia ter fornecido isso... Precisamos saber onde a pedra foi extraída. Leve esses detritos para Ryshan em Allemantheia. Ele saberá dizer de onde vieram os materiais.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="3" prevId="2" villagerId="1111">
          
+         
         <Page social="5">De onde ela veio? É claro que posso descobrir.&lt;BR&gt;&lt;BR&gt;Estou muito ocupado e tenho muitas coisas para fazer; vai ter que esperar...&lt;BR&gt;&lt;BR&gt;Não pode encontrar algo para fazer até que eu esteja pronto?</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="4" prevId="3" villagerId="1133">
          
+         
         <Page social="4">A resposta para a origem dos fragmentos poderia vir mais cedo se alguém com... maior conhecimento... estivesse envolvido. &lt;PCNAME&gt;, tenho algo para você dizer à Comandante Fraya.&lt;NEXTPAGEBUTTON&gt;"O que é?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Diga a Fraya que os serviços de Malachai estão à disposição dela. Ryshan não precisa tirar tempo de sua agenda lotada.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="5" prevId="4" villagerId="1111">
          
+         
         <Page social="5">Malachai é muito bem-sucedido. Ele obterá os resultados de que Fraya precisa.</Page>
+    
     
     </Text>
     <Text huntingZoneId="75" id="6" prevId="5" villagerId="1023">
          
+         
         <Page social="5">Não é comum que Malachai se ofereça como voluntário para qualquer coisa que não esteja diretamente relacionada ao Núcleo.&lt;BR&gt;&lt;BR&gt;De qualquer forma, ele diz que conhece a origem. Talvez a gratidão seja a resposta adequada.&lt;NEXTPAGEBUTTON&gt;"Sério? Onde?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="5">Arachnea, no sudeste. Ao norte de Frontera. Encontre Kaleon lá e pergunte a ele que tipo de ajuda ele precisa.</Page>
+    
     
     </Text>
     <Text huntingZoneId="240" id="7" prevId="6" villagerId="1034">
          
+         
         <Page social="5">A Fraya mandou você? Muito bom. A ajuda é sempre... útil.&lt;BR&gt;&lt;BR&gt;Vá diretamente para o Ponto de Retribuição. Nós nos encontraremos lá.</Page>
+    
     
     </Text>
     <Text huntingZoneId="239" id="8" prevId="7" villagerId="1100">
          
+         
         <Page social="5">Temos que destruir os moinhos que estão produzindo essas pedras. Não há tempo a perder. Vá e mate {@LinkCreature:39#250#Kaligos}. E o {@LinkCreature:39#260#Telremnas} também. Quando isso for feito, poderemos destruir os {@LinkObject:37#morbolith mills}.&lt;BR&gt;&lt;BR&gt;Por enquanto, comece a matar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="239" id="9" prevId="8" villagerId="1100">
          
+         
         <Page social="4">Este é... muito, muito mais poderoso do que aquele que encontramos na Zona de Quarentena. Só de pensar no que isso poderia fazer se houvesse mais de um....&lt;BR&gt;&lt;BR&gt;Os mais fortes e últimos moinhos operacionais {@LinkCreature:39#5000#santificados} estão nas profundezas de Arachnaea. Pegue essa chama purificadora e queime os moinhos. Essa é a única maneira de destruí-los.</Page>
+    
     
     </Text>
     <Text huntingZoneId="239" id="10" villagerId="1100">
          
+         
         <Page social="0">Você tem o fragmento? Não podemos estudar o que não temos, você sabe.</Page>
+    
     
     </Text>
     <Text huntingZoneId="239" id="11" prevId="9" villagerId="1100">
          
+         
         <Page social="5">Está feito. Ótimo.&lt;BR&gt;&lt;BR&gt;É claro que essas novas ordens mudam tudo.&lt;NEXTPAGEBUTTON&gt;"Novas ordens?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="5">O Mysterium ordenou que interrompêssemos nossas pesquisas. Ou, para ser mais específico, Malachai assim ordenou.&lt;BR&gt;&lt;BR&gt;Não há notícias de Fraya. Talvez ela nem saiba.&lt;BR&gt;&lt;BR&gt;Sugiro que você a encontre e peça sua opinião sobre o assunto.</Page>
+    
     
     </Text>
     <Text huntingZoneId="239" id="12" prevId="11" villagerId="1041">
          
+         
         <Page social="5">Parar a pesquisa? Por que eles parariam a pesquisa? E agora me mandaram voltar para Allemantheia. Alguma coisa não está certa.&lt;BR&gt;&lt;BR&gt;Não vou a lugar nenhum até que o assunto do Brigadeiro Akeldama seja resolvido, que se danem os anciãos. Encontre-me mais tarde. &lt;NEXTPAGEBUTTON&gt;"Onde?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="5">Em meu &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=2#-23018.2773,51029.5234,1380.7639&amp;type=1&amp;name="Temp"&gt;ponto de encontro secreto&lt;/A&gt;&lt;/font&gt;.&lt;BR&gt;&lt;BR&gt;Em breve.</Page>
+    
     
     </Text>
     <Text huntingZoneId="239" id="13" prevId="12" villagerId="1039">
          
+         
         <Page social="5">Há um traidor em Allemantheia. Pesquisas interrompidas, um comandante retirado do campo de batalha? Algo não está certo. Vou sozinho preparar uma armadilha para Akeldama.&lt;BR&gt;&lt;BR&gt;Venha pelo teleportal mais tarde e me encontre lá.</Page>
+    
     
     </Text>
     <Text huntingZoneId="407" id="14" prevId="13" villagerId="1004">
          
+         
         <Page social="5">Agora está tudo muito claro. Temos que capturar Malachai e confirmar a localização do Núcleo.&lt;BR&gt;&lt;BR&gt;Voltarei para Allemantheia e me encontrarei com os anciões e o Mysterium. Você volta ao laboratório de Malachai.&lt;BR&gt;&lt;BR&gt;Diga a Alnosk que eu o enviei - ele o deixará entrar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="15" prevId="14" villagerId="1134">
          
+         
         <Page social="5">&lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;Vocês estão atrasados. O comandante já está lá dentro. Rápido!</Page>
+    
     
     </Text>
     <Text huntingZoneId="408" id="16" prevId="15" villagerId="1007">
          
+         
         <Page social="5">Fugiu.&lt;BR&gt;&lt;BR&gt;Se Thulsa e Akasha pensam que venceram, estão redondamente enganados.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, isso ainda não acabou. Precisarei de sua ajuda para encontrar o Núcleo.</Page>
+    
     
     </Text>
 </QuestDialog>

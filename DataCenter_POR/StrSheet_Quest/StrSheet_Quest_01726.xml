@@ -1,8 +1,14 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="8491001" string="Fires of Conquest (Batalha)" />
-    <String id="8491002" string="Vitória no Fraywind Canyon" />
-    <String id="8491003" string="Você conquistou uma vitória no Fraywind Canyon!" />
-    <String id="8491004" string="&quot;Obrigado.&quot;" />
-    <String id="8491005" string="Consulte o coordenador para obter sua recompensa." />
+    <String id="8422001" string="Apimentar" />
+    <String id="8422002" string="Você é um salva-vidas!" />
+    <String id="8422003" string="Mais uma vez, obrigado!" />
+    <String id="8422004" string="Caçar {@LinkCreature:5#10#toads} em {@Rgn:5001$$Tuwangi Mire} e colher grãos de pimenta de seus estômagos." />
+    <String id="8422005" string="&quot;Obrigado.&quot;" />
+    <String id="8422006" string="Caçar {@creature:5#10$$toads} e colher grãos de pimenta de seus estômagos." />
+    <String id="8422007" string="Leve os grãos de pimenta de Carlams para o coletor de ervas, {@Creature:68#1012$$Huchu}, em {@Rgn:68001$$Pora Elinu}." />
+    <String id="8422008" string="Huchu" />
+    <String id="8422009" string="Pimenta Carlam moída" />
+    <String id="8422010" string="Entregue pimenta carlams moída para {@Creature:84#1209$$Ganim} em {@Rgn:84101$$$Kapina Camp}." />
+    <String id="8422011" string="&quot;Sem problemas.&quot;" />
 </StrSheet_Quest>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="41" id="29" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="41" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="241" id="100" prevId="0" villagerId="1018">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="241" id="2" prevId="0" villagerId="1018">
          
+         
         <Page social="0">Muitos orcs estão felizes demais em guerrear com a federação para sempre. Nesse caminho está a ruína e a morte.&lt;BR&gt;&lt;BR&gt;Os {@LinkCreature:41#4004#Black Claw berserkers}, {@LinkCreature:41#4005#slaughterers} e {@LinkCreature:41#3006#blood fighters} são os mais guerreiros de todos. Eu gostaria de levar seus olhos insanos para {@LinkCreature:241#1023$$Majduk} como prova de sua loucura. Você me ajudará a fazer isso?</Page>
+    
     
     </Text>
     <Text huntingZoneId="241" id="3" prevId="2" villagerId="1023">
          
+         
         <Page social="0">Agora levarei esses olhos para as outras tribos e tentarei convencê-las a depor suas armas. Obrigado, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
     <Text huntingZoneId="241" id="4" villagerId="1023">
          
+         
         <Page social="0">Mate os {@LinkCreature:41#4004#Black Claw berserkers}, {@LinkCreature:41#4005#slaughterers} e {@LinkCreature:41#3006#blood fighters} e traga-me seus globos oculares.</Page>
+    
     
     </Text>
 </QuestDialog>

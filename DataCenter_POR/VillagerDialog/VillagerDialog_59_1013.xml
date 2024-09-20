@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="59" id="1013" voiceTypeId="67">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1013" huntingZoneId="59" voiceTypeId="67">
     <Text huntingZoneId="59" id="1" endSocial="14" prevId="0" villagerId="1013">
          
+         
         <Page social="4">Welcome traveler! Going to Velika where the sunshine feels like wheels turning? Or Lumbertown? Tree sap roars in your nostrils!&lt;BR&gt;&lt;BR&gt;If you're here for a while, 'tend to the pretty elf in the Square. Strong like a tree. Lonely as a dog in a badger hole! Needs some cubtime, I think.&lt;BR&gt;&lt;BR&gt;Enough squawking! Off you go.</Page>
+    
     
     </Text>
 </VillagerDialog>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="32" id="94" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="32" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="73" id="100" prevId="0" villagerId="1009">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="73" id="2" prevId="0" villagerId="1009">
          
+         
         <Page social="0">A Frigid Vigil está cheia de perigosos aliados de Thulsa.&lt;BR&gt;&lt;BR&gt;Eliminar {@LinkCreature:32#13#Sihran arcanists} e {@LinkCreature:32#15#loyalists}, e {@LinkCreature:32#14#tuwangi froglars}.&lt;BR&gt;&lt;BR&gt;Relatar com Relinda quando tiver conseguido.</Page>
+    
     
     </Text>
     <Text huntingZoneId="232" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="4">Obrigado por todo o seu trabalho árduo. Aqui está um símbolo de nossa estima.</Page>
+    
     
     </Text>
     <Text huntingZoneId="232" id="4" villagerId="1001">
          
+         
         <Page social="0">Não posso lhe dar uma recompensa a menos que você seja bem-sucedido.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,26 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="44" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="230" id="100" prevId="0" villagerId="1036">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="30" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="1036">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="230" id="2" prevId="0" villagerId="1036">
-         
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="1036">
         <Page social="1">Like any great sorcerer, Oshar tends to inspire all sorts of folklore. But only a few know what I know: "he" is actually a "she!"&lt;BR&gt;&lt;BR&gt;Even some of Oshar's most trusted confidants don't know the truth.&lt;NEXTPAGEBUTTON&gt;"Why does it matter?"&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="1">I do not question the motives of the great and powerful Oshar!&lt;BR&gt;&lt;BR&gt;I do, however, try to give her gifts that remind her that I know her true nature. I'm making a feathered headdress, and...&lt;BR&gt;&lt;BR&gt;You guessed it. I need help gathering the feathers. You're starting to anticipate the needs of mighty Oshar! In time, you too could bask in her wisdom.</Page>
-    
     </Text>
-    <Text huntingZoneId="230" id="3" prevId="2" villagerId="1036">
-         
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="1036">
         <Page social="1">This feathered headdress will please Oshar immensely. And it's better to have Oshar as a friend than as an enemy.</Page>
-    
     </Text>
-    <Text huntingZoneId="230" id="4" villagerId="1036">
-         
+    <Text id="4" huntingZoneId="230" villagerId="1036">
         <Page social="0">Feathers—symbolic, functional, and fun!</Page>
-    
     </Text>
 </QuestDialog>

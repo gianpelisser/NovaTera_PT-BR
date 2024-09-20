@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="701" id="15" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="15" huntingZoneId="701" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0">Você recebeu um convite para a &amp;quot;Castanica Beach Party&amp;quot; de Elesa da Serpentis Isle.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0">Ei, &lt;PCNAME&gt;! Lembra de mim? Não o vejo há muito tempo! &lt;BR&gt;&lt;BR&gt;Estou passando uns dias em Castanica, na grande festa da praia! Você virá para lá? Eu adoraria vê-lo novamente!&lt;BR&gt;&lt;BR&gt;Se você não me vir na praia, passe na West Beach Tavern e pergunte à garçonete se ela me viu!&lt;BR&gt;&lt;BR&gt;Não posso esperar!&lt;BR&gt;-S</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="3" prevId="2" villagerId="2008">
          
+         
         <Page social="4">Bem-vindo, amigo &lt;PCRACE:lcase&gt;! É a primeira vez que você vem à Festa na Praia, certo? &lt;BR&gt;&lt;BR&gt;Trouxe seu convite? Estou brincando - você não precisa de um! Todos são bem-vindos! &lt;BR&gt;&lt;BR&gt;Deixe-me contar tudo sobre as coisas divertidas e emocionantes que você poderá fazer durante a festa na praia!</Page>
+    
     
     </Text>
 </QuestDialog>

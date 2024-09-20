@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="7" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="7" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="60" id="100" prevId="0" villagerId="1014">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="60" id="2" prevId="0" villagerId="1014">
          
+         
         <Page social="5">&lt;PCNAME&gt;! Recebi um pedido de reforços das Colinas Celestiais. Drustan, em Casidhe's Stand, precisa de ajuda imediatamente. Não tenho soldados para dispensar, mas acho que você pode ser exatamente o que ele precisa.&lt;BR&gt;&lt;BR&gt;Ele está um pouco desgastado, mas é um bom homem. Faça o que puder, meu amigo. Pela federação!</Page>
+    
     
     </Text>
     <Text huntingZoneId="207" id="3" prevId="2" villagerId="1002">
          
+         
         <Page social="5">Você é o alívio? Um soldado? &lt;BR&gt;&lt;BR&gt;Danado os olhos de Daven. Precisamos de mais ajuda do que isso, mas vamos colocá-lo para trabalhar. Os orcs estão se reunindo para um ataque. Quero que você os elimine preventivamente. Elimine os {@LinkCreature:7#5#Red Fang Orcans} e {@LinkCreature:7#6#Red Fang Fighters} e traga de volta suas presas.&lt;BR&gt;&lt;BR&gt;Talvez isso nos dê o descanso de que precisamos. Vamos para o campo!</Page>
+    
     
     </Text>
     <Text huntingZoneId="207" id="4" prevId="3" villagerId="1002">
          
+         
         <Page social="5">Muito bem! São muitas presas.&lt;BR&gt;&lt;BR&gt;Isso vai assustá-los por um tempo, mas eles voltarão. Com sorte, estaremos reforçados até lá.&lt;BR&gt;&lt;BR&gt;Estou feliz por você estar aqui, &lt;PCNAME&gt;. Continue com seu bom trabalho.</Page>
+    
     
     </Text>
     <Text huntingZoneId="207" id="5" villagerId="1002">
          
+         
         <Page social="0">Você tem suas ordens, soldado. Mexa-se.</Page>
+    
     
     </Text>
 </QuestDialog>

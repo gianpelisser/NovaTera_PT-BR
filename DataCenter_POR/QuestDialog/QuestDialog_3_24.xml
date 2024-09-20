@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="3" id="24" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="3" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="203" id="100" prevId="0" villagerId="1004">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="203" id="2" prevId="0" villagerId="1004">
          
+         
         <Page social="4">Então você é o &lt;PCNAME&gt;... Bem, você quer ganhar algum dinheiro? Com todos os mortos-vivos e monstros que andam por aqui hoje em dia, as pessoas não estão conseguindo coletar ingredientes. Em outras palavras, se uma pessoa corajosa trouxesse alguns ingredientes, ela seria muito bem paga. Ingredientes como algumas &lt;FONT COLOR='#660000'&gt;fibras de verdra&lt;/FONT&gt;. Que tal? &lt;BR&gt;&lt;BR&gt;Não importa se você compra e traz de outra cidade ou se pega dos monstros. Basta obter algumas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="203" id="3" prevId="2" villagerId="1004">
          
+         
         <Page social="4">Gosto do fato de que você se preocupa com as pequenas coisas. É bom trabalhar com outro soldado. Os voluntários e recrutas são boas pessoas, mas são comerciantes e fazendeiros. Eles não têm a disciplina ou o treinamento.&lt;BR&gt;&lt;BR&gt;Por outro lado, eles certamente têm a coragem.</Page>
+    
     
     </Text>
     <Text huntingZoneId="203" id="4" villagerId="1004">
          
+         
         <Page social="0">Fibras de verdra? Você as obtém de certas plantas com folhas. Basta olhar ao redor. Você as encontrará facilmente.</Page>
+    
     
     </Text>
 </QuestDialog>

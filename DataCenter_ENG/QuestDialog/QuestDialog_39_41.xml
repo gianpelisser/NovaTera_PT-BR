@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="39" id="41" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="239" id="100" prevId="0" villagerId="1025">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="39" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="239" prevId="0" villagerId="1025">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="239" id="2" prevId="0" villagerId="1025">
-         
+    <Text id="2" huntingZoneId="239" prevId="0" villagerId="1025">
         <Page social="4">The Hatchery is littered with the mummified bodies of our fallen soldiers. It's a pity that we've just left them here to rot—but no more!&lt;BR&gt;&lt;BR&gt;Recover what bodies you can and bring them here.</Page>
-    
     </Text>
-    <Text huntingZoneId="239" id="3" prevId="2" villagerId="1025">
-         
+    <Text id="3" huntingZoneId="239" prevId="2" villagerId="1025">
         <Page social="0">Returning them to their families won't do the dead much good, but perhaps it'll ease the pain of those at home.&lt;BR&gt;&lt;BR&gt;Thanks for your help.</Page>
-    
     </Text>
-    <Text huntingZoneId="239" id="4" villagerId="1025">
-         
+    <Text id="4" huntingZoneId="239" villagerId="1025">
         <Page social="0">Help me do the right thing, &lt;PCNAME&gt;. Bring back our honored dead.</Page>
-    
     </Text>
 </QuestDialog>

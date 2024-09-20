@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="22" id="92" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="68" id="100" prevId="0" villagerId="1007">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="68" prevId="0" villagerId="1007">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="68" id="2" prevId="0" villagerId="1007">
-         
+    <Text id="2" huntingZoneId="68" prevId="0" villagerId="1007">
         <Page social="5">We're still having problems with the {@LinkCreature:22#14#vadoma acolytes} at the academy. I'd like you to hunt them down and collect proof of death.&lt;BR&gt;&lt;BR&gt;When you're done, report to Thara. She'll have your reward.</Page>
-    
     </Text>
-    <Text huntingZoneId="222" id="3" prevId="2" villagerId="1011">
-         
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1011">
         <Page social="5">These girls came to us to find someone who'd empower them, teach them to fight for the right things. Now they're dead.&lt;BR&gt;&lt;BR&gt;I'll pay you, but I won't thank you.</Page>
-    
     </Text>
-    <Text huntingZoneId="222" id="4" villagerId="1011">
-         
+    <Text id="4" huntingZoneId="222" villagerId="1011">
         <Page social="0">It's not pretty, but the vadoma acolytes must be stopped. You'll have to do it.</Page>
-    
     </Text>
 </QuestDialog>

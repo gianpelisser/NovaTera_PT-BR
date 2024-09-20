@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="607" id="9" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="607" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="72" id="100" prevId="0" villagerId="1704">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="72" id="2" prevId="0" villagerId="1704">
          
+         
         <Page social="4">O EX-TRX, nosso protótipo de robô mágico, requer um suprimento contínuo de energia para funcionar. E você não quer vê-lo funcionar? &lt;BR&gt;&lt;BR&gt;Traga-me cristais de {@LinkCreature:34#1010#gigantes de gelo} em Frost Reach.&lt;BR&gt;&lt;BR&gt;E não me olhe assim! Durante a fase de projeto, os cristais dos gigantes do gelo pareciam ser uma fonte de energia perfeitamente plausível.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="3" prevId="2" villagerId="1704">
          
+         
         <Page social="4">Cristais suficientes para manter o bot funcionando durante o dia! Isso é ótimo, mas precisarei de sua ajuda novamente amanhã.&lt;BR&gt;&lt;BR&gt;EX-TRX é ávido por poder! Hmmm. Vamos fingir que isso não soou ameaçador.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="4" villagerId="1704">
          
+         
         <Page social="0">Para manter essa máquina funcionando, preciso de um suprimento de energia. Especificamente, cristais de gigantes do gelo.&lt;BR&gt;&lt;BR&gt;É ciência de fusão. Você não entenderia.</Page>
+    
     
     </Text>
 </QuestDialog>

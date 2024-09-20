@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="181" id="16" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="181" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0">&lt;PCNAME&gt; partiu para encontrar o segredo do controle da Barreira da Tempestade, deixando Zolyn e Paesyn para trás, e encontrou uma caverna escondida.&lt;BR&gt;&lt;BR&gt;Dentro da caverna havia um portão desconhecido guardado pelo Exército Imperial de Archdevan.&lt;BR&gt;&lt;BR&gt;Derrotando os guardas, &lt;PCNAME&gt; descobriu que o portão estava conectado à Energia Celo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="818" id="3" prevId="2" villagerId="1112">
          
+         
         <Page social="4">Eu o vi despachar aqueles arquidevas lá fora, &lt;PCNAME&gt;. Lamento não ter podido ajudar, mas estava pronto para ir em busca de ajuda, se você precisasse! &lt;BR&gt;&lt;BR&gt;Zolyn está a caminho.&lt;NEXTPAGEBUTTON&gt;"Ok. Quando ela chegar, diga-lhe que eu fui à frente."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
 </QuestDialog>

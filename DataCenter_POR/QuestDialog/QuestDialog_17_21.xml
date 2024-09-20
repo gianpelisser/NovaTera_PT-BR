@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="17" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="17" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="67" id="100" prevId="0" villagerId="1010">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="67" id="2" prevId="0" villagerId="1010">
          
+         
         <Page social="4">A cidade está sendo estrangulada por esse culto nas planícies de Paraanon. Essas planícies costumavam ser nossas melhores terras agrícolas. Agora é apenas um buraco para a federação lançar tropas.&lt;BR&gt;&lt;BR&gt;O prefeito Cafnil está no comando do Posto Avançado de Embattled. Com sua ajuda, talvez possamos romper esse impasse.</Page>
+    
     
     </Text>
     <Text huntingZoneId="217" id="3" prevId="2" villagerId="1010">
          
+         
         <Page social="4">Sangue novo, hein? &lt;BR&gt;&lt;BR&gt;Já não era sem tempo! &lt;PCCLASS&gt;são um remédio poderoso para o que aflige esta terra, como as feras do vale estão prestes a aprender... para sua consternação! Vamos falar de estratégia!</Page>
+    
     
     </Text>
 </QuestDialog>

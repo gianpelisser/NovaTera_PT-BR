@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="34" id="24" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="34" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="83" id="100" prevId="0" villagerId="1012">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="83" id="2" prevId="0" villagerId="1012">
          
+         
         <Page social="4">Bleakrock depende do comércio de fragmentos eldritch para sua sobrevivência econômica. Gostaríamos de diversificar, mas Allemantheia paga tão bem pelos fragmentos que nada mais é tão lucrativo.&lt;BR&gt;&lt;BR&gt;No entanto, estamos ficando sem depósitos.&lt;BR&gt;&lt;BR&gt;Enviamos alguém ao longo da Trilha de Gelo para procurar. Você poderia verificar com Dio? Descubra se há outras áreas para minerar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="234" id="3" prevId="2" villagerId="1006">
          
+         
         <Page social="4">Sim, sim - todo mundo quer saber onde está o próximo depósito. Para ser honesto, nossas minas existentes estão quase esgotadas, mas as planícies estão se mostrando promissoras.&lt;BR&gt;&lt;BR&gt;Aqui, pegue meu relatório de volta. Ele explica tudo. Mas tenha cuidado. Os Junaidar cortariam sua garganta por causa desse relatório.</Page>
+    
     
     </Text>
     <Text huntingZoneId="83" id="4" prevId="3" villagerId="1012">
          
+         
         <Page social="4">Isso é ruim. Essas sugestões nos levam mais fundo no território dos wendigos. Estaremos lutando mais do que minerando.&lt;BR&gt;&lt;BR&gt;Leve este relatório ao Pretor Nunahd e veja se ele acha isso possível.&lt;BR&gt;&lt;BR&gt;Escolhemos esta vida para nos testar; só espero que não tenhamos mordido mais do que podemos mastigar - ou que possa nos mastigar!</Page>
+    
     
     </Text>
     <Text huntingZoneId="83" id="5" prevId="4" villagerId="1004">
          
+         
         <Page social="4">Hmph. Possível, sim. Desejável, não.&lt;BR&gt;&lt;BR&gt;Os wendigos representam uma ameaça diferente da dos Junaidar. Se tivermos que lutar apenas para extrair os meus, perderemos muitas vidas.&lt;BR&gt;&lt;BR&gt;Bem, aquele magistrado falou. Vou preparar as tropas.</Page>
+    
     
     </Text>
 </QuestDialog>

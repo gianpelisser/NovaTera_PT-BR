@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_InputRestriction xmlns="https://vezel.dev/novadrop/dc/StrSheet_InputRestriction" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_InputRestriction StrSheet_InputRestriction.xsd">
+<StrSheet_InputRestriction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_InputRestriction StrSheet_InputRestriction.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_InputRestriction">
     <String id="1" string="Character name" />
     <String id="2" string="Conversation" />
     <String id="3" string="Advertisement" />
@@ -22,7 +21,7 @@
     <String id="20" string="Candidate pledge" />
     <String id="21" string="Guild name" />
     <String id="22" string="Password" />
-    <String id="23" string="Declaration of war" />
+    <String id="23" string="Taunt" />
     <String id="24" string="Guild Combat advertisement" />
     <String id="25" string="Pet Name" />
     <String id="26" string="Alliance notice" />

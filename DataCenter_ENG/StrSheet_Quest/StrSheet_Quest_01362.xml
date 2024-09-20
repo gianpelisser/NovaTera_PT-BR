@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4836001" string="Advancing the Art of War" />
-    <String id="4836002" string="Kill those blasted shapers!" />
-    <String id="4836003" string="I'll give this some careful study." />
-    <String id="4836004" string="Sarjalod Component" />
-    <String id="4836005" string="Kill argon shapers around {@Rgn:48006} and collect a component from one of the sarjalod cannons." />
-    <String id="4836006" string="Report back to {@LinkCreature:248#1032}." />
-    <String id="4836007" string="&quot;Good luck, and thanks.&quot;" />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4832001" string="The Last Obligation" />
+    <String id="4832002" string="Those tags will keep their names alive for their families." />
+    <String id="4832003" string="Their families will cherish these." />
+    <String id="4832004" string="Grab the dog tags." />
+    <String id="4832005" string="Grab the dog tags." />
+    <String id="4832006" string="Grab the dog tags and the chapter." />
+    <String id="4832007" string="Collect dog tags from fallen soldiers in {@Rgn:48006}." />
+    <String id="4832008" string="{@LinkCreature:48#1012}" />
+    <String id="4832009" string="Federation Dog Tag" />
+    <String id="4832010" string="Deliver the tags to Greldam." />
+    <String id="4832011" string="&quot;For the federation!&quot;" />
 </StrSheet_Quest>

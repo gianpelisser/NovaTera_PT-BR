@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="8" id="41" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="41" huntingZoneId="8" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="208" id="100" prevId="0" villagerId="1037">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="208" id="2" prevId="0" villagerId="1037">
          
+         
         <Page social="4">Ugh! Esse fedor! Os gulas usam um tipo de especiaria que cheira a zompori sujo de esterco. Eles adoram, não se cansam.&lt;BR&gt;&lt;BR&gt;Com o intuito de ferir o moral deles e melhorar o meu, quero que você o roube. Eu o destruirei e todos nós poderemos respirar melhor.</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="3" prevId="2" villagerId="1037">
          
+         
         <Page social="4">Grande erro. Eu deveria ter pedido para você destruí-lo lá fora. Que nojo! &lt;BR&gt;&lt;BR&gt;Acho que acabei de vomitar um pouco.</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="4" villagerId="1037">
          
+         
         <Page social="0">Roubar o tempero deles é a melhor ideia. Confie em mim.</Page>
+    
     
     </Text>
 </QuestDialog>

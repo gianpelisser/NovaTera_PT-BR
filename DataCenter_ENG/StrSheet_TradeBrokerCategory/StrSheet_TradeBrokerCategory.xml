@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_TradeBrokerCategory xmlns="https://vezel.dev/novadrop/dc/StrSheet_TradeBrokerCategory" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_TradeBrokerCategory StrSheet_TradeBrokerCategory.xsd">
+<StrSheet_TradeBrokerCategory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_TradeBrokerCategory StrSheet_TradeBrokerCategory.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_TradeBrokerCategory">
     <String id="100">Weapons</String>
-    <String id="101">Scythe</String>
+    <String id="101">Scythes</String>
     <String id="102">Twin Swords</String>
     <String id="103">Lance</String>
     <String id="104">Greatsword</String>
@@ -10,6 +9,7 @@
     <String id="107">Bow</String>
     <String id="108">Staff</String>
     <String id="109">Scepter</String>
+    <String id="110">Arcannon</String>
     <String id="200">Armor by material</String>
     <String id="211">Metal Armor</String>
     <String id="212">Hauberk</String>

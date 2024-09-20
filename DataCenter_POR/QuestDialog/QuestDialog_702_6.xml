@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="702" id="6" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="702" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="219" id="100" prevId="0" villagerId="1009">
          
+         
         <Page social="0">Você participou do jogo Kick-Bale do Digory.</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="2" prevId="0" villagerId="1009">
          
+         
         <Page social="4">Qualquer um pode chutar, mas nem todos podem chutar fardos de feno.&lt;BR&gt;&lt;BR&gt;Quer tentar? &lt;NEXTPAGEBUTTON&gt;&amp;quot;Sim.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="3" prevId="2" villagerId="1009">
          
+         
         <Page social="4">Você fica melhor a cada vez! Aqui está o seu prêmio. &lt;NEXTPAGEBUTTON&gt;&amp;quot;Obrigado.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
 </QuestDialog>

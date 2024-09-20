@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="3" id="25" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="3" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="203" id="100" prevId="0" villagerId="1005">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="203" id="2" prevId="0" villagerId="1005">
          
+         
         <Page social="4">Não sou o único que precisa de sua ajuda. Vários vendedores ambulantes ficaram presos em Blood Run. Suas carroças foram roubadas ou destruídas, mas os vendedores ainda poderiam levar suas mercadorias para Crescentia se alguém os escoltasse.&lt;BR&gt;&lt;BR&gt;Mesmo um pequeno carregamento seria um verdadeiro alívio. Você está procurando o {@LinkCreature:203#1028#peddler} a leste daqui. Apresse-se e não o deixe morrer!</Page>
+    
     
     </Text>
     <Text huntingZoneId="3" id="3" villagerId="25">
          
+         
         <Page social="0">Tenho alguns alimentos e remédios básicos, mas os devas vão me cortar. Você pode me levar em segurança até Crescentia?</Page>
+    
     
     </Text>
     <Text huntingZoneId="59" id="4" prevId="2" villagerId="1011">
          
+         
         <Page social="4">Excepcional. Uma coisa simples como um pacote cheio de mercadorias traz muita esperança em um momento como este. Esse é exatamente o tipo de sinal que estávamos esperando.&lt;BR&gt;&lt;BR&gt;Fale com o Magistrado Corann. Tenho certeza de que ele quer elogiá-lo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="59" id="5" prevId="4" villagerId="1001">
          
+         
         <Page social="4">Você é o &lt;PCNAME&gt;? O tribuno falou muito bem de você. Obrigado por escoltar aquele comerciante até um lugar seguro. Não preciso dizer o quanto essas pequenas vitórias podem ser animadoras.&lt;BR&gt;&lt;BR&gt;Crescentia está passando por um período sombrio agora, mas vamos superar isso. Obrigado.</Page>
+    
     
     </Text>
 </QuestDialog>

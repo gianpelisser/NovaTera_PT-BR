@@ -1,39 +1,53 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="5" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="13" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="64" id="100" prevId="0" villagerId="1001">
          
+         
         <Page social="0">Adria tem mais informações sobre Elleon, o irmão mais velho de Leander.&lt;BR&gt;&lt;BR&gt;Algumas pessoas o viram, mas o consenso é que ele saiu em busca de algo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="64" id="2" prevId="0" villagerId="1001">
          
+         
         <Page social="4">Finalmente consegui mais algumas informações sobre Elleon, &lt;PCNAME&gt;. Parece que ele realmente está desaparecido novamente.&lt;BR&gt;&lt;BR&gt;Seu irmão Leander está doente de preocupação, é claro. Ele deve estar aqui a qualquer momento.&lt;BR&gt;&lt;BR&gt;Tenha tato quando o vir. Os elfos superiores podem parecer serenos, mas eles sentem as emoções tão intensamente quanto qualquer um.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="3" prevId="2" villagerId="1008">
          
+         
         <Page social="4">Parece que acabamos de encontrá-lo e agora Elleon sumiu de novo. Presumo que ele tenha fugido novamente.&lt;BR&gt;&lt;BR&gt;Verifique com Taras os degraus. Ele mantém um olhar atento. Ele pode ter visto alguma coisa.</Page>
+    
     
     </Text>
     <Text huntingZoneId="64" id="4" prevId="3" villagerId="1028">
          
+         
         <Page social="4">Elleon está desaparecido de novo? Sabe, agora que você mencionou, eu o vi há algumas horas. Ele estava indo para o Posto de Controle Sul.&lt;BR&gt;&lt;BR&gt;Verifique com {@linkcreature:213#1147$$Tanli}. Ela pode ter visto para onde ele foi.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="5" prevId="4" villagerId="1147">
          
+         
         <Page social="4">Elleon? Sim, eu o vi indo para o sul. Achei um pouco estranho, já que o acampamento está abandonado, mas presumi que ele tinha seus motivos. Mas isso foi há pelo menos algumas horas atrás.&lt;BR&gt;&lt;BR&gt;Ele tem parecido... distraído ultimamente. Honestamente, {@linkcreature:213#1008$$Leander} provavelmente tem uma ideia muito melhor do que está acontecendo do que eu.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="6" prevId="5" villagerId="1008">
          
+         
         <Page social="4">Bem, obviamente ele saiu em busca de algo. Como você deve ter ouvido, ele faz isso de vez em quando.&lt;BR&gt;&lt;BR&gt;O Conselheiro {@linkcreature:64#1009$$Teil} provavelmente tem mais informações sobre o que ele pode estar tentando encontrar. Fale com ele.</Page>
+    
     
     </Text>
     <Text huntingZoneId="64" id="7" prevId="6" villagerId="1009">
          
+         
         <Page social="4">Ah, sim: Elleon. Como todos os verdadeiros heróis, ele acha difícil delegar tarefas a subordinados.&lt;BR&gt;&lt;BR&gt;Vamos ver se conseguimos descobrir para onde ele foi...</Page>
+    
     
     </Text>
 </QuestDialog>

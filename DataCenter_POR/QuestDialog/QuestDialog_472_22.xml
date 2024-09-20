@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="472" id="22" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="472" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="208" id="100" prevId="0" villagerId="1018">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="208" id="2" prevId="0" villagerId="1018">
          
+         
         <Page social="4">O dente-de-sabre? É meu desde que era um filhote. Com certeza ele come mais agora do que naquela época! &lt;BR&gt;&lt;BR&gt;Ele come como um gula... bem, não é bem assim, mas tem um apetite e tanto. Adivinhe o que ele come? &lt;NEXTPAGEBUTTON&gt;"Carne de gula?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Fechar. Jacarés.&lt;BR&gt;&lt;BR&gt;Sua refeição favorita é a cauda de um {@LinkCreature:472#2#jacaré-azul}. Mas acho que os jacarés ficaram espertos com minhas armadilhas.&lt;BR&gt;&lt;BR&gt;Se você for ao Labirinto Dourado, talvez encontre alguns que os gulas mantêm como animais de estimação.&lt;BR&gt;&lt;BR&gt;Traga de volta as caudas deles! Você não quer um dente-de-sabre mal-humorado por aqui, quer?</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="3" prevId="2" villagerId="1018">
          
+         
         <Page social="6">Isso manterá meu bebê grande feliz. Ou, pelo menos, alimentado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="4" villagerId="1018">
          
+         
         <Page social="0">Se eu pudesse entrar no Labirinto Dourado e sair novamente, eu entraria.</Page>
+    
     
     </Text>
 </QuestDialog>

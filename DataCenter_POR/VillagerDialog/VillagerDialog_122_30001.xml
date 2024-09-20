@@ -1,13 +1,17 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="122" id="30001" voiceTypeId="48">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="30001" huntingZoneId="122" voiceTypeId="48">
     <Text id="1" endSocial="0">
          
+         
         <Page social="0" voiceTypeId="0">The Enlightened Union welcomes all members seeking to conduct fair and open trade.</Page>
+    
     
     </Text>
     <Text id="6" endSocial="4">
          
+         
         <Page social="0" voiceTypeId="0">This is not for another alliance.</Page>
+    
     
     </Text>
 </VillagerDialog>

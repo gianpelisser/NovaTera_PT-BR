@@ -1,12 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="3041001" string="Popo Pilgrims" />
-    <String id="3041002" string="Make sure no pilgrim dies!" />
-    <String id="3041003" string="Whew! I can relax...until they come back." />
-    <String id="3041004" string="Let's go!" />
-    <String id="3041005" string="Oh, thank you!" />
-    <String id="3041006" string="[{@Rgn:30014$$Seren's Lake}]
-Escort the {@linkcreature:230#1094#popori tourist} to &lt;font color='#0080FF'&gt;&lt;A href=&quot;markmap:loc=7015#-882.1941,85791.7813,-1464.2461&amp;type=1&amp;name=Seren's Lake&quot;&gt;{@Rgn:30014$$Seren's Lake}&lt;/A&gt;&lt;/font&gt;." />
-    <String id="3041007" string="&quot;Glad to be of service.&quot;" />
-    <String id="3041008" string="Report to Centurion {@linkcreature:230#1066$$Nicielle} that the {@linkcreature:230#1094#popori tourist} reached the lake safely." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="3037001" string="They're Ruining the Ruins" />
+    <String id="3037002" string="Imagine...we walk where the giants once trod." />
+    <String id="3037003" string="Hee hee! Thanks!" />
+    <String id="3037004" string="Kill {@linkcreature:30#520#dreadpaw mandrills} in the {@Rgn:30008$$Lower Archive}." />
+    <String id="3037005" string="&quot;For the federation.&quot;" />
+    <String id="3037006" string="Report to Decurion {@linkcreature:230#1001$$Litherus} in the {@Rgn:30008$$Lower Archive}." />
 </StrSheet_Quest>

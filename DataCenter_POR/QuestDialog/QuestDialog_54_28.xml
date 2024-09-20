@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="54" id="28" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="54" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="254" id="100" prevId="0" villagerId="1006">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="254" id="2" prevId="0" villagerId="1006">
          
+         
         <Page social="4">Os argonss não passaram por aqui sozinhos. Eles tinham tuwangis com eles.&lt;BR&gt;&lt;BR&gt;Sabe, talvez seja mais fácil conseguir pistas dos pequenos tuwangis do que dos argons.&lt;BR&gt;&lt;BR&gt;Alguns deles estavam se escondendo perto do riacho ao sul do posto de vigia. Veja se eles têm alguma pista útil sobre o que os argonss pretendem, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
     <Text huntingZoneId="254" id="3" prevId="2" villagerId="1006">
          
+         
         <Page social="4">Isso estava nos tuwangis? Deixe-me examinar isso por um segundo.&lt;BR&gt;&lt;BR&gt;Espere... isso é feito dos mesmos componentes que a névoa que permeia Seeliewood.&lt;BR&gt;&lt;BR&gt;Se os argons controlam os tuwangis com isso, e a névoa é a mesma...&lt;BR&gt;&lt;BR&gt;Oh não, temos um problema maior aqui do que qualquer um imaginava.</Page>
+    
     
     </Text>
     <Text huntingZoneId="254" id="4" villagerId="1006">
          
+         
         <Page social="0">Os tuwangis estão lhe causando problemas? &lt;BR&gt;&lt;BR&gt;Ou você tem fobia de sapos?</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="37" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="13" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="213" id="100" prevId="0" villagerId="1007">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="213" id="2" prevId="0" villagerId="1007">
          
+         
         <Page social="4">A caixa que falta contém pedras de relíquia. Eria, filha de Elinu, afirma que as pedras estão especialmente sintonizadas com os guardiões desta ilha e permitirão que os soldados do Desfiladeiro Maculado tenham mais liberdade de movimento. Elas devem ser o que os {@LinkCreature:13#901#guardiões orcs} estavam procurando no dirigível, mas por quê? &lt;BR&gt;&lt;BR&gt;Recuperar esses objetos é de grande importância. Não hesite em usar força letal contra os orcs - eles têm muito a responder.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="3" prevId="2" villagerId="1007">
          
+         
         <Page social="4">Objetos tão despretensiosos para terem causado tanta dificuldade. Estou em dívida com você.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="4" villagerId="1007">
          
+         
         <Page social="0">Cada hora que passa aumenta o risco de que {@LinkCreature:13#901#orcan guardians} danifiquem as &lt;font color='#660000'&gt;pedras-relíquia&lt;/font&gt; e coloquem em risco aqueles que servem no Desfiladeiro Maculado. Por favor, não se demore em sua recuperação.</Page>
+    
     
     </Text>
 </QuestDialog>

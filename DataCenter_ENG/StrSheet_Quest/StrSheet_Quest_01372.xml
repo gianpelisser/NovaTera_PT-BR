@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4846001" string="Fighting for the Fallen" />
-    <String id="4846002" string="It’s {@Rgn:48006}. Watch yourself." />
-    <String id="4846003" string="You took a big risk for us. Thanks." />
-    <String id="4846004" string="Argon Mutations" />
-    <String id="4846005" string="Kill syndrene dragoons or zariik cyclopses around Carnage Vale." />
-    <String id="4846006" string="&quot;Watch yourself out here.&quot;" />
-    <String id="4846007" string="Report back to {@LinkCreature:248#1042}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4842001" string="Priority Targets" />
+    <String id="4842002" string="Please kill those wretched gilgash guardians!" />
+    <String id="4842003" string="Everyone's talking about you." />
+    <String id="4842004" string="Kill gilgash guardians east of Khanovar Citadel." />
+    <String id="4842005" string="&quot;You're welcome.&quot;" />
+    <String id="4842006" string="Report back to {@LinkCreature:248#1001}." />
 </StrSheet_Quest>

@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="7" id="93" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="60" id="100" prevId="0" villagerId="1013">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="60" prevId="0" villagerId="1013">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="60" id="2" prevId="0" villagerId="1013">
-         
+    <Text id="2" huntingZoneId="60" prevId="0" villagerId="1013">
         <Page social="0">The kumases have claimed the Omphalos Plains and challenge our control of the region.&lt;BR&gt;&lt;BR&gt;You are to slay {@LinkCreature:7#3#indolent} and {@LinkCreature:7#4#torpid kumases} to establish our dominance.&lt;BR&gt;&lt;BR&gt;Report to Heroth at Godric's Farm when you're successful.</Page>
-    
     </Text>
-    <Text huntingZoneId="207" id="3" prevId="2" villagerId="1005">
-         
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1005">
         <Page social="5">I hate kumases. Nasty brutes. They got what they deserved. If I ever make it back to Velika, &lt;PCNAME&gt;, I'm buying you an ale.</Page>
-    
     </Text>
-    <Text huntingZoneId="207" id="4" villagerId="1005">
-         
+    <Text id="4" huntingZoneId="207" villagerId="1005">
         <Page social="0">It looks like you haven't completed your mission yet.</Page>
-    
     </Text>
 </QuestDialog>

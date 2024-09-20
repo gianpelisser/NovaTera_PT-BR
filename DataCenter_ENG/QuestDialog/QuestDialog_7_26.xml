@@ -1,19 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="7" id="26" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="207" id="100" prevId="0" villagerId="1005">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="7" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="207" prevId="0" villagerId="1005">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="207" id="2" prevId="0" villagerId="1005">
-         
+    <Text id="2" huntingZoneId="207" prevId="0" villagerId="1005">
         <Page social="5">The orcans and the kumases made reaching the Sanctum Mysterium very tricky. Their supply shipment comes from us and, as you know, we just got ours.&lt;BR&gt;&lt;BR&gt;I'll put together what we can spare for them but it'll be a few days.&lt;BR&gt;&lt;BR&gt;Can you talk to {@LinkCreature:207#1001#Mattin} at the Sanctum Mysterium? Let him know we've not forgotten.</Page>
-    
     </Text>
-    <Text huntingZoneId="207" id="3" prevId="2" villagerId="1001">
-         
+    <Text id="3" huntingZoneId="207" prevId="2" villagerId="1001">
         <Page social="5">Supplies and good news are in rather short supply. Heroth's situation is unenviable but ours may rapidly become untenable.&lt;BR&gt;&lt;BR&gt;Your message is noted. Good day.</Page>
-    
     </Text>
 </QuestDialog>

@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="6386001" string="Think Like a Pirate" />
-    <String id="6386002" string="Win a battle in Corsairs' Stronghold." />
-    <String id="6386003" string="" />
-    <String id="6386004" string="&quot;Arrr!&quot;" />
-    <String id="6386005" string="Find Surah at the Valkyon Headquarters in Velika." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="6381001" string="We Have the Technology" />
+    <String id="6381002" string="Hang on to these. You'll need them." />
+    <String id="6381003" string="&quot;Let's go shopping.&quot;" />
+    <String id="6381004" string="Report to {@linkcreature:63#1160} at {@Rgn:63009} in {@Rgn:63001}." />
+    <String id="6381005" string="&quot;I'm ready.&quot;" />
+    <String id="6381006" string="Buy 20 tier 3 alkahests from {@linkcreature:63#1103} in {@Rgn:63016}." />
+    <String id="6381007" string="Report to {@linkcreature:63#1605} at the {@Rgn:63003}." />
 </StrSheet_Quest>

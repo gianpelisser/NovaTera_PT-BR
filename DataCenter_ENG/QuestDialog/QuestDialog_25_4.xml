@@ -1,71 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="25" id="4" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="218" id="100" prevId="0" villagerId="1022">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="25" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="218" prevId="0" villagerId="1022">
         <Page social="0">You prevented Lok believers from acquiring the ancient magic of the giants, and destroyed the book containing the information so it may never fall into the wrong hands.</Page>
-    
     </Text>
-    <Text huntingZoneId="218" id="2" prevId="0" villagerId="1022">
-         
+    <Text id="2" huntingZoneId="218" prevId="0" villagerId="1022">
         <Page social="4">We have to tell Elsine that the Scions of Lok learned where the giants' weapons were sealed away. We'll need her expertise to stop them.&lt;BR&gt;&lt;BR&gt;Return to her as quickly as you can!</Page>
-    
     </Text>
-    <Text huntingZoneId="66" id="3" prevId="2" villagerId="1023">
-         
+    <Text id="3" huntingZoneId="66" prevId="2" villagerId="1023">
         <Page social="4">We searched for years and years, and yet the Scions found the giants' resting place so quickly.&lt;BR&gt;&lt;BR&gt;Well, they may know the location, but we mustn't let them acquire the relics. With such power, they could easily slay Velik and take her divine power.&lt;BR&gt;&lt;BR&gt;Tell Baruch what's happened. We'll need help to stop the Scions.</Page>
-    
     </Text>
-    <Text huntingZoneId="66" id="4" prevId="3" villagerId="1001">
-         
+    <Text id="4" huntingZoneId="66" prevId="3" villagerId="1001">
         <Page social="4">Of course we'll help! By the titans, how can we not? I'll order all outposts to double their patrols. We'll find the Scions and stop them.&lt;BR&gt;&lt;BR&gt;Talk to Veltana at the Western Watchpost. On my orders, she'll do whatever she can to aid you.</Page>
-    
     </Text>
-    <Text huntingZoneId="224" id="5" prevId="4" villagerId="1005">
-         
+    <Text id="5" huntingZoneId="224" prevId="4" villagerId="1005">
         <Page social="4">We haven't seen any strange activity—beyond those murderous kulkaris, that is.&lt;BR&gt;&lt;BR&gt;I did read a report from Decurion Stadrian at Sandwalker Refuge. He didn't mention the Scions by name, but he did describe a strange force making its way along the roads.&lt;BR&gt;&lt;BR&gt;Didn't you smash the Scions a while back? Around the time General Samael died?</Page>
-    
     </Text>
-    <Text huntingZoneId="224" id="6" prevId="5" villagerId="1009">
-         
+    <Text id="6" huntingZoneId="224" prevId="5" villagerId="1009">
         <Page social="4">I don't know if they were Scions, but they couldn't be on our side. They're dealing with the orcans—trading supplies, plundering, that sort of thing.&lt;BR&gt;&lt;BR&gt;You'll take out their supply chain if you kill {@LinkCreature:24#11#horned orcan berserkers}. You might also get some information that way.&lt;BR&gt;&lt;BR&gt;Plus, I'm rid of a few bloody orcans. Everyone wins!</Page>
-    
     </Text>
-    <Text huntingZoneId="224" id="7" prevId="6" villagerId="1009">
-         
+    <Text id="7" huntingZoneId="224" prevId="6" villagerId="1009">
         <Page social="4">While you were engaging in aggressive negotiations with the orcans, Qasimir sent word for you. Apparently, the Scions are doing something in Sand Wind Village. He's preparing to search the village now. If you hurry, you can join in.</Page>
-    
     </Text>
-    <Text huntingZoneId="224" id="8" prevId="7" villagerId="1014">
-         
+    <Text id="8" huntingZoneId="224" prevId="7" villagerId="1014">
         <Page social="4">Nice to meet you at last. My younger cousin is Kaeden. He wrote all about your exploits on the Island of Dawn.&lt;BR&gt;&lt;BR&gt;I don't know why the Scions are working with the kulkaris, but we've seen some very strange things lately.&lt;BR&gt;&lt;BR&gt;If you want to look around, you'll have to kill the {@LinkCreature:24#13#sly runekeepers} and {@LinkCreature:24#58#Sand Wind shamans} that guard the village. Once inside the camp, the {@LinkCreature:24#19#eldritch warpers} might be the best targets, or at least the most knowledgeable ones.</Page>
-    
     </Text>
-    <Text huntingZoneId="224" id="9" prevId="8" villagerId="1009">
-         
+    <Text id="9" huntingZoneId="224" prevId="8" villagerId="1009">
         <Page social="4">Zuulrakar, Ezzareshar, and Terenoff—they must be the ones leading the search for the artifacts. Odd names. I've never heard of them, but I'm just a soldier.&lt;BR&gt;&lt;BR&gt;If you're really working with Elsine, you should ask her. I'd wager she knows more than either of us.</Page>
-    
     </Text>
-    <Text huntingZoneId="66" id="10" prevId="9" villagerId="1023">
-         
+    <Text id="10" huntingZoneId="66" prevId="9" villagerId="1023">
         <Page social="4">Zuulrakar! Truly?&lt;BR&gt;&lt;BR&gt;That's an ancient demon, and Ezzareshar and Terenoff are its followers. If the Scions of Lok have summoned them, they're trying to uncover the giants' weapons and the stolen Tome of Sealing. We cannot allow this!&lt;BR&gt;&lt;BR&gt;You must kill Zuulrakar and his followers and recover the tome.&lt;BR&gt;&lt;BR&gt;Head to Torrent Outpost and speak with Raquib. He's a veteran out there and might be able to help.</Page>
-    
     </Text>
-    <Text huntingZoneId="224" id="11" prevId="10" villagerId="1012">
-         
+    <Text id="11" huntingZoneId="224" prevId="10" villagerId="1012">
         <Page social="4">Demons, eh? Yes. I've seen them.&lt;BR&gt;&lt;BR&gt;The &lt;font color='#0080FF'&gt;Storst Ruins&lt;/font&gt; are crawling with demons—your pals, {@LinkCreature:24#5003#Ezzareshar} and {@LinkCreature:24#5004#Terenoff}, among them.&lt;BR&gt;&lt;BR&gt;If you can kill them and destroy {@LinkCreature:24#5002#Zuulrakar}, then all you'll have to do is recover the tome ol' Zuuly's toting around.&lt;BR&gt;&lt;BR&gt;You do all that and someone owes you a barrel of ale. Not me, but someone.</Page>
-    
     </Text>
-    <Text huntingZoneId="66" id="12" prevId="11" villagerId="1023">
-         
+    <Text id="12" huntingZoneId="66" prevId="11" villagerId="1023">
         <Page social="4">This tome contains power and secrets that could reshape the face of our world, &lt;PCNAME&gt;. Kingdoms—dynasties—have been built on much, much less.&lt;NEXTPAGEBUTTON&gt;"We need to destroy it."&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="10">A pity. You know, half the Mysterium would drop dead on the spot in Allemantheia were we to suggest such a thing.&lt;BR&gt;&lt;BR&gt;Still, perhaps there are no right hands for power of this magnitude. We've not yet earned the ability to wield it with wisdom.</Page>
-    
     </Text>
-    <Text huntingZoneId="66" id="13" villagerId="1023">
-         
+    <Text id="13" huntingZoneId="66" villagerId="1023">
         <Page social="0">If Zuulrakar recovers the weapons of the giants, it will be a nightmare trying to stop them. Kill {@LinkCreature:24#5002#Zuulrakar} and retrieve the Tome of Sealing.</Page>
-    
     </Text>
 </QuestDialog>

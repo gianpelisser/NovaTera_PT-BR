@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="24" id="94" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="66" id="100" prevId="0" villagerId="1008">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="24" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="66" prevId="0" villagerId="1008">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="66" id="2" prevId="0" villagerId="1008">
-         
+    <Text id="2" huntingZoneId="66" prevId="0" villagerId="1008">
         <Page social="4">Vulcans are next on this list. {@LinkCreature:24#12#covetous vulcans} and {@LinkCreature:24#62#yearning vulcans}, to be specific.&lt;BR&gt;&lt;BR&gt;They'll be on the western coast of Aurum Road.&lt;BR&gt;&lt;BR&gt;Once you're done, report to Raquib.</Page>
-    
     </Text>
-    <Text huntingZoneId="224" id="3" prevId="2" villagerId="1012">
-         
+    <Text id="3" huntingZoneId="224" prevId="2" villagerId="1012">
         <Page social="4">Good work, soldier. You have my thanks and the gratitude of everyone here.</Page>
-    
     </Text>
-    <Text huntingZoneId="224" id="4" villagerId="1012">
-         
+    <Text id="4" huntingZoneId="224" villagerId="1012">
         <Page social="0">The vulcanuses are near the ruins. Remind them what the Valkyon Federation can do!</Page>
-    
     </Text>
 </QuestDialog>

@@ -1,23 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="60112001" string="Compras em um só lugar no Argon Depot" />
-    <String id="60112002" string="Algumas de nossas mentes mais brilhantes trabalham na {@Rgn:46016$$$Mindcrown Chamber}." />
-    <String id="60112003" string="Agora, vamos ver o que podemos ver." />
-    <String id="60112004" string="" />
-    <String id="60112005" string="" />
-    <String id="60112006" string="" />
-    <String id="60112007" string="Encontre {@LinkCreature:246#3003#Ashinne} na {@Rgn:46016$$Mindcrown Chamber}." />
-    <String id="60112008" string="&quot;Considere isso feito.&quot;" />
-    <String id="60112009" string="Pena de Sikandari alterada" />
-    <String id="60112010" string="Cace {@LinkCreature:46#301#argonomorph sikandaris} perto do {@Rgn:46008} e colete suas penas." />
-    <String id="60112011" string="Entregue as penas para {@LinkCreature:246#3003#Ashinne}." />
-    <String id="60112012" string="&quot;Entendido.&quot;" />
-    <String id="60112013" string="Coração demoníaco contaminado" />
-    <String id="60112014" string="Cace os {@LinkCreature:46#303#argonomorph blood fiends} que apareceram no {@Rgn:46006} e colete seus corações." />
-    <String id="60112015" string="Entregue os corações a {@LinkCreature:246#3003#Ashinne}." />
-    <String id="60112016" string="&quot;Estou cuidando disso.&quot;" />
-    <String id="60112017" string="Foco Fey Argonificado" />
-    <String id="60112018" string="Caçar {@LinkCreature:46#304#argonomorph jalmaraks} nas {@Rgn:46007$$Raga Evala Depths} e coletar seus focos." />
-    <String id="60112019" string="Entregue os focos para {@LinkCreature:246#3003#Ashinne}." />
-    <String id="60112020" string="&quot;O prazer é meu&quot;." />
+    <String id="60110001" string="A curiosidade matou o assistente do cientista" />
+    <String id="60110002" string="Volvur é um bom cientista. Um pouco excêntrico, mas bom." />
+    <String id="60110003" string="Sua dedicação à Invalesco é muito importante." />
+    <String id="60110004" string="" />
+    <String id="60110005" string="" />
+    <String id="60110006" string="" />
+    <String id="60110007" string="Informe a {@LinkCreature:245#3511#Volvur} em {@Rgn:45009}." />
+    <String id="60110008" string="&quot;Ao seu dispor.&quot;" />
+    <String id="60110009" string="Athakela Fang" />
+    <String id="60110010" string="Cace {@LinkCreature:45#3004#athakela stalkers} em torno de {@Rgn:45009} e colete suas presas." />
+    <String id="60110011" string="Entregue as presas para {@LinkCreature:245#3511#Volvur}." />
+    <String id="60110012" string="&quot;Fico feliz por ter ajudado.&quot;" />
+    <String id="60110013" string="Sangue Argonomorfo Tuwangi" />
+    <String id="60110014" string="Cace {@LinkCreature:45#4002#argonomorph tuwangis} perto de {@Rgn:45009} e colete amostras de seu sangue." />
+    <String id="60110015" string="Entregue o sangue a {@LinkCreature:245#3511#Volvur}." />
+    <String id="60110016" string="&quot;Eww. Boa sorte.&quot;" />
+    <String id="60110017" string="&quot;Vamos em frente, Volvur.&quot;" />
+    <String id="60110018" string="Colete o minério de argonita ao redor da estrada ao sul de {@Rgn:45009}." />
+    <String id="60110019" string="Entregue o minério para {@LinkCreature:245#3511#Volvur}." />
 </StrSheet_Quest>

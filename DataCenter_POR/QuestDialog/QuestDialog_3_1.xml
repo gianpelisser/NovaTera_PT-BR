@@ -1,44 +1,60 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="3" id="1" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="3" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0">Os devas de Oblivion Woods estavam assumindo o controle das estradas e ameaçando a cidade de Crescentia. O prefeito Daven enviou você de Lumbertown para ajudar a proteger os comerciantes e os habitantes locais dos bandidos devas bem armados. Você derrotou o líder do ataque dos devas, Tuebenius, e protegeu as rotas comerciais.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0">Ordens da missão&lt;BR&gt;&lt;BR&gt;São necessários reforços na Floresta do Esquecimento para repelir a invasão dos devan. Os soldados disponíveis para serem realocados devem se apresentar imediatamente ao prefeito Daven em Lumbertown.</Page>
+    
     
     </Text>
     <Text huntingZoneId="60" id="3" prevId="2" villagerId="1014">
          
+         
         <Page social="4">Você é necessário em Crescentia. Os bandidos devaneses estão ameaçando as rotas comerciais para a cidade, e os habitantes temem por suas vidas.&lt;BR&gt;&lt;BR&gt;Pegue o portão nordeste e siga a estrada sobre a ponte.&lt;BR&gt;&lt;BR&gt;Latton está em patrulha perto dali, então ele pode ajudar com as direções para Oblivion Woods. Faça o check-in com Neacal quando chegar ao Bulwark Camp.</Page>
+    
     
     </Text>
     <Text huntingZoneId="60" id="4" prevId="3" villagerId="1007">
          
+         
         <Page social="4">Acampamento Bulwark? Claro, eu sei como chegar lá.&lt;BR&gt;&lt;BR&gt;Passe a ponte aqui e siga o caminho até a caverna. Passe por ela e siga a luz. Você verá o Acampamento Bulwark à sua esquerda quando sair.&lt;BR&gt;&lt;BR&gt;Fácil.</Page>
+    
     
     </Text>
     <Text huntingZoneId="203" id="5" prevId="4" villagerId="1004">
          
+         
         <Page social="4">Bem-vindo ao Bosque do Esquecimento. Sua estadia certamente será sangrenta, só espero que seja o sangue DELES.&lt;BR&gt;&lt;BR&gt;Os devas bloquearam a estrada para Crescentia. Nosso trabalho é reabrir a rota comercial e proteger a cidade. Se você for para o leste a partir daqui, encontrará meu batedor, Chama. Ele vai precisar de ajuda.</Page>
+    
     
     </Text>
     <Text huntingZoneId="203" id="6" prevId="5" villagerId="1013">
          
+         
         <Page social="4">A Neacal enviou você? Excelente! Eu poderia fazer tudo isso sozinho, mas devemos compartilhar a glória e tudo o mais.&lt;BR&gt;&lt;BR&gt;Estou perseguindo o comandante devan, um maldito sanguinário chamado Tuebenius. Ele é esperto e impiedoso, e precisa morrer.&lt;BR&gt;&lt;BR&gt;Ele está a nordeste daqui, não muito longe. Se o matarmos, os devas ficarão confusos e desorganizados. Podemos entrar e limpar o que restou!</Page>
+    
     
     </Text>
     <Text huntingZoneId="203" id="7" prevId="6" villagerId="1004">
          
+         
         <Page social="4">Tuebenius está morto? Excelente! Ele era o cérebro por trás da estratégia deles. Com ele morto, podemos chegar a Crescentia.&lt;BR&gt;&lt;BR&gt;Você atravessa as linhas deles e encontra Jodoc em Crescentia. Vou avisar Daven.&lt;BR&gt;&lt;BR&gt;Suba a colina e pegue a próxima estrada que você vir em direção ao sul.</Page>
+    
     
     </Text>
     <Text huntingZoneId="59" id="8" prevId="7" villagerId="1009">
          
+         
         <Page social="4">É bom ver um novo rosto. Significa que a estrada para Lumbertown está aberta novamente, ou pelo menos marginalmente transitável. Suponho que devemos agradecer a você? &lt;BR&gt;&lt;BR&gt;Os devas têm sido um espinho sangrento em nosso caminho há algum tempo. Com soldados como você para nos ajudar, podemos recuar e proteger a floresta. &lt;BR&gt;&lt;BR&gt;Os meus agradecimentos!</Page>
+    
     
     </Text>
 </QuestDialog>

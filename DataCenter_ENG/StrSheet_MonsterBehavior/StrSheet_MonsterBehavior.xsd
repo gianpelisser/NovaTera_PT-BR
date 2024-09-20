@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns="https://vezel.dev/novadrop/dc/StrSheet_MonsterBehavior" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="https://vezel.dev/novadrop/dc" elementFormDefault="qualified" targetNamespace="https://vezel.dev/novadrop/dc/StrSheet_MonsterBehavior" xsi:schemaLocation="https://vezel.dev/novadrop/dc ../DataCenter.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="StrSheet_MonsterBehavior">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="String" type="StrSheet_MonsterBehavior_String" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="StrSheet_MonsterBehavior" type="StrSheet_MonsterBehavior" />
+  <xs:complexType dc:keys="id" name="StrSheet_MonsterBehavior_String">
+    <xs:attribute name="id" type="xs:int" />
+    <xs:attribute name="msg" type="xs:string" />
+    <xs:attribute name="onlyBalloon" type="xs:boolean" />
+    <xs:attribute name="existTime" type="xs:float" />
+    <xs:attribute name="msgOnScreen" type="xs:boolean" />
+    <xs:attribute name="styleId" type="xs:int" />
+  </xs:complexType>
+</xs:schema>

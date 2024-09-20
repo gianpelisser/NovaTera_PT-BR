@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="48893001" string="Cultists in the Manor" />
-    <String id="48893002" string="Lokian Token" />
-    <String id="48893003" string="&quot;For the federation!&quot;" />
-    <String id="48893004" string="Eliminate Lokians in the Sinestral Manor and collect their tokens.&lt;BR&gt;(Only normal mode will advance quests.)" />
-    <String id="48893005" string="Report to Segodun at the Secret Entrance to the Manor." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="48891001" string="Ducal Soldiers" />
+    <String id="48891002" string="Duke's Contract" />
+    <String id="48891003" string="&quot;For the federation!&quot;" />
+    <String id="48891004" string="Hunt ducal loyalists, bodyguards, and conscripts in the Sinestral Manor, and retrieve the contract.&lt;BR&gt;(Only normal mode will advance quests.)" />
+    <String id="48891005" string="Report to Segodun at the Secret Entrance to the Manor" />
 </StrSheet_Quest>

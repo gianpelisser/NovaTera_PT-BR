@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="15" id="31" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="15" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="215" id="100" prevId="0" villagerId="1022">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="215" id="2" prevId="0" villagerId="1022">
          
+         
         <Page social="5">Grrr!&lt;BR&gt;&lt;BR&gt;Tunvi só tem que se pavonear com aquelas novas botas de pele de sabre.&lt;BR&gt;&lt;BR&gt;Não estou com ciúmes nem nada... oh, quem estou querendo enganar? Estou sim! Diga, você pode me fazer um favor? &lt;NEXTPAGEBUTTON&gt;"O que posso fazer?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="5">Isso é ridículo. Eu sei que você precisa defender a federação e tudo mais, mas aqueles {@LinkCreature:15#10#rabid inky sabertooths} realmente têm um pelo bonito.&lt;BR&gt;&lt;BR&gt;Se eu tivesse alguns, poderia derrubar Tunvi um ou dois pinos, o que certamente me faria sentir menos defensivo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="215" id="3" prevId="2" villagerId="1022">
          
+         
         <Page social="5">Que lindo! Vou fazer um par de luvas! Isso é para você. Obrigado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="215" id="4" villagerId="1022">
          
+         
         <Page social="0">Você já tem a pele? Tem? Oh, mal posso esperar!</Page>
+    
     
     </Text>
 </QuestDialog>

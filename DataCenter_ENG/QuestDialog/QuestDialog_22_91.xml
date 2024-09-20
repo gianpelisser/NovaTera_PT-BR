@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="22" id="91" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="68" id="100" prevId="0" villagerId="1007">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="22" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="68" prevId="0" villagerId="1007">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="68" id="2" prevId="0" villagerId="1007">
-         
+    <Text id="2" huntingZoneId="68" prevId="0" villagerId="1007">
         <Page social="5">Things aren't stable at the Eldritch Academy yet. Therefore, you are to kill some {@LinkCreature:22#10#senior apprentices} and collect their ribbons as proof of death.&lt;BR&gt;&lt;BR&gt;Report to Feyth when your mission is complete.</Page>
-    
     </Text>
-    <Text huntingZoneId="222" id="3" prevId="2" villagerId="1024">
-         
+    <Text id="3" huntingZoneId="222" prevId="2" villagerId="1024">
         <Page social="5">It is what it is. Had to be done.&lt;BR&gt;&lt;BR&gt;At least you had the skills.</Page>
-    
     </Text>
-    <Text huntingZoneId="222" id="4" villagerId="1024">
-         
+    <Text id="4" huntingZoneId="222" villagerId="1024">
         <Page social="0">If you can't take down a few senior apprentices, why should I give you anything?</Page>
-    
     </Text>
 </QuestDialog>

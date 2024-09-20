@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="41" id="94" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="75" id="100" prevId="0" villagerId="1024">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1024">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="75" id="2" prevId="0" villagerId="1024">
-         
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1024">
         <Page social="0">We've an important mission that needs a skilled soldier. We need you to kill {@LinkCreature:41#4002#giant warmasters} in Feral Valley and collect their weapons.&lt;BR&gt;&lt;BR&gt;These weapons will prove useful in our diplomatic efforts in the region. Deliver them to Jaebel at Experior Outpost.</Page>
-    
     </Text>
-    <Text huntingZoneId="241" id="3" prevId="2" villagerId="1003">
-         
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1003">
         <Page social="4">Please accept the thanks for the federation, &lt;PCNAME&gt;. We commend your service.</Page>
-    
     </Text>
-    <Text huntingZoneId="241" id="4" villagerId="1003">
-         
+    <Text id="4" huntingZoneId="241" villagerId="1003">
         <Page social="0">The weapons are a symbol of leadership and courage. Having some will help with our negotiations.</Page>
-    
     </Text>
 </QuestDialog>

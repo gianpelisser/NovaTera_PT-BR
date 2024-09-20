@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Guild xmlns="https://vezel.dev/novadrop/dc/StrSheet_Guild" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Guild StrSheet_Guild.xsd">
     <String string="Sua guilda foi criada." readableId="SMT_GUILDLOG_CREATE_GUILD" />
     <String string="Sua guilda foi dissolvida." readableId="SMT_GUILDLOG_DESTROY_GUILD" />
@@ -20,12 +20,16 @@
     <String string="{KP} point{@select:{KP}/s//s}" readableId="SMT_GUILDWAR_INFO_WIN_KILLPOINT" />
     <String string="Declaração GvG" readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_TITLE" />
     <String string="Você quer começar uma batalha de guilda GvG contra {Opponent}? A batalha terá duração de {Duration}." readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_MESSAGE" />
+    <String string="Batalha GvG - Sem Aposta" readableId="SMT_GUILDWAR_CHIPZERO_CONFIRMATION_POPUP_TITLE" />
+    <String string="As Guildas Declarantes e Opostas não estão na mesma Liga de Cruzada. Nenhuma Fama pode ser apostada para esta Batalha GvG. Você deseja continuar? (A Batalha GvG durará por &lt;FONT SIZE='18' COLOR='#80E71C'&gt;{Duration}&lt;/FONT&gt;.) " readableId="SMT_GUILDWAR_CHIPZERO_CONFIRMATION_POPUP_MESSAGE" />
     <String string="Declarar" readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_DECLARE" />
     <String string="Cancelar" readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_CANCEL" />
     <String string="Batalha em andamento" readableId="SMT_GUILDWAR_HISTORY_ONGOING" />
     <String string="A guilda [{Name}] venceu!" readableId="SMT_GUILDWAR_HISTORY_RESULT" />
     <String string="A batalha foi um empate." readableId="SMT_GUILDWAR_HISTORY_DRAW" />
     <String string="A guilda [{Name}] se rendeu." readableId="SMT_GUILDWAR_HISTORY_SURRENDER" />
+    <String string="{Name} Guild desistiu." readableId="SMT_GUILDWAR_HISTORY_GIVEUP" />
+    <String string="{Name} Guild cancelou." readableId="SMT_GUILDWAR_HISTORY_CANCEL" />
     <String string="Confirmação de rendição" readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_TITLE" />
     <String string="Você quer se render? A batalha contra [{Opponent}] terminará e ele será declarado vencedor." readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_MESSAGE" />
     <String string="OK" readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_DECLARE" />
@@ -42,4 +46,48 @@
     <String string="Alteração do estado da guilda de {OldState} para {NewState}. Você pode participar de batalhas de guilda enquanto estiver em {NewState}." readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_MESSAGE_TO_NORMAL" />
     <String string="Mudança" readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_OK" />
     <String string="Cancelar" readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_CANCEL" />
+    <String string="Sua guilda ganhou {Battlechip} de Fama com vitória!" readableId="SMT_GUILDLOG_GUILDWAR_RESULT_WIN" />
+    <String string="Sua guilda perdeu {Battlechip} de Fama por derrota." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_LOSE" />
+    <String string="Sua guilda perdeu {Battlechip} de Fama por Empate" readableId="SMT_GUILDLOG_GUILDWAR_RESULT_DRAW" />
+    <String string="Sua guilda ganhou {Battlechip} de Fama porque {GuildName} recusou." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_GIVEUP" />
+    <String string="Sua guilda perdeu {Battlechip} de Fama por recusar uma Batalha GvG." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_GIVEUP_LOSE" />
+    <String string="Sua guilda perdeu {Battlechip} de Fama devido ao cancelamento." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_CANCEL" />
+    <String string="Batalha GvG contra {GuildName} cancelada devido a um problema com o sistema GvG." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_SYSTEM_CANCEL" />
+    <String string="Batalha GvG contra {GuildName} cancelada devido à falta de Fama." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_LOW_BATTLECHIP_CANCEL_OUR" />
+    <String string="Batalha GvG cancelada porque a guilda {GuildName} não tem Fama." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_LOW_BATTLECHIP_CANCEL_ENEMY" />
+    <String string="Esta temporada de Cruzada acabou. Batalhas GvG em andamento foram canceladas." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_SEASON_END" />
+    <String string="Você está disposto a apostar? &lt;FONT SIZE='18' COLOR='#80E71C'&gt;{Battlechip}&lt;/FONT&gt; Fama adicional e continuar a batalha GvG contra {GuildName}?" readableId="SMT_GUILDWAR_POPUP_RAISE" />
+    <String string="Você perderá {BattleChip} Fama ao desistir. Tem certeza de que quer desistir?" readableId="SMT_GUILDWAR_POPUP_GIVEUP" />
+    <String string="Teleporte" readableId="SMT_GUILDWAR_POPUP_TELEPORT_TITLE" />
+    <String string="{UserName} está sob ataque! Teleportar para o lado deles?" readableId="SMT_GUILDWAR_POPUP_TELEPORT" />
+    <String string="Detalhes da Batalha GvG" readableId="SMT_GUILDWAR_POPUP_WAINTING_TITLE" />
+    <String string="Você tem {GuildWarCount} batalhas GvG para verificar. Clique no botão Confirmar para abrir a janela Batalhas GvG." readableId="SMT_GUILDWAR_POPUP_WAINTING" />
+    <String string="Aposte Fama e inicie uma batalha GvG contra outra guilda. Você não pode apostar mais do que &lt;FONT SIZE='18' COLOR='#80E71C'&gt;50%&lt;/FONT&gt; de Fama. Você não pode começar uma batalha GvG sem apostar Fama ou se a guilda adversária não tiver Fama suficiente." readableId="SMT_GUILDWAR_DECLARE_HELP" />
+    <String string="Aposte Fama adicional e continue a batalha GvG. Você pode apostar até &lt;FONT SIZE='18' COLOR='#80E71C'&gt;50%&lt;/FONT&gt; da sua primeira aposta. Se a guilda adversária possuir Fama inferior a &lt;FONT SIZE='18' COLOR='#80E71C'&gt;150%&lt;/FONT&gt; da sua aposta, você só pode apostar até o valor que eles têm atualmente." readableId="SMT_GUILDWAR_RAISE_HELP" />
+    <String string="Sua guilda iniciou uma batalha GvG contra a guild {Opponent}." readableId="SMT_GUILDWAR_DECLARE_TO_OPPONENT" />
+    <String string="A guilda {Oponente} iniciou uma batalha GvG contra sua guild!" readableId="SMT_GUILDWAR_DECLARE_FROM_OPPONENT" />
+    <String string="Your guild wagered additional Fame in the GvG battle against {Opponent} guild." readableId="SMT_GUILDWAR_RAISE_TO_OPPONENT" />
+    <String string="A guild {oponente} apostou Fama adicional." readableId="SMT_GUILDWAR_RAISE_FROM_OPPONENT" />
+    <String string="Esperando" readableId="SMT_GUILDWAR_WAIT_FOR_BATTLE" />
+    <String string="Desistiu" readableId="SMT_GUILDWAR_GIVE_UP_POPUP_TITLE" />
+    <String string="Rendeu-se" readableId="SMT_GUILDWAR_SURRENDER_POPUP_TITLE" />
+    <String string="Cancelamento de Batalha GvG" readableId="SMT_GUILDWAR_CANCEL_POPUP_TITLE" />
+    <String string="Você perderá {BattleChip} de Fama ao desistir. Tem certeza de que quer desistir?" readableId="SMT_GUILDWAR_GIVE_UP_POPUP_MSG" />
+    <String string="Sua guilda perderá {Battlechip} de Fama se você cancelar. Tem certeza de que deseja cancelar?" readableId="SMT_GUILDWAR_CANCEL_POPUP_MSG" />
+    <String string="Sua guilda perderá {Battlechip} de Fama ao recusar. Tem certeza de que deseja recusar?" readableId="SMT_GUILDWAR_SURRENDER_POPUP_MSG" />
+    <String string="Confirmar" readableId="SMT_GUILDWAR_GIVE_UP_POPUP_OK" />
+    <String string="Cancelar" readableId="SMT_GUILDWAR_GIVE_UP_POPUP_CANCEL" />
+    <String string="Iniciar uma batalha GvG" readableId="SMT_GUILDWAR_DECLARE_TITLE" />
+    <String string="Apostas adicionais" readableId="SMT_GUILDWAR_RAISE_TITLE" />
+    <String string="Declarar" readableId="SMT_GUILDWAR_DECLARE_BUTTON" />
+    <String string="Aposta Concluída" readableId="SMT_GUILDWAR_RAISE_BUTTON" />
+    <String string="Informações de batalha GvG" readableId="SMT_GUILDWAR_INFO_TITLE" />
+    <String string="Fama" readableId="SMT_GUILDWAR_INFO_ENTRY_CONDITION" />
+    <String string="Guilds com &lt;FONT SIZE='18' COLOR='#80E71C'&gt;30&lt;/FONT&gt;–&lt;FONT SIZE='18' COLOR='#80E71C'&gt;100&lt;/FONT&gt; contas elegíveis (jogadores com nível &lt;FONT SIZE='18' COLOR='#80E71C'&gt;60&lt;/FONT&gt; ou maior) recebe &lt;FONT SIZE='18' COLOR='#80E71C'&gt;60&lt;/FONT&gt; de Fame por conta toda quarta-feira. Se uma conta tiver jogadores level 60+ em várias guilds, a Fama é dividida entre eles. Qualquer guilda com mais de &lt;FONT SIZE='18' COLOR='#80E71C'&gt;1&lt;/FONT&gt; de Fame pode participar de uma batalha GvG, tanto como a Guilda Declarante, quanto como a Guilda Oposta. A fama só é apostada entre guildas na mesma liga da Cruzada (Cutthroat ou Challenge)." readableId="SMT_GUILDWAR_INFO_ENTRY_CONDITION_DESC" />
+    <String string="Declarando uma batalha GvG" readableId="SMT_GUILDWAR_INFO_SCORING" />
+    <String string="Selecione Iniciar uma Batalha GvG abaixo e digite o nome da guilda que deseja enfrentar. (Ou, clique em um jogador e selecione uma das opções exibidas, ou Declare GvG pela interface de Guildas no Servidor). Se outra guilda iniciar uma Batalha GvG, suas opções são: Aceitar, Adicionar Aposta ou Recusar. (Se você não responder dentro de &lt;FONT SIZE='18' COLOR='#80E71C'&gt;24&lt;/FONT&gt; horas, sua guilda recusa automaticamente e perde Fama.) Somente membros da guilda com Autoridade GvG podem iniciar uma Batalha GvG, apostar Fama ou usar as opções acima." readableId="SMT_GUILDWAR_INFO_SCORING_DESC" />
+    <String string="Winning a GvG Battle" readableId="SMT_GUILDWAR_INFO_GUILDWAR_CHIP" />
+    <String string="A primeira guilda com &lt;FONT SIZE='18' COLOR='#80E71C'&gt;200&lt;/FONT&gt; abates em 24 horas vence. Se nenhuma atingir &lt;FONT SIZE='18' COLOR='#80E71C'&gt;200&lt;/FONT&gt; abates, a guilda com mais abates vence. Se ambas as guildas tiverem o mesmo número de abates ou o total de abates for menor que &lt;FONT SIZE='18' COLOR='#FF0000'&gt;30&lt;/FONT&gt;, a Batalha GvG termina em empate e ambas as guildas perdem Fama." readableId="SMT_GUILDWAR_INFO_GUILDWAR_CHIP_DESC" />
+    <String string="Ranking" readableId="SMT_GUILDWAR_INFO_WIN_CONDITION" />
+    <String string="A Fama obtida em Batalhas GvG é adicionada ao ranking de Batalhas GvG da guilda ao final de cada temporada da Cruzada (apenas na Liga Cutthroat). No entanto, apenas guildas que participarem de mais de &lt;FONT SIZE='18' COLOR='#80E71C'&gt;8&lt;/FONT&gt; Batalhas GvG durante a temporada (&lt;FONT SIZE='18' COLOR='#80E71C'&gt;4 semanas&lt;/FONT&gt;) são elegíveis para o ranking." readableId="SMT_GUILDWAR_INFO_WIN_CONDITION_DESC" />
 </StrSheet_Guild>

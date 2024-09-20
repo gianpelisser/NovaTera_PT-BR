@@ -1,49 +1,67 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="604" id="4" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="604" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="71" id="100" prevId="0" villagerId="3001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="71" id="2" prevId="0" villagerId="3001">
          
+         
         <Page social="4">Algo que só você pode fazer, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Nem todas as máquinas guardiãs do Refúgio se desligaram quando deveriam. {&lt;@LinkCreature:71#3007#Bakra} o orientará.</Page>
+    
     
     </Text>
     <Text huntingZoneId="71" id="3" prevId="2" villagerId="3007">
          
+         
         <Page social="4">É exatamente o &lt;PCCLASS:lcase&gt; de que eu preciso! &lt;BR&gt;&lt;BR&gt;Os deuses proibiram este lugar quando Balder morreu. Colocaram aqui máquinas que constroem iskaragards. Todas elas foram desligadas quando os deuses nos permitiram voltar.&lt;BR&gt;&lt;BR&gt;Quase todas. Um iskaragard quase me matou esta manhã. Você pode caçá-lo?</Page>
+    
     
     </Text>
     <Text huntingZoneId="71" id="4" prevId="2" villagerId="3007">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="71" id="5" prevId="2" villagerId="3007">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="71" id="6" prevId="2" villagerId="3007">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="71" id="7" prevId="2" villagerId="3007">
          
+         
         <Page social="4">Obrigado, herói. Eu seria mais tolerante se ele atacasse as preguiças também!</Page>
+    
     
     </Text>
     <Text huntingZoneId="71" id="8" prevId="7" villagerId="3007">
          
+         
         <Page social="4">Não posso podar as videiras se essa coisa me cortar em dois.&lt;BR&gt;&lt;BR&gt;Você é de grande ajuda, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
     <Text huntingZoneId="71" id="9" prevId="8" villagerId="3007">
          
+         
         <Page social="4">Essas coisas foram feitas para durar. É incrível que ainda existam para funcionar mal! &lt;BR&gt;&lt;BR&gt;Nossas equipes ainda não encontraram o que as substitui.</Page>
+    
     
     </Text>
 </QuestDialog>

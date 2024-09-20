@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="12109001" string="Investigating the Union" />
-    <String id="12109002" string="Kill and investigate the beasts in the Enlightened Union's territory." />
-    <String id="12109003" string="&quot;I was glad to help.&quot;" />
-    <String id="12109004" string="Report to {@linkcreature:121#9001#Adiar}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="12108001" string="Defy the Order" />
+    <String id="12108002" string="Infiltrate the Iron Order's territory and hunt the beasts that roam there." />
+    <String id="12108003" string="&quot;For the collective!&quot;" />
+    <String id="12108004" string="Report to {@linkcreature:121#9001#Adiar}." />
 </StrSheet_Quest>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="24" id="34" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="24" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="224" id="100" prevId="0" villagerId="1014">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="224" id="2" prevId="0" villagerId="1014">
          
+         
         <Page social="5">Preste atenção agora - esta não é uma operação para keeners. Encontrei uma arena na Vila do Vento de Areia onde os kulkari forçam prisioneiros, escravos e até mesmo outros kulkari a lutar contra monstros.&lt;BR&gt;&lt;BR&gt;O pior se chama {@LinkCreature:24#5001#Merkaratos}. Nós vamos matá-lo e privar os insetos de sua diversão sangrenta. E por "nós", quero dizer você e quem você conseguir convencer a vir junto. Por mais que eu queira participar da diversão, tenho outra missão de reconhecimento a cumprir.</Page>
+    
     
     </Text>
     <Text huntingZoneId="224" id="3" prevId="2" villagerId="1014">
          
+         
         <Page social="5">Quer que seus colegas soldados sejam capturados e forçados a lutar até a morte? Vá matar Merkaratos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="224" id="4" villagerId="1014">
          
+         
         <Page social="0">Não sei como eles o pegaram, mas enquanto ele tiver vítimas para caçar, {@LinkCreature:24#5001#Merkaratos} não irá a lugar algum.</Page>
+    
     
     </Text>
 </QuestDialog>

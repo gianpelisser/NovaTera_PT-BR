@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="20" id="29" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="20" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="220" id="100" prevId="0" villagerId="1004">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="220" id="2" prevId="0" villagerId="1004">
          
+         
         <Page social="4">Estamos aqui para manter os mortos-vivos em seu lugar. Para mim, isso significa mortos, mas, em um sentido mais amplo, significa que eles não deveriam sair de suas cavernas.&lt;BR&gt;&lt;BR&gt;Se você conseguir se livrar dos {@LinkCreature:20#30114002#ossugon prefects}, então acho que conseguirá dominar o resto deles por um tempo.&lt;BR&gt;&lt;BR&gt;Oh! E não se esqueça dos crânios deles. Eles não podem se reanimar sem elas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="220" id="3" prevId="2" villagerId="1027">
          
+         
         <Page social="4">Excelente. Eles não representam mais uma ameaça, desde que estejam em pedaços como este.&lt;BR&gt;&lt;BR&gt;Esperamos que o resto fique quieto.</Page>
+    
     
     </Text>
     <Text huntingZoneId="220" id="4" villagerId="1027">
          
+         
         <Page social="0">Você quer vê-los de pé e correndo fora da caverna?</Page>
+    
     
     </Text>
 </QuestDialog>

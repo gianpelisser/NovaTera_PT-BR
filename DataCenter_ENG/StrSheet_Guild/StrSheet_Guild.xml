@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Guild xmlns="https://vezel.dev/novadrop/dc/StrSheet_Guild" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Guild StrSheet_Guild.xsd">
+<StrSheet_Guild xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Guild StrSheet_Guild.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Guild">
     <String string="Your guild has been created." readableId="SMT_GUILDLOG_CREATE_GUILD" />
     <String string="Your guild has been disbanded." readableId="SMT_GUILDLOG_DESTROY_GUILD" />
     <String string="{UserName} has joined the guild." readableId="SMT_GUILDLOG_ADD_MEMBER" />
@@ -18,18 +17,20 @@
     <String string="{KP} point{@select:{KP}/s//s}" readableId="SMT_GUILDWAR_INFO_MEMBER_KILLPOINT" />
     <String string="{KP} point{@select:{KP}/s//s}" readableId="SMT_GUILDWAR_INFO_MASTER_KILLPOINT" />
     <String string="{KP} point{@select:{KP}/s//s}" readableId="SMT_GUILDWAR_INFO_WIN_KILLPOINT" />
-    <String string="GvG Declaration" readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_TITLE" />
-    <String string="Do you want to begin a GvG guild battle against {Opponent}?
-Battle will last {Duration}." readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_MESSAGE" />
+    <String string="GvG battle" readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_TITLE" />
+    <String string="Do you want to start a GvG battle against {GuildName} guild? The GvG battle will last {Duration}." readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_MESSAGE" />
+    <String string="GvG Battle - No Wager" readableId="SMT_GUILDWAR_CHIPZERO_CONFIRMATION_POPUP_TITLE" />
+    <String string="The Declaring and Opposing Guilds are not in the same Crusade League. No Fame can be wagered for this GvG Battle. Do you wish to continue? (GvG Battle will last for &lt;FONT SIZE='18' COLOR='#80E71C'&gt;{Duration}&lt;/FONT&gt;.) " readableId="SMT_GUILDWAR_CHIPZERO_CONFIRMATION_POPUP_MESSAGE" />
     <String string="Declare" readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_DECLARE" />
     <String string="Cancel" readableId="SMT_GUILDWAR_CONFIRMATION_POPUP_CANCEL" />
-    <String string="Battle in progress" readableId="SMT_GUILDWAR_HISTORY_ONGOING" />
+    <String string="GvG battle in progress" readableId="SMT_GUILDWAR_HISTORY_ONGOING" />
     <String string="[{Name}] guild won!" readableId="SMT_GUILDWAR_HISTORY_RESULT" />
-    <String string="The battle was a draw." readableId="SMT_GUILDWAR_HISTORY_DRAW" />
+    <String string="The GvG battle was a draw." readableId="SMT_GUILDWAR_HISTORY_DRAW" />
     <String string="[{Name}] guild surrendered." readableId="SMT_GUILDWAR_HISTORY_SURRENDER" />
+    <String string="{Name} guild gave up." readableId="SMT_GUILDWAR_HISTORY_GIVEUP" />
+    <String string="{Name} guild canceled." readableId="SMT_GUILDWAR_HISTORY_CANCEL" />
     <String string="Surrender Confirmation" readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_TITLE" />
-    <String string="Do you want to surrender?
-The battle against [{Opponent}] will end and they will be declared the winner." readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_MESSAGE" />
+    <String string="Do you want to surrender? The GvG battle against [{Opponent}] will end and they will be declared the winner." readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_MESSAGE" />
     <String string="OK" readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_DECLARE" />
     <String string="Cancel" readableId="SMT_GUILDWAR_TERMINATE_CONFIRMATION_POPUP_CANCEL" />
     <String string="Guild Master: {Master}" readableId="SMT_GUILDWAR_MASTER" />
@@ -40,8 +41,52 @@ The battle against [{Opponent}] will end and they will be declared the winner." 
     <String string="Pacifist" readableId="SMT_GUILDSTATE_PEACEFUL" />
     <String string="Battle Ready" readableId="SMT_GUILDSTATE_NORMAL" />
     <String string="Confirm Change to Guild State" readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_TITLE" />
-    <String string="Changing guild state from {OldState} to {NewState}. {NewState} guilds cannot engage in guild battles." readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_MESSAGE_TO_PEACEFUL" />
-    <String string="Changing guild state from {OldState} to {NewState}. You may engage in guild battles while {NewState}." readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_MESSAGE_TO_NORMAL" />
+    <String string="Changing guild state from {OldState} to {NewState}. {NewState} guilds cannot engage in GvG battles." readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_MESSAGE_TO_PEACEFUL" />
+    <String string="Changing guild state from {OldState} to {NewState}. You may engage in GvG battles while {NewState}." readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_MESSAGE_TO_NORMAL" />
     <String string="Change" readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_OK" />
     <String string="Cancel" readableId="SMT_GUILDSTATE_CHANGE_CONFIRMATION_POPUP_CANCEL" />
+    <String string="Your guild earned {Battlechip} Fame from a victory!" readableId="SMT_GUILDLOG_GUILDWAR_RESULT_WIN" />
+    <String string="Your guild lost {Battlechip} Fame from a loss." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_LOSE" />
+    <String string="Your guild lost {Battlechip} Fame from draw." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_DRAW" />
+    <String string="Your guild earned {Battlechip} Fame because {GuildName} declined." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_GIVEUP" />
+    <String string="Your guild lost {Battlechip} Fame from declining a GvG Battle." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_GIVEUP_LOSE" />
+    <String string="Your guild lost {Battlechip} Fame from cancellation." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_CANCEL" />
+    <String string="GvG battle against {GuildName} canceled due to a problem with the GvG system." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_SYSTEM_CANCEL" />
+    <String string="GvG battle against {GuildName} canceled due to lack of Fame." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_LOW_BATTLECHIP_CANCEL_OUR" />
+    <String string="GvG battle canceled because {GuildName} guild lacks Fame." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_LOW_BATTLECHIP_CANCEL_ENEMY" />
+    <String string="This Crusade season is over. Ongoing GvG battles are cancelled." readableId="SMT_GUILDLOG_GUILDWAR_RESULT_SEASON_END" />
+    <String string="Are you willing to wager &lt;FONT SIZE='18' COLOR='#80E71C'&gt;{Battlechip}&lt;/FONT&gt; additional Fame and continue the GvG battle against {GuildName}?" readableId="SMT_GUILDWAR_POPUP_RAISE" />
+    <String string="You will lose {BattleChip} Fame by giving up. Are you sure you want to give up?" readableId="SMT_GUILDWAR_POPUP_GIVEUP" />
+    <String string="Teleport" readableId="SMT_GUILDWAR_POPUP_TELEPORT_TITLE" />
+    <String string="{UserName} is under attack! Teleport to their side?" readableId="SMT_GUILDWAR_POPUP_TELEPORT" />
+    <String string="GvG Battle Details" readableId="SMT_GUILDWAR_POPUP_WAINTING_TITLE" />
+    <String string="You have {GuildWarCount} GvG battles to check. Click on Confirm button to open the GvG Battles window." readableId="SMT_GUILDWAR_POPUP_WAINTING" />
+    <String string="Wager Fame and initiate a GvG battle against another guild. You may wager no more than &lt;FONT SIZE='18' COLOR='#80E71C'&gt;50%&lt;/FONT&gt; Fame. You may not start a GvG battle without wagering Fame or if the opposing guild doesn't have enough Fame." readableId="SMT_GUILDWAR_DECLARE_HELP" />
+    <String string="Wager additional Fame and continue the GvG battle. You can wager up to &lt;FONT SIZE='18' COLOR='#80E71C'&gt;50%&lt;/FONT&gt; of your first wager. If the opposing guild owns Fame less than &lt;FONT SIZE='18' COLOR='#80E71C'&gt;150%&lt;/FONT&gt; percent of your wager, you may only wager up to the amount they currently have." readableId="SMT_GUILDWAR_RAISE_HELP" />
+    <String string="Your guild initiated a GvG battle against {Opponent} guild." readableId="SMT_GUILDWAR_DECLARE_TO_OPPONENT" />
+    <String string="{Opponent} guild initiated a GvG battle against your guild!" readableId="SMT_GUILDWAR_DECLARE_FROM_OPPONENT" />
+    <String string="Your guild wagered additional Fame in the GvG battle against {Opponent} guild." readableId="SMT_GUILDWAR_RAISE_TO_OPPONENT" />
+    <String string="{Opponent} guild wagered additional Fame." readableId="SMT_GUILDWAR_RAISE_FROM_OPPONENT" />
+    <String string="Waiting" readableId="SMT_GUILDWAR_WAIT_FOR_BATTLE" />
+    <String string="Decline" readableId="SMT_GUILDWAR_GIVE_UP_POPUP_TITLE" />
+    <String string="Surrender" readableId="SMT_GUILDWAR_SURRENDER_POPUP_TITLE" />
+    <String string="GvG Battle Cancellation" readableId="SMT_GUILDWAR_CANCEL_POPUP_TITLE" />
+    <String string="You will lose {BattleChip} Fame on giving up. Are you sure you want to give up?" readableId="SMT_GUILDWAR_GIVE_UP_POPUP_MSG" />
+    <String string="Your guild will lose {Battlechip} Fame if you cancel. Are you sure you want to cancel?" readableId="SMT_GUILDWAR_CANCEL_POPUP_MSG" />
+    <String string="Your guild will lose {Battlechip} Fame by declining. Are you sure you want to decline?" readableId="SMT_GUILDWAR_SURRENDER_POPUP_MSG" />
+    <String string="Confirm" readableId="SMT_GUILDWAR_GIVE_UP_POPUP_OK" />
+    <String string="Cancel" readableId="SMT_GUILDWAR_GIVE_UP_POPUP_CANCEL" />
+    <String string="Initiate a GvG Battle" readableId="SMT_GUILDWAR_DECLARE_TITLE" />
+    <String string="Additional Wagering" readableId="SMT_GUILDWAR_RAISE_TITLE" />
+    <String string="Declare" readableId="SMT_GUILDWAR_DECLARE_BUTTON" />
+    <String string="Wager Complete" readableId="SMT_GUILDWAR_RAISE_BUTTON" />
+    <String string="GvG Battle Information" readableId="SMT_GUILDWAR_INFO_TITLE" />
+    <String string="Fame" readableId="SMT_GUILDWAR_INFO_ENTRY_CONDITION" />
+    <String string="Guilds with &lt;FONT SIZE='18' COLOR='#80E71C'&gt;30&lt;/FONT&gt;–&lt;FONT SIZE='18' COLOR='#80E71C'&gt;100&lt;/FONT&gt; eligible accounts (players with a character level &lt;FONT SIZE='18' COLOR='#80E71C'&gt;Lv. 60&lt;/FONT&gt; or higher) receive &lt;FONT SIZE='18' COLOR='#80E71C'&gt;60&lt;/FONT&gt; Fame per account every Wednesday. If an account has characters 60+ in several guilds, the Fame is divided between them. Any guild with more than &lt;FONT SIZE='18' COLOR='#80E71C'&gt;1&lt;/FONT&gt; Fame may participate in a GvG battle, either as the Declaring Guild, or the Opposing Guild. Fame is only wagered between guilds in the same Crusade league (Cutthroat or Challenge)." readableId="SMT_GUILDWAR_INFO_ENTRY_CONDITION_DESC" />
+    <String string="Declaring a GvG Battle" readableId="SMT_GUILDWAR_INFO_SCORING" />
+    <String string="Select Initiate a GvG Battle below, then type the name of the guild you want to fight. (Alternately, click on an opposing player and select from the displayed options, or Declare GvG from the Guilds on Server UI). If another guild initiates a GvG Battle, your options are: Accept, Add Wager, or Decline. (If you do not respond within &lt;FONT SIZE='18' COLOR='#80E71C'&gt;24&lt;/FONT&gt; hours, your guild automatically declines and loses Fame.) Only guild members with GvG Authority may initiate a GvG Battle, wager Fame, or use the above options." readableId="SMT_GUILDWAR_INFO_SCORING_DESC" />
+    <String string="Winning a GvG Battle" readableId="SMT_GUILDWAR_INFO_GUILDWAR_CHIP" />
+    <String string="The first guild with &lt;FONT SIZE='18' COLOR='#80E71C'&gt;200&lt;/FONT&gt; kills in 24 hours wins. If neither has &lt;FONT SIZE='18' COLOR='#80E71C'&gt;200&lt;/FONT&gt; kills, the guild with more kills wins. If both guilds have equal kills, or the total number of kills is less than &lt;FONT SIZE='18' COLOR='#FF0000'&gt;30&lt;/FONT&gt;, the GvG Battle ends in a draw and both guilds lose Fame." readableId="SMT_GUILDWAR_INFO_GUILDWAR_CHIP_DESC" />
+    <String string="Ranking" readableId="SMT_GUILDWAR_INFO_WIN_CONDITION" />
+    <String string="Fame earned from GvG Battles adds to a guild's GvG Battle ranking at the end of each Crusade season (Cutthroat League only). However, only guilds participating in more than &lt;FONT SIZE='18' COLOR='#80E71C'&gt;8&lt;/FONT&gt; GvG Battles during that season (&lt;FONT SIZE='18' COLOR='#80E71C'&gt;4 weeks&lt;/FONT&gt;) are eligible for ranking." readableId="SMT_GUILDWAR_INFO_WIN_CONDITION_DESC" />
 </StrSheet_Guild>

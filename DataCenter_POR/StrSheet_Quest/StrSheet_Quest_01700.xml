@@ -1,12 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="6384001" string="Encantamento para leigos" />
-    <String id="6384002" string="Vamos começar." />
-    <String id="6384003" string="O Alkahest é essencial para o encantamento." />
-    <String id="6384004" string="&quot;Entendido.&quot;" />
-    <String id="6384005" string="Fale com {@linkcreature:63#1605}." />
-    <String id="6384006" string="Encantar um item para +1. (Desmontar outros equipamentos desse nível para obter matéria-prima. Compre alkahest para esse nível de comerciantes em geral)." />
-    <String id="6384007" string="Encantamento bem-sucedido." />
-    <String id="6384008" string="&quot;Tudo bem.&quot;" />
-    <String id="6384009" string="Encantamento bem-sucedido. Fale com {@linkcreature:63#1605}." />
+    <String id="6362001" string="Sela para cima" />
+    <String id="6362002" string="&quot;Com certeza.&quot;" />
+    <String id="6362003" string="Vá para {@LinkCreature:63#1160} em {@Rgn:63009} em {@Rgn:63001}" />
+    <String id="6362004" string="&quot;Isso é inesperado. Obrigado.&quot;" />
+    <String id="6362005" string="Visite {@LinkCreature:60#1909#Haines} próximo a {@Rgn:60001}" />
 </StrSheet_Quest>

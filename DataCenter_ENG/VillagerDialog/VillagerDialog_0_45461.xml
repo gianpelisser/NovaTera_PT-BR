@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="0" id="45461" voiceTypeId="0">
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="45461" huntingZoneId="0" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
     <Text id="1" endSocial="0">
-         
-        <Page social="0" voiceTypeId="0">Shall I compare thee to a summer's day?&lt;BR&gt;Thou art even hotter!&lt;BR&gt;Rough winds do shake the darling buds of May,&lt;BR&gt;And you are one dynamite girl!&lt;CLOSEPAGEBUTTON&gt;Fold the letter&lt;/CLOSEPAGEBUTTON&gt;</Page>
-    
+        <Page social="0" voiceTypeId="0">There was an old person of Ischia, &lt;BR&gt;Whose conduct grew friskier and friskier.&lt;BR&gt;She danced hornpipes and jigs,&lt;BR&gt;And ate thousands of figs,&lt;BR&gt;That lively old person of Ischia.&lt;CLOSEPAGEBUTTON&gt;Fold the poem.&lt;/CLOSEPAGEBUTTON&gt;</Page>
     </Text>
 </VillagerDialog>

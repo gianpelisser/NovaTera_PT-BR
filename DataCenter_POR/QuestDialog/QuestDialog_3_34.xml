@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="3" id="34" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="3" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="203" id="100" prevId="0" villagerId="1008">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="203" id="2" prevId="0" villagerId="1008">
          
+         
         <Page social="4">Os devas acham que são donos desta floresta. Suponho que sim, antes de chegarmos aqui, mas isso não significa que deixemos que eles fiquem com ela.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:3#20#Kulsilva}, seus {@LinkCreature:3#300160#arcanistas devanos} e seus animais de estimação sporewalker estão usando uma magia bem sombria para se manterem neste lugar. Eu gostaria de dar uma olhada nos amuletos que eles usam, para ver se eles têm alguma pista.&lt;BR&gt;&lt;BR&gt;Você está disposto a me trazer alguns?</Page>
+    
     
     </Text>
     <Text huntingZoneId="203" id="3" prevId="2" villagerId="1008">
          
+         
         <Page social="4">Isso vai servir muito bem. Verei se posso usar esses focos para interromper seu poder necromântico. Isso ajudaria muito a restaurar a Oblivion Woods.</Page>
+    
     
     </Text>
     <Text huntingZoneId="203" id="4" villagerId="1008">
          
+         
         <Page social="0">Você os encontrará à espreita no Deva Silva.</Page>
+    
     
     </Text>
 </QuestDialog>

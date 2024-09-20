@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="38" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="28" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="228" id="100" prevId="0" villagerId="1003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="228" id="2" prevId="0" villagerId="1003">
          
+         
         <Page social="5">A corrupção na terra não vem apenas de Lok. Os {@LinkCreature:28#3011#noxious ovoliths} de fato exalam um gás putrescente. Não sabemos ao certo se esse é um processo natural ou se eles foram moldados por Arachne de alguma forma. De qualquer forma, isso precisa ser interrompido.&lt;BR&gt;&lt;BR&gt;Caça os ovolitos e salve todos os nossos narizes.</Page>
+    
     
     </Text>
     <Text huntingZoneId="228" id="3" prevId="2" villagerId="1003">
          
+         
         <Page social="5">Isso é incrível. O ar passou de um fedor inescapavelmente hediondo para um odor meramente horrível.&lt;BR&gt;&lt;BR&gt;Vocês foram úteis. Obrigado.</Page>
+    
     
     </Text>
 </QuestDialog>

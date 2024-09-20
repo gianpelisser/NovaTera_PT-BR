@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="122" id="16" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="122" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="72" id="100" prevId="0" villagerId="22002">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="72" id="2" prevId="0" villagerId="22002">
          
+         
         <Page social="1">Bom dia, amigo.&lt;BR&gt;&lt;BR&gt;Precisamos demonstrar que somos capazes de proteger o povo da federação. Para isso, gostaríamos que você, &lt;PCNAME&gt;, se aventurasse em uma variedade de ambientes perigosos, matasse vários monstros e voltasse com um Troféu Echelon como prova de nossa capacidade de lidar com qualquer ameaça.&lt;BR&gt;&lt;BR&gt;Estas feras podem ser encontradas em diferentes locais:&lt;BR&gt;&lt;BR&gt;Templo de Balder (Normal)-{@linkcreature:425#8005#Auricadis}&lt;BR&gt;Templo de Balder (1 pessoa)-{@linkcreature:825#6000#Nightmare Glaciernus}&lt;BR&gt;Núcleo de Manaya-{@linkcreature:727#2007#Shandra Manaya}</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="3" prevId="2" villagerId="22002">
          
+         
         <Page social="4">Seu trabalho é excepcional, amigo &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Este token ajudará a estabelecer nossa confiabilidade e ajudará a garantir que a União Iluminada se torne a maior potência em todo o continente.&lt;BR&gt;&lt;BR&gt;Que a união se lembre de seu nome por muito tempo!&lt;BR&gt;&lt;BR&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="4" villagerId="22002">
          
+         
         <Page social="0">A União Iluminada deve prevalecer!</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="481" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="481" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="84" id="100" prevId="0" villagerId="1202">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="84" id="2" prevId="0" villagerId="1202">
          
+         
         <Page social="4">Parabéns por ter se tornado elegível para entrar no Templo da Temeridade!&lt;BR&gt;&lt;BR&gt;Vá até Forgeheart agora mesmo e fale com {@LinkCreature:84#1203#Ebir}.&lt;BR&gt;&lt;BR&gt;Que honra!</Page>
+    
     
     </Text>
     <Text huntingZoneId="84" id="3" prevId="2" villagerId="1203">
          
+         
         <Page social="4">A própria Kaia criou o Templo da Temeridade como um santuário para o espírito de luta amani. É realmente um lugar inspirador.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, agora você pode entrar nesses campos de treinamento e ver por si mesmo. Pronto para entrar?</Page>
+    
     
     </Text>
 </QuestDialog>

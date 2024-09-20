@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="34" id="93" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="83" id="100" prevId="0" villagerId="1004">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="34" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="83" prevId="0" villagerId="1004">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="83" id="2" prevId="0" villagerId="1004">
-         
+    <Text id="2" huntingZoneId="83" prevId="0" villagerId="1004">
         <Page social="0">This time you face the giants and their pets. We cannot tolerate their interference.&lt;BR&gt;&lt;BR&gt;Kill the {@LinkCreature:34#1000#icecleaver} and {@LinkCreature:34#1010#icereaver giants}, as well as {@LinkCreature:34#1100#icewalker} and {@LinkCreature:34#1110#frosthunter barsicores}.&lt;BR&gt;&lt;BR&gt;Let Kahuere know when you're finished.</Page>
-    
     </Text>
-    <Text huntingZoneId="234" id="3" prevId="2" villagerId="1004">
-         
+    <Text id="3" huntingZoneId="234" prevId="2" villagerId="1004">
         <Page social="4">Giants slaughtered, check! I'll note this down in your permanent record. Well done, soldier!</Page>
-    
     </Text>
-    <Text huntingZoneId="234" id="4" villagerId="1004">
-         
+    <Text id="4" huntingZoneId="234" villagerId="1004">
         <Page social="0">My apologies, but your orders seemed clear to me. You must kill the giants and barsicores to get credit for your deeds.</Page>
-    
     </Text>
 </QuestDialog>

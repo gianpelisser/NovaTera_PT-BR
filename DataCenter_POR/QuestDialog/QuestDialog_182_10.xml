@@ -1,61 +1,86 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="182" id="10" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="182" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0">O Grande Rastreador Janiam julgou que o pingente de controle do arcdeva era uma informação estratégica crítica e sugeriu que ele se encontrasse com o Alto Ancião de Highwatch, Verikam.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="1">Conheça a Alta Buscadora Janiam.&lt;NEXTPAGEBUTTON&gt;"Claro."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="182" id="3" prevId="2" villagerId="2013">
          
+         
         <Page social="1">Você não deveria estar aqui, forasteiro. Highwatch está fechada até que o cerco seja levantado.&lt;NEXTPAGEBUTTON&gt;"Renish me enviou para falar com você."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="1">Certamente não é do feitio do Seeker Renish me sobrecarregar com assuntos triviais. Mas, a não ser que ele tenha concluído sua investigação em Spring Valley, não consigo imaginar por que ele se sentiria compelido a pedir que eu abrisse os portões de Highwatch durante um cerco.&lt;NEXTPAGEBUTTON&gt;"Será que esse pingente de arquidevano vai explicar as coisas?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">"Archdevan...?" Por Oriyn! Essa pode ser a chave para romper o cerco! &lt;BR&gt;&lt;BR&gt;Esse pingente explica as coisas de forma bastante eloquente, amigo! Muito bem, você terá passagem para Highwatch!&lt;BR&gt;&lt;BR&gt;Continue pela estrada do norte até o portão da cidade. Quando chegar, procure Verikam. Ele é o nosso Alto Ancião.&lt;NEXTPAGEBUTTON&gt;"Eu o farei. Obrigado."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">É claro que você encontrará outros guardas no caminho para a cidade. O Mestre Sentinela Madok guarda o portão de entrada. Mostre a ele este passe. Ele lhe concederá a entrada.&lt;NEXTPAGEBUTTON&gt;"Ok."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="181" id="4" prevId="3" villagerId="1201">
          
+         
         <Page social="1">Você possui o sigilo do Alto Seeker Janiam? De fato, você deve ter informações valiosas.&lt;BR&gt;&lt;BR&gt;Bem-vindo a Highwatch, Local de Nascimento do Conhecimento.&lt;NEXTPAGEBUTTON&gt;"Disseram-me para procurar o Alto Ancião."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Você pode encontrar O Grande Ancião Verikam no centro de Highwatch.&lt;BR&gt;&lt;BR&gt;A rota é longa e complicada, portanto, fale com Daraon primeiro. Você o encontrará mais adiante na trilha, fazendo reparos no portão.&lt;NEXTPAGEBUTTON&gt;"Obrigado."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="181" id="5" prevId="4" villagerId="3401">
          
+         
         <Page social="1">Você não é nativo destas terras. Como veio parar aqui? &lt;NEXTPAGEBUTTON&gt;"O Alto Pesquisador Janiam me enviou."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="1">Entendo...&lt;BR&gt;&lt;BR&gt;Receio ter que perguntar por que o Alto Seeker Janiam o enviou para Highwatch em meio a um cerco...?&lt;NEXTPAGEBUTTON&gt;"Tenho informações para O Grande Ancião Verikam."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Que curioso.&lt;BR&gt;&lt;BR&gt;Muito bem. O caminho para O Grande Ancião é complexo, por isso você precisará buscar orientação a cada passo.&lt;BR&gt;&lt;BR&gt;Comece continuando por esta estrada em direção à cidade, depois procure Marmundam, o Mestre da Guarda da Alta Vigia. Ele lhe mostrará a Casa do Alto Ancião.&lt;NEXTPAGEBUTTON&gt;"Entendi."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="183" id="6" prevId="5" villagerId="2024">
          
+         
         <Page social="1">Um estranho é realmente uma visão rara hoje em dia - quanto mais um forasteiro! &lt;BR&gt;&lt;BR&gt;Permita-me dar-lhe as boas-vindas a Highwatch. O que o levou a enfrentar o cerco para visitar nossa cidade? &lt;NEXTPAGEBUTTON&gt;"Preciso falar com O Grande Ancião Verimak."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="1">O Grande Ancião está ocupado buscando uma maneira de romper esse cerco. Não posso permitir que você o perturbe, a menos que seja de vital importância."&lt;NEXTPAGEBUTTON&gt;"Este pingente pode ser a resposta que ele está procurando."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Este... eu... você...&lt;BR&gt;&lt;BR&gt;Acredito que você esteja certo, &lt;PCNAME&gt;. Por favor, prossiga e diga ao Alto Ancião que peço a ele que fale com você imediatamente.&lt;NEXTPAGEBUTTON&gt;"Farei isso. Obrigado."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="183" id="7" prevId="6" villagerId="1007">
          
+         
         <Page social="1">Saudações, forasteiro. Posso apenas imaginar as provações e dificuldades que você deve ter enfrentado para chegar aqui, em uma cidade sitiada, apenas para falar comigo. E eu tenho muitas perguntas sobre quem você é e de onde veio.&lt;BR&gt;&lt;BR&gt;Mas a primeira pergunta deve ser. Por que você me procurou? Por que você me procurou?&lt;NEXTPAGEBUTTON&gt;"Talvez eu tenha encontrado uma maneira de derrotar os arquidevanos."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="1">Isso seria muito fortuito, e posso ver por que seria uma razão válida para falarmos o mais rápido possível.&lt;BR&gt;&lt;BR&gt;De qualquer forma, diga-me o que descobriu.&lt;NEXTPAGEBUTTON&gt;"Esses pingentes controlam os demokrons."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Hmm... estou vendo e, após uma inspeção inicial, concordo. É claro que preciso examinar melhor o dispositivo, mas se a sua afirmação estiver correta, ele não só poderia levantar esse cerco, mas também pôr um fim a essa guerra.&lt;BR&gt;&lt;BR&gt;Eu lhe agradeço, em nome de toda a Highwatch, por me trazer isso.&lt;NEXTPAGEBUTTON&gt;"Fico feliz em ajudar."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Você é um verdadeiro amigo de nosso povo - e, pelos poderes que me foram concedidos, eu o declaro cidadão honorário da Highwatch.&lt;BR&gt;&lt;BR&gt;De agora em diante, poderá passar livremente por nossos portões.&lt;BR&gt;&lt;BR&gt;Além disso, desejo que fique com isto: uma das Relíquias de Oriyn. Como você já deve ter descoberto, aquele que as junta detém grande poder.&lt;NEXTPAGEBUTTON&gt;"Obrigado."&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
 </QuestDialog>

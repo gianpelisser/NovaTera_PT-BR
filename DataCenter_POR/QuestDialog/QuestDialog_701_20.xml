@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="701" id="20" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="20" huntingZoneId="701" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="210" id="100" prevId="0" villagerId="2004">
          
+         
         <Page social="0">Você entregou material de escultura para Dolme e recebeu um Horn Helm.</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="2" prevId="0" villagerId="2004">
          
+         
         <Page social="4">&lt;PCNAME&gt;, bem-vindo à festa na praia.&lt;BR&gt;&lt;BR&gt;Se você estiver interessado em adquirir um elmo de chifre, talvez não tenha sorte. Muitos clientes estão querendo comprar elmos de chifre este ano, e eu trago quase chifres suficientes comigo.&lt;BR&gt;&lt;BR&gt;Mas vou lhe dizer uma coisa, &lt;PCNAME&gt;: você vai me trazer dois chifres de arachnen da Ilha Serpentis, e eu farei um elmo de chifre para você. Combinado?</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="3" prevId="2" villagerId="2004">
          
+         
         <Page social="4">Muito bem, &lt;PCNAME&gt;! Esses chifres são ótimos e devem me durar o resto do dia.&lt;BR&gt;&lt;BR&gt;Aqui está seu elmo de chifres e obrigado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="210" id="4" villagerId="2004">
          
+         
         <Page social="0">Sei que conseguir chifres de aracnídeos não é fácil, &lt;PCNAME&gt;. Mas eu agradeceria muito se você pudesse se apressar.</Page>
+    
     
     </Text>
 </QuestDialog>

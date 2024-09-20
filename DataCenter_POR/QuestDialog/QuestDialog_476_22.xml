@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="476" id="22" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="476" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="253" id="100" prevId="0" villagerId="1019">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="253" id="2" prevId="0" villagerId="1019">
          
+         
         <Page social="4">Os zuulhounds e as hienas do labirinto continuam matando nossos batedores!&lt;BR&gt;&lt;BR&gt;Até que os batedores terminem, não podemos atacar. Enquanto não atacarmos, não posso me embebedar.&lt;BR&gt;&lt;BR&gt;Mata esses caninos!</Page>
+    
     
     </Text>
     <Text huntingZoneId="253" id="3" prevId="2" villagerId="1019">
          
+         
         <Page social="4">Muito melhor. Obrigado.</Page>
+    
     
     </Text>
 </QuestDialog>

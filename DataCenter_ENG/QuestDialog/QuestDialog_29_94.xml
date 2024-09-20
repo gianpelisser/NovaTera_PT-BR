@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="29" id="94" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="70" id="100" prevId="0" villagerId="1017">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="29" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="70" prevId="0" villagerId="1017">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="70" id="2" prevId="0" villagerId="1017">
-         
+    <Text id="2" huntingZoneId="70" prevId="0" villagerId="1017">
         <Page social="5">Those cursed Lokian agitators and their enraged beasts must be stopped before they inflict irreparable harm. You are to kill {@LinkCreature:29#3011#thorntail kamaras}, {@LinkCreature:29#3012#elder thorntails}, {@LinkCreature:29#3021#ghilliedhu wardens}, {@LinkCreature:29#3022#ghilliedhu guardians}, {@LinkCreature:29#4011#Lokian battleragers}, {@LinkCreature:29#4012#Lokian warpriests}, {@LinkCreature:29#4021#Lokian deathreapers}, {@LinkCreature:29#4022#Lokian warmages}, and {@LinkCreature:29#4031#forestwalker vulcans}.&lt;BR&gt;&lt;BR&gt;Report to Deirin when mission is complete.</Page>
-    
     </Text>
-    <Text huntingZoneId="229" id="3" prevId="2" villagerId="1009">
-         
+    <Text id="3" huntingZoneId="229" prevId="2" villagerId="1009">
         <Page social="5">Your hard work and suffering are appreciated. Accept this bounty with our thanks.</Page>
-    
     </Text>
-    <Text huntingZoneId="229" id="4" villagerId="1009">
-         
+    <Text id="4" huntingZoneId="229" villagerId="1009">
         <Page social="0">Without proof of death, bounty payments aren't authorized.</Page>
-    
     </Text>
 </QuestDialog>

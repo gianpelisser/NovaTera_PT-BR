@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="36" id="38" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="36" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="236" id="100" prevId="0" villagerId="1017">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="236" id="2" prevId="0" villagerId="1017">
          
+         
         <Page social="10">Lá dentro, você encontrará uma poça de sangue. Killian convocou golems ao redor dela e, se eles começarem a vagar...&lt;BR&gt;&lt;BR&gt;...bem, honestamente, não tenho ideia do que vai acontecer, mas não imagino que será bom, não é? &lt;BR&gt;&lt;BR&gt;Entre e desative esses golems antes que eles fujam e comecem a fazer...qualquer coisa horrível que Killian os tenha convocado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="236" id="3" prevId="2" villagerId="1017">
          
+         
         <Page social="8">Estou muito grato. Eu estava realmente preocupado por um tempo.&lt;BR&gt;&lt;BR&gt;Obrigado.</Page>
+    
     
     </Text>
 </QuestDialog>

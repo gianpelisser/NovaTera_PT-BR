@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="73" id="1957" voiceTypeId="0">
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1957" huntingZoneId="73" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
     <Text id="1" endSocial="14">
-         
-        <Page social="4">Hey! Haven't I seen you killing BAMs? Those Silver BAM Tokens are the ticket to shimmering ensembles and nutty weapon skins!</Page>
-    
+        <Page social="4">Welcome! Isn’t the Moonlight Festival magnificent? Only a handful of poporis ever had even just the opportunity of getting a present from Shana. But look at all the presents Annihilation Summoner Shana has prepared for the festival!</Page>
     </Text>
 </VillagerDialog>

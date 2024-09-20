@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="401" id="1501" voiceTypeId="0">
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1501" huntingZoneId="401" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
     <Text id="1" endSocial="0">
-         
-        <Page social="0">(This teleportal takes you to &lt;font color='#0000FF'&gt;Valkyon Federation Headquarters&lt;/font&gt; in Velika.)</Page>
-    
+        <Page social="0">(This teleportal exits the instance and takes you to &lt;font color='#0000FF'&gt;Valkyon Federation Headquarters&lt;/font&gt; in Velika.)</Page>
     </Text>
 </VillagerDialog>

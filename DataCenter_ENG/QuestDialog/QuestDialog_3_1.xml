@@ -1,44 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="3" id="1" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
         <Page social="0">The devas of Oblivion Woods were seizing control of roads and threatening the town of Crescentia. Prefect Daven sent you from Lumbertown to help protect merchants and locals from the well-armed devan brigands. You defeated the deva's assault leader, Tuebenius, and secured the trade routes.</Page>
-    
     </Text>
-    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
-         
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
         <Page social="0">Mission Orders&lt;BR&gt;&lt;BR&gt;Reinforcements required in Oblivion Woods to repel devan encroachment. Soldiers available for reassignment should report to Prefect Daven in Lumbertown at once.</Page>
-    
     </Text>
-    <Text huntingZoneId="60" id="3" prevId="2" villagerId="1014">
-         
+    <Text id="3" huntingZoneId="60" prevId="2" villagerId="1014">
         <Page social="4">You're needed in Crescentia. Devan brigands are menacing trade routes into town, and the townspeople are afraid for their lives.&lt;BR&gt;&lt;BR&gt;Take the northeast gate, and follow that road over the bridge.&lt;BR&gt;&lt;BR&gt;Latton's on patrol near there, so he can help with directions to Oblivion Woods. Check in with Neacal when you get to Bulwark Camp.</Page>
-    
     </Text>
-    <Text huntingZoneId="60" id="4" prevId="3" villagerId="1007">
-         
+    <Text id="4" huntingZoneId="60" prevId="3" villagerId="1007">
         <Page social="4">Bulwark Camp? Sure. I know how to get there.&lt;BR&gt;&lt;BR&gt;Cross the bridge here, and follow the path to the cave. Head through there and follow the light. You'll see Bulwark Camp on your left as you come out.&lt;BR&gt;&lt;BR&gt;Easy peasy.</Page>
-    
     </Text>
-    <Text huntingZoneId="203" id="5" prevId="4" villagerId="1004">
-         
+    <Text id="5" huntingZoneId="203" prevId="4" villagerId="1004">
         <Page social="4">Welcome to Oblivion Woods. Your stay is certain to be bloody, I just hope it's THEIR blood.&lt;BR&gt;&lt;BR&gt;The devas have choked off the road to Crescentia. Our job is to reopen the trade route and protect the town. If you go east from here you'll find my scout, Chama. He's going to need some help.</Page>
-    
     </Text>
-    <Text huntingZoneId="203" id="6" prevId="5" villagerId="1013">
-         
+    <Text id="6" huntingZoneId="203" prevId="5" villagerId="1013">
         <Page social="4">Neacal sent you? Outstanding! I could do this all by myself but we're suppose to share the glory and all that.&lt;BR&gt;&lt;BR&gt;I'm stalking the devan commander, a bloodthirsty cur called Tuebenius. He's clever and ruthless, and he's got to die.&lt;BR&gt;&lt;BR&gt;He's northeast of here, not far at all. Kill him and the devas will be confused and unorganized. We can go in and mop up what's left!</Page>
-    
     </Text>
-    <Text huntingZoneId="203" id="7" prevId="6" villagerId="1004">
-         
+    <Text id="7" huntingZoneId="203" prevId="6" villagerId="1004">
         <Page social="4">Tuebenius is dead? Outstanding! He was the mastermind behind their strategy. With him gone, we can break through to Crescentia.&lt;BR&gt;&lt;BR&gt;You punch through their lines and find Jodoc in Crescentia. I'll send word to Daven.&lt;BR&gt;&lt;BR&gt;Head up the hill, then take the next road you see going south.</Page>
-    
     </Text>
-    <Text huntingZoneId="59" id="8" prevId="7" villagerId="1009">
-         
+    <Text id="8" huntingZoneId="59" prevId="7" villagerId="1009">
         <Page social="4">It's good to see a new face. Means the road to Lumbertown is open again, or at least marginally passable. I take it we have you to thank?&lt;BR&gt;&lt;BR&gt;The devas have been a bloody thorn in our sides for awhile. With soldiers like you to help us, we might push back and secure the woods.&lt;BR&gt;&lt;BR&gt;You have my thanks!</Page>
-    
     </Text>
 </QuestDialog>

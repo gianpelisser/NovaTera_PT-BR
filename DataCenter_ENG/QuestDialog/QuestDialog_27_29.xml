@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="27" id="29" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="227" id="100" prevId="0" villagerId="1008">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="227" prevId="0" villagerId="1008">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="227" id="2" prevId="0" villagerId="1008">
-         
+    <Text id="2" huntingZoneId="227" prevId="0" villagerId="1008">
         <Page social="5">Arcanists from Thulsa's Brogar Legion are using amulets of some sort to control their golems. If we could seize those amulets, the golems would be harmless!&lt;BR&gt;&lt;BR&gt;Hunt down some {@LinkCreature:27#9#Thulsan dreadweavers} and {@LinkCreature:27#11#Thulsan arcanists} and recover their amulets.&lt;BR&gt;&lt;BR&gt;Be wary, &lt;PCNAME&gt;. The Brogar Legion's reputation came at great cost.</Page>
-    
     </Text>
-    <Text huntingZoneId="227" id="3" prevId="2" villagerId="1023">
-         
+    <Text id="3" huntingZoneId="227" prevId="2" villagerId="1023">
         <Page social="5">Excellent work! Now there will be fewer golems to worry about.&lt;BR&gt;&lt;BR&gt;None of this would have been possible without your help, &lt;PCNAME&gt;. Thank you.</Page>
-    
     </Text>
-    <Text huntingZoneId="227" id="4" villagerId="1023">
-         
+    <Text id="4" huntingZoneId="227" villagerId="1023">
         <Page social="0">Eliminate the {@LinkCreature:27#9#Thulsan dreadweavers} and {@LinkCreature:27#11#Thulsan arcanists} controlling the golems.</Page>
-    
     </Text>
 </QuestDialog>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="55" id="94" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="55" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="80" id="100" prevId="0" villagerId="1012">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="80" id="2" prevId="0" villagerId="1012">
          
+         
         <Page social="0">Não podemos pacificar os Skyleaves enquanto os orisks estiverem soltos na região.&lt;BR&gt;&lt;BR&gt;Entre lá e mate {@LinkCreature:55#21#Darkquaver orisks}. &lt;BR&gt;&lt;BR&gt;Apresentem-se a Jola no Posto Avançado de Valumnir quando a missão estiver concluída.</Page>
+    
     
     </Text>
     <Text huntingZoneId="255" id="3" prevId="2" villagerId="1026">
          
+         
         <Page social="4">Você recebeu os agradecimentos da federação!</Page>
+    
     
     </Text>
     <Text huntingZoneId="255" id="4" villagerId="1026">
          
+         
         <Page social="0">Parece que você ainda não completou sua missão.</Page>
+    
     
     </Text>
 </QuestDialog>

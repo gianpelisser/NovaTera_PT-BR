@@ -1,13 +1,17 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="226" id="1011" voiceTypeId="41">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1011" huntingZoneId="226" voiceTypeId="41">
     <Text huntingZoneId="226" id="1" endSocial="14" prevId="0" villagerId="1011">
          
+         
         <Page social="4">Word's spreading quickly about this region. It's good for tourism, but we're attracting fools and charlatans as well.&lt;BR&gt;&lt;BR&gt;That's never a good thing.</Page>
+    
     
     </Text>
     <Text huntingZoneId="226" id="2" endSocial="14" prevId="0" villagerId="1011">
          
+         
         <Page social="4">(If your mind and spirit are in tune, you may begin your test.)&lt;TEXTBUTTON&gt;The Assurath&lt;/TEXTBUTTON&gt;&lt;EVENTPAGEBUTTON&gt;Face your test.&lt;/EVENTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
 </VillagerDialog>

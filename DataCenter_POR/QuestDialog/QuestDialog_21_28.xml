@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="21" id="28" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="21" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="221" id="100" prevId="0" villagerId="1044">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="221" id="2" prevId="0" villagerId="1044">
          
+         
         <Page social="4">Meu parceiro de pesquisa, Aresk, e eu estamos estudando essas relíquias. Infelizmente, tivemos um pequeno desentendimento e ele foi embora. O deserto é muito perigoso para se lidar com ele sozinho.&lt;BR&gt;&lt;BR&gt;Preciso que você dê uma olhada nas ruínas e veja se ele está de mau humor por lá. Traga-o de volta vivo, por favor!</Page>
+    
     
     </Text>
     <Text huntingZoneId="221" id="3" prevId="2" villagerId="1021">
          
+         
         <Page social="4">Hmph. Ladya o enviou? Eu me esforcei tanto para evitar os kulkari que me esqueci completamente do motivo da nossa briga.&lt;BR&gt;&lt;BR&gt;Obrigado por ter vindo atrás de mim. Vou fazer algumas anotações e depois voltarei.</Page>
+    
     
     </Text>
 </QuestDialog>

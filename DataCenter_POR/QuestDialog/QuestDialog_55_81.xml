@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="55" id="81" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="81" huntingZoneId="55" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0">Ordens da Missão&lt;BR&gt;&lt;BR&gt;As criaturas da Floresta Darkquaver inexplicavelmente se voltaram contra a federação.&lt;BR&gt;&lt;BR&gt;Restabeleça a ordem matando {@LinkCreature:56#16#Hienas de Darkquaver}, {@LinkCreature:56#17#Javalis derazortusk}, {@LinkCreature:55#1#Sporewalkers loucos} e {@LinkCreature:55#11#Unicórnios de Silvermane}.&lt;BR&gt;&lt;BR&gt;Apresentar-se à Belva na Guarnição de Darkquaver quando a missão estiver concluída.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="3" prevId="2" villagerId="0">
          
+         
         <Page social="4">Você recebeu os agradecimentos da federação. Sua guilda é uma inspiração para todos!</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="4" villagerId="0">
          
+         
         <Page social="0">Parece que você ainda não completou sua missão.</Page>
+    
     
     </Text>
 </QuestDialog>

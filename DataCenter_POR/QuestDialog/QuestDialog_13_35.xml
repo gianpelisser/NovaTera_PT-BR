@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="35" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="13" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="64" id="100" prevId="0" villagerId="1001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="64" id="2" prevId="0" villagerId="1001">
          
+         
         <Page social="4">Mesmo com os recursos da federação por trás de nós, dependemos de civis como o banqueiro &lt;b&gt;Kerson&lt;/b&gt; para ajudar em serviços como entrega de correspondência e transporte de suprimentos.&lt;BR&gt;&lt;BR&gt;Para manter esse relacionamento forte, muitas vezes "emprestamos" pessoas para favores especiais. Ele está com um pequeno problema com um de nossos mensageiros... você pode ver o que ele precisa e possivelmente ajudá-lo?</Page>
+    
     
     </Text>
     <Text huntingZoneId="64" id="3" prevId="2" villagerId="1003">
          
+         
         <Page social="4">Participe! Eu tenho um problema. Chione é uma piloto que pilota um desses dirigíveis ao redor da ilha.&lt;BR&gt;&lt;BR&gt;Pelo menos... ela o fazia antes de bater com o dirigível em direção ao Desfiladeiro Contaminado.&lt;BR&gt;&lt;BR&gt;Ela ainda está lá fora lidando com seu erro, mas eu tenho correspondência acumulada, e Ramun não a carrega em sua mochila.&lt;BR&gt;&lt;BR&gt;A rota de Chione vai para o leste daqui, depois curva para o sul. Descubra qual é o problema - minha reputação está em risco!</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="4" prevId="3" villagerId="1007">
          
+         
         <Page social="4">Não julgue Chione pelos resultados de um erro de cálculo - em vez disso, junte-se a ela na solução de um problema sério.&lt;BR&gt;&lt;BR&gt;O dirigível estava perfeitamente equilibrado, os suprimentos estavam presos com segurança. Ninguém poderia ter previsto a existência de passageiros clandestinos - ou que eles causariam um acidente.&lt;BR&gt;&lt;BR&gt;Agora tudo o que pode ser feito é guardar a carga até a chegada de um navio de reparos.</Page>
+    
     
     </Text>
 </QuestDialog>

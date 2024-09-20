@@ -1,9 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="3037001" string="Eles estão arruinando as ruínas" />
-    <String id="3037002" string="Imagine... nós caminhamos onde os gigantes já pisaram." />
-    <String id="3037003" string="Hee hee! Obrigado!" />
-    <String id="3037004" string="Mate {@linkcreature:30#520#dreadpaw mandrills} no {@Rgn:30008$$Arquivo Inferior}." />
-    <String id="3037005" string="&quot;Para a federação.&quot;" />
-    <String id="3037006" string="Informe ao Decurion {@linkcreature:230#1001$$Litherus} no {@Rgn:30008$$Arquivo Inferior}." />
+    <String id="3033001" string="Língua amarrada" />
+    <String id="3033002" string="Não deixe que isso o envenene!" />
+    <String id="3033003" string="Você tem alguma ideia do que acabou de fazer?" />
+    <String id="3033004" string="Veneno Tentacullar" />
+    <String id="3033005" string="Mate {@linkcreature:30#140#venomous tentacullars} em {@Rgn:30006$$Brightleaf Glade} e pegue o veneno deles." />
+    <String id="3033006" string="Entregue o veneno ao {@linkcreature:230#1018#veteran itinerant miner}." />
+    <String id="3033007" string="&quot;Entendido.&quot;" />
+    <String id="3033008" string="" />
+    <String id="3033009" string="Veneno Tentacullar" />
+    <String id="3033010" string="Mostre o veneno para o {@linkcreature:230#1017$$ mineiro itinerante novato}, um colega de trabalho do {@linkcreature:230#1018$$ mineiro itinerante veterano}." />
+    <String id="3033011" string="&quot;Como faço para entrar nessas coisas?&quot;" />
+    <String id="3033012" string="&quot;Para a federação.&quot;" />
+    <String id="3033013" string="Vá contar para {@linkcreature:230#1065$$Libinienn} o que aconteceu com o {@linkcreature:230#1018#mineiro itinerante veterano}." />
 </StrSheet_Quest>

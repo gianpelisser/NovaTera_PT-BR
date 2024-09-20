@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="51" id="31" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="51" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="251" id="100" prevId="0" villagerId="1038">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="251" id="2" prevId="0" villagerId="1038">
          
+         
         <Page social="4">Maravilhoso. Os pilares dos draelkar também afetam os barsicores. Não precisamos de criaturas gigantescas e desenfreadas - já temos problemas suficientes com as normais.&lt;BR&gt;&lt;BR&gt;Matemos alguns barsicores, nem que seja para privar Thulsa de qualquer diversão que ele obtenha com nossa miséria.</Page>
+    
     
     </Text>
     <Text huntingZoneId="251" id="3" prevId="2" villagerId="1038">
          
+         
         <Page social="4">Esses baricores são brutos e desagradáveis. Você lidou com eles como um mestre caçador. Bom trabalho".</Page>
+    
     
     </Text>
 </QuestDialog>

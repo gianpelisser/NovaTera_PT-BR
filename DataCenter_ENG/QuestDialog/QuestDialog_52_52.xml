@@ -1,26 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="52" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="79" id="100" prevId="0" villagerId="1056">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="52" huntingZoneId="52" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="79" prevId="0" villagerId="1056">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="79" id="2" prevId="0" villagerId="1056">
-         
+    <Text id="2" huntingZoneId="79" prevId="0" villagerId="1056">
         <Page social="5">So I'm looking for necrotic badges. No, you don't want to know why, but I'm offering a valuable consideration in return.&lt;NEXTPAGEBUTTON&gt;"What, exactly?"&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="5">Duality badges. Great trade, huh? I knew you'd agree, because you're smart. Like me.&lt;BR&gt;&lt;BR&gt;Just bring the necrotic badges when you have them. We'll do business.</Page>
-    
     </Text>
-    <Text huntingZoneId="79" id="3" prevId="2" villagerId="1056">
-         
+    <Text id="3" huntingZoneId="79" prevId="2" villagerId="1056">
         <Page social="5">There you are, ready to deal! I'll take my badges, and here are yours.&lt;BR&gt;&lt;BR&gt;Come back any time!</Page>
-    
     </Text>
-    <Text huntingZoneId="79" id="4" villagerId="1056">
-         
+    <Text id="4" huntingZoneId="79" villagerId="1056">
         <Page social="0">I think it's best to hold off on our transaction until you find more necrotic badges.&lt;BR&gt;&lt;BR&gt;I wouldn't take my time if I were you, though. I won't have any need for more badges once my order is filled.</Page>
-    
     </Text>
 </QuestDialog>

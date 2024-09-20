@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="34" id="43" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="34" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="234" id="100" prevId="0" villagerId="1012">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="234" id="2" prevId="0" villagerId="1012">
          
+         
         <Page social="4">A maneira mais segura de caçar mugatos é com armadilhas, mas fiquei sem &lt;font color='#660000'&gt;frostvine&lt;/font&gt;. Não estou disposto a me aventurar no território de Barsicore para conseguir mais.&lt;BR&gt;&lt;BR&gt;Mas se você conseguisse juntar um pouco de frostvine, eu lhe pagaria bem.</Page>
+    
     
     </Text>
     <Text huntingZoneId="234" id="3" prevId="2" villagerId="1012">
          
+         
         <Page social="4">Isso é fantástico! Graças a isso, poderei fazer bons negócios e obter peles.&lt;BR&gt;&lt;BR&gt;Você se importaria de passar essa &lt;font color='#660000'&gt;bobina de videira gelada&lt;/font&gt; para &lt;font color='#660000'&gt;Soniata&lt;/font&gt;? Eu peguei algumas emprestadas dela há algum tempo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="234" id="4" villagerId="1012">
          
+         
         <Page social="0">Ah, você pode encontrar frostvine em todo o Screaming Snowfield. Cresce do chão. Não dá para não ver.</Page>
+    
     
     </Text>
     <Text huntingZoneId="234" id="5" prevId="3" villagerId="1013">
          
+         
         <Page social="4">O que é isso? Ah, eu estava preocupado que teria que aceitar um dedo do pé ou dois como pagamento.&lt;BR&gt;&lt;BR&gt;Nunca deixe suas dívidas apodrecerem. Obrigado!</Page>
+    
     
     </Text>
 </QuestDialog>

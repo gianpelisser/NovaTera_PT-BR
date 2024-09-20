@@ -1,19 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="121" id="2" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="121" id="100" prevId="0" villagerId="220021">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="121" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="121" prevId="0" villagerId="220021">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="121" id="2" prevId="0" villagerId="220021">
-         
+    <Text id="2" huntingZoneId="121" prevId="0" villagerId="220021">
         <Page social="1">Our most recent intelligence reveals other alliances are infiltrating our territory. I'll need you to patrol the Aurum encroachment area and the barrens.&lt;BR&gt;&lt;BR&gt;You should also hunt the {@linkcreature:121#202#Aurum mugatos} and {@linkcreature:121#205#badlands ghilliedhus}.&lt;BR&gt;&lt;BR&gt;&lt;font color='#660000'&gt;We're an alliance and we're in this together! If level 65 members help lower level alliance members in this task, I'll toss in the bonus reward!&lt;/font&gt;</Page>
-    
     </Text>
-    <Text huntingZoneId="121" id="3" prevId="2" villagerId="220021">
-         
+    <Text id="3" huntingZoneId="121" prevId="2" villagerId="220021">
         <Page social="0">Thank you, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;More noctenium for us! The Free Trade Collective is on its way to the top!</Page>
-    
     </Text>
 </QuestDialog>

@@ -1,34 +1,46 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="191" id="9" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="191" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="191" id="100" prevId="0" villagerId="2118">
          
+         
         <Page social="0">Rhodos, Paesyn e &lt;PCNAME&gt; continuaram a perseguir Dakuryon, mas encontraram a coroa de flores de Zolyn.</Page>
+    
     
     </Text>
     <Text huntingZoneId="191" id="2" prevId="0" villagerId="2118">
          
+         
         <Page social="4">Vamos nos espalhar para encontrar Dakuryon.&lt;BR&gt;&lt;BR&gt;Talvez seu amigo cão possa ajudá-lo. Ele parece muito ansioso.</Page>
+    
     
     </Text>
     <Text huntingZoneId="191" id="3" prevId="2" villagerId="2139">
          
+         
         <Page social="4">&lt;PCNAME&gt;! Eu posso ajudar! Eu fiz um soro da verdade! &lt;BR&gt;&lt;BR&gt;Bata em um dos oficiais deles e use o soro para fazê-los falar. Isso nos ajudará a salvar Zolyn!</Page>
+    
     
     </Text>
     <Text huntingZoneId="191" id="4" prevId="3" villagerId="1221">
          
+         
         <Page social="4">Sua fraca magia não pode superar minha lealdade a Dakuryon! &lt;BR&gt;&lt;BR&gt;Sua missão está condenada!</Page>
+    
     
     </Text>
     <Text huntingZoneId="191" id="5" prevId="4" villagerId="2122">
          
+         
         <Page social="4">Parecia uma videira que dificilmente floresceria, mas tínhamos que tentar.&lt;BR&gt;&lt;BR&gt;Não há tempo a perder. Lá em cima!</Page>
+    
     
     </Text>
     <Text huntingZoneId="191" id="6" prevId="5" villagerId="2140">
          
+         
         <Page social="4">&lt;PCNAME&gt;, veja o que eu encontrei...&lt;BR&gt;&lt;BR&gt;É a coroa que eu lhe dei.&lt;BR&gt;&lt;BR&gt;Zolyn está aqui!</Page>
+    
     
     </Text>
 </QuestDialog>

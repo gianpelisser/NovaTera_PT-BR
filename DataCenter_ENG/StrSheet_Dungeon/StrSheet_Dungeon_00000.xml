@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Dungeon xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd">
+<StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
     <String id="9999" string="Blast from the Past" />
     <String id="8999" string="Velik's Sanctuary" />
     <String id="9001" string="Samael's Residence" />
@@ -10,7 +9,7 @@
     <String id="9007" string="Hidden Shrine" />
     <String id="9008" string="Malachai's Lab" />
     <String id="9010" string="Kaiator Command Center" />
-    <String id="9011" string="Legendary Blacksmith's Workshop" />
+    <String id="9011" string="Muhrak's Workshop" />
     <String id="9012" string="Three Towers Spires" />
     <String id="9013" string="Cyasma Spire" />
     <String id="9014" string="Khanovar Gauntlet" />
@@ -86,7 +85,7 @@
     <String id="9911" string="Kelsaik's Raid (10-Person)" />
     <String id="9051" string="Squalid Temple" />
     <String id="9052" string="Banquet of Blood" />
-    <String id="9711" string="The Abscess (Hard) (5-Person)" />
+    <String id="9711" string="The Abscess (Hard)" />
     <String id="9777" string="Channelworks (3-Person)" />
     <String id="9766" string="Shattered Fleet" />
     <String id="9043" string="Wonderholme (Hard) (10-Person)" />
@@ -115,11 +114,19 @@
     <String id="9151" string="Noctenium Research Grounds" />
     <String id="9808" string="Sabex Armory" />
     <String id="9809" string="Macellarius Catacombs" />
-    <String id="9054" string="Bathysmal Rise (hard)" />
+    <String id="9054" string="Bathysmal Rise (Hard)" />
     <String id="9754" string="Bathysmal Rise" />
-    <String id="9055" string="Ravenous Gorge" />
+    <String id="9055" string="Ravenous Gorge (3-Person)" />
     <String id="9823" string="Sky Cruiser Intrepid" />
     <String id="9826" string="Vaelsiar Chambers" />
-    <String id="9916" string="Sky Cruiser Intrepid of Storm" />
-    <String id="9716" string="Sky Cruiser Intrepid" />
+    <String id="9916" string="Sky Cruiser Endeavor (Hard)" />
+    <String id="9716" string="Sky Cruiser Endeavor" />
+    <String id="9885" string="Dreadspire" />
+    <String id="9886" string="Dreadspire: Upper Levels" />
+    <String id="9713" string="Ghilliglade (Premium)" />
+    <String id="9714" string="Premium-only Area" />
+    <String id="9804" string="Kelsaik's Nest_For Japan Tournaments" />
+    <String id="9979" string="Saravash's Den" />
+    <String id="9057" string="Akeron's Inferno (Hard)" />
+    <String id="9757" string="Akeron's Inferno" />
 </StrSheet_Dungeon>

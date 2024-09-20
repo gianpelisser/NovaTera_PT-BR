@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="3" id="26" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="59" id="100" prevId="0" villagerId="1009">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="59" prevId="0" villagerId="1009">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="59" id="2" prevId="0" villagerId="1009">
-         
+    <Text id="2" huntingZoneId="59" prevId="0" villagerId="1009">
         <Page social="5">Our worst nightmares came to pass when the honored dead of our past came back to stalk us in the present. We need to send them back to the dark, before they become too numerous and overrun us.&lt;BR&gt;&lt;BR&gt;I've got a few volunteers waiting at the edge of town. Take one and work your way through Berzerad Cemetery. Kill what you must but come back safely—both of you.</Page>
-    
     </Text>
-    <Text huntingZoneId="3" id="3" villagerId="26">
-         
+    <Text id="3" huntingZoneId="3" villagerId="26">
         <Page social="0">I'll do my best. Just don't leave me, okay?</Page>
-    
     </Text>
-    <Text huntingZoneId="59" id="4" prevId="2" villagerId="1009">
-         
+    <Text id="4" huntingZoneId="59" prevId="2" villagerId="1009">
         <Page social="7">Your efforts likely saved the town, if not the entire region. And you helped one of our volunteers gain some badly needed experience.&lt;BR&gt;&lt;BR&gt;Good work, soldier.</Page>
-    
     </Text>
 </QuestDialog>

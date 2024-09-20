@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="61" id="1009">
-    <Text huntingZoneId="61" id="1" endSocial="14" prevId="0" villagerId="1009">
-         
-        <Page social="4">Time is relevant everywhere but Castanica. Here there is only now. Castanics live for the moment, which explains why they do anything they like, yet rarely think ahead.&lt;BR&gt;&lt;BR&gt;Going somewhere in a hurry?</Page>
-    
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1009" huntingZoneId="61" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="61" prevId="0" villagerId="1009" endSocial="14">
+        <Page social="4">(This teleportal can transport you to any camp you've visited in Ostgarath.)</Page>
     </Text>
 </VillagerDialog>

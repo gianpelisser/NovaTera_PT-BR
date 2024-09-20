@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="24" id="37" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="24" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="224" id="100" prevId="0" villagerId="1002">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="224" id="2" prevId="0" villagerId="1002">
          
+         
         <Page social="4">Um grande poder mágico sustenta as Ruínas de Storst no norte. Acredito que os {@LinkCreature:24#14#bloodhorn maligoses}, descendentes dos antigos gigantes, estejam se beneficiando do poder das relíquias.&lt;BR&gt;&lt;BR&gt;Os fragmentos da armadura de Maligos podem confirmar essa teoria. Se você os recolher, poderemos medir o mana restante e calcular o poder das ruínas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="224" id="3" prevId="2" villagerId="1002">
          
+         
         <Page social="4">Intrigante. Os fragmentos formigam ao toque. O poder presente está muito além do que suspeitávamos.&lt;BR&gt;&lt;BR&gt;Sua ajuda será lembrada. Muito obrigado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="224" id="4" villagerId="1002">
          
+         
         <Page social="0">Uma hipótese não testada é apenas uma pergunta. Preciso de fragmentos de armadura para testar. Rapidamente.</Page>
+    
     
     </Text>
 </QuestDialog>

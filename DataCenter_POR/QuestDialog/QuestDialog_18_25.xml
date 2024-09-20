@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="18" id="25" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="18" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="218" id="100" prevId="0" villagerId="1028">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="218" id="2" prevId="0" villagerId="1028">
          
+         
         <Page social="4">Dê uma boa olhada. Absorva-o. Você está diante da pessoa mais influente que jamais conhecerá.&lt;BR&gt;&lt;BR&gt;Bem, eu estarei assim que minhas mercadorias chegarem. A estúpida carruagem está três dias atrasada! Se eu for checá-la, ela aparecerá assim que eu sair. É sempre assim. &lt;BR&gt;&lt;BR&gt;Pode ir procurá-la? Estou disposto a me desfazer de algum dinheiro se isso ajudar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="218" id="3" prevId="2" villagerId="1029">
          
+         
         <Page social="0">(Esta carruagem foi destruída. Suprimentos e mercadorias dos comerciantes estão espalhados por toda parte. Tudo de valor já se foi.&lt;BR&gt;&lt;BR&gt;É provável que tenha sido atacada por {@LinkCreature:18#3#Desert Fire ragers}s. Eles provavelmente estão com as mercadorias que faltam).</Page>
+    
     
     </Text>
     <Text huntingZoneId="218" id="4" prevId="3" villagerId="1028">
          
+         
         <Page social="4">Oh não! Tanto dinheiro dissolvido na areia....&lt;BR&gt;&lt;BR&gt;Bem, obrigado pelo que você conseguiu trazer de volta.</Page>
+    
     
     </Text>
     <Text huntingZoneId="218" id="5" villagerId="1028">
          
+         
         <Page social="0">Fique de olho nos {@LinkCreature:18#2#shamans} e {@LinkCreature:18#3#ragers} do Fogo do Deserto!</Page>
+    
     
     </Text>
 </QuestDialog>

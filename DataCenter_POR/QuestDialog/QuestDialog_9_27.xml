@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="9" id="27" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="27" huntingZoneId="9" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="209" id="100" prevId="0" villagerId="1012">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="209" id="2" prevId="0" villagerId="1012">
          
+         
         <Page social="4">Tenho uma ideia para tratar sua loucura, mas tenha paciência comigo. É um pouco... indecoroso.&lt;BR&gt;&lt;BR&gt;Ele fica falando sem parar sobre como "eles" o estão observando. Ele está falando de {@LinkCreature:9#410#pilhadores de gula}, astutos {@LinkCreature:9#700#caçadores de diabinhos alizarins} e {@LinkCreature:9#710#guardiões}.&lt;BR&gt;&lt;BR&gt;Traga-me os olhos deles. Vamos dar um choque de sensibilidade nesse pobre homem.</Page>
+    
     
     </Text>
     <Text huntingZoneId="209" id="3" prevId="2" villagerId="1012">
          
+         
         <Page social="4">Você conseguiu alguns. Ótimo!</Page>
+    
     
     </Text>
     <Text huntingZoneId="209" id="4" villagerId="1012">
          
+         
         <Page social="0">Você encontrará {@LinkCreature:9#410#Gula Pillagers}, astutos {@LinkCreature:9#700#Alizarin imp hunters} e {@LinkCreature:9#710#Alizarin Imp Warders} no primeiro andar subterrâneo do Azarel's Labyrinth.</Page>
+    
     
     </Text>
 </QuestDialog>

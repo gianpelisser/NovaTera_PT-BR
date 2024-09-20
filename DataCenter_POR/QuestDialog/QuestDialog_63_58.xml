@@ -1,21 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="63" id="58" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="58" huntingZoneId="63" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="63" id="100" prevId="0" villagerId="1102">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="2" prevId="0" villagerId="1102">
          
+         
         <Page social="0">&lt;PCNAME&gt;, estou impressionado com o quanto você melhora a cada vez que o vejo. No entanto, nosso inimigo também está ficando mais forte. Devemos fazer tudo o que pudermos para ficar à frente deles.&lt;BR&gt;&lt;BR&gt;Para isso, tenho um presente para você. É um glyph de habilidade, do tipo que os melhores soldados usam para melhorar suas habilidades.&lt;BR&gt;&lt;BR&gt;Phidias, um de nossos guerreiros glyphs mestres, o entregará a você e explicará como usá-lo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="1217">
          
+         
         <Page social="10">Seir lhe prometeu um glyph, não foi? Adoro a forma como ele os distribui. Ele sabe que eles são valiosos, mas, por mais que me ajude, ele é inútil para explicar o porquê! Ha!&lt;BR&gt;&lt;BR&gt;Os glyphs reforçam ou modificam suas habilidades. Você os aprende simplesmente clicando neles em seu inventário, mas os ativa na lista de habilidades.&lt;BR&gt;&lt;BR&gt;Você ganha pontos de glyph à medida que avança em nível e experiência, e esses pontos de glyph ajudam a ativar seus glyphs.&lt;NEXTPAGEBUTTON&gt;"Entendo."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Se você ativar o glyph errado por engano, basta redefinir seus pontos de glyph. Isso custará dinheiro, sim, mas pagamos por nossos erros, não é? &lt;BR&gt;&lt;BR&gt;Aqui está seu glyph. Faça bom uso dele. Obrigado por passar por aqui! Gosto de conhecer nossos veteranos!</Page>
+    
     
     </Text>
 </QuestDialog>

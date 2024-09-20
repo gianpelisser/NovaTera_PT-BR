@@ -1,14 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="1307001" string="Live by the Sword" />
-    <String id="1307002" string="Kirash watches from the western edge of the encampment." />
-    <String id="1307003" string="What are we not seeing?" />
-    <String id="1307004" string="&quot;Yes, sir!&quot;" />
-    <String id="1307005" string="Check in with Kirash somewhere south of Leander's Outpost." />
-    <String id="1307006" string="Clue to Orcan Plans" />
-    <String id="1307007" string="Kill a dark marauder and look for clues." />
-    <String id="1307008" string="Deliver the document to Kirash." />
-    <String id="1307009" string="&quot;Right away!&quot;" />
-    <String id="1307010" string="&quot;For the federation!&quot;" />
-    <String id="1307011" string="Report to Leander at the outpost." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="1305001" string="A Clue in the Dark" />
+    <String id="1305002" string="Good work." />
+    <String id="1305003" string="&quot;Understood.&quot;" />
+    <String id="1305004" string="Listen to what Leander has to say." />
+    <String id="1305005" string="&quot;Understood.&quot;" />
+    <String id="1305006" string="Talk to {@linkcreature:64#1028$$Taras}." />
+    <String id="1305007" string="Kill horned ghilliedhus west of the Tower Base." />
+    <String id="1305008" string="&quot;Thanks for your help.&quot;" />
+    <String id="1305009" string="Speak to Tanli." />
+    <String id="1305010" string="Kill the sporewalkers and head back to Leander." />
+    <String id="1305011" string="Report to Leander." />
+    <String id="1305012" string="Leander" />
+    <String id="1305013" string="Report to Leander at the Tower Base." />
+    <String id="1305014" string="&quot;On my way.&quot;" />
+    <String id="1305015" string="&quot;I'll do my best.&quot;" />
+    <String id="1305016" string="Speak to Councilor Teil." />
 </StrSheet_Quest>

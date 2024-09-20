@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="69" id="1956" voiceTypeId="0">
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1956" huntingZoneId="69" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
     <Text id="1" endSocial="14">
-         
-        <Page social="5">Hi there! I'm so happy to see you getting involved in the BAM Killer event! Have you collected lots of Bronze BAM Tokens?</Page>
-    
+        <Page social="5">Welcome! Are you here to claim your Festival Gift? This is the festival for celebrating the first day when the Goddess Seren blessed us with her presence! We, the representatives of the Yoki Artisans, have prepared many gifts as well, so please claim as many gifts as possible!</Page>
     </Text>
 </VillagerDialog>

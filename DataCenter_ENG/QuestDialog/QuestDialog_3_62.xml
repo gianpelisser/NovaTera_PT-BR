@@ -1,35 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="3" id="62" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="59" id="100" prevId="0" villagerId="1031">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="62" huntingZoneId="3" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="59" prevId="0" villagerId="1031">
         <Page social="0">Avatar Weapon Mission Quest</Page>
-    
     </Text>
-    <Text huntingZoneId="59" id="2" prevId="0" villagerId="1031">
-         
+    <Text id="2" huntingZoneId="59" prevId="0" villagerId="1031">
         <Page social="0">Rumor has it that the trap hunter in Crescentia, Roson, recently discovered an ancient relic with a magical power.&lt;BR&gt;&lt;BR&gt;No one goes into detail about it, though! What's that about? You can't just throw out phrases like "magical relic" and then not give any more information!&lt;BR&gt;&lt;BR&gt;Tell you what: Go to the source for me. Talk to Roson, ask her what's really going on with that relic.</Page>
-    
     </Text>
-    <Text huntingZoneId="59" id="3" prevId="2" villagerId="1031">
-         
+    <Text id="3" huntingZoneId="59" prevId="2" villagerId="1031">
         <Page social="0">What? They're saying I have a relic? How ridiculous!&lt;BR&gt;&lt;BR&gt;Let this be a lesson to you: People talk before they know the whole story, and they repeat things before they ask for all the facts.&lt;BR&gt;&lt;BR&gt;What I have is the general area to find pieces of relics. One piece doesn't really do anything. You have to gather a bunch of them.&lt;NEXTPAGEBUTTON&gt;&amp;quot;But...gather them for what?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="0">I've recently uncovered an ancient legend about the gods and their relics.&lt;BR&gt;&lt;BR&gt;If you collect enough pieces to make a whole relic, you can create an amazing weapon and acquire the power of the gods! An avatar weapon.&lt;NEXTPAGEBUTTON&gt;&amp;quot;That sounds...fake.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="0">I know! But that's what my studies suggest. That's why I'm hunting for relics—I need to test this theory and see if what they say is true.&lt;BR&gt;&lt;BR&gt;Except I'm having a hard time getting the relics. I've never been much of a fighter, and the relic pieces are usually found on monsters attracted to the relic energy. I'm a much better researcher.&lt;BR&gt;&lt;BR&gt;But...you're an experienced fighter, right? Maybe you could...y'know. And then come back and show me what you've found?</Page>
-    
     </Text>
-    <Text huntingZoneId="59" id="4" prevId="3" villagerId="1031">
-         
+    <Text id="4" huntingZoneId="59" prevId="3" villagerId="1031">
         <Page social="0">Did you find it? Is it true?&lt;BR&gt;&lt;BR&gt;Oh, was my theory correct? I have to know!&lt;NEXTPAGEBUTTON&gt;&amp;quot;Look at this.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="0">Oh my...that's incredible! Such a lance...this is a true adventurer's weapon!&lt;BR&gt;&lt;BR&gt;And you've confirmed my research! Thank you!&lt;BR&gt;&lt;BR&gt;In return, why don't you keep this lance? I think you would have much more use for it than I ever would.&lt;BR&gt;&lt;BR&gt;There are supposed to be more relics hidden across the continent! I'll bet it wouldn't be hard for someone like you to find them all. Keep looking, and good luck on your future travels!</Page>
-    
     </Text>
-    <Text huntingZoneId="59" id="5" villagerId="1031">
-         
+    <Text id="5" huntingZoneId="59" villagerId="1031">
         <Page social="0">Oh no, could you not find them? Was my theory all wrong?&lt;BR&gt;&lt;BR&gt;Oh, please look again! I want so much to find some proof to this.</Page>
-    
     </Text>
 </QuestDialog>

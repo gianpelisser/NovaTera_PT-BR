@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="12" id="95" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="95" huntingZoneId="12" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="62" id="100" prevId="0" villagerId="1019">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="62" id="2" prevId="0" villagerId="1019">
          
+         
         <Page social="0">Precisamos diminuir as fileiras de nossos inimigos.&lt;BR&gt;&lt;BR&gt;Mate os {@LinkCreature:12#17#Lash Vermelho saqueadores} nos mercados de escravos da Ilha de Mistmoor.&lt;BR&gt;&lt;BR&gt;Quando terminar, apresente-se a Taniel no Posto Avançado do Vindicador.</Page>
+    
     
     </Text>
     <Text huntingZoneId="212" id="3" prevId="2" villagerId="1005">
          
+         
         <Page social="4">Continue com o bom trabalho, &lt;PCCLASS:lcase&gt;. Pela federação!</Page>
+    
     
     </Text>
     <Text huntingZoneId="212" id="4" villagerId="1005">
          
+         
         <Page social="0">Seus alvos são {@LinkCreature:12#17#Marauders do chicote vermelho}.&lt;BR&gt;&lt;BR&gt;Desculpe, mas você não neutralizou inimigos suficientes para completar essa missão.</Page>
+    
     
     </Text>
 </QuestDialog>

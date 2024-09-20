@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="52" id="5" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="5" huntingZoneId="52" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0">Thulsa, segurando o último fragmento de relíquia, disse a você que preferia destruir o mundo a deixá-lo vencer. Ele se jogou na boca de Kelsaik, e Kelsaik ficou ainda mais forte ao consumir o deus da morte.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0">Kelsaik não está na Ebon Tower, então vá atrás de Thulsa! Siga os rastros de mana que Thulsa deixa em seu rastro e você encontrará o teletransporte que Thulsa usou para escapar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="251" id="3" prevId="2" villagerId="1502">
          
+         
         <Page social="1">O teletransporte de Thulsa vai para uma dimensão de bolso chamada "Kelsaik's Nest". Prepare-se antes de entrar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="528" id="4" prevId="3" villagerId="5009">
          
+         
         <Page social="1">Você derrotou Kelsaik, e assim salvou Kaiator... e Allemantheia... e Velika...&lt;BR&gt;&lt;BR&gt;... e todos os lugares.&lt;BR&gt;&lt;BR&gt;Os titãs continuam seu sonho ininterruptamente, graças a você, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
     <Text huntingZoneId="528" id="5" prevId="4" villagerId="5005">
          
+         
         <Page social="1">Killian está morto! Você ouviu isso, pai! KILLIAN ESTÁ MORTO! &lt;BR&gt;&lt;BR&gt;Você cumpriu sua promessa para mim, &lt;PCNAME&gt;, e meu pai pode descansar em paz.&lt;BR&gt;&lt;BR&gt;Sem Killian, Thulsa e Kelsaik, meu povo pode se concentrar na Guerra Argon.&lt;BR&gt;&lt;BR&gt;Falando nos argons, você diz que eles levaram o cadáver de Kelsaik embora? Eu me pergunto por que....</Page>
+    
     
     </Text>
 </QuestDialog>

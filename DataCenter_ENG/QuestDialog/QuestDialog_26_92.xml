@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="26" id="92" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="69" id="100" prevId="0" villagerId="1016">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="26" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="69" prevId="0" villagerId="1016">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="69" id="2" prevId="0" villagerId="1016">
-         
+    <Text id="2" huntingZoneId="69" prevId="0" villagerId="1016">
         <Page social="5">Interference from these local creatures is affecting our research efforts. How am I supposed to get anything done while {@LinkCreature:26#2004#mossy teraliths} and {@LinkCreature:26#4000#patient lithikumases} prowl around?&lt;BR&gt;&lt;BR&gt;The federation will reward you if you keep us safe and kill a few. Report to Naerie when you have.</Page>
-    
     </Text>
-    <Text huntingZoneId="226" id="3" prevId="2" villagerId="1004">
-         
+    <Text id="3" huntingZoneId="226" prevId="2" villagerId="1004">
         <Page social="5">You have our thanks, my friend.</Page>
-    
     </Text>
-    <Text huntingZoneId="226" id="4" villagerId="1004">
-         
+    <Text id="4" huntingZoneId="226" villagerId="1004">
         <Page social="0">There can be no compensation without proof of action. Have you proof these creatures are slain?</Page>
-    
     </Text>
 </QuestDialog>

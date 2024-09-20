@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="49" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="49" huntingZoneId="30" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="230" id="100" prevId="0" villagerId="1036">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="230" id="2" prevId="0" villagerId="1036">
          
+         
         <Page social="1">As pessoas em todos os lugares anseiam por uma conexão física com o Refúgio de Balder. O local onde Balder morreu para que o mundo pudesse ser salvo tem uma ressonância espiritual... que podemos explorar.&lt;BR&gt;&lt;BR&gt;Não podemos tirar as ruínas, mas a vegetação é outra questão...&lt;BR&gt;&lt;BR&gt;Você está pegando o que eu estou colocando no chão? &lt;NEXTPAGEBUTTON&gt;"Infelizmente, sim. Você precisa de alguma coisa. "&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Sim, eu sei. &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7015#-14741.8672,86906.8828,-441.2695&amp;type=1&amp;name=Lamenting Grass"&gt;Lamenting grass&lt;/a&gt;&lt;/font&gt;, para ser exato. Essa planta incomum só cresce perto da Lança de Lok - a mesma arma que Lok usou na batalha que matou ele e Shakan. A lança está enterrada no chão desde aquele dia fatídico.&lt;BR&gt;&lt;BR&gt;Então, basta colocar um pouco de grama em uma garrafa, eu a rotularei com um pouco de doggerel, como "A vida prospera, mesmo em um lugar de morte", e nós venderemos a ideia da lança apenas cortando a grama.&lt;BR&gt;&lt;BR&gt;É piegas, com certeza, mas em tempos de guerra, as pessoas se apegam a porcarias sentimentais como essa.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="3" prevId="2" villagerId="1036">
          
+         
         <Page social="1">Está vendo? Coletar grama é muito mais simples do que matar um deus, para escolher um exemplo totalmente aleatório.&lt;BR&gt;&lt;BR&gt;Tome isso como pagamento e traga mais grama quando pensar nisso.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="4" villagerId="1036">
          
+         
         <Page social="0">Os negócios têm tudo a ver com o timing do mercado, portanto, vamos ficar ricos enquanto todos querem um pedaço do Refúgio de Balder. Vá até Lok's Spear e colha um pouco de grama. O que poderia ser mais fácil?</Page>
+    
     
     </Text>
 </QuestDialog>

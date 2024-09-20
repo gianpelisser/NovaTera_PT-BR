@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="528" id="5019" voiceTypeId="94">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="5019" huntingZoneId="528" voiceTypeId="94">
     <Text id="1" endSocial="14">
          
+         
         <Page social="4">Welcome to Kaiator's headquarters. &lt;BR&gt;&lt;BR&gt;This is the command center for the entire Northern Shara continent.</Page>
+    
     
     </Text>
 </VillagerDialog>

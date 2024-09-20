@@ -1,145 +1,202 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="2" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="4" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="61" id="100" prevId="0" villagerId="1001">
          
+         
         <Page social="0">Castanica usa durignite para seus escudos mágicos e também para suas famosas luzes brilhantes, por isso você foi enviado a Fyrmount quando os suprimentos acabaram. Você descobriu que horrores mortos-vivos haviam tomado a mina onde a durignita era extraída. Você recuperou parte da durignita, mas os mortos-vivos continuaram a ameaçar as minas de Fyrmount.</Page>
+    
     
     </Text>
     <Text huntingZoneId="61" id="2" prevId="0" villagerId="1001">
          
+         
         <Page social="5">Todas essas luzes vermelhas que você vê? São alimentadas por durignite. A mesma substância que protege Castanica de ataques.&lt;BR&gt;&lt;BR&gt;Você provavelmente já ouviu os rumores, &lt;PCNAME&gt;, então não adianta esconder. Estamos quase sem durignite.&lt;BR&gt;&lt;BR&gt;Antes de provocarmos pânico em toda a cidade, dê uma olhada nesta lista de... digamos... "fornecedores alternativos".</Page>
+    
     
     </Text>
     <Text huntingZoneId="61" id="3" prevId="2" villagerId="1029">
          
+         
         <Page social="5">Durignite? Essa é nova. Mas suspeito que você não esteja realmente aqui por causa de algum tipo de rocha vulcânica mágica. Você tem... outras necessidades, sim? &lt;NEXTPAGEBUTTON&gt;"Na verdade, só a durignita."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="4">Hmph. Você não vê... mais nada que possa estar quente demais para tocar? &lt;NEXTPAGEBUTTON&gt;"Realmente. Apenas a durignita."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">É uma pena.&lt;BR&gt;&lt;BR&gt;Eu tenho alguns pedaços dele... cortesia de uma antiga paixão, se preferir.&lt;BR&gt;&lt;BR&gt;E já ouvi os rumores - todos nós ouvimos. Quando seus chefes resolverem o problema de abastecimento, espero ser pago. Duplo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="61" id="4" prevId="2" villagerId="1042">
          
+         
         <Page social="0">Durignite? Se está me perguntando, então os rumores são verdadeiros, não é? Estamos ficando sem durignite, o que significa que não há escudos, o que significa...&lt;BR&gt;&lt;BR&gt;De qualquer forma, pegue o que eu tenho. Tenho uma caravana para preparar. Se Castanica está escurecendo, não vou ficar por aqui para ver.</Page>
+    
     
     </Text>
     <Text huntingZoneId="61" id="5" prevId="2" villagerId="1038">
          
+         
         <Page social="0">Eu sabia que alguém viria buscar a durignita. Só não achei que seria você, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Eu tenho uma pequena quantidade. Não sei se será suficiente, mas... sempre fico feliz em ajudar a causa!</Page>
+    
     
     </Text>
     <Text huntingZoneId="61" id="6" prevId="2" villagerId="1100">
          
+         
         <Page social="4">Olhe, &lt;PCCLASS:lcase&gt;, eu preciso de durignite para alimentar minhas esculturas de luz. Sem elas, isto poderia muito bem ser... Velika! &lt;BR&gt;&lt;BR&gt;Mas os escudos da cidade são outra questão.&lt;BR&gt;&lt;BR&gt;Tome o que tenho. Amo demais minha cidade para vê-la desprotegida. Mas o que você fará quando isso acabar?</Page>
+    
     
     </Text>
     <Text huntingZoneId="61" id="7" prevId="3" villagerId="1001">
          
+         
         <Page social="4">Isso é suficiente para alguns dias... talvez uma semana, se esticarmos, mas não é uma solução permanente.&lt;BR&gt;&lt;BR&gt;As pessoas estão começando a perceber que Castanica não é tão segura quanto parece. Precisamos de uma solução real. Isso significa ir a Fyrmount e verificar a mina. Pergunte a Dada, o capataz, por que não estamos recebendo carregamentos de durignita.</Page>
+    
     
     </Text>
     <Text huntingZoneId="61" id="8" villagerId="1001">
          
+         
         <Page social="0">Precisamos desse durignite, &lt;PCNAME&gt;. A menos que você queira ver as luzes de Castanica escurecerem e os escudos caírem.</Page>
+    
     
     </Text>
     <Text huntingZoneId="204" id="9" prevId="7" villagerId="1119">
          
+         
         <Page social="5">Você! este lugar está fora dos limites! &lt;BR&gt;&lt;BR&gt;Que parte de "restrição de emergência" você não entendeu? &lt;BR&gt;&lt;BR&gt;Você não quer que eles o peguem, certo? &lt;NEXTPAGEBUTTON&gt;"Quem são 'eles', exatamente?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Os mortos-vivos, é claro! Eles assumiram o controle da mina. Eles pegaram e... distorceram... algumas das minhas melhores equipes, e outras estão simplesmente desaparecidas. Espere... você é da federação! Você pode ajudar! &lt;BR&gt;&lt;BR&gt;Duas minas, certo? Comece com &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7004#95358.7734,52169.5352,2236.8047&amp;type=1&amp;name=Delthin Mine"&gt;Delthin Mine&lt;/A&gt;&lt;/font&gt; primeiro e depois passe para &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=7004#98148.4609,51347.4570,2173.8384&amp;type=1&amp;name=Tansin Mine"&gt;Tansin Mine&lt;/A&gt;&lt;/font&gt;. Encontre minhas equipes! Descubra o que está acontecendo!</Page>
+    
     
     </Text>
     <Text huntingZoneId="204" id="10" prevId="9" villagerId="1125">
          
+         
         <Page social="5">(O carrinho está vazio.)</Page>
+    
     
     </Text>
     <Text huntingZoneId="204" id="11" prevId="9" villagerId="1126">
          
+         
         <Page social="5">(Fragmentos de ossos cobrem o chão do carrinho).</Page>
+    
     
     </Text>
     <Text huntingZoneId="204" id="12" prevId="9" villagerId="1127">
          
+         
         <Page social="0">(Pás e picaretas quebradas estão em seu interior).</Page>
+    
     
     </Text>
     <Text huntingZoneId="204" id="13" prevId="9" villagerId="1128">
          
+         
         <Page social="0">(Fragmentos de durignite cobrem o piso do carrinho).</Page>
+    
     
     </Text>
     <Text huntingZoneId="204" id="14" prevId="10" villagerId="1129">
          
+         
         <Page social="5">(A placa de identificação diz "Propriedade da Fyrmount Mining Corp.")</Page>
+    
     
     </Text>
     <Text huntingZoneId="204" id="15" prevId="10" villagerId="1130">
          
+         
         <Page social="5">(O pingente tem o retrato de uma mulher).</Page>
+    
     
     </Text>
     <Text huntingZoneId="204" id="16" prevId="10" villagerId="1131">
          
+         
         <Page social="5">(O diário está encharcado de sangue e é impossível de ler).</Page>
+    
     
     </Text>
     <Text huntingZoneId="204" id="17" prevId="10" villagerId="1132">
          
+         
         <Page social="5">(Este é um retrato de família).</Page>
+    
     
     </Text>
     <Text huntingZoneId="204" id="18" prevId="14" villagerId="1119">
          
+         
         <Page social="5">Todos mortos? Eu... achei que estava pronto para ouvir isso. Dê-me um segundo...&lt;BR&gt;&lt;BR&gt;Ok, de volta aos negócios. Posso entregar esses itens aos membros da família - para aqueles que tinham família. Posso chorar os mortos.&lt;BR&gt;&lt;BR&gt;Mas suspeito que foi a durignita desaparecida, e não os mineiros desaparecidos, que o trouxe aqui. A durignita está em algum lugar lá embaixo.&lt;BR&gt;&lt;BR&gt;Se eu tivesse que adivinhar, eu diria que {@LinkCreature:4#1051#devan war golems} e os {@LinkCreature:4#1052#fallen devan protectors} a levaram.</Page>
+    
     
     </Text>
     <Text huntingZoneId="204" id="19" villagerId="1119">
          
+         
         <Page social="0">Se todos estiverem mortos, pelo menos tente trazer algo que suas famílias possam enterrar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="204" id="20" prevId="18" villagerId="1119">
          
+         
         <Page social="4">Há durignita suficiente para abastecer Castanica por meses.&lt;BR&gt;&lt;BR&gt;Isolda pode distribuí-la.&lt;BR&gt;&lt;BR&gt;Castanica terá seus escudos e todas aquelas luzes vermelhas. Eu mesmo terei que visitá-la algum dia. As histórias que ouvi...</Page>
+    
     
     </Text>
     <Text huntingZoneId="204" id="21" villagerId="1119">
          
+         
         <Page social="0">O Durignite não parece muito, mas é imensamente poderoso.</Page>
+    
     
     </Text>
     <Text huntingZoneId="61" id="22" prevId="20" villagerId="1001">
          
+         
         <Page social="5">Vamos cuidar disso, &lt;PCNAME&gt;. Podemos fazer com que o regimento da Espada de Kaia tome a mina e expulse os mortos-vivos. Assim, teremos um suprimento ininterrupto de durignita. Isso é o mais importante.&lt;BR&gt;&lt;BR&gt;Sim, sim, é claro que a vida dos mineiros também é importante.&lt;BR&gt;&lt;BR&gt;Lembra-se de toda aquela durignita que pegamos emprestada? Você pode dizer a todos que poderemos pagá-las em breve?</Page>
+    
     
     </Text>
     <Text huntingZoneId="61" id="23" prevId="22" villagerId="1029">
          
+         
         <Page social="5">Eu posso ser paciente. É uma virtude, certo? &lt;BR&gt;&lt;BR&gt;Muitas virtudes são superestimadas, mas paciência... paciência eu até gosto.&lt;BR&gt;&lt;BR&gt;Quando eu receber minha durignite de volta, você vai entregá-la... pessoalmente?</Page>
+    
     
     </Text>
     <Text huntingZoneId="61" id="24" prevId="22" villagerId="1042">
          
+         
         <Page social="4">Se não fosse pelos atrasos das caravanas, eu nem estaria aqui, &lt;PCNAME&gt;. E agora você diz que não há nada com que se preocupar.&lt;BR&gt;&lt;BR&gt;Eu estou com minhas malas prontas. Por via das dúvidas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="61" id="25" prevId="22" villagerId="1038">
          
+         
         <Page social="4">Bem, eu gostaria de ter minha durignite de volta, mas aqueles pobres mineiros! &lt;BR&gt;&lt;BR&gt;Seus chefes parecem muito felizes com a durignite, mas acho que eles não precisam lidar com as famílias em luto, não é?</Page>
+    
     
     </Text>
     <Text huntingZoneId="61" id="26" prevId="22" villagerId="1100">
          
+         
         <Page social="4">Atrasos, desculpas, atrasos, desculpas...&lt;BR&gt;&lt;BR&gt;"Mortos-vivos tomaram conta das minas" - história improvável. Provavelmente algum oficial de suprimentos enriquecendo no mercado negro.&lt;BR&gt;&lt;BR&gt;Olha, estou feliz que a cidade esteja segura. Mas não posso terminar essa escultura de luz até que seus chefes me paguem a durignita que emprestei a eles em um acesso de patriotismo insensato.</Page>
+    
     
     </Text>
     <Text huntingZoneId="61" id="27" prevId="23" villagerId="1001">
          
+         
         <Page social="5">Mesmo que eles não estejam vendo o quadro geral, &lt;PCNAME&gt;, estou feliz que você esteja.&lt;BR&gt;&lt;BR&gt;Você recuperou a durignita, e isso é o mais importante.&lt;BR&gt;&lt;BR&gt;Aqui está um símbolo de nossa gratidão - uma pequena coisa para lembrar de Castanica.</Page>
+    
     
     </Text>
 </QuestDialog>

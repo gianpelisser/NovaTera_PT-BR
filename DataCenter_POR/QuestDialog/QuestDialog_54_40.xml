@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="54" id="40" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="40" huntingZoneId="54" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="254" id="100" prevId="0" villagerId="1010">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="254" id="2" prevId="0" villagerId="1010">
          
+         
         <Page social="4">Durante eras, as fadas de Seeliewood nunca se preocuparam com os perigos que vinham de cima - até o dia em que os dracolotes de coração de brasa romperam seu escudo protetor. Agora, os fey estão constantemente lutando contra doenças, argons e todas as outras ameaças à sua terra sagrada.&lt;BR&gt;&lt;BR&gt;Não me importa por que os dracoloths decidiram aterrissar aqui. Estou mais preocupado em saber como eles conseguiram passar por aqui.&lt;BR&gt;&lt;BR&gt;Tenho uma teoria: deve haver algo especial nas peles dos dracolotes. Você poderia me trazer algumas para examinar?</Page>
+    
     
     </Text>
     <Text huntingZoneId="254" id="3" prevId="2" villagerId="1010">
          
+         
         <Page social="4">Obrigado por isso.&lt;BR&gt;&lt;BR&gt;Essa pele de brasa pode me ensinar muito sobre como os dracolotes contornaram as barreiras mágicas. Ou talvez eu consiga um terno novo e elegante com ele.&lt;BR&gt;&lt;BR&gt;Obrigado em ambos os casos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="254" id="4" villagerId="1010">
          
+         
         <Page social="0">Os dracolotes romperam um escudo protetor que Isren e os fey montaram.&lt;BR&gt;&lt;BR&gt;Vale a pena investigar isso.</Page>
+    
     
     </Text>
 </QuestDialog>

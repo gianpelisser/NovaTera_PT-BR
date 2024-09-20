@@ -1,31 +1,42 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="5" id="25" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="5" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="205" id="100" prevId="0" villagerId="1004">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="205" id="2" prevId="0" villagerId="1004">
          
+         
         <Page social="5">Os tuwangis continuam vagando para fora de sua área. Estava tudo bem até que eles começaram a atacar nossos soldados.&lt;BR&gt;&lt;BR&gt;Não há nada a ser feito com eles! Não posso falar com eles, mas matá-los parece... extremo. Eles são quase pessoas! &lt;NEXTPAGEBUTTON&gt;"Não há outro jeito?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="5">Bem, agora que você mencionou isso, ouvi rumores de coletores de ervas aqui e ali de que há realmente uma poção que permite que o bebedor fale a língua tuwangi.&lt;BR&gt;&lt;BR&gt;Se os ingredientes que ouvi estiverem certos, precisarei de {@LinkCreature:205#1023#Sabão de Ervas do Quagmire} e {@LinkCreature:5#5#Muco de Sporewalker Enevoado}.&lt;BR&gt;&lt;BR&gt;Não é agradável de manusear, mas é fácil de encontrar. O que você acha?</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="3" prevId="2" villagerId="1023">
          
+         
         <Page social="0">(Essa erva do pântano tem folhas frescas e saudáveis. Parece ser exatamente o que lhe foi pedido para colher).</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="4" prevId="3" villagerId="1002">
          
+         
         <Page social="5">Uau. Eu tinha me esquecido do cheiro horrível dessa coisa! E você quer que eu faça o que com ele? Hrm.&lt;BR&gt;&lt;BR&gt;Bem, já que é para Jaedon, vá em frente e dê aqui.</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="5" villagerId="1002">
          
+         
         <Page social="0">Você tem o que eu preciso?</Page>
+    
     
     </Text>
 </QuestDialog>

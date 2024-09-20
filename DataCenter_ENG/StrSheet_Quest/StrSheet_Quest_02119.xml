@@ -1,18 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="60403001" string="Trying to Be the Shepherd" />
-    <String id="60403002" string="Done talking!" />
-    <String id="60403003" string="Enjoy the day, hero!" />
-    <String id="60403004" string="" />
-    <String id="60403005" string="" />
-    <String id="60403006" string="Find {@LinkCreature:71#3003#Ruma} in {@Rgn:71001$$Bastion}." />
-    <String id="60403007" string="&quot;I'm on it!&quot;" />
-    <String id="60403008" string="Find and herd the sheep." />
-    <String id="60403009" string="Baa! Baa!" />
-    <String id="60403010" string="Herd the {@LinkCreature:71#3016#sheep} to {@LinkCreature:71#3003#Ruma}." />
-    <String id="60403011" string="Find and herd the sheep." />
-    <String id="60403012" string="Baa! Baa!" />
-    <String id="60403013" string="Walk the {@LinkCreature:71#3016#sheep} to Ruma." />
-    <String id="60403014" string="&quot;Thanks. Really, thanks.&quot;" />
-    <String id="60403015" string="Talk to {@LinkCreature:71#3003#Ruma}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="60401001" string="Up the Creek" />
+    <String id="60401002" string="Done listening?" />
+    <String id="60401003" string="Feed 'em any time you want!" />
+    <String id="60401004" string="" />
+    <String id="60401005" string="" />
+    <String id="60401006" string="" />
+    <String id="60401007" string="Go see {@LinkCreature:71#3015#Umma} of the Hyderad Legacy near the river in {@Rgn:71001$$Bastion}." />
+    <String id="60401008" string="&quot;That's it?&quot;" />
+    <String id="60401009" string="Activate the fish feeders in the streams outside {@Rgn:71001$$Bastion}." />
+    <String id="60401010" string="Activate the fish feeders in the streams outside {@Rgn:71001$$Bastion}." />
+    <String id="60401011" string="Activate the fish feeders in the streams outside {@Rgn:71001$$Bastion}." />
+    <String id="60401012" string="&quot;It was restful.&quot;" />
+    <String id="60401013" string="Report back to {@LinkCreature:71#3015#Umma}." />
 </StrSheet_Quest>

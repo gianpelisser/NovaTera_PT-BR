@@ -1,54 +1,74 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="605" id="19" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="19" huntingZoneId="605" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="63" id="100" prevId="0" villagerId="3002">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="2" prevId="0" villagerId="3002">
          
+         
         <Page social="4">As Mãos de Velika querem provar nosso valor na luta contra o mal. Hoje, estamos procurando fazer estragos no {@Rgn:9002#Azarel Labyrinth}. Hoje, estamos tentando fazer uma mossa no {@Rgn:9002#Labirinto de Azarel}.&lt;BR&gt;&lt;BR&gt;Fale com {@LinkCreature:63#3003#Elthienne} se quiser ajudar na causa.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="3003">
          
+         
         <Page social="4">Você é um soldado da federação, obviamente, então isso é um pouco sorrateiro da nossa parte.&lt;BR&gt;&lt;BR&gt;Basicamente, gostaríamos que você acabasse com um monte de monstros no labirinto e deixasse as Mãos de Velika levarem o crédito. Isso seria muito bom para nossa reputação, er, causa.&lt;BR&gt;&lt;BR&gt;O que você acha?</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="4" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="5" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="6" prevId="2" villagerId="3002">
          
+         
         <Page social="5">{O Labirinto de Azarel está cheio de monstros estranhos, certo? &lt;BR&gt;&lt;BR&gt;Eu não duraria nem um minuto naquele labirinto. Mas você trabalha para mim, então é como se eu tivesse feito isso, certo? &lt;BR&gt;&lt;BR&gt;Além disso, Elthienne fará com que você seja pago. Todos saem ganhando.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="7" villagerId="3002">
          
+         
         <Page social="0">Derrote {@LinkCreature:9#1400#Azarel's juggernauts} em {@Rgn:9002#Azarel's Labyrinth} e traga de volta a prova de suas mortes.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="8" prevId="6" villagerId="3002">
          
+         
         <Page social="5">Obrigado por tudo o que você fez por nós, &lt;PCNAME&gt;. Você se tornou um verdadeiro amigo das Mãos. Isso significa muito.&lt;BR&gt;&lt;BR&gt;Elthienne tem seu pagamento, como de costume.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="9" villagerId="3002">
          
+         
         <Page social="0">Cace {@LinkCreature:9#1410#Labyrinthine stalkers} em {@Rgn:9002#Azarel's Labyrinth} e traga de volta a prova de suas mortes.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="10" prevId="8" villagerId="3003">
          
+         
         <Page social="4">Obrigado, &lt;PCNAME&gt;. Isso significa muito para as Mãos de Velika. Seu serviço para nós é inestimável.&lt;BR&gt;&lt;BR&gt;Inestimável ou não, aqui está o seu pagamento por um trabalho bem feito, como sempre.</Page>
+    
     
     </Text>
 </QuestDialog>

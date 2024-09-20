@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="63" voiceTypeId="0">
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
     <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
     <Text id="100" huntingZoneId="63" prevId="0" villagerId="1600">
-         
         <Page social="0" />
-    
     </Text>
     <Text id="2" huntingZoneId="63" prevId="0" villagerId="1600">
-         
         <Page social="4">Hello again! We are already so close with you, as real friends are, hee! Okay, let's get down to business. We have finally discovered something that resembles the power of the Fehu Rune. One adventurer has recently visited the Sky Garden of Saleron. So, he was talking about the fight with the claw of Saleron Valtrissir to his comrades, and I briefly overheard. This is something surprising, since the adventurer, who is far from being a rookie, could not handle the monster. What got me interested? The experienced warrior never hit his opponent, as if Valtrissir was supported by some external force! Sounds like a stroke of luck to me, don't you think? Help explore the Garden! If you find something, be sure to bring it to me! You know I won't be in debt!</Page>
-    
     </Text>
     <Text id="3" huntingZoneId="63" prevId="2" villagerId="1600">
-         
         <Page social="4">Did you find something?! Woohoo! I was sure that I was not mistaken! You have no idea how happy that made me! Oh, sorry, I almost forgot to reward you!</Page>
-    
     </Text>
     <Text id="4" huntingZoneId="63" villagerId="1600">
-         
         <Page social="0">A few clues on another Rune... Coming soon, Mrs. Elinu...</Page>
-    
     </Text>
 </QuestDialog>

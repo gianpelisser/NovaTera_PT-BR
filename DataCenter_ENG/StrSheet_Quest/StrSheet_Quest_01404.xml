@@ -1,6 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4942001" string="{@Creature:76#1011}’s Missive" />
-    <String id="4942002" string="&quot;She sure likes scavenger hunts.&quot;" />
-    <String id="4942003" string="Find the stone grave with Linkia's next clue." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4938001" string="An Ancient Spirit" />
+    <String id="4938002" string="Farewell, dear friend!" />
+    <String id="4938003" string="&quot;I'll do that.&quot;" />
+    <String id="4938004" string="Speak with the {@LinkCreature:249#1002}." />
+    <String id="4938005" string="Use the iteris shard near the {@Rgn:49005}." />
+    <String id="4938006" string="Feel the energy!" />
+    <String id="4938007" string="&quot;I'm honored. Thank you.&quot;" />
+    <String id="4938008" string="Speak again with the {@LinkCreature:249#1002}." />
 </StrSheet_Quest>

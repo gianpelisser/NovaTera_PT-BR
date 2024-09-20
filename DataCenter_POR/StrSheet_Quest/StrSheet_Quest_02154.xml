@@ -1,19 +1,24 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="60519001" string="Todos por um, estou certo?" />
-    <String id="60519002" string="&quot;Eu falarei com ela.&quot;" />
-    <String id="60519003" string="" />
-    <String id="60519004" string="" />
-    <String id="60519005" string="Fale com {@LinkCreature:63#3003#Elthienne}." />
-    <String id="60519006" string="&quot;Farei o meu melhor&quot;." />
-    <String id="60519007" string="Prova de morte: Juggernauts" />
-    <String id="60519008" string="Elimine {@LinkCreature:9#1400#azarel's juggernauts} em {@Rgn:9002$$Azarel's Labyrinth} e entregue a prova para {@LinkCreature:63#3002#Taratia} em Velika." />
-    <String id="60519009" string="" />
-    <String id="60519010" string="&quot;Espero que isso ajude.&quot;" />
-    <String id="60519011" string="Prova de morte: Stalkers" />
-    <String id="60519012" string="Caçar {@LinkCreature:9#1410#labyrinthine stalkers} em {@Rgn:9002$$Azarel's Labyrinth} e entregar a prova para {@LinkCreature:63#3002#Taratia} em Velika." />
-    <String id="60519013" string="" />
-    <String id="60519014" string="&quot;Espero que isso ajude.&quot;" />
-    <String id="60519015" string="&quot;Boa sorte.&quot;" />
-    <String id="60519016" string="Fale com {@LinkCreature:63#3003#Elthienne}." />
+    <String id="60517001" string="Caça Feliz" />
+    <String id="60517002" string="&quot;Ótimo, obrigado.&quot;" />
+    <String id="60517003" string="" />
+    <String id="60517004" string="" />
+    <String id="60517005" string="" />
+    <String id="60517006" string="Vá até {@LinkCreature:63#3003#Elthienne} na Velika Merchant Guild." />
+    <String id="60517007" string="&quot;Você pode contar comigo.&quot;" />
+    <String id="60517008" string="Prova de caça" />
+    <String id="60517009" string="Caçar {@LinkCreature:4#1011#fangspawns} em {@Rgn:4001#Fyrmount} e entregar a prova de suas mortes para {@LinkCreature:63#3002#Taratia} em Velika." />
+    <String id="60517010" string="" />
+    <String id="60517011" string="&quot;Obrigado.&quot;" />
+    <String id="60517012" string="Prova de caça" />
+    <String id="60517013" string="Caçar {@LinkCreature:4#1021#grunnars sulfurosos} em {@Rgn:4001#Fyrmount} e entregar a prova de suas mortes a {@LinkCreature:63#3002#Taratia} em Velika." />
+    <String id="60517014" string="" />
+    <String id="60517015" string="&quot;Obrigado.&quot;" />
+    <String id="60517016" string="Prova de caça" />
+    <String id="60517017" string="Cace {@LinkCreature:4#2011#voracious fangspawns} em {@Rgn:4001#Fyrmount} e entregue a prova de suas mortes para {@LinkCreature:63#3002#Taratia} em Velika." />
+    <String id="60517018" string="" />
+    <String id="60517019" string="&quot;Obrigado.&quot;" />
+    <String id="60517020" string="&quot;Obrigado.&quot;" />
+    <String id="60517021" string="Fale com {@LinkCreature:63#3003#Elthienne}." />
 </StrSheet_Quest>

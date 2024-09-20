@@ -1,51 +1,70 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="46" id="2" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="46" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0">Você entrou nas {@Rgn:9012001$$Three Towers Spires} para descobrir muitas vítimas mortas e argonizadas, incluindo Yasring, armazenadas em casulos de argons. Você não conseguiu salvá-los, então buscou vingança contra os argonss nas torres. Você encontrou apenas um sobrevivente: uma castânica chamada Hasmina.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0">Diretiva Valkyon:&lt;BR&gt;&lt;BR&gt;Perdemos o contato com uma expedição às Três Torres.&lt;BR&gt;&lt;BR&gt;Entre nas {@Rgn:9012001$$$Espiralas das Três Torres} e procure por sobreviventes - especialmente Yasring.</Page>
+    
     
     </Text>
     <Text huntingZoneId="46" id="3" villagerId="2">
          
+         
         <Page social="0">Ótimo, agora estamos dentro.&lt;BR&gt;&lt;BR&gt;Este lugar me dá arrepios. Já descobrimos muitas das funções das torres, mas essa área ainda é um mistério.&lt;BR&gt;&lt;BR&gt;Fique de olhos abertos e alerta para uma possível emboscada.</Page>
+    
     
     </Text>
     <Text huntingZoneId="412" id="4" prevId="2" villagerId="2009">
          
+         
         <Page social="13">Minha equipe e eu levaremos Yasring - ou o que restou dela - para um lugar mais seguro. Estamos todos em choque, mas alguém tem que relatar isso.&lt;BR&gt;&lt;BR&gt;Entre nós dois, estou preocupado com os nervos dos outros batedores. Você vai na frente. Eu vou trazer meu esquadrão de volta para que possamos nos reagrupar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="412" id="5" prevId="4" villagerId="2005">
          
+         
         <Page social="13">Eu estava prestes a perder a esperança, e então você apareceu. Você não tem ideia de como é bom ver alguém que não brilha em azul.</Page>
+    
     
     </Text>
     <Text huntingZoneId="412" id="6" prevId="5" villagerId="2006">
          
+         
         <Page social="1">N-não ainda, está bem? Vamos sair daqui.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="7" prevId="6" villagerId="2001">
          
+         
         <Page social="8">Ouvimos as explosões. Atingir o coração da operação de argons só pode trazer coisas boas. Tenho apenas alguns acréscimos a fazer em meu relatório.&lt;BR&gt;&lt;BR&gt;Vai esperar um pouco? &lt;NEXTPAGEBUTTON&gt;"Como quiser."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Aqui está ele. Este relatório contém tudo o que aprendemos sobre as Três Torres e os argonss. Certifique-se de que o Comandante Tamur o receba.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="8" prevId="7" villagerId="2008">
          
+         
         <Page social="4">Antes que eu me esqueça... obrigada. Eu sou {@Creature:246#2008$$Hasmina}.&lt;BR&gt;&lt;BR&gt;Não esperava sobreviver às Três Torres. Para dizer a verdade, não sei se queria. &lt;BR&gt;&lt;BR&gt;Eu lhe devo minha vida.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="9" prevId="8" villagerId="2008">
          
+         
         <Page social="4">Preciso voltar para {@Rgn:84001$$Kaiator}. A luta ainda não acabou, mas tenho a sensação de que nossa jornada está apenas começando.</Page>
+    
     
     </Text>
 </QuestDialog>

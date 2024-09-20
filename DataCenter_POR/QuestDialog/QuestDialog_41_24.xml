@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="41" id="24" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="41" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="241" id="100" prevId="0" villagerId="1016">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="241" id="2" prevId="0" villagerId="1016">
          
+         
         <Page social="4">A tribo Black Claw é um dos grupos de orcs mais hostis por aqui. Eles até atacam Frontera de vez em quando. Isso não pode continuar.&lt;BR&gt;&lt;BR&gt;Eu gostaria que você caçasse alguns {@LinkCreature:41#2004#combatentes da Garra Negra} e {@LinkCreature:41#2005#raiders} para mim. E traga suas armas de volta para {@LinkCreature:241#1003$$Jaebel}. Ela as pendurará ao redor do acampamento como um aviso.</Page>
+    
     
     </Text>
     <Text huntingZoneId="241" id="3" prevId="2" villagerId="1003">
          
+         
         <Page social="4">Bom trabalho. Isso deve fazer com que eles pensem duas vezes antes de nos atacar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="241" id="4" villagerId="1003">
          
+         
         <Page social="0">Você encontrará a tribo Black Claw no extremo norte do Feral Valley. Traga-me algumas armas para que eu possa agitá-las como um aviso.</Page>
+    
     
     </Text>
 </QuestDialog>

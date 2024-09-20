@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4773001" string="(Guild) Order to Subjugate the Blightroar" />
-    <String id="4773002" string="Continuous subjugation always brings peace." />
-    <String id="4773003" string="Thank you for your hard work." />
-    <String id="4773004" string="Token of Subjugating the Blightroar" />
-    <String id="4773005" string="&quot;It's an honor to serve.&quot;" />
-    <String id="4773006" string="Kill {@Creature:47#3001#contaminated wendigos}, {@Creature:47#3002#argonomorph wendigos}, and {@Creature:47#3003#argonomorph wendigo shamans} around {@Rgn:47004$$Blightroar} and collect tokens." />
-    <String id="4773007" string="Report to Laetesha at Pathfinder Post when mission is complete." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4735001" string="Faerie Fury" />
+    <String id="4735002" string="Kill the {@Creature:47#2002#argonomorph faeries} who are interfering with the planting of faerie saplings." />
+    <String id="4735003" string="That wasn't an easy job. Thanks." />
+    <String id="4735004" string="Kill {@creature:47#2002#argonomorph faeries} in the {@Rgn:47015$$Petrified Mushroom Field}." />
+    <String id="4735005" string="&quot;It's an honor to serve.&quot;" />
+    <String id="4735006" string="Report back to {@creature:247#1018$$Lenton} in {@Rgn:47008$$Eastwatch}." />
 </StrSheet_Quest>

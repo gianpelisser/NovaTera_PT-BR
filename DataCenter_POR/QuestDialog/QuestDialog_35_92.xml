@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="35" id="92" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="35" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="74" id="100" prevId="0" villagerId="1019">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="74" id="2" prevId="0" villagerId="1019">
          
+         
         <Page social="5">Tente não se empolgar demais. Há muitas ordens de morte para todos.&lt;BR&gt;&lt;BR&gt;Essa parece bastante simples. Vá destruir os {@LinkCreature:35#11#vulcan wastewalkers}. Fácil.&lt;BR&gt;&lt;BR&gt;Vá falar com Kaltamira em Wyrmgorge quando terminar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="235" id="3" prevId="2" villagerId="1006">
          
+         
         <Page social="5">Ótimo trabalho.&lt;BR&gt;&lt;BR&gt;Aqui está sua recompensa.</Page>
+    
     
     </Text>
     <Text huntingZoneId="235" id="4" villagerId="1006">
          
+         
         <Page social="0">Oh, isso não vai funcionar. Tente novamente.</Page>
+    
     
     </Text>
 </QuestDialog>

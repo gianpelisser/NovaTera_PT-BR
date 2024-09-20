@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="25" id="26" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="25" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="225" id="100" prevId="0" villagerId="1006">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="225" id="2" prevId="0" villagerId="1006">
          
+         
         <Page social="4">Todos os Cultistas são irritantes, mas o pior é o {@LinkCreature:25#1051#skeletal pikemen}. Eles continuam vindo atrás de nós, mesmo depois de perderem todos os membros. Acho que os mortos não sentem dor, mas olhar para seus corpos sem membros se contorcendo é simplesmente... assustador. O Atel Akaad enfiou núcleos frenéticos neles. É o que os mantém em movimento.&lt;BR&gt;&lt;BR&gt;Vá coletar os núcleos e depois os leve para Orlaith no Refúgio do Erudito.</Page>
+    
     
     </Text>
     <Text huntingZoneId="225" id="3" prevId="2" villagerId="1015">
          
+         
         <Page social="4">Obrigado! Espero que possamos aproveitar essa oportunidade e acabar com todos eles. Não tenho certeza de como conseguiremos, pois somos poucos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="225" id="4" villagerId="1015">
          
+         
         <Page social="0">Se quisermos eliminar esses piqueiros esqueléticos, preciso que você colete mais núcleos frenéticos.</Page>
+    
     
     </Text>
 </QuestDialog>

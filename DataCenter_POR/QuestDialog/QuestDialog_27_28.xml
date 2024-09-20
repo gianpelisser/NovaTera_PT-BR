@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="27" id="28" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="27" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="227" id="100" prevId="0" villagerId="1017">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="227" id="2" prevId="0" villagerId="1017">
          
+         
         <Page social="5">Nosso progresso é impedido por {@LinkCreature:27#3#ancient speargolems}, que bloqueiam a rota para a Estação de Libertação.&lt;BR&gt;&lt;BR&gt;Preciso que você abra caminho através dessas pragas para que nossos mensageiros de suprimentos façam suas rondas. Os exércitos não só viajam em seus estômagos, como também vivem ou morrem por eles. Não vamos ser derrotados por falta de alimentos básicos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="227" id="3" prevId="2" villagerId="1017">
          
+         
         <Page social="5">Sua maneira de lidar com a situação foi eficiente. Eu aprovo.&lt;BR&gt;&lt;BR&gt;Vou alertar o intendente para que envie o próximo grupo de corredores.</Page>
+    
     
     </Text>
 </QuestDialog>

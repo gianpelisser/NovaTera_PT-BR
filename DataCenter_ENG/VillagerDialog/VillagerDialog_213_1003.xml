@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="213" id="1003" voiceTypeId="47">
-    <Text huntingZoneId="213" id="1" endSocial="14" prevId="0" villagerId="1003">
-         
-        <Page social="4">Wow, the federation doesn't know when they've lost, do they?&lt;BR&gt;&lt;BR&gt;Oh, was that my outside voice? I meant, "Welcome to the Island of Dawn, new recruit!"</Page>
-    
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1003" huntingZoneId="213" voiceTypeId="47" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="213" prevId="0" villagerId="1003" endSocial="14">
+        <Page social="4">The Valkyon Federation is a grand undertaking, worthy of respect.&lt;BR&gt;&lt;BR&gt;Never forget those who have come before, recruit.</Page>
     </Text>
 </VillagerDialog>

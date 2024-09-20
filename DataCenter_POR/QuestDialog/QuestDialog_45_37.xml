@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="45" id="37" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="45" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="245" id="100" prevId="0" villagerId="1026">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="245" id="2" prevId="0" villagerId="1026">
          
+         
         <Page social="4">Aqui o Dhersik tem uma teoria de que essas hidrânias enormes são comestíveis. Eu discordo.&lt;BR&gt;&lt;BR&gt;Elas são as flores fuschia realmente grandes e brilhantes que crescem diretamente da água do pântano. Elas não crescem tão grandes em nenhum outro lugar a não ser aqui. Os argonss devem ter algo a ver com isso.&lt;BR&gt;&lt;BR&gt;Se você me trouxer algumas, só deixarei que ela coma uma pequena lasca. Eu prometo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="245" id="3" prevId="2" villagerId="1026">
          
+         
         <Page social="4">Se houver uma maneira de torná-los comestíveis, nós a encontraremos. No entanto, não é algo em que eu apostaria.</Page>
+    
     
     </Text>
     <Text huntingZoneId="245" id="4" villagerId="1026">
          
+         
         <Page social="0">Você já encontrou alguma hidrângea? Elas são realmente grandes e cor-de-rosa - você não pode perdê-las.</Page>
+    
     
     </Text>
 </QuestDialog>

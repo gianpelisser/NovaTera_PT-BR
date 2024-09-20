@@ -1,39 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="63" id="83" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="63" id="100" prevId="0" villagerId="1136">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="83" huntingZoneId="63" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="1136">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="63" id="2" prevId="0" villagerId="1136">
-         
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="1136">
         <Page social="0">Hey, I don't suppose you're on your way to the Creation Workshop in Velika, are you? I'm waiting for a weapon from them—do you think you could stop in and ask Santia when it will be finished?&lt;BR&gt;&lt;BR&gt;Only if you happen to find yourself going that way, of course.</Page>
-    
     </Text>
-    <Text huntingZoneId="63" id="3" prevId="2" villagerId="1098">
-         
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="1098">
         <Page social="0">Oh, Velika's left...well, nevermind. I completely forgot about Jefaln's weapon. I'm absolutely swamped, though—it would really help me out if you could get materials from Thura and a design from Babur, and then process this ore for me.&lt;BR&gt;&lt;BR&gt;Don't worry, I'll make the actual weapon, and it won't take long, but it would go so much faster if the ore was already processed.</Page>
-    
     </Text>
-    <Text huntingZoneId="63" id="4" prevId="3" villagerId="1190">
-         
+    <Text id="4" huntingZoneId="63" prevId="3" villagerId="1190">
         <Page social="0">Hello! I handle reagents and parts, parts and reagents! They sound like the same thing. I guess they are, really, but everyone refers to them as separate things.&lt;BR&gt;&lt;BR&gt;Anyway, you use them for different things. And in any case, I carry both. What did you want?</Page>
-    
     </Text>
-    <Text huntingZoneId="63" id="5" prevId="4" villagerId="1196">
-         
+    <Text id="5" huntingZoneId="63" prevId="4" villagerId="1196">
         <Page social="0">Designs, designs, I'm up to my eyeballs in designs. You look rather plaid. Ha! Ha ha!&lt;BR&gt;&lt;BR&gt;Ha? Eh, design merchant humor. You wouldn't get it.&lt;BR&gt;&lt;BR&gt;Anyhow, here's the design you'll need.</Page>
-    
     </Text>
-    <Text huntingZoneId="63" id="6" prevId="5" villagerId="1098">
-         
+    <Text id="6" huntingZoneId="63" prevId="5" villagerId="1098">
         <Page social="0">Nicely done. Take this weapon design for your help.</Page>
-    
     </Text>
-    <Text huntingZoneId="63" id="7" villagerId="1098">
-         
+    <Text id="7" huntingZoneId="63" villagerId="1098">
         <Page social="0">What are you staring at? Your arms broken?&lt;BR&gt;&lt;BR&gt;Well, I didn't see materials in them, so I assumed you had trouble lifting them.</Page>
-    
     </Text>
 </QuestDialog>

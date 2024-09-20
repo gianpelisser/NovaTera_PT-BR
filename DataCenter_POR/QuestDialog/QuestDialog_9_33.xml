@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="9" id="33" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="9" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="209" id="100" prevId="0" villagerId="1005">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="209" id="2" prevId="0" villagerId="1005">
          
+         
         <Page social="4">Montamos uma frente nas profundezas do Azarel's Labyrinth. Em retrospecto, foi arrogância pensar que poderíamos manter um acampamento tão perto do inimigo. Infelizmente, o centurião do acampamento tem uma cópia de nossos planos de batalha. Se esses planos caírem em mãos inimigas, estaremos condenados.&lt;BR&gt;&lt;BR&gt;Leve um grupo de combatentes confiáveis ao &lt;font color='#660000'&gt;Acampamento de Avanço&lt;/font&gt; nas Profundezas do Labirinto de Azarel e destrua esses planos.&lt;BR&gt;&lt;BR&gt;A velocidade é essencial, portanto, vá falar com {@LinkCreature:209#2000$$Tulutulu}. Ele pode mandá-lo para as Profundezas imediatamente.</Page>
+    
     
     </Text>
     <Text huntingZoneId="209" id="3" prevId="2" villagerId="2000">
          
+         
         <Page social="4">Está com pressa? Posso teletransportá-lo instantaneamente para as Profundezas do Labirinto de Azarel por uma pequena taxa.&lt;BR&gt;&lt;BR&gt;Sem confusão, sem problemas. Eu o recomendo muito. O caminho mais longo pode ser traiçoeiro.</Page>
+    
     
     </Text>
     <Text huntingZoneId="209" id="4" prevId="3" villagerId="1026">
          
+         
         <Page social="0">(O corpo do centurião mostra ferimentos graves de uma batalha campal.)&lt;BR&gt;&lt;BR&gt;(Sua busca revela uma bolsa de couro escondida sob sua armadura, com os planos de batalha dentro.)&lt;BR&gt;&lt;BR&gt;(Ouvindo um som próximo, você enfia os planos na boca, mastiga furiosamente e engole.)</Page>
+    
     
     </Text>
 </QuestDialog>

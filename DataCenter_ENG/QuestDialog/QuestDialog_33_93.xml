@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="33" id="93" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="73" id="100" prevId="0" villagerId="1009">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="33" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1009">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="73" id="2" prevId="0" villagerId="1009">
-         
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1009">
         <Page social="0">The torturers responsible for the atrocities are grouping near Bloody Depths. Without them, the Citadel of Torment would be a far less frightening place.&lt;BR&gt;&lt;BR&gt;You'd improve morale and make us all better off if you could kill the {@LinkCreature:33#67#coalheart} and {@LinkCreature:33#17#ebon inquisitors}, as well as the {@LinkCreature:33#15#mekonari blood mages} who protect them.&lt;BR&gt;&lt;BR&gt;Not a small task, but an important one. Let Iorine know when you finish. She'll spread the word.</Page>
-    
     </Text>
-    <Text huntingZoneId="233" id="3" prevId="2" villagerId="1007">
-         
+    <Text id="3" huntingZoneId="233" prevId="2" villagerId="1007">
         <Page social="4">This reward is not near enough for what you've done, but take it.</Page>
-    
     </Text>
-    <Text huntingZoneId="233" id="4" villagerId="1007">
-         
+    <Text id="4" huntingZoneId="233" villagerId="1007">
         <Page social="0">We don't fear much, but the torturers are high on the list.</Page>
-    
     </Text>
 </QuestDialog>

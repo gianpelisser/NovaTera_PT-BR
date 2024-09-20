@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4529001" string="It Lives" />
-    <String id="4529002" string="Look at the water. It's full of information." />
-    <String id="4529003" string="The whole swamp may be alive. Imagine that." />
-    <String id="4529004" string="Zalgeg Coil" />
-    <String id="4529005" string="Destroy a {@creature:45#7001$$zalgeg coil} near {@Rgn:45011$$Swampwatch Camp}, and collect a fragment." />
-    <String id="4529006" string="Take the fragment back to Setahl." />
-    <String id="4529007" string="&quot;Happy to help.&quot;" />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4525001" string="Blowing Bubbles" />
+    <String id="4525002" string="Is it protecting the tuwangis?" />
+    <String id="4525003" string="We're a step closer to knowing what it does." />
+    <String id="4525004" string="Break {@creature:45#7002#trolnik spires} inside the argon force field in the {@Rgn:45003$$Vale of the Reaper} and collect controller shards." />
+    <String id="4525005" string="&quot;For the federation.&quot;" />
+    <String id="4525006" string="Collect controller shards." />
+    <String id="4525007" string="Deliver the shards to Chaxanaz at {@Rgn:45007$$Field Base Tenacity}." />
 </StrSheet_Quest>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="7" id="94" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="7" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="60" id="100" prevId="0" villagerId="1013">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="60" id="2" prevId="0" villagerId="1013">
          
+         
         <Page social="0">Nossos esforços para deter os Scions of Lok são dificultados por seus guardiões. Você deve levar a luta até eles.&lt;BR&gt;&lt;BR&gt;Mate os {@LinkCreature:7#12#Lokian lancers} e os {@LinkCreature:7#13#berserkers} nos Remanescentes de Cardovek.&lt;BR&gt;&lt;BR&gt;Relate ao Prefeito Nale no Sanctum Mysterium quando sua missão estiver concluída.</Page>
+    
     
     </Text>
     <Text huntingZoneId="207" id="3" prevId="2" villagerId="1016">
          
+         
         <Page social="5">Pelos deuses, você é um grande trunfo. Onde você estava quando fomos enviados pela primeira vez? Não importa. Você está aqui agora.</Page>
+    
     
     </Text>
     <Text huntingZoneId="207" id="4" villagerId="1016">
          
+         
         <Page social="0">Parece que você ainda não completou sua missão.</Page>
+    
     
     </Text>
 </QuestDialog>

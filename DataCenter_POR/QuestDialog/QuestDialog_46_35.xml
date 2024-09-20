@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="46" id="35" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="46" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="246" id="100" prevId="0" villagerId="1024">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="246" id="2" prevId="0" villagerId="1024">
          
+         
         <Page social="4">Uma coisa eu digo sobre os kulkaris: eles são persistentes. Mesmo que tenham sido argonificados, eles ainda têm {@LinkCreature:46#202#argonomorph kulkari shamans}. Não sei se eles ainda têm uma função religiosa, mas, independentemente disso, eles precisam morrer.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="3" prevId="2" villagerId="1024">
          
+         
         <Page social="4">Provavelmente foi uma bênção matar os xamãs argonomorfos. Não é mais como se eles pudessem "falar com os espíritos" ou algo do gênero.</Page>
+    
     
     </Text>
 </QuestDialog>

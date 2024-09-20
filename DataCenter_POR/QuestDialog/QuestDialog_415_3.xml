@@ -1,97 +1,136 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="415" id="3" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="415" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0">Os membros da expedição que sobreviveram ao pouso devem se reagrupar na praia e encontrar o Comandante Elleon.</Page>
+    
     
     </Text>
     <Text huntingZoneId="415" id="3" prevId="2" villagerId="1005">
          
+         
         <Page social="4">Estou ficando velho demais para isso, &lt;PCCLASS:lcase&gt;. Os recifes, o clima e os inimigos nos penhascos nos deixaram completamente desorganizados.&lt;BR&gt;&lt;BR&gt;Não foi exatamente o desembarque triunfal que o Comandante Elleon planejou, não é? &lt;BR&gt;&lt;BR&gt;Temos que nos organizar e sair desta praia!&lt;NEXTPAGEBUTTON&gt;"Estou pronto para a ação!"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">É bom ouvir isso. Nossa primeira prioridade são os feridos. Vocês conhecem o procedimento: triagem e depois tratamento.&lt;BR&gt;&lt;BR&gt;Os médicos estão espalhados pela praia como todo o resto, e preciso de relatórios sobre a situação. Fale com os médicos, entregue suprimentos a eles e volte para cá imediatamente!</Page>
+    
     
     </Text>
     <Text huntingZoneId="415" id="4" prevId="3" villagerId="1050">
          
+         
         <Page social="4">Apenas acrescentando o fôlego que os mares roubaram. Diga ao Ahdun que a maioria são afogamentos e quase afogamentos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="415" id="5" prevId="3" villagerId="1051">
          
+         
         <Page social="4">Você trouxe bandagens? Ótimo. Diga ao Ahdun que há algo com dentes nas águas profundas.&lt;NEXTPAGEBUTTON&gt;"Continue com o bom trabalho."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Cerca de metade das tropas conseguiu desembarcar, mas apenas um quarto está em condições de lutar.&lt;BR&gt;&lt;BR&gt;Diga a Ahdun que, se mais alguém estivesse chegando, já estaria aqui.</Page>
+    
     
     </Text>
     <Text huntingZoneId="415" id="6" prevId="3" villagerId="1052">
          
+         
         <Page social="0">Que tipo de intendente idiota coloca os médicos em um navio e os suprimentos em outro? &lt;BR&gt;&lt;BR&gt;Oh! É por isso que você está aqui. Vou levar esses suprimentos e dizer ao Ahdun que preciso de mais.</Page>
+    
     
     </Text>
     <Text huntingZoneId="415" id="7" prevId="4" villagerId="1005">
          
+         
         <Page social="4">Olhe para esta praia, &lt;PCNAME&gt;. As tropas com corpo são poucas e distantes entre si.&lt;BR&gt;&lt;BR&gt;Eu vou chamar os feridos ambulantes para ajudar os médicos. Precisamos prepará-lo para lutar.&lt;NEXTPAGEBUTTON&gt;"Estamos sendo atacados?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">No momento, não, mas essa praia lhe parece segura? &lt;BR&gt;&lt;BR&gt;O comandante Elleon foi à frente com os batedores, mas ele achava que tinha uma expedição inteira atrás dele. Temos que estabelecer contato com ele e nos reagrupar.&lt;BR&gt;&lt;BR&gt;Não vou mandá-lo adiante parecendo um rato afogado, no entanto. O intendente, Popomin, pode equipá-lo com o que quer que tenha chegado à praia. Rápido, &lt;PCNAME&gt;!</Page>
+    
     
     </Text>
     <Text huntingZoneId="415" id="8" prevId="7" villagerId="1007">
          
+         
         <Page social="4">Não me mate! Eu sou um não-combatente! &lt;BR&gt;&lt;BR&gt;Espere um minuto - você é um dos nossos! Você não está gemendo e tossindo água do mar como todo mundo, então achei que... não importa. &lt;BR&gt;&lt;BR&gt;Você quer equipamento? Desculpe, mas nenhum equipamento &lt;PCCLASS:lcase&gt; chegou à costa, a menos que os centuriões o tenham pegado. Verifique com eles.</Page>
+    
     
     </Text>
     <Text huntingZoneId="415" id="9" prevId="8" villagerId="1053">
          
+         
         <Page social="4">Equipamento para &lt;font color='#FF0000'&gt;&lt;PCCLASS:lcase&gt;s&lt;/font&gt;... vejamos.&lt;BR&gt;&lt;BR&gt;Ei, você está com sorte! Pegue isto e vista-o.&lt;BR&gt;&lt;BR&gt;Não está exatamente pronto para inspeção, mas vai mantê-lo seguro.</Page>
+    
     
     </Text>
     <Text huntingZoneId="415" id="10" prevId="9" villagerId="1053">
          
+         
         <Page social="4">Agora você parece um verdadeiro &lt;PCCLASS:lcase&gt;, não uma vítima de afogamento.&lt;BR&gt;&lt;BR&gt;Relate ao ajudante - e diga a ela que apenas os feridos foram deixados na praia.</Page>
+    
     
     </Text>
     <Text huntingZoneId="415" id="11" prevId="10" villagerId="1003">
          
+         
         <Page social="4">Bah! Tempestades e naufrágios! Inimigos que você não pode simplesmente esfaquear! &lt;BR&gt;&lt;BR&gt;Tenho apenas um punhado de soldados aqui. O resto deles ainda está vindo para terra? &lt;NEXTPAGEBUTTON&gt;"Não, acho que não."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Muitas baixas, e ainda nem saímos da praia. Nunca vi uma tempestade tão repentina.&lt;BR&gt;&lt;BR&gt;Estamos em completa desordem e minha equipe está em estado de choque. Vá levá-los de volta à terra dos vivos e me traga uma opção de pronto. Acho que a maré está subindo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="415" id="12" prevId="11" villagerId="1055">
          
+         
         <Page social="4">Sou um soldado, não um peixe. Se eu sair dessa vivo, vou me mudar para o deserto.&lt;NEXTPAGEBUTTON&gt;"O ajudante me mandou."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="4">Sim? Bem, diga a ela que nenhum grito vai acabar com essa chuva ou tirar nossas provisões do fundo do oceano.&lt;BR&gt;&lt;BR&gt;Meu conselho? Comece a rezar. &lt;NEXTPAGEBUTTON&gt;"Algo mais tangível?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Ouço ecos de algo rugindo no topo dos penhascos. Seria suicídio ir até lá sem estar preparado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="415" id="13" prevId="11" villagerId="1056">
          
+         
         <Page social="4">Se você pode correr e lutar, por que não está com Akrak ou Elleon? &lt;NEXTPAGEBUTTON&gt;"O ajudante me enviou."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="4">Ela disse? Diga a ela que nossos suprimentos estão em desordem, mas não espere que nos organizemos.&lt;NEXTPAGEBUTTON&gt;"Por que não?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Quando descobrirmos o que foi que deu à costa, as notícias serão ruins. Continue antes que saibamos o pior, eu digo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="415" id="14" prevId="12" villagerId="1003">
          
+         
         <Page social="4">Portanto, não devemos nos mover, mas também não devemos esperar. Lembre-me por que tenho assistentes?&lt;BR&gt;&lt;BR&gt;De qualquer forma, a decisão é de Akrak, não minha. Apresentem-se a ele imediatamente.</Page>
+    
     
     </Text>
     <Text huntingZoneId="415" id="15" prevId="14" villagerId="1002">
          
+         
         <Page social="4">Pelos deuses, &lt;PCCLASS:lcase&gt;, você parece pronto para a batalha. Vamos colocá-lo para trabalhar.&lt;BR&gt;&lt;BR&gt;Especificamente, preciso que você encontre Elleon.&lt;NEXTPAGEBUTTON&gt;"O comandante?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Sim, o Comandante Elleon e alguns batedores entraram na caverna quando a tempestade estava se formando. Ele provavelmente não tem ideia de como as coisas estão ruins aqui embaixo.&lt;BR&gt;&lt;BR&gt;Elleon é o melhor lutador que já vi, então tenho certeza de que está vivo e bem, mas preciso saber o que ele encontrou. E ele precisa saber que sua expedição está espalhada pela praia e pelo fundo do mar.</Page>
+    
     
     </Text>
 </QuestDialog>

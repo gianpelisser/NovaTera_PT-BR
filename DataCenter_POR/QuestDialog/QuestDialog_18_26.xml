@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="18" id="26" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="18" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="218" id="100" prevId="0" villagerId="1005">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="218" id="2" prevId="0" villagerId="1005">
          
+         
         <Page social="4">Uma de nossas arqueólogas - se é que se pode chamar a abordagem dela de "arqueologia" - se afastou novamente. Nema é imprudente. Não posso me dar ao trabalho de ver no que ela se meteu novamente.&lt;BR&gt;&lt;BR&gt;Fale com {@LinkCreature:218#1022$$Mirak} e veja se ele a mandou para algum lugar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="218" id="3" prevId="2" villagerId="1022">
          
+         
         <Page social="4">{@LinkCreature:218#1007#Nema}, você diz? Eu a conheço. Melhor do que eu gostaria.&lt;BR&gt;&lt;BR&gt;Não, ela não está aqui. Apesar de meus avisos, ela fugiu de novo. Estou pronto para matá-la eu mesmo, se ela ainda não estiver morta.&lt;NEXTPAGEBUTTON&gt;"Para onde ela teria ido?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Tenho certeza de que ela foi para o Templo de Tithus. Ela foge quando ninguém está olhando. Há três coisas que eu mais odeio no mundo: cultistas, escorpiões e a curiosidade de Nema!&lt;BR&gt;&lt;BR&gt;Se você quiser encontrá-la, está por sua conta. Eu já terminei com ela.</Page>
+    
     
     </Text>
     <Text huntingZoneId="218" id="4" prevId="3" villagerId="1007">
          
+         
         <Page social="4">Mirak não gosta de alguém? Choque. Mas talvez eu seja uma dor de cabeça especial para ele.&lt;BR&gt;&lt;BR&gt;Mesmo assim, não sei por que ele acha que eu ficaria no acampamento quando poderia estar examinando coisas como essa!</Page>
+    
     
     </Text>
 </QuestDialog>

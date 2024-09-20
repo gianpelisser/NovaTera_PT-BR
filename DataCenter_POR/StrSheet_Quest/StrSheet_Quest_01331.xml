@@ -1,11 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4734001" string="Cavando a terra" />
-    <String id="4734002" string="Muito obrigado." />
-    <String id="4734003" string="Mate {@creature:47#4003#argonomorph gulas} ao norte da {@Rgn:47005$$Argon Frontier} e colete o solo cyamonoid." />
-    <String id="4734004" string="&quot;Eu vou.&quot;" />
-    <String id="4734005" string="Colete solo de ciamonóide." />
-    <String id="4734006" string="Entregue o solo de cyamonoid para {@creature:247#1021$$Shannow}." />
-    <String id="4734007" string="&quot;Fico feliz em ajudar.&quot;" />
-    <String id="4734008" string="Vá até {@Rgn:77001$$Pathfinder Post} e conte a {@creature:77#1009$$Borskan} sobre a sujeira preta." />
+    <String id="4730001" string="Fragmentos de um escudo" />
+    <String id="4730002" string="Posso fazer muito com esses fragmentos." />
+    <String id="4730003" string="Agora vou construir meu escudo." />
+    <String id="4730004" string="Fragmentos de emissor de escudo" />
+    <String id="4730005" string="Mate {@creature:47#3003#argonomorph wendigo shamans} a oeste de {@Rgn:47004$$Blightroar} e colete os fragmentos do emissor de escudo." />
+    <String id="4730006" string="Volte para {@Rgn:47007$$Blightroar Research Station} e entregue os fragmentos para {@creature:247#1101$$$Padrell}." />
+    <String id="4730007" string="&quot;É uma honra servir.&quot;" />
 </StrSheet_Quest>

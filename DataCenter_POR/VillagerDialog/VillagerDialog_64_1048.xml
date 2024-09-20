@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="64" id="1048" voiceTypeId="50">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1048" huntingZoneId="64" voiceTypeId="50">
     <Text huntingZoneId="64" id="1" endSocial="14" prevId="0" villagerId="1048">
          
+         
         <Page social="4">Enemies have loot, but there's another way to strike it rich: &lt;font color='#660000'&gt;gathering&lt;/font&gt;! &lt;BR&gt;&lt;BR&gt;Most flowers and rocks don't fight back. Mostly...</Page>
+    
     
     </Text>
 </VillagerDialog>

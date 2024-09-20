@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="12" id="22" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="12" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="62" id="100" prevId="0" villagerId="1024">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="62" id="2" prevId="0" villagerId="1024">
          
+         
         <Page social="4">Sim, eu pagarei para que você coloque uma escuta em outra pessoa, mas é um pagamento, não uma esmola.&lt;BR&gt;&lt;BR&gt;Quando os piratas me perseguiram até aqui, eu tive que me desfazer de parte de minha carga para ficar à frente deles.&lt;BR&gt;&lt;BR&gt;Ela foi parar na praia, logo abaixo daquela escadaria a leste da vila. Leve-os para {@LinkCreature:212#1002$$Sidara}, que lhe pagará para ficar longe.</Page>
+    
     
     </Text>
     <Text huntingZoneId="212" id="3" prevId="2" villagerId="1002">
          
+         
         <Page social="4">Você se recuperou mais do que Dirken imaginava. Espere um pouco... não é de se admirar! Você recuperou caixas que não nos pertencem.&lt;BR&gt;&lt;BR&gt;Essa pertence àquele maldito regimento. Hmm....&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;Conservadores de caçadores, hein? Você está sendo pago, portanto, no que me diz respeito, isso o torna privado entre nós. Está captando o que estou escrevendo?</Page>
+    
     
     </Text>
     <Text huntingZoneId="212" id="4" villagerId="1002">
          
+         
         <Page social="0">Por que você está aqui? Ao contrário de um soldado, não sou pago para ficar parado em um lugar e deixar os adolescentes admirarem o uniforme.&lt;BR&gt;&lt;BR&gt;Eu trabalho para viver. Você poderia trabalhar para viver também, se conseguisse aquelas caixas na praia.</Page>
+    
     
     </Text>
 </QuestDialog>

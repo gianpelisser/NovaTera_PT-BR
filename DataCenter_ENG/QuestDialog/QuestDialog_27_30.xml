@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="27" id="30" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="227" id="100" prevId="0" villagerId="1022">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="27" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="227" prevId="0" villagerId="1022">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="227" id="2" prevId="0" villagerId="1022">
-         
+    <Text id="2" huntingZoneId="227" prevId="0" villagerId="1022">
         <Page social="5">Morale is suffering greatly. The {@LinkCreature:27#10#Thulsan slayers} and {@LinkCreature:27#8#Thulsan berserkers} are massacring our troops.&lt;BR&gt;&lt;BR&gt;We need a rallying point to use against the Brogar Legion. I need you to strike down their troops and snatch their weapons. We'll use them as a symbol of hope, proof that we can handle Thulsa's forces.</Page>
-    
     </Text>
-    <Text huntingZoneId="227" id="3" prevId="2" villagerId="1021">
-         
+    <Text id="3" huntingZoneId="227" prevId="2" villagerId="1021">
         <Page social="5">This is how the Brogar Legion arms its soldiers?&lt;BR&gt;&lt;BR&gt;Such savage weapons. Too much blood have these spilt from the young men and women of the federation. But not today. Thank you, &lt;PCNAME&gt;. This is a great victory.</Page>
-    
     </Text>
-    <Text huntingZoneId="227" id="4" villagerId="1021">
-         
+    <Text id="4" huntingZoneId="227" villagerId="1021">
         <Page social="0">If we do not commandeer the weapons of the Brogar Legion, this battle will drag on forever. Please hurry.</Page>
-    
     </Text>
 </QuestDialog>

@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="19" id="22" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="19" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="219" id="100" prevId="0" villagerId="1020">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="219" id="2" prevId="0" villagerId="1020">
          
+         
         <Page social="4">A boa notícia é que os tumultos se acalmaram. A má notícia é que agora temos problemas com javalis.&lt;BR&gt;&lt;BR&gt;Eles estão por toda parte na Fazenda Digory, e essas plantações representam pelo menos metade de nossos suprimentos para Velika.&lt;BR&gt;&lt;BR&gt;Se você pudesse ir até lá e nos ajudar, todos agradeceriam.</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="3" prevId="2" villagerId="1020">
          
+         
         <Page social="4">Isso é um alívio. Obrigado por esclarecer isso.</Page>
+    
     
     </Text>
 </QuestDialog>

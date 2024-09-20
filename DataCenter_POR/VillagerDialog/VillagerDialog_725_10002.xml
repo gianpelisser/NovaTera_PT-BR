@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="725" id="10002" voiceTypeId="0">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="10002" huntingZoneId="725" voiceTypeId="0">
     <Text id="1" endSocial="0">
          
+         
         <Page social="0">(A mysterious mirror that will teleport you to the &lt;font color='#0000FF'&gt;Pond, Garden, or Central Entrance&lt;/font&gt;.)</Page>
+    
     
     </Text>
 </VillagerDialog>

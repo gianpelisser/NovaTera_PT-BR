@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4691001" string="Not Kulkaris Again" />
-    <String id="4691002" string="You should be good at this by now." />
-    <String id="4691003" string="Proof of Kill: Kulkaris" />
-    <String id="4691004" string="&quot;For the federation.&quot;" />
-    <String id="4691005" string="Defeat {@creature:46#201#argonomorph kulkari crushers}, {@creature:46#202#argonomorph kulkari shamans}, and {@creature:46#203#argonomorph Lokian slayers} on the {@Rgn:46018$$Three Towers Spires}." />
-    <String id="4691006" string="Report to {@Creature:246#1014} at the {@Rgn:46014$$Three Towers Research Base}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4673001" string="(Guild) Suppression Orders: Ossugon" />
+    <String id="4673002" string="Continual suppression keeps us safe." />
+    <String id="4673003" string="Thank you for your hard work." />
+    <String id="4673004" string="Proof of kill: Ossugons" />
+    <String id="4673005" string="&quot;For the federation.&quot;" />
+    <String id="4673006" string="Defeat {@LinkCreature:46#401#argonomorph ossugon warlords}, {@LinkCreature:46#402#argonomorph nightmare fiends}, and {@LinkCreature:46#403#argonomorph iskaragards} in the {@Rgn:46009$$Three Towers Spires}." />
+    <String id="4673007" string="Report to the nearest coordinator." />
 </StrSheet_Quest>

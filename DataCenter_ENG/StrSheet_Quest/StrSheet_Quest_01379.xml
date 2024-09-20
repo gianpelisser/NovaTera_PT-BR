@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4881001" string="Suppression Orders: Argons" />
-    <String id="4881002" string="Proof of Kill: Argons" />
-    <String id="4881003" string="&quot;For the federation.&quot;" />
-    <String id="4881004" string="Kill argons throughout the {@Rgn:48001} and collect proof of their deaths." />
-    <String id="4881005" string="Report to Oria." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4849001" string="Downsizing the Argons" />
+    <String id="4849002" string="Watch out for the iknephars." />
+    <String id="4849003" string="Your contributions will be noted in my report to high command." />
+    <String id="4849004" string="Kill iknephar prelates and kalash sentinels in Valgurati Stronghold." />
+    <String id="4849005" string="&quot;For the federation.&quot;" />
+    <String id="4849006" string="Report to {@LinkCreature:248#1043}." />
 </StrSheet_Quest>

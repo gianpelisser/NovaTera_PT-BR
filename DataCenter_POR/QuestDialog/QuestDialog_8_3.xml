@@ -1,95 +1,132 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="8" id="3" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="8" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="208" id="100" prevId="0" villagerId="1001">
          
+         
         <Page social="0">Os gulas das Cavernas Famintas estão raptando pessoas para suas panelas.&lt;BR&gt;&lt;BR&gt;Uma das raptadas, Hennika, era a irmã mais nova de Detrian - um conhecido seu. Detrian foi atrás dela nas Cavernas da Fome.&lt;BR&gt;&lt;BR&gt;Você nunca encontrou Detrian, mas recuperou a espada dele de um gula. Você resgatou Hennika de um mercado de escravos, e ela jurou, sobre a espada do irmão, que o vingaria.</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="2" prevId="0" villagerId="1001">
          
+         
         <Page social="5">Ok, isso tem que parar - os gulas estão fora de controle! &lt;BR&gt;&lt;BR&gt;Eu tenho uma lista aqui das pessoas mais recentes que eles levaram para suas panelas. Vá até as Cavernas da Fome e resgate o máximo que puder.&lt;BR&gt;&lt;BR&gt;O quê? Há algum nome que você reconheça?</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="5">Sim, essa é a irmã de Detrian, Hennika. Ele já foi atrás dela, então é melhor adicioná-lo à lista.&lt;BR&gt;&lt;BR&gt;Procure o Posto de Vanguarda Alfa na Caverna dos Grilhões. Se você se apressar, poderá salvar alguns deles de serem comidos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="4" prevId="3" villagerId="1022">
          
+         
         <Page social="5">Quem vai lá? Espere... você não é Detrian! &lt;BR&gt;&lt;BR&gt;O quê? Detrian foi para as cavernas? Ele não tem a menor chance lá! &lt;BR&gt;&lt;BR&gt;Ok, estou vendo que você vai segui-lo, então aqui está o que você tem que saber. As cozinhas ficam neste nível. É lá que eles colocam os prisioneiros antes de... você sabe.&lt;BR&gt;&lt;BR&gt;Não acabe você mesmo na panela, &lt;PCCLASS:lcase&gt;!</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="5" prevId="4" villagerId="1031">
          
+         
         <Page social="5">(As marcas de mordida nesse cadáver parecem do tamanho de uma gula. Ele está morto há muito tempo, portanto não é um prisioneiro recente).</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="6" prevId="5" villagerId="1022">
          
+         
         <Page social="5">Eles não estavam lá? Então devem estar nos níveis mais baixos.&lt;BR&gt;&lt;BR&gt;Ainda estamos correndo contra o tempo. Faça o check-in no Vanguard Post Beta. Pergunte por Rendia. Se alguém tiver ouvido algo novo, ela saberá.</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="7" prevId="6" villagerId="1014">
          
+         
         <Page social="5">Sim, os instintos de Loxetrius estão mais aguçados do que nunca. Os seqüestrados, e talvez Detrian, estão quase certamente nas celas da prisão - uma área que os gulas chamam de Caverna das Lágrimas.&lt;BR&gt;&lt;BR&gt;Há dois blocos de celas. O {@LinkCreature:208#1024#primeiro bloco de celas} fica logo abaixo da passagem.</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="8" prevId="7" villagerId="1024">
          
+         
         <Page social="5">&lt;PCNAME&gt;...(tosse)...(suspiro). Eu tentei...&lt;BR&gt;&lt;BR&gt;Eu podia ver Hennika, mas havia muitos deles. Não consegui chegar até ela.&lt;BR&gt;&lt;BR&gt;Os {@LinkCreature:8#4011#aberrant gulons} a levaram para o &lt;FONT COLOR='#0080FF'&gt;&lt;A href="markmap:loc=7004#78829,63010,-3794&amp;type=1&amp;name=second cell block"&gt;segundo bloco de celas&lt;/A&gt;&lt;/FONT&gt;. Temos que salvá-la, &lt;PCNAME&gt;...&lt;NEXTPAGEBUTTON&gt;"Vamos salvar."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Eu simplesmente não posso... me mover agora, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Eu deveria descansar...&lt;BR&gt;&lt;BR&gt;Só por um minuto...&lt;BR&gt;&lt;BR&gt;(Detrian para de respirar, e você não consegue encontrar pulso. Seus olhos permanecem abertos, como se ainda estivessem procurando sua irmã).</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="9" prevId="8" villagerId="1027">
          
+         
         <Page social="5">Que se danem os destinos, estou feliz em vê-lo! Pensei que fosse a panela, com certeza! &lt;BR&gt;&lt;BR&gt;Você é da mesma unidade daquele jovem soldado que nos encontrou? Ele lutou com tanta bravura...</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="10" prevId="8" villagerId="1028">
          
+         
         <Page social="5">Obrigado por me salvar! Qual é o seu nome? Vou dar seu nome ao meu primeiro filho!</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="11" prevId="8" villagerId="1029">
          
+         
         <Page social="5">Estamos assustados e fracos, mas, fora isso, estamos bem.&lt;BR&gt;&lt;BR&gt;Não posso dizer o mesmo daquele soldado que tentou nos resgatar...&lt;BR&gt;&lt;BR&gt;Ele conseguiu sair bem?</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="12" prevId="8" villagerId="1005">
          
+         
         <Page social="5">Hennika... tenho tanta pena dela.&lt;BR&gt;&lt;BR&gt;Aquele soldado que tentou nos resgatar era seu irmão.</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="13" prevId="8" villagerId="1026">
          
+         
         <Page social="5">Achei que ia acabar com minha vida em uma frigideira de gula, com certeza.</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="14" prevId="9" villagerId="1025">
          
+         
         <Page social="5">&lt;PCNAME&gt;! Eu me lembro de você! Onde está Detrian? Ele está? &lt;BR&gt;&lt;BR&gt;Não diga isso! Não! &lt;NEXTPAGEBUTTON&gt;"Seu último pensamento foi em você..."&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="5">Oh, Detrian... Detrian...(soluço)...&lt;BR&gt;&lt;BR&gt;Eu sei que ele gostaria que eu fosse corajoso, mas não é fácil.&lt;BR&gt;&lt;BR&gt;E ele gostaria que você o vingasse, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;A última visão que tive foi dele lutando contra um daqueles {@LinkCreature:8#4051#vulgar inquisitors}.&lt;NEXTPAGEBUTTON&gt;"Esse é o meu alvo, então."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Não posso continuar chorando assim. Tenho que ser forte para os outros sobreviventes.&lt;BR&gt;&lt;BR&gt;Eu vou levar todos para o Posto Avançado dos Vingadores.&lt;BR&gt;&lt;BR&gt;Procurar a espada do meu irmão. É assim que você saberá qual inquisidor matar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="15" prevId="14" villagerId="1030">
          
+         
         <Page social="5">Espada de Detrian...&lt;BR&gt;&lt;BR&gt;Detrian, se estiver ouvindo, juro por esta espada que me tornarei uma Espada de Kaia como você e resgatarei pessoas em seu nome.&lt;BR&gt;&lt;BR&gt;Isso eu juro!</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="16" villagerId="1030">
          
+         
         <Page social="0">Vingar Detrian! Mate o inquisidor e traga de volta a espada de meu irmão!</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="17" prevId="15" villagerId="1001">
          
+         
         <Page social="5">Os sobreviventes conseguiram voltar para cá, &lt;PCNAME&gt;. Muito bem! &lt;BR&gt;&lt;BR&gt;Lamentei muito a morte de Detrian. Ele era um bom soldado. Talvez nós o vejamos em nossos sonhos.&lt;BR&gt;&lt;BR&gt;Eu gostaria disso. E acho que a irmã de Detrian também gostaria. Uma garotinha tão séria...</Page>
+    
     
     </Text>
 </QuestDialog>

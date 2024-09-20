@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="90104001" string="Win, Place, or Snow" />
-    <String id="90104002" string="Win in the Wintera Snowfield." />
-    <String id="90104003" string="" />
-    <String id="90104004" string="&quot;Thanks!&quot;" />
-    <String id="90104005" string="Find {@linkcreature:63#9005} in Velika." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="90102001" string="Hero of Fraywind Canyon" />
+    <String id="90102002" string="Victory in Fraywind Canyon" />
+    <String id="90102003" string="" />
+    <String id="90102004" string="&quot;Thanks.&quot;" />
+    <String id="90102005" string="Report to Surah in Velika." />
 </StrSheet_Quest>

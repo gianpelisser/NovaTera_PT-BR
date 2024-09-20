@@ -1,21 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="808" id="1" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="182" id="100" prevId="0" villagerId="4001">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="808" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="182" prevId="0" villagerId="4001">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="182" id="2" prevId="0" villagerId="4001">
-         
+    <Text id="2" huntingZoneId="182" prevId="0" villagerId="4001">
         <Page social="0">Blood magic isn't the only weapon the archdevas wield. They have an arsenal of weapons hidden somewhere nearby. Scouts are searching the area, but I need you to look near the demokron proving grounds. My people won't go near that place! &lt;BR&gt;&lt;BR&gt;Find the armory and determine what all is inside.&lt;NEXTPAGEBUTTON&gt;"Tell me where you want me."&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="0">Go west past the hot springs, there's a river ending in a waterfall. You'll see the monstrosities there. The armory is likely near the training grounds.&lt;NEXTPAGEBUTTON&gt;"I'm on it."&lt;/NEXTPAGEBUTTON&gt;</Page>
-    
     </Text>
-    <Text huntingZoneId="182" id="3" prevId="2" villagerId="4001">
-         
+    <Text id="3" huntingZoneId="182" prevId="2" villagerId="4001">
         <Page social="0">&lt;PCNAME&gt;, you found the armory, defeated the guard and monsters inside? Amazing!&lt;BR&gt;&lt;BR&gt;I wonder what that odd stone thing was about...</Page>
-    
     </Text>
 </QuestDialog>

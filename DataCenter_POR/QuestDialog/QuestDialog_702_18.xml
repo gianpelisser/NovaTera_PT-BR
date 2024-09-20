@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="702" id="18" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="18" huntingZoneId="702" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="205" id="100" prevId="0" villagerId="2001">
          
+         
         <Page social="0">Você coletou materiais para um tambor tuwangi.</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="2" prevId="0" villagerId="2001">
          
+         
         <Page social="4">Tambor velho. Preciso fazer um tambor novo. Preciso de pele de sapo! &lt;NEXTPAGEBUTTON&gt;Ok.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="3" prevId="2" villagerId="2001">
          
+         
         <Page social="4">Boa pele! Obrigado! &lt;NEXTPAGEBUTTON&gt;Não há problema.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="4" villagerId="2001">
          
+         
         <Page social="0">Preciso de pele de sapo!</Page>
+    
     
     </Text>
 </QuestDialog>

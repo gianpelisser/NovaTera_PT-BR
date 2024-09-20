@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="255" id="1023" voiceTypeId="48">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1023" huntingZoneId="255" voiceTypeId="48">
     <Text id="1" endSocial="14">
          
+         
         <Page social="4">We've heard rumors the argons found new ways to coerce our allies and control creatures.&lt;BR&gt;&lt;BR&gt;We mustn't lose the battle for Darkquaver Woods. The relics, the location, and what's left of the people are vital to the federation's success!</Page>
+    
     
     </Text>
 </VillagerDialog>

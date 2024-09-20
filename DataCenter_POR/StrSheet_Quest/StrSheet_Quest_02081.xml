@@ -1,22 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="60110001" string="A curiosidade matou o assistente do cientista" />
-    <String id="60110002" string="Volvur é um bom cientista. Um pouco excêntrico, mas bom." />
-    <String id="60110003" string="Sua dedicação à Invalesco é muito importante." />
-    <String id="60110004" string="" />
-    <String id="60110005" string="" />
-    <String id="60110006" string="" />
-    <String id="60110007" string="Informe a {@LinkCreature:245#3511#Volvur} em {@Rgn:45009}." />
-    <String id="60110008" string="&quot;Ao seu dispor.&quot;" />
-    <String id="60110009" string="Athakela Fang" />
-    <String id="60110010" string="Cace {@LinkCreature:45#3004#athakela stalkers} em torno de {@Rgn:45009} e colete suas presas." />
-    <String id="60110011" string="Entregue as presas para {@LinkCreature:245#3511#Volvur}." />
-    <String id="60110012" string="&quot;Fico feliz por ter ajudado.&quot;" />
-    <String id="60110013" string="Sangue Argonomorfo Tuwangi" />
-    <String id="60110014" string="Cace {@LinkCreature:45#4002#argonomorph tuwangis} perto de {@Rgn:45009} e colete amostras de seu sangue." />
-    <String id="60110015" string="Entregue o sangue a {@LinkCreature:245#3511#Volvur}." />
-    <String id="60110016" string="&quot;Eww. Boa sorte.&quot;" />
-    <String id="60110017" string="&quot;Vamos em frente, Volvur.&quot;" />
-    <String id="60110018" string="Colete o minério de argonita ao redor da estrada ao sul de {@Rgn:45009}." />
-    <String id="60110019" string="Entregue o minério para {@LinkCreature:245#3511#Volvur}." />
+    <String id="60108001" string="Tudo em nome da ciência" />
+    <String id="60108002" string="Veja se você pode ajudar Surdan." />
+    <String id="60108003" string="Ah, espécimes frescos! Excelente." />
+    <String id="60108004" string="" />
+    <String id="60108005" string="" />
+    <String id="60108006" string="" />
+    <String id="60108007" string="Vá ver {@LinkCreature:245#3510#Surdan} em {@Rgn:45007$$Field Base Tenacity} em {@Rgn:45001$$Thrallhold}." />
+    <String id="60108008" string="&quot;Com certeza.&quot;" />
+    <String id="60108009" string="Argonomorfo Horntoad Ichor" />
+    <String id="60108010" string="Mate {@LinkCreature:45#2002#argonomorph horntoads} perto do {@Rgn:45003$$Vale of the Reaper} e colete seu ichor." />
+    <String id="60108011" string="Entregue o ichor a {@LinkCreature:245#3510#Surdan} em {@Rgn:45007$$Campo Base Tenacidade}." />
+    <String id="60108012" string="&quot;De nada.&quot;" />
+    <String id="60108013" string="Sangue de demônio contaminado" />
+    <String id="60108014" string="Mate {@LinkCreature:45#2001#argonomorph blood fiends} ao redor do {@Rgn:45003$$Vale of the Reaper} e colete o sangue deles." />
+    <String id="60108015" string="Entregue as amostras de sangue para {@LinkCreature:245#3510#Surdan} em {@Rgn:45007$$Field Base Tenacity}." />
+    <String id="60108016" string="&quot;Fico feliz em ajudar.&quot;" />
+    <String id="60108017" string="&quot;O prazer é meu&quot;." />
+    <String id="60108018" string="Colete amostras da lentilha d'água que cresce no {@Rgn:45003$$Vale of the Reaper}." />
+    <String id="60108019" string="Entregue a lentilha-d'água para {@LinkCreature:245#3510#Surdan} em {@Rgn:45007$$Campo Base Tenacidade}." />
 </StrSheet_Quest>

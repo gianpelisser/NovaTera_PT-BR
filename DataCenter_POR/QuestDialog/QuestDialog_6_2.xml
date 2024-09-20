@@ -1,58 +1,80 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="6" id="2" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="6" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="206" id="100" prevId="0" villagerId="1003">
          
+         
         <Page social="0">Depois de descobrir os devas em Mags Kulkar, você derrotou o chefe Krashar de Gutrend e recuperou um token de Lok. Agora você tem provas de que os devas e os Scions of Lok estão de alguma forma envolvidos na recente invasão dos Gutrends.</Page>
+    
     
     </Text>
     <Text huntingZoneId="206" id="2" prevId="0" villagerId="1003">
          
+         
         <Page social="4">Os Gutrends não costumam ser tão agressivos - nunca tivemos a oportunidade de destruir uma aldeia inteira antes.&lt;BR&gt;&lt;BR&gt;Lisadore os tem observado em seu território. Ela pode ter alguma informação a esta altura, se você conseguir encontrá-la.</Page>
+    
     
     </Text>
     <Text huntingZoneId="206" id="3" prevId="2" villagerId="1041">
          
+         
         <Page social="4">A Sozia o mandou para cá, não foi? É bom. Minha batedora Ethia informou que os Gutrends podem ter algum tipo de arma especial.&lt;BR&gt;&lt;BR&gt;Tire alguns dos Gutrends {@LinkCreature:6#2061#sentries} e {@LinkCreature:6#2051#reapers}. Vamos ver se conseguimos encontrar algo incomum.</Page>
+    
     
     </Text>
     <Text huntingZoneId="206" id="4" prevId="3" villagerId="1041">
          
+         
         <Page social="4">Para mim, parecem ser paus e pedras comuns de kulkari. &lt;BR&gt;&lt;BR&gt;Ethia está explorando os arredores de Mags Kulkari, ao sul daqui. Veja se você consegue descobrir do que ela está falando.</Page>
+    
     
     </Text>
     <Text huntingZoneId="206" id="5" villagerId="1041">
          
+         
         <Page social="0">Vamos dar uma olhada nas armas de um grupo diferente desta vez.&lt;BR&gt;&lt;BR&gt;Traga-as dos Gutrend {@LinkCreature:6#2061#sentries} e {@LinkCreature:6#2051#reapers}.</Page>
+    
     
     </Text>
     <Text huntingZoneId="206" id="6" prevId="4" villagerId="1006">
          
+         
         <Page social="4">Bem, se ela leu os relatórios que tenho enviado...&lt;BR&gt;&lt;BR&gt;O que eu disse foi que vi kulkari transportando um monte de {@LinkObject:33#crates} pesadas para Mags Kulkar. Meu palpite é que sejam armas, e não aquelas coisas de pedra que estão usando agora.&lt;BR&gt;&lt;BR&gt;Abra algumas e me traga alguma prova.&lt;NEXTPAGEBUTTON&gt;"Você quer as armas?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Sim, e encontre {@LinkCreature:6#7031#Krashar}, o chefe. Ele saberá de onde estão vindo essas caixas.&lt;BR&gt;&lt;BR&gt;Claro que duvido que ele lhe diga voluntariamente...</Page>
+    
     
     </Text>
     <Text huntingZoneId="206" id="7" prevId="6" villagerId="1006">
          
+         
         <Page social="4">Devas? As caixas estavam cheias de devas? E Krashar está morto? Por mim, tudo bem, desde que você tenha obtido as informações de que preciso.&lt;NEXTPAGEBUTTON&gt;"Isto é o que encontrei."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Um brasão? Não conheço nenhum brasão dos Gutrends...&lt;BR&gt;&lt;BR&gt;É um dos de Lok! Os Gutrends não estão associados a Lok - ou não estavam.&lt;BR&gt;&lt;BR&gt;Corram. O Acampamento dos Vindicadores precisa saber que os devas e os descendentes de Lok estão envolvidos com os Gutrends! Leve isso para Crevan lá.</Page>
+    
     
     </Text>
     <Text huntingZoneId="206" id="8" villagerId="1006">
          
+         
         <Page social="0">Você encontrou alguma coisa? Temos que descobrir o que está acontecendo!</Page>
+    
     
     </Text>
     <Text huntingZoneId="206" id="9" prevId="7" villagerId="1021">
          
+         
         <Page social="4">Um brasão de Lok! Você encontrou isso em Krashar? Isso é... bem, isso é muito estranho.&lt;BR&gt;&lt;BR&gt;Não tenho certeza do que significa. Mas pretendo descobrir.</Page>
+    
     
     </Text>
     <Text huntingZoneId="206" id="10" villagerId="1021">
          
+         
         <Page social="0">Você descobriu alguma coisa sobre esses Gutrends?</Page>
+    
     
     </Text>
 </QuestDialog>

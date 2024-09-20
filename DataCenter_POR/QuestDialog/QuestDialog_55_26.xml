@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="55" id="26" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="55" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="255" id="100" prevId="0" villagerId="1012">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="255" id="2" prevId="0" villagerId="1012">
          
+         
         <Page social="4">Seu trabalho com os Sporewalkers foi excelente. Meu sócio, Melkar, em Ceravin Point precisa de alguém com suas habilidades. Para não precisarmos usar comunicação mágica o tempo todo, mate os dentes-de-sabre que encontrar pelo caminho.&lt;BR&gt;&lt;BR&gt;Podemos começar a empregar nossos corredores novamente.</Page>
+    
     
     </Text>
     <Text huntingZoneId="255" id="3" prevId="2" villagerId="1010">
          
+         
         <Page social="4">Se Cecera achou sua ajuda inestimável, nós também a aceitaremos.&lt;BR&gt;&lt;BR&gt;Infelizmente, nossos problemas são um pouco maiores do que os dentes-de-sabre. Descanse enquanto pode, &lt;PCCLASS:lcase&gt;.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,33 +1,45 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="50" id="34" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="50" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="4">Aquela {@LinkCreature:250#1001} que eu vi em {@Rgn:76001} desceu para as Viridian Caverns. O que está acontecendo? &lt;NEXTPAGEBUTTON&gt;"Eu vou buscá-la. Você fica parado."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Sim. Estarei bem aqui.&lt;BR&gt;&lt;BR&gt;E tenha cuidado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="250" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="4">Eu me lembro de você. Pode me ajudar novamente? Preciso fundir os fragmentos de iteris com o metal para a arma. Se eu tivesse uma certa seiva, um alquimista poderia fazer um caldo de fusão para mim.&lt;NEXTPAGEBUTTON&gt;"Vou buscar para você."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Obrigado! Preciso da seiva da árvore rati. Ela está em uma caverna próxima. Achei que conseguiria encontrá-la, mas talvez eu esteja um pouco perdido.</Page>
+    
     
     </Text>
     <Text huntingZoneId="250" id="4" prevId="3" villagerId="1023">
          
+         
         <Page social="6">(Esta é a árvore rati.)&lt;BR&gt;&lt;BR&gt;(Você deve coletar a seiva.)</Page>
+    
     
     </Text>
     <Text huntingZoneId="250" id="5" prevId="4" villagerId="1001">
          
+         
         <Page social="6">Estou eternamente em dívida com você. Graças a você, posso terminar de construir minha arma e completar minha cerimônia de hushang.&lt;BR&gt;&lt;BR&gt;É melhor eu voltar para Kanstria. Mais uma vez, obrigado!</Page>
+    
     
     </Text>
 </QuestDialog>

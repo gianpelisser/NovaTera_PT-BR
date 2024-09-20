@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="1591001" string="Find the Blood Fiends" />
-    <String id="1591002" string="Proof of Kill: Blood Fiend Deaths" />
-    <String id="1591003" string="&quot;Glad I could help.&quot;" />
-    <String id="1591004" string="Clear the blood fiends from the crossroads north of Popolion." />
-    <String id="1591005" string="Report to Moimui at Camp Redemption." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="1570001" string="Guild Orders: Blood Fiends" />
+    <String id="1570002" string="Fiend Heart" />
+    <String id="1570003" string="&quot;For Valkyon!&quot;" />
+    <String id="1570004" string="Clear the Blood Fiends from the crossroads north of Popolion and retrieve their hearts." />
+    <String id="1570005" string="Collect your reward." />
 </StrSheet_Quest>

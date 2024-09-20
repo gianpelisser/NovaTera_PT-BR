@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4632001" string="Evolving into Energy" />
-    <String id="4632002" string="Destroy {@creature:46#7004#aquaas extractors} and collect samples." />
-    <String id="4632003" string="Such highly evolved plants!" />
-    <String id="4632004" string="Evolved Plant Sample" />
-    <String id="4632005" string="Destroy {@creature:46#7004#aquaas extractors} in the {@Rgn:46010$$Raga Evala Spire} of {@Rgn:46001$$the Three Towers} and collect evolved plant samples." />
-    <String id="4632006" string="Deliver the evolved plant samples to {@creature:246#1036$$Jesspan}." />
-    <String id="4632007" string="&quot;I'll spread the word.&quot;" />
-    <String id="4632008" string="&quot;Thank you.&quot;" />
-    <String id="4632009" string="Go to {@Creature:246#1103$$Lensa} at {@Rgn:46014$$Three Towers Research Base} on the {@Rgn:46018$$Three Towers Upper Level}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4628001" string="Dark Faeries" />
+    <String id="4628002" string="The {@creature:46#304#argonomorph jalmaraks} have argonized horns that we need to study." />
+    <String id="4628003" string="If the argons can corrupt a faerie, we're in big trouble." />
+    <String id="4628004" string="Argonized Horn" />
+    <String id="4628005" string="Kill {@creature:46#304#argonomorph jalmaraks} in the {@Rgn:46007$$Raga Evala Depths} and get argonized horns." />
+    <String id="4628006" string="Go back to the entrance of the {@Rgn:46007$$Raga Evala Depths} and deliver the argonized horns to {@creature:246#1029$$Gloann}." />
+    <String id="4628007" string="&quot;I'll head there presently.&quot;" />
+    <String id="4628008" string="&quot;I thank you.&quot;" />
+    <String id="4628009" string="Go to {@creature:246#1102$$Nevian} in the {@Rgn:46016$$Mindcrown Chamber} in the {@Rgn:46008$$Raga Kabash Depths}." />
 </StrSheet_Quest>

@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="6" id="35" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="6" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="206" id="100" prevId="0" villagerId="1019">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="206" id="2" prevId="0" villagerId="1019">
          
+         
         <Page social="5">Os Gutrends estão correndo por toda parte! Atacando os fracos. Nossas crianças não podem mais nem brincar! É simplesmente terrível! &lt;BR&gt;&lt;BR&gt;Há alguns que parecem estar mirando as crianças. Presumo que esses sejam os mais fracos do grupo - os {@LinkCreature:6#2051#Gutrend reapers} e {@LinkCreature:6#2061#sentries}.&lt;BR&gt;&lt;BR&gt;Derrotá-los e talvez possamos deixar as crianças saírem de casa, pelo menos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="206" id="3" prevId="2" villagerId="1019">
          
+         
         <Page social="5">Bem, é um passo na direção certa. Há mais a ser feito, mas estaremos mais seguros por um tempo.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,35 +1,48 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="43" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="43" huntingZoneId="13" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="213" id="100" prevId="0" villagerId="1025">
          
+         
         <Page social="0">Sersine pediu que você levasse o códice de Kugai para Leander traduzir. Leander não encontrou nenhuma menção a seu irmão, mas descobriu o demônio por trás das forças das trevas na ilha, Karascha, e uma menção a Lok - um deus há muito tempo considerado morto.&lt;BR&gt;&lt;BR&gt;Independentemente da lealdade de Karascha, Leander e Sersine concordaram que ele deveria ser morto.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="2" prevId="0" villagerId="1025">
          
+         
         <Page social="4">Leve esse códice para Leander. Sua mente vê ordem no caos. Precisamos aprender seus segredos.&lt;BR&gt;&lt;BR&gt;Leve isso a ele agora, antes que quem quer que esteja segurando a coleira de Kugai saiba de sua captura. Gregor mantém a passagem sul livre de... complicações - é a rota mais rápida de volta ao seu posto avançado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="3" prevId="2" villagerId="1028">
          
+         
         <Page social="4">É bom ver um rosto que não está preso a uma lâmina ou torcido por magia.&lt;BR&gt;&lt;BR&gt;Os demônios parecem contentes em controlar o desfiladeiro, mas cuidado com as patrulhas orcs no cume.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="4" prevId="3" villagerId="1008">
          
+         
         <Page social="4">Bem-vindo de volta, &lt;PCNAME&gt;. Como podemos ajudar? &lt;BR&gt;&lt;BR&gt;Um códice? Essa pode ser a descoberta que esperávamos! Entregue-o! &lt;BR&gt;&lt;BR&gt;Não há menção a ele. Infelizmente.&lt;NEXTPAGEBUTTON&gt;"Elleon?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="4">De fato. No entanto, o códice fala de Karascha reunindo poder para algum propósito nefasto. Espere - isso não pode estar certo. Impossível. Lok está morto. &lt;BR&gt;&lt;BR&gt;Leve isso para Sersine. Sejam quais forem suas ilusões, Karascha deve ser detido - morto seria melhor.&lt;NEXTPAGEBUTTON&gt;"O que há de errado?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">A maioria dos demônios é muito mercenária e trabalha para quase todos. Quem quer que tenha vinculado Karascha à sua vontade é muito perigoso. Esse códice deve estar errado, mas Karascha deve ser detido, quer esteja ou não.&lt;BR&gt;&lt;BR&gt;Além disso, Karascha é responsável pelo... destino de Elleon.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="5" prevId="4" villagerId="1025">
          
+         
         <Page social="4">O que Leander descobriu?&lt;BR&gt;&lt;BR&gt;Ele tem toda a razão. Lok morreu durante a Guerra Divina. Ele não pode estar por trás disso! O códice realmente dizia isso? Notável.&lt;NEXTPAGEBUTTON&gt;"Leander disse que Karascha precisa ser detido."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Bem, nisso podemos concordar.&lt;BR&gt;&lt;BR&gt;Verus acha que Karascha pode ser alcançado através do santuário a noroeste, então esse é o nosso próximo passo.&lt;BR&gt;&lt;BR&gt;Para Elleon - e para a federação - Karascha deve morrer.</Page>
+    
     
     </Text>
 </QuestDialog>

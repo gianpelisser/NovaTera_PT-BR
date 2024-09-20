@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="7" id="33" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="7" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="207" id="100" prevId="0" villagerId="1019">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="207" id="2" prevId="0" villagerId="1019">
          
+         
         <Page social="5">Proteger pesquisadores é como pastorear gatos bêbados hiperativos. Eles não ouvem, saem por conta própria e só quando ficam ensangüentados é que voltam choramingando.&lt;BR&gt;&lt;BR&gt;Tenho todo mundo aqui, por enquanto. Se você pudesse diminuir as fileiras de {@LinkCreature:7#10#hienas magras}, isso tornaria nossas viagens muito mais seguras.</Page>
+    
     
     </Text>
     <Text huntingZoneId="207" id="3" prevId="2" villagerId="1019">
          
+         
         <Page social="5">Quase me sinto mal pelas hienas. Quase. Os pesquisadores estarão muito mais seguros agora, graças a você. Sei que eles não dizem isso com frequência, mas sua ajuda é muito bem-vinda.</Page>
+    
     
     </Text>
 </QuestDialog>

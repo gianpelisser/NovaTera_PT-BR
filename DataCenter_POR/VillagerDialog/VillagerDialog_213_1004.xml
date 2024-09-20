@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="213" id="1004" voiceTypeId="109">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1004" huntingZoneId="213" voiceTypeId="109">
     <Text huntingZoneId="213" id="1" endSocial="14" prevId="0" villagerId="1004">
          
+         
         <Page social="4">Looks like the island got the better of us, after all. With the federation splintering like this...&lt;BR&gt;&lt;BR&gt;Well, suffice it to say I'm not sure these alliances are going to solve anything. Greed only begets more greed.</Page>
+    
     
     </Text>
 </VillagerDialog>

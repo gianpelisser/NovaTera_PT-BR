@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="601" id="2" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="601" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="77" id="100" prevId="0" villagerId="3008">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="77" id="2" prevId="0" villagerId="3008">
          
+         
         <Page social="4">Os argons dependem do cyasma da mesma forma que você e eu dependemos de comida e cerveja. Há vários destiladores de cyasma espalhados pelo {@Rgn:45003$$Vale do Ceifador}.&lt;BR&gt;&lt;BR&gt;Encontre os destiladores e desvie o fluxo de cyasma. Isso deve causar estragos para os argons e nos dar a chance de estudar a necessidade deles.</Page>
+    
     
     </Text>
     <Text huntingZoneId="77" id="3" prevId="2" villagerId="3008">
          
+         
         <Page social="4">Ficaremos de olho nos argons para ver o quão rápido eles respondem à sua pequena missão.&lt;BR&gt;&lt;BR&gt;Só espero que identifiquemos uma fraqueza explorável.</Page>
+    
     
     </Text>
 </QuestDialog>

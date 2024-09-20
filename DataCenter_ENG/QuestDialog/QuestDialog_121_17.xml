@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="121" id="17" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="63" id="100" prevId="0" villagerId="22008">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="17" huntingZoneId="121" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="63" prevId="0" villagerId="22008">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="63" id="2" prevId="0" villagerId="22008">
-         
-        <Page social="1">We've got to get you trained up, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Oh, I know you think you've been training for a while now, but however good you think you are, you have to be better to be part of the Free Traders Collective.&lt;BR&gt;&lt;BR&gt;You'll need to kill a {@linkcreature:124#102#Trained Single-eyed Monster}, a {@linkcreature:125#103#Trained Dragon Hatchling}, or a {@linkcreature:126#104#Trained Vulcan}. You'll get a heart token when you do.&lt;BR&gt;&lt;BR&gt;Once you've finished, bring your token back.</Page>
-    
+    <Text id="2" huntingZoneId="63" prevId="0" villagerId="22008">
+        <Page social="1">We've got to get you trained up, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Oh, I know you think you've been training for a while now, but however good you think you are, you have to be better to be part of the Free Traders Collective.&lt;BR&gt;&lt;BR&gt;You'll need to kill a {@linkcreature:124#102#Cyclops}, a {@linkcreature:125#103#Dracoloth}, or a {@linkcreature:126#104#Vulcan Render}. You'll get a heart token when you do.&lt;BR&gt;&lt;BR&gt;Once you've finished, bring your token back.</Page>
     </Text>
-    <Text huntingZoneId="63" id="3" prevId="2" villagerId="22008">
-         
+    <Text id="3" huntingZoneId="63" prevId="2" villagerId="22008">
         <Page social="4">Good job. I can already tell you're going to be an asset to the collective.</Page>
-    
     </Text>
-    <Text huntingZoneId="63" id="4" villagerId="22008">
-         
+    <Text id="4" huntingZoneId="63" villagerId="22008">
         <Page social="0">For the Free Traders Collective!</Page>
-    
     </Text>
 </QuestDialog>

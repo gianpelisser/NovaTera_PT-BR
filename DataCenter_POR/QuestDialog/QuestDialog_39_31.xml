@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="39" id="31" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="39" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="239" id="100" prevId="0" villagerId="1016">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="239" id="2" prevId="0" villagerId="1016">
          
+         
         <Page social="4">Recompensarei qualquer um que matar {@LinkCreature:39#190#ferocious maligoses}.&lt;BR&gt;&lt;BR&gt;Esses demônios miseráveis cortam meu povo em pedaços. Eles são duros e desagradáveis, não vou mentir para você.&lt;BR&gt;&lt;BR&gt;Acha que está à altura do desafio?</Page>
+    
     
     </Text>
     <Text huntingZoneId="239" id="3" prevId="2" villagerId="1016">
          
+         
         <Page social="0">Bom trabalho! Com esses maligosos mortos, talvez tenhamos menos pesadelos por aqui.</Page>
+    
     
     </Text>
 </QuestDialog>

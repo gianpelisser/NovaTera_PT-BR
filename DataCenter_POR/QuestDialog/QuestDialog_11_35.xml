@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="11" id="35" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="11" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="211" id="100" prevId="0" villagerId="1028">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="211" id="2" prevId="0" villagerId="1028">
          
+         
         <Page social="4">Juro que metade dos soldados daqui está querendo ficar rico com o tesouro pirata "encontrado", e a outra metade está tramando vingança contra os piratas do Red Lash por alguma crueldade indescritível com seus familiares ou coisa parecida.&lt;BR&gt;&lt;BR&gt;Mas por que escolher apenas um motivo, hein, &lt;PCNAME&gt;?&lt;BR&gt;&lt;BR&gt;Se você for para o Porão, a oeste daqui, encontrará as peças mais lucrativas.&lt;BR&gt;&lt;BR&gt;Vá lá, &lt;PCCLASS:lcase&gt;!</Page>
+    
     
     </Text>
     <Text huntingZoneId="211" id="3" prevId="2" villagerId="1028">
          
+         
         <Page social="4">Os nagas não são como os piratas comuns. Os piratas comuns saberiam exatamente o valor de todas essas antiguidades. Mas tudo isso estava bem debaixo do nariz - ou melhor, do focinho - dos nagas o tempo todo, e eles não faziam ideia.&lt;BR&gt;&lt;BR&gt;A perda trágica deles é o nosso ganho lucrativo, não é?</Page>
+    
     
     </Text>
     <Text huntingZoneId="211" id="4" villagerId="1028">
          
+         
         <Page social="0">Não sinta que precisa limpar toda a gruta em uma única incursão, &lt;PCNAME&gt;. Esses piratas não vão a lugar algum, você sabe.</Page>
+    
     
     </Text>
 </QuestDialog>

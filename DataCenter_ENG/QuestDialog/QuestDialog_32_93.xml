@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="32" id="93" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="73" id="100" prevId="0" villagerId="1009">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="32" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="73" prevId="0" villagerId="1009">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="73" id="2" prevId="0" villagerId="1009">
-         
+    <Text id="2" huntingZoneId="73" prevId="0" villagerId="1009">
         <Page social="0">Bah! Can't get up the mountain without being attacked on all sides!&lt;BR&gt;&lt;BR&gt;Want another mission? Take out Stalker Company {@LinkCreature:32#7#reapers}, {@LinkCreature:32#8#destroyers}, and {@LinkCreature:32#9#snipers}, and {@LinkCreature:32#12#Sihran templars}.&lt;BR&gt;&lt;BR&gt;Report to Relinda when you're done.</Page>
-    
     </Text>
-    <Text huntingZoneId="232" id="3" prevId="2" villagerId="1001">
-         
+    <Text id="3" huntingZoneId="232" prevId="2" villagerId="1001">
         <Page social="4">Your deeds will do wonders for morale, &lt;PCNAME&gt;.</Page>
-    
     </Text>
-    <Text huntingZoneId="232" id="4" villagerId="1001">
-         
+    <Text id="4" huntingZoneId="232" villagerId="1001">
         <Page social="0">If you have dead mercenaries, I have the reward.</Page>
-    
     </Text>
 </QuestDialog>

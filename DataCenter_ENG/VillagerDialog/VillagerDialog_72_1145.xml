@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="72" id="1145" voiceTypeId="113">
-    <Text huntingZoneId="72" id="1" endSocial="14" prevId="0" villagerId="1145">
-         
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1145" huntingZoneId="72" voiceTypeId="113" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="72" prevId="0" villagerId="1145" endSocial="14">
         <Page social="4" voiceTypeId="0">You learn quickly that in a battle, you can often depend only upon yourself.&lt;BR&gt;&lt;BR&gt;The same is true for your equipment. Is the fierce looking piece of pretty actually durable or will it shatter at the first strike? Trust in your works.</Page>
-    
     </Text>
 </VillagerDialog>

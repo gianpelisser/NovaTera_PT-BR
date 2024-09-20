@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="19" id="34" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="19" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="219" id="100" prevId="0" villagerId="1006">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="219" id="2" prevId="0" villagerId="1006">
          
+         
         <Page social="4">Ah, você é um soldado da federação? Só... pode acabar com isso? &lt;NEXTPAGEBUTTON&gt;&amp;quot;O que aconteceu com você?&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Todo mundo simplesmente... estava tudo como sempre, e então todos começaram a perder a cabeça. Não consigo nem explicar. &lt;BR&gt;&lt;BR&gt;Eles mataram... eles mataram todos em nossa aldeia. Por favor, livre-se deles antes que façam algo pior. Mire nos {@linkcreature:19#4002#Lokain cleavers} e nos {@linkcreature:19#4001#Lokian rippers}. Traga-me algo tangível para que eu possa ter certeza de que eles realmente se foram.</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="3" prevId="2" villagerId="1006">
          
+         
         <Page social="4">Obrigado a você. Isso... isso me traz paz.&lt;BR&gt;&lt;BR&gt;Por favor, pegue isso. É tudo o que eu tenho.</Page>
+    
     
     </Text>
     <Text huntingZoneId="219" id="4" villagerId="1006">
          
+         
         <Page social="0">Por favor... não tenho muito tempo e só preciso de um momento de paz antes de ir embora.</Page>
+    
     
     </Text>
 </QuestDialog>

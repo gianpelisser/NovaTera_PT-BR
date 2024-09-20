@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="26" id="94" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="26" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="69" id="100" prevId="0" villagerId="1016">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="69" id="2" prevId="0" villagerId="1016">
          
+         
         <Page social="5">Outro surto de criaturas hostis está ameaçando as operações na Bacia da Bênção. Preciso que você mate {@LinkCreature:26#2006#tainted mycanars}, {@LinkCreature:26#3001#soulkeepers} e {@LinkCreature:26#3002#hallowed sentinels} para proteger os cidadãos da federação.&lt;BR&gt;&lt;BR&gt;Relate a Naerie quando a missão estiver concluída.</Page>
+    
     
     </Text>
     <Text huntingZoneId="226" id="3" prevId="2" villagerId="1004">
          
+         
         <Page social="5">Seus esforços tornarão todas as nossas vidas mais seguras. Muito obrigado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="226" id="4" villagerId="1004">
          
+         
         <Page social="0">Os {@LinkCreature:26#2006#micanares contaminados}, os {@LinkCreature:26#3001#guardiões da alma} e as {@LinkCreature:26#3002#sentinelas sagradas} são uma ameaça constante. Considere-se contratado para matá-los.</Page>
+    
     
     </Text>
 </QuestDialog>

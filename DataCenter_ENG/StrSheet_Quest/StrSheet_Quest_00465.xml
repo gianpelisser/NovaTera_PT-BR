@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="1531001" string="More than One Flay to Skin a Cat" />
-    <String id="1531002" string="Whoohoo!" />
-    <String id="1531003" string="Thank you! Thank you!" />
-    <String id="1531004" string="Sabertooth Fur" />
-    <String id="1531005" string="Skin rabid inky sabertooths and collect their fur." />
-    <String id="1531006" string="Bring Panpi his sabertooth fur." />
-    <String id="1531007" string="&quot;Enjoy!&quot;" />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="1527001" string="Stop the Bleeding" />
+    <String id="1527002" string="Thank you, soldier!" />
+    <String id="1527003" string="Help is on the way, folks!" />
+    <String id="1527004" string="&quot;Anything for fellow soldiers.&quot;" />
+    <String id="1527005" string="Collect sylva fibers for bandages." />
+    <String id="1527006" string="Return to Kamran with the sylva fibers." />
 </StrSheet_Quest>

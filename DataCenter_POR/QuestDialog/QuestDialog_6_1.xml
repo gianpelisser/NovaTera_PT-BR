@@ -1,51 +1,70 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="6" id="1" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="6" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0">Depois que os kulkaris de Gutrend invadiram o Vale dos Titãs ao sul de Lumbertown, o prefeito Daven enviou você para ajudar a conter o problema e restaurar a paz.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0">Ordens Urgentes de Missão&lt;BR&gt;&lt;BR&gt;Os Gutrends avançaram profundamente no Vale dos Titãs.&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;&lt;BR&gt;Apresentem-se ao Prefeito Daven, em Lumbertown, para receber sua missão.</Page>
+    
     
     </Text>
     <Text huntingZoneId="60" id="3" prevId="2" villagerId="1014">
          
+         
         <Page social="4">Você está aqui por causa do assunto Gutrend, certo? Montamos um posto de defesa no Rancho Dois Carvalhos, mas não sei quanto tempo ele aguentará.&lt;BR&gt;&lt;BR&gt;Passe pelo portão sul, vá até o rancho e encontre {@LinkCreature:206#1010#Petrina}. Ela saberá como usar você.</Page>
+    
     
     </Text>
     <Text huntingZoneId="206" id="4" prevId="3" villagerId="1010">
          
+         
         <Page social="4">Você está aqui para ajudar? Muito bem. Os Gutrends parecem burros, mas não se deixe enganar. Subestime-os e eles o derrubarão.&lt;BR&gt;&lt;BR&gt;Mas, apesar de toda a sua esperteza, eles ainda tendem a confiar em seu líder, {@LinkCreature:6#7051#Smulch}. Se conseguirmos derrubar esse, o resto deve ser mais fácil de atingir.&lt;BR&gt;&lt;BR&gt;Tenha cuidado lá fora. Ele é conhecido por esmagar o crânio dos inimigos com um único golpe.</Page>
+    
     
     </Text>
     <Text huntingZoneId="206" id="5" prevId="4" villagerId="1010">
          
+         
         <Page social="4">É mesmo? Você cuidou dele? Ele está acabado? Mandei meus melhores soldados para lá e eles foram massacrados! Mas você vai até lá e o mata como se não fosse nada! &lt;BR&gt;&lt;BR&gt;Não que eu o estivesse enviando em uma missão suicida ou algo assim. Quero dizer, eu tinha fé em você. Daven falou muito bem de você.&lt;BR&gt;&lt;BR&gt;À luz do seu sucesso, o que você diria de outro favor?&lt;NEXTPAGEBUTTON&gt;"Um favor como esse?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Bem, estamos controlando as coisas por aqui, mas o Rancho Echo está pedindo ajuda.&lt;BR&gt;&lt;BR&gt;Enquanto nos recuperamos, preciso que você vá até o rancho e veja se pode ajudar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="206" id="6" prevId="5" villagerId="1005">
          
+         
         <Page social="4">Os reforços nunca pareceram tão bons. Siga para o leste até o que restou de Colchester e encontre {@LinkCreature:206#1003#Sozia}. Ela está com as mãos ocupadas por lá.</Page>
+    
     
     </Text>
     <Text huntingZoneId="206" id="7" prevId="6" villagerId="1003">
          
+         
         <Page social="4">Se você não estiver aqui para ajudar, a estrada é por ali. Não temos espaço para mocassins. Não mais.&lt;BR&gt;&lt;BR&gt;Se vocês são meus reforços, preciso que encontrem algum sobrevivente na cidade. Tragam-nos até mim. E façam isso rapidamente.</Page>
+    
     
     </Text>
     <Text huntingZoneId="6" id="8" villagerId="1">
          
+         
         <Page social="0">Ajuda! Aqui!</Page>
+    
     
     </Text>
     <Text huntingZoneId="206" id="9" prevId="7" villagerId="1003">
          
+         
         <Page social="4">Você ajudou tantas pessoas! Por favor, aceite isso. &lt;BR&gt;&lt;BR&gt;Não poderíamos tê-los salvado sem você.</Page>
+    
     
     </Text>
 </QuestDialog>

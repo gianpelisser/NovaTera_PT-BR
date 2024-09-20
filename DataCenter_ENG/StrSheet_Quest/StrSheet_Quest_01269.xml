@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4532001" string="Tuwangis in the Mist" />
-    <String id="4532002" string="Just stun them, yes?" />
-    <String id="4532003" string="I couldn't have done it without you." />
-    <String id="4532004" string="Capture {@creature:45#4002$$argonomorph tuwangis} east of {@Rgn:45009$$Camp Insanity}." />
-    <String id="4532005" string="&quot;It was nothing, really.&quot;" />
-    <String id="4532006" string="Collect stunned tuwangis." />
-    <String id="4532007" string="Return to Gelta with the unconscious tuwangis." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4527001" string="Shooting from the High Ground" />
+    <String id="4527002" string="Climb down east of {@Rgn:45006$$Field Base Reciprocity}. It's a shortcut." />
+    <String id="4527003" string="Welcome to {@Rgn:45008$$Field Base Valiance}." />
+    <String id="4527004" string="Kill {@creature:45#3001#argonomorph Lokian archers} around {@Rgn:45006$$Field Base Reciprocity}." />
+    <String id="4527005" string="&quot;I'm at your service.&quot;" />
+    <String id="4527006" string="Report to {@Creature:245#1005$$Lahiah} at {@Rgn:45008$$Field Base Valiance}." />
 </StrSheet_Quest>

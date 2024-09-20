@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="41" id="93" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="75" id="100" prevId="0" villagerId="1024">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="41" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="75" prevId="0" villagerId="1024">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="75" id="2" prevId="0" villagerId="1024">
-         
+    <Text id="2" huntingZoneId="75" prevId="0" villagerId="1024">
         <Page social="0">The Black Claws refuse to leave us in peace, so I want you to give them a message—in blood.&lt;BR&gt;&lt;BR&gt;Kill the {@LinkCreature:41#4004#Black Claw berserkers}, {@LinkCreature:41#4005#slaughterers} and {@LinkCreature:41#3006#blood fighters} at the Arena of Blood and in southern Feral Valley. Collect their badges as proof of their deaths.&lt;BR&gt;&lt;BR&gt;Take the badges to Jaebel at Experior Outpost.</Page>
-    
     </Text>
-    <Text huntingZoneId="241" id="3" prevId="2" villagerId="1003">
-         
+    <Text id="3" huntingZoneId="241" prevId="2" villagerId="1003">
         <Page social="4">Well done. Please take this token of gratitude from the federation.</Page>
-    
     </Text>
-    <Text huntingZoneId="241" id="4" villagerId="1003">
-         
+    <Text id="4" huntingZoneId="241" villagerId="1003">
         <Page social="0">We need you to eliminate the Black Claws at the Arena of Blood and in south Feral Valley.</Page>
-    
     </Text>
 </QuestDialog>

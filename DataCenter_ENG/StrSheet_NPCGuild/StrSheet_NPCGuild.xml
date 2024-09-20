@@ -1,17 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_NPCGuild xmlns="https://vezel.dev/novadrop/dc/StrSheet_NPCGuild" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_NPCGuild StrSheet_NPCGuild.xsd">
-    <String id="601" toolTip="A Mysterium group dedicated to unlocking the secrets of defeating the argons in Val Tirkai." string="Invalesco" />
-    <String id="602" toolTip="A unit of irregular forces engaged in operations against the argons on the front lines." string="Shariar" />
-    <String id="603" toolTip="A loose fraternity of soldiers, mercenaries, and hunters who love big game and have taken the battle to the argons." string="Valsekyr Hunt" />
-    <String id="604" toolTip="Followers of the principles of Hyderad, who work to preserve the past and protect the environment." string="Hyderad Legacy" />
-    <String id="605" toolTip="A secret coalition of merchants and soldiers who look after the city's best interests and act on its behalf." string="Hands of Velika" />
-    <String id="606" toolTip="An elite team of scholars dedicated to unlocking the secrets behind the nexuses." string="Agnitor" />
-    <String id="607" toolTip="A research organization of mages and engineers researching to combine magic and mechanical engineering." string="Unified Theory Institute" />
-    <String id="608" toolTip="A merchant guild committed to thriving commerce, by any means necessary." string="Jax Trust" />
-    <String id="609" toolTip="The Valkyon Federation's effort to uncover the secrets of Northern Arun." string="Vanguard Initiative" />
-    <String id="901" toolTip="The true champions of the battlegrounds. (Players accrue a maximum of 40000 credits per week.)" string="Bellicarium" />
-    <String id="902" toolTip="Fighters who dominate the battleground, seething with bloodlust. (Players accrue a maximum of 40000 credits per week.)" string="Killing Spree" />
-    <String id="90101" toolTip="The true champions of the battlegrounds." string="Bellicarium (max credit cap 40,000 for 7 days)" />
-    <String id="90201" toolTip="Fighters who dominate the battleground, seething with bloodlust." string="Killing Spree (max credit cap 40,000 for 7 days)" />
-    <String id="903" toolTip="Those who seek fame and fortune through noctenium regardless of alliance." string="Noctenium Society" />
+<StrSheet_NPCGuild xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_NPCGuild StrSheet_NPCGuild.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_NPCGuild">
+    <String id="601" string="Invalesco" toolTip="A Mysterium group dedicated to unlocking the secrets of defeating the argons in Val Tirkai." />
+    <String id="602" string="Shariar" toolTip="A unit of irregular forces engaged in operations against the argons on the front lines." />
+    <String id="603" string="Valsekyr Hunt" toolTip="A loose fraternity of soldiers, mercenaries, and hunters who love big game and have taken the battle to the argons." />
+    <String id="604" string="Hyderad Legacy" toolTip="Followers of the principles of Hyderad, who work to preserve the past and protect the environment." />
+    <String id="605" string="Hands of Velika" toolTip="A secret coalition of merchants and soldiers who look after the city's best interests and act on its behalf." />
+    <String id="606" string="Agnitor" toolTip="An elite team of scholars dedicated to unlocking the secrets behind the nexuses." />
+    <String id="607" string="Unified Theory Institute" toolTip="A research organization of mages and engineers researching to combine magic and mechanical engineering." />
+    <String id="608" string="Jax Trust" toolTip="A merchant guild committed to thriving commerce, by any means necessary." />
+    <String id="609" string="Vanguard Initiative" toolTip="The Vanguard Initiative is the Valkyon Federation's effort to uncover the secrets of Northern Arun and secure her fate." />
+    <String id="901" string="Bellicarium" toolTip="The true champions of the battlegrounds. (Players accrue a maximum of 40000 credits per week.)" />
+    <String id="902" string="Killing Spree" toolTip="Fighters who dominate the battleground, seething with bloodlust. (Players accrue a maximum of 40000 credits per week.)" />
+    <String id="90101" string="Bellicarium (max credit cap 40,000 for 7 days)" toolTip="The true champions of the battlegrounds." />
+    <String id="90201" string="Killing Spree (max credit cap 40,000 for 7 days)" toolTip="Fighters who dominate the battleground, seething with bloodlust." />
+    <String id="903" string="Noctenium Society" toolTip="Those who seek fame and fortune through noctenium regardless of alliance." />
+    <String id="904" string="Treasure Hunters (Season 1)" toolTip="A circle of people who are true experts in monsters and dungeons." />
+    <String id="905" string="Bounty Hunters (Season 1)" toolTip="A society that seeks only strong warriors to participate in competitions and fulfill orders for murder." />
 </StrSheet_NPCGuild>

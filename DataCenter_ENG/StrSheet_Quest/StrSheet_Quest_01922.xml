@@ -1,22 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="18115001" string="Moment of Truth" />
-    <String id="18115002" string="&quot;It's Paesyn. Of course I'll help.&quot;" />
-    <String id="18115003" string="&quot;Are you actually worried about him?&quot;" />
-    <String id="18115004" string="&quot;I haven't seen him in a while.&quot;" />
-    <String id="18115005" string="Find Zolyn and talk to her." />
-    <String id="18115006" string="&quot;He's more capable than you think. But yes, I'll help.&quot;" />
-    <String id="18115007" string="&quot;Looks like he went this way.&quot;" />
-    <String id="18115008" string="Look for Paesyn's trail." />
-    <String id="18115009" string="&quot;He was running from something...&quot;" />
-    <String id="18115010" string="Look for Paesyn's trail." />
-    <String id="18115011" string="Save Paesyn from the monsters." />
-    <String id="18115012" string="&quot;This is the last time, right? Then okay.&quot;" />
-    <String id="18115013" string="Talk to Paesyn." />
-    <String id="18115014" string="&quot;I think you just made his day, Zolyn.&quot;" />
-    <String id="18115015" string="Deliver the bouquet of flowers to Zolyn." />
-    <String id="18115016" string="&quot;She does seem a lot less murder-y. Well done, Paesyn.&quot;" />
-    <String id="18115017" string="Talk to Paesyn." />
-    <String id="18115018" string="&quot;Sounds good. Take care, Paesyn!&quot;" />
-    <String id="18115019" string="Speak with Zolyn." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="18114001" string="The Search for Truth" />
+    <String id="18114002" string="&quot;Got it.&quot;" />
+    <String id="18114003" string="&quot;Let me handle this.&quot;" />
+    <String id="18114004" string="Ask Marat about archdeva activities." />
+    <String id="18114005" string="&quot;I'm no one...and I was just leaving.&quot;" />
+    <String id="18114006" string="Find the cave and use the truth needle on {@LinkCreature:181#2008}." />
+    <String id="18114007" string="Find Shifting Map in Camp Commander's Chest." />
+    <String id="18114008" string="&quot;Shh. I will. Don't worry.&quot;" />
+    <String id="18114009" string="Speak to the Exhausted Prisoner." />
+    <String id="18114010" string="Climb the ladder and destroy the wooden cage." />
+    <String id="18114011" string="&quot;I'll draw them off. When I do—run!&quot;" />
+    <String id="18114012" string="Release Enslaved Khirian Archer." />
+    <String id="18114013" string="&quot;Plenty of time for that later. I've got this.&quot;" />
+    <String id="18114014" string="Release Enslaved Khirian Warrior." />
+    <String id="18114015" string="&quot;You might be right. One way to find out.&quot;" />
+    <String id="18114016" string="Go to Baaldaz Post and report to Dougal." />
 </StrSheet_Quest>

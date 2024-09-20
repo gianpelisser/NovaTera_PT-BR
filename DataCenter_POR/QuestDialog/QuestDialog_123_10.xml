@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="123" id="10" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="10" huntingZoneId="123" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="123" id="100" prevId="0" villagerId="9001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="123" id="2" prevId="0" villagerId="9001">
          
+         
         <Page social="1">Os cabeças de ovo da União Iluminada parecem ter sempre noctênio à mão. Vamos cortar o estoque deles pela raiz, certo? &lt;BR&gt;&lt;BR&gt;Infiltrar-se no território deles e colher noctênio de {@linkcreature:122#202#tor mugatos} e {@linkcreature:122#205#oasis ghilliedhus}.&lt;BR&gt;&lt;BR&gt;Trazer de volta o noctênio não é tão importante quanto impedir que o sindicato o tenha, então faça o que quiser com o noctênio que encontrar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="123" id="3" prevId="2" villagerId="9001">
          
+         
         <Page social="0">Seu trabalho dá força ao pedido!</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="57" id="34" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="34" huntingZoneId="57" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="257" id="100" prevId="0" villagerId="1013">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="257" id="2" prevId="0" villagerId="1013">
          
+         
         <Page social="4">Os sikandaris desejam retomar o controle de sua incubadora e nós os obrigaremos a isso.&lt;BR&gt;&lt;BR&gt;Killian trouxe alguns fimbrilisks de ébano, provavelmente para manter os argons e os sikandaris na linha, e eles devem morrer.&lt;BR&gt;&lt;BR&gt;Com os fimbrilisks mortos, podemos trabalhar para eliminar os argons.</Page>
+    
     
     </Text>
     <Text huntingZoneId="257" id="3" prevId="2" villagerId="1013">
          
+         
         <Page social="4">Temos que esperar que os sikandaris reconheçam que estamos seguindo o caminho mais elevado, ajudando-os apesar do que fizeram conosco.&lt;BR&gt;&lt;BR&gt;É bom que o objetivo valha o preço.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,54 +1,74 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="605" id="13" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="13" huntingZoneId="605" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="63" id="100" prevId="0" villagerId="3002">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="2" prevId="0" villagerId="3002">
          
+         
         <Page social="4">De volta para mais sangue? {@LinkCreature:63#3003#Elthienne} lhe dirá aonde ir e o que matar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="3003">
          
+         
         <Page social="4">O que você acha de Val Aureum? Pronto para pegar a estrada e fazer meu trabalho sujo?&lt;BR&gt;&lt;BR&gt;Incrível!</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="4" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="5" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="6" prevId="2" villagerId="3002">
          
+         
         <Page social="5">{@Rgn:18001#Ruínas Colossais}, hein? Então, eles são grandes? &lt;BR&gt;&lt;BR&gt;Adivinhe quem tem seu dinheiro? Sim, {@LinkCreature:63#3003#Elthienne}.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="7" villagerId="3002">
          
+         
         <Page social="0">Precisamos que você derrube alguns {@LinkCreature:18#17$$ teraliths antigos} nas {@Rgn:18001#Ruínas Colossais} e traga de volta fragmentos de seus corpos rochosos grandes e divertidos.&lt;BR&gt;&lt;BR&gt;Esse material é ótimo para se livrar de calos. É claro que não é só para isso que as usamos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="8" prevId="6" villagerId="3002">
          
+         
         <Page social="5">Como foi a viagem até as {@Rgn:18001#Ruínas Colossais}? Não foi um passeio no parque, certo? &lt;BR&gt;&lt;BR&gt;Obrigado. {A Elthienne lhe pagará por esse trabalho.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="9" villagerId="3002">
          
+         
         <Page social="0">Precisamos que você derrube alguns {@LinkCreature:18#18#gigantes gladiadores} nas {@Rgn:18001#Ruínas Colossais} e me traga aquelas algemas elegantes que eles usam em seus enormes polegares. Elas são feitas de um metal raro que é difícil de encontrar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="10" prevId="8" villagerId="3003">
          
+         
         <Page social="4">Excelente trabalho! &lt;BR&gt;&lt;BR&gt;Onde o enviaremos em seguida?</Page>
+    
     
     </Text>
 </QuestDialog>

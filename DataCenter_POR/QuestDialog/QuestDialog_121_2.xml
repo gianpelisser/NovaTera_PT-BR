@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="121" id="2" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="121" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="121" id="100" prevId="0" villagerId="220021">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="121" id="2" prevId="0" villagerId="220021">
          
+         
         <Page social="1">Nossa inteligência mais recente revela que outras alianças estão se infiltrando em nosso território. Preciso que você patrulhe a área de invasão de Aurum e os barrens.&lt;BR&gt;&lt;BR&gt;Vocês também devem caçar os {@linkcreature:121#202#Aurum mugatos} e {@linkcreature:121#205#badlands ghilliedhus}.&lt;BR&gt;&lt;BR&gt;&lt;font color='#660000'&gt;Somos uma aliança e estamos juntos nessa! Se os membros de nível 65 ajudarem os membros de nível inferior da aliança nessa tarefa, eu darei a recompensa de bônus!&lt;/font&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="121" id="3" prevId="2" villagerId="220021">
          
+         
         <Page social="0">Obrigado, &lt;PCNAME&gt;!&lt;BR&gt;&lt;BR&gt;Mais noctênios para nós! O Coletivo de Livre Comércio está a caminho do topo!</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,20 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="60203001" string="High-Value Targets" />
-    <String id="60203002" string="I hope they feel pain. Kaia grant me that wish." />
-    <String id="60203003" string="Hah! That'll teach those wretches to mess with us!" />
-    <String id="60203004" string="" />
-    <String id="60203005" string="" />
-    <String id="60203006" string="" />
-    <String id="60203007" string="Meet {@LinkCreature:248#3003#Vikhonul} at {@Rgn:48002$$Khanovar Citadel}." />
-    <String id="60203008" string="&quot;I like justice. Let's do it.&quot;" />
-    <String id="60203009" string="Hunt down and kill {@LinkCreature:48#25#Baruldur}." />
-    <String id="60203010" string="Hunt down and kill {@LinkCreature:48#27#Nauti}." />
-    <String id="60203011" string="Hunt down and kill {@LinkCreature:48#28$$Mogmolor}." />
-    <String id="60203012" string="&quot;Victory for Valkyon!&quot;" />
-    <String id="60203013" string="Report back to {@LinkCreature:248#3003#Vikhonul} at {@Rgn:48002$$Khanovar Citadel}." />
-    <String id="60203014" string="&quot;Victory for Valkyon!&quot;" />
-    <String id="60203015" string="Report back to {@LinkCreature:248#3003#Vikhonul} at {@Rgn:48002$$Khanovar Citadel}." />
-    <String id="60203016" string="&quot;Victory for Valkyon!&quot;" />
-    <String id="60203017" string="Report back to {@LinkCreature:248#3003#Vikhonul} at {@Rgn:48002$$Khanovar Citadel}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="60201001" string="A Nightmare on My Street" />
+    <String id="60201002" string="Argons will corrupt anything, even abominations like corpsefiends." />
+    <String id="60201003" string="Those things make my horns itch." />
+    <String id="60201004" string="" />
+    <String id="60201005" string="" />
+    <String id="60201006" string="" />
+    <String id="60201007" string="Meet {@LinkCreature:78#3006} at the main gate of {@Rgn:78001$$Zulfikar Fortress}." />
+    <String id="60201008" string="&quot;I'll handle it.&quot;" />
+    <String id="60201009" string="Kill the {@LinkCreature:48#29#argonomorph corpsefiends} in front of {@Rgn:78001$$Zulfikar Fortress}." />
+    <String id="60201010" string="Kill the {@LinkCreature:48#29#argonomorph corpsefiends} in front of {@Rgn:78001$$Zulfikar Fortress}." />
+    <String id="60201011" string="Kill the {@LinkCreature:48#29#argonomorph corpsefiends} in front of {@Rgn:78001$$Zulfikar Fortress}." />
+    <String id="60201012" string="&quot;The pleasure's all mine.&quot;" />
+    <String id="60201013" string="Report back to {@LinkCreature:78#3006}." />
 </StrSheet_Quest>

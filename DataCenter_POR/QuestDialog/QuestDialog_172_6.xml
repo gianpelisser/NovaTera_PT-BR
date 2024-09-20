@@ -1,57 +1,79 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="172" id="6" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="6" huntingZoneId="172" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="823" id="100" prevId="0" villagerId="3007">
          
+         
         <Page social="0">O voo para o norte de Arun não é nada tranquilo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="823" id="2" prevId="0" villagerId="3007">
          
+         
         <Page social="4">Estou combinando sabores com os quais você nunca sonhou. Morango com alho! Caramelo com raiz-forte! Vou levá-lo à Cidade dos Sabores! &lt;BR&gt;&lt;BR&gt;O que significa que não posso fazer pedidos especiais. Se Paesyn quiser comer, Paesyn pode comer com as outras tropas.&lt;NEXTPAGEBUTTON&gt;"Eu levo para ele."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">É mesmo? Isso parece gentil.&lt;BR&gt;&lt;BR&gt;Estranho.&lt;BR&gt;&lt;BR&gt;Tudo bem. Leve esta lancheira totalmente gourmet para ele.</Page>
+    
     
     </Text>
     <Text huntingZoneId="823" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="4">Meu bom amigo, &lt;PCNAME&gt;! Estamos a caminho do norte de Arun! Não é emocionante? &lt;NEXTPAGEBUTTON&gt;"Um pouco estimulante."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Sinto cheiro de comida. Você trouxe meu almoço? Obrigado! Você é maravilhoso.&lt;BR&gt;&lt;BR&gt;Mas não posso comer. Estou muito nervoso. Vou fazer com que ela goste de mim! &lt;BR&gt;&lt;BR&gt;Grrr!&lt;BR&gt;&lt;BR&gt;Será que estou gostando?</Page>
+    
     
     </Text>
     <Text huntingZoneId="823" id="4" prevId="3" villagerId="1001">
          
+         
         <Page social="4">Eu não conseguia fazer isso. O olhar dela achatou minhas orelhas!&lt;BR&gt;&lt;BR&gt;Poderia me fazer um favor? Eu lhe escrevi um poema para animá-la, mas não posso lhe dar! Você pode?</Page>
+    
     
     </Text>
     <Text huntingZoneId="823" id="5" prevId="4" villagerId="1002">
          
+         
         <Page social="4">Sim, &lt;PCNAME&gt;?&lt;NEXTPAGEBUTTON&gt;"Paesyn escreveu isso para você."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">"Havia uma pessoa idosa de Ischia, cuja conduta se tornava cada vez mais ousada?" O que isso quer dizer? Eu sou de Popolion.&lt;BR&gt;&lt;BR&gt;Não há tempo para essas bobagens. Estamos em uma missão.&lt;BR&gt;&lt;BR&gt;Não encoraje Senhor bola-de-pelo. Torne-se útil e obtenha um relátório da situação com o Sr. Haruho.</Page>
+    
     
     </Text>
     <Text huntingZoneId="823" id="6" prevId="5" villagerId="1003">
          
+         
         <Page social="4">As coisas parecem estar bem por aqui, &lt;PCNAME&gt;.&lt;BR&gt;&lt;BR&gt;Pico também está de olho. Verifique com ele.</Page>
+    
     
     </Text>
     <Text huntingZoneId="823" id="7" prevId="6" villagerId="1004">
          
+         
         <Page social="4">O que poderia estar errado? Estamos no céu! &lt;BR&gt;&lt;BR&gt;O céu está limpo, a velocidade é estável. Nada poderia dar errado.&lt;NEXTPAGEBUTTON&gt;"Você só precisava dar azar."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">O que foi isso? &lt;BR&gt;&lt;BR&gt;Estamos sendo atacados!</Page>
+    
     
     </Text>
     <Text huntingZoneId="823" id="8" prevId="7" villagerId="1004">
          
+         
         <Page social="4">Quem eram eles? &lt;BR&gt;&lt;BR&gt;Eles devem estar no convés. Você tem que detê-los.&lt;BR&gt;&lt;BR&gt;Encontre Lekul!</Page>
+    
     
     </Text>
     <Text huntingZoneId="823" id="9" prevId="8" villagerId="1100">
          
+         
         <Page social="4">&lt;PCNAME&gt;, temos uma luta em nossas mãos!</Page>
+    
     
     </Text>
 </QuestDialog>

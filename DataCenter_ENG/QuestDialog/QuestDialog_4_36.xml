@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="36" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="204" id="100" prevId="0" villagerId="1134">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="4" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="204" prevId="0" villagerId="1134">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="204" id="2" prevId="0" villagerId="1134">
-         
+    <Text id="2" huntingZoneId="204" prevId="0" villagerId="1134">
         <Page social="4">I know Castanica is worried about durignite for their shields, but they're running short on metals needed for the war effort, too.&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Shadmetal ore&lt;/B&gt; in particular is in short supply.&lt;BR&gt;&lt;BR&gt;The good news is that you don't need to excavate an entire mine to get to it—many shadmetal deposits break through to the surface. Bring me some shadmetal ore, and all of Castanica will shout your praises.</Page>
-    
     </Text>
-    <Text huntingZoneId="204" id="3" prevId="2" villagerId="1134">
-         
+    <Text id="3" huntingZoneId="204" prevId="2" villagerId="1134">
         <Page social="4">This is perfect. Thank you, &lt;PCNAME&gt;.</Page>
-    
     </Text>
-    <Text huntingZoneId="204" id="4" villagerId="1134">
-         
+    <Text id="4" huntingZoneId="204" villagerId="1134">
         <Page social="0">With the mines shut down, Castanica is in crisis. Every little bit of shadmetal helps, friend!</Page>
-    
     </Text>
 </QuestDialog>

@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Dungeon xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd">
-    <String id="9038001" string="Found gulas." />
-    <String id="9038002" string="Ambushed!" />
-    <String id="9038003" string="Reinforcements approach." />
-    <String id="9038004" string="You feel teleportation energy nearby." />
-    <String id="9038005" string="Persistent bastards!! I will finish them myself!!" />
+<StrSheet_Dungeon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Dungeon StrSheet_Dungeon.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Dungeon">
+    <String id="9037001" string="Sorcha's challenge has begun." />
+    <String id="9037012" string="Prepare for the first wave." />
+    <String id="9037002" string="Prepare for the second wave." />
+    <String id="9037003" string="Prepare for the third wave." />
+    <String id="9037004" string="Sorcha is safe. You have won the challenge." />
+    <String id="9037005" string="Help me! I'm being attacked!" />
+    <String id="9037006" string="The demons are getting through! Everyone, fall back!" />
+    <String id="9037007" string="Sorcha has less than half her HP. If Sorcha dies, the quest fails!" />
+    <String id="9037008" string="Keep it together! I've almost got it!" />
+    <String id="9037009" string="Somebody help! I can't fight them!" />
+    <String id="9037010" string="The demons are interfering! Get them off of me!" />
+    <String id="9037011" string="Quest failed. You will be taken out in 3 seconds." />
 </StrSheet_Dungeon>

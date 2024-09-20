@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="2272001" string="(Guild) Suppression Orders: Traitors" />
-    <String id="2272002" string="Proof of Kill: Traitor Deaths" />
-    <String id="2272003" string="&quot;For the federation!&quot;" />
-    <String id="2272004" string="Eliminate vadoma witches and shadow guides in the western section of the Malefic Laboratories and the Witch-Queen Catacombs." />
-    <String id="2272005" string="Report to Nidella in Pora Elinu." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="2250001" string="Cannons and Candy" />
+    <String id="2250002" string="Talk to {@LinkCreature:222#8001} to teleport to the Academy's party hall and defend the candy." />
+    <String id="2250003" string="&quot;Happy Halloween!&quot;" />
+    <String id="2250004" string="Report to {@LinkCreature:222#8001}." />
 </StrSheet_Quest>

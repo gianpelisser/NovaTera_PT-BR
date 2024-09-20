@@ -1,36 +1,49 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="9" id="4" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="9" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="209" id="100" prevId="0" villagerId="1031">
          
+         
         <Page social="0">Você ajudou Elleon a derrotar Samael. Você recebeu a gratidão da federação e os elogios de Velik. Velik também disse que você passou em um teste, embora ela não tenha explicado o que isso significava.</Page>
+    
     
     </Text>
     <Text huntingZoneId="209" id="2" prevId="0" villagerId="1031">
          
+         
         <Page social="4">Todas as evidências - os registros, a lança, os relatórios - estão indo para pessoas de confiança em Velika. O plano é prender Samael publicamente, para que todos vejam que ninguém está acima da lei.&lt;BR&gt;&lt;BR&gt;Pretendemos bloquear a rota de fuga de Samael para que ele não possa fugir de Velika.&lt;BR&gt;&lt;BR&gt;Felizmente para nós, o Cônsul Dougal descobriu onde fica o esconderijo de Samael.</Page>
+    
     
     </Text>
     <Text huntingZoneId="209" id="3" prevId="2" villagerId="1032">
          
+         
         <Page social="10">Bem vindo, &lt;PCNAME&gt;! Já faz tempo demais, e as circunstâncias agora são muito infelizes.&lt;BR&gt;&lt;BR&gt;O General Samael, um traidor... É de doer o coração.&lt;BR&gt;&lt;BR&gt;Devemos levá-lo à justiça, com sua ajuda, é claro. Você deve eliminar o {@LinkCreature:9#2100#storm rush kubai} e o {@LinkCreature:9#2200#bloody half moon Ladek} que guardam o esconderijo dentro do Labirinto de Azarel e nos seguir usando o {@LinkCreature:209#1029#teleportal}.&lt;NEXTPAGEBUTTON&gt;"Teleportal?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="5">Samael não é tolo. Nossos arcanistas detectaram a magia em sua residência oficial em Velika e rastrearam a energia até o Labirinto de Azarel.&lt;BR&gt;&lt;BR&gt;Usaremos sua rota de fuga contra ele e daremos um fim a essa loucura.&lt;BR&gt;&lt;BR&gt;Verei você quando tudo isso acabar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="209" id="4" prevId="3" villagerId="1029">
          
+         
         <Page social="0">(Esse é o teletransporte descrito por Dougal. Você pode usá-lo para se infiltrar na residência de Samael).</Page>
+    
     
     </Text>
     <Text huntingZoneId="401" id="5" prevId="4" villagerId="1010">
          
+         
         <Page social="4">Muito bem, &lt;PCNAME&gt;. Você passou no meu teste e provou ser um verdadeiro campeão da federação. É triste que Samael tenha caído em desgraça - ele já foi um grande soldado - mas fez sua escolha.&lt;BR&gt;&lt;BR&gt;Sem dúvida, a morte de Samael prejudicará os Scions of Lok e sua pequena conspiração se desfará.&lt;BR&gt;&lt;BR&gt;Por enquanto, aceite minha gratidão e respeito. Você serviu bem a Velika. Salvou minha cidade - e talvez minha vida. Muito obrigado.</Page>
+    
     
     </Text>
     <Text huntingZoneId="401" id="6" prevId="5" villagerId="1008">
          
+         
         <Page social="4">Boa luta, &lt;PCNAME&gt;. Se não fosse por você e Elleon, poderíamos ter perdido tudo! Quem imaginaria que Samael poderia acabar desse jeito? O que faz alguém cair tão longe? &lt;BR&gt;&lt;BR&gt;Eu estou ordenando que os rangers rastreiem os Scions restantes. Se pudermos eliminar seus líderes sobreviventes, poderemos acabar com eles também.</Page>
+    
     
     </Text>
 </QuestDialog>

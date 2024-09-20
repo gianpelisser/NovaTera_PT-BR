@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="68" id="1020" voiceTypeId="67">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1020" huntingZoneId="68" voiceTypeId="67">
     <Text huntingZoneId="68" id="1" endSocial="14" prevId="0" villagerId="1020">
          
+         
         <Page social="4">No matter what you do, do not relieve yourself in the Lake of Tears. There was quite a row with Kaiator when we nearly slew a dozen amani tourists who thought the lake was for bathing!</Page>
+    
     
     </Text>
 </VillagerDialog>

@@ -1,34 +1,46 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="63" id="61" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="61" huntingZoneId="63" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="0">Ordens de missão&lt;BR&gt;&lt;BR&gt;Para fortalecer nossas forças no front doméstico, o Quartel General de Velika fornecerá cavalos de guerra para soldados habilidosos. Retorne ao quartel-general imediatamente.&lt;BR&gt;&lt;BR&gt;Dougal, Cônsul de Velika</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="1160">
          
+         
         <Page social="0">Bem-vindo, &lt;PCNAME&gt;! É uma pena que um soldado habilidoso como você tenha andado a pé todo esse tempo.&lt;BR&gt;&lt;BR&gt;É melhor gastar dinheiro com bons cavalos do que com couro de bota extra, não é? Um cavalo veloz deve ajudá-lo a ir de uma missão a outra mais rapidamente.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="4" prevId="3" villagerId="1149">
          
+         
         <Page social="0">Você deve ser o &lt;PCCLASS:lcase&gt; que Dougal mencionou. Eu sabia que você viria, mas... meus cavalos ficaram inquietos ultimamente e não estão obedecendo aos seus cavaleiros.&lt;BR&gt;&lt;BR&gt;Talvez &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=1#-11565.4844,-9482.6436,6291.0557&amp;type=1&amp;name=Veridia Plants"&gt;extrato de veridiana&lt;/A&gt;&lt;/font&gt;possa acalmar os nervos deles. Reúna algumas plantas de veridia por aqui e extraia os óleos. Assim, eu me sentiria melhor para soltar esses grandalhões.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="5" prevId="4" villagerId="1149">
          
+         
         <Page social="0">É exatamente isso - nossos cavalos estão muito melhores! Aceite este pequeno símbolo de minha gratidão. É um dos meus melhores, portanto, espero que seja útil para você.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="6" villagerId="1149">
          
+         
         <Page social="0">Por favor, traga-me &lt;font color='#0080FF'&gt;&lt;A href="markmap:loc=1#-11565.4844,-9482.6436,6291.0557&amp;type=1&amp;name=Veridia Plants"&gt;extrato de veridiana&lt;/A&gt;&lt;/font&gt;. Elas deixarão nossos cavalos menos inquietos.</Page>
+    
     
     </Text>
 </QuestDialog>

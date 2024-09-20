@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="701" id="12" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="701" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="230" id="100" prevId="0" villagerId="7002">
          
+         
         <Page social="0">Você resgatou os aldeões sequestrados pelos vampiros para o Banquete de Sangue.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="2" prevId="0" villagerId="7002">
          
+         
         <Page social="0">Aparentemente, os vampiros não desistem tão facilmente. Eles raptaram vários aldeões e agora estão tentando completar seu ritual com o sangue desses inocentes.&lt;BR&gt;&lt;BR&gt;Você deve voltar ao Banquete de Sangue e libertar os aldeões capturados!</Page>
+    
     
     </Text>
     <Text huntingZoneId="452" id="3" prevId="2" villagerId="101">
          
+         
         <Page social="4">Por favor, me ajude! Esses vampiros querem me matar! &lt;NEXTPAGEBUTTON&gt;&amp;quot;Você está a salvo agora, mas deve ir embora.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="452" id="4" prevId="2" villagerId="102">
          
+         
         <Page social="4">Estou tentando ser corajoso, mas os vampiros mataram todos os outros e, em seguida, virão atrás de mim! &lt;NEXTPAGEBUTTON&gt;&amp;quot;Vá para casa rapidamente, agora - sua família está preocupada.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="5" prevId="3" villagerId="7002">
          
+         
         <Page social="4">Você prestou um serviço nobre hoje, &lt;PCNAME&gt;. Balder sorri para você!</Page>
+    
     
     </Text>
 </QuestDialog>

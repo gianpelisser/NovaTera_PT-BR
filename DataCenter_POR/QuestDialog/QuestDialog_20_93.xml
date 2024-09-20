@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="20" id="93" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="93" huntingZoneId="20" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="65" id="100" prevId="0" villagerId="1012">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="65" id="2" prevId="0" villagerId="1012">
          
+         
         <Page social="0">Quer mais pedidos, não é? Bem, vamos ver o que eu tenho aqui....&lt;BR&gt;&lt;BR&gt;Tudo bem, escuridão total nas minas - mate os {@LinkCreature:20#30140000#Lokian reapers}, {@LinkCreature:20#30143000#Lokian ebonweavers}, {@LinkCreature:20#30141000#Lokian blood mages}, {@LinkCreature:20#30120101#devan rippers} e {@LinkCreature:20#30120100#devan outriders}.&lt;BR&gt;&lt;BR&gt;Fale com Arthgal nos Salões de Utterdark quando você tiver terminado isso.</Page>
+    
     
     </Text>
     <Text huntingZoneId="220" id="3" prevId="2" villagerId="1006">
          
+         
         <Page social="4">Você fez um bom trabalho lá fora! Este é um sinal de nossa gratidão.</Page>
+    
     
     </Text>
     <Text huntingZoneId="220" id="4" villagerId="1006">
          
+         
         <Page social="0">Você veio para conversar, presumo?</Page>
+    
     
     </Text>
 </QuestDialog>

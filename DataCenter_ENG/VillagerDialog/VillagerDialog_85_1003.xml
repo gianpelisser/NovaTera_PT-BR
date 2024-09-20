@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="85" id="1003" voiceTypeId="0">
-    <Text huntingZoneId="85" id="1" endSocial="0" prevId="0" villagerId="1003">
-         
+<VillagerDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1003" huntingZoneId="85" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/VillagerDialog">
+    <Text id="1" huntingZoneId="85" prevId="0" villagerId="1003" endSocial="0">
         <Page social="0">Don't stand still and check out the items. I don't think this &lt;PCCLASS:lcase&gt; will leave without buying anything. HmmHmm!!</Page>
-    
     </Text>
 </VillagerDialog>

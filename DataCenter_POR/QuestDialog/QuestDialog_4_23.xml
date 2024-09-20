@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="23" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="4" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="204" id="100" prevId="0" villagerId="1110">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="204" id="2" prevId="0" villagerId="1110">
          
+         
         <Page social="4">É o uivo que me deixa louco - o uivo dos soldados mortos.&lt;BR&gt;&lt;BR&gt;Na verdade, tivemos um místico popori que passou por aqui há algumas semanas, contando-nos algumas bobagens sobre como "destilações dos assassinos" devolveriam as almas angustiadas ao Sonho. E, mais importante, calá-los! &lt;BR&gt;&lt;BR&gt;Kridan e eu conseguimos a maioria das "destilações" que os popori queriam, mas está faltando uma.&lt;NEXTPAGEBUTTON&gt;"O que está faltando?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">A essência do {@LinkCreature:4#1021#grunnar sulfuroso}. Isso é um pouco demais para Kridan e eu.&lt;BR&gt;&lt;BR&gt;Traga-me a essência do fogo deles e poderemos calar todos esses fantasmas uivantes.</Page>
+    
     
     </Text>
     <Text huntingZoneId="204" id="3" prevId="2" villagerId="1110">
          
+         
         <Page social="4">Obrigado, &lt;PCNAME&gt;. Agora podemos restaurar as almas de nossos camaradas para o Sonho.&lt;BR&gt;&lt;BR&gt;E calá-los para que possamos dormir um pouco!</Page>
+    
     
     </Text>
     <Text huntingZoneId="204" id="4" villagerId="1110">
          
+         
         <Page social="0">Não faça isso apenas por nós, &lt;PCNAME&gt;. Faça isso por aquelas pobres almas atormentadas que estão uivando porque não podem retornar ao Dream.</Page>
+    
     
     </Text>
 </QuestDialog>

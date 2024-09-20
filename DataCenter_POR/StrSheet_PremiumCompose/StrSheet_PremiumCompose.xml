@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='utf-8'?>
 <StrSheet_PremiumCompose xmlns="https://vezel.dev/novadrop/dc/StrSheet_PremiumCompose" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_PremiumCompose StrSheet_PremiumCompose.xsd">
     <String id="1" string="Cubo - Tester_A" />
     <String id="2" string="Cubo de estilo místico" />
@@ -48,12 +47,28 @@
     <String id="48" string="2014 Cubo de estilo da Aniel" />
     <String id="49" string="TERA Cube" />
     <String id="50" string="Cubo de estilo de Litherus" />
+    <String id="51" string="Cubos de Fera do Domador" />
     <String id="52" string="Fashion Cube (ALICE IN TERA) para mulheres" />
     <String id="53" string="Fashion Cube (ALICE IN TERA) para cavalheiros" />
+    <String id="54" string="Cubo no Pais das Maravilhas" />
     <String id="55" string="Caixa de fantasias de Halloween 2014: polícia" />
     <String id="56" string="Costume Box Halloween 2014: enfermeira" />
     <String id="57" string="Caixa de fantasias &quot;Alice no País das Maravilhas&quot; para mulheres" />
+    <String id="58" string="Cubo de Animais da Fazenda Dois Carvalhos" />
+    <String id="59" string="Cubo Maluco de Jaeron" />
     <String id="60" string="Caixa de fantasias &quot;Vestido chinês&quot;" />
+    <String id="61" string="Cubo de Armas Estrangeiras Devolvidas" />
+    <String id="62" string="[Cubo de Evento] Roupa de Baixo de Cinzas do Kurat (Raro)" />
+    <String id="63" string="[Cubo de Evento] Roupa de Baixo de Cinzas de Seda da Meruma (Raro)" />
+    <String id="64" string="Cubo de Qipao do Pantoto" />
+    <String id="65" string="Cubo de Moda (Sorcerer)" />
+    <String id="66" string="Cubo de Natal (2014)" />
+    <String id="67" string="Cubo de Fim de Ano (2014)" />
+    <String id="68" string="Cubo de Estilo Mistico II" />
+    <String id="69" string="Cubo de Roupa de Baixo Cinza Tudo-em-um do Kurat" />
+    <String id="75" string="Cubo de Moda (Seolbim)" />
+    <String id="78" string="Cubo de Moda (Cachorrinho, Pinguim, Ursinho Rosa, Porquinho, Patinho)" />
+    <String id="79" string="Cubo de Moda (Ovelha)" />
     <String id="1001" string="Converta para obter uma capa de arma Icegrip." />
     <String id="1002" string="Converta para ter uma chance de ganhar [Duck Bill] ou [Kelsaik Mask]." />
     <String id="1003" string="Converta para ter uma chance de obter [Afro], [Classic Feather Hat]." />
@@ -101,12 +116,28 @@
     <String id="1048" string="Infunda esse item para obter a [Caixa de maiôs 2014 da Aniel] com uma chance de obter mais de uma." />
     <String id="1049" string="Infundir esse item para obter os alfabetos A, N, M, G, E e fichas de amor." />
     <String id="1050" string="Infunda esse item para obter a [Caixa de recompensas de Litherus] com a chance de ganhar mais de uma." />
+    <String id="1051" string="Infunda este item para obter uma [Caixa de Fera do Domador] ou [Habilidade de Montaria: Regal Frostlion] com a chance de obter mais de um." />
     <String id="1052" string="Infundir esse item para obter a [Alice Costume Box] ou a [Cheshire Cat Costume Box]." />
     <String id="1053" string="Infundir esse item para obter a [Mad Hatter Costume Box] ou a [Cheshire Cat Costume Box]." />
+    <String id="1054" string="Infunda este item para obter [Baú do Tesouro no Pais das Maravilhas] ou [Caixa de Armas do Flamingo Rosa] com a chance de obter mais de um." />
     <String id="1055" string="Infundir este item para obter a caixa de avatar (polícia), do Halloween 2014." />
     <String id="1056" string="Infundir este item para obter a caixa de avatar (enfermeira), do Halloween de 2014." />
     <String id="1057" string="Infundir esse item para obter uma caixa com o traje de Alice (tingível)." />
+    <String id="1058" string="Combine este item para obter [Caixa de Animais da Fazenda Dois Carvalhos] com a chance de obter mais de um e até mesmo obter um item de montaria especial." />
+    <String id="1059" string="Combine este item para obter a Caixa de Roupas de Trabalho Malucas de Jaeron ou acessórios especiais, com a chance de obter mais de uma caixa." />
     <String id="1060" string="Infundir esse item para obter a caixa de avatar (cheongsam / cheongsam tingível)." />
+    <String id="1061" string="Combine este item para obter [Baú de Tesouro Estrangeiro Devolvido] ou [Caixa de Armas de Relíquia Antiga], com a chance de obter mais de uma caixa." />
+    <String id="1062" string="Combine este item para obter a [(Evento) Caixa de Roupa de Baixo de Cinzas do Kurat]." />
+    <String id="1063" string="Combine este item para obter a [(Evento) Caixa de Roupa de Baixo de Cinzas de Seda da Meruma (Raro)]." />
+    <String id="1064" string="Combine este item para obter a Caixa de Qipao do Pantoto ou a Tiara de Flor Branca, com a chance de obter mais de uma caixa." />
+    <String id="1065" string="Combine este item para obter a Caixa de Avatar (Sorcerer)." />
+    <String id="1066" string="Pode obter a [Caixa de Montaria de Natal (2014)], [Caixa de Traje de Natal (2014)] e outras montarias especiais ao combinar itens. Pode obter mais de uma." />
+    <String id="1067" string="Pode obter a [Caixa de Fim e Início de Ano (2014)] ao combinar itens. Pode obter mais de uma." />
+    <String id="1068" string="Combine este item para obter o [Chapéu de Urso Escuro] e outros itens raros." />
+    <String id="1069" string="Pode obter o Traje Corporal de Cinzas Tudo-em-um de Graduação Lendária do Kurat ao combinar itens." />
+    <String id="1075" string="Combine este item para obter itens [Hanbok]." />
+    <String id="1078" string="Combine itens para obter a [Caixa de Avatar (Cachorrinho, Pinguim, Urso, Porquinho, Patinho)]." />
+    <String id="1079" string="Combine itens para obter a [Caixa de Avatar (Ovelha)]." />
     <String id="2001" string="Guia A" />
     <String id="2002" string="A conversão do mesmo item não necessariamente produzirá o mesmo resultado." />
     <String id="2004" string="Colocar um item." />

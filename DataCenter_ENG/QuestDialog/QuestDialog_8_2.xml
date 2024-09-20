@@ -1,43 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="8" id="2" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="61" id="100" prevId="0" villagerId="1012">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="8" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="61" prevId="0" villagerId="1012">
         <Page social="0">While fighting gulas in the Hungry Caverns, you met a soldier, Detrian, who wanted you to deliver a gift to his younger sister. The sister returned the favor, sending a gift to Detrian.&lt;BR&gt;&lt;BR&gt;Then Detrian marched toward his post at the Hungry Caverns.</Page>
-    
     </Text>
-    <Text huntingZoneId="61" id="2" prevId="0" villagerId="1012">
-         
+    <Text id="2" huntingZoneId="61" prevId="0" villagerId="1012">
         <Page social="5">Gulas...just the thought of them makes my skin crawl.&lt;BR&gt;&lt;BR&gt;It's one thing to face your enemy and slit his throat or spill his guts. But to eat your enemies—I mean, cook them up and eat them—that's just wrong.&lt;BR&gt;&lt;BR&gt;Kaia's Swords have been trying to wipe them out, but they're tenacious.&lt;NEXTPAGEBUTTON&gt;"I can help."&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="4">I'm sure you can, &lt;PCNAME&gt;. I'll dispatch you there immediately.&lt;BR&gt;&lt;BR&gt;While I file the paperwork, can you do me a favor? Pass along these recall orders to Detrian in Castanica.&lt;BR&gt;&lt;BR&gt;He's on leave, but we need him back on the front lines as soon as he can...well...extricate himself from Castanica's, um, recreational opportunities.</Page>
-    
     </Text>
-    <Text huntingZoneId="61" id="3" prevId="2" villagerId="1106">
-         
+    <Text id="3" huntingZoneId="61" prevId="2" villagerId="1106">
         <Page social="5">Recall orders, eh? Figures.&lt;BR&gt;&lt;BR&gt;You heading to the Hungry Caverns, too?&lt;NEXTPAGEBUTTON&gt;"Indeed I am."&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="4">I know those caverns like the back of my hand, but...&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, can you give this doll to my little sister, Hennika?&lt;BR&gt;&lt;BR&gt;I promised I'd bring it to her, but I have to report back right away, so there won't be time to go home now.</Page>
-    
     </Text>
-    <Text huntingZoneId="61" id="4" prevId="3" villagerId="1107">
-         
+    <Text id="4" huntingZoneId="61" prevId="3" villagerId="1107">
         <Page social="5">My brother is the best! He always remembers me.&lt;BR&gt;&lt;BR&gt;I remembered him, too. I got him this charm, but now I can't give it to him.&lt;BR&gt;&lt;BR&gt;But you can! You're going to the same place he is, right? Just tell him it's a lucky charm, 'cause Hennika wants him to be safe.</Page>
-    
     </Text>
-    <Text huntingZoneId="208" id="5" prevId="4" villagerId="1023">
-         
+    <Text id="5" huntingZoneId="208" prevId="4" villagerId="1023">
         <Page social="5">A charm? That's so sweet. Just like Hennika. I miss her so much.&lt;BR&gt;&lt;BR&gt;Well, better keep moving, &lt;PCNAME&gt;. Karina is waiting for you at Avenger Outpost.</Page>
-    
     </Text>
-    <Text huntingZoneId="208" id="6" prevId="5" villagerId="1001">
-         
+    <Text id="6" huntingZoneId="208" prevId="5" villagerId="1001">
         <Page social="5">&lt;PCNAME&gt; is here! Let the slaughter begin!&lt;BR&gt;&lt;BR&gt;Your first target will be {@LinkCreature:8#2031#gula slavers} and {@LinkCreature:8#2021#caiman mercenaries}.&lt;BR&gt;&lt;BR&gt;Report back here when you're done.</Page>
-    
     </Text>
-    <Text huntingZoneId="208" id="7" prevId="6" villagerId="1001">
-         
+    <Text id="7" huntingZoneId="208" prevId="6" villagerId="1001">
         <Page social="5">That's the kind of energy I like to see, &lt;PCNAME&gt;. But we've only just begun.</Page>
-    
     </Text>
 </QuestDialog>

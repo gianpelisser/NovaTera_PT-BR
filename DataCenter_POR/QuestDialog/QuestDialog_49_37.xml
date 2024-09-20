@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="49" id="37" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="49" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="249" id="100" prevId="0" villagerId="1013">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="249" id="2" prevId="0" villagerId="1013">
          
+         
         <Page social="4">Fiz uma descoberta notável. Os brotos da Árvore de Casian possuem enormes propriedades restauradoras.&lt;BR&gt;&lt;BR&gt;Por favor, ajude-me a coletar alguns. Pode ser útil no tratamento de soldados feridos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="249" id="3" prevId="2" villagerId="1013">
          
+         
         <Page social="4">Isso será suficiente. Não quero levar mais do que podemos usar imediatamente por medo de danificar a árvore.&lt;BR&gt;&lt;BR&gt;Sua ajuda é, como sempre, muito apreciada.</Page>
+    
     
     </Text>
     <Text huntingZoneId="249" id="4" villagerId="1013">
          
+         
         <Page social="0">Os brotos não são difíceis de encontrar. De fato, há um ali.</Page>
+    
     
     </Text>
 </QuestDialog>

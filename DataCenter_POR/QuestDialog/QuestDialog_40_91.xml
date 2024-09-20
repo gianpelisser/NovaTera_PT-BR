@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="40" id="91" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="91" huntingZoneId="40" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="75" id="100" prevId="0" villagerId="1024">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="75" id="2" prevId="0" villagerId="1024">
          
+         
         <Page social="0">Tenho um grande problema para você! Thulsa está usando mutantes para atacar nossas forças.&lt;BR&gt;&lt;BR&gt;Engaje {@LinkCreature:40#23#guardian aberrations}, {@LinkCreature:40#19#mutant polykinds}, {@LinkCreature:40#15#mutant workers}, {@LinkCreature:40#28#Turakius} e {@LinkCreature:40#30#mutant tribladers} da Vila dos Flagelados.&lt;BR&gt;&lt;BR&gt;Apresentem-se a Tirlotta, perto da Aldeia dos Flagelados, quando terminarem de matar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="240" id="3" prevId="2" villagerId="1007">
          
+         
         <Page social="4">Excelente trabalho. A eliminação de nossos inimigos fará com que os esforços de recuperação prossigam com mais segurança.</Page>
+    
     
     </Text>
     <Text huntingZoneId="240" id="4" villagerId="1007">
          
+         
         <Page social="0">Ainda há muitas aberrações e mutantes em torno da Aldeia Destruída. Prossiga com sua missão.</Page>
+    
     
     </Text>
 </QuestDialog>

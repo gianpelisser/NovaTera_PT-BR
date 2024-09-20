@@ -1,39 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="604" id="11" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="71" id="100" prevId="0" villagerId="3002">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="604" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="71" prevId="0" villagerId="3002">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="71" id="2" prevId="0" villagerId="3002">
-         
+    <Text id="2" huntingZoneId="71" prevId="0" villagerId="3002">
         <Page social="4">Bah. More golems in the {@Rgn:9017001$$Lighthouse of the Sun} have gone haywire.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:230#3025#Maun} knows which ones. Can you handle it?</Page>
-    
     </Text>
-    <Text huntingZoneId="230" id="3" prevId="2" villagerId="3025">
-         
+    <Text id="3" huntingZoneId="230" prevId="2" villagerId="3025">
         <Page social="4">They've been rattling around since this morning, even though there's nobody in there.&lt;BR&gt;&lt;BR&gt;Stop them before they break anything important!</Page>
-    
     </Text>
-    <Text huntingZoneId="230" id="4" prevId="2" villagerId="3025">
-         
+    <Text id="4" huntingZoneId="230" prevId="2" villagerId="3025">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="230" id="5" prevId="2" villagerId="3025">
-         
+    <Text id="5" huntingZoneId="230" prevId="2" villagerId="3025">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="230" id="6" prevId="2" villagerId="3025">
-         
+    <Text id="6" huntingZoneId="230" prevId="2" villagerId="3025">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="230" id="7" prevId="2" villagerId="3025">
-         
+    <Text id="7" huntingZoneId="230" prevId="2" villagerId="3025">
         <Page social="4">Sad. Such beautiful machines.&lt;BR&gt;&lt;BR&gt;But machines are replaceable. That tower's full of things that aren't.</Page>
-    
     </Text>
 </QuestDialog>

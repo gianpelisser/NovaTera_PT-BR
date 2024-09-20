@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="44" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="44" huntingZoneId="30" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="230" id="100" prevId="0" villagerId="1036">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="230" id="2" prevId="0" villagerId="1036">
          
+         
         <Page social="1">Como todo grande feiticeiro, Oshar tende a inspirar todo tipo de folclore. Mas apenas alguns sabem o que eu sei: "ele" é, na verdade, uma "ela!"&lt;BR&gt;&lt;BR&gt;Até mesmo alguns dos mais confiáveis confidentes de Oshar não sabem a verdade.&lt;NEXTPAGEBUTTON&gt;"Por que isso importa?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Não questiono os motivos do grande e poderoso Oshar! &lt;BR&gt;&lt;BR&gt;Tento, no entanto, dar a ela presentes que a lembrem de que conheço sua verdadeira natureza. Estou fazendo um cocar de penas e...&lt;BR&gt;&lt;BR&gt;Você adivinhou. Preciso de ajuda para juntar as penas. Você está começando a antecipar as necessidades do poderoso Oshar! Com o tempo, você também poderá desfrutar da sabedoria dela.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="3" prevId="2" villagerId="1036">
          
+         
         <Page social="1">Esse cocar de penas agradará imensamente a Oshar. E é melhor ter o Oshar como amigo do que como inimigo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="4" villagerId="1036">
          
+         
         <Page social="0">Penas - simbólicas, funcionais e divertidas!</Page>
+    
     
     </Text>
 </QuestDialog>

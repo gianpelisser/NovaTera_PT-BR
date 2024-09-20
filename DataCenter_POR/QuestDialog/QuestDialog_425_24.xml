@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="425" id="24" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="425" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="425" id="100" prevId="0" villagerId="3025">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="425" id="2" prevId="0" villagerId="3025">
          
+         
         <Page social="1">Você deve ser de fato o campeão escolhido pelo sol.&lt;BR&gt;&lt;BR&gt;Os maiores mistérios do templo estão escondidos da iluminação dentro de urnas antigas. Libere o espelho dimensional de dentro de um dos frascos e então você deverá enfrentar {@LinkCreature:425#8005}.</Page>
+    
     
     </Text>
     <Text huntingZoneId="425" id="3" prevId="2" villagerId="10004">
          
+         
         <Page social="1">O próprio sol o escolheu como seu campeão.&lt;BR&gt;&lt;BR&gt;O deus Balder colocou {@LinkCreature:425#8005} para enfrentar qualquer um que buscasse injustamente a bênção suprema do templo.&lt;BR&gt;&lt;BR&gt;Balder também oferece tributo à sua coragem na forma de um presente inigualável.&lt;BR&gt;&lt;BR&gt;Que os titãs, Arun e Shara, o guardem para sempre em seus sonhos.</Page>
+    
     
     </Text>
 </QuestDialog>

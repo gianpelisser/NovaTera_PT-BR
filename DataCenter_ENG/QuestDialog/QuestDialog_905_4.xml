@@ -1,0 +1,15 @@
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="905" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="191" prevId="0" villagerId="9166">
+        <Page social="0" />
+    </Text>
+    <Text id="2" huntingZoneId="191" prevId="0" villagerId="9166">
+        <Page social="4">Competition. Client: Bounty Hunters. Competition location: Fraywind Canyon (on schedule). Goal: 2 wins.</Page>
+    </Text>
+    <Text id="3" huntingZoneId="191" prevId="2" villagerId="9166">
+        <Page social="4">Thank you for the work done!</Page>
+    </Text>
+    <Text id="4" huntingZoneId="191" villagerId="9166">
+        <Page social="0">Bounty hunters are always ready to offer a worthy task.</Page>
+    </Text>
+</QuestDialog>

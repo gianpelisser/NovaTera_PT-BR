@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4080001" string="Suppression Orders: Crestaraths" />
-    <String id="4080002" string="Proof of Kill: Crestaraths" />
-    <String id="4080003" string="&quot;I did my duty.&quot;" />
-    <String id="4080004" string="Defeat crestarath fighters in the Lost Mines." />
-    <String id="4080005" string="Report to Glasrinne in Frontera." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4044001" string="Sooie-eet Deal" />
+    <String id="4044002" string="Ah, the glamorous life of a pig slayer..." />
+    <String id="4044003" string="Mind if I steal your hearts?" />
+    <String id="4044004" string="Pigling Hearts" />
+    <String id="4044005" string="Collect hearts from armored piglings and enraged armored piglings." />
+    <String id="4044006" string="Deliver the pigling hearts to {@linkcreature:240#1026$$Grada}." />
+    <String id="4044007" string="&quot;I'm glad I could help.&quot;" />
 </StrSheet_Quest>

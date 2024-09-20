@@ -1,36 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="15" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="213" id="100" prevId="0" villagerId="1026">
-         
-        <Page social="0">You killed runekeepers in an attempt to decipher what the demons are up to in the Tainted Gorge, but to no avail.&lt;BR&gt;&lt;BR&gt;Sersine, however, ordered you to kill the demonic enforcer, Kugai. You recovered a codex from his corpse, which may reveal more about the dark forces on the Island of Dawn.</Page>
-    
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="15" huntingZoneId="13" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="0">Sersine suspected that Kugai the Mighty held clues as to what was going on in the Tainted Gorge, and sent you to kill him. She was right, and you found a document on his body written in an ancient language.</Page>
     </Text>
-    <Text huntingZoneId="213" id="2" prevId="0" villagerId="1026">
-         
-        <Page social="4">Demons are involved? You're kidding. Took Leander actual research to say that?&lt;BR&gt;&lt;BR&gt;At any rate, got a mission for you. {@LinkCreature:13#8#Runekeepers} are chiseling runes out of any flat surface they can find. Beat down the demons and bring me the runes.&lt;BR&gt;&lt;BR&gt;Perhaps we'll discover just what they're after.</Page>
-    
+    <Text id="2" huntingZoneId="213" prevId="0" villagerId="1025">
+        <Page social="4">With what we have learned today, I cannot recommend that our forces withdraw from the island. But suspicions are not facts, and you hold in your hand the means to confirm them.&lt;BR&gt;&lt;BR&gt;{@linkcreature:13#1004#Kugai the Mighty} walks unmolested through demon infested lands, when so many of our comrades lie savaged at his feet.&lt;BR&gt;&lt;BR&gt;Search his corpse for clues.</Page>
     </Text>
-    <Text huntingZoneId="213" id="3" prevId="2" villagerId="1026">
-         
-        <Page social="4">Bleh. These runes mean nothing to me. This green one looks like something with tentacles on its face.&lt;BR&gt;&lt;BR&gt;Oh, well. Runekeepers are demons. They're still worth killing.&lt;BR&gt;&lt;BR&gt;Sersine's agitated about something—or as agitated as a high elf gets. Report to her and do what you can. And you might as well bring the runes along.</Page>
-    
-    </Text>
-    <Text huntingZoneId="213" id="4" villagerId="1026">
-         
-        <Page social="0">As my amani friends say, they're not gonna stab themselves! Get back out there and kill some runekeepers. I want to see what they're scribing!</Page>
-    
-    </Text>
-    <Text huntingZoneId="213" id="5" prevId="3" villagerId="1025">
-         
-        <Page social="4">While the runes led nowhere, this next task might.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:13#1004#Kugai} wanders along the road, enforcing the peace amongst the demons, and barking out orders.&lt;BR&gt;&lt;BR&gt;He must be slain. If nothing else, the death of the most powerful enforcer might start the demons fighting amongst themselves.</Page>
-    
-    </Text>
-    <Text huntingZoneId="213" id="6" prevId="5" villagerId="1025">
-         
-        <Page social="4">Kugai was carrying this? I wonder why. Unfortunately, demons just aren't my area of expertise.&lt;BR&gt;&lt;BR&gt;It's certainly difficult to read; perhaps Leander or Adria could better translate it.&lt;BR&gt;&lt;BR&gt;But, wait...here's something I recognize, at least!</Page>
-         
-        <Page social="4">According to this codex, Kugai was sent to patrol the roads by a demon named Karascha. I remember him! He commanded the demonic forces that defeated the first expedition.&lt;BR&gt;&lt;BR&gt;It sounds like he was injured in the fighting, though, and is hiding out not far from here while he recovers. That would explain why there are so many demons in this area!&lt;BR&gt;&lt;BR&gt;If Karascha is eliminated, it should break their morale, and maybe we could finally finish the mission we came here to do!</Page>
-    
+    <Text id="3" huntingZoneId="213" prevId="2" villagerId="1025">
+        <Page social="4">Kugai has fallen by your hand, but instead of answers you bring me more questions. This scroll bears similar markings to the tokens you collected earlier, an ancient language few understand. Few besides myself, anyway.&lt;NEXTPAGEBUTTON&gt;"What does it say?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+        <Page social="4">(Sersine reads the scroll.)&lt;BR&gt;&lt;BR&gt;I fear a ritual is underway, meant to summon a darkness that will spread across the world.&lt;BR&gt;&lt;BR&gt;Conducted by a demon lord and servant of Lok thought defeated long ago.&lt;BR&gt;&lt;BR&gt;Karascha.</Page>
     </Text>
 </QuestDialog>

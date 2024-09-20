@@ -1,50 +1,69 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="30" id="3" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="3" huntingZoneId="30" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="230" id="100" prevId="0" villagerId="1015">
          
+         
         <Page social="0">Você e {@Creature:71#1114$$Rida} desbloquearam o segundo selo do templo no Lago de Seren. Antes de sair para encontrar o líder dos Consos, Rida o alertou para não confiar demais no Mysterium com os segredos do templo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="2" prevId="0" villagerId="1015">
          
+         
         <Page social="1">{&lt;@LinkCreature:230#1024$$Alais} seguiu a Princesa Rida até o observatório perto do Arquivo Superior.&lt;BR&gt;&lt;BR&gt;Aqui, pegue os pergaminhos do repositório. Alais ficará encantada com seu conteúdo histórico, tenho certeza.&lt;BR&gt;&lt;BR&gt;Boa sorte em sua busca, &lt;PCNAME&gt;. Foi um prazer trabalharmos juntos novamente.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="3" prevId="2" villagerId="1024">
          
+         
         <Page social="1">&lt;PCNAME&gt;! Suponho que você tenha a cerimônia?&lt;BR&gt;&lt;BR&gt;Deixe-me ver isso. Há muitas observações históricas, mas elas podem esperar. Sim, aqui está a cerimônia!&lt;BR&gt;&lt;BR&gt;Um rito de purificação. Que curioso. &lt;NEXTPAGEBUTTON&gt;"Onde está Rida?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="1">Descansando junto ao {@Rgn:30014$$Lago de Seren}.&lt;BR&gt;&lt;BR&gt;Suspeito que esta seja a última salvaguarda do templo. Vou até a {@Rgn:30015$$Fortaleza do Arquivo} e informarei Nandu, o chefe dos Consos.&lt;BR&gt;&lt;BR&gt;Sem dúvida, haverá mais formalidades.&lt;NEXTPAGEBUTTON&gt;"Que fortaleza é essa?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="1">Bem, é mais um acampamento do que uma fortaleza, na verdade. Mas achamos que é o local dos cofres sob os Arquivos de Balder.&lt;BR&gt;&lt;BR&gt;Ou onde esses cofres costumavam estar, suponho. A morte de Balder destruiu esse lugar, mas alguns baraka se abrigaram ali e sobreviveram. Nandu, apenas uma criança, estava entre eles.&lt;BR&gt;&lt;BR&gt;Mas chega de história corretiva. Vá para {@Rgn:30014$$Seren's Lake} e desbloqueie o templo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="4" prevId="3" villagerId="1082">
          
+         
         <Page social="1">Uma cerimônia? Claro! &lt;BR&gt;&lt;BR&gt;Eu encontrei o selo - naquele pavilhão - mas faltava alguma coisa. Temos que nos purificar.&lt;BR&gt;&lt;BR&gt;Preciso de um pouco de Lótus do Luar. Você poderia colher algumas?</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="5" prevId="4" villagerId="1082">
          
+         
         <Page social="1">Estes servirão. Agora fique quieto por um momento.&lt;BR&gt;&lt;BR&gt;Seren! Por nosso sangue comum, pela água limpa e por sua flor sagrada, invoco seu toque purificador. Torne-nos puros. Prepare-nos para as provações que virão!&lt;BR&gt;&lt;BR&gt;Está quase pronto. Vou inserir o selo. Você trabalha do lado de fora.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="6" villagerId="1082">
          
+         
         <Page social="0">As plantas Moonlight Lotus crescem perto da água.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="7" prevId="5" villagerId="1082">
          
+         
         <Page social="1">Eu acabei de desbloquear... er, "nós" acabamos de desbloquear o {@Rgn:9025001$$Templo de Balder}!&lt;BR&gt;&lt;BR&gt;Cumpri minha visão, e você pôde bancar o herói novamente.&lt;BR&gt;&lt;BR&gt;Só espero que tenhamos feito a coisa certa ao abrir o templo para Alais e seus comparsas da Mysterium.&lt;NEXTPAGEBUTTON&gt;"Eles são os maiores estudiosos da federação."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Sua amiga Elsine é uma grande estudiosa, mas quem está no comando aqui? Alais.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, o Mysterium se preocupa com uma coisa - o Mysterium.&lt;BR&gt;&lt;BR&gt;Eles não confiam em outras pessoas com poder. Não presuma que eles querem as mesmas coisas que a federação.</Page>
+    
     
     </Text>
     <Text huntingZoneId="230" id="8" prevId="7" villagerId="1053">
          
+         
         <Page social="1">Você e a princesa desbloquearam o selo final? Excelente! &lt;BR&gt;&lt;BR&gt;Como eu suspeitava, há mais uma formalidade. {@LinkCreature:230#1047$$Nandu}, o chefe dos Consos, lhe dará a chave para abrir a porta do templo. Durante séculos, o clã dos Consos esperou por esse momento, por isso devemos dar a eles suas cerimônias.&lt;BR&gt;&lt;BR&gt;Bem? Vá e encontre Nandu! Os segredos do {@Rgn:9025001$$Templo de Balder} o aguardam!</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="12" id="38" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="12" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="212" id="100" prevId="0" villagerId="1001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="212" id="2" prevId="0" villagerId="1001">
          
+         
         <Page social="5">Corra para oeste do Vindicator Outpost e você chegará ao mercado de escravos - o Rain Cages. Aqui está a ordem menos surpreendente que você receberá: destrua esse mercado! &lt;BR&gt;&lt;BR&gt;Sim, eu tento criar missões simples.&lt;BR&gt;&lt;BR&gt;Seu primeiro passo: Elimine os {@LinkCreature:12#15#Cortadores de chicote vermelho} que guardam o mercado de escravos. Com eles fora de cena, o resto deve ser mais fácil.</Page>
+    
     
     </Text>
     <Text huntingZoneId="212" id="3" prevId="2" villagerId="1004">
          
+         
         <Page social="5">O caminho está livre, então? &lt;BR&gt;&lt;BR&gt;Eu posso vê-lo agora. Dezenas de bebês, todos nomeados "&lt;PCNAME&gt;" por seus pais agradecidos... que eram todos escravos que você libertou quando tomou o mercado de escravos do Sindicato Kazuur.</Page>
+    
     
     </Text>
 </QuestDialog>

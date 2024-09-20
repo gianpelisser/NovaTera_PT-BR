@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="38" id="24" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="24" huntingZoneId="38" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="238" id="100" prevId="0" villagerId="1030">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="238" id="2" prevId="0" villagerId="1030">
          
+         
         <Page social="12">O que Raynor estava pensando quando me mandou para cá? Pelo menos em Elenea eu posso encontrar água quente.&lt;BR&gt;&lt;BR&gt;Areish quer que os demônios sejam mortos. Areish deveria matá-los, então.&lt;BR&gt;&lt;BR&gt;Ou talvez... se &lt;PCNAME&gt; estiver disposto... não faltam demônios para serem mortos por aí.</Page>
+    
     
     </Text>
     <Text huntingZoneId="238" id="3" prevId="2" villagerId="1030">
          
+         
         <Page social="6">Agora, talvez Areish possa voltar a escrever relatórios e contar príons, e parar de me incomodar.</Page>
+    
     
     </Text>
 </QuestDialog>

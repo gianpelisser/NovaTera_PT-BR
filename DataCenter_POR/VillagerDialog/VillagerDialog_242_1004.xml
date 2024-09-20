@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="242" id="1004" voiceTypeId="46">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1004" huntingZoneId="242" voiceTypeId="46">
     <Text huntingZoneId="242" id="1" endSocial="14" prevId="0" villagerId="1004">
          
+         
         <Page social="4">The nagas are a force for evil. And as if they weren't bad enough, they've brought friends along.</Page>
+    
     
     </Text>
 </VillagerDialog>

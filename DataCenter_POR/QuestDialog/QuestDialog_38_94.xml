@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="38" id="94" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="38" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="74" id="100" prevId="0" villagerId="1036">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="74" id="2" prevId="0" villagerId="1036">
          
+         
         <Page social="5">Um dia, farei minhas próprias adições a essa lista... e então não ficarão surpresos. Heh.&lt;BR&gt;&lt;BR&gt;De qualquer forma! Chega de falar de mim, vamos nos concentrar em você! Você estará matando... deixe-me ver... {@LinkCreature:38#31#hungry ruins hyenas}, {@LinkCreature:38#38#prion destroyers} e {@LinkCreature:38#37#prion bonecrushers}. Parece divertido. &lt;BR&gt;&lt;BR&gt;Vá ver Elmaire no Posto Avançado de Craterview, no Cânion Sienna, quando terminar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="238" id="3" prevId="2" villagerId="1009">
          
+         
         <Page social="5">Bom trabalho. Aqui está sua recompensa.&lt;BR&gt;&lt;BR&gt;Continue com o bom trabalho!</Page>
+    
     
     </Text>
     <Text huntingZoneId="238" id="4" villagerId="1009">
          
+         
         <Page social="0">Você não completou sua missão.</Page>
+    
     
     </Text>
 </QuestDialog>

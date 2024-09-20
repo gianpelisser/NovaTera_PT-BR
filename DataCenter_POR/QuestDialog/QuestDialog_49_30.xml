@@ -1,38 +1,52 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="49" id="30" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="49" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="76" id="100" prevId="0" villagerId="1018">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="76" id="2" prevId="0" villagerId="1018">
          
+         
         <Page social="4">Quando perdemos nossa plataforma de voo, construímos uma série de dispositivos de transporte improvisados. Sem eles, nunca correríamos o risco de sair de Kanstria.&lt;NEXTPAGEBUTTON&gt;"Como eles funcionam?"&lt;/NEXTPAGEBUTTON&gt;</Page>
+         
          
         <Page social="4">Honestamente, eles não são muito diferentes dos teleportos. Não tínhamos o poder mágico bruto para construir uma rede de teletransporte completa, então criamos essas plataformas de teletransporte. Usamos fragmentos de iteris para alimentá-las, e não é muito difícil extraí-los.&lt;BR&gt;&lt;BR&gt;Vá em frente e adquira um fragmento de iteris. Espero que você seja um bom minerador.&lt;NEXTPAGEBUTTON&gt;"Já quebrei algumas pedras em meu tempo."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Excelente. Eu o encontrarei no {@LinkCreature:249#1101}.&lt;BR&gt;&lt;BR&gt;Boa sorte!</Page>
+    
     
     </Text>
     <Text huntingZoneId="249" id="3" prevId="2" villagerId="1017">
          
+         
         <Page social="6">Bom. Você o encontrou.&lt;BR&gt;&lt;BR&gt;Ao sul daqui está o {@Rgn:49002}. Os argonss os usam para sugar a energia dos campos. Você precisará minerar fragmentos de iteris da {@Collection:149} antes de poder usar a plataforma.&lt;BR&gt;&lt;BR&gt;Venha me encontrar novamente quando tiver um fragmento de iteris.</Page>
+    
     
     </Text>
     <Text huntingZoneId="249" id="4" prevId="3" villagerId="1017">
          
+         
         <Page social="4">Agora, use o fragmento para ativar a plataforma de teletransporte.&lt;BR&gt;&lt;BR&gt;Vejo você em Kanstria.</Page>
+    
     
     </Text>
     <Text huntingZoneId="249" id="5" villagerId="1017">
          
+         
         <Page social="0">Não é fácil extrair fragmentos, mas continue assim. Você conseguirá.</Page>
+    
     
     </Text>
     <Text huntingZoneId="76" id="6" prevId="4" villagerId="1018">
          
+         
         <Page social="6">Muito bem! &lt;BR&gt;&lt;BR&gt;As plataformas de teletransporte nos ajudam a superar os argonss. Muito inteligente, você não acha?</Page>
+    
     
     </Text>
 </QuestDialog>

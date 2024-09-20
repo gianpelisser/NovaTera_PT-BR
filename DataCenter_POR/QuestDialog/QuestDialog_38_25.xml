@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="38" id="25" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="38" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="238" id="100" prevId="0" villagerId="1017">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="238" id="2" prevId="0" villagerId="1017">
          
+         
         <Page social="5">O posto avançado de Craterview precisa de madeira para fortificar sua paliçada. Não há madeira para ser obtida em Elenea, e Fanise diz que não podemos cortar essas árvores. "Ecologia delicada", e tudo o mais.&lt;BR&gt;&lt;BR&gt;Então aqui está meu plano. Você já viu aqueles grandes arbosques a sudoeste, não viu? Eu não conseguiria derrotar um, mas há muita madeira andando por aí, &lt;PCNAME&gt;, se você estiver disposto a me ajudar.&lt;BR&gt;&lt;BR&gt;Oh, e cuidado com os diabinhos!</Page>
+    
     
     </Text>
     <Text huntingZoneId="238" id="3" prevId="2" villagerId="1008">
          
+         
         <Page social="5">Essa madeira vai construir defesas melhores, agora que talvez tenhamos que nos defender do Killian. Não que pudéssemos, provavelmente...</Page>
+    
     
     </Text>
     <Text huntingZoneId="238" id="4" villagerId="1008">
          
+         
         <Page social="0">Será preciso mais madeira do que isso para construir nossa paliçada.</Page>
+    
     
     </Text>
 </QuestDialog>

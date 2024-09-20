@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4045001" string="Well, Well" />
-    <String id="4045002" string="I need to study their well water!" />
-    <String id="4045003" string="I hope these contain the answers we need." />
-    <String id="4045004" string="&quot;Good luck!&quot;" />
-    <String id="4045005" string="Collect the quarantined buckets." />
-    <String id="4045006" string="Deliver the buckets to {@linkcreature:240#1035$$Narpa}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4040001" string="Not That Kind of Weed" />
+    <String id="4040002" string="I could really use that dismalweed." />
+    <String id="4040003" string="It may not look like much, but it's good stuff to have around." />
+    <String id="4040004" string="&quot;Glad I could help.&quot;" />
+    <String id="4040005" string="Gather the dismalweed that grows near the entrance of the Lost Mines." />
+    <String id="4040006" string="Bring the dismalweed to Gebral at the Quarantine Zone Research Center." />
 </StrSheet_Quest>

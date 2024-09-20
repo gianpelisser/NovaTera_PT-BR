@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="33" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="228" id="100" prevId="0" villagerId="1015">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="33" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="228" prevId="0" villagerId="1015">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="228" id="2" prevId="0" villagerId="1015">
-         
+    <Text id="2" huntingZoneId="228" prevId="0" villagerId="1015">
         <Page social="9">Eurgh! How is it you're not retching? Doesn't the stench sear your nostrils?&lt;BR&gt;&lt;BR&gt;Our quartermaster promised us an entire crate of fragrant rosehips, but he fled to the Twisted Vale. If you could recover some, even just a small amount would be a great help.</Page>
-    
     </Text>
-    <Text huntingZoneId="228" id="3" prevId="2" villagerId="1024">
-         
+    <Text id="3" huntingZoneId="228" prevId="2" villagerId="1024">
         <Page social="5">(The crate lies splintered. A few petals of rosehips remain. You should take it back to Bolga.)</Page>
-    
     </Text>
-    <Text huntingZoneId="228" id="4" prevId="3" villagerId="1015">
-         
+    <Text id="4" huntingZoneId="228" prevId="3" villagerId="1015">
         <Page social="8">Is that all you found? You're not holding out on me, are you? It's not funny. This stench colors my dreams!&lt;BR&gt;&lt;BR&gt;Well, if this is all you have, it will have to do!</Page>
-    
     </Text>
 </QuestDialog>

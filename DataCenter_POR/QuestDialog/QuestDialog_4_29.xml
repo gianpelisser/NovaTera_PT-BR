@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="29" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="29" huntingZoneId="4" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="204" id="100" prevId="0" villagerId="1001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="204" id="2" prevId="0" villagerId="1001">
          
+         
         <Page social="4">Eu adoraria que você ficasse por aqui, &lt;PCNAME&gt;, mas vou ser sincero: eles precisam mais de você no Vale Ardente.&lt;BR&gt;&lt;BR&gt;Venha para a Base de Fogo Intrepid. Que sua força seja suficiente!</Page>
+    
     
     </Text>
     <Text huntingZoneId="204" id="3" prevId="2" villagerId="1003">
          
+         
         <Page social="4">Todo soldado capaz é uma bênção por aqui, especialmente um &lt;PCCLASS:lcase&gt; adequado.&lt;BR&gt;&lt;BR&gt;Helone pode colocá-lo para trabalhar. Fale com ela, mas com calma. Ela se confunde facilmente.</Page>
+    
     
     </Text>
     <Text huntingZoneId="204" id="4" prevId="3" villagerId="1004">
          
+         
         <Page social="4">Não fale comigo como se eu fosse uma criança, &lt;PCCLASS:lcase&gt;. Esse comportamento nos diminui a ambos.&lt;BR&gt;&lt;BR&gt;Além disso, pense duas vezes antes de dar atenção a Kimuk. Ele é um respirador de boca, pura e simplesmente.</Page>
+    
     
     </Text>
 </QuestDialog>

@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="21" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="13" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="213" id="100" prevId="0" villagerId="1106">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="213" id="2" prevId="0" villagerId="1106">
          
+         
         <Page social="4">O irmão de Elleon, Leander, lidera os esforços de busca em seu acampamento, bem ao sul. Ao contrário de seu irmão - e ao contrário de você, a julgar por essa arma - Leander é um estudioso de profissão, não um soldado.&lt;BR&gt;&lt;BR&gt;Ninguém quer encontrar Elleon mais do que eu, mas temos uma ilha inteira para recuperar - e se Elleon está morto, então essa é a melhor maneira de honrar sua memória.&lt;BR&gt;&lt;BR&gt;Vamos mantê-lo em movimento. Apresente-se ao &lt;font color='#660000'&gt;Centurião Kishale&lt;/font&gt; no Ponto de Controle Norte, &lt;PCCLASS:lcase&gt;.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="3" prevId="2" villagerId="1003">
          
+         
         <Page social="4">Os sobreviventes do primeiro ataque de demônios são sempre bem-vindos - os novos recrutas não têm ideia de como o perigo pode chegar em um piscar de olhos. Todos se apegam à esperança de que Elleon sobreviva, mas você viu aqueles demônios em primeira mão. Nós nos apegamos à esperança, não à certeza.</Page>
+    
     
     </Text>
 </QuestDialog>

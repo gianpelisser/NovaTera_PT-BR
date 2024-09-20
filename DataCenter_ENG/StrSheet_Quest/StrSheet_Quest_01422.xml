@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4991001" string="Plowing Ahead" />
-    <String id="4991002" string="Proof of Kill: Argons" />
-    <String id="4991003" string="&quot;Just glad I could help.&quot;" />
-    <String id="4991004" string="Kill argons throughout {@Rgn:49001} and collect proof of their deaths." />
-    <String id="4991005" string="Report to {@LinkCreature:76#1603}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4973001" string="(Guild) Suppression Orders: Volsurus" />
+    <String id="4973002" string="Proof of Kill: Volsurus" />
+    <String id="4973003" string="&quot;Thank you!&quot;" />
+    <String id="4973004" string="Kill {@LinkCreature:49#3$$Volsurus} and collect proof of his death." />
+    <String id="4973005" string="Report to Ayva in Kanstria." />
 </StrSheet_Quest>

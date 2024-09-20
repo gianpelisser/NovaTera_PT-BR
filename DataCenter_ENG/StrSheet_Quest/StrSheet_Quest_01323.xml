@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4726001" string="Sprouting Up" />
-    <String id="4726002" string="Plant the seedlings carefully." />
-    <String id="4726003" string="Feels good to do good, doesn't it?" />
-    <String id="4726004" string="Plant faerie saplings in the {@Rgn:47011$$Spore Emitter Zone} in Whitefrost Forest." />
-    <String id="4726005" string="You’ve planted all the faerie saplings." />
-    <String id="4726006" string="&quot;It's an honor to serve.&quot;" />
-    <String id="4726007" string="Report to {@creature:247#1014$$Lenorele} at {@Rgn:47006$$Field Base Lunacy}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4722001" string="Supply Shortage" />
+    <String id="4722002" string="I'm sure salt will make it safe to eat." />
+    <String id="4722003" string="Brilliant idea!" />
+    <String id="4722004" string="Bear Meat" />
+    <String id="4722005" string="Kill {@creature:47#1001#Tirkai grizzlies} in the {@Rgn:47002$$Whitefrost Forest} southeast of {@Rgn:77001$$Pathfinder Post} and collect their meat." />
+    <String id="4722006" string="Go to {@Rgn:47006$$Field Base Lunacy} and deliver the bear meat to {@creature:247#1001$$Jadora}." />
+    <String id="4722007" string="&quot;Salt it really well.&quot;" />
 </StrSheet_Quest>

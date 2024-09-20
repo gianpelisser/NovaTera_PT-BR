@@ -1,8 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="4824001" string="Hungry Like the Athakela" />
-    <String id="4824002" string="We can't lose the foundry!" />
-    <String id="4824003" string="Kill the athakela hunters attacking the {@Rgn:48004}." />
-    <String id="4824004" string="&quot;As ordered!&quot;" />
-    <String id="4824005" string="Speak with {@LinkCreature:48#1007}." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4801001" string="Fire for Effect" />
+    <String id="4801002" string="&quot;Yes, sir!&quot;" />
+    <String id="4801003" string="[{@Rgn:84001$$Kaiator}] Deliver Adeldur’s report to Commander {@LinkCreature:528#5005$$Tamur}." />
+    <String id="4801004" string="&quot;Thank you, sir.&quot;" />
+    <String id="4801005" string="[{@Rgn:84001$$Kaiator}] Talk to Velika Commander Gislan while Tamur is reading the report." />
+    <String id="4801006" string="&quot;Khanovar, huh? See you there!&quot;" />
+    <String id="4801007" string="[{@Rgn:84001$$Kaiator}] Talk to Commander {@LinkCreature:528#5005$$Tamur}." />
+    <String id="4801008" string="&quot;Appreciate it.&quot;" />
+    <String id="4801009" string="Head to the {@Rgn:48001$$Khanovar Front} using the Zulfikar Fortress teleport scroll and speak with {@LinkCreature:248#2003$$Wilza} at {@Rgn:78001$$Zulfikar Fortress}." />
+    <String id="4801010" string="&quot;I'm on my way.&quot;" />
+    <String id="4801011" string="[{@Rgn:78001$$Zulfikar Fortress}] Talk with  Scout {@LinkCreature:248#2004$$Charti} about the situation along the Khanovar Front." />
+    <String id="4801012" string="&quot;I won't let you down.&quot;" />
+    <String id="4801013" string="[{@Rgn:48002$$Khanovar Citadel}] Talk to Commander {@LinkCreature:248#2001$$Tamur}." />
+    <String id="4801014" string="&quot;Honored to be of service.&quot;" />
+    <String id="4801015" string="[{@Rgn:48008$$Magthulk Crater}] Deliver supplies to {@LinkCreature:248#2009$$Caerok}." />
+    <String id="4801016" string="&quot;As ordered!&quot;" />
+    <String id="4801017" string="[{@Rgn:48008$$Magthulk Crater}] Speak with {@LinkCreature:248#2005$$Jekahb}." />
+    <String id="4801018" string="&quot;Let's light 'em up.&quot;" />
+    <String id="4801019" string="[{@Rgn:48006$$Carnage Vale}] Report to {@LinkCreature:248#2006$$Karakhir}." />
+    <String id="4801020" string="" />
+    <String id="4801021" string="Ride the {@LinkCreature:48#2000$$siege weapon}!" />
+    <String id="4801022" string="[{@Rgn:48006$$Carnage Vale}] Use the siege weapon to defeat the argons." />
+    <String id="4801023" string="&quot;What a rush!&quot;" />
+    <String id="4801024" string="[{@Rgn:48006$$Carnage Vale}] Speak with  {@LinkCreature:248#2006$$Karakhir}." />
 </StrSheet_Quest>

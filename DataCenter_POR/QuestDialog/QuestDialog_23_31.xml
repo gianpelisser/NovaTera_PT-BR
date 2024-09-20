@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="23" id="31" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="31" huntingZoneId="23" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="223" id="100" prevId="0" villagerId="1003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="223" id="2" prevId="0" villagerId="1003">
          
+         
         <Page social="5">Com soldados como você, nós realmente limpamos a casa contra os inimigos do reino aqui, mas o Posto Avançado dos Espíritos ainda está atolado.&lt;BR&gt;&lt;BR&gt;Vá até lá e encontre-se com {@LinkCreature:223#1017$$Naikara}.</Page>
+    
     
     </Text>
     <Text huntingZoneId="223" id="3" prevId="2" villagerId="1017">
          
+         
         <Page social="5">A maioria de nossas tropas de reserva está lutando contra os rebeldes vampiros perto de Popolion.&lt;BR&gt;&lt;BR&gt;Se você puder ajudar metade do que Menani diz, será um grande trunfo.</Page>
+    
     
     </Text>
 </QuestDialog>

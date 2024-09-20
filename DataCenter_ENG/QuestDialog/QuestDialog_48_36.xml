@@ -1,26 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="48" id="36" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="248" id="100" prevId="0" villagerId="1032">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="248" prevId="0" villagerId="1032">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="248" id="2" prevId="0" villagerId="1032">
-         
+    <Text id="2" huntingZoneId="248" prevId="0" villagerId="1032">
         <Page social="4">Soldier, I must have your help.&lt;NEXTPAGEBUTTON&gt;"What do you need?"&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="0">Although we're developing new weapons, the argons aren't just sitting idle.&lt;BR&gt;&lt;BR&gt;I want you to kill the shapers controlling their new sarjalod cannons, and bring me back a component from one of those cannons. We must learn their weaknesses.</Page>
-    
     </Text>
-    <Text huntingZoneId="248" id="3" prevId="2" villagerId="1032">
-         
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="1032">
         <Page social="6">That was no mean feat, &lt;PCNAME&gt;. Well done.&lt;BR&gt;&lt;BR&gt;With those shapers dead, the cannons will sit silent for a while, and give me time to analyze its design.</Page>
-    
     </Text>
-    <Text huntingZoneId="248" id="4" villagerId="1032">
-         
+    <Text id="4" huntingZoneId="248" villagerId="1032">
         <Page social="0">The shapers never venture out without minions to protect them.&lt;BR&gt;&lt;BR&gt;And watch out for those cannons. There's no telling what will set them off.</Page>
-    
     </Text>
 </QuestDialog>

@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="2" id="26" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="26" huntingZoneId="2" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="202" id="100" prevId="0" villagerId="1041">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="202" id="2" prevId="0" villagerId="1041">
          
+         
         <Page social="4">Maon é a chave para encontrar uma solução pacífica para nossos problemas com as fadas.&lt;BR&gt;&lt;BR&gt;Vá conversar com ele e veja se há alguma chance de intermediar um acordo.&lt;BR&gt;&lt;BR&gt;Converse com o filho dele primeiro, porém. O garotinho adora brincar. Se você se entrosar bem com ele, o pai poderá ser mais receptivo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="3" prevId="2" villagerId="1021">
          
+         
         <Page social="0">Ei! Quer brincar comigo? &lt;BR&gt;&lt;BR&gt;Oh, negócios com meu pai, hein? Bem, prometa voltar mais tarde, e eu falarei bem do papai.</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="4" prevId="2" villagerId="1020">
          
+         
         <Page social="0">Outro &lt;PCCLASS:lcase&gt; com uma mente inclinada à matança é a última coisa de que precisamos por aqui.&lt;BR&gt;&lt;BR&gt;Meu filho diz que você pode ser diferente. Isso é muito bom, mas se você está interessado em restaurar a paz, também precisa me convencer de que não é apenas mais um intruso com a mente voltada para o caos.</Page>
+    
     
     </Text>
 </QuestDialog>

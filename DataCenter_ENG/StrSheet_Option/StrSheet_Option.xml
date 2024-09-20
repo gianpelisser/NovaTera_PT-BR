@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Option xmlns="https://vezel.dev/novadrop/dc/StrSheet_Option" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Option StrSheet_Option.xsd">
+<StrSheet_Option xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Option StrSheet_Option.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Option">
     <String string="Windowed" readableId="SMT_OPTION_WINDOW_MODE" />
     <String string="Full screen" readableId="SMT_OPTION_FULL_SCREEN_MODE" />
     <String string="Min" readableId="SMT_OPTION_MINIMUM" />
@@ -21,6 +20,7 @@
     <String string="Social" readableId="SMT_MENU_COMMUNITY" />
     <String string="Valkyon Outfitters" readableId="SMT_MENU_INGAMESTORE" />
     <String string="Access Web" readableId="SMT_MENU_WEB_SERVICE" />
+    <String string="TERA Shop" readableId="SMT_MENU_STORE" />
     <String string="Options" readableId="SMT_MENU_SYSTEM_OPTION" />
     <String string="Logout" readableId="SMT_MENU_EXIT" />
     <String string="Guild" readableId="SMT_MENU_GUILD_LIST" />
@@ -54,7 +54,7 @@
     <String string="Dungeon Rankings" readableId="SMT_MENU_DUNGEON_RANKING" />
     <String string="System" readableId="SMT_MENU_ANNOUNCE" />
     <String string="Event" readableId="SMT_MENU_EVENT" />
-    <String string="Terapidia" readableId="SMT_MENU_TERAPEDIA" />
+    <String string="Terapedia" readableId="SMT_MENU_TERAPEDIA" />
     <String string="Subscription" readableId="SMT_MENU_SETTLE" />
     <String string="Premium Services" readableId="SMT_MENU_ADDEDSERVICE" />
     <String string="Novelty Items" readableId="SMT_MENU_PREMIUMITEM" />
@@ -64,7 +64,28 @@
     <String string="Raid Management" readableId="SMT_MENU_PARTYWINDOW_RAIDCONFIG" />
     <String string="Battleground Matching" readableId="SMT_MENU_BF_MATCHING_WINDOW" />
     <String string="" readableId="SMT_MENU_SERVER_BOARD" />
+    <String string="Crusade" readableId="SMT_MENU_GUILD_COMPETITION" />
     <String string="Game Tips" readableId="SMT_MENU_GAMETIP_BOARD" />
+    <String string="Event Matching" readableId="SMT_MENU_EVENTMATCHING" />
+    <String string="FAQ" readableId="SMT_MENU_FAQ" />
+    <String string="Survey" readableId="SMT_MENU_SURVEY" />
+    <String string="Report an Issue" readableId="SMT_MENU_CUSTOMERSERVICE" />
+    <String string="Remodel" readableId="SMT_MENU_CUSTOMIZE_PARTS" />
+    <String string="Change Appearance" readableId="SMT_MENU_CHANGE_ITEM_EXTERIOR" />
+    <String string="Restore Appearance" readableId="SMT_MENU_RESTORE_ITEM_EXTERIOR" />
+    <String string="Combat Pet" readableId="SMT_MENU_EXTENDED_SERVANT" />
+    <String string="Reset Instances" readableId="SMT_MENU_DUNGEON_RESET" />
+    <String string=" Circulated Gold Auction House" readableId="SMT_MENU_EXCHANGE_COUNTER" />
+    <String string="Equipment" readableId="SMT_MENU_EQUIPMENT" />
+    <String string="Party" readableId="SMT_MENU_PARTY" />
+    <String string="Parcel Post" readableId="SMT_MENU_POST" />
+    <String string="In Progress" readableId="SMT_MENU_TAG_MATCHING" />
+    <String string="Able To Recruit" readableId="SMT_MENU_TAG_RECRUIT" />
+    <String string="New" readableId="SMT_MENU_TAG_NEW" />
+    <String string="Dungeon Matching" readableId="SMT_MENU_DUNGEON_MATCHING" />
+    <String string="Battleground Matching" readableId="SMT_MENU_BF_MATCHING" />
+    <String string="System Menu" readableId="SMT_MENU_SYSTEM_MENU" />
+    <String string="Guild &amp; Alliance" readableId="SMT_MENU_GUILDUNION" />
     <String string="Aspect ratio" readableId="SMT_RR_ALL" />
     <String string="Wide 16:9" readableId="SMT_RR_16_9" />
     <String string="Wide 16:10" readableId="SMT_RR_16_10" />
@@ -82,8 +103,8 @@
     <String string="Supply Shop" readableId="SMT_MENU_HOMUN" />
     <String string="Achievements" readableId="SMT_MENU_ACHIEVEMENT" />
     <String string="Alliance" readableId="SMT_MENU_UNION" />
-    <String string="Emotes" readableId="SMT_MENU_SOCIALWINDOOW" />
-    <String string="Vanguard Initiative Orders" readableId="SMT_MENU_PLAYGUIDE" />
+    <String string="Emotes" readableId="SMT_MENU_SOCIALWINDOW" />
+    <String string="Vanguard Requests(H)" readableId="SMT_MENU_PLAYGUIDE" />
     <String string="Bank" readableId="SMT_WAREHOUSE_TITLE" />
     <String string="Pet Inventory" readableId="SMT_USER_WAREHOUSE_TITLE" />
     <String string="Guild Bank" readableId="SMT_GUILD_WAREHOUSE_TITLE" />

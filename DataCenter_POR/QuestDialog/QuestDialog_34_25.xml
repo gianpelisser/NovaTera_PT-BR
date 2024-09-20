@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="34" id="25" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="34" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="83" id="100" prevId="0" villagerId="1004">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="83" id="2" prevId="0" villagerId="1004">
          
+         
         <Page social="4">Os fragmentos eldritch são o que torna essa região estrategicamente valiosa. Antes era tão fácil.&lt;BR&gt;&lt;BR&gt;Tínhamos um bom relacionamento com os wendigos - pelo menos até a chegada dos gigantes. Entre os gigantes, os mercenários devanos e os wendigos furiosos, essa é uma postagem difícil.&lt;BR&gt;&lt;BR&gt;É hora de partir para a ofensiva. Apresentem-se a Dena. Ela terá suas ordens.</Page>
+    
     
     </Text>
     <Text huntingZoneId="83" id="3" prevId="2" villagerId="1010">
          
+         
         <Page social="4">Eu o saúdo. Há muito para você fazer.&lt;BR&gt;&lt;BR&gt;Os Junaidar atacaram um campo de mineração há alguns dias. Muitos mineiros foram mortos e alguns fragmentos eldritch foram roubados.&lt;BR&gt;&lt;BR&gt;Precisamos que você contra-ataque e recupere os fragmentos. Mate os {@LinkCreature:34#300#ladrões Junaidar}, os {@LinkCreature:34#400#courges} e os {@LinkCreature:34#310#bandidos} e recupere seus pacotes de fragmentos.</Page>
+    
     
     </Text>
     <Text huntingZoneId="83" id="4" prevId="3" villagerId="1010">
          
+         
         <Page social="4">Seus esforços são apreciados. Esses cristais notáveis são usados em escudos mágicos.&lt;BR&gt;&lt;BR&gt;Se o Mysterium conseguir torná-lo prático, cada cidade da federação será guardada por esse dispositivo.&lt;BR&gt;&lt;BR&gt;Vamos garantir que as famílias dos mineiros sejam compensadas pelo que vocês recuperaram.</Page>
+    
     
     </Text>
     <Text huntingZoneId="83" id="5" villagerId="1010">
          
+         
         <Page social="0">Muito sangue foi derramado para coletar esses fragmentos. Se você os recuperar, farei com que suas famílias sejam pagas.</Page>
+    
     
     </Text>
 </QuestDialog>

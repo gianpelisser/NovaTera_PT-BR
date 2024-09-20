@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="28" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="13" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="64" id="100" prevId="0" villagerId="1001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="64" id="2" prevId="0" villagerId="1001">
          
+         
         <Page social="4">Ah, na verdade, tenho outro trabalho para você.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:13#301194#Stonebeak highcrests} têm roubado equipamentos de pesquisa e arruinado algumas medições sensíveis na borda nordeste de nossa base.&lt;BR&gt;&lt;BR&gt;Vá ver se consegue recuperar algumas das &lt;b&gt;ferramentas de pesquisa&lt;/b&gt;.&lt;BR&gt;&lt;BR&gt;Quando tiver um bom suprimento, leve-as para Jarius.</Page>
+    
     
     </Text>
     <Text huntingZoneId="64" id="3" prevId="2" villagerId="1042">
          
+         
         <Page social="4">Esta é uma surpresa bem-vinda! Tenho andado por aí, tentando pensar em como concluir minha pesquisa sobre essa magnífica estrutura de árvore aqui. Toda vez que preparo esses instrumentos, esses bicos de pedra vêm e os roubam. Eu me pergunto por que....&lt;BR&gt;&lt;BR&gt;De qualquer forma, muito obrigado por sua ajuda.</Page>
+    
     
     </Text>
     <Text huntingZoneId="64" id="4" villagerId="1042">
          
+         
         <Page social="0">Adria disse que alguém estava recuperando meus instrumentos. É você? Pergunto porque parece que você não tem o que os {@LinkCreature:13#301194#stonebeak highcrests} roubaram.&lt;BR&gt;&lt;BR&gt;Se você tiver oportunidade de atingi-los com armas ou algo assim, eu realmente gostaria de ter esses instrumentos de volta...</Page>
+    
     
     </Text>
 </QuestDialog>

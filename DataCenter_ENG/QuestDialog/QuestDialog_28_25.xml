@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="25" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="228" id="100" prevId="0" villagerId="1005">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="25" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="228" prevId="0" villagerId="1005">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="228" id="2" prevId="0" villagerId="1005">
-         
+    <Text id="2" huntingZoneId="228" prevId="0" villagerId="1005">
         <Page social="5">We could do a lot more work if we weren't in danger of becoming some wolf's lunch! Those {@LinkCreature:28#1021#thorny timberwolves} can make mincemeat out of us in a few flashes of their fangs.&lt;BR&gt;&lt;BR&gt;We want to help the town, but I'm not risking my people just so some others can luxuriate behind a wall. If you slay the wolves, we'll keep working on containing the corruption.</Page>
-    
     </Text>
-    <Text huntingZoneId="228" id="3" prevId="2" villagerId="1005">
-         
+    <Text id="3" huntingZoneId="228" prevId="2" villagerId="1005">
         <Page social="5">Oh, my! That's a lot of fangs. I guess the wolves won't be a problem for awhile.&lt;BR&gt;&lt;BR&gt;I'll talk to my crew. We'll get back to work. Thanks.</Page>
-    
     </Text>
-    <Text huntingZoneId="228" id="4" villagerId="1005">
-         
+    <Text id="4" huntingZoneId="228" villagerId="1005">
         <Page social="0">Does the thought of being wolf food appeal to you? Didn't think so. It's not my idea of fun and games either, so slay some of the thorny timberwolves and we can all move on.</Page>
-    
     </Text>
 </QuestDialog>

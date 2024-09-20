@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="518" id="1005" voiceTypeId="110">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1005" huntingZoneId="518" voiceTypeId="110">
     <Text id="1" endSocial="14">
          
+         
         <Page social="4">The unrest in Westonia doesn't look like it's settling.&lt;BR&gt;&lt;BR&gt;We need more reinforcements!</Page>
+    
     
     </Text>
 </VillagerDialog>

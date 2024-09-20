@@ -1,84 +1,116 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="605" id="16" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="16" huntingZoneId="605" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="63" id="100" prevId="0" villagerId="3002">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="2" prevId="0" villagerId="3002">
          
+         
         <Page social="4">{@LinkCreature:63#3003#Elthienne} estava procurando por você. Você já falou com ela?</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="3003">
          
+         
         <Page social="4">&lt;BR&gt;&lt;BR&gt;Aparentemente, nossos vizinhos do sul estão infestados de lagartos da tempestade, vulcanos e kumases.&lt;BR&gt;&lt;BR&gt;Eu adoraria ajudá-los, mas... vulcanos? Kumases? Suas habilidades superam em muito as de qualquer uma das Mãos - individualmente e talvez até coletivamente.&lt;BR&gt;&lt;BR&gt;Posso enviá-lo para eliminar algumas das ameaças em Val Aureum?</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="4" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="5" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="6" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="7" prevId="2" villagerId="3003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="63" id="8" prevId="2" villagerId="3002">
          
+         
         <Page social="5">Você foi para {@Rgn:24001#Aurum Road}? Foi uma missão suicida? Se sim, não foi bem-sucedida.&lt;BR&gt;&lt;BR&gt;Diga a {@LinkCreature:63#3003#Elthienne} que ela precisará se esforçar mais se quiser que você seja morto.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="9" villagerId="3002">
          
+         
         <Page social="0">Elimine os {@LinkCreature:24#5#swift storm lizards} em {@Rgn:24001#Aurum Road} e traga a pele deles de volta.&lt;BR&gt;&lt;BR&gt;Elthienne não pediu pele, mas não estou perdendo a oportunidade de conseguir alguns materiais para um novo traje. Vai ser muito quente!</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="10" prevId="8" villagerId="3002">
          
+         
         <Page social="5">Eu odeio a {@Rgn:24001#Aurum Road}. Quero dizer, sério, o que ela tem a oferecer? Calor escaldante, tudo morto e coisas que querem fazer com que você morra. Eu digo para desistirmos do sul.&lt;BR&gt;&lt;BR&gt;Eu disse a {@LinkCreature:63#3003#Elthienne} para nem pensar em tentar me mandar para lá. Mas tenho certeza de que ela lhe prometeu algo bonito em troca?</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="11" villagerId="3002">
          
+         
         <Page social="0">Cace {@LinkCreature:24#9#desert lightning kumases} em {@Rgn:24001#Aurum Road} e traga de volta qualquer coisa útil que você encontrar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="12" prevId="10" villagerId="3002">
          
+         
         <Page social="5">Posso apenas dizer que você é uma inspiração? Sério! &lt;BR&gt;&lt;BR&gt;Espero que {@LinkCreature:63#3003#Elthienne} o aprecie tanto quanto eu. Faça uma visita a ela e descubra.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="13" villagerId="3002">
          
+         
         <Page social="0">Mate {@LinkCreature:24#12#covetous vulcans} em {@Rgn:24001#Aurum Road} e traga de volta qualquer coisa que possamos usar... e podemos usar qualquer coisa.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="14" prevId="12" villagerId="3002">
          
+         
         <Page social="5">Oh {@LinkCreature:63#3003#Elthienne}! Olha só quem está de volta!</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="15" villagerId="3002">
          
+         
         <Page social="0">Mate {@LinkCreature:24#62#yearning vulcans} em {@Rgn:24001#Aurum Road} e guarde todos os itens úteis que encontrar em seus cadáveres.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="16" prevId="14" villagerId="3003">
          
+         
         <Page social="4">Taratia parece feliz. Você deve ter encontrado um bom material nos corpos dos hostis na Aurum Road. Sua desenvoltura nunca deixa de surpreender.</Page>
+    
     
     </Text>
 </QuestDialog>

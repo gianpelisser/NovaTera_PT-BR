@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="3043001" string="Dust Beneath My Wings" />
-    <String id="3043002" string="It could be worse. Oshar could want their...interior parts." />
-    <String id="3043003" string="Someday you'll thank me." />
-    <String id="3043004" string="Wing Dust" />
-    <String id="3043005" string="Kill {@linkcreature:30#150#flame tentacullars} on the {@Rgn:30013$$Archive Grounds} and collect wing dust." />
-    <String id="3043006" string="Deliver the wing dust to {@linkcreature:230#1028$$Lihish}." />
-    <String id="3043007" string="&quot;For the federation.&quot;" />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="3039001" string="Good Fences Make Good Neighbors" />
+    <String id="3039002" string="I need sturdy wood for a sturdy fence." />
+    <String id="3039003" string="Thank you so much." />
+    <String id="3039004" string="Sturdy Wood" />
+    <String id="3039005" string="Hunt {@linkcreature:30#170#viny arbosks} and collect sturdy wood." />
+    <String id="3039006" string="Deliver the sturdy wood to {@linkcreature:230#1066$$Nicielle}." />
+    <String id="3039007" string="&quot;Glad I could help.&quot;" />
 </StrSheet_Quest>

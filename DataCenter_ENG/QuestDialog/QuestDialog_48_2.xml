@@ -1,38 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="48" id="2" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="48" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="0" prevId="0" villagerId="0">
         <Page social="0">Tamur came to you with a problem. Kaia, heartbroken by the tremendous number of casualties, decided to risk her life in a bold strike on the argons in the Khanovar Gauntlet. Tamur begged you to intercede, pointing out that Kaia could be killed, which would shatter troop morale. Kaia refused to change her mind, but agreed to take you and Hasmina into battle. You fought heroically, but the sheer number of argons overwhelmed even Kaia's strength. Kaia reluctantly retreated, much to Tamur's relief.</Page>
-    
     </Text>
-    <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
-         
+    <Text id="2" huntingZoneId="0" prevId="0" villagerId="0">
         <Page social="0">Report to {@Creature:248#2001$$Tamur} at Khanovar Citadel for priority redeployment.</Page>
-    
     </Text>
-    <Text huntingZoneId="248" id="3" prevId="2" villagerId="2001">
-         
+    <Text id="3" huntingZoneId="248" prevId="2" villagerId="2001">
         <Page social="10">Thank...thank you for avenging my father. My duties required me to put my vengeance on hold. &lt;NEXTPAGEBUTTON&gt;"Your father understood duty."&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="10">True enough.&lt;BR&gt;&lt;BR&gt;We've another crisis at the moment, though. {@Creature:248#2010$$Kaia} insists on taking the field in an attempt to end this war.&lt;BR&gt;&lt;BR&gt;You of all people know the gods can die as easily as any mortal. We can't lose Kaia. It would shatter morale!&lt;BR&gt;&lt;BR&gt;Do me a favor-try to talk her out of it.</Page>
-    
     </Text>
-    <Text huntingZoneId="248" id="4" prevId="3" villagerId="2010">
-         
+    <Text id="4" huntingZoneId="248" prevId="3" villagerId="2010">
         <Page social="4">Don't try to stop me, &lt;PCNAME&gt;. For too long, we guardian gods have watched the events of the world, yet done nothing.&lt;BR&gt;&lt;BR&gt;I know the risks, but that doesn't obviate my duty to our soldiers.&lt;NEXTPAGEBUTTON&gt;"At least let me fight by your side!"&lt;/NEXTPAGEBUTTON&gt;</Page>
-         
         <Page social="4">Very well. If it silences Tamur's objections, join me. With you and {@Creature:248#2011$$Hasmina} at my side, none can stand against us!&lt;BR&gt;&lt;BR&gt;We'll leave when you're prepared.</Page>
-    
     </Text>
-    <Text huntingZoneId="248" id="5" prevId="4" villagerId="2010">
-         
+    <Text id="5" huntingZoneId="248" prevId="4" villagerId="2010">
         <Page social="4">I can hear the song of battle-a sound I've not heard in far too long.&lt;BR&gt;&lt;BR&gt;We'll show the argons the power of our courage!</Page>
-    
     </Text>
-    <Text huntingZoneId="248" id="6" prevId="5" villagerId="2001">
-         
+    <Text id="6" huntingZoneId="248" prevId="5" villagerId="2001">
         <Page social="10">Take heart, my friend. You, Hasmina, and {@Creature:248#2010$$Kaia} stood up to our foes—and survived. That example will inspire our troops for years to come.&lt;BR&gt;&lt;BR&gt;I'm sending you and Hasmina to Kanstria. She's waiting outside to brief you.</Page>
-    
     </Text>
 </QuestDialog>

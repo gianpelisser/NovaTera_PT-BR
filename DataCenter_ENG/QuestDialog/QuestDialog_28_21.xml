@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="21" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="70" id="100" prevId="0" villagerId="1011">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="21" huntingZoneId="28" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="70" prevId="0" villagerId="1011">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="70" id="2" prevId="0" villagerId="1011">
-         
+    <Text id="2" huntingZoneId="70" prevId="0" villagerId="1011">
         <Page social="5">Say, are you journeying to Blightwood? Just out our western gate, right on your way, are some workers laboring to keep the corruption from reaching Tria. Their work is vital to this town.&lt;BR&gt;&lt;BR&gt;Would you be so kind as to deliver their lunch? Invidia runs a tavern in the western end of town. She's got their food ready to go. Thank you very much.</Page>
-    
     </Text>
-    <Text huntingZoneId="70" id="3" prevId="2" villagerId="1028">
-         
+    <Text id="3" huntingZoneId="70" prevId="2" villagerId="1028">
         <Page social="12">Lunch is ready. On time, as always. Not cheap either. Only the finest ingredients, as the magistrate insisted.&lt;BR&gt;&lt;BR&gt;Get these to the workers before they cool!</Page>
-    
     </Text>
-    <Text huntingZoneId="228" id="4" prevId="3" villagerId="1005">
-         
+    <Text id="4" huntingZoneId="228" prevId="3" villagerId="1005">
         <Page social="5">While fresh food is appreciated, the magistrate's deluding himself if he thinks he can escape raising our wages by this little bribe!&lt;BR&gt;&lt;BR&gt;Gods only know what this corruption will do to us. If you're smart, you won't stay long in Blightwood. You're liable to grow a third arm...from your nose.</Page>
-    
     </Text>
 </QuestDialog>

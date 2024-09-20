@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="18" id="28" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="28" huntingZoneId="18" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="218" id="100" prevId="0" villagerId="1005">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="218" id="2" prevId="0" villagerId="1005">
          
+         
         <Page social="4">Não tenho tempo para me preocupar com arqueólogos estúpidos quando tenho criaturas vagando por todos os lados.&lt;BR&gt;&lt;BR&gt;Por falar nisso, você parece ocioso. Vá matar alguns daqueles golems {@LinkCreature:18#16#rubblemaker} e me traga seus núcleos. Quero amarrá-los e fazer uma corda ao redor da cidade.</Page>
+    
     
     </Text>
     <Text huntingZoneId="218" id="3" prevId="2" villagerId="1005">
          
+         
         <Page social="4">Muito bem! Eu lhe pediria para juntar essas coisas para mim, mas estou vendo outro preguiçoso que precisa de uma tarefa....</Page>
+    
     
     </Text>
     <Text huntingZoneId="218" id="4" villagerId="1005">
          
+         
         <Page social="0">Você é tão estúpido quanto ocioso? Vai se perder como aquele arqueólogo inútil? &lt;BR&gt;&lt;BR&gt;Vocês estão atrás de {@LinkCreature:18#16#rubblemaker golems} e {@LinkCreature:18#15#rockcrawler scavengers}. Continue.</Page>
+    
     
     </Text>
 </QuestDialog>

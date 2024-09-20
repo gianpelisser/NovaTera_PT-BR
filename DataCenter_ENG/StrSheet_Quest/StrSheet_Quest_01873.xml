@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="12211001" string="Union Engine Keys" />
-    <String id="12211002" string="Complete" />
-    <String id="12211003" string="Return the extractor key to {@linkcreature:122#220037#Seniem}." />
-    <String id="12211004" string="&quot;For the collective!&quot;" />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="12210001" string="Fact Finding through Ordered Slayings" />
+    <String id="12210002" string="Slay beasts in Iron Order territory." />
+    <String id="12210003" string="&quot;May the Enlightened Union prevail!&quot;" />
+    <String id="12210004" string="Report to {@linkcreature:122#9001#Derene}." />
 </StrSheet_Quest>

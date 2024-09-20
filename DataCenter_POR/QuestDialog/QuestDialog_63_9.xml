@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
+
 <QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="9" huntingZoneId="63" voiceTypeId="0">
     <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
     <Text id="100" huntingZoneId="63" prevId="0" villagerId="1600">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text id="2" huntingZoneId="63" prevId="0" villagerId="1600">
          
+         
         <Page social="4">Olá! Fico feliz em vê-lo novamente! Recebemos informações sobre a localização de outra grande runa: a Runa de Algiz. De acordo com as escrituras antigas encontradas na biblioteca de Velika, esse artefato dava a quem o usava uma tremenda resistência e proteção! Então, vamos seguir para o local da pesquisa. Desta vez, nosso objetivo é o Golden Labyrinth. Não tenho ideia de como a runa chegou a Barakos, mas ele se tornou invencível e uma aura incomum emana dele... Certamente é Algiz quem lhe dá força! Eu realmente espero que você possa me ajudar desta vez!</Page>
+    
     
     </Text>
     <Text id="3" huntingZoneId="63" prevId="2" villagerId="1600">
          
+         
         <Page social="4">Você já terminou?! Mas! Eu esperava que demorasse mais... Obrigado pela ajuda! Ei, ei, onde você foi? Não se esqueça do prêmio!</Page>
+    
     
     </Text>
     <Text id="4" huntingZoneId="63" villagerId="1600">
          
+         
         <Page social="0">Somente a segunda runa ... Quanto tempo leva para procurá-las. O segredo é fazer isso a tempo...</Page>
+    
     
     </Text>
 </QuestDialog>

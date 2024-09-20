@@ -1,29 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="701" id="12" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="230" id="100" prevId="0" villagerId="7002">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="12" huntingZoneId="701" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="230" prevId="0" villagerId="7002">
         <Page social="0">You rescued the villagers kidnapped by the vampirs for the Banquet of Blood.</Page>
-    
     </Text>
-    <Text huntingZoneId="230" id="2" prevId="0" villagerId="7002">
-         
+    <Text id="2" huntingZoneId="230" prevId="0" villagerId="7002">
         <Page social="0">Apparently the vampirs do not give up so easily. They have abducted a number of villagers and are now attempting to complete their ritual with the blood of these innocents.&lt;BR&gt;&lt;BR&gt;You must return to the Banquet of Blood and free the captured villagers!</Page>
-    
     </Text>
-    <Text huntingZoneId="452" id="3" prevId="2" villagerId="101">
-         
+    <Text id="3" huntingZoneId="452" prevId="2" villagerId="101">
         <Page social="4">Please help me! These vampirs mean to kill me! &lt;NEXTPAGEBUTTON&gt;&amp;quot;You're safe now, but you should go.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
-    
     </Text>
-    <Text huntingZoneId="452" id="4" prevId="2" villagerId="102">
-         
+    <Text id="4" huntingZoneId="452" prevId="2" villagerId="102">
         <Page social="4">I'm trying to be brave—but the vampirs killed everyone else, and they'll be coming for me next! &lt;NEXTPAGEBUTTON&gt;&amp;quot;Go home quickly, now—your family is worried.&amp;quot;&lt;/NEXTPAGEBUTTON&gt;</Page>
-    
     </Text>
-    <Text huntingZoneId="230" id="5" prevId="3" villagerId="7002">
-         
+    <Text id="5" huntingZoneId="230" prevId="3" villagerId="7002">
         <Page social="4">You have done a noble service today, &lt;PCNAME&gt;. Balder smiles upon you!</Page>
-    
     </Text>
 </QuestDialog>

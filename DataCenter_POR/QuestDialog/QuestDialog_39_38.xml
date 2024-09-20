@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="39" id="38" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="38" huntingZoneId="39" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="239" id="100" prevId="0" villagerId="1023">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="239" id="2" prevId="0" villagerId="1023">
          
+         
         <Page social="4">Continuo ouvindo coisas. Estão dizendo que os aracnídeos têm algo a ver com a terrível praga em Frontera.&lt;BR&gt;&lt;BR&gt;Se você procurar no laboratório deles e encontrar a resposta, talvez possamos voltar para casa.&lt;BR&gt;&lt;BR&gt;Não quero criar minha filha neste lugar horrível!</Page>
+    
     
     </Text>
     <Text huntingZoneId="239" id="3" prevId="2" villagerId="1023">
          
+         
         <Page social="0">Talvez alguém consiga obter algumas respostas com isso e possamos voltar para casa.</Page>
+    
     
     </Text>
     <Text huntingZoneId="239" id="4" villagerId="1023">
          
+         
         <Page social="0">Precisamos saber o que os aracnídeos estavam fazendo. Tragam tudo o que puderem do laboratório.</Page>
+    
     
     </Text>
 </QuestDialog>

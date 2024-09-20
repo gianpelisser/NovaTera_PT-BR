@@ -1,26 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="15" id="32" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="32" huntingZoneId="15" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="215" id="100" prevId="0" villagerId="1017">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="215" id="2" prevId="0" villagerId="1017">
          
+         
         <Page social="5">Panpi está fazendo luvas de pele de sabre, e ele teve que vir acenar com elas na minha cara.&lt;BR&gt;&lt;BR&gt;Ele cheirou minhas botas. Cheirou! Depois, torceu o nariz e disse que elas fazem meus pés cheirarem mal!&lt;BR&gt;&lt;BR&gt;Oh, eu só quero... não sei o quê, mas tenho que revidar!&lt;NEXTPAGEBUTTON&gt;"Bem, sim."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">&lt;PCNAME&gt;, você tem que me ajudar.&lt;BR&gt;&lt;BR&gt;Mas o que é melhor do que pele de sabre? O que? &lt;BR&gt;&lt;BR&gt;Oh, já sei! Você já viu as braçadeiras que aqueles {@LinkCreature:15#6#construtos perturbados} usam? Isso é couro de basilisco. Nada poderia ser melhor do que isso.&lt;BR&gt;&lt;BR&gt;Se você os matar, eles não precisarão do couro, certo?</Page>
+    
     
     </Text>
     <Text huntingZoneId="215" id="3" prevId="2" villagerId="1017">
          
+         
         <Page social="5">Ah! &lt;BR&gt;&lt;BR&gt;Que macio. Como é flexível! Não tem como a Panpi superar isso!&lt;BR&gt;&lt;BR&gt;Obrigado!</Page>
+    
     
     </Text>
     <Text huntingZoneId="215" id="4" villagerId="1017">
          
+         
         <Page social="0">Você precisa me trazer esse couro! Meu orgulho depende disso!</Page>
+    
     
     </Text>
 </QuestDialog>

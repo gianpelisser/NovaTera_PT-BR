@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="607" id="11" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="607" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="4">Esta é uma convocação do chefe do Instituto de Teoria Unificada em Allemantheia.&lt;BR&gt;&lt;BR&gt;Conclua esta missão para desbloquear as missões diárias disponíveis no Instituto de Teoria Unificada.</Page>
+    
     
     </Text>
     <Text huntingZoneId="72" id="3" prevId="2" villagerId="1701">
          
+         
         <Page social="4">Sou Skeal, chefe do Instituto de Teoria Unificada.&lt;BR&gt;&lt;BR&gt;Ouvi dizer que você tem sido muito útil em nossa pesquisa, por isso queria agradecê-lo pessoalmente.&lt;BR&gt;&lt;BR&gt;Sua contribuição para nosso laboratório é também uma contribuição para a Federação Valkyon. Espero que você faça muitas coisas boas.</Page>
+    
     
     </Text>
 </QuestDialog>

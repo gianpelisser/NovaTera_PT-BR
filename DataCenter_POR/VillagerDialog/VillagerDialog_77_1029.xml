@@ -1,8 +1,10 @@
-<?xml version='1.0' encoding='utf-8'?>
-<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" huntingZoneId="77" id="1029" voiceTypeId="116">
+
+<VillagerDialog xmlns="https://vezel.dev/novadrop/dc/VillagerDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/VillagerDialog VillagerDialog.xsd" id="1029" huntingZoneId="77" voiceTypeId="116">
     <Text id="1" endSocial="0">
          
+         
         <Page social="0">Crap! I've had weapons ordered and look at what happened! The van was attacked. Which means that there will be no supply for a while.</Page>
+    
     
     </Text>
 </VillagerDialog>

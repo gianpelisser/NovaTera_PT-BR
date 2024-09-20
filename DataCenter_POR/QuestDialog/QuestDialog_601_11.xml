@@ -1,44 +1,60 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="601" id="11" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="11" huntingZoneId="601" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="77" id="100" prevId="0" villagerId="3004">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="77" id="2" prevId="0" villagerId="3004">
          
+         
         <Page social="4">{@LinkCreature:246#3001#Hurun} enviou uma mensagem solicitando ajuda nas Três Torres.&lt;BR&gt;&lt;BR&gt;Dada a sua assistência até o momento, achamos que você seria a escolha perfeita para ajudá-lo.&lt;BR&gt;&lt;BR&gt;Na verdade, estou com bastante inveja. Sempre quis estudar as Três Torres de perto.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="3" prevId="2" villagerId="3001">
          
+         
         <Page social="4">Graças a Deus! Os argons continuam matando nossos pesquisadores, então fico feliz que eles tenham enviado um soldado.&lt;BR&gt;&lt;BR&gt;Os {@LinkCreature:46#201#argonomorph kulkari crushers} ou {@LinkCreature:46#202#shamans}, ou mesmo os {@LinkCreature:46#203#argonomorph Lokian slayers} são as grandes ameaças. Elimine-os para aliviar a pressão sobre nós.&lt;BR&gt;&lt;BR&gt;É claro que ninguém choraria se você destruísse {@LinkCreature:246#3010#condutos de ciasma} em vez disso.&lt;BR&gt;&lt;BR&gt;Qualquer coisa ajudaria.</Page>
+    
     
     </Text>
     <Text huntingZoneId="246" id="4" prevId="2" villagerId="3001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="246" id="5" prevId="2" villagerId="3001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="246" id="6" prevId="2" villagerId="3001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="246" id="7" prevId="2" villagerId="3001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="246" id="8" prevId="2" villagerId="3001">
          
+         
         <Page social="4">É bom dar uma picada na máquina de guerra de argons de vez em quando.&lt;BR&gt;&lt;BR&gt;Sou grato por sua intercessão, &lt;PCNAME&gt;. Muito obrigado.</Page>
+    
     
     </Text>
 </QuestDialog>

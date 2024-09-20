@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="28" id="35" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="35" huntingZoneId="28" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="228" id="100" prevId="0" villagerId="1016">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="228" id="2" prevId="0" villagerId="1016">
          
+         
         <Page social="5">A morte de Lok ainda ecoa depois de todo esse tempo. Os deuses certamente bagunçaram as coisas por aqui. As histórias descrevem essa região como uma das mais belas do mundo.&lt;BR&gt;&lt;BR&gt;Atualmente, lutamos principalmente contra a corrupção e caçamos artefatos. Há uma recompensa bastante alta por relíquias que possam ter herança divina. Se você encontrar algo, traga-o para mim primeiro. Farei com que valha a pena seu tempo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="228" id="3" prevId="2" villagerId="1016">
          
+         
         <Page social="5">Há um rastro tangível de energia que passei a associar a Lok. Veja bem, Shakan literalmente rasgou Lok em pedaços quando o matou, então é possível que encontremos vestígios em uma área ampla.&lt;BR&gt;&lt;BR&gt;Quem sabe, talvez encontremos sua cabeça!</Page>
+    
     
     </Text>
     <Text huntingZoneId="228" id="4" villagerId="1016">
          
+         
         <Page social="0">É claro que nem todo mundo está apto a fazer esse tipo de pesquisa. É difícil e requer um pouco de força intestinal. Ainda assim, as recompensas seriam mais do que você pode contar com uma mão.</Page>
+    
     
     </Text>
 </QuestDialog>

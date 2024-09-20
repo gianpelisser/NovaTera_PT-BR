@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="2" id="36" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="36" huntingZoneId="2" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="202" id="100" prevId="0" villagerId="1015">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="202" id="2" prevId="0" villagerId="1015">
          
+         
         <Page social="4">Em tempos de paz, nós simplesmente condenaríamos essa ponte e começaríamos de novo. Não é melhor do que um mergulho frio, se é que você me entende.&lt;BR&gt;&lt;BR&gt;Mas tente dizer isso aos meus chefes. Na verdade, por falar em dizer coisas aos meus chefes...&lt;BR&gt;&lt;BR&gt;O {@LinkCreature:2#1#redcaps} roubou as peças que eu deveria usar para o trem de pouso da ponte... e provavelmente as quebrou. Você pode recuperar as &lt;b&gt;peças da ponte&lt;/b&gt; e levá-las a Niklas, o capataz do Acampamento de Faevine Vale? Ele pode conseguir peças de reposição, e eu prefiro não pedir ao Balter.</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="3" prevId="2" villagerId="1010">
          
+         
         <Page social="4">Por que os redcaps roubariam as peças? O que Siravon estava fazendo, senão observando as peças que ele deveria instalar?&lt;BR&gt;&lt;BR&gt;Pergunta retórica. Eu já sei a resposta: Ele é um idiota.&lt;BR&gt;&lt;BR&gt;Acho que vou começar a consertar essas peças. Já mencionei que Siravon é um idiota?</Page>
+    
     
     </Text>
     <Text huntingZoneId="202" id="4" villagerId="1010">
          
+         
         <Page social="0">Os {@LinkCreature:2#1#redcaps} e suas amigas fadas estão fora de controle! Nunca conseguiremos consertar a ponte nesse ritmo.</Page>
+    
     
     </Text>
 </QuestDialog>

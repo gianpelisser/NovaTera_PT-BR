@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="5" id="42" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="42" huntingZoneId="5" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="205" id="100" prevId="0" villagerId="1015">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="205" id="2" prevId="0" villagerId="1015">
          
+         
         <Page social="5">Você realmente está se dedicando aos tuwangis! Agradecemos muito e damos as boas-vindas para que continue a nos ajudar. Os {@LinkCreature:5#5#Tuwangi Blockheads} e os {@LinkCreature:5#6#Tuwangi Choppers} são os próximos da lista.&lt;BR&gt;&lt;BR&gt;Certifique-se de abrir caminho e avisar aos outros que é hora de recuar.</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="3" prevId="2" villagerId="1015">
          
+         
         <Page social="0">Mais uma etapa concluída. Sinto-me muito bem por tê-lo em nossa equipe, &lt;PCNAME&gt;. Só quero que saiba disso.&lt;BR&gt;&lt;BR&gt;Ainda é decepcionante saber que nosso relacionamento com os tuwangis chegou a esse ponto.</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="4" villagerId="1015">
          
+         
         <Page social="0">Ainda não foi embora? Está cansado de nos ajudar? Ou será que você acha que os tuwangis são adoráveis demais para serem machucados? &lt;BR&gt;&lt;BR&gt;Ou talvez você tenha um ódio especial por sapos, então?</Page>
+    
     
     </Text>
 </QuestDialog>

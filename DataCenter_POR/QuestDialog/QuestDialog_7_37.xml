@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="7" id="37" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="37" huntingZoneId="7" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="207" id="100" prevId="0" villagerId="1016">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="207" id="2" prevId="0" villagerId="1016">
          
+         
         <Page social="5">Esses descendentes de Lok não são tolos. Nós - eu - os subestimamos muito. Entre os orcs para nos assediar e os kumases e nagas para nos manter à distância, eles se saíram muito bem. &lt;BR&gt;&lt;BR&gt;Se você pudesse matar mais nagas, isso poderia nos dar a chance de tomar a iniciativa pela primeira vez. Entre em campo e mate vários {@LinkCreature:7#23#mercenáriosjuggernaut}. Isso deve chamar a atenção deles.</Page>
+    
     
     </Text>
     <Text huntingZoneId="207" id="3" prevId="2" villagerId="1016">
          
+         
         <Page social="5">Com aqueles nagas mortos, os cultistas estão vulneráveis. Eu só queria que mais de minhas tropas estivessem vivas para tirar vantagem disso.&lt;BR&gt;&lt;BR&gt;Mesmo assim, você fez um bom trabalho. Obrigado, &lt;PCNAME&gt;.</Page>
+    
     
     </Text>
 </QuestDialog>

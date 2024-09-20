@@ -1,64 +1,88 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="702" id="14" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="14" huntingZoneId="702" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="205" id="100" prevId="0" villagerId="2001">
          
+         
         <Page social="0">Você encontrou o tuwangi escondido e lhe deu coragem.</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="2" prevId="0" villagerId="2001">
          
+         
         <Page social="4">Baba tuwangi ficou com medo do sapo grande. Ele se escondeu. É hora da cerimônia. Precisamos encontrá-lo! &lt;NEXTPAGEBUTTON&gt;Onde você acha que ele está?&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="3" prevId="2" villagerId="2001">
          
+         
         <Page social="4">Tantos esconderijos! Mas o pequeno tuwangi não pode ter fugido para muito longe.&lt;BR&gt;&lt;BR&gt;Aqui o tambor. Encontre o esconderijo e bata no tambor para trazer o tuwangi para fora.&lt;NEXTPAGEBUTTON&gt;Eu ajudarei.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="4" prevId="2" villagerId="2001">
          
+         
         <Page social="4">Tuwangi assustado &lt;NEXTPAGEBUTTON&gt;Eu posso ajudar.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="5" prevId="2" villagerId="2001">
          
+         
         <Page social="4">Tuwangi assustado &lt;NEXTPAGEBUTTON&gt;Eu posso ajudar.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="6" prevId="2" villagerId="2001">
          
+         
         <Page social="4">Tuwangi assustado &lt;NEXTPAGEBUTTON&gt;Eu posso ajudar.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="7" prevId="2" villagerId="2001">
          
+         
         <Page social="4">Tuwangi assustado &lt;NEXTPAGEBUTTON&gt;Eu posso ajudar.&lt;/NEXTPAGEBUTTON&gt;</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="8" prevId="2" villagerId="2005">
          
+         
         <Page social="4">Por que tanto fogo?</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="9" prevId="8" villagerId="2006">
          
+         
         <Page social="4">Está na hora de comer dragões?</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="10" prevId="9" villagerId="2007">
          
+         
         <Page social="4">Mais bateria?</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="11" prevId="10" villagerId="2008">
          
+         
         <Page social="4">Crescer é difícil.</Page>
+    
     
     </Text>
     <Text huntingZoneId="205" id="12" prevId="11" villagerId="2001">
          
+         
         <Page social="4">Baba tuwangi retornou! Agora a comemoração pode começar. Você é um bom tuwangi.</Page>
+    
     
     </Text>
 </QuestDialog>

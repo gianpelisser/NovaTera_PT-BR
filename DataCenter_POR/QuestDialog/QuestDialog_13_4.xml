@@ -1,34 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="4" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="4" huntingZoneId="13" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="213" id="100" prevId="0" villagerId="1014">
          
+         
         <Page social="0">A busca por Elleon já começou! O Legado Lam o apresentou a alguns outros sobreviventes do primeiro desembarque e ao comandante da força, Adria. Ao longo do caminho, você aprendeu algumas verdades incômodas sobre o que realmente aconteceu e algumas palavras sábias de conselho.&lt;BR&gt;&lt;BR&gt;Adria lhe deu as boas-vindas, mas avisou que a missão era vital - e traiçoeira. A força expedicionária não está sozinha na Island of Dawn...</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="2" prevId="0" villagerId="1014">
          
+         
         <Page social="4">Bem, primeiro precisamos ver quem ainda está aqui. Isso é algo que você pode fazer. Axelle e eu estamos esperando nossa carona para sairmos daqui, mas Adria está tentando reunir essa lista.&lt;BR&gt;&lt;BR&gt;Faça uma rápida contagem de cabeças no caminho até ela.&lt;BR&gt;&lt;BR&gt;Não vejo &lt;font color='#660000'&gt;Elleon&lt;/font&gt; há algum tempo, pensando bem. Certifique-se de checar com ele também.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="3" prevId="2" villagerId="1003">
          
+         
         <Page social="4">Uma contagem de quem ainda está aqui? Sabe, isso me desagrada. Eu não deveria ter que prestar contas a um novo recruta enviado para fazer uma limpeza.&lt;BR&gt;&lt;BR&gt;Oh bem. Suponho que a culpa não seja sua. De qualquer forma, sim, acrescente "Kishale" a essa sua lista. Quando você chegar a Elleon, pode lembrá-lo dos cristais que ele pegou emprestado "só por um minuto"? Acho que ele e eu medimos o tempo de forma diferente.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="4" prevId="3" villagerId="1017">
          
+         
         <Page social="4">Sim, ainda estou aqui. Minhas ordens são para ficar aqui até que consigamos limpar o último desses ghilliedhus.&lt;BR&gt;&lt;BR&gt;Olha, quando você encontrar Elleon, pode ver se ele passa por aqui e me ajuda?</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="5" prevId="4" villagerId="1004">
          
+         
         <Page social="4">Sim, sim... ainda estou aqui. Juro que esta é a terceira vez que alguém vem nos contar. Para onde ela acha que vamos? &lt;BR&gt;&lt;BR&gt;De qualquer forma, na verdade há um pouco mais para limpar aqui na ilha, então estou feliz que você esteja aqui. Adria está na Base da Torre. Tenho certeza de que ela está esperando por você.&lt;BR&gt;&lt;BR&gt;A propósito, você viu Elleon?</Page>
     
-    </Text>
-    <Text huntingZoneId="64" id="6" prevId="5" villagerId="1001">
-         
-        <Page social="4">Que bom. Obrigado por fazer essa contagem de cabeças. Nem sei dizer o quanto....&lt;BR&gt;&lt;BR&gt;Espere, acho que você esqueceu de colocar o nome de Elleon nessa lista. Você não o viu? Isso é... ele não pode ter desaparecido de novo! &lt;BR&gt;&lt;BR&gt;Sabe de uma coisa, fale com Jorhon. Ele tem algumas coisas que precisam ser resolvidas. Eu vou dar uma olhada nisso enquanto isso.</Page>
     
     </Text>
 </QuestDialog>

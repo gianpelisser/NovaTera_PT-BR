@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="26" id="94" voiceTypeId="0">
-    <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
-    <Text huntingZoneId="69" id="100" prevId="0" villagerId="1016">
-         
+<QuestDialog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="94" huntingZoneId="26" voiceTypeId="0" xmlns="https://vezel.dev/novadrop/dc/QuestDialog">
+    <Text id="1" huntingZoneId="0" prevId="0" villagerId="0" />
+    <Text id="100" huntingZoneId="69" prevId="0" villagerId="1016">
         <Page social="0" />
-    
     </Text>
-    <Text huntingZoneId="69" id="2" prevId="0" villagerId="1016">
-         
+    <Text id="2" huntingZoneId="69" prevId="0" villagerId="1016">
         <Page social="5">Another surge of hostile creatures is threatening operations in Blessing Basin. I need you to kill {@LinkCreature:26#2006#tainted mycanars}, {@LinkCreature:26#3001#soulkeepers}, and {@LinkCreature:26#3002#hallowed sentinels} to protect federation citizens.&lt;BR&gt;&lt;BR&gt;Report to Naerie when mission is complete.</Page>
-    
     </Text>
-    <Text huntingZoneId="226" id="3" prevId="2" villagerId="1004">
-         
+    <Text id="3" huntingZoneId="226" prevId="2" villagerId="1004">
         <Page social="5">Your efforts will make all of our lives safer. Thank you.</Page>
-    
     </Text>
-    <Text huntingZoneId="226" id="4" villagerId="1004">
-         
+    <Text id="4" huntingZoneId="226" villagerId="1004">
         <Page social="0">The {@LinkCreature:26#2006#tainted mycanars}, {@LinkCreature:26#3001#soulkeepers}, and {@LinkCreature:26#3002#hallowed sentinels} are an on-going threat. Consider yourself on retainer to slay them.</Page>
-    
     </Text>
 </QuestDialog>

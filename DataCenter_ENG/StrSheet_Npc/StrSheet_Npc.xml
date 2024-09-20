@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Npc xmlns="https://vezel.dev/novadrop/dc/StrSheet_Npc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Npc StrSheet_Npc.xsd">
+<StrSheet_Npc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Npc StrSheet_Npc.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Npc">
     <String id="1" string="Dialog" />
     <String id="2" string="Quest" />
     <String id="3" string="Shop" />
@@ -18,7 +17,7 @@
     <String id="17" string="Equip Pet" />
     <String id="18" string="Crafting" />
     <String id="19" string="Teleport" />
-    <String id="20" string="Manage Guild Hall" />
+    <String id="20" string="Manage Skycastle" />
     <String id="21" string="View Battle Group List" />
     <String id="22" string="Taxation" />
     <String id="23" string="Teleport" />
@@ -64,7 +63,9 @@
     <String id="64" string="Write a Message" />
     <String id="66" string="Awakening" />
     <String id="67" string="Return to nearby town" />
-    <String id="68" string="Awakened Enchantment" />
+    <String id="68" string="Awakened Enchanting" />
+    <String id="78" string="Guild Flag" />
+    <String id="79" string="Teleport to your Skycastle" />
     <String id="100" string="Buy Crystals" />
     <String id="110" string="Buy Crystals" />
     <String id="120" string="GvG Goods" />
@@ -115,9 +116,9 @@
     <String id="276" string="Exchange Shattered Shandra Fragment" />
     <String id="277" string="Exchange Complete Shandra Fragment" />
     <String id="280" string="Redeem Challenge Receipt" />
-    <String id="281" string="Redeem Minea's Gift" />
-    <String id="282" string="Redeem Tonka's Gift" />
-    <String id="283" string="Redeem Treeshark's Gift" />
+    <String id="281" string="Redeem Yoki's Gift" />
+    <String id="282" string="Redeem Shan's Gift" />
+    <String id="283" string="Redeem Nepir's Gift" />
     <String id="286" string="Luxurious Fashions" />
     <String id="287" string="Elegant Fashions" />
     <String id="288" string="Stylish Fashions" />
@@ -138,9 +139,11 @@
     <String id="304" string="Red Fighter Exchange Shop" />
     <String id="305" string="Goldfinger Tokens" />
     <String id="306" string="Gold Letter Trading Shop" />
+    <String id="308" string="Mileage Coupon Season 2 Shop" />
     <String id="310" string="Exchange Practicum Badge" />
     <String id="311" string="Exchange Dire Badge" />
     <String id="312" string="Exchange Dire Badge" />
+    <String id="314" string="Valkyon's Token Exchange" />
     <String id="315" string="Spend Federation Bills" />
     <String id="316" string="Shop" />
     <String id="317" string="Shop" />
@@ -157,42 +160,48 @@
     <String id="328" string="Exchange {@RawItem:45312}" />
     <String id="329" string="Exchange Downy Hair" />
     <String id="330" string="Exchange Arkai Feather" />
-    <String id="331" string="Redeem Halloween Candy" />
-    <String id="332" string="Halloween Skill Book" />
-    <String id="333" string="Halloween Box" />
-	<String id="335" string="Spend Forge Flame Tokens" />
-	
-	<!--Весенний ивент-->
-	<String id="337" string="Gifts of Spring" />
-	<String id="337001" string="Gifts of Spring" />
-	
-	<String id="338" string="Perth Runes" />
-	<String id="338001" string="Perth Runes" />
-	
-	<String id="339" string="Laguz Runes" />
-	<String id="339001" string="Laguz Runes" />
-	
-	<String id="340" string="Costume from Wonderholme" />
-	<String id="340001" string="Costume from Wonderholme" />
-	
-	<String id="341" string="Equipment from Wonderholme" />
-	<String id="341001" string="Equipment from Wonderholme" />
-	
-	<String id="342" string="Exchange of solar stamps" />
-	<String id="342001" string="Exchange of solar stamps" />
-	
-	<String id="343" string="Conqueror's Token of Crucible" />
-	<String id="343001" string="Conqueror's Token of Crucible" />
-	
-	<String id="344" string="Token of the brave war" />
-	<String id="344001" string="Token of the brave war" />
-	
-	<String id="399" string="Summer Token" />
-	<String id="399001" string="Summer Token" />
-	
-	<String id="400" string="Bloody Token" />
-	<String id="400001" string="Bloody Token" />
-	
+    <String id="331" string="Accessories" />
+    <String id="332" string="Rare Accessories" />
+    <String id="333" string="Mounts and Pets" />
+    <String id="334" string="Special Ticket Exchange" />
+    <String id="335" string="Full Moon Festival Exchange" />
+    <String id="337" string="Banyakas' Token Exchange" />
+    <String id="338" string="October Event Ticket Exchange" />
+    <String id="339" string="Conqueror Equipment Exchange " />
+    <String id="340" string="Sweet Lollipop Exchange" />
+    <String id="341" string="Conqueror's Special Gem Exchange" />
+    <String id="342" string="Conqueror's Special Gem Exchange" />
+    <String id="343" string="Helkan Special Task Force's Crystal Exchange" />
+    <String id="344" string="The Returned Hero's Jewels Exchange" />
+    <String id="345" string="4th Anniversary Elin Coin Exchange" />
+    <String id="347" string="" />
+    <String id="348" string="" />
+    <String id="349" string="" />
+    <String id="350" string="" />
+    <String id="351" string="" />
+    <String id="352" string="" />
+    <String id="353" string="" />
+    <String id="355" string="" />
+    <String id="356" string="" />
+    <String id="359" string="Event Ruby Exchange" />
+    <String id="364" string="Elleon’s Veteran Shop" />
+    <String id="365" string="Full Moon Festival Item Exchange" />
+    <String id="366" string="Event Item Exchange" />
+    <String id="367" string="Baniakas Token Exchange" />
+    <String id="368" string="October Event Token Exchange" />
+    <String id="369" string="Conqueror's Equipment Exchange" />
+    <String id="370" string="Sweet Candy Exchange" />
+    <String id="371" string="Conqueror's Special Gem Exchange" />
+    <String id="372" string="Conqueror's Special Gem Exchange" />
+    <String id="373" string="Helkanian Crystal Exchange" />
+    <String id="374" string="Returned Hero's Jewel Exchange" />
+    <String id="399" string="Summer Token" />
+    <String id="400" string="Blood Token" />
+    <String id="401" string="Reputation Exchange" />
+    <String id="402" string="Rare items" />
+    <String id="403" string="Reputation Exchange" />
+    <String id="404" string="Rare items" />
+    <String id="500" string="Fitting room" />
     <String id="510" string="Spend Silver Talents" />
     <String id="511" string="Spend Gold Talents" />
     <String id="512" string="Spend Gold Talents" />
@@ -200,7 +209,7 @@
     <String id="514" string="Shop" />
     <String id="515" string="Shop" />
     <String id="600" string="Peddler's Shop" />
-    <String id="609" string="Valkyon Scout Supply" />
+    <String id="609" string="Vanguard Supply" />
     <String id="1001" string="Previous" />
     <String id="1002" string="Next" />
     <String id="1003" string="Cancel" />
@@ -211,16 +220,16 @@
     <String id="1402" string="Armor" />
     <String id="1403" string="Accessories" />
     <String id="1404" string="Supplies" />
-    <String id="1411" string="Crafting Design I" />
-    <String id="1412" string="Crafting Materials" />
-    <String id="1413" string="General Goods" />
-    <String id="1414" string="Crafting Materials (Old)" />
-    <String id="1421" string="Crafting Design I" />
-    <String id="1422" string="Supplies" />
-    <String id="1423" string="Crafting Design III" />
-    <String id="1424" string="Crafting Materials" />
+    <String id="1411" string="Controvert Designs" />
+    <String id="1412" string="Crafting Marks" />
+    <String id="1413" string="Combat Goods" />
+    <String id="1414" string="Level 60 Crafting" />
+    <String id="1421" string="Advanced Designs I" />
+    <String id="1422" string="Advanced Designs II" />
+    <String id="1423" string="Advanced Designs III" />
+    <String id="1424" string="Other Materials" />
     <String id="1431" string="Consumables" />
-    <String id="1432" string="Costume" />
+    <String id="1432" string="XP Expert" />
     <String id="1433" string="Accessory" />
     <String id="1511" string="Weapons" />
     <String id="1512" string="Armor" />
@@ -376,8 +385,36 @@
     <String id="2938" string="Goldfinger Scrolls" />
     <String id="2939" string="Exchange List" />
     <String id="2940" string="Love Token Exchange" />
-    <String id="2944" string="Token Exchange" />
-    <String id="2949" string="" />
+    <String id="2941" string="Costumes" />
+    <String id="2942" string="Weapons" />
+    <String id="2943" string="Consumables" />
+    <String id="2944" string="Battleground Token Exchange" />
+    <String id="2946" string="Attendance Stamp Exchange" />
+    <String id="2947" string="Conqueror's Weapons" />
+    <String id="2948" string="Conqueror's Armors" />
+    <String id="2949" string="Beetle's Mark Exchange" />
+    <String id="2950" string="Exchange Banyakas' Token " />
+    <String id="2951" string="Exchange October Event Ticket" />
+    <String id="2952" string="Conqueror's Weapons" />
+    <String id="2953" string="Conqueror's Armors" />
+    <String id="2954" string="Event Item" />
+    <String id="2955" string="Conqueror's Special Gem Exchange" />
+    <String id="2956" string="Conqueror's Special Gem Exchange" />
+    <String id="2957" string="Conqueror's Special Gem Exchange" />
+    <String id="2958" string="Event Exchange" />
+    <String id="2959" string="Consumables" />
+    <String id="2960" string="Charms" />
+    <String id="2961" string="Crystals" />
+    <String id="2962" string="Fulminar's Weapon Exchange" />
+    <String id="2963" string="Fulminar's Armor Exchange" />
+    <String id="2964" string="Tarkan's Fire Exchange" />
+    <String id="2969" string="Event Exchange" />
+    <String id="2977" string="Permanent Costumes" />
+    <String id="2978" string="Costumes for 7 Days" />
+    <String id="2979" string="Permanent Accessories" />
+    <String id="2980" string="Accessories for 7 Days" />
+    <String id="2987" string="Consumables" />
+    <String id="2988" string="Fashion" />
     <String id="3000" string="Grab It Now" />
     <String id="3001" string="Dress Up" />
     <String id="3002" string="Cool Stuff" />
@@ -416,7 +453,7 @@
     <String id="3050" string="Armor" />
     <String id="3051" string="Armor" />
     <String id="3052" string="Revered" />
-    <String id="6090" string="Valkyon Scout Crystal" />
+    <String id="6090" string="Vanguard Crystal" />
     <String id="6091" string="Equipment" />
     <String id="6092" string="Superior Glyph" />
     <String id="6093" string="Special" />
@@ -494,6 +531,13 @@
     <String id="40004" string="General Goods" />
     <String id="40005" string="Crystals" />
     <String id="40006" string="General Goods" />
+    <String id="50009" string="Weapon Skins" />
+    <String id="50010" string="Accessories" />
+    <String id="50011" string="Back Accessories" />
+    <String id="50012" string="Costumes (Elin, Aman, Baraka)" />
+    <String id="50013" string="Costumes (Human, High Elf)" />
+    <String id="50014" string="Costumes (Castanic, Popori)" />
+    <String id="50015" string="Skycastle Features" />
     <String id="60901" string="Lancer Glyphs" />
     <String id="60902" string="Warrior Glyphs" />
     <String id="60903" string="Slayer Glyphs" />
@@ -503,6 +547,7 @@
     <String id="60907" string="Priest Glyphs" />
     <String id="60908" string="Mystic Glyphs" />
     <String id="60909" string="Reaper Glyphs" />
+    <String id="60910" string="Gunner's Glyph Token" />
     <String id="70001" string="Dessert Necessities" />
     <String id="70002" string="Toy Kits" />
     <String id="70003" string="Party Favors" />
@@ -529,9 +574,52 @@
     <String id="70025" string="Accessories" />
     <String id="70026" string="Accessories" />
     <String id="70311" string="Merchant" />
+    <String id="70312" string="" />
+    <String id="70313" string="" />
+    <String id="70314" string="" />
+    <String id="70315" string="" />
+    <String id="70316" string="" />
+    <String id="70317" string="" />
+    <String id="70318" string="" />
     <String id="80000" string="Exclusive" />
     <String id="80001" string="Groceries" />
     <String id="80002" string="Groceries" />
+    <String id="337001" string="Gifts of Spring" />
+    <String id="338001" string="Perth Runes" />
+    <String id="339001" string="Laguz Runes" />
+    <String id="340001" string="Costume from Wonderholme" />
+    <String id="341001" string="Equipment from Wonderholme" />
+    <String id="342001" string="Token of the brave war" />
+    <String id="343001" string="Token Exchange" />
+    <String id="344001" string="Token Exchange" />
+    <String id="399001" string="Token Exchange" />
+    <String id="400001" string="Token Exchange" />
+    <String id="401001" string="Reputation Exchange" />
+    <String id="402001" string="Rare items" />
+    <String id="403001" string="Reputation Exchange" />
+    <String id="404001" string="Rare items" />
+    <String id="500001" string="Costumes" />
+    <String id="500002" string="Accessories" />
+    <String id="500003" string="Weapons" />
+    <String id="500091" string="Weapon Skins" />
+    <String id="500101" string="Accessories" />
+    <String id="500111" string="Back Accessories" />
+    <String id="500121" string="Elin" />
+    <String id="500122" string="Amani Male" />
+    <String id="500123" string="Amani Female" />
+    <String id="500124" string="Baraka" />
+    <String id="500131" string="Human Male" />
+    <String id="500132" string="Human Female" />
+    <String id="500133" string="High Elf Male" />
+    <String id="500134" string="High Elf Female" />
+    <String id="500141" string="Castanic Male" />
+    <String id="500142" string="Castanic Female" />
+    <String id="500143" string="Popori" />
+    <String id="500151" string="All" />
+    <String id="500152" string="Keep" />
+    <String id="500153" string="Bailey" />
+    <String id="500154" string="Wing" />
+    <String id="500155" string="NPCs" />
     <String id="609011" string="Uncommon" />
     <String id="609012" string="Uncommon" />
     <String id="703110" string="General Goods" />
@@ -547,6 +635,7 @@
     <String id="964611" string="Weapons" />
     <String id="964612" string="Armor" />
     <String id="1022327" string="Shop" />
+    <String id="9095335" string="Jewelry" />
     <String id="9122001" string="Officers' Shop" />
     <String id="9122002" string="Officers' Shop" />
     <String id="9122003" string="Officers' Shop" />
@@ -563,8 +652,7 @@
     <String id="9125002" string="Misc." />
     <String id="9125003" string="Crystals" />
     <String id="9999001" string="Time Travelers Shop" />
-    <String id="9999002" string="Enchanted Chest" />
-    <String id="41150171" string="Awaken equipment." />
-    <String id="41150172" string="Enchant awakened equipment." />
-	<String id="9095335" string="Jewelry" />
+    <String id="9999002" string="Chests" />
+    <String id="41150171" string="Awakened equipment." />
+    <String id="41150172" string="Enchant Awakened equipment." />
 </StrSheet_Npc>

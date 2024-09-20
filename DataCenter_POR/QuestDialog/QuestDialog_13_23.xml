@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="23" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="23" huntingZoneId="13" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="213" id="100" prevId="0" villagerId="1003">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="213" id="2" prevId="0" villagerId="1003">
          
+         
         <Page social="4">Se há alguém que sabe muito sobre {@LinkCreature:13#300931#ghilliedhus}. Este alguém seria Dulari, um pesquisador e amigo. Enquanto viaja para o acampamento dele ao sul, colete amostras daqueles com quem lutar.&lt;BR&gt;&lt;BR&gt;Ataque pelos lados ou por trás... mas continue andando. Não se deve brincar com um ghilliedhu enfurecido.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="3" prevId="2" villagerId="1017">
          
+         
         <Page social="4">Vi que você teve que se defender ao longo do caminho. Estranho comportamento de criaturas normalmente tão dóceis, não é? &lt;BR&gt;&lt;BR&gt;Ghilliedhus são espíritos protetores, não soldados. Preciso de respostas... e amostras... sobre o que está acontecendo.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="4" villagerId="1017">
          
+         
         <Page social="0">Outro soldado. Kishale novamente, sendo "prestativo". As amostras que você traz só reforçam minhas conclusões. Este lugar deve ser estudado, não conquistado.&lt;BR&gt;&lt;BR&gt;Se tiverem que lutar, pratiquem até que consigam enfrentar Vekas sem medo. Acredito que isso agita os outros espíritos, e entender Vekas revelará muito mais sobre esta ilha do que violência sem sentido.</Page>
+    
     
     </Text>
 </QuestDialog>

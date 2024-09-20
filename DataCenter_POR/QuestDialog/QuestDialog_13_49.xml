@@ -1,19 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="13" id="49" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="49" huntingZoneId="13" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="213" id="100" prevId="0" villagerId="1126">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="213" id="2" prevId="0" villagerId="1126">
          
+         
         <Page social="4">Os orcs no acampamento abaixo estão se reforçando continuamente de algum lugar. É apenas uma questão de tempo até que eles cheguem a uma força capaz de ameaçar seriamente a presença da federação na ilha. A resposta militar adequada é removê-los pela força - mas os batedores aqui são todos aqueles designados para o problema.&lt;BR&gt;&lt;BR&gt;Um excelente começo seria reduzir as fileiras de {@LinkCreature:13#5#Orcan Raiders} que patrulham a borda do acampamento.</Page>
+    
     
     </Text>
     <Text huntingZoneId="213" id="3" prevId="2" villagerId="1126">
          
+         
         <Page social="4">Observar os orcs correndo e se escondendo é bastante agradável. Volte e mate conosco sempre que quiser.</Page>
+    
     
     </Text>
 </QuestDialog>

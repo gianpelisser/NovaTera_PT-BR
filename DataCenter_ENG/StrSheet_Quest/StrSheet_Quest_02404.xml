@@ -1,10 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="999972001" string="Lake Monsters" />
-    <String id="999972002" string="[Spring Valley] Kill orisks." />
-    <String id="999972003" string="Complete Vanguard Initiative orders and claim your prize!" />
-	
-	<String id="999991001" string="Ziggurat must be destroyed! (Event)" />
-    <String id="999991002" string="[Velokas's Outskirts] Destroy a Ziggurat and get the extracted soul of Ziggurat." />
-    <String id="999991003" string="Complete Vanguard Initiative orders and claim your prize!" />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="999849001" string="Option: Death to Demokrons!" />
+    <String id="999849002" string="[Spring Valley] Kill Demokron Shock Troopers." />
+    <String id="999849003" string="Demokron Shock Trooper" />
+    <String id="999849004" string="Claim your reward!" />
 </StrSheet_Quest>

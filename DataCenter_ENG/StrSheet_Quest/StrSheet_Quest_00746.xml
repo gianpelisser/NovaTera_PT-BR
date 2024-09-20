@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="2595001" string="Priests of the Cult" />
-    <String id="2595002" string="Cultist's Core" />
-    <String id="2595003" string="&quot;Glad to be of service.&quot;" />
-    <String id="2595004" string="Eliminate the cultists and collect their cores." />
-    <String id="2595005" string="Report to Karus at the front of the Door of Dimension in the Dark Cathedral." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="2573001" string="(Guild) Suppression Orders: Cultist Priests" />
+    <String id="2573002" string="Proof of Kill: Cultist Priest Deaths" />
+    <String id="2573003" string="&quot;Glad to be of service.&quot;" />
+    <String id="2573004" string="Eliminate the cultists on the Grand Chapel area." />
+    <String id="2573005" string="Report to Delwen in Tulufan." />
 </StrSheet_Quest>

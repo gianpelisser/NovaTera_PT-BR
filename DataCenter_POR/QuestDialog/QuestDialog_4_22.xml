@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="4" id="22" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="22" huntingZoneId="4" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="204" id="100" prevId="0" villagerId="1001">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="204" id="2" prevId="0" villagerId="1001">
          
+         
         <Page social="4">É o {@LinkCreature:4#1011#fangspawns}. Só mordem, não latem. Estenda a mão para eles e você arrancará um toco ensanguentado.&lt;BR&gt;&lt;BR&gt;Extermine os fangspawns e traga de volta seus corações. Então estaremos chegando a algum lugar.&lt;BR&gt;&lt;BR&gt;O cheiro repele outros comedores de carne.</Page>
+    
     
     </Text>
     <Text huntingZoneId="204" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="4">Esses fangspawns se reproduzem rapidamente, mas você os mata ainda mais rápido, não é?</Page>
+    
     
     </Text>
     <Text huntingZoneId="204" id="4" villagerId="1001">
          
+         
         <Page social="0">Veja bem, não podemos reabrir as minas até que os fangspawns sejam eliminados.&lt;BR&gt;&lt;BR&gt;É difícil usar uma picareta quando um fangspawn mastigou seus braços!</Page>
+    
     
     </Text>
 </QuestDialog>

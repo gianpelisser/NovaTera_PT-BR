@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="9" id="30" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="30" huntingZoneId="9" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="209" id="100" prevId="0" villagerId="1011">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="209" id="2" prevId="0" villagerId="1011">
          
+         
         <Page social="0">Muito simples, &lt;PCCLASS:lcase&gt;. Uma recompensa por {@LinkCreature:9#430#gula gutslashers}.&lt;BR&gt;&lt;BR&gt;Por que eles são procurados? Crimes contra a federação, incluindo homicídio, canibalismo e simplesmente por serem gordos e nojentos.&lt;BR&gt;&lt;BR&gt;Traga facas de açougueiro como prova, hein?</Page>
+    
     
     </Text>
     <Text huntingZoneId="209" id="3" prevId="2" villagerId="1011">
          
+         
         <Page social="4">Você tem facas, eu tenho dinheiro. Vamos acertar as contas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="209" id="4" villagerId="1011">
          
+         
         <Page social="0">Basta olhar para a criatura e se perguntar: "Ela poderia ser mais gorda ou mais feia?"&lt;BR&gt;&lt;BR&gt;Se a resposta for não, então é uma {@LinkCreature:9#430#gula gutslasher}.&lt;BR&gt;&lt;BR&gt;Ou sua mãe.</Page>
+    
     
     </Text>
 </QuestDialog>

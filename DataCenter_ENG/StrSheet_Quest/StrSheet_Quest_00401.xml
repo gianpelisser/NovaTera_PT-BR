@@ -1,19 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="1316001" string="Dark Revelations" />
-    <String id="1316002" string="This is why you're here. Meet me inside the gate!" />
-    <String id="1316003" string="You've given the families of those lost in the Tainted Gorge a great gift—the gift of solace." />
-    <String id="1316004" string="Use the {@linkcreature:213#1015$$teleportal} to gain entrance to Karascha's lair, then kill him." />
-    <String id="1316005" string="Karascha" />
-    <String id="1316006" string="Suspicious Document" />
-    <String id="1316007" string="Use the teleportal to escape Karascha's Lair, then deliver the suspicious document to Sersine." />
-    <String id="1316008" string="&quot;I will.&quot;" />
-    <String id="1316009" string="Sersine" />
-    <String id="1316010" string="Suspicious Document" />
-    <String id="1316011" string="Deliver suspicious document to Leander." />
-    <String id="1316012" string="&quot;She'll be the first to know.&quot;" />
-    <String id="1316013" string="Leander" />
-    <String id="1316014" string="The Final Report" />
-    <String id="1316015" string="Speak to Adria." />
-    <String id="1316016" string="&quot;I'm just glad I could help.&quot;" />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="1313001" string="Into the Gorge" />
+    <String id="1313002" string="Dangerous creatures are swarming just across the bridge!" />
+    <String id="1313003" string="It is good to know Edan is safe." />
+    <String id="1313004" string="Fight off prowling cromoses in the area near the Tainted Gorge Bridge." />
+    <String id="1313005" string="Tainted Gorge Bridge" />
+    <String id="1313006" string="There she is!" />
+    <String id="1313007" string="Be on the lookout for Phaedra in the Tainted Gorge." />
+    <String id="1313008" string="&quot;I will.&quot;" />
+    <String id="1313009" string="Speak to Phaedra." />
+    <String id="1313010" string="Swarming Demons" />
+    <String id="1313011" string="Kill devoted ebon imps and dark raiders infesting the Tainted Gorge." />
+    <String id="1313012" string="&quot;For the federation!&quot;" />
+    <String id="1313013" string="Retrieve expedition amulets from fallen soldiers." />
+    <String id="1313014" string="Take the amulets to Sersine at the Tainted Gorge Outpost." />
 </StrSheet_Quest>

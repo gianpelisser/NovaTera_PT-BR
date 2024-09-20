@@ -1,48 +1,66 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="172" id="2" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="2" huntingZoneId="172" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="63" id="100" prevId="0" villagerId="1534">
          
+         
         <Page social="0">Dirija-se à doca do dirigível e apresente-se.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="2" prevId="0" villagerId="1534">
          
+         
         <Page social="4">Sei que você tem que ir para a doca do dirigível. Você se importaria de deixar uma pequena caixa para mim? &lt;NEXTPAGEBUTTON&gt;"O que é?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Tamari pediu uma caixa de joias. Eu a mantive em segurança, mas com a sorte que tive hoje, prefiro tirá-la de minhas mãos.&lt;BR&gt;&lt;BR&gt;Entregue-a a ela, por favor.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="3" prevId="2" villagerId="1533">
          
+         
         <Page social="0">As notas chegaram? Fiquei imaginando se ele teria me enganado.&lt;BR&gt;&lt;BR&gt;Muito bem. Eu sei quem você é. Você está autorizado a subir ao cais.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="4" prevId="3" villagerId="1502">
          
+         
         <Page social="4">Oh, eu sou tão desajeitado! &lt;BR&gt;&lt;BR&gt;Bem, olá! &lt;BR&gt;Meu nariz nunca está errado. Você cheira como uma pessoa agradável, então eu gosto de você. Você gosta de mim? &lt;BR&gt;&lt;BR&gt;Olá, posso lhe pedir um favor? Esse vento arrancou alguns papéis secretos muito importantes de minha bolsa. Tenho que recuperá-los! &lt;BR&gt;&lt;BR&gt;Você me ajudaria?</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="5" prevId="4" villagerId="1502">
          
+         
         <Page social="4">Meu herói! Teria sido um desastre se aquelas páginas tivessem sido encontradas pelo inimigo... ou por ela.&lt;BR&gt;&lt;BR&gt;&lt;PCNAME&gt;, você também está embarcando na arca do céu? &lt;NEXTPAGEBUTTON&gt;"De fato."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="0">Isso é ótimo! Você é ótimo. Vamos nos aventurar juntos! &lt;BR&gt;&lt;BR&gt;Você deve se apresentar a Rafe! Vejo você no céu!</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="6" villagerId="1502">
          
+         
         <Page social="0">Onde estão o restante das páginas?</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="7" prevId="5" villagerId="1503">
          
+         
         <Page social="4">Você é o último soldado da lista. Ótimo! &lt;BR&gt;&lt;BR&gt;Por favor, entregue o manifesto para . Ah, e graças a você os suprimentos serão carregados em breve.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="8" prevId="7" villagerId="1566">
          
+         
         <Page social="4">Excelente trabalho. Boa sorte em sua missão.</Page>
+    
     
     </Text>
 </QuestDialog>

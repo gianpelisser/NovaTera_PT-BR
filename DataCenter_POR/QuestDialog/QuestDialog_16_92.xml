@@ -1,24 +1,32 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="16" id="92" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="92" huntingZoneId="16" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="67" id="100" prevId="0" villagerId="1015">
          
+         
         <Page social="0" />
+    
     
     </Text>
     <Text huntingZoneId="67" id="2" prevId="0" villagerId="1015">
          
+         
         <Page social="0">Agora é hora de matar os ovolitos. Vá até a Sinestral Manor e ataque {@LinkCreature:16#2401#ovoliths}, {@LinkCreature:16#2402#lurking ovoliths} e {@LinkCreature:16#2501#massive ovoliths}.&lt;BR&gt;&lt;BR&gt;Relate a Gisa quando sua missão estiver concluída.</Page>
+    
     
     </Text>
     <Text huntingZoneId="216" id="3" prevId="2" villagerId="1006">
          
+         
         <Page social="5">Excelente! Obrigado pelo trabalho que você fez aqui.&lt;BR&gt;&lt;BR&gt;Por favor, pegue isso.</Page>
+    
     
     </Text>
     <Text huntingZoneId="216" id="4" villagerId="1006">
          
+         
         <Page social="0">Preciso de garras se quiser oferecer o pagamento.&lt;BR&gt;&lt;BR&gt;Não recompenso quem traz o ar.</Page>
+    
     
     </Text>
 </QuestDialog>

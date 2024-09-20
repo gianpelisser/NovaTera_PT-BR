@@ -1,57 +1,79 @@
-<?xml version='1.0' encoding='utf-8'?>
-<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" huntingZoneId="8" id="1" voiceTypeId="0">
+
+<QuestDialog xmlns="https://vezel.dev/novadrop/dc/QuestDialog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/QuestDialog QuestDialog.xsd" id="1" huntingZoneId="8" voiceTypeId="0">
     <Text huntingZoneId="0" id="1" prevId="0" villagerId="0" />
     <Text huntingZoneId="0" id="100" prevId="0" villagerId="0">
          
+         
         <Page social="0">Fraya pediu que você localizasse Akasha, que sequestrou Serion, uma encarnação viva da energia do Núcleo que alimenta a civilização dos elfos superiores. Você chegou a Castanica, onde Elleon lhe disse que Akasha estava trabalhando com gulas das Hungry Caverns.&lt;BR&gt;&lt;BR&gt;Você se infiltrou nas Hungry Caverns, derrotou o gula chefe, Gluorn, e descobriu que Akasha provavelmente havia fugido para Fyrmount.</Page>
+    
     
     </Text>
     <Text huntingZoneId="0" id="2" prevId="0" villagerId="0">
          
+         
         <Page social="5">Ordens da Missão&lt;BR&gt;&lt;BR&gt;Recebemos novas informações sobre o Núcleo.&lt;BR&gt;&lt;BR&gt;Apresentem-se imediatamente ao Comandante Fraya no Quartel General da Allemantheia.</Page>
+    
     
     </Text>
     <Text huntingZoneId="518" id="3" prevId="2" villagerId="1001">
          
+         
         <Page social="5">Vou direto ao ponto, &lt;PCNAME&gt;. Akasha deixou Shara do Sul e é quase certo que ela levou o Core com ela. Falei com nossos colegas em Velika, e a Sacerdotisa Ciebel acha que já encontrou Akasha.&lt;NEXTPAGEBUTTON&gt;"Vamos."&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Allemantheia não pode me poupar nesse estado. Você terá que ir sozinho.&lt;BR&gt;&lt;BR&gt;Fale com Ciebel em Velika. E se apresse. Cada dia sem o Núcleo faz com que Allemantheia esteja mais perto de cair nas areias.</Page>
+    
     
     </Text>
     <Text huntingZoneId="63" id="4" prevId="3" villagerId="1167">
          
+         
         <Page social="5">Eu esperava que Fraya o enviasse, &lt;PCNAME&gt;. Senti duas presenças poderosas - uma emanando uma serenidade élfica, a outra fervilhando de raiva mal suprimida - entrarem nas Hungry Caverns.&lt;NEXTPAGEBUTTON&gt;"E uma delas é Akasha?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">Sim. Os ecos estão desaparecendo, mas ela não pode ter ido longe.&lt;BR&gt;&lt;BR&gt;Vá primeiro a Castanica. Elleon está lá.</Page>
+    
     
     </Text>
     <Text huntingZoneId="61" id="5" prevId="4" villagerId="1104">
          
+         
         <Page social="5">&lt;PCNAME&gt;! Onde quer que eu vá, ouço falar de suas façanhas. Fomos surpreendidos em Allemantheia, mas, desta vez, vamos recuperar o Core.&lt;NEXTPAGEBUTTON&gt;"Você sabe onde ele está?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="5">Ciebel me deu algumas pistas. Você sabe como as fontes dela são boas! &lt;BR&gt;&lt;BR&gt;Alguém que corresponde à descrição de Akasha foi visto entre os gulas. Não é muito, mas é uma pista.&lt;BR&gt;&lt;BR&gt;{@LinkCreature:61#1105#Fraya} pode ter mais detalhes para você.</Page>
+    
     
     </Text>
     <Text huntingZoneId="61" id="6" prevId="5" villagerId="1105">
          
+         
         <Page social="5">Akasha está escondido entre os gulas, e não tenho certeza do motivo. Por que trazer o Núcleo para cá? &lt;BR&gt;&lt;BR&gt;Tenho minhas próprias suspeitas... suspeitas que me atraíram para cá, embora seja necessário voltar para casa. Além disso, aqui está no escopo de Velika.&lt;BR&gt;&lt;BR&gt;Apesar de meus problemas, precisamos do Núcleo de volta. Entre em contato com Smernav no Posto Avançado de Gula Avenger. Ele o levará para dentro das cavernas.</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="7" prevId="6" villagerId="1002">
          
+         
         <Page social="5">Elleon e Fraya enviaram você? Bem, espero que você goste de uma boa luta. Os gulas vão lhe dar tudo o que você puder aguentar.&lt;BR&gt;&lt;BR&gt;O mais perigoso deles é o executor {@LinkCreature:8#8021#Dulinka} e seus guardas mekkitar.&lt;BR&gt;&lt;BR&gt;Eles estão na parte mais interna do primeiro andar; derrote-os e você poderá ganhar alguma vantagem.</Page>
+    
     
     </Text>
     <Text huntingZoneId="208" id="8" prevId="7" villagerId="1015">
          
+         
         <Page social="5">Não me machuque! Não é minha culpa!&lt;BR&gt;&lt;BR&gt;Claro que mantive um elfo superior prisioneiro, mas não o comi!&lt;BR&gt;&lt;BR&gt;Olhem para mim! Sou pele e osso! O High Elf tinha um cheiro tão... tão delicioso. Mas eu era um bom gula. Ele ainda tem todos os dedos das mãos e dos pés!&lt;NEXTPAGEBUTTON&gt;"Onde ele está agora?"&lt;/NEXTPAGEBUTTON&gt;</Page>
          
+         
         <Page social="4">O High Elf? Akasha o tem, aposto.&lt;BR&gt;&lt;BR&gt;Primeiro eu deveria levar o elfo junto com os suprimentos, mas então Akasha mudou os planos.&lt;BR&gt;&lt;BR&gt;Agora as ordens dizem para levar apenas os suprimentos, não o elfo saboroso e suculento. Meu livro de registro diz isso!</Page>
+    
     
     </Text>
     <Text huntingZoneId="61" id="9" prevId="8" villagerId="1105">
          
+         
         <Page social="5">O livro-razão confirma o que pensávamos - Akasha sequestrou o Core e o está levando para Fyrmount.</Page>
+    
     
     </Text>
 </QuestDialog>

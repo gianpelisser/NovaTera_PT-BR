@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns="https://vezel.dev/novadrop/dc/MovieScript" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="https://vezel.dev/novadrop/dc" elementFormDefault="qualified" targetNamespace="https://vezel.dev/novadrop/dc/MovieScript" xsi:schemaLocation="https://vezel.dev/novadrop/dc ../DataCenter.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="MovieScript">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Script" type="MovieScript_Script" />
+    </xs:sequence>
+    <xs:attribute name="id" type="xs:string" />
+  </xs:complexType>
+  <xs:element name="MovieScript" type="MovieScript" />
+  <xs:complexType name="MovieScript_Script">
+    <xs:attribute name="string" type="xs:string" />
+    <xs:attribute name="duration" type="xs:int" />
+    <xs:attribute name="startTime" type="xs:int" />
+    <xs:attribute name="voiceCue" type="xs:string" />
+  </xs:complexType>
+</xs:schema>

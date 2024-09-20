@@ -1,19 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Quest xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd">
-    <String id="5002001" string="An End to War" />
-    <String id="5002002" string="&quot;Acknowledged!&quot;" />
-    <String id="5002003" string="Speak to Kaia in Kanstria." />
-    <String id="5002004" string="Queen's Lair Entrance" />
-    <String id="5002005" string="You have found the Queen's Lair Entrance." />
-    <String id="5002006" string="Go to the Queen's Lair Entrance, found near the northeast teleport platform in Granarkus." />
-    <String id="5002007" string="Inside Argon Corpus" />
-    <String id="5002008" string="You have entered Argon Corpus!" />
-    <String id="5002009" string="Enter Argon Corpus and find Shandra Manaya." />
-    <String id="5002010" string="Defeat Cygnus, fist of Manaya, to get one step closer to finding Shandra Manaya." />
-    <String id="5002011" string="Defeat the halveterak overseer to get one step closer to finding Shandra Manaya." />
-    <String id="5002012" string="Defeat lokmar sorgalur to get one step closer to finding Shandra Manaya." />
-    <String id="5002013" string="Defeat Meldita, eye of Manaya, to get one step closer to finding Shandra Manaya." />
-    <String id="5002014" string="Eliminate Shandra Manaya, the argon queen, in Manaya's Core." />
-    <String id="5002015" string="&quot;Victory is ours!&quot;" />
-    <String id="5002016" string="Tell Kaia you killed Shandra Manaya." />
+<StrSheet_Quest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Quest StrSheet_Quest.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Quest">
+    <String id="4983001" string="Suppression Orders: Volsurus" />
+    <String id="4983002" string="Proof of Kill: Volsurus" />
+    <String id="4983003" string="&quot;Thank you!&quot;" />
+    <String id="4983004" string="Kill {@LinkCreature:49#3$$Volsurus}." />
+    <String id="4983005" string="Report to Ayva in Kanstria." />
 </StrSheet_Quest>

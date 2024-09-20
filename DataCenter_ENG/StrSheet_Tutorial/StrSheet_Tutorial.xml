@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<StrSheet_Tutorial xmlns="https://vezel.dev/novadrop/dc/StrSheet_Tutorial" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Tutorial StrSheet_Tutorial.xsd">
+<StrSheet_Tutorial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_Tutorial StrSheet_Tutorial.xsd" xmlns="https://vezel.dev/novadrop/dc/StrSheet_Tutorial">
     <String id="1" string="You can lock open item tooltips by pressing the [Shift] key while left-clicking the item in your inventory." />
     <String id="2" string="You can link items into chat by holding [Ctrl] while left-clicking the item in your inventory." />
     <String id="3" string="You can share your location by typing /location in chat or [Ctrl] - left-clicking on the World Map." />
@@ -26,7 +25,7 @@
     <String id="24" string="When multiple party members gather from one source, it yields more resources." />
     <String id="25" string="Up to 20 people can join a single deathmatch. Use the Activity menu to get one started!" />
     <String id="27" string="Party members can mark monsters by using the [Q] key." />
-    <String id="28" string="Some merchants sell crystals for armor, weapon, and accessories." />
+    <String id="28" string="Some merchants sell crystals for armor, weapons, and accessories." />
     <String id="29" string="The color of a quest's name in your Quest Log indicates its difficulty for your character." />
     <String id="30" string="When a skill icon appears next to your crosshairs during combat, hit the space bar to instantly fire the &quot;chained&quot; skill." />
     <String id="31" string="Party Leaders can set party loot to round robin distribution for equal distribution of supplies." />
@@ -55,7 +54,7 @@
     <String id="54" string="Remove a crystal from its socket by right-clicking on it." />
     <String id="55" string="Inventory Managers can expand your inventory for a fee." />
     <String id="56" string="Instance Matching allows party members to continue questing or crafting right up until it's time to start the dungeon." />
-    <String id="57" string="Add quests to your onscreen Quest Tracker by checking the box by their name in your Quest Log." />
+    <String id="57" string="Add quests to your onscreen Quest Tracker by checking the box by their name in your Quest Log [L]." />
     <String id="60" string="Well-prepared parties collect gathering buffs and burn charms before entering dungeons." />
     <String id="61" string="Enchant items by clicking Enchant on the Activities menu." />
     <String id="62" string="A level 11 quest gives you access to a mount." />
@@ -85,12 +84,12 @@
     <String id="88" string="Masterwork equipment can be enchanted to +12." />
     <String id="90" string="Dye Merchants in major cities help you change the color of your armor." />
     <String id="91" string="A single dye color will have different effects on differently-colored armor." />
-    <String id="92" string="Hold Ctrl and right-click an icon to preview its appearance on your character." />
+    <String id="92" string="Hold [Ctrl] and right-click an icon to preview its appearance on your character." />
     <String id="93" string="When crafting, excellent work may create different items or extra materials." />
     <String id="94" string="Bookmark your favorite crafting recipes by clicking the star to the left of their names in the Crafting dialog." />
     <String id="95" string="When remodeling gear, the item you use as a visual template will be destroyed." />
     <String id="97" string="Weapons enchanted higher than +7 appear with a visible glow." />
-    <String id="98" string="Guilds are an excellent way to find parties, but Looking for Group (Y) is another good way." />
+    <String id="98" string="Guilds are an excellent way to find parties, but Looking for Group [Y] is another good way." />
     <String id="99" string="Joining parties lets you tackle bigger, tougher opponents and collect better gear, which lets you tackle bigger, tougher..." />
     <String id="101" string="Auto-enter a search term in the Brokerage by [Ctrl]-left clicking an item in your inventory." />
     <String id="104" string="You can reset instances by typing '/reset' in chat window or using the &quot;Reset Instances&quot; button in your Profile (P)." />
@@ -98,14 +97,15 @@
     <String id="106" string="Right-click the purchased glyph in your inventory to see it on the glyph list." />
     <String id="107" string="You can adjust the maximum view distance of your camera via Options." />
     <String id="108" string="In a large battle, maximizing the distance of your camera via Options lets you can see all the battleground in one glance." />
-    <String id="109" string="After reaching Lv 60, pressing H will open the Vanguard Initiative quests." />
-    <String id="110" string="Log in and complete Vanguard Initiative quests daily for rewards." />
+    <String id="109" string="After reaching Lv 13, pressing [H] will open the Vanguard Initiative quests." />
+    <String id="110" string="Log in and complete Valkyon Federation Initiative quests daily for rewards." />
     <String id="111" string="Use teleport platforms in Val Oriyn to move around faster." />
     <String id="112" string="In Val Oriyn, characters receive rested XP when logged out in Highwatch, any camp, or at teleport platforms." />
     <String id="113" string="There are teleportals in the camps of Val Oriyn. Use them to reach any camp you've already visited." />
     <String id="114" string="There is a teleportal from Highwatch to Velika. You will have to unlock it through the mission quests." />
-    <String id="115" string="Sanctuarys with beneficial effects sometimes appear in Val Oriyn." />
+    <String id="115" string="Sanctuaries with beneficial effects sometimes appear in Val Oriyn." />
     <String id="116" string="Powerful BAMs are dwelling in the lands of Val Oriyn." />
+    <String id="117" string="Your character can die from falling damage." />
     <String id="10041" string="The Mysterium is a large organization whose secretive leaders are mostly high elves." />
     <String id="10042" string="Velik is quite proud of her adopted human children and the federation they helped to found." />
     <String id="10043" string="Mysterium agents comb the world to uncover lost secrets—but for what purpose?" />
@@ -144,63 +144,61 @@
     <String id="20006" string="Vanarchs can make special announcements and collect taxes. The Vanarch's guild members ride special mounts." />
     <String id="30000" string="Go to Priest Ahdun." />
     <String id="30001" string="The expedition to the Island of Dawn is in trouble! (Prologue)" />
-    <String id="30010" string="You can move by using the {W}{A}{S}{D} keys." />
+    <String id="30010" string="You can move by using the [W][A][S][D] keys." />
     <String id="30011" string="You can move by using &lt;img src='img://__S1UIRES_GameControllerIcon.231145' width='40' height='40' vspace='-7'&gt;,&lt;img src='img://__S1UIRES_GameControllerIcon.231147' width='40' height='40' vspace='-7'&gt;,&lt;img src='img://__S1UIRES_GameControllerIcon.231146' width='40' height='40' vspace='-7'&gt;,&lt;img src='img://__S1UIRES_GameControllerIcon.231148' width='40' height='40' vspace='-7'&gt;" />
     <String id="30012" string="You can move by using &lt;img src='img://__S1UIRES_GameControllerIcon.231207' width='40' height='40' vspace='-7'&gt;,&lt;img src='img://__S1UIRES_GameControllerIcon.231209' width='40' height='40' vspace='-7'&gt;,&lt;img src='img://__S1UIRES_GameControllerIcon.231208' width='40' height='40' vspace='-7'&gt;,&lt;img src='img://__S1UIRES_GameControllerIcon.231210' width='40' height='40' vspace='-7'&gt;" />
-    <String id="30020" string="Press {F} to talk to Ahdun." />
+    <String id="30020" string="Press [F] to talk to Ahdun." />
     <String id="30021" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231139' width='40' height='40' vspace='-7'&gt; to talk to Ahdun." />
     <String id="30022" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231197' width='40' height='40' vspace='-7'&gt; to talk to Ahdun." />
     <String id="30030" string="Go to Quartermaster Popomin for better gear." />
-    <String id="30040" string="New gear will show up in your Inventory {I}. Right-click {MR} to equip." />
+    <String id="30040" string="New gear will show up in your Inventory [I]. Right-click [MR] to equip." />
     <String id="30041" string="New gear will show up in your Inventory &lt;img src='img://__S1UIRES_GameControllerIcon.231143' width='40' height='40' vspace='-7'&gt;. Press &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; , &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; , &lt;img src='img://__S1UIRES_GameControllerIcon.231140' width='40' height='40' vspace='-7'&gt;to equip." />
     <String id="30042" string="New gear will show up in your Inventory &lt;img src='img://__S1UIRES_GameControllerIcon.231206' width='40' height='40' vspace='-7'&gt;. Press &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; , &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; , &lt;img src='img://__S1UIRES_GameControllerIcon.231198' width='40' height='40' vspace='-7'&gt; to equip." />
     <String id="30050" string="Report to Deputy Commander Akrak." />
     <String id="30060" string="Enter the cave." />
-    <String id="30070" string="Press {SPACE} to jump." />
+    <String id="30070" string="Press [SPACE] to jump." />
     <String id="30071" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; to jump." />
     <String id="30072" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; to jump." />
-    <String id="30080" string="Press {NUMLOCK} to run automatically." />
+    <String id="30080" string="Press [NUMLOCK] to run automatically." />
     <String id="30081" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231129' width='40' height='40' vspace='-7'&gt; to run automatically." />
     <String id="30082" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231201' width='40' height='40' vspace='-7'&gt; to run automatically." />
-    <String id="30090" string="Press {ALT} to switch to UI mode. In UI mode, you can use the pointer." />
+    <String id="30090" string="Press [ALT] to switch to UI mode. In UI mode, you can use the pointer." />
     <String id="30091" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231132' width='40' height='40' vspace='-7'&gt; to switch to UI mode. In UI mode, you can use the pointer." />
     <String id="30092" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231200' width='40' height='40' vspace='-7'&gt; to switch to UI mode. In UI mode, you can use the pointer." />
     <String id="30100" string="You'll enter combat soon. Read about the skills in your toolbar before you proceed." />
-    <String id="30110" string="Press {ALT}, then mouse over the icons in your toolbar to learn what each skill does." />
-    <String id="30111" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231132' width='40' height='40' vspace='-7'&gt;, then move the pointer {MO} over the icons in your toolbar to learn what each skill does." />
-    <String id="30112" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231200' width='40' height='40' vspace='-7'&gt;, then move the pointer {MO} over the icons in your toolbar to learn what each skill does." />
-    <String id="30120" string="Press {F} to start climbing, then use your movement keys to ascend." />
+    <String id="30110" string="Press [ALT}, then mouse over the icons in your toolbar to learn what each skill does." />
+    <String id="30111" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231132' width='40' height='40' vspace='-7'&gt;, then move the pointer [MO] over the icons in your toolbar to learn what each skill does." />
+    <String id="30112" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231200' width='40' height='40' vspace='-7'&gt;, then move the pointer [MO] over the icons in your toolbar to learn what each skill does." />
+    <String id="30120" string="Press [F] to start climbing, then use your movement keys to ascend." />
     <String id="30121" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231139' width='40' height='40' vspace='-7'&gt; to start climbing." />
     <String id="30122" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231197' width='40' height='40' vspace='-7'&gt; to start climbing." />
-    <String id="31000" string="&quot;Our journey to salvation was to begin on the Island of Dawn.
-Instead it began with destruction.&quot;
-—Elleon" />
+    <String id="31000" string="&quot;Our journey to salvation was to begin on the Island of Dawn. Instead it began with destruction.&quot; —Elleon" />
     <String id="30130" string="The bridge has collapsed! You'll have to swim." />
     <String id="30140" string="Advance forward. You must find Elleon!" />
     <String id="30150" string="Advance forward." />
     <String id="30160" string="Troops from the expedition will fight by your side." />
-    <String id="50000" string="Target the enemy in the center of the screen, then left-click {ML} to attack." />
+    <String id="50000" string="Target the enemy in the center of the screen, then left-click [ML] to attack." />
     <String id="50001" string="Target the enemy in the center of the screen, then press &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; to attack." />
     <String id="50002" string="Target the enemy in the center of the screen, then press &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; to attack." />
-    <String id="50003" string="Target the enemy in the center of the screen, then use Fireball {ML} to attack." />
+    <String id="50003" string="Target the enemy in the center of the screen, then use Fireball [ML] to attack." />
     <String id="50004" string="Target the enemy in the center of the screen, then use Fireball &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; to attack." />
     <String id="50005" string="Target the enemy in the center of the screen, then use Fireball &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; to attack." />
-    <String id="50006" string="Target the enemy in the center of the screen, then use Divine Radiance {ML} to attack." />
+    <String id="50006" string="Target the enemy in the center of the screen, then use Divine Radiance [ML] to attack." />
     <String id="50007" string="Target the enemy in the center of the screen, then use Divine Radiance &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; to attack." />
     <String id="50008" string="Target the enemy in the center of the screen, then use Divine Radiance &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; to attack." />
-    <String id="50009" string="Target the enemy in the center of the screen, then use Sharan Bolt {ML} to attack." />
+    <String id="50009" string="Target the enemy in the center of the screen, then use Sharan Bolt [ML] to attack." />
     <String id="50013" string="Target the enemy in the center of the screen, then use Sharan Bolt &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; to attack." />
     <String id="50014" string="Target the enemy in the center of the screen, then use Sharan Bolt &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; to attack." />
-    <String id="50010" string="Assault Stance {F2} helps you attack." />
+    <String id="50010" string="Assault Stance [F2] helps you attack." />
     <String id="50011" string="Assault Stance &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; helps you attack." />
     <String id="50012" string="Assault Stance &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; helps you attack." />
-    <String id="50020" string="Defensive Stance {F3} helps protect you." />
+    <String id="50020" string="Defensive Stance [F3] helps protect you." />
     <String id="50021" string="Defensive Stance &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; helps protect you." />
     <String id="50022" string="Defensive Stance &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; helps protect you." />
-    <String id="50030" string="When the enemy flashes red, a powerful attack is on the way. Right-click {MR} to block." />
+    <String id="50030" string="When the enemy flashes red, a powerful attack is on the way. Right-click [MR] to block." />
     <String id="50032" string="When the enemy flashes red, a powerful attack is on the way. Press &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; to block." />
     <String id="50033" string="When the enemy flashes red, a powerful attack is on the way. Press &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; to block." />
-    <String id="50031" string="Attacks launched after the enemy flashes red are very powerful. Right-click {MR} to dodge." />
+    <String id="50031" string="Attacks launched after the enemy flashes red are very powerful. Right-click [MR] to dodge." />
     <String id="50034" string="Attacks launched after the enemy flashes red are very powerful. Press &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; to dodge." />
     <String id="50035" string="Attacks launched after the enemy flashes red are very powerful. Press &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; to dodge." />
     <String id="50040" string="Help Elleon." />
@@ -218,280 +216,280 @@ Instead it began with destruction.&quot;
     <String id="50080" string="The monster is fatigued. Focus your attacks now!" />
     <String id="50081" string="The monster is fatigued. Focus your attacks now!" />
     <String id="50082" string="The monster is fatigued. Focus your attacks now!" />
-    <String id="51090" string="Challenging Shout {F1} attracts the enemy's attention." />
+    <String id="51090" string="Challenging Shout [F1] attracts the enemy's attention." />
     <String id="51091" string="Challenging Shout &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; attracts the enemy's attention." />
     <String id="51092" string="Challenging Shout &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; attracts the enemy's attention." />
-    <String id="52090" string="Use Triumphant Shout {F1} to restore MP immediately." />
+    <String id="52090" string="Use Triumphant Shout [F1] to restore MP immediately." />
     <String id="52091" string="Use Triumphant Shout &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; to restore MP immediately." />
     <String id="52092" string="Use Triumphant Shout &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; to restore MP immediately." />
-    <String id="53090" string="Use Slow Trap {F1} to set a trap that slows the enemy." />
+    <String id="53090" string="Use Slow Trap [F1] to set a trap that slows the enemy." />
     <String id="53091" string="Use Slow Trap &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; to set a trap that slows the enemy." />
     <String id="53092" string="Use Slow Trap &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; to set a trap that slows the enemy." />
-    <String id="54090" string="Use Purifying Circle {F1} to heal your allies quickly." />
+    <String id="54090" string="Use Purifying Circle [F1] to heal your allies quickly." />
     <String id="54091" string="Use Purifying Circle &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; to heal your allies quickly." />
     <String id="54092" string="Use Purifying Circle &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; to heal your allies quickly." />
-    <String id="55090" string="Thrall of Protection {F1} summons a creature to fight alongside you." />
+    <String id="55090" string="Thrall of Protection [F1] summons a creature to fight alongside you." />
     <String id="55091" string="Thrall of Protection &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; summons a creature to fight alongside you." />
     <String id="55092" string="Thrall of Protection &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; summons a creature to fight alongside you." />
-    <String id="51100" string="Use Onslaught {F2} to launch a focused attack." />
+    <String id="51100" string="Use Onslaught [F2] to launch a focused attack." />
     <String id="51101" string="Use Onslaught &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; to launch a focused attack." />
     <String id="51102" string="Use Onslaught &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; to launch a focused attack." />
-    <String id="50100" string="Press {F2}." />
+    <String id="50100" string="Press [F2}." />
     <String id="50101" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt;" />
     <String id="50102" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt;" />
-    <String id="52100" string="Use Torrent of Blows {2} to attract the enemy's attention." />
+    <String id="52100" string="Use Torrent of Blows [2] to attract the enemy's attention." />
     <String id="52101" string="Use Torrent of Blows &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; to attract the enemy's attention." />
     <String id="52102" string="Use Torrent of Blows &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; to attract the enemy's attention." />
-    <String id="53100" string="Triumphant Shout {F2} restores MP instantly." />
+    <String id="53100" string="Triumphant Shout [F2] restores MP instantly." />
     <String id="53101" string="Triumphant Shout &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; restores MP instantly." />
     <String id="53102" string="Triumphant Shout &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; restores MP instantly." />
-    <String id="54100" string="Select an enemy after engaging Flaming Barrage {F2}. Use {F2} or {SPACE} to cast." />
+    <String id="54100" string="Select an enemy after engaging Flaming Barrage [F2}. Use [F2] or [SPACE] to cast." />
     <String id="54101" string="Select an enemy after engaging Flaming Barrage &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt;. Use &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; or &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; to cast." />
     <String id="54102" string="Select an enemy after engaging Flaming Barrage &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt;. Use &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; or &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; to cast." />
-    <String id="55100" string="Close Quarters {F2} allows two back-to-back attacks." />
+    <String id="55100" string="Close Quarters [F2] allows two back-to-back attacks." />
     <String id="55101" string="Close Quarters &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; allows two back-to-back attacks." />
     <String id="55102" string="Close Quarters &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; allows two back-to-back attacks." />
-    <String id="56100" string="Use Regeneration Circle {F2} to help your allies recover." />
+    <String id="56100" string="Use Regeneration Circle [F2] to help your allies recover." />
     <String id="56101" string="Use Regeneration Circle &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; to help your allies recover." />
     <String id="56102" string="Use Regeneration Circle &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; to help your allies recover." />
-    <String id="57100" string="Thrall of Life {F2} summons a creature that heals you." />
+    <String id="57100" string="Thrall of Life [F2] summons a creature that heals you." />
     <String id="57101" string="Thrall of Life &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; summons a creature that heals you." />
     <String id="57102" string="Thrall of Life &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; summons a creature that heals you." />
-    <String id="50110" string="Escape your enemy using Breakaway Bolt {F3}." />
+    <String id="50110" string="Escape your enemy using Breakaway Bolt [F3}." />
     <String id="50111" string="Escape your enemy using Breakaway Bolt &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt;" />
     <String id="50112" string="Escape your enemy using Breakaway Bolt &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt;" />
-    <String id="51110" string="Use Second Wind {F3} to restore your HP." />
+    <String id="51110" string="Use Second Wind [F3] to restore your HP." />
     <String id="51111" string="Use Second Wind &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; to restore your HP." />
     <String id="51112" string="Use Second Wind &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; to restore your HP." />
-    <String id="52110" string="Thrall of Vengeance {F3} summons a creature that attacks with lightning." />
+    <String id="52110" string="Thrall of Vengeance [F3] summons a creature that attacks with lightning." />
     <String id="52111" string="Thrall of Vengeance &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; summons a creature that attacks with lightning." />
     <String id="52112" string="Thrall of Vengeance &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; summons a creature that attacks with lightning." />
-    <String id="50120" string="Use Startling Kick {F4} to interrupt the enemy's action." />
+    <String id="50120" string="Use Startling Kick [F4] to interrupt the enemy's action." />
     <String id="50121" string="Use Startling Kick &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; to interrupt the enemy's action." />
     <String id="50122" string="Use Startling Kick &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; to interrupt the enemy's action." />
-    <String id="51120" string="Mana Infusion {F4} restores your MP. Moving interrupts this skill." />
+    <String id="51120" string="Mana Infusion [F4] restores your MP. Moving interrupts this skill." />
     <String id="51121" string="Mana Infusion &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; restores your MP. Moving interrupts this skill." />
     <String id="51122" string="Mana Infusion &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; restores your MP. Moving interrupts this skill." />
-    <String id="50130" string="Press {F5}." />
+    <String id="50130" string="Press [F5}." />
     <String id="50131" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231140' width='40' height='40' vspace='-7'&gt;" />
     <String id="50132" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231198' width='40' height='40' vspace='-7'&gt;" />
-    <String id="50140" string="Press {F6}." />
+    <String id="50140" string="Press [F6}." />
     <String id="50141" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231139' width='40' height='40' vspace='-7'&gt;" />
     <String id="50142" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231197' width='40' height='40' vspace='-7'&gt;" />
-    <String id="50150" string="Press {F7}." />
+    <String id="50150" string="Press [F7}." />
     <String id="50151" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231144' width='40' height='40' vspace='-7'&gt;" />
     <String id="50152" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231205' width='40' height='40' vspace='-7'&gt;" />
-    <String id="50160" string="Press {F8}." />
+    <String id="50160" string="Press [F8}." />
     <String id="50161" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231143' width='40' height='40' vspace='-7'&gt;" />
     <String id="50162" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231206' width='40' height='40' vspace='-7'&gt;" />
-    <String id="50170" string="Press {F9}." />
+    <String id="50170" string="Press [F9}." />
     <String id="50171" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231141' width='40' height='40' vspace='-7'&gt;" />
     <String id="50172" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231203' width='40' height='40' vspace='-7'&gt;" />
-    <String id="50180" string="Press {F10}." />
+    <String id="50180" string="Press [F10}." />
     <String id="50181" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231142' width='40' height='40' vspace='-7'&gt;" />
     <String id="50182" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231202' width='40' height='40' vspace='-7'&gt;" />
-    <String id="50190" string="Press {F11}." />
+    <String id="50190" string="Press [F11}." />
     <String id="50191" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231144' width='40' height='40' vspace='-7'&gt;" />
     <String id="50192" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231205' width='40' height='40' vspace='-7'&gt;" />
-    <String id="50200" string="Press {F12}." />
+    <String id="50200" string="Press [F12}." />
     <String id="50201" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231143' width='40' height='40' vspace='-7'&gt;" />
     <String id="50202" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231206' width='40' height='40' vspace='-7'&gt;" />
-    <String id="50210" string="Knockdown Strike {1} -&gt; Overhand Strike {2}" />
+    <String id="50210" string="Knockdown Strike [1] -&gt; Overhand Strike [2]" />
     <String id="50211" string="Knockdown Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; -&gt; Overhand Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt;" />
     <String id="50212" string="Knockdown Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; -&gt; Overhand Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt;" />
-    <String id="51210" string="Ice Needle {1} slows the enemy." />
+    <String id="51210" string="Ice Needle [1] slows the enemy." />
     <String id="51211" string="Ice Needle &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; slows the enemy." />
     <String id="51212" string="Ice Needle &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; slows the enemy." />
-    <String id="52210" string="Close Quarters {F2} interrupts the enemy's action." />
+    <String id="52210" string="Close Quarters [F2] interrupts the enemy's action." />
     <String id="52211" string="Close Quarters &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; interrupts the enemy's action." />
     <String id="52212" string="Close Quarters &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; interrupts the enemy's action." />
-    <String id="53210" string="Arrow Volley {1} allows simultaneous attacks on multiple enemies." />
+    <String id="53210" string="Arrow Volley [1] allows simultaneous attacks on multiple enemies." />
     <String id="53211" string="Arrow Volley &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; allows simultaneous attacks on multiple enemies." />
     <String id="53212" string="Arrow Volley &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; allows simultaneous attacks on multiple enemies." />
-    <String id="50220" string="Magma Bomb {2} attacks the enemy from a distance." />
+    <String id="50220" string="Magma Bomb [2] attacks the enemy from a distance." />
     <String id="50221" string="Magma Bomb &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; attacks the enemy from a distance." />
     <String id="50222" string="Magma Bomb &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; attacks the enemy from a distance." />
-    <String id="51220" string="Use Shield Bash {2} to interrupt the enemy's attack." />
+    <String id="51220" string="Use Shield Bash [2] to interrupt the enemy's attack." />
     <String id="51221" string="Use Shield Bash &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; to interrupt the enemy's attack." />
     <String id="51222" string="Use Shield Bash &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; to interrupt the enemy's attack." />
-    <String id="52220" string="Thunder Strike {2} is a powerful attack." />
+    <String id="52220" string="Thunder Strike [2] is a powerful attack." />
     <String id="52221" string="Thunder Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; is a powerful attack." />
     <String id="52222" string="Thunder Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; is a powerful attack." />
-    <String id="52230" string="Vampiric Blow {3} restores your HP." />
+    <String id="52230" string="Vampiric Blow [3] restores your HP." />
     <String id="52231" string="Vampiric Blow &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; restores your HP." />
     <String id="52232" string="Vampiric Blow &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; restores your HP." />
-    <String id="53230" string="Escape your enemy with Breakaway Bolt {F3}." />
+    <String id="53230" string="Escape your enemy with Breakaway Bolt [F3}." />
     <String id="53231" string="Escape your enemy with Breakaway Bolt &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt;" />
     <String id="53232" string="Escape your enemy with Breakaway Bolt &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt;" />
-    <String id="50240" string="Press {4}." />
+    <String id="50240" string="Press [4}." />
     <String id="50241" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt;" />
     <String id="50242" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt;" />
-    <String id="52240" string="Combative Strike {4} reduces the enemy's defense." />
+    <String id="52240" string="Combative Strike [4] reduces the enemy's defense." />
     <String id="52241" string="Combative Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; reduces the enemy's defense." />
     <String id="52242" string="Combative Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; reduces the enemy's defense." />
-    <String id="50250" string="Mana Infusion {5} restores your MP. Moving interrupts this skill." />
+    <String id="50250" string="Mana Infusion [5] restores your MP. Moving interrupts this skill." />
     <String id="50251" string="Mana Infusion &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; restores your MP. Moving interrupts this skill." />
     <String id="50252" string="Mana Infusion &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; restores your MP. Moving interrupts this skill." />
-    <String id="50260" string="Press {6}." />
+    <String id="50260" string="Press [6}." />
     <String id="50261" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231140' width='40' height='40' vspace='-7'&gt;" />
     <String id="50262" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231198' width='40' height='40' vspace='-7'&gt;" />
-    <String id="50270" string="Press {7}." />
+    <String id="50270" string="Press [7}." />
     <String id="50271" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt;" />
     <String id="50272" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt;" />
-    <String id="50280" string="Press {8}." />
+    <String id="50280" string="Press [8}." />
     <String id="50281" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt;" />
     <String id="50282" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt;" />
-    <String id="50290" string="Press {9}." />
+    <String id="50290" string="Press [9}." />
     <String id="50291" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt;" />
     <String id="50292" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt;" />
-    <String id="50300" string="Press {0}." />
+    <String id="50300" string="Press [0}." />
     <String id="50301" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt;" />
     <String id="50302" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt;" />
-    <String id="50310" string="Arun's Cleansing Touch {6} treats allies suffering from enemy debuffs." />
+    <String id="50310" string="Arun's Cleansing Touch [6] treats allies suffering from enemy debuffs." />
     <String id="50311" string="Arun's Cleansing Touch &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231140' width='40' height='40' vspace='-7'&gt; treats allies suffering from enemy debuffs." />
     <String id="50312" string="Arun's Cleansing Touch &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231198' width='40' height='40' vspace='-7'&gt; treats allies suffering from enemy debuffs." />
     <String id="50320" string="Press {=}." />
     <String id="50321" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231139' width='40' height='40' vspace='-7'&gt;" />
     <String id="50322" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231197' width='40' height='40' vspace='-7'&gt;" />
-    <String id="50330" string="Stand Fast {MR}" />
+    <String id="50330" string="Stand Fast [MR}" />
     <String id="50331" string="Stand Fast &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt;" />
     <String id="50332" string="Stand Fast &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt;" />
-    <String id="51330" string="Axe Block {MR}" />
+    <String id="51330" string="Axe Block [MR}" />
     <String id="51331" string="Axe Block &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt;" />
     <String id="51332" string="Axe Block &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt;" />
-    <String id="50340" string="Retaliate {C}" />
+    <String id="50340" string="Retaliate [C}" />
     <String id="50341" string="Retaliate &lt;img src='img://__S1UIRES_GameControllerIcon.231140' width='40' height='40' vspace='-7'&gt;" />
     <String id="50342" string="Retaliate &lt;img src='img://__S1UIRES_GameControllerIcon.231198' width='40' height='40' vspace='-7'&gt;" />
-    <String id="51340" string="Use Heal Thyself {C} to restore your HP." />
+    <String id="51340" string="Use Heal Thyself [C] to restore your HP." />
     <String id="51341" string="Use Heal Thyself &lt;img src='img://__S1UIRES_GameControllerIcon.231140' width='40' height='40' vspace='-7'&gt; to restore your HP." />
     <String id="51342" string="Use Heal Thyself &lt;img src='img://__S1UIRES_GameControllerIcon.231198' width='40' height='40' vspace='-7'&gt; to restore your HP." />
-    <String id="50350" string="{MR} to evade." />
+    <String id="50350" string="[MR] to evade." />
     <String id="50351" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; to evade." />
     <String id="50352" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; to evade." />
     <String id="60000" string="The bridge is broken." />
-    <String id="60001" string="Shield Barrage {1} can be used twice in a row." />
+    <String id="60001" string="Shield Barrage [1] can be used twice in a row." />
     <String id="61001" string="Shield Barrage &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; can be used twice in a row." />
     <String id="62001" string="Shield Barrage &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; can be used twice in a row." />
-    <String id="60002" string="Spring Attack {3} engages immediately if used right after Shield Barrage {1} or Shield Bash {2}." />
+    <String id="60002" string="Spring Attack [3] engages immediately if used right after Shield Barrage [1] or Shield Bash [2]." />
     <String id="61002" string="Spring Attack &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; engages immediately if used right after Shield Barrage &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; or Shield Bash &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt;" />
     <String id="62002" string="Spring Attack &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; engages immediately if used right after Shield Barrage &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; or Shield Bash &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt;" />
-    <String id="60003" string="Charging Lunge {4} sends you rushing toward the enemy." />
+    <String id="60003" string="Charging Lunge [4] sends you rushing toward the enemy." />
     <String id="61003" string="Charging Lunge &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; sends you rushing toward the enemy." />
     <String id="62003" string="Charging Lunge &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; sends you rushing toward the enemy." />
-    <String id="60004" string="Challenging Shout {F1} attracts a nearby enemy's attention. Use it when an ally is in peril." />
+    <String id="60004" string="Challenging Shout [F1] attracts a nearby enemy's attention. Use it when an ally is in peril." />
     <String id="61004" string="Challenging Shout &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt;attracts a nearby enemy's attention. Use it when an ally is in peril." />
     <String id="62004" string="Challenging Shout &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; attracts a nearby enemy's attention. Use it when an ally is in peril." />
-    <String id="60005" string="Assault Stance {F2} helps you attack, but reduces your defenses." />
+    <String id="60005" string="Assault Stance [F2] helps you attack, but reduces your defenses." />
     <String id="61005" string="Assault Stance &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; helps you attack, but reduces your defenses." />
     <String id="62005" string="Assault Stance &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; helps you attack, but reduces your defenses." />
-    <String id="60006" string="Defensive Stance {F3} helps you defend, but reduces your attacks." />
+    <String id="60006" string="Defensive Stance [F3] helps you defend, but reduces your attacks." />
     <String id="61006" string="Defensive Stance &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; helps you defend, but reduces your attacks." />
     <String id="62006" string="Defensive Stance &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; helps you defend, but reduces your attacks." />
-    <String id="60007" string="Assault Stance {F2} and Defensive Stance {F3} continuously consume MP. (ON/OFF)" />
+    <String id="60007" string="Assault Stance [F2] and Defensive Stance [F3] continuously consume MP. (ON/OFF)" />
     <String id="61007" string="Assault Stance &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; and Defensive Stance &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; continuously consume MP. (ON/OFF)" />
     <String id="62007" string="Assault Stance &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; and Defensive Stance &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; continuously consume MP. (ON/OFF)" />
-    <String id="60008" string="Rising Fury {3} can be used twice in a row." />
+    <String id="60008" string="Rising Fury [3] can be used twice in a row." />
     <String id="61008" string="Rising Fury &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; can be used twice in a row." />
     <String id="62008" string="Rising Fury &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; can be used twice in a row." />
-    <String id="60009" string="Combative Strike {4} reduces the enemy's defense." />
+    <String id="60009" string="Combative Strike [4] reduces the enemy's defense." />
     <String id="61009" string="Combative Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; reduces the enemy's defense." />
     <String id="62009" string="Combative Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; reduces the enemy's defense." />
-    <String id="60010" string="Evasion {MR} -&gt; Vortex Slash {F4} lets you attack a nearby enemy as you stand up." />
+    <String id="60010" string="Evasion [MR] -&gt; Vortex Slash [F4] lets you attack a nearby enemy as you stand up." />
     <String id="61010" string="Evasion &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; -&gt; Vortex Slash &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; lets you attack a nearby enemy as you stand up." />
     <String id="62010" string="Evasion &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; -&gt; Vortex Slash &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; lets you attack a nearby enemy as you stand up." />
-    <String id="60011" string="Battle Cry {F1} attacks all nearby enemies, and has a possibility to stun." />
+    <String id="60011" string="Battle Cry [F1] attacks all nearby enemies, and has a possibility to stun." />
     <String id="61011" string="Battle Cry &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; attacks all nearby enemies, and has a possibility to stun." />
     <String id="62011" string="Battle Cry &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; attacks all nearby enemies, and has a possibility to stun." />
-    <String id="60012" string="Triumphant Shout {F2} and Tenacity {F3} restore MP instantly." />
+    <String id="60012" string="Triumphant Shout [F2] and Tenacity [F3] restore MP instantly." />
     <String id="61012" string="Triumphant Shout &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; and Tenacity &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; restore MP instantly." />
     <String id="62012" string="Triumphant Shout &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; and Tenacity &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; restore MP instantly." />
     <String id="60013" string="MP automatically decreases as time passes. Restore your MP by fighting!" />
     <String id="61013" string="MP automatically decreases as time passes. Restore your MP by fighting!" />
     <String id="62013" string="MP automatically decreases as time passes. Restore your MP by fighting!" />
-    <String id="60014" string="Thunder Strike {2}, Vampiric Blow {3}, and Cyclone {1} attack harder when fully charged, but also reduce your HP." />
+    <String id="60014" string="Thunder Strike [2}, Vampiric Blow [3}, and Cyclone [1] attack harder when fully charged, but also reduce your HP." />
     <String id="61014" string="Thunder Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt;, Vampiric Blow &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt;, and Cyclone &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; attack harder when fully charged, but also reduce your HP." />
     <String id="62014" string="Thunder Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; Vampiric Blow &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt;, and Cyclone &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; attack harder when fully charged, but also reduce your HP." />
-    <String id="60015" string="Flatten {F1} is effective when multiple enemies cluster together." />
+    <String id="60015" string="Flatten [F1] is effective when multiple enemies cluster together." />
     <String id="61015" string="Flatten &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; is effective when multiple enemies cluster together." />
     <String id="62015" string="Flatten &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; is effective when multiple enemies cluster together." />
-    <String id="60016" string="You can use Thunder Strike {2}, Vampiric Blow {3}, and Cyclone {1} while moving." />
+    <String id="60016" string="You can use Thunder Strike [2], Vampiric Blow [3], and Cyclone [1] while moving." />
     <String id="61016" string="You can use Thunder Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt;, Vampiric Blow &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt;, and Cyclone &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; while moving." />
     <String id="62016" string="You can use Thunder Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt;, Vampiric Blow &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt;, and Cyclone &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; while moving." />
-    <String id="60017" string="Triumphant Shout {F1} and Tenacity {F2} restore MP instantly." />
+    <String id="60017" string="Triumphant Shout [F1] and Tenacity [F2] restore MP instantly." />
     <String id="61017" string="Triumphant Shout &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; and Tenacity &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; restore MP instantly." />
     <String id="62017" string="Triumphant Shout &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; and Tenacity &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; restore MP instantly." />
     <String id="60018" string="MP automatically decreases as time passes. Restore your MP by fighting!" />
-    <String id="60019" string="Overhand Strike {2} engages immediately if used right after Knockdown Strike {1}." />
+    <String id="60019" string="Overhand Strike [2] engages immediately if used right after Knockdown Strike [1}." />
     <String id="61019" string="Overhand Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; engages immediately if used right after Knockdown Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt;" />
     <String id="62019" string="Overhand Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; engages immediately if used right after Knockdown Strike &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt;" />
-    <String id="60020" string="Whirlwind {3} is effective when multiple enemies cluster together." />
+    <String id="60020" string="Whirlwind [3] is effective when multiple enemies cluster together." />
     <String id="61020" string="Whirlwind &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; is effective when multiple enemies cluster together." />
     <String id="62020" string="Whirlwind &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; is effective when multiple enemies cluster together." />
-    <String id="60021" string="Using Flame Pillar {3} and Glacial Retreat {4} back-to-back will inflict heavy damage to nearby enemies." />
+    <String id="60021" string="Using Flame Pillar [3] and Glacial Retreat [4] back-to-back will inflict heavy damage to nearby enemies." />
     <String id="61021" string="Using Flame Pillar &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; and Glacial Retreat &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; back-to-back will inflict heavy damage to nearby enemies." />
     <String id="62021" string="Using Flame Pillar &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; and Glacial Retreat &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; back-to-back will inflict heavy damage to nearby enemies." />
     <String id="60022" string="Your MP comes back automatically whenever you aren't using it." />
-    <String id="60023" string="Slowing a distant enemy with Ice Needle {1} and attacking is highly effective." />
+    <String id="60023" string="Slowing a distant enemy with Ice Needle [1] and attacking is highly effective." />
     <String id="61023" string="Slowing a distant enemy with Ice Needle &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; and attacking is highly effective." />
     <String id="62023" string="Slowing a distant enemy with Ice Needle &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; and attacking is highly effective." />
-    <String id="60024" string="Launch Flaming Barrage by pressing {F2} twice—once to lock onto the target and again to cast." />
+    <String id="60024" string="Launch Flaming Barrage by pressing [F2] twice—once to lock onto the target and again to cast." />
     <String id="61024" string="Launch Flaming Barrage by pressing &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; twice—once to lock onto the target and again to cast." />
     <String id="62024" string="Launch Flaming Barrage by pressing &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; twice—once to lock onto the target and again to cast." />
-    <String id="60025" string="Use Slow Trap {F1} to set a trap that slows the enemy." />
+    <String id="60025" string="Use Slow Trap [F1] to set a trap that slows the enemy." />
     <String id="61025" string="Use Slow Trap &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; to set a trap that slows the enemy." />
     <String id="62025" string="Use Slow Trap &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; to set a trap that slows the enemy." />
-    <String id="60026" string="Try using Close Quarters {F2} and Breakaway Bolt {F3} back-to-back." />
+    <String id="60026" string="Try using Close Quarters [F2] and Breakaway Bolt [F3] back-to-back." />
     <String id="61026" string="Try using Close Quarters &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; and Breakaway Bolt &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; back-to-back." />
     <String id="62026" string="Try using Close Quarters &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; and Breakaway Bolt &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; back-to-back." />
-    <String id="60027" string="Close Quarters {F2} can be used twice in a row {F2}{F2}." />
+    <String id="60027" string="Close Quarters [F2] can be used twice in a row [F2][F2]." />
     <String id="61027" string="Close Quarters &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; can be used twice in a row &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt;&lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt;" />
     <String id="62027" string="Close Quarters &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; can be used twice in a row &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt;&lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt;" />
-    <String id="60028" string="Rapid Fire shoots a burst of arrows while you hold {4} down." />
+    <String id="60028" string="Rapid Fire shoots a burst of arrows while you hold [4] down." />
     <String id="61028" string="Rapid Fire shoots a burst of arrows while you hold &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; down." />
     <String id="62028" string="Rapid Fire shoots a burst of arrows while you hold &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; down." />
-    <String id="60029" string="Radiant Arrow {3} launches a powerful attack against a single enemy." />
+    <String id="60029" string="Radiant Arrow [3] launches a powerful attack against a single enemy." />
     <String id="61029" string="Radiant Arrow &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; launches a powerful attack against a single enemy." />
     <String id="62029" string="Radiant Arrow &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; launches a powerful attack against a single enemy." />
-    <String id="60030" string="Arrow Volley {1} and Penetrating Arrow {2} are effective against multiple enemies." />
+    <String id="60030" string="Arrow Volley [1] and Penetrating Arrow [2] are effective against multiple enemies." />
     <String id="61030" string="Arrow Volley &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; and Penetrating Arrow &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; are effective against multiple enemies." />
     <String id="62030" string="Arrow Volley &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; and Penetrating Arrow &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; are effective against multiple enemies." />
-    <String id="60031" string="Shocking Implosion {1} and Final Reprisal {3} attack nearby enemies." />
+    <String id="60031" string="Shocking Implosion [1] and Final Reprisal [3] attack nearby enemies." />
     <String id="61031" string="Shocking Implosion &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; and Final Reprisal &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; attack nearby enemies." />
     <String id="62031" string="Shocking Implosion &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; and Final Reprisal &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; attack nearby enemies." />
-    <String id="60032" string="Triple Nemesis {2} and Metamorphic Blast {4} attack enemies far away." />
+    <String id="60032" string="Triple Nemesis [2] and Metamorphic Blast [4] attack enemies far away." />
     <String id="61032" string="Triple Nemesis &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; and Metamorphic Blast &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; attack enemies far away." />
     <String id="62032" string="Triple Nemesis &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; and Metamorphic Blast &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; attack enemies far away." />
-    <String id="60033" string="Triple Nemesis {2} can be used three times in a row." />
+    <String id="60033" string="Triple Nemesis [2] can be used three times in a row." />
     <String id="61033" string="Triple Nemesis &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; can be used three times in a row." />
     <String id="62033" string="Triple Nemesis &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; can be used three times in a row." />
-    <String id="60034" string="Final Reprisal {3} engages immediately if used right after Shocking Implosion {1} or Triple Nemesis {2}." />
+    <String id="60034" string="Final Reprisal [3] engages immediately if used right after Shocking Implosion [1] or Triple Nemesis [2]." />
     <String id="61034" string="Final Reprisal &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; engages immediately if used right after Shocking Implosion &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; or Triple Nemesis &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt;" />
     <String id="62034" string="Final Reprisal &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; engages immediately if used right after Shocking Implosion &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; or Triple Nemesis &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt;" />
-    <String id="60035" string="Purifying Circle {F1} cleanses effects on you and others. Regeneration Circle {F2} heals nearby party members." />
+    <String id="60035" string="Purifying Circle [F1] cleanses effects on you and others. Regeneration Circle [F2] heals nearby party members." />
     <String id="61035" string="Purifying Circle &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; cleanses effects on you and others. Regeneration Circle &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231134' width='40' height='40' vspace='-7'&gt; heals nearby party members." />
     <String id="62035" string="Purifying Circle &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; cleanses effects on you and others. Regeneration Circle &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231193' width='40' height='40' vspace='-7'&gt; heals nearby party members." />
-    <String id="60036" string="Heal Thyself {TAB} heals you instantly." />
+    <String id="60036" string="Heal Thyself [TAB] heals you instantly." />
     <String id="61036" string="Heal Thyself &lt;img src='img://__S1UIRES_GameControllerIcon.231140' width='40' height='40' vspace='-7'&gt; heals you instantly." />
     <String id="62036" string="Heal Thyself &lt;img src='img://__S1UIRES_GameControllerIcon.231198' width='40' height='40' vspace='-7'&gt; heals you instantly." />
-    <String id="60037" string="Restorative Burst {F3} heals allies faster, but in a smaller area." />
+    <String id="60037" string="Restorative Burst [F3] heals allies faster, but in a smaller area." />
     <String id="61037" string="Restorative Burst &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231135' width='40' height='40' vspace='-7'&gt; heals allies faster, but in a smaller area." />
     <String id="62037" string="Restorative Burst &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt; heals allies faster, but in a smaller area." />
     <String id="60038" string="You can't summon multiple thralls simultaneously." />
     <String id="61038" string="You can't summon multiple thralls simultaneously." />
     <String id="62038" string="You can't summon multiple thralls simultaneously." />
-    <String id="60039" string="Summon a Thrall of Protection {F1} to protect you while using heavy damage spells." />
+    <String id="60039" string="Summon a Thrall of Protection [F1] to protect you while using heavy damage spells." />
     <String id="61039" string="Summon a Thrall of Protection &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231133' width='40' height='40' vspace='-7'&gt; to protect you while using heavy damage spells." />
     <String id="62039" string="Summon a Thrall of Protection &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231192' width='40' height='40' vspace='-7'&gt; to protect you while using heavy damage spells." />
-    <String id="60040" string="Use Arun's Vitae {5} to heal yourself or someone nearby." />
+    <String id="60040" string="Use Arun's Vitae [5] to heal yourself or someone nearby." />
     <String id="61040" string="Use Arun's Vitae &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; to heal yourself or someone nearby." />
     <String id="62040" string="Use Arun's Vitae &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; to heal yourself or someone nearby." />
-    <String id="60041" string="Press {F} after dropping Arun's Vitae {5} to use the healing mote." />
+    <String id="60041" string="Press [F] after dropping Arun's Vitae [5] to use the healing mote." />
     <String id="61041" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231139' width='40' height='40' vspace='-7'&gt; after dropping Arun's Vitae &lt;img src='img://__S1UIRES_GameControllerIcon.231137' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt; to use the healing mote." />
     <String id="62041" string="Press &lt;img src='img://__S1UIRES_GameControllerIcon.231197' width='40' height='40' vspace='-7'&gt; after dropping Arun's Vitae &lt;img src='img://__S1UIRES_GameControllerIcon.231195' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt; to use the healing mote." />
-    <String id="60042" string="Use Expedition Healing Potion {F5}." />
+    <String id="60042" string="Use Expedition Healing Potion [F5]." />
     <String id="61042" string="Use Expedition Healing Potion &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231140' width='40' height='40' vspace='-7'&gt;" />
     <String id="62042" string="Use Expedition Healing Potion &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231198' width='40' height='40' vspace='-7'&gt;" />
-    <String id="60043" string="Use Expedition Mana Potion {F6}." />
+    <String id="60043" string="Use Expedition Mana Potion [F6]." />
     <String id="61043" string="Use Expedition Mana Potion &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231139' width='40' height='40' vspace='-7'&gt;" />
     <String id="62043" string="Use Expedition Mana Potion &lt;img src='img://__S1UIRES_GameControllerIcon.231196' width='40' height='40' vspace='-7'&gt; + &lt;img src='img://__S1UIRES_GameControllerIcon.231197' width='40' height='40' vspace='-7'&gt;" />
     <String id="70000" string="Up to 5 players can ride the airship simultaneously." />
@@ -529,7 +527,7 @@ Instead it began with destruction.&quot;
     <String id="72003" string="Maximum three allies can seize a pyre." />
     <String id="72004" string="Use leader exclusive skills to lead the battle to your team's advantage." />
     <String id="72005" string="You can use chat ban function at battlegrounds where you have more than 5 members in your team." />
-    <String id="40000" string="New consumables show up in your Inventory {I}. Right-click to use." />
+    <String id="40000" string="New consumables show up in your Inventory [I]. Right-click to use." />
     <String id="40001" string="New consumables show up in your Inventory &lt;img src='img://__S1UIRES_GameControllerIcon.231143' width='40' height='40' vspace='-7'&gt;. Press &lt;img src='img://__S1UIRES_GameControllerIcon.231138' width='40' height='40' vspace='-7'&gt;, &lt;img src='img://__S1UIRES_GameControllerIcon.231136' width='40' height='40' vspace='-7'&gt;, &lt;img src='img://__S1UIRES_GameControllerIcon.231140' width='40' height='40' vspace='-7'&gt; to use." />
     <String id="40002" string="New consumables show up in your Inventory &lt;img src='img://__S1UIRES_GameControllerIcon.231206' width='40' height='40' vspace='-7'&gt;. Press &lt;img src='img://__S1UIRES_GameControllerIcon.231191' width='40' height='40' vspace='-7'&gt;, &lt;img src='img://__S1UIRES_GameControllerIcon.231194' width='40' height='40' vspace='-7'&gt;, &lt;img src='img://__S1UIRES_GameControllerIcon.231198' width='40' height='40' vspace='-7'&gt; to use." />
     <String id="40100" string="You've acquired the skill &lt;img src='img://__Icon_Skills.ChainSuperBlow_Tex' width='54' height='54' vspace='-17'&gt; Grim Strike." />
@@ -544,4 +542,12 @@ Instead it began with destruction.&quot;
     <String id="40200" string="&lt;img src='img://__Icon_Skills.CounterAttack_Tex' width='54' height='54' vspace='-17'&gt; Use Retaliate to jump up and attack the basilisk." />
     <String id="40300" string="You're low on HP. &lt;img src='img://__Icon_Skills.ChainBlade_Tex' width='54' height='54' vspace='-17'&gt; Use Whipsaw." />
     <String id="40400" string="&lt;img src='img://__Icon_Skills.ReverseCapture_Tex' width='54' height='54' vspace='-17'&gt; Use Cable Step on the wooden fence. Cable Step throws your scythes up to 18 meters." />
+    <String id="7000" string="Во время Великой битвы место возрождения выбирается каждый раз случайным образом." />
+    <String id="7001" string="К некоторым точкам возрождения невозможно добраться обычным способом." />
+    <String id="7002" string="Игроки со снаряжением уровня XXX и ниже получат временное снаряжение." />
+    <String id="7003" string="Великая битва - командный бой, но индивидуальный счет здесь важнее!" />
+    <String id="7004" string="В окне информации об арене вы можете перемещаться вверх и вниз, чтобы узнать рейтинги." />
+    <String id="7005" string="Магические камни накладывают чрезвычайно мощные эффекты." />
+    <String id="101510" string="If you use Rolling Reload  &lt;imgㆍsrc='img://__Icon_Skills.AmbushRolling_Tex'ㆍwidth='54'ㆍheight='54'ㆍvspace='-17'&gt; on the ({MR}  button), you can use Scattershot &lt;imgㆍsrc='img://__Icon_Skills.BuckShot_Tex'ㆍwidth='54'ㆍheight='54'ㆍvspace='-17'&gt;  again more quickly." />
+    <String id="101511" string="Press {MR}  button to use Rolling Reload  &lt;img src='img://__Icon_Skills.AmbushRolling_Tex' width='42' height='42' vspace='-17'&gt;to complete the cooldown for Scattershot. &lt;img src='img://__Icon_Skills.BuckShot_Tex' width='42' height='42' vspace='-17'&gt; " />
 </StrSheet_Tutorial>
