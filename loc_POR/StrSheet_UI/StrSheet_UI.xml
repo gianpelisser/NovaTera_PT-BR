@@ -2620,7 +2620,7 @@
     <String string="²" stringId="$231282" />
     <String string="!" stringId="$231283" />
     <String string="&lt;" stringId="$231284" />
-    <String string="Exibir relógio" stringId="$231285" />
+    <String string="Mostra relógio (Ping)" stringId="$231285" />
     <String string="Grupos de Raid" stringId="$231286" />
     <String string="Mostrar taxa de quadros (FPS)" stringId="$231287" />
     <String string="Controlador de jogo" stringId="$231288" />
@@ -2634,13 +2634,13 @@
     <String string="Aparência do conjunto" stringId="$231296" />
     <String string="Sempre mostrar fantasia de rosto" stringId="$231297" />
     <String string="Sempre ficar com o cabelo amarrado" stringId="$231298" />
-    <String string="Exibir sua HP" stringId="$231299" />
+    <String string="Mostra sua vida (HP)" stringId="$231299" />
     <String string="Limite máximo de alcance da câmera" stringId="$231300" />
-    <String string="Display boss monster's attack range" stringId="$231301" />
-    <String string="Display monster's attack range" stringId="$231302" />
-    <String string="Show Main Menu only in UI Mode" stringId="$231303" />
-    <String string="Gamepad Setup" stringId="$231304" />
-    <String string="Turn off automatic gamepad detection" stringId="$231305" />
+    <String string="Mostra o alcance de ataque de monstro chefe" stringId="$231301" />
+    <String string="Mostra alcance de ataque do monstro" stringId="$231302" />
+    <String string="Mostrar menu principal apenas no modo UI" stringId="$231303" />
+    <String string="Configuração do Gamepad" stringId="$231304" />
+    <String string="Desativar a detecção automática do Gamepad" stringId="$231305" />
     <String string="AP" stringId="$235000" />
     <String string="Mapa do mundo" stringId="$241001" />
     <String string="Mapa do campo de batalha" stringId="$241002" />
@@ -2946,9 +2946,9 @@
     <String string="item(ns)" stringId="$272013" />
     <String string="Ponto do concurso" stringId="$272014" />
     <String string="Conquistas Especiais não contam para as insígnias." stringId="$272015" />
-    <String string="Crusade score excludes special achievements: {Score}" stringId="$272016" />
-    <String string="{Name}'s score: {CompareScore}\nMy score: {TotalScore}" stringId="$272017" />
-    <String string="See More" stringId="$272018" />
+    <String string="Pontuação da cruzada exclui conquistas especiais: {Score}" stringId="$272016" />
+    <String string="Pontuação de {Name}: {CompareScore}\nMinha pontuação: {TotalScore}" stringId="$272017" />
+    <String string="Ver mais" stringId="$272018" />
     <String stringId="$272019" />
     <String stringId="$272020" />
     <String stringId="$272021" />
@@ -3357,7 +3357,7 @@
     <String string="Comprar agora Preço" stringId="$321158" />
     <String string="Benefícios do prêmio" stringId="$321159" />
     <String string="Data de expiração (M/D/A):" stringId="$321160" />
-    <String string="Awakened" stringId="$321161" />
+    <String string="Despertado(a)" stringId="$321161" />
     <String string="(Proficiência recomendada: {Prof})" stringId="$321999" />
     <String string="Negociação" stringId="$322001" />
     <String string="Faça uma oferta." stringId="$322002" />
@@ -3746,7 +3746,7 @@
     <String string="Usos:" stringId="$463007" />
     <String string="[TERA] Informações atualizadas" stringId="$464001" />
     <String string="Veja as últimas notícias no Menu principal &gt; Menu do sistema &gt; Mensagem de boas-vindas." stringId="$464002" />
-    <String string="Press [ESC] to close the window." stringId="$464003" />
+    <String string="Pressione [ESC] para fechar a janela." stringId="$464003" />
     <String string="Visão geral" stringId="$470001" />
     <String string="Minha aliança" stringId="$470002" />
     <String string="Classificação" stringId="$470003" />
@@ -4128,9 +4128,9 @@
     <String string="Habilidade única" stringId="$620016" />
     <String string="Bônus de EXP" stringId="$620017" />
     <String string="Bônus de infusão de Pet idêntico" stringId="$620018" />
-    <String string="Alterar nome" stringId="$620019" />
+    <String string="Alterar Nome" stringId="$620019" />
     <String string="Tarifa" stringId="$620020" />
-    <String string="Help" stringId="$620021" />
+    <String string="Ajuda" stringId="$620021" />
     <String string="Custo de pontos: {Point} Pontos" stringId="$630000" />
     <String string="Empilhável" stringId="$630001" />
     <String string="Não empilhável" stringId="$630002" />
@@ -4165,26 +4165,26 @@
     <String string="Clique com o botão direito do mouse em três cristais para fundir." stringId="$650008" />
     <String string="Atualização do Crystal!" stringId="$650009" />
     <String string="Excelente!" stringId="$650010" />
-    <String string="Combine" stringId="$660001" />
-    <String string="Close" stringId="$660002" />
-    <String string="Combination" stringId="$660003" />
-    <String string="Check your items in your inventory." stringId="$660004" />
-    <String string="Ранг" stringId="$700000" />
-    <String string="Имя" stringId="$700001" />
-    <String string="Класс" stringId="$700002" />
-    <String string="Убийств/Смертей/Помощь" stringId="$700003" />
-    <String string="Общий счет" stringId="$700004" />
-    <String string="Очки доблести Белликариума" stringId="$700005" />
-    <String string="Очки доблести Душегубов" stringId="$700006" />
-    <String string="Личный рейтинг" stringId="$700007" />
-    <String string="Ранг" stringId="$700008" />
-    <String string="Время битвы" stringId="$700009" />
-    <String string="Время до выхода с арены" stringId="$700010" />
-    <String string="Покинуть арену" stringId="$700011" />
-    <String string="Убийств" stringId="$700012" />
-    <String string="Смертей" stringId="$700013" />
-    <String string="Обзор" stringId="$700014" />
-    <String string="Рейтинг в реальном времени" stringId="$700015" />
+    <String string="Combinar" stringId="$660001" />
+    <String string="Fechar" stringId="$660002" />
+    <String string="Combinação" stringId="$660003" />
+    <String string="Verifique os itens no seu inventário." stringId="$660004" />
+    <String string="Classificação" stringId="$700000" />
+    <String string="Nome" stringId="$700001" />
+    <String string="Classe" stringId="$700002" />
+    <String string="Abate/Morte/Assist" stringId="$700003" />
+    <String string="Pontuação Total" stringId="$700004" />
+    <String string="Pontos de Bravura: Bellicarium" stringId="$700005" />
+    <String string="Pontos de Bravura: Killing Spree" stringId="$700006" />
+    <String string="Classificação Pessoal" stringId="$700007" />
+    <String string="Ranking" stringId="$700008" />
+    <String string="Tempo de Batalha" stringId="$700009" />
+    <String string="Tempo para Sair da Arena" stringId="$700010" />
+    <String string="Sair da Arena" stringId="$700011" />
+    <String string="Abates" stringId="$700012" />
+    <String string="Mortes" stringId="$700013" />
+    <String string="Visão Geral" stringId="$700014" />
+    <String string="Classificação em Tempo Real" stringId="$700015" />
     <String string="Estrutura óssea" stringId="$901000" />
     <String string="Olhos" stringId="$901001" />
     <String string="Nariz" stringId="$901002" />

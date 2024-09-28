@@ -345,17 +345,17 @@
     <String string="{UserName} killed five players!" effect="-1" sound="2062" readableId="SMT_BF_MULTIKILLMESSAGE_OURTEAM_PENTAKILL" style="SYSTEM_MSG_DUNGEON_MSG" delayTime="0" displayChat="false" />
     <String string="{UserName} killed four players!" effect="-1" sound="2062" readableId="SMT_BF_MULTIKILLMESSAGE_OURTEAM_QUADRUPLEKILL" style="SYSTEM_MSG_DUNGEON_MSG" delayTime="0" displayChat="false" />
     <String string="{UserName} killed three players!" effect="-1" sound="2062" readableId="SMT_BF_MULTIKILLMESSAGE_OURTEAM_TRIPLEKILL" style="SYSTEM_MSG_DUNGEON_MSG" delayTime="0" displayChat="false" />
-    <String string="Игрок &quot;{UserName}&quot; зарабатывает первое убийство!" effect="-1" sound="-1" readableId="SMT_BF_FIRSTBLOOD" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
-    <String string="Серия побед игрока &quot;{UserName}&quot;." effect="-1" sound="1243" readableId="SMT_BF_CONTINUALKILLMESSAGE_ENEMY1" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" displayChat="false" />
-    <String string="{UserName} убивает ваших союзников." effect="-1" sound="1244" readableId="SMT_BF_CONTINUALKILLMESSAGE_ENEMY2" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" displayChat="false" />
-    <String string="{UserName} опустошает карту." effect="-1" sound="1245" readableId="SMT_BF_CONTINUALKILLMESSAGE_ENEMY3" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" displayChat="false" />
-    <String string="{UserName} - вот кому не стоит попадаться на пути." effect="-1" sound="1246" readableId="SMT_BF_CONTINUALKILLMESSAGE_ENEMY4" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" displayChat="false" />
-    <String string="{UserName} господствует на арене!" effect="-1" sound="1248" readableId="SMT_BF_CONTINUALKILLMESSAGE_ENEMY5" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" displayChat="false" />
-    <String string="Серия побед игрока &quot;{UserName}&quot;!" effect="-1" sound="1237" readableId="SMT_BF_CONTINUALKILLMESSAGE_OUR1" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
-    <String string="{UserName} убивает ваших врагов." effect="-1" sound="1238" readableId="SMT_BF_CONTINUALKILLMESSAGE_OUR2" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
-    <String string="{UserName} опустошает карту!" effect="-1" sound="1239" readableId="SMT_BF_CONTINUALKILLMESSAGE_OUR3" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
-    <String string="Враги в ужасе бегут от игрока &quot;{UserName}&quot;!" effect="-1" sound="1240" readableId="SMT_BF_CONTINUALKILLMESSAGE_OUR4" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
-    <String string="{UserName} правит на арене!" effect="-1" sound="1242" readableId="SMT_BF_CONTINUALKILLMESSAGE_OUR5" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
+    <String string="Player &quot;{UserName}&quot; scores the first kill!" effect="-1" sound="-1" readableId="SMT_BF_FIRSTBLOOD" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
+    <String string="Winning streak of player &quot;{UserName}&quot;." effect="-1" sound="1243" readableId="SMT_BF_CONTINUALKILLMESSAGE_ENEMY1" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" displayChat="false" />
+    <String string="{UserName} kills your allies." effect="-1" sound="1244" readableId="SMT_BF_CONTINUALKILLMESSAGE_ENEMY2" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" displayChat="false" />
+    <String string="{UserName} is ravaging the map." effect="-1" sound="1245" readableId="SMT_BF_CONTINUALKILLMESSAGE_ENEMY3" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" displayChat="false" />
+    <String string="{UserName} - this is someone you don't want to cross paths with." effect="-1" sound="1246" readableId="SMT_BF_CONTINUALKILLMESSAGE_ENEMY4" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" displayChat="false" />
+    <String string="{UserName} dominates the arena!" effect="-1" sound="1248" readableId="SMT_BF_CONTINUALKILLMESSAGE_ENEMY5" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" displayChat="false" />
+    <String string="Winning streak of player &quot;{UserName}&quot;!" effect="-1" sound="1237" readableId="SMT_BF_CONTINUALKILLMESSAGE_OUR1" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
+    <String string="{UserName} kills your enemies." effect="-1" sound="1238" readableId="SMT_BF_CONTINUALKILLMESSAGE_OUR2" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
+    <String string="{UserName} is ravaging the map!" effect="-1" sound="1239" readableId="SMT_BF_CONTINUALKILLMESSAGE_OUR3" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
+    <String string="Enemies flee in terror from the player &quot;{UserName}&quot;!" effect="-1" sound="1240" readableId="SMT_BF_CONTINUALKILLMESSAGE_OUR4" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
+    <String string="{UserName} dominates the arena!" effect="-1" sound="1242" readableId="SMT_BF_CONTINUALKILLMESSAGE_OUR5" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
     <String string="A snowball hit and killed {NpcName}!" effect="-1" sound="-1" readableId="SMT_BF_OURNPC_DIE" style="SMS_CHAT_BATTLEFIELD_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="{NpcName} has been defeated!" effect="-1" sound="-1" readableId="SMT_BF_OURNPC_DOWN" style="SMS_CHAT_BATTLEFIELD_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="{NpcName} has 50% HP remaining!" effect="-1" sound="-1" readableId="SMT_BF_OURNPC_HP_HALF" style="SMS_CHAT_BATTLEFIELD_INFO" delayTime="0" chatChannel="201" displayChat="true" />
@@ -1003,7 +1003,7 @@
     <String string="Killed by {AttackerName}." effect="-1" sound="-1" readableId="SMT_CRETURE_ATTACK_ONEKILL" style="SMS_CHAT_DMG_TO_ME" delayTime="0" chatChannel="103" displayChat="true" />
     <String string="SMT_CRITICAL_HOLY_SUCKS" effect="-1" sound="-1" readableId="SMT_CRITICAL_HOLY_SUCKS" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
     <String string="SMT_CRITICAL_SUCKS" effect="-1" sound="-1" readableId="SMT_CRITICAL_SUCKS" style="SMS_CHAT_INFO" delayTime="0" chatChannel="201" displayChat="true" />
-    <String string="Чтобы получить хроносвитки, пожалуйста, войдите в игру заново." effect="-1" sound="-1" readableId="SMT_CHRONOSCROLL_USE_POPUP" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="To receive chronoscrolls, please log in to the game again." effect="-1" sound="-1" readableId="SMT_CHRONOSCROLL_USE_POPUP" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Small" effect="-1" sound="-1" readableId="SMT_CROSSHAIRTYPE_A" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Medium" effect="-1" sound="-1" readableId="SMT_CROSSHAIRTYPE_B" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Large" effect="-1" sound="-1" readableId="SMT_CROSSHAIRTYPE_C" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
