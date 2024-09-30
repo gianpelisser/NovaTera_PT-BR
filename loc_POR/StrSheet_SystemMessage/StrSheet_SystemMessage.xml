@@ -99,7 +99,7 @@
     <String string="Você foi convocado para se juntar ao {Requestor}. Você aceita?" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_ASK_SUMMON_FRIEND_MSGBOX_RECV_MESSAGE" displayChat="false" />
     <String string="Aguardando a resposta do {Requestee}." delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_ASK_SUMMON_FRIEND_MSGBOX_SEND_MESSAGE" displayChat="false" />
     <String string="Invocar amigo" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_ASK_SUMMON_FRIEND_MSGBOX_TITLE" displayChat="false" />
-    <String string="Do you want to summon {FriendName}?" effect="-1" sound="-1" readableId="SMT_CONFIRM_SUMMON_FRIEND_MSG" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Você quer invocar {FriendName}?" effect="-1" sound="-1" readableId="SMT_CONFIRM_SUMMON_FRIEND_MSG" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Confirmar" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_ASK_USE_CHRONOSCROLL_POPUP_BT1" displayChat="false" />
     <String string="Cancelar" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_ASK_USE_CHRONOSCROLL_POPUP_BT2" displayChat="false" />
     <String string="Usar esse chronoscroll para estender sua assinatura? Isso destrói o {ItemName}. Marque a caixa de confirmação e clique em &quot;Confirmar&quot; para estender sua assinatura." delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_ASK_USE_CHRONOSCROLL_POPUP_CONTEXT" displayChat="false" />
@@ -217,7 +217,7 @@
     <String string="Você invocou {NpcName}." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_BATTLE_SKILL_ELEMENTAL_MONSTER" chatChannel="201" displayChat="true" />
     <String string="As habilidades de classe não podem ser usadas com habilidades de legado." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_BATTLE_SKILL_FAIL_COMMAND_SKILL" chatChannel="203" displayChat="true" />
     <String delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_BATTLE_SKILL_FAIL_COOL_TIME" displayChat="false" />
-    <String string="Your Willpower is too low to use this skill." effect="-1" sound="-1" readableId="SMT_BATTLE_SKILL_FAIL_LOW_ARCANE" style="SMS_ALERT_CENTER" delayTime="0" displayChat="false" />
+    <String string="Sua Willpower é muito baixa para usar esta habilidade." effect="-1" sound="-1" readableId="SMT_BATTLE_SKILL_FAIL_LOW_ARCANE" style="SMS_ALERT_CENTER" delayTime="0" displayChat="false" />
     <String string="Não há HP suficiente." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_BATTLE_SKILL_FAIL_LOW_HP" chatChannel="203" displayChat="true" />
     <String string="Não há MP suficiente." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_BATTLE_SKILL_FAIL_LOW_MP" chatChannel="203" displayChat="true" />
     <String string="Você não tem determinação suficiente para usar essa habilidade." delayTime="0" effect="-1" sound="-1" style="SMS_ALERT_CENTER" readableId="SMT_BATTLE_SKILL_FAIL_LOW_STAMINA" displayChat="false" />
@@ -346,17 +346,17 @@
     <String string="{UserName} matou cinco jogadores!" delayTime="0" effect="-1" sound="2062" style="SYSTEM_MSG_DUNGEON_MSG" readableId="SMT_BF_MULTIKILLMESSAGE_OURTEAM_PENTAKILL" displayChat="false" />
     <String string="{UserName} matou quatro jogadores!" delayTime="0" effect="-1" sound="2062" style="SYSTEM_MSG_DUNGEON_MSG" readableId="SMT_BF_MULTIKILLMESSAGE_OURTEAM_QUADRUPLEKILL" displayChat="false" />
     <String string="{UserName} matou três jogadores!" delayTime="0" effect="-1" sound="2062" style="SYSTEM_MSG_DUNGEON_MSG" readableId="SMT_BF_MULTIKILLMESSAGE_OURTEAM_TRIPLEKILL" displayChat="false" />
-    <String string="Игрок &quot;{UserName}&quot; зарабатывает первое убийство!" effect="-1" sound="-1" readableId="SMT_BF_FIRSTBLOOD" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
-    <String string="Серия побед игрока &quot;{UserName}&quot;." effect="-1" sound="1243" readableId="SMT_BF_CONTINUALKILLMESSAGE_ENEMY1" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" displayChat="false" />
-    <String string="{UserName} убивает ваших союзников." effect="-1" sound="1244" readableId="SMT_BF_CONTINUALKILLMESSAGE_ENEMY2" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" displayChat="false" />
-    <String string="{UserName} опустошает карту." effect="-1" sound="1245" readableId="SMT_BF_CONTINUALKILLMESSAGE_ENEMY3" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" displayChat="false" />
-    <String string="{UserName} - вот кому не стоит попадаться на пути." effect="-1" sound="1246" readableId="SMT_BF_CONTINUALKILLMESSAGE_ENEMY4" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" displayChat="false" />
-    <String string="{UserName} господствует на арене!" effect="-1" sound="1248" readableId="SMT_BF_CONTINUALKILLMESSAGE_ENEMY5" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" displayChat="false" />
-    <String string="Серия побед игрока &quot;{UserName}&quot;!" effect="-1" sound="1237" readableId="SMT_BF_CONTINUALKILLMESSAGE_OUR1" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
-    <String string="{UserName} убивает ваших врагов." effect="-1" sound="1238" readableId="SMT_BF_CONTINUALKILLMESSAGE_OUR2" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
-    <String string="{UserName} опустошает карту!" effect="-1" sound="1239" readableId="SMT_BF_CONTINUALKILLMESSAGE_OUR3" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
-    <String string="Враги в ужасе бегут от игрока &quot;{UserName}&quot;!" effect="-1" sound="1240" readableId="SMT_BF_CONTINUALKILLMESSAGE_OUR4" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
-    <String string="{UserName} правит на арене!" effect="-1" sound="1242" readableId="SMT_BF_CONTINUALKILLMESSAGE_OUR5" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
+    <String string="O jogador &quot;{UserName}&quot; conquista a primeira morte!" effect="-1" sound="-1" readableId="SMT_BF_FIRSTBLOOD" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
+    <String string="Série de vitórias do jogador &quot;{UserName}&quot;." effect="-1" sound="1243" readableId="SMT_BF_CONTINUALKILLMESSAGE_ENEMY1" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" displayChat="false" />
+    <String string="{UserName} mata seus aliados." effect="-1" sound="1244" readableId="SMT_BF_CONTINUALKILLMESSAGE_ENEMY2" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" displayChat="false" />
+    <String string="{UserName} está devastando o mapa." effect="-1" sound="1245" readableId="SMT_BF_CONTINUALKILLMESSAGE_ENEMY3" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" displayChat="false" />
+    <String string="{UserName} - este é alguém que você não quer encontrar pelo caminho." effect="-1" sound="1246" readableId="SMT_BF_CONTINUALKILLMESSAGE_ENEMY4" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" displayChat="false" />
+    <String string="{UserName} domina na arena!" effect="-1" sound="1248" readableId="SMT_BF_CONTINUALKILLMESSAGE_ENEMY5" style="SYSTEM_MSG_BF_ENEMYTEAM_MSG" delayTime="0" displayChat="false" />
+    <String string="Série de vitórias do jogador &quot;{UserName}&quot;!" effect="-1" sound="1237" readableId="SMT_BF_CONTINUALKILLMESSAGE_OUR1" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
+    <String string="{UserName} matou seus inimigos." effect="-1" sound="1238" readableId="SMT_BF_CONTINUALKILLMESSAGE_OUR2" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
+    <String string="{UserName} está devastando o mapa!" effect="-1" sound="1239" readableId="SMT_BF_CONTINUALKILLMESSAGE_OUR3" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
+    <String string="Os inimigos fogem aterrorizados do jogador &quot;{UserName}&quot;!" effect="-1" sound="1240" readableId="SMT_BF_CONTINUALKILLMESSAGE_OUR4" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
+    <String string="{UserName} domina na arena!" effect="-1" sound="1242" readableId="SMT_BF_CONTINUALKILLMESSAGE_OUR5" style="SMS_MSG_BF_NOTICE_MSG" delayTime="0" displayChat="false" />
     <String string="Uma bola de neve atingiu e matou {NpcName}!" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_BATTLEFIELD_INFO" readableId="SMT_BF_OURNPC_DIE" chatChannel="201" displayChat="true" />
     <String string="{NpcName} foi derrotado!" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_BATTLEFIELD_INFO" readableId="SMT_BF_OURNPC_DOWN" chatChannel="201" displayChat="true" />
     <String string="{NpcName} tem 50% de HP restante!" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_BATTLEFIELD_INFO" readableId="SMT_BF_OURNPC_HP_HALF" chatChannel="201" displayChat="true" />
@@ -1004,7 +1004,7 @@
     <String string="Morto por {AttackerName}." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_DMG_TO_ME" readableId="SMT_CRETURE_ATTACK_ONEKILL" chatChannel="103" displayChat="true" />
     <String string="SMT_CRITICAL_HOLY_SUCKS" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_CRITICAL_HOLY_SUCKS" chatChannel="201" displayChat="true" />
     <String string="SMT_CRITICAL_SUCKS" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_CRITICAL_SUCKS" chatChannel="201" displayChat="true" />
-    <String string="Чтобы получить хроносвитки, пожалуйста, войдите в игру заново." effect="-1" sound="-1" readableId="SMT_CHRONOSCROLL_USE_POPUP" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string="Para receber os chronoscrolls, por favor, entre no jogo novamente." effect="-1" sound="-1" readableId="SMT_CHRONOSCROLL_USE_POPUP" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
     <String string="Pequeno" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_CROSSHAIRTYPE_A" displayChat="false" />
     <String string="Médio" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_CROSSHAIRTYPE_B" displayChat="false" />
     <String string="Grande" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_CROSSHAIRTYPE_C" displayChat="false" />
@@ -2864,13 +2864,13 @@
     <String string="Você acertou em cheio em {UserName}!" delayTime="0" effect="-1" sound="-1" style="SMS_ALERT_INTERACTION" readableId="SMT_THROW_SMILE_FIREWORK" chatChannel="201" displayChat="true" />
     <String string="(Tempo restante: {Day} day{@select:{Day}/s//s} {Time} hora{@select:{Time}/s//s} {Min} minuto{@select:{Min}/s//s})" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_TIMELIMIT_PASSIVITY_REMAINTIME" displayChat="false" />
     <String string="(Energia dissipada)" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_TIMELIMIT_PASSIVITY_TIMEOVER" displayChat="false" />
-    <String string=" г." effect="-1" sound="-1" readableId="SMT_TIME_YEAR" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
-    <String string=" м." effect="-1" sound="-1" readableId="SMT_TIME_MONTH" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
-    <String string="месяц(ы)" effect="-1" sound="-1" readableId="SMT_TIME_PERIOD_MONTH" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
-    <String string=" д." effect="-1" sound="-1" readableId="SMT_TIME_DAY" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
-    <String string=" hr" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_TIME_HOUR" displayChat="false" />
-    <String string=" min" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_TIME_MINUTE" displayChat="false" />
-    <String string=" sec" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_TIME_SECOND" displayChat="false" />
+    <String string=" ano" effect="-1" sound="-1" readableId="SMT_TIME_YEAR" style="SMS_DEFAULT" delayTime="0" displayChat="false" />  <!-- ano -->
+    <String string=" mês" effect="-1" sound="-1" readableId="SMT_TIME_MONTH" style="SMS_DEFAULT" delayTime="0" displayChat="false" /> <!-- mês -->
+    <String string="mês(es)" effect="-1" sound="-1" readableId="SMT_TIME_PERIOD_MONTH" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string=" d." effect="-1" sound="-1" readableId="SMT_TIME_DAY" style="SMS_DEFAULT" delayTime="0" displayChat="false" />  <!-- dia -->
+    <String string=" hr" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_TIME_HOUR" displayChat="false" />  <!-- hora -->
+    <String string=" min" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_TIME_MINUTE" displayChat="false" /> <!-- minuto -->
+    <String string=" seg" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_TIME_SECOND" displayChat="false" /> <!-- segundo -->
     <String string="Retorne a interface do usuário com [Ctrl + Z]." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO_CHAT_ONLY" readableId="SMT_TOGGLE_UI" chatChannel="201" displayChat="true" />
     <String string="Ctrl + Z para restaurar a interface do usuário." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO_CHAT_ONLY" readableId="SMT_TOGGLE_UI_FPMODE" chatChannel="201" displayChat="true" />
     <String string="Ctrl + Z para ocultar a interface do usuário." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO_CHAT_ONLY" readableId="SMT_TOGGLE_UI_TPMODE" chatChannel="201" displayChat="true" />
@@ -3258,5 +3258,5 @@
     <String string="{dungeonName} : está disponível" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_SHOW_DUNGEON_INFO_ENTER_PERMIT" chatChannel="201" displayChat="true" />
     <String string="{dungeonName} : está disponível {count} vezes" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_SHOW_DUNGEON_INFO_ENTER_LIMIT_COUNT" chatChannel="201" displayChat="true" />
     <String string="{battleFieldName} : está disponível {count} vezes" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_SHOW_BATTLE_FIELD_INFO_ENTER_LIMIT_COUNT" chatChannel="201" displayChat="true" />
-    <String string="Выбранные нивеоты не подходят для слияния." effect="-1" sound="-1" readableId="SMT_UNCOMBINALE_CRYSTAL" style="SMS_CHAT_INFO" delayTime="0" chatChannel="203" displayChat="true" />
+    <String string="Os niveots selecionados não são adequados para fusão." effect="-1" sound="-1" readableId="SMT_UNCOMBINALE_CRYSTAL" style="SMS_CHAT_INFO" delayTime="0" chatChannel="203" displayChat="true" />
 </StrSheet_SystemMessage>

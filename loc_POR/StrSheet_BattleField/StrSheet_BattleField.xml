@@ -1,4 +1,3 @@
-
 <StrSheet_BattleField xmlns="https://vezel.dev/novadrop/dc/StrSheet_BattleField" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://vezel.dev/novadrop/dc/StrSheet_BattleField StrSheet_BattleField.xsd">
     <String id="1" string="Em batalha." />
     <String id="2" string="Entrando..." />
@@ -22,17 +21,17 @@
     <String id="28" string="Marque pontos derrotando oponentes, monstros e controlando Pyres. As Pyres geram pontos enquanto queimam azul. O primeiro grupo a atingir a meta de pontuação vence." />
     <String id="29" string="Fraywind Canyon-Equalizado" />
     <String id="290" string="[Equalized] Não avança nas missões! Os jogadores entram na batalha usando equipamentos PvP equalizados superiores. Você pode personalizar o equipamento e as joias com cristais. Marque pontos derrotando oponentes, monstros e controlando Pyres. O primeiro time a atingir a meta de pontuação vence." />
-    <String id="60" string="Iron Cage" />
-    <String id="61" string="На этой арене побеждает команда, которая первой убьет 50 противников. Если к моменту истечения времени ни одной команде не удалось убить 70 противников, побеждает команда с максимальным количеством убийств. Награда зависит в основном от личного вклада игрока, а не от результата команды." />
-    <String id="62" string="Уничтожение статуй и монолитов вызывает особые эффекты. Награда определяется по индивидуальным рейтингам. Если ваш уровень снаряжения меньше XXX, необходимое снаряжение вам предоставляется." />
-    <String id="30" string="Skyring dos Campeões (Não classificado)" />
+    <String id="60" string="Jaula de Ferro" />
+    <String id="61" string="Nesta arena, a equipe que matar 50 oponentes primeiro vence. Se nenhuma equipe conseguir matar 70 oponentes até o final do tempo, vence a equipe com o maior número de abates. A recompensa depende principalmente da contribuição pessoal do jogador, e não do resultado da equipe." />
+    <String id="62" string="Destruir estátuas e monólitos desencadeia efeitos especiais. A recompensa é determinada pelas classificações individuais. Se o seu nível de equipamento for inferior a XXX, o equipamento necessário será fornecido a você." />
+    <String id="30" string="Skyring dos Campeões (Não Ranqueado)" />
     <String id="31" string="Entre na fila como uma equipe para enfrentar outras equipes. Sua classificação pessoal no Champions' Skyring se aplica tanto às partidas em equipe quanto às individuais." />
-    <String id="32" string="Skyring dos Campeões (Classificação: Equipe)" />
-    <String id="33" string="Champions' Skyring Mark V (Ranked: Team)" />
-    <String id="34" string="Champions' Skyring Mark V—Equalized (Solo)" />
-    <String id="35" string="Queue with a 5 player party of all different classes and no more than one healing class. Defeat all opponents to win a round. First team to win two rounds is the victor. " />
-    <String id="36" string="Queue solo and be matched with a party. Defeat all opponents to win a round. First team to win two rounds is the victor." />
-    <String id="38" string="Skyring dos Campeões (Classificação: Solo)" />
+    <String id="32" string="Skyring dos Campeões (Ranqueado: Equipe)" />
+    <String id="33" string="Skyring dos Campeões Mark V (Ranqueado: Equipe)" />
+    <String id="34" string="Skyring dos Campeões Mark V—Equalized (Solo)" />
+    <String id="35" string="Forme uma equipe com 5 jogadores de classes diferentes e no máximo uma classe de cura. Derrote todos os oponentes para vencer uma rodada. A primeira equipe a vencer duas rodadas é a vencedora. " />
+    <String id="36" string="Entre na fila solo e seja combinado com uma equipe. Derrote todos os oponentes para vencer uma rodada. A primeira equipe a vencer duas rodadas é a vencedora." />
+    <String id="38" string="Skyring dos Campeões (Ranqueado: Solo)" />
     <String id="39" string="Faça fila para enfrentar outros solos. O equipamento de todos os jogadores será igualado enquanto estiverem no Champions' Skyring. Sua classificação pessoal no Champions' Skyring se aplica a partidas solo e em equipe." />
     <String id="100" string="Todos" />
     <String id="101" string="Meu servidor" />
@@ -102,9 +101,9 @@
     <String id="401" string="Bônus de aliado" />
     <String id="402" string="Debilitações do oponente" />
     <String id="403" string="Invocar lacaios" />
-    <String id="380" string="Champions' Skyring (Solo)" />
-    <String id="390" string="Queue as a team to go up against other teams. Your Champions' Skyring personal ranking applies to both team and solo matches." />
-    <String id="410" string="Skyring dos Campeões (Classificação: Equipe)" />
+    <String id="380" string="Skyring dos Campeões (Solo)" />
+    <String id="390" string="Entre na fila como equipe para enfrentar outras equipes. Sua classificação pessoal do Skyring dos Campeões se aplica tanto às partidas em equipe quanto às solo." />
+    <String id="410" string="Skyring dos Campeões (Ranqueado: Equipe)" />
     <String id="411" string="Disponível: Ter 19:00-00:00, Sex 19:00-00:00, Sáb 12:00-15:00, Dom 21:00-00:00. Entre na fila como uma equipe para enfrentar outras equipes. Sua classificação pessoal no Champions' Skyring se aplica tanto às partidas em equipe quanto às individuais." />
     <String id="510" string="Fraywind Canyon" />
     <String id="511" string="Disponível: Qua 19:00-23:00, Sáb 15:00-00:00, Dom 14:00-19:00. [Normal] Participe sozinho ou com um grupo de até 5 membros. Você será agrupado com outras pessoas para completar um ataque de 15 jogadores. Marque pontos derrotando oponentes, monstros e controlando Pyres. As Pyres geram pontos enquanto queimam a cor azul. O primeiro time a atingir a meta de pontuação vence." />

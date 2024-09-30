@@ -446,7 +446,7 @@
     <String id="4953" name="Canephora Potion" tooltip="Increases damage by $H_W_GOOD12%$COLOR_END. This effect does not stack with Instance Matching buffs." />
     <String id="4954" name="Rookie's Oversight" tooltip="Resurrects instantly if killed." />
     <String id="4955" name="Strong Canephora Potion" tooltip="Increases damage by $H_W_GOOD15%$COLOR_END. This effect does not stack with Instance Matching buffs." />
-    <String id="4956" name="Корзинка пасхальных яиц" tooltip="Мгновенно восстанавливает $H_W_GOOD15%$COLOR_END от максимального уровня HP." />
+    <String id="4956" name="Basket of Easter Eggs" tooltip="Instantly restores $H_W_GOOD15%$COLOR_END of the maximum HP level." />
     <String id="10100" name="Virulence" tooltip="Decreases HP by $H_W_BAD$value$COLOR_END every $H_W_BAD$tickInterval$COLOR_END." />
     <String id="10101" name="Virulence" tooltip="Decreases HP by $H_W_BAD$value$COLOR_END every $H_W_BAD$tickInterval$COLOR_END." />
     <String id="10102" name="Virulence" tooltip="Decreases HP by $H_W_BAD$value$COLOR_END every $H_W_BAD$tickInterval$COLOR_END." />
@@ -1035,8 +1035,8 @@
     <String id="101800" name="Foe Harvest" tooltip="Draws enemies." />
     <String id="101801" name="Foe Harvest" tooltip="Buff for caster of Binding Sword. Invisible abnormality" />
     <String id="101900" name="Foe Harvest" tooltip="Harvested. Vulnerable for $time." />
-    <String id="160010" name="Взмах молота кузнеца: раскол" tooltip="Отметка бога раскалывает вашу броню. Снижает выносливость на $H_W_BAD$value$COLOR_END." />
-    <String id="160020" name="Взмах молота кузнеца: уязвимость" tooltip="Вас отметил бог войны: сопротивление критическим ударам снижено на 10." />
+    <String id="160010" name="Blacksmith's Hammer Swing: Fracture" tooltip="The god's mark shatters your armor. Reduces endurance by $H_W_BAD$value$COLOR_END." />
+    <String id="160020" name="Blacksmith's Hammer Swing: Vulnerability" tooltip="You are marked by the god of war: critical hit resistance reduced by 10." />
     <String id="200100" name="Leash" tooltip="Stunned. Cannot move." />
     <String id="200200" name="Guardian Shout I" tooltip="Others in your party receive $H_W_GOODGuardian Power$COLOR_END while within 20m of you. Ends if you are knocked down." />
     <String id="200201" name="Guardian Shout II" tooltip="Others in your party receive $H_W_GOODGuardian Power$COLOR_END while within 20m of you. Ends if you are knocked down." />
@@ -1787,7 +1787,7 @@
     <String id="3000007" name="" tooltip="" />
     <String id="3000008" name="" tooltip="" />
     <String id="3000009" name="" tooltip="" />
-    <String id="3000010" name="Неизвестное экслюзивное ездовое животное (восстановление HP, MP и бодрости)" tooltip="Каждую секунду восстанавливает 0,5% от максимального уровня ваших HP, MP и бодрости." />
+    <String id="3000010" name="Unknown Exclusive Mount (Restores HP, MP, and Stamina)" tooltip="Restores 0.5% of your maximum HP, MP, and Stamina every second." />
     <String id="3000011" name="" tooltip="" />
     <String id="4510001" />
     <String id="4510002" />
@@ -2115,7 +2115,7 @@
     <String id="16300012" name="Wandering Muse (HP, MP, Vigor)" tooltip="While riding, your MP, HP and Vigor will gradually regenerate." />
     <String id="16300013" name="Lion's Courage" tooltip="Increases skill damage by $H_W_GOOD$value2$COLOR_END and reduces damage taken by $H_W_GOOD$value3$COLOR_END. Increases attack speed by $H_W_GOOD$value$ COLOR_END." />
     <String id="16300015" name="Potion of Destruction" tooltip="Increases skill damage by $H_W_GOOD$value$COLOR_END." />
-    <String id="16300017" name="VIP-удача!" tooltip="Специальный бонус для игроков с VIP-статусом. Вероятность выпадения добычи увеличивается до $H_W_GOOD100%$COLOR_END, когда у всех участников группы или рейда активен VIP-статус." />
+    <String id="16300017" name="VIP Luck!" tooltip="Special bonus for players with VIP status. The chance of loot drops increases to $H_W_GOOD100%$COLOR_END when all group or raid members have an active VIP status." />
     <String id="44300001" name="Invincible" tooltip="Immune to damage." />
     <String id="44300002" name="Tulgey Fog" tooltip="Significantly increases Movement Speed in the black fog." />
     <String id="44300003" name="Whet Appetite" tooltip="Increases the Power of monsters by $H_W_GOOD$value$COLOR_END." />

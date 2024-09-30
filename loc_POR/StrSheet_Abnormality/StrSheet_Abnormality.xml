@@ -446,8 +446,8 @@
     <String id="4952" name="Rookie's Fervor" tooltip="Aumenta o dano causado em $H_W_GOOD12%$COLOR_END. Não acumula com efeitos recebidos por meio da instâncias.END. Does not stack with effects received via Instance Matching." />
     <String id="4953" name="Canephora Potion" tooltip="Aumenta o poder de ataque em $H_W_GOOD12%$COLOR_END. Esse efeito não acumula com os bônus da instância." />
     <String id="4954" name="Rookie's Oversight" tooltip="Resurrects instantly if killed." />
-    <String id="4955" name="" tooltip="" />
-    <String id="4956" name="Корзинка пасхальных яиц" tooltip="Мгновенно восстанавливает $H_W_GOOD15%$COLOR_END от максимального уровня HP." />
+    <String id="4955" name="Strong Canephora Potion" tooltip="Increases damage by $H_W_GOOD15%$COLOR_END. This effect does not stack with Instance Matching buffs." />
+    <String id="4956" name="Basket of Easter Eggs" tooltip="Instantly restores $H_W_GOOD15%$COLOR_END of the maximum HP level." />
     <String id="10100" name="Virulence" tooltip="O HP diminui em $H_W_BAD$value$COLOR_END a cada $H_W_BAD$tickInterval$COLOR_END." />
     <String id="10101" name="Virulence" tooltip="O HP diminui em $H_W_BAD$value$COLOR_END a cada $H_W_BAD$tickInterval$COLOR_END." />
     <String id="10102" name="Virulence" tooltip="O HP diminui em $H_W_BAD$value$COLOR_END a cada $H_W_BAD$tickInterval$COLOR_END." />
@@ -1036,8 +1036,8 @@
     <String id="101800" name="Foe Harvest" tooltip="Atraia inimigos para você enquanto o poder estiver em vigor." />
     <String id="101801" name="Foe Harvest" tooltip="Bônus para o lançador de Binding Sword. Anormalidade invisível" />
     <String id="101900" name="Foe Harvest" tooltip="Colhido. Vulnerável por $time." />
-    <String id="160010" name="Взмах молота кузнеца: раскол" tooltip="Отметка бога раскалывает вашу броню. Снижает выносливость на $H_W_BAD$value$COLOR_END." />
-    <String id="160020" name="Взмах молота кузнеца: уязвимость" tooltip="Вас отметил бог войны: сопротивление критическим ударам снижено на 10." />
+    <String id="160010" name="Golpe do Martelo do Ferreiro: Fissura" tooltip="A marca do deus racha sua armadura. Reduz a resistência em $H_W_BAD$value$COLOR_END." />
+    <String id="160020" name="Golpe do Martelo do Ferreiro: Vulnerabilidade" tooltip="Você foi marcado pelo deus da guerra: resistência a golpes críticos reduzida em 10." />
     <String id="200100" name="Leash" tooltip="Atordoado. Não pode se mover." />
     <String id="200200" name="Guardian Shout I" tooltip="Os outros membros do seu grupo recebem $H_W_GOODGuardian Power$COLOR_END quando estiverem a até 20 m de você. Termina se você for derrubado." />
     <String id="200201" name="Guardian Shout II" tooltip="Os outros membros do seu grupo recebem $H_W_GOODGuardian Power$COLOR_END quando estiverem a até 20 m de você. Termina se você for derrubado." />
@@ -1788,7 +1788,7 @@
     <String id="3000007" name="" tooltip="" />
     <String id="3000008" name="" tooltip="" />
     <String id="3000009" name="" tooltip="" />
-    <String id="3000010" name="Неизвестное экслюзивное ездовое животное (восстановление HP, MP и бодрости)" tooltip="Каждую секунду восстанавливает 0,5% от максимального уровня ваших HP, MP и бодрости." />
+    <String id="3000010" name="Montaria Exclusiva Desconhecida (Restaura HP, MP e Vigor)" tooltip="Restaura 0,5% do seu HP, MP e Vigor máximos a cada segundo." />
     <String id="3000011" name="" tooltip="" />
     <String id="4510001" />
     <String id="4510002" />
@@ -2116,7 +2116,7 @@
     <String id="16300012" name="Wandering Muse (HP, MP, Vigor)" tooltip="Enquanto estiver cavalgando, seu MP, HP e Vigor se regenerarão gradualmente." />
     <String id="16300013" name="Lion's Courage" tooltip="Aumenta o dano da habilidade em $H_W_GOOD$value2$COLOR_END e reduz o dano recebido em $H_W_GOOD$value3$COLOR_END. Aumenta a velocidade de ataque em $H_W_GOOD$value$ COLOR_END." />
     <String id="16300015" name="Potion of Destruction" tooltip="Aumenta o dano da habilidade em $H_W_GOOD$value$COLOR_END." />
-    <String id="16300017" name="VIP-удача!" tooltip="Специальный бонус для игроков с VIP-статусом. Вероятность выпадения добычи увеличивается до $H_W_GOOD100%$COLOR_END, когда у всех участников группы или рейда активен VIP-статус." />
+    <String id="16300017" name="Sorte VIP!" tooltip="Bônus especial para jogadores com status VIP. A chance de obter loot aumenta para $H_W_GOOD100%$COLOR_END quando todos os membros do grupo ou raid têm status VIP ativo." />
     <String id="44300001" name="Invincible" tooltip="Invencível a danos." />
     <String id="44300002" name="Tulgey Fog" tooltip="A velocidade de movimento aumenta significativamente na névoa negra." />
     <String id="44300003" name="Whet Appetite" tooltip="Aumenta o poder dos monstros em $H_W_GOOD$value$COLOR_END." />
