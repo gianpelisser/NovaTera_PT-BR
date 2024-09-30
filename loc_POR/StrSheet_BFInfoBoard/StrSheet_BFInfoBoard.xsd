@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns="https://vezel.dev/novadrop/dc/StrSheet_BFInfoBoard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="https://vezel.dev/novadrop/dc" elementFormDefault="qualified" targetNamespace="https://vezel.dev/novadrop/dc/StrSheet_BFInfoBoard" xsi:schemaLocation="https://vezel.dev/novadrop/dc ../DataCenter.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="StrSheet_BFInfoBoard">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="BFInfoList" type="StrSheet_BFInfoBoard_BFInfoList" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="StrSheet_BFInfoBoard" type="StrSheet_BFInfoBoard" />
+  <xs:complexType name="StrSheet_BFInfoBoard_BFInfoList">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="BFInfo" type="StrSheet_BFInfoBoard_BFInfoList_BFInfo" />
+    </xs:sequence>
+    <xs:attribute name="id" type="xs:int" />
+  </xs:complexType>
+  <xs:complexType name="StrSheet_BFInfoBoard_BFInfoList_BFInfo">
+    <xs:attribute name="string" type="xs:string" />
+    <xs:attribute name="width" type="xs:int" />
+  </xs:complexType>
+</xs:schema>

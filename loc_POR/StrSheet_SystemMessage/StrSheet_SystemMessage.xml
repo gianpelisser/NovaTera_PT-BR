@@ -2864,13 +2864,13 @@
     <String string="Você acertou em cheio em {UserName}!" delayTime="0" effect="-1" sound="-1" style="SMS_ALERT_INTERACTION" readableId="SMT_THROW_SMILE_FIREWORK" chatChannel="201" displayChat="true" />
     <String string="(Tempo restante: {Day} day{@select:{Day}/s//s} {Time} hora{@select:{Time}/s//s} {Min} minuto{@select:{Min}/s//s})" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_TIMELIMIT_PASSIVITY_REMAINTIME" displayChat="false" />
     <String string="(Energia dissipada)" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_TIMELIMIT_PASSIVITY_TIMEOVER" displayChat="false" />
-    <String string=" г." effect="-1" sound="-1" readableId="SMT_TIME_YEAR" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
-    <String string=" м." effect="-1" sound="-1" readableId="SMT_TIME_MONTH" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
-    <String string="месяц(ы)" effect="-1" sound="-1" readableId="SMT_TIME_PERIOD_MONTH" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
-    <String string=" д." effect="-1" sound="-1" readableId="SMT_TIME_DAY" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
-    <String string=" hr" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_TIME_HOUR" displayChat="false" />
-    <String string=" min" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_TIME_MINUTE" displayChat="false" />
-    <String string=" sec" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_TIME_SECOND" displayChat="false" />
+    <String string=" ano" effect="-1" sound="-1" readableId="SMT_TIME_YEAR" style="SMS_DEFAULT" delayTime="0" displayChat="false" />  <!-- ano -->
+    <String string=" mês" effect="-1" sound="-1" readableId="SMT_TIME_MONTH" style="SMS_DEFAULT" delayTime="0" displayChat="false" /> <!-- mês -->
+    <String string="mês(es)" effect="-1" sound="-1" readableId="SMT_TIME_PERIOD_MONTH" style="SMS_DEFAULT" delayTime="0" displayChat="false" />
+    <String string=" d." effect="-1" sound="-1" readableId="SMT_TIME_DAY" style="SMS_DEFAULT" delayTime="0" displayChat="false" />  <!-- dia -->
+    <String string=" hr" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_TIME_HOUR" displayChat="false" />  <!-- hora -->
+    <String string=" min" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_TIME_MINUTE" displayChat="false" /> <!-- minuto -->
+    <String string=" seg" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_TIME_SECOND" displayChat="false" /> <!-- segundo -->
     <String string="Retorne a interface do usuário com [Ctrl + Z]." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO_CHAT_ONLY" readableId="SMT_TOGGLE_UI" chatChannel="201" displayChat="true" />
     <String string="Ctrl + Z para restaurar a interface do usuário." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO_CHAT_ONLY" readableId="SMT_TOGGLE_UI_FPMODE" chatChannel="201" displayChat="true" />
     <String string="Ctrl + Z para ocultar a interface do usuário." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO_CHAT_ONLY" readableId="SMT_TOGGLE_UI_TPMODE" chatChannel="201" displayChat="true" />
@@ -3258,5 +3258,5 @@
     <String string="{dungeonName} : está disponível" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_SHOW_DUNGEON_INFO_ENTER_PERMIT" chatChannel="201" displayChat="true" />
     <String string="{dungeonName} : está disponível {count} vezes" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_SHOW_DUNGEON_INFO_ENTER_LIMIT_COUNT" chatChannel="201" displayChat="true" />
     <String string="{battleFieldName} : está disponível {count} vezes" delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_SHOW_BATTLE_FIELD_INFO_ENTER_LIMIT_COUNT" chatChannel="201" displayChat="true" />
-    <String string="Выбранные нивеоты не подходят для слияния." effect="-1" sound="-1" readableId="SMT_UNCOMBINALE_CRYSTAL" style="SMS_CHAT_INFO" delayTime="0" chatChannel="203" displayChat="true" />
+    <String string="Os niveots selecionados não são adequados para fusão." effect="-1" sound="-1" readableId="SMT_UNCOMBINALE_CRYSTAL" style="SMS_CHAT_INFO" delayTime="0" chatChannel="203" displayChat="true" />
 </StrSheet_SystemMessage>
