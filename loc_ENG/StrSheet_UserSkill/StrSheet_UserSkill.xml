@@ -750,10 +750,10 @@
     <String id="111129" name="Summon: Velikan Gray" tooltip="$H_S_GOODMovement Speed 255.$COLOR_END$BRSummon a sturdy mount." gender="Common" race="Common" class="Common" />
     <String id="111130" name="Summon: Pinto" tooltip="$H_S_GOODMovement Speed 255.$COLOR_END$BRSummon a sturdy mount." gender="Common" race="Common" class="Common" />
     <String id="111131" name="Summon: Chestnut Gelding" tooltip="$H_S_GOODMovement Speed 255.$COLOR_END$BRSummon a sturdy mount." gender="Common" race="Common" class="Common" />
-    <String id="111132" name="Summon: Regal Frostlion" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon a Regal Frostlion mount." gender="Common" race="Common" class="Common" />
+    <String id="111132" name="Summon: Regal Frostlion" tooltip="$H_S_GOODMovement Speed 290.$COLOR_END$BRSummon a Regal Frostlion mount." gender="Common" race="Common" class="Common" />
     <String id="111133" name="Summon: Sleipnir" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon Sleipnir, the celestial warhorse." gender="Common" race="Common" class="Common" />
     <String id="111134" name="Summon: EX-TRM" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon EX-TRM, a construct mount." gender="Common" race="Common" class="Common" />
-    <String id="111135" name="Summon: Smolder" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon Smolder, a black lion mount." gender="Common" race="Common" class="Common" />
+    <String id="111135" name="Summon: Smolder" tooltip="$H_S_GOODMovement Speed 330.$COLOR_END$BRSummon Smolder, a black lion mount." gender="Common" race="Common" class="Common" />
     <String id="111136" name="Summon: Boneshaker" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRSummon Boneshaker, a skeletal warhorse." gender="Common" race="Common" class="Common" />
     <String id="111137" name="Summon: Munchhausen" tooltip="$H_S_GOODMovement Speed 280; MP Replenishment.$COLOR_END$BRSummon the mendacious traveler, Munchhausen. Munchhausen replenishes MP." gender="Common" race="Common" class="Common" />
     <String id="111138" name="Summon: Gourmando" tooltip="$H_S_GOODMovement Speed 280; HP Recovery.$COLOR_END$BRSummon the infernal glutton, Gourmando. Gourmando grants HP recovery." gender="Common" race="Common" class="Common" />
@@ -876,7 +876,7 @@
     <String id="111266" name="Summon: Fabled Night Mare" tooltip="$H_S_GOODSpeed: 280; Effect: HP$COLOR_END$BRSummon the Fabled Night Mare to be your mount, which also regenerates your LP." gender="Common" race="Common" class="Common" />
     <String id="111267" name="Summon: Legendary Bone Dancer" tooltip="$H_S_GOODSpeed: 280; Effect: Stamina$COLOR_END$BRSummon the Legendary Boneshaker to be your mount, which also regenerates your Stamina." gender="Common" race="Common" class="Common" />
     <String id="111268" name="Summon: Mythical Snowdrift" tooltip="$H_S_GOODSpeed: 280; Effect: MP$COLOR_END$BRSummon the mythical snow leopard Snowdrift to be your mount, which also regenerates your MP." gender="Common" race="Common" class="Common" />
-    <String id="111269" name="Summon: Fabled Tawny Huntress" tooltip="$H_S_GOODSpeed: 280; Effect: HP$COLOR_END$BRSummon the fabled lion Tawny Huntress to be your mount, which also regenerates your HP." gender="Common" race="Common" class="Common" />
+    <String id="111269" name="Summon: Red Predator (HP)" class="Common" tooltip="$H_S_GOODRegenerates HP.$COLOR_END$BRRed Predator with a movement speed of 310. Gradually recovers HP while mounted." gender="Common" race="Common" />
     <String id="111270" name="Summon: Fyrewing" tooltip="$H_S_GOODSpeed: 280$COLOR_END$BRSummon Fyrewing to ride." gender="Common" race="Common" class="Common" />
     <String id="111271" name="Summon: Mythical Fyrewing" tooltip="$H_S_GOODSpeed: 280; Effect: MP$COLOR_END$BRSummon the Mythical Fyrewing to ride which regenerates your MP." gender="Common" race="Common" class="Common" />
     <String id="111272" name="Summon: Fabled Fyrewing" tooltip="$H_S_GOODSpeed: 280; Effect: HP$COLOR_END$BRSummon the Fabled Fyrewing to ride which regenerates your HP." gender="Common" race="Common" class="Common" />
@@ -1854,19 +1854,19 @@
     <String id="1111553" name="Summon: Duckerberg" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a duck mount to ride." gender="Common" race="Common" class="Common" />
     <String id="1111554" name="Summon: Quacklemore" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a duck mount to ride." gender="Common" race="Common" class="Common" />
     <String id="1111555" name="Summon: Dafi" tooltip="$H_S_GOODMovement Speed 280. Replenishes your Stamina$COLOR_END$BRSummon Dafi, the manic duck mount that replenishes your Stamina." gender="Common" race="Common" class="Common" />
-    <String id="1111556" name="Summon: Blue Okami" tooltip="$H_S_GOOD Summon: Okami. Restores HP.$COLOR_END$BROkami with a movement speed of 280. While riding, your HP gradually recovers." gender="Common" race="Common" class="Common" />
-    <String id="1111557" name="Summon: Red Okami" tooltip="$H_S_GOOD Summon: Red Okami. Restores vigor.$COLOR_END$BRSummons Red Okami. Movement speed is 280." gender="Common" race="Common" class="Common" />
+    <String id="1111556" name="Summon: Blue Okami" tooltip="$H_S_GOOD Summon: Okami. Restores HP.$COLOR_END$BROkami with a movement speed of 280. While riding, your HP is gradually restored." gender="Common" race="Common" class="Common" />
+    <String id="1111557" name="Summon: Red Okami" tooltip="$H_S_GOOD Summon: Red Okami. Restores vigor.$COLOR_END$BRSummons the Red Okami. Movement speed 280." gender="Common" race="Common" class="Common" />
     <String id="1111558" name="[Previous Reward] Summon: Rainbow" tooltip="$H_S_GOODSpeed 280.$COLOR_END$BRRainbow Unicorn with a movement speed of 280." gender="Common" race="Common" class="Common" />
-    <String id="1111559" name="[Friend Referral Reward] Summon: Lioness" tooltip="$H_S_GOODSpeed 280.$COLOR_END$BRLioness with a movement speed of 280." gender="Common" race="Common" class="Common" />
-    <String id="1111560" name="Summon: Police Car" tooltip="$H_S_GOOD Summon: Police Car (Vigor). Restores vigor.$COLOR_END$BRPolice Car with a movement speed of 280. While riding, your vigor gradually recovers." gender="Common" race="Common" class="Common" />
-    <String id="1111561" name="Summon: Crimson (Vigor)" tooltip="$H_S_GOOD Summon: Crimson (Vigor). Restores vigor.$COLOR_END$BRCrimson riding dragon with a movement speed of 280. While riding, your vigor gradually recovers." gender="Common" race="Common" class="Common" />
-    <String id="1111562" name="Summon: Golden-Maned Lion (15 days)" tooltip="$H_S_GOODSpeed 280.$COLOR_END$BRGolden-Maned Lion with a movement speed of 280 for 15 days." gender="Common" race="Common" class="Common" />
-    <String id="1111563" name="Summon: Crimson" tooltip="$H_S_GOODSpeed: 280.$COLOR_END$BRCrimson riding dragon with a movement speed of 280." gender="Common" race="Common" class="Common" />
-    <String id="1111564" name="Summon: Sherpa" tooltip="$H_S_GOODRestores MP.$COLOR_END$BRSherpa with a movement speed of 280. While riding, your MP gradually recovers." gender="Common" race="Common" class="Common" />
-    <String id="1111565" name="Summon: Jester (MP)" tooltip="$H_S_GOODRestores MP.$COLOR_END$BRJester with a movement speed of 280. While riding, your MP gradually recovers." gender="Common" race="Common" class="Common" />
-    <String id="1111566" name="Summon: Snowy Blizzard (Vigor)" tooltip="$H_S_GOOD Summon: Snowy Blizzard (Vigor). Restores vigor.$COLOR_END$BRSnowy Blizzard with a movement speed of 280. While riding, your vigor gradually recovers." gender="Common" race="Common" class="Common" />
-    <String id="1111567" name="Summon: Christmas Kumass (Vigor)" tooltip="$H_S_GOOD Summon: Christmas Kumass (Vigor). Restores vigor.$COLOR_END$BRChristmas Kumass with a movement speed of 280. While riding, your vigor gradually recovers." gender="Common" race="Common" class="Common" />
-    <String id="1111568" name="Summon: Blizzard (Vigor)" tooltip="$H_S_GOOD Summon: Blizzard (Vigor). Restores vigor.$COLOR_END$BRSnowy Blizzard with a movement speed of 280. While riding, your vigor gradually recovers." gender="Common" race="Common" class="Common" />
+    <String id="1111559" name="[Invite a Friend Reward] Summon: Lioness" tooltip="$H_S_GOODSpeed 280.$COLOR_END$BRLioness with a movement speed of 280." gender="Common" race="Common" class="Common" />
+    <String id="1111560" name="Summon: Police Car" tooltip="$H_S_GOOD Summon: Police Car (Vigor). Restores vigor.$COLOR_END$BRPolice Car with a movement speed of 280. While riding, your vigor is gradually restored." gender="Common" race="Common" class="Common" />
+    <String id="1111561" name="Summon: Crimson (Vigor)" tooltip="$H_S_GOOD Summon: Crimson (Vigor). Restores vigor.$COLOR_END$BRCrimson Dragon with a movement speed of 280. While riding, your vigor is gradually restored." gender="Common" race="Common" class="Common" />
+    <String id="1111562" name="Summon: Golden Lion (15 days)" tooltip="$H_S_GOODSpeed 280.$COLOR_END$BRGolden Lion with a movement speed of 280 for 15 days." gender="Common" race="Common" class="Common" />
+    <String id="1111563" name="Summon: Crimson" tooltip="$H_S_GOODSpeed: 280.$COLOR_END$BRCrimson Dragon with a movement speed of 280." gender="Common" race="Common" class="Common" />
+    <String id="1111564" name="Summon: Sherpa" tooltip="$H_S_GOODRestores MP.$COLOR_END$BRSherpa with a movement speed of 280. While riding, your MP is gradually restored." gender="Common" race="Common" class="Common" />
+    <String id="1111565" name="Summon: Cheerful (MP)" tooltip="$H_S_GOODRestores MP.$COLOR_END$BRCheerful with a movement speed of 280. While riding, your MP is gradually restored." gender="Common" race="Common" class="Common" />
+    <String id="1111566" name="Summon: Blizzard (Vigor)" tooltip="$H_S_GOOD Summon: Blizzard (Vigor). Restores vigor.$COLOR_END$BRBlizzard with a movement speed of 280. While riding, your vigor is gradually restored." gender="Common" race="Common" class="Common" />
+    <String id="1111567" name="Summon: Christmas Kuma (Vigor)" tooltip="$H_S_GOOD Summon: Christmas Kuma (Vigor). Restores vigor.$COLOR_END$BRChristmas Kuma with a movement speed of 280. While riding, your vigor is gradually restored." gender="Common" race="Common" class="Common" />
+    <String id="1111568" name="Summon: Blizzard (Vigor)" tooltip="$H_S_GOOD Summon: Blizzard (Vigor). Restores vigor.$COLOR_END$BRBlizzard with a movement speed of 280. While riding, your vigor is gradually restored." gender="Common" race="Common" class="Common" />
     <String id="1111569" gender="Common" race="Common" class="Common" />
     <String id="1111651" name="Summon: Ember" tooltip="$H_S_GOODSpeed: 280; Effect: Stamina$COLOR_END$BRSummon Ember, the fiery struthio that replenishes your Stamina." gender="Common" race="Common" class="Common" />
     <String id="1111911" name="Summon: Shadow Steed" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a shadow steed to ride." gender="Common" race="Common" class="Common" />
@@ -1881,12 +1881,12 @@
     <String id="1701271" name="Summon: Snarl" tooltip="$H_S_GOODMovement Speed 280$COLOR_END$BRSummon a spirit wolf to ride." gender="Common" race="Common" class="Common" />
     <String id="1701272" name="Summon: Police car" tooltip="$H_S_GOODMovement Speed 280.$COLOR_END$BRPolice car with a movement speed of 280. " gender="Common" race="Common" class="Common" />
     <String id="1701273" name="Summon: Oriental dragon" tooltip="$H_S_GOODMovement Speed: 280.$COLOR_END$BRGolden dragon mount with a movement speed of 280." gender="Common" race="Common" class="Common" />
-    <String id="1701274" name="Summon: Snow Kumass" tooltip="$H_S_GOODSpeed: 280.$COLOR_END$BRSnow Kumass with a movement speed of 280." gender="Common" race="Common" class="Common" />
-    <String id="1701275" name="Summon: Copper Kumass" tooltip="$H_S_GOODSpeed: 280.$COLOR_END$BRCopper Kumass with a movement speed of 280." gender="Common" race="Common" class="Common" />
+    <String id="1701274" name="Summon: Snow Kuma" tooltip="$H_S_GOODSpeed: 280.$COLOR_END$BRSnow Kuma with a movement speed of 280." gender="Common" race="Common" class="Common" />
+    <String id="1701275" name="Summon: Copper Kuma" tooltip="$H_S_GOODSpeed: 280.$COLOR_END$BRCopper Kuma with a movement speed of 280." gender="Common" race="Common" class="Common" />
     <String id="1701276" name="Summon: Giant Snowman" tooltip="$H_S_GOODSpeed: 280.$COLOR_END$BRGiant Snowman with a movement speed of 280." gender="Common" race="Common" class="Common" />
-    <String id="1701277" name="Summon: New Year Kumass" tooltip="$H_S_GOODSpeed: 280.$COLOR_END$BRNew Year Kumass with a movement speed of 280." gender="Common" race="Common" class="Common" />
+    <String id="1701277" name="Summon: Festive Kuma" tooltip="$H_S_GOODSpeed: 280.$COLOR_END$BRFestive Kuma with a movement speed of 280." gender="Common" race="Common" class="Common" />
     <String id="1701278" name="" tooltip="" gender="Common" race="Common" class="Common" />
-    <String id="1701279" name="Summon: Giant Snowman Rudolph" tooltip="$H_S_GOODSpeed: 280.$COLOR_END$BRGiant Snowman Rudolph with a movement speed of 280." gender="Common" race="Common" class="Common" />
+    <String id="1701279" name="Summon: Giant Snowman Rudolf" tooltip="$H_S_GOODSpeed: 280.$COLOR_END$BRGiant Snowman Rudolf with a movement speed of 280." gender="Common" race="Common" class="Common" />
     <String id="1701280" name="" tooltip="" gender="Common" race="Common" class="Common" />
     <String id="1701281" name="" tooltip="" gender="Common" race="Common" class="Common" />
     <String id="1701282" name="" tooltip="" gender="Common" race="Common" class="Common" />
@@ -2064,7 +2064,7 @@
     <String id="2222701" name="Summon: Fabled Goldwing " tooltip="$H_S_GOODSpeed: 280; Effect: HP$COLOR_END$BRSummon the Fabled Goldwing to ride which regenerates your HP." gender="Common" race="Common" class="Common" />
     <String id="2222702" name="Summon: Golden oriental dragon (Stam.)" tooltip="$H_S_GOODRegenerates stamina$COLOR_END$BRGolden oriental dragon with a movement speed of 280. Gradually recovers Stamina during the ride." gender="Common" race="Common" class="Common" />
     <String id="2222703" name="Summon: Legendary Goldwing " tooltip="$H_S_GOODSpeed: 280; Effect: Stamina$COLOR_END$BRSummon the Legendary Goldwing to ride which regenerates your Stamina. " gender="Common" race="Common" class="Common" />
-    <String id="2402000" name="Roll" tooltip="Allows you to jump forward, evading attacks." gender="Common" race="Common" class="Berserker" />
+    <String id="2402000" name="Roll" tooltip="Allows you to leap forward, dodging attacks." gender="Common" race="Common" class="Berserker" />
     <String id="3333019" name="Summon Pet: Zero" tooltip="Summon your pet with the ability to [auto-loot]." gender="Common" race="Common" class="Common" />
     <String id="3333020" name="Summon Pet: Miss Katonic" tooltip="Summon your pet with the ability to [auto-loot]." gender="Common" race="Common" class="Common" />
     <String id="3333021" name="Summon Pet: Pinkie" tooltip="Summon your pet with the ability to [auto-loot]." gender="Common" race="Common" class="Common" />
@@ -2183,9 +2183,9 @@
     <String id="14000022" name="Summon: Brave Panda" tooltip="$H_S_GOODSpeed: 280; Effect: MP$COLOR_END$BRSummon a Brave Panda which replenishes your MP." gender="Common" race="Common" class="Common" />
     <String id="14000023" name="Summon: Tough Panda" tooltip="$H_S_GOODSpeed: 280; Effect: HP$COLOR_END$BRSummon a Tough Panda which replenishes your HP." gender="Common" race="Common" class="Common" />
     <String id="14000024" name="Summon: Loyal Panda" tooltip="$H_S_GOODSpeed: 280; Effect: Stamina$COLOR_END$BRSummon a Loyal Panda which replenishes your Stamina." gender="Common" race="Common" class="Common" />
-    <String id="14000025" name="Summon: Arctos" tooltip="$H_S_GOODRestores MP, HP, and vigor.$COLOR_END$BRArctos the Polar Bear with a movement speed of 280. While riding, your MP, HP, and vigor gradually recover." gender="Common" race="Common" class="Common" />
-    <String id="14000026" name="Summon: Ursa" tooltip="$H_S_GOODRestores MP, HP, and vigor.$COLOR_END$BRUrsa the Brown Bear with a movement speed of 280. While riding, your MP, HP, and vigor gradually recover." gender="Common" race="Common" class="Common" />
-    <String id="14000027" name="Summon: Mei-Mei" tooltip="$H_S_GOODRestores MP, HP, and vigor.$COLOR_END$BRMei-Mei the Panda with a movement speed of 280. While riding, your MP, HP, and vigor gradually recover." gender="Common" race="Common" class="Common" />
+    <String id="14000025" name="Summon: Arktos" tooltip="$H_S_GOODRestores MP, HP, and vigor.$COLOR_END$BRPolar Bear Arktos with a movement speed of 280. While riding, your MP, HP, and vigor are gradually restored." gender="Common" race="Common" class="Common" />
+    <String id="14000026" name="Summon: Ursa" tooltip="$H_S_GOODRestores MP, HP, and vigor.$COLOR_END$BRBrown Bear Ursa with a movement speed of 280. While riding, your MP, HP, and vigor are gradually restored." gender="Common" race="Common" class="Common" />
+    <String id="14000027" name="Summon: Mei-Mei" tooltip="$H_S_GOODRestores MP, HP, and vigor.$COLOR_END$BRPanda Mei-Mei with a movement speed of 280. While riding, your MP, HP, and vigor are gradually restored." gender="Common" race="Common" class="Common" />
     <String id="14000028" name="" tooltip="" gender="Common" race="Common" class="Common" />
     <String id="14000029" name="" tooltip="" gender="Common" race="Common" class="Common" />
     <String id="14000030" name="" tooltip="" gender="Common" race="Common" class="Common" />
@@ -2274,12 +2274,12 @@
     <String id="14100058" name="Summon: Tough Panda" tooltip="$H_S_GOODSpeed: 280; Effect: HP$COLOR_END$BRSummon a Tough Panda which replenishes your HP." gender="Common" race="Common" class="Common" />
     <String id="14100059" name="Summon: Loyal Panda" tooltip="$H_S_GOODSpeed: 280; Effect: Stamina$COLOR_END$BRSummon a Loyal Panda which replenishes your Stamina." gender="Common" race="Common" class="Common" />
     <String id="14100060" name="Summon: Loyal Panda" tooltip="$H_S_GOODSpeed: 280; Effect: Stamina$COLOR_END$BRSummon a Loyal Panda which replenishes your Stamina." gender="Common" race="Common" class="Common" />
-    <String id="14100061" name="Summon: Arctos" tooltip="$H_S_GOODRestores MP, HP, and vigor.$COLOR_END$BRArctos the Polar Bear with a movement speed of 280. While riding, your MP, HP, and vigor gradually recover." gender="Common" race="Common" class="Common" />
-    <String id="14100062" name="Summon: Arctos" tooltip="$H_S_GOODRestores MP, HP, and vigor.$COLOR_END$BRArctos the Polar Bear with a movement speed of 280. While riding, your MP, HP, and vigor gradually recover." gender="Common" race="Common" class="Common" />
-    <String id="14100063" name="Summon: Ursa" tooltip="$H_S_GOODRestores MP, HP, and vigor.$COLOR_END$BRUrsa the Brown Bear with a movement speed of 280. While riding, your MP, HP, and vigor gradually recover." gender="Common" race="Common" class="Common" />
-    <String id="14100064" name="Summon: Ursa" tooltip="$H_S_GOODRestores MP, HP, and vigor.$COLOR_END$BRUrsa the Brown Bear with a movement speed of 280. While riding, your MP, HP, and vigor gradually recover." gender="Common" race="Common" class="Common" />
-    <String id="14100065" name="Summon: Mei-Mei" tooltip="$H_S_GOODRestores MP, HP, and vigor.$COLOR_END$BRMei-Mei the Panda with a movement speed of 280. While riding, your MP, HP, and vigor gradually recover." gender="Common" race="Common" class="Common" />
-    <String id="14100066" name="Summon: Mei-Mei" tooltip="$H_S_GOODRestores MP, HP, and vigor.$COLOR_END$BRMei-Mei the Panda with a movement speed of 280. While riding, your MP, HP, and vigor gradually recover." gender="Common" race="Common" class="Common" />
+    <String id="14100061" name="Summon: Arktos" tooltip="$H_S_GOODRestores MP, HP, and vigor.$COLOR_END$BRPolar Bear Arktos with a movement speed of 280. While riding, your MP, HP, and vigor are gradually restored." gender="Common" race="Common" class="Common" />
+    <String id="14100062" name="Summon: Arktos" tooltip="$H_S_GOODRestores MP, HP, and vigor.$COLOR_END$BRPolar Bear Arktos with a movement speed of 280. While riding, your MP, HP, and vigor are gradually restored." gender="Common" race="Common" class="Common" />
+    <String id="14100063" name="Summon: Ursa" tooltip="$H_S_GOODRestores MP, HP, and vigor.$COLOR_END$BRBrown Bear Ursa with a movement speed of 280. While riding, your MP, HP, and vigor are gradually restored." gender="Common" race="Common" class="Common" />
+    <String id="14100064" name="Summon: Ursa" tooltip="$H_S_GOODRestores MP, HP, and vigor.$COLOR_END$BRBrown Bear Ursa with a movement speed of 280. While riding, your MP, HP, and vigor are gradually restored." gender="Common" race="Common" class="Common" />
+    <String id="14100065" name="Summon: Mei-Mei" tooltip="$H_S_GOODRestores MP, HP, and vigor.$COLOR_END$BRPanda Mei-Mei with a movement speed of 280. While riding, your MP, HP, and vigor are gradually restored." gender="Common" race="Common" class="Common" />
+    <String id="14100066" name="Summon: Mei-Mei" tooltip="$H_S_GOODRestores MP, HP, and vigor.$COLOR_END$BRPanda Mei-Mei with a movement speed of 280. While riding, your MP, HP, and vigor are gradually restored." gender="Common" race="Common" class="Common" />
     <String id="14100067" name="" tooltip="" gender="Common" race="Common" class="Common" />
     <String id="14100068" name="" tooltip="" gender="Common" race="Common" class="Common" />
     <String id="14100069" name="" tooltip="" gender="Common" race="Common" class="Common" />
@@ -2416,7 +2416,7 @@
     <String id="16000085" name="Summon: Harley (Stam.)" tooltip="$H_S_GOODRegenerates stamina$COLOR_END$BRHog mount Harley with a movement speed of 280. Gradually recovers Stamina during the ride." gender="Common" race="Common" class="Common" />
     <String id="16000086" name="Summon: Magical Flame" tooltip="$H_S_GOODRegenerates MP, HP and Stamina$COLOR_END$BROstrich Magical Flame with a movement speed of 310. During the ride your MP, HP and Stamina are gradually restored." gender="Common" race="Common" class="Common" />
     <String id="16000087" name="Summon: Nugget" tooltip="Summons a golden pig with the ability [automatic gold collection]." gender="Common" race="Common" class="Common" />
-    <String id="16000088" name="Summon: Truffle" tooltip="Summons a golden pig with 72 storage slots, with the ability [automatic gold collection]." gender="Common" race="Common" class="Common" />
+    <String id="16000088" name="Summon: Truffle" tooltip="Summons a golden pig with 72 storage slots and the ability [automatic gold collection]." gender="Common" race="Common" class="Common" />
     <String id="60193025" name="Kick" tooltip="Kick the rolling haybale to move it around the playing area. And by &quot;kick&quot; we mean whack it with a ball." gender="Common" race="Common" class="Common" />
     <String id="60193026" name="Pig Pheromone" tooltip="Throw pheromones at a pigling from $maxDistance or less to make it follow you." gender="Common" race="Common" class="Common" />
     <String id="60193027" name="Drum Beat" tooltip="Aim and hit a toad drum within $maxDistance to play it." gender="Common" race="Common" class="Common" />
@@ -2473,17 +2473,17 @@
     <String id="61900008" name="Transformation: Yellow Wintera Snowman" tooltip="You have transformed into a Wintera snowman. Unable to use skills." gender="Common" race="Common" class="Common" />
     <String id="61900009" name="Transformation: Blue Wintera Snowman" tooltip="You have transformed into a Wintera snowman. Unable to use skills." gender="Common" race="Common" class="Common" />
     <String id="61900010" name="Transformation: Red Wintera Snowman" tooltip="You have transformed into a Wintera snowman. Unable to use skills.  [3 times faster than the other Wintera snowmen.]" gender="Common" race="Common" class="Common" />
-    <String id="61900200" name="Summon: Blood Wyvern" tooltip="$H_S_GOODSpeed 320.$COLOR_END$BRRestores stamina." gender="Common" race="Common" class="Common" />
+    <String id="61900200" name="Summon: Bloody Wyvern" tooltip="$H_S_GOODSpeed 320.$COLOR_END$BRRestores stamina." gender="Common" race="Common" class="Common" />
     <String id="61900201" name="Mount 2 Wyvern" tooltip="$H_S_GOODSpeed 320.$COLOR_END$BRRestores stamina." gender="Common" race="Common" class="Common" />
     <String id="61900202" name="Mount 3 Wyvern" tooltip="$H_S_GOODSpeed 320.$COLOR_END$BRRestores stamina." gender="Common" race="Common" class="Common" />
     <String id="61900203" name="Summon: Golden Wyvern" tooltip="$H_S_GOODSpeed 320.$COLOR_END$BRRestores stamina." gender="Common" race="Common" class="Common" />
     <String id="61900204" name="Summon: Fire Phoenix" tooltip="$H_S_GOODSpeed 320.$COLOR_END$BRRestores stamina." gender="Common" race="Common" class="Common" />
     <String id="61900205" name="Mount 6 Ice Dragon" tooltip="$H_S_GOODSpeed 320.$COLOR_END$BRRestores stamina." gender="Common" race="Common" class="Common" />
-    <String id="61900206" name="Summon: Legendary Thunderlord" tooltip="$H_S_GOODSpeed 320.$COLOR_END$BRRestores stamina." gender="Common" race="Common" class="Common" />
+    <String id="61900206" name="Summon: Legendary Thunder Lord" tooltip="$H_S_GOODSpeed 320.$COLOR_END$BRRestores stamina." gender="Common" race="Common" class="Common" />
     <String id="61900207" name="Summon: Thunder Dragon" tooltip="$H_S_GOODSpeed 320.$COLOR_END$BRRestores stamina." gender="Common" race="Common" class="Common" />
-    <String id="61900208" name="Summon: Bright Thunder Dragon" tooltip="$H_S_GOODSpeed 320.$COLOR_END$BRRestores stamina." gender="Common" race="Common" class="Common" />
-    <String id="61900209" name="Summon: Brown Striped Kitten" tooltip="$H_S_GOODSpeed 320.$COLOR_END$BRRestores stamina." gender="Common" race="Common" class="Common" />
-    <String id="61900210" name="Summon: Gray Striped Kitten" tooltip="$H_S_GOODSpeed 320.$COLOR_END$BRRestores stamina." gender="Common" race="Common" class="Common" />
+    <String id="61900208" name="Summon: Bright Storm Dragon" tooltip="$H_S_GOODSpeed 320.$COLOR_END$BRRestores stamina." gender="Common" race="Common" class="Common" />
+    <String id="61900209" name="Summon: Brown Striped Cat" tooltip="$H_S_GOODSpeed 320.$COLOR_END$BRRestores stamina." gender="Common" race="Common" class="Common" />
+    <String id="61900210" name="Summon: Gray Striped Cat" tooltip="$H_S_GOODSpeed 320.$COLOR_END$BRRestores stamina." gender="Common" race="Common" class="Common" />
     <String id="61901000" name="Snow Barrage" tooltip="Hold and charge the skill button to prepare and throw a number of snowballs with increasing damage." gender="Common" race="Common" class="Common" />
     <String id="61902000" name="Set Us Up, Da Bomb" tooltip="Blow yourself up, dealing damage to objects and enemies around you." gender="Common" race="Common" class="Common" />
     <String id="61903023" name="Summon Pet: Carnivorous Plant" tooltip="Summon a dangerous pet plant with the ability to [auto-loot]." gender="Common" race="Common" class="Common" />
