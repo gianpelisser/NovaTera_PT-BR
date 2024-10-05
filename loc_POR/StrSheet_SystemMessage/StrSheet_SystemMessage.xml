@@ -1711,7 +1711,7 @@
     <String string="Deseja se conectar ao site da loja En Masse?" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_INGAMESTORE_CHARGE_ASK" displayChat="false" />
     <String string="Você não tem dinheiro suficiente para comprar esse item." delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_INGAMESTORE_CHARGE_PRICE_GUIDE" displayChat="false" />
     <String string="Comprar EMP" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_INGAMESTORE_CHARGE_TITLE" displayChat="false" />
-    <String string="http://novaverso.online" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_INGAMESTORE_CHARGE_URL" displayChat="false" />
+    <String string="https://tera.novaverso.online" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_INGAMESTORE_CHARGE_URL" displayChat="false" />
     <String string="Verificação de saldo..." delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_INGAMESTORE_CHECKING_BALANCE" displayChat="false" />
     <String string="Não é possível verificar o saldo." delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_INGAMESTORE_CHECKING_BALANCE_FAILED" displayChat="false" />
     <String string="Não foi possível verificar o saldo. Por favor, tente novamente mais tarde. [Código de erro:{ErrorText}]." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_ERROR_INFO" readableId="SMT_INGAMESTORE_CHECKING_BALANCE_FAILED_MESSAGE" chatChannel="203" displayChat="true" />
@@ -1743,7 +1743,7 @@
     <String string="Todos" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_INGAMESTORE_VIEWALL" displayChat="false" />
     <String string="Deseja se conectar aos itens premium?" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_INGAMESTORE_WEBSTORE_ASK" displayChat="false" />
     <String string="Itens Premium" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_INGAMESTORE_WEBSTORE_TITLE" displayChat="false" />
-    <String string="http://novaverso.online" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_INGAMESTORE_WEBSTORE_URL" displayChat="false" />
+    <String string="https://tera.novaverso.online" delayTime="0" effect="-1" sound="-1" style="SMS_DEFAULT" readableId="SMT_INGAMESTORE_WEBSTORE_URL" displayChat="false" />
     <String string="Você não está em posição de escalar isso." delayTime="0" effect="-1" sound="-1" style="SMS_CHAT_INFO" readableId="SMT_INVALID_CLIMBING_END_POS" chatChannel="201" displayChat="true" />
     <String string="Não é um cristal de aprimoramento." delayTime="0" effect="-1" sound="2002" style="SMS_CHAT_ERROR_INFO" readableId="SMT_INVALID_CUSTOMIZING_ITEM" chatChannel="203" displayChat="true" />
     <String string="Não é possível encantar isso." delayTime="0" effect="-1" sound="2003" style="SMS_CHAT_ERROR_INFO" readableId="SMT_INVALID_ENCHANT_ITEM" chatChannel="203" displayChat="true" />
